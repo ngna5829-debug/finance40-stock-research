@@ -1,0 +1,183 @@
+{
+  "scope": "旧QA/原章审计稿路径及明确派生研究引用的精确别名，指向同字节原文件；不新增原章/内部主题/独立作品，不改旧QA或原定义。",
+  "book_id": "P40",
+  "aliases": {
+    "ch01.md": {
+      "canonical_relative_file": "chapters/ch01.md",
+      "sha256": "cb47ed9ba7fe309dd482bae304f0b30b227f4ea7a8a5cf409dc0c3fc2b1f452f",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch01.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch01.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch02.md": {
+      "canonical_relative_file": "chapters/ch02.md",
+      "sha256": "bb5b6374100b01ebbf4521cc2b6314f77086924e96165157f98c301316c9b3db",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch02.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch02.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch03.md": {
+      "canonical_relative_file": "chapters/ch03.md",
+      "sha256": "df0e99504a7c40ec05830dd5e4cd8f53c3697aba8598124a2c2351134216f5a2",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch03.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch03.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch04.md": {
+      "canonical_relative_file": "chapters/ch04.md",
+      "sha256": "e8a167f441a25d7796c26290283e47a0a4bde4a23d007b71e1779a47752e5cd5",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch04.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch04.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch05.md": {
+      "canonical_relative_file": "chapters/ch05.md",
+      "sha256": "a91ee87bee0a43b112c257cf81f062a8ee87b33f1f2560451116bb7504e032aa",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch05.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch05.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch06.md": {
+      "canonical_relative_file": "chapters/ch06.md",
+      "sha256": "baf596c508127c2432ce5ed90b8c6679c4b69c54882e50f2c4f012fcb6d879d1",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch06.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch06.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch07.md": {
+      "canonical_relative_file": "chapters/ch07.md",
+      "sha256": "ff61be94294976320075e8ebfe98a2990442918639ddf1378bc1abced40d8618",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch07.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch07.md",
+      "same_authored_dossier_not_extra_chapter": true
+    },
+    "ch08.md": {
+      "canonical_relative_file": "chapters/ch08.md",
+      "sha256": "e61bfaea0980e4d0e12a22541ff516511cd47392bdaa80a7e3d503127a4350f0",
+      "old_stage_file": "work/book-experts-v5/root_team/P40/ch08.md",
+      "old_stage_absolute_file": "/Users/huang/Documents/Codex/2026-10-09/ba/work/book-experts-v5/root_team/P40/ch08.md",
+      "same_authored_dossier_not_extra_chapter": true
+    }
+  },
+  "exact_research_file_reference_aliases": [
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch01.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[0].source_file",
+      "canonical_relative_file": "source-chapters/ch01.txt",
+      "sha256": "3595da84bc5f6c67674a317fe89f76218d6991e29c1ceb5b0da1c6afd9a0cc87"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch02.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[1].source_file",
+      "canonical_relative_file": "source-chapters/ch02.txt",
+      "sha256": "0a10ecc7943f567027c546a47c4af5106213497374af9b13968b49bb5b185703"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch03.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[2].source_file",
+      "canonical_relative_file": "source-chapters/ch03.txt",
+      "sha256": "bdd693a1208af7b51591ef2ff819fafee4a9f35b96700be532886fb1e83cd648"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch04.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[3].source_file",
+      "canonical_relative_file": "source-chapters/ch04.txt",
+      "sha256": "566c5a4599e26dca902d4f794b44b6a0226d3393e22ac0f9c3691b4323379e22"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch05.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[4].source_file",
+      "canonical_relative_file": "source-chapters/ch05.txt",
+      "sha256": "7c09cf1dad22d86fb3cf344e1b3c835dc83474de95a4c42d59795f2d49f07bcc"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch06.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[5].source_file",
+      "canonical_relative_file": "source-chapters/ch06.txt",
+      "sha256": "519288afa1121f3acedd6758f2c06c98cc2b9dfa1cab2fca24500df578e4b4b3"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch07.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[6].source_file",
+      "canonical_relative_file": "source-chapters/ch07.txt",
+      "sha256": "ddfad9c87d6fb722d61d737d29d76a7cab7f390a29b0f8a6c86c2ef8d35b0e1a"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/source-chapters/ch08.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".chapters[7].source_file",
+      "canonical_relative_file": "source-chapters/ch08.txt",
+      "sha256": "aa56af2983dbef38f96c6cee00b3962f9973f67e2112036e70459de82c92abfe"
+    },
+    {
+      "original_reference": "work/book-experts-v5/root_team/P40/front-matter.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/source-plan.json",
+      "field": ".front_matter_file",
+      "canonical_relative_file": "front-matter.txt",
+      "sha256": "a71f99a873bbeb07473756b4f47ffb410c059410a5a33367b31b5d40a5996c85"
+    },
+    {
+      "original_reference": "ch01.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[0].source_file",
+      "canonical_relative_file": "source-chapters/ch01.txt",
+      "sha256": "3595da84bc5f6c67674a317fe89f76218d6991e29c1ceb5b0da1c6afd9a0cc87"
+    },
+    {
+      "original_reference": "ch02.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[1].source_file",
+      "canonical_relative_file": "source-chapters/ch02.txt",
+      "sha256": "0a10ecc7943f567027c546a47c4af5106213497374af9b13968b49bb5b185703"
+    },
+    {
+      "original_reference": "ch03.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[2].source_file",
+      "canonical_relative_file": "source-chapters/ch03.txt",
+      "sha256": "bdd693a1208af7b51591ef2ff819fafee4a9f35b96700be532886fb1e83cd648"
+    },
+    {
+      "original_reference": "ch04.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[3].source_file",
+      "canonical_relative_file": "source-chapters/ch04.txt",
+      "sha256": "566c5a4599e26dca902d4f794b44b6a0226d3393e22ac0f9c3691b4323379e22"
+    },
+    {
+      "original_reference": "ch05.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[4].source_file",
+      "canonical_relative_file": "source-chapters/ch05.txt",
+      "sha256": "7c09cf1dad22d86fb3cf344e1b3c835dc83474de95a4c42d59795f2d49f07bcc"
+    },
+    {
+      "original_reference": "ch06.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[5].source_file",
+      "canonical_relative_file": "source-chapters/ch06.txt",
+      "sha256": "519288afa1121f3acedd6758f2c06c98cc2b9dfa1cab2fca24500df578e4b4b3"
+    },
+    {
+      "original_reference": "ch07.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[6].source_file",
+      "canonical_relative_file": "source-chapters/ch07.txt",
+      "sha256": "ddfad9c87d6fb722d61d737d29d76a7cab7f390a29b0f8a6c86c2ef8d35b0e1a"
+    },
+    {
+      "original_reference": "ch08.txt",
+      "referencing_document": "work/book-experts-v5/root_team/P40/reading-audit.json",
+      "field": ".chapters[7].source_file",
+      "canonical_relative_file": "source-chapters/ch08.txt",
+      "sha256": "aa56af2983dbef38f96c6cee00b3962f9973f67e2112036e70459de82c92abfe"
+    }
+  ]
+}

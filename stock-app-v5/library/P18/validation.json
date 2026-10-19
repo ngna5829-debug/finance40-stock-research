@@ -1,0 +1,41 @@
+{
+  "book_id": "P18",
+  "type": "mechanical_coverage_and_integrity_validation_not_independent_semantic_QA",
+  "status": "mechanical_pass_with_separate_semantic_peer_QA_passed_with_source_limits",
+  "checks": {
+    "25_unique_original_chapters": true,
+    "25_main_sources_and_notes_read": true,
+    "597_notes_read": true,
+    "each_body_at_least_2000_han": true,
+    "body_total_at_least_20000_han": true,
+    "front_index_license_read": true,
+    "full_text_sha256_unchanged": true,
+    "original_scan_sha256_unchanged": true,
+    "original_scan_652_pages": true,
+    "49_rules_have_original_chapter_page_locators": true,
+    "all_rule_HTML_page_anchors_exist": true,
+    "one_book_one_expert": true,
+    "current_stock_decision_disabled": true,
+    "live_and_backtest_not_claimed": true,
+    "probability_not_calibrated_or_claimed": true,
+    "scan_all_glyph_claim_disabled": true,
+    "separate_independent_semantic_QA_passed_with_source_limits": true,
+    "all189_exact_rule_spans_match_original_raw_CRLF_coordinates": true
+  },
+  "check_count": 18,
+  "body_han_total": 72881,
+  "minimum_chapter_body_han": 2108,
+  "rule_count": 49,
+  "footnotes_read": 597,
+  "expert_sha256": "e45917715296788e61705e2ad222be8b930b7393d5604772161b08008680fc78",
+  "audit_sha256": "7652787fd9a044079602fd0f786e016f34b12e51ba75a945ba600e6de78a2fdd",
+  "artifact_sha256": {
+    "章节深读.md": "5105b0272261095991a82e3ec45bb7d348bab76d84de430e4f0ff91b89b31ed8",
+    "专家定义.json": "e45917715296788e61705e2ad222be8b930b7393d5604772161b08008680fc78",
+    "专家说明.md": "937daf6c7c40769e7344d1f3f6a91b447585115711a51196c89f064300c4796b",
+    "全书综合与附录.md": "71d82f81128e4826f1ef956e710089f9cffcad57b91a56a3c11ef58c9e765db2"
+  },
+  "validated_utc": "2026-10-13T00:16:04.068244+00:00",
+  "independent_qa_status": "passed_with_source_limits",
+  "final_qualified": true
+}

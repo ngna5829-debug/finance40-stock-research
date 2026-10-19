@@ -1,0 +1,56 @@
+{
+  "book_id": "P38",
+  "chapter": 9,
+  "source_chars": 42803,
+  "source_sha256": "2dc954ea2a8c18810d8ec555f555eda30b05509f4c0e7d4468eaeafc8169b44a",
+  "printed_pages": [
+    263,
+    282
+  ],
+  "pdf_pages_one_based": [
+    278,
+    297
+  ],
+  "textread_actual_ranges": [
+    [
+      0,
+      22500
+    ],
+    [
+      22400,
+      42803
+    ]
+  ],
+  "all2sections_2notes_interview_summary_terms_CFA_7MC_3review_9problems_4videoquestiontexts_fullread": true,
+  "all20pagecontacts_all7figures_all15tables_allformulaimages_seen": true,
+  "visual_files": [
+    "ch09-figures-1.jpg",
+    "ch09-figures-2.jpg",
+    "ch09-figures-3.jpg",
+    "ch09-figures-4.jpg",
+    "ch09-figures-5.jpg",
+    "ch09-critical-280.jpg",
+    "ch09-critical-281.jpg",
+    "ch09-critical-282.jpg",
+    "ch09-critical-283.jpg",
+    "ch09-critical-284.jpg",
+    "ch09-critical-285.jpg",
+    "ch09-critical-290.jpg",
+    "ch09-critical-292.jpg",
+    "ch09-Excel-cashmatrix.jpg"
+  ],
+  "literal_every_pdf_glyph_proofread": false,
+  "actualTI_Excel_run": false,
+  "linkedmanual_videos_workbookfullread": false,
+  "arithmetic": "ch09-table-arithmetic.json",
+  "issues": "ch09-source-issues.json",
+  "body_han": 2801,
+  "summary_sha256": "b10d43f8ec7159ec38e0a930e5f0a04348f272b28bc94fcf8c46c3cc7218fc39",
+  "semantic_fullchapter_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "b10d43f8ec7159ec38e0a930e5f0a04348f272b28bc94fcf8c46c3cc7218fc39",
+  "summary_body_han": 2801,
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

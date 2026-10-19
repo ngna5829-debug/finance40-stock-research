@@ -1,0 +1,38 @@
+{
+  "book_id": "P11",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "issues": [
+    {
+      "source_lines": [
+        1471,
+        1486
+      ],
+      "type": "turnover_tax_illustration_not_exact_exponential",
+      "author_yearly_half_fall_per100_turnovers_pct": 0.5,
+      "author_monthly_half_fall_daily_fraction": 0.016666666666666666,
+      "strict_equal_time_geometric_half_fall_per100_pct": 0.6907504562964073,
+      "strict_half_fall_per30days_pct": 2.2840031565754093,
+      "resolution": "原按整段减值摊周转的说明，不直接当等间隔逐次复利精值；实际交易额、平均持币和日数基数需明示，不擅改原数"
+    },
+    {
+      "source_lines": [
+        2026,
+        2048
+      ],
+      "type": "France_provisional_budget_rough_model",
+      "debt_service_tax_receipts_ratio": 0.782608695652174,
+      "needed_tax_receipts_increase": 0.30434782608695654,
+      "resolution": "服务18、收入23、另支12粗估，原30%增可理解近似；明确排外债、养老金及额外重建，不能说完整财政可承受度已核"
+    },
+    {
+      "source_lines": [
+        1517,
+        1577
+      ],
+      "type": "cross_table_units_and_sources",
+      "resolution": "德国金值十亿，奥俄百万；俄1923来源Gosplan此前另所，字母注已读，各粗数未原底账全核"
+    }
+  ]
+}

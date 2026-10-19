@@ -1,0 +1,308 @@
+{
+  "book_id": "P34",
+  "PDF_pages": 118,
+  "all_lowOCR_pages_classified": true,
+  "lowOCR_threshold_characters": 100,
+  "additional_library_page": 116,
+  "physical_page_classifications": [
+    {
+      "PDF_page": 1,
+      "classification": "front_cover_library_barcode",
+      "observation": "UC-NRLF barcode label; digits not used as book evidence.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 2,
+      "classification": "decorated_library_endpaper",
+      "observation": "University/library patterned seals; PDF117 YA02562 visible, not author text.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 3,
+      "classification": "decorated_library_endpaper",
+      "observation": "University/library patterned seals; PDF117 YA02562 visible, not author text.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 4,
+      "classification": "plain_endpaper",
+      "observation": "No author text visible.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 9,
+      "classification": "part_title",
+      "observation": "IIntroductory; read on contact image, five parts not five books.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 10,
+      "classification": "digitization_notice_noOCR",
+      "observation": "Digitized by Internet Archive in2007 with Microsoft funding and source item URL; read contact image, not author1922 text.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 16,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 24,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 25,
+      "classification": "part_title",
+      "observation": "IIWhatAndWhenBuySell; read on contact image, five parts not five books.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 26,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 36,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 42,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-1.jpg"
+    },
+    {
+      "PDF_page": 43,
+      "classification": "part_title",
+      "observation": "IIIInfluences; read on contact image, five parts not five books.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 44,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 50,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 63,
+      "classification": "part_title",
+      "observation": "IVTopics; read on contact image, five parts not five books.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 64,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 68,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 72,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 82,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 83,
+      "classification": "part_title",
+      "observation": "VConclusion; read on contact image, five parts not five books.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 84,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 94,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 98,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-2.jpg"
+    },
+    {
+      "PDF_page": 106,
+      "classification": "blank_library_perforation",
+      "observation": "Library perforation and reverse showthrough, no omitted chapter.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    },
+    {
+      "PDF_page": 114,
+      "classification": "blank_with_possible_reverse_showthrough",
+      "observation": "No new author text visible; not treated as an OCR omission.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    },
+    {
+      "PDF_page": 115,
+      "classification": "plain_endpaper",
+      "observation": "No author text visible.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    },
+    {
+      "PDF_page": 116,
+      "classification": "library_loan_slip_overlay",
+      "observation": "Visible 14DAYUSE/LOANDEPT and UCBerkeley circulation/homeuse/recall7days/renew4days text read at1600px; covered older dates cannot be recovered, outside author正文.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    },
+    {
+      "PDF_page": 117,
+      "classification": "decorated_library_endpaper",
+      "observation": "University/library patterned seals; PDF117 YA02562 visible, not author text.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    },
+    {
+      "PDF_page": 118,
+      "classification": "back_cover",
+      "observation": "Binding surface, no author text.",
+      "visually_checked": true,
+      "contact_sheet": "source-review/physical-contact-3.jpg"
+    }
+  ],
+  "contact_sheets_actually_viewed": [
+    1,
+    2,
+    3
+  ],
+  "selected_individual_pages_actually_viewed": [
+    5,
+    6,
+    11,
+    12,
+    15,
+    33,
+    34,
+    35,
+    36,
+    79,
+    80,
+    81,
+    89,
+    103,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    116
+  ],
+  "selected_purpose": {
+    "5": "1922Aprilwritten/Decemberpublished",
+    "6": "originalreproductionwaiver",
+    "15": "LibertyBondstrongclaim/unknownhorizon",
+    "33/34/35": "wholech7andApr25marginonlyfootnote",
+    "79/80/81": "wholech21stopdistancesexception",
+    "89": "unverified80percentclaim",
+    "103": "historicalcommissionarithmetic",
+    "107/108": "ch26timepointandunsoldfootnote2",
+    "109": "all16rowsand48numericcellsvisuallyread",
+    "110/111/112/113": "financing/compounding/servicepromotionandending",
+    "116": "visiblelibraryattachment"
+  },
+  "table_PDF109_OCR_error": "PDF OCR reads secondrowprofit6, original image shows5 andPG5; source rawOCR preserved, calculations use confirmed5",
+  "original_every_scan_glyph_proofread": false,
+  "unreadable_non_author_limits": [
+    "PDF116olderloantext/datescoveredbyoverlappinglabels; notauthorcontent",
+    "Handwrittenmarginalnotesinselectedpagesnotfullydeciphered; notascribedtoauthor"
+  ],
+  "main_author_complete_pagination_observed": true,
+  "scope": "alloriginaldigitalauthorchaptersread; selected originals and all lowOCR physical pages examined, not all scanned lines visuallycollated",
+  "independent_peer_actual_original_pages": [
+    5,
+    6,
+    23,
+    34,
+    41,
+    55,
+    56,
+    66,
+    74,
+    77,
+    78,
+    80,
+    81,
+    89,
+    95,
+    96,
+    97,
+    108,
+    109,
+    110
+  ],
+  "independent_peer_all_lowOCR_physical_pages_rechecked": false,
+  "independent_peer_all4_unmatched_contexts_visual_resolution": {
+    "P34-C14-P006": [
+      55,
+      56
+    ],
+    "P34-C24-P008": [
+      96
+    ],
+    "P34-C24-P011": [
+      96
+    ],
+    "P34-C24-P012": [
+      96,
+      97
+    ]
+  }
+}

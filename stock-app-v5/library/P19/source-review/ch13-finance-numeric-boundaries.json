@@ -1,0 +1,19 @@
+{
+  "book_id": "P19",
+  "chapter": 13,
+  "example_source_printed_page": 216,
+  "example_source_pdf_page": 228,
+  "independent_normalization": {
+    "original_stock_value": 100,
+    "original_debt": 66.66666666666667,
+    "quantity_fraction_sold": 0.3333333333333333,
+    "price_multiplier": 1.5,
+    "sale_proceeds": 50,
+    "remaining_debt": 16.666666666666668,
+    "remaining_debt_fraction_of_initial": 0.25
+  },
+  "example_arithmetic_consistent": true,
+  "scope": "Assumedsaleallreceiptsrepaydebt; excludesfees/tax/newrestocking. Not marketreturn or realcompany.",
+  "Treasury_bill_without_loss_claim": "Authorpaper217 assumesconvenientdiscounting; modernboundary explicitlyrefutesunconditionalnodisposal-lossguarantee",
+  "government_delay_not_net_credit_reduction": "Paper211 shiftsborrowingto contractor; fullcashflowsneeded"
+}

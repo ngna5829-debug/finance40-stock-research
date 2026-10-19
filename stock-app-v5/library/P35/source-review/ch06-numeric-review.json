@@ -1,0 +1,41 @@
+{
+  "chapter": 6,
+  "wholebook_complete": false,
+  "source_table_chapter": 3,
+  "independent_exact_pence_calculations": {
+    "cashPlusCallPlusInvestment": [
+      17931849,
+      3,
+      2
+    ],
+    "callPlusCompositeLoans": [
+      21893224,
+      17,
+      7
+    ],
+    "plusDiscountedBills": [
+      28705095,
+      11,
+      3
+    ],
+    "depositTotalMinusThoseAssets": [
+      8878141,
+      17,
+      8
+    ],
+    "cashPerArithmeticResidue": 0.6754417548328098,
+    "cashAndInvestmentsPerArithmeticResidue": 1.380623678382192
+  },
+  "author_approximate_pounds": {
+    "firstClassWealth": 18000000,
+    "firstClassPerAllDeposits": "nearly50percent",
+    "callPlusOtherLoans": 22000000,
+    "plusBills": 28700000,
+    "depositsApprox": 37600000,
+    "pureResidueApprox": 9000000,
+    "cash": 6000000,
+    "cashPerPure": "over60percent"
+  },
+  "critical_assumption": "Author subtracts loan-asset groups from depositliabilities toidentifypure deposits; book has not proven origin/holder/transfer chain. This independent arithmetic residue is NOT verifiedpure-deposit measure and NOT regulatorysafetyratio.",
+  "safety_or_actual_bank_verified": false
+}

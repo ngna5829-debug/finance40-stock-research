@@ -1,0 +1,38 @@
+{
+  "book_id": "P11",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "issues": [
+    {
+      "type": "Consols_1921_rough_index_basis_unresolved",
+      "source_lines": [
+        603,
+        623
+      ],
+      "official_HTML_agrees_with_TXT": true,
+      "income_power_index": 53,
+      "money_capital_index": 56,
+      "capital_power_index": 34,
+      "same_basis_product_if_applicable": 29.68,
+      "resolution": "若同一时点同定额购买力口径应约29.68，与34不吻；表称粗估且可能均值/来源口径不同，未原刻核，不改56或34，不混列精准实验"
+    },
+    {
+      "type": "footnote_6_wording_unresolved",
+      "source_lines": [
+        801,
+        808
+      ],
+      "original_phrase": "prospective high real rate of interest",
+      "resolution": "借方优势上下文为真实利息负，与high措辞不能无解释直接同义；不擅改形容词。原概率/非确定性论点保留"
+    },
+    {
+      "type": "historical_table_scope",
+      "source_lines": [
+        299,
+        326
+      ],
+      "resolution": "批发指数各国源不同，1923仅前半年，印度1913缺值，不当当前CPI或齐期行情"
+    }
+  ]
+}

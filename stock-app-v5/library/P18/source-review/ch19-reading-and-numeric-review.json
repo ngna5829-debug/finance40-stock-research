@@ -1,0 +1,186 @@
+{
+  "book_id": "P18",
+  "chapter": 19,
+  "main_read_batches": [
+    [
+      9454,
+      9703
+    ],
+    [
+      9704,
+      9953
+    ],
+    [
+      9954,
+      10203
+    ],
+    [
+      10204,
+      10453
+    ],
+    [
+      10454,
+      10751
+    ]
+  ],
+  "main_argument_end_line": 10743,
+  "part_title_lines_not_chapter_argument": [
+    10747,
+    10751
+  ],
+  "footnotes_semantic_read": [
+    373,
+    374,
+    375,
+    376,
+    377,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    411,
+    412,
+    413,
+    414,
+    415,
+    416,
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437,
+    438,
+    439,
+    440,
+    441,
+    442,
+    443,
+    444,
+    445,
+    446,
+    447,
+    448,
+    449,
+    450,
+    451,
+    452,
+    453
+  ],
+  "footnotes_batches": [
+    [
+      373,
+      413
+    ],
+    [
+      414,
+      453
+    ]
+  ],
+  "visual_pages": [
+    411,
+    412
+  ],
+  "visual_printed_pages": [
+    379,
+    380
+  ],
+  "all_chapter_scan_glyphs_verified": false,
+  "critical_source_limits": {
+    "note406": "Indirect NYC approach declared inconclusive pending comprehensive direct figures; indirect out-of-town remittance via another NYC bank acknowledged.",
+    "note411": "Author acknowledges possible important facts missing and later revision.",
+    "note447": "Anonymized constant-scaled figures; special low-activity easy-money month; author explicitly says sample does not prove thesis."
+  },
+  "independent_numeric_reviews": {
+    "note447": {
+      "stocks_bonds_figure": 1644630,
+      "deposits": 1475502,
+      "average_bank_borrowing": 952000,
+      "original_table_says": "bought",
+      "original_prose_says": "sold",
+      "scan_confirms_wording": true,
+      "source_line_range": [
+        20776,
+        20808
+      ],
+      "source_printed_page": 379,
+      "shortfall_divided_by_security_amount_percent": "10.28365042593166852118713632",
+      "shortfall_divided_by_deposits_percent": "11.46240398183126827344185233",
+      "borrowed_average_divided_by_deposits_percent": "64.52041406924558557019915934",
+      "prose_claims": {
+        "shortfall_percent": 11.5,
+        "average_borrowing": "over two-thirds of total deposits"
+      },
+      "resolution": "No silent correction; buy/sell coverage ambiguous, shortfall denominator differs, average borrowing ratio below two-thirds. Not calibrated evidence."
+    },
+    "domestic_exchanges1890": {
+      "source_lines": [
+        10069,
+        10075
+      ],
+      "displayed_items_millions": [
+        7284,
+        1084,
+        188,
+        2537,
+        464
+      ],
+      "sum_items_millions": 11557,
+      "printed_total_millions": 11550,
+      "difference_millions": 7,
+      "possible_rounding_or_source_difference_not_resolved": true
+    },
+    "normality_percentage": {
+      "main_claim": "NYC 28 percent below normal",
+      "calculation_multiplier": 1.28,
+      "literal_below_normal_inverse_multiplier": "1.388888888888888888888888889",
+      "boundary": "Could be denominator shorthand; inspect actual source ratios before exact adjustment. No automatic replacement of source."
+    }
+  },
+  "all_externally_cited_books_full_read": false,
+  "current_stock_decision_enabled": false
+}

@@ -1,0 +1,424 @@
+{
+  "all7figures": {
+    "201_cover": true,
+    "202_BRLperUSD_graph2010to2021_axes0to6_andrawunlabelledpoints_read_notinvent_series": true,
+    "203_JPYperUSD_graph2011to2021_axes70to130_andrawunlabelledpoints_read_notinvent_series": true,
+    "204_call_holder_original_axes_KWN/SpotRate_kinks1200_1225_1250_minus50_zero50": true,
+    "205_call_writer_original_axes_andmirror": true,
+    "206_put_holder_original_axes_INR/SpotRate_kink75_break70_min_minus5_max70_atzero": true,
+    "207_put_writer_original_axes_INR_mirror_max5_minminus70_atzero": true
+  },
+  "all5tables": {
+    "201_all6originaldatepriceUSDperlb_rows": [
+      [
+        "2000-01-01",
+        1.09
+      ],
+      [
+        "2004-01-01",
+        0.74
+      ],
+      [
+        "2008-01-01",
+        1.39
+      ],
+      [
+        "2012-01-01",
+        2.41
+      ],
+      [
+        "2016-01-01",
+        1.46
+      ],
+      [
+        "2020-01-01",
+        1.5
+      ]
+    ],
+    "202_all4option_party_right_obligation_maxprofit_maxloss_rows": [
+      [
+        "callbuyer",
+        "buyright",
+        "noexerciseobligation",
+        "unlimited",
+        "premium"
+      ],
+      [
+        "callseller",
+        "noright",
+        "sellobligation",
+        "premium",
+        "unlimited"
+      ],
+      [
+        "putbuyer",
+        "sellright",
+        "noexerciseobligation",
+        "strike-minus-premium",
+        "premium"
+      ],
+      [
+        "putseller",
+        "noright",
+        "buyobligation",
+        "premium",
+        "strike-minus-premium"
+      ]
+    ],
+    "203_all5calculatorsteps": {
+      "n": 40,
+      "semiannualyieldpct": 2.5,
+      "coupon200": 200,
+      "face10000": 10000,
+      "originalPV": -8744.86,
+      "independentPrice": 8744.86124739563
+    },
+    "204_all5calculatorsteps": {
+      "n": 40,
+      "semiannualyieldpct": 4,
+      "coupon200": 200,
+      "face10000": 10000,
+      "originalPV": -6041.45,
+      "independentPrice": 6041.445223314702
+    },
+    "205_all_original_rows_alpha_beta": {
+      "rating": [
+        "AAA",
+        "BBB"
+      ],
+      "availableFloat": [
+        "L+.25pct",
+        "L+.75pct"
+      ],
+      "availableFixed": [
+        5,
+        6.75
+      ],
+      "chosen": [
+        "fixed5",
+        "floatL+.75"
+      ],
+      "swapheading": [
+        "N/A",
+        "N/A"
+      ],
+      "BetaPaysAlphaFixed": [
+        5.5,
+        -5.5
+      ],
+      "AlphaPaysBetaFloat": [
+        "-L",
+        "+L"
+      ],
+      "paymentreceipts": [
+        "-5+5.5-L",
+        "-(L+.75)-5.5+L"
+      ],
+      "netreceipt": [
+        ".5-L",
+        -6.25
+      ],
+      "benefitpctpoints": [
+        0.75,
+        0.5
+      ]
+    }
+  },
+  "fuel_volume4b_priceincrease012_independent480million_vsapprox500": 480000000.0,
+  "Starbuckswordcountsbookhistorical179coffee99risk82risk2019_notexternallyverified_counts": true,
+  "exchange_math": {
+    "BRLperUSD": 5.4377,
+    "exactUSDperBRL": 0.18390128179193407,
+    "printedroundedUSDperBRL": 0.1839,
+    "coffee_invoiceBRL": 7000000,
+    "coffee_exactUSDprice": 1287308.9725435385,
+    "coffee_roundedquoteUSD": 1287300.0,
+    "hypUSDperBRL018_price": 1260000,
+    "hypUSDperBRL020_originalwrong_price": 1000400,
+    "hypUSDperBRL020_correct_price": 1400000,
+    "dollar_appreciationearly4to5_4377_percent": 35.94250000000001,
+    "real_depreciation_vsUSD_differentdenominator_percent": -26.43948728322637,
+    "JPYm50_at100": 500000,
+    "JPYm50_at120_exact": 416666.6666666667,
+    "JPYm50_at120_usingrounded0083_book415k": 415000,
+    "JPYm50_shortfall_exact": 83333.33333333331,
+    "JPYm50_shortfall_originalround": 85000,
+    "CostaRica_colon120million_at500_600": [
+      240000,
+      200000
+    ],
+    "translation_only_simple_land_oneasset_notcompletefunctional_currencyrules": true,
+    "naturalhedge_noamounts_dates_given_exactoffset_unproven": true,
+    "KRW_contract125million_need200million": {
+      "one_contract_gap": 75000000,
+      "two_contract_overhedge": 50000000,
+      "standardcontract_size_dates_2022notcurrentverified": true
+    },
+    "hotel3nights200": 600,
+    "KWN_original_nonstandard_correctKRW_primaryECB": "https://data.ecb.europa.eu/data/concepts/south-korean-won",
+    "call_company_bill100k_spot1100_cost110million": 110000000,
+    "put_company_USD200k_spot75_INR15million": 15000000
+  },
+  "option_math": {
+    "call_k1200_p50_perUSD_allscenarios": [
+      [
+        0,
+        -50,
+        50,
+        50
+      ],
+      [
+        1100,
+        -50,
+        50,
+        1150
+      ],
+      [
+        1150,
+        -50,
+        50,
+        1200
+      ],
+      [
+        1200,
+        -50,
+        50,
+        1250
+      ],
+      [
+        1225,
+        -25,
+        25,
+        1250
+      ],
+      [
+        1250,
+        0,
+        0,
+        1250
+      ],
+      [
+        1300,
+        50,
+        -50,
+        1250
+      ],
+      [
+        1500,
+        250,
+        -250,
+        1250
+      ]
+    ],
+    "call_holder_maxloss50/breakeven1250/notexercise1200_ifatexpiry": true,
+    "call_total_premium_for100kUSD": 5000000,
+    "call_total_hedged_maxcost_for100kUSD_ignorepremium_timevalue": 125000000,
+    "call_prose_writer_sellwon_vsactualUSD_wrong": true,
+    "put_k75_p5_perUSD_allscenarios": [
+      [
+        0,
+        70,
+        -70,
+        70
+      ],
+      [
+        50,
+        20,
+        -20,
+        70
+      ],
+      [
+        65,
+        5,
+        -5,
+        70
+      ],
+      [
+        70,
+        0,
+        0,
+        70
+      ],
+      [
+        72,
+        -2,
+        2,
+        70
+      ],
+      [
+        75,
+        -5,
+        5,
+        70
+      ],
+      [
+        80,
+        -5,
+        5,
+        75
+      ],
+      [
+        100,
+        -5,
+        5,
+        95
+      ]
+    ],
+    "put_total_premium_USD200k": 1000000,
+    "put_total_hedged_floor_USD200k_ignoretimevalue": 14000000,
+    "sourcepayoffchartsactuallyprofit_afterpremium_notintrinsicpayoff": true,
+    "payoffbuyer_writer_sum0_excludingfees_taxes_funding": true,
+    "nakedoptions_returnlimits_notcompletehedgedportfolio": true,
+    "review4_5_givenMXN20perUSD_premiumMXN2_but_saysbuypesos_dimensionconflict": true,
+    "review4_5_ifUSDcall_interpretation_notliteralMXNcall": [
+      [
+        0,
+        -2,
+        2
+      ],
+      [
+        10,
+        -2,
+        2
+      ],
+      [
+        18,
+        -2,
+        2
+      ],
+      [
+        20,
+        -2,
+        2
+      ],
+      [
+        21,
+        -1,
+        1
+      ],
+      [
+        22,
+        0,
+        0
+      ],
+      [
+        25,
+        3,
+        -3
+      ],
+      [
+        30,
+        8,
+        -8
+      ]
+    ],
+    "true_call_on_peso_strike_USD_perMXN_ifquote20reciprocal": 0.05,
+    "true_call_premium_units_exchange_at_payment_not_given_no_uniqueprofitplot": true
+  },
+  "interest_math": {
+    "bill1000_year10_PV_at5and6": [
+      613.9132535407591,
+      558.3947769151179
+    ],
+    "bill_drop_percent": 9.043374826237605,
+    "yield5to6_delta1pp_not1pctrelative": true,
+    "coupon5_face1000_year5_pricesYield5_6": [
+      1000.0000000000008,
+      957.3489858161207
+    ],
+    "coupon5_year5_drop_percent": 4.265101418388005,
+    "coupon5_year30_prices": [
+      1000.0000000000023,
+      861.6221816694024
+    ],
+    "coupon5_year30_drop_percent": 13.837781833059958,
+    "source_false_drop_short043_long138pct": true,
+    "coupon6_5year_pricesatYield5_6": [
+      1043.7603196548555,
+      1000
+    ],
+    "coupon6_5year_drop_percent": 4.192564023637716,
+    "coupon6_30year_prices": [
+      1154.5432824252905,
+      1000
+    ],
+    "coupon6_30year_drop_percent": 13.385663818566357,
+    "coupon4_face10k_20year_prices_at5and8": [
+      8744.86124739563,
+      6041.445223314702
+    ],
+    "duration_formula_notderived_in_original_notclaimfullcalculationfromtext": true,
+    "floating_cashpayment vsfixed_presentvalue_different_exposure": true
+  },
+  "swap_math": {
+    "same_notional_timing_daycount_benchmark_no_credit_cost_assumptions": true,
+    "AlphaNetPaid": "L-.005",
+    "BetaNetPaid": 0.0625,
+    "AlphaSavings_pp": 0.75,
+    "BetaSavings_pp": 0.5,
+    "totalSavings_pp": 1.25,
+    "rateScenarios": [
+      [
+        0,
+        -0.005,
+        0.0625,
+        0.0025,
+        0.0075
+      ],
+      [
+        0.0275,
+        0.0225,
+        0.0625,
+        0.03,
+        0.035
+      ],
+      [
+        0.03,
+        0.024999999999999998,
+        0.0625,
+        0.0325,
+        0.0375
+      ],
+      [
+        0.05,
+        0.045000000000000005,
+        0.0625,
+        0.052500000000000005,
+        0.0575
+      ],
+      [
+        0.08,
+        0.075,
+        0.0625,
+        0.0825,
+        0.0875
+      ]
+    ],
+    "originalLoansRemain_due_to_lenders_notlegallynovated": true,
+    "counterparty_collateral_termination_replacement_basisrisks_notestimated": true,
+    "LIBOR_bookhistorical_allceased2024_09_30_primaryFCA": "https://www.fca.org.uk/news/press-releases/end-libor",
+    "SOFRsecured_overnight_notdirect_unsecuredterm_LIBOR_equivalent": "https://www.newyorkfed.org/markets/reference-rates/sofr"
+  },
+  "all3problems": {
+    "1_EURinvoice": 35000,
+    "1_USDcost_atEURperUSD0900": 38888.88888888889,
+    "1_USDcost_atEURperUSD08599": 40702.40725665775,
+    "2_JPYcall115_p10_spot120": {
+      "exercise_at_expiry": true,
+      "intrinsic": 5,
+      "netprofit": -5,
+      "underlying_units_USDnotgiven_totalprofitunknown": true
+    },
+    "3_JPYput114_p10_spot120": {
+      "exercise": false,
+      "intrinsic": 0,
+      "netprofit": -10,
+      "total_quantity_unknown": true
+    }
+  },
+  "all13MC_6reviews_4videoquestiontexts_9notes_summary_terms_CFAread": true,
+  "MC9_10_KRW1100to1200_USDappreciation_KRWdepreciation": true,
+  "video2012GaryKellyhistorical_notcurrentCEO_claim": true,
+  "externalnewestStarbucksreport_fullvideos_notread": true,
+  "actualTI/excel_execution": false
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "issue": "PPI generic definition inverted",
+    "printed_pages": [
+      77,
+      96
+    ],
+    "author_meaning": "Prices producers pay for input materials",
+    "independent_verification": "BLS defines average changes in selling prices received by domestic producers; intermediate demand series not same as inverted overall definition",
+    "source": "https://www.bls.gov/ppi/overview.htm"
+  },
+  {
+    "issue": "2020 recession statement/table not updated despite July2021 footnote",
+    "printed_pages": [
+      85
+    ],
+    "author_meaning": "Current recession, February2020 peak, trough missing",
+    "independent_verification": "July19,2021 NBER identifies April2020 trough and May2020 expansion start; archive announcement vs event dates separately",
+    "source": "https://www.nber.org/news/business-cycle-dating-committee-announcement-july-19-2021"
+  },
+  {
+    "issue": "figure39 caption conflicts with actual curves/prose",
+    "printed_pages": [
+      75,
+      76
+    ],
+    "source": "original PDF91 visually read",
+    "author_meaning": "Supply caption; body states demand increased, supply unchanged",
+    "independent_verification": "Image indeed Demand1→Demand2 and singleSupply curve; quantity supplied increase"
+  },
+  {
+    "issue": "Figure313 real GDP title versus GDP series footnote and legend",
+    "printed_pages": [
+      83
+    ],
+    "author_meaning": "RealGDP quarterlychange",
+    "independent_verification": "Footnote refersGDP and legendGrossDomesticProduct; underlying array unverified. Cannot infer real-series provenance from title alone"
+  },
+  {
+    "issue": "Approximate real-interest subtraction printed as equality",
+    "printed_pages": [
+      87,
+      97
+    ],
+    "author_meaning": "nominal minus inflation; question10 explicitlyapproximately",
+    "independent_verification": "Exact ex-post gross ratio (1+i)/(1+inflation)-1; positive-difference sign remains for usual grossrates, magnitude differs"
+  },
+  {
+    "issue": "CPI population/basket/counts historic and simplified",
+    "printed_pages": [
+      77,
+      78,
+      79
+    ],
+    "author_meaning": "Typicalurbanfamilyfour;88%;4000/26000/87 samplecounts",
+    "independent_verification": "Not all-family restriction or immutable current data; retain chosen series metadata, weights and date"
+  },
+  {
+    "issue": "Historical means differ by including last unfinished expansion",
+    "printed_pages": [
+      85
+    ],
+    "author_meaning": "Contractionabout17/expansionabout41/cycleabout4.5years",
+    "independent_verification": "Recalculate exact dated cells and show selection; means never nextcycle timing guarantee"
+  },
+  {
+    "issue": "Nominal GDP doubling not real output doubling",
+    "printed_pages": [
+      81,
+      82
+    ],
+    "author_meaning": "Current-dollar GDP morethandoubles; followingparagraphseparatesprices",
+    "independent_verification": "Do not quote first sentence alone as real output result; figure chained2012realUSD vsnominalUSD units differ"
+  },
+  {
+    "issue": "Risk ranking/exchange-rate causal suggestions are illustrative",
+    "printed_pages": [
+      67,
+      88,
+      90
+    ],
+    "author_meaning": "Individual loans generallyriskier;European growth strengthensEUR;currency affects tourism",
+    "independent_verification": "Borrowerconditions/collateral/term,relativepolicy and companycurrencyhedging unknown; cannot universalize"
+  },
+  {
+    "issue": "External activities not evidence of completed empirical exercise",
+    "printed_pages": [
+      98,
+      99
+    ],
+    "author_meaning": "Video/FRED/unemployment/transpandemicresearch assignments",
+    "independent_verification": "All problem text read; external videos and requested data work not completed by this chapter reading"
+  }
+]

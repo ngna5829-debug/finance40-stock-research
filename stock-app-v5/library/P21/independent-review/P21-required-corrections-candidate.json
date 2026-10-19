@@ -1,0 +1,265 @@
+{
+  "book_id": "P21",
+  "status": "whole_semantic_QA_completed_candidates_not_merged",
+  "findings": [
+    {
+      "id": "P21-QA-C01",
+      "severity": "necessary_original_ratio_precision",
+      "finding": "纸245十比一机会比被提炼为十有八九；保留原措辞，不归90%或校准概率。",
+      "source_file": "source/ch16.txt",
+      "source_local_lines_inclusive": [
+        641,
+        650
+      ],
+      "original_scan_actually_viewed": "index_team/peer-QA/P21-scan/pdf274.png"
+    },
+    {
+      "id": "P21-QA-C02",
+      "severity": "necessary_currency_disambiguation_without_body_rewrite",
+      "finding": "若干原dollars/cent/dime说明在章稿简译为元/角/分，阅读器独立展示章节需币种消歧；只在正文外加说明，不把原例或估计升级为已核报价。",
+      "affected_chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "P21-QA-C03",
+      "severity": "necessary_precise_claim_evidence",
+      "finding": "保留52规则原整章范围为chapter_scope_evidence；131手选定位片段给行/字节/Unicode字符/SHA及52完整原章上下文，不冒称每个布局片段是完整自然段。"
+    }
+  ],
+  "rule_field_patches": [
+    {
+      "rule_id": "P21-R32",
+      "field": "application_boundary",
+      "old_exact": "私人1000与市场75皆是假例；十有八九不是校准概率，嵌套服务现实需证据。",
+      "new_exact": "私人1000与市场75皆是假例；原书十比一是机会比修辞，不是已校准概率，嵌套服务现实需证据。"
+    },
+    {
+      "rule_id": "P21-R32",
+      "field": "independent_analysis",
+      "old_exact": "私人1000与市场75皆是假例；十有八九不是校准概率，嵌套服务现实需证据。",
+      "new_exact": "私人1000与市场75皆是假例；原书十比一是机会比修辞，不是已校准概率，嵌套服务现实需证据。"
+    }
+  ],
+  "text_patches": [
+    {
+      "finding_id": "P21-QA-C01",
+      "file": "ch16.md",
+      "old_exact": "作者随后称这种行为少见、十有八九会降品质，是概率式修辞，本章没有频率样本；档案不拿它当百分之九十已校准判断。",
+      "new_exact": "作者随后称这种行为少见，并以“十比一”的机会形容涨价后降品质，是未提供频率样本的修辞；这里不能译成百分之九十，更不能当作已校准概率。",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch16.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch08.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch08.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch09.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch09.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch10.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch10.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch11.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch11.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch12.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch12.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch14.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch14.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch15.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch15.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch16.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": true,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch16.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch17.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch17.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch18.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch18.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch19.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch19.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch21.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch21.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch23.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch23.md"
+    },
+    {
+      "finding_id": "P21-QA-C02",
+      "file": "ch24.md",
+      "operation": "insert_before_first_body_marker",
+      "new_exact": "币种说明：本章转述原书标作dollars的金额，有时简译为“元”，应读为美元；dime为10美分，cent为1美分。未换算为人民币或现代购买力。原例、原说明及未核估计保留各自性质；审读者另举的一般货币例仍是抽象比较。",
+      "body_content_changed": false,
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch24.md"
+    }
+  ],
+  "source_review_patch": {
+    "file": "source-review/ch16-diagram-and-numeric-review.json",
+    "field": "exception",
+    "old_exact": "纸244–245允许多湖船主少买一整条优质船而不降低其他船品质；原文十有八九不是本次校准频率。",
+    "new_exact": "纸244–245允许多湖船主少买一整条优质船而不降低其他船品质；原文chances are ten to one是十比一机会比修辞，无频率样本，不转为90%或本次校准概率。",
+    "candidate_file": "work/book-experts-v5/index_team/peer-QA/P21-candidates/ch16-diagram-and-numeric-review.json"
+  },
+  "new_source_issue": {
+    "id": "P21-N11",
+    "printed_pages": [
+      245
+    ],
+    "pdf_pages": [
+      274
+    ],
+    "kind": "dossier_ratio_rendering_corrected",
+    "author_original": "the chances are ten to one",
+    "review": "保留十比一机会比修辞；旧十有八九及90%误译撤回，不以无样本修辞生成校准概率。",
+    "evidence": "source-review/ch16-diagram-and-numeric-review.json"
+  },
+  "strict_counts_original": {
+    "1": 2744,
+    "2": 2924,
+    "3": 2530,
+    "4": 3276,
+    "5": 2847,
+    "6": 2938,
+    "7": 2907,
+    "8": 3180,
+    "9": 3340,
+    "10": 2975,
+    "11": 2796,
+    "12": 2807,
+    "13": 2899,
+    "14": 2807,
+    "15": 2763,
+    "16": 2822,
+    "17": 3036,
+    "18": 2808,
+    "19": 3194,
+    "20": 2869,
+    "21": 2560,
+    "22": 2789,
+    "23": 2815,
+    "24": 3302,
+    "25": 3272,
+    "26": 2799
+  },
+  "strict_counts_candidate": {
+    "1": 2744,
+    "2": 2924,
+    "3": 2530,
+    "4": 3276,
+    "5": 2847,
+    "6": 2938,
+    "7": 2907,
+    "8": 3180,
+    "9": 3340,
+    "10": 2975,
+    "11": 2796,
+    "12": 2807,
+    "13": 2899,
+    "14": 2807,
+    "15": 2763,
+    "16": 2832,
+    "17": 3036,
+    "18": 2808,
+    "19": 3194,
+    "20": 2869,
+    "21": 2560,
+    "22": 2789,
+    "23": 2815,
+    "24": 3302,
+    "25": 3272,
+    "26": 2799
+  },
+  "strict_total_original": 75999,
+  "strict_total_candidate": 76009,
+  "minimum_candidate": 2530,
+  "post_merge_metadata_requirements": [
+    "同步正文计数、ch16章稿hash；其他原章正文不变",
+    "同步52规则精确证据、旧范围保留、131片段及52完整相对上下文链接",
+    "source-review旧错译保留历史快照，不改原OCR/原PDF",
+    "综合/说明/提示词删除过期待审语句并更新新字数、独审状态，最终同伴复核后才合格",
+    "保留全字形/外部全文/当前决策/回测/概率校准false"
+  ],
+  "canonical_not_modified": true
+}

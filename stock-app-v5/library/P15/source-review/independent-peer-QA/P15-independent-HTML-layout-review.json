@@ -1,0 +1,222 @@
+{
+  "book_id": "P15",
+  "source_original_html_sha256": "b08a5ccbed32a3666a8d7bbab9524a8b091f06505bf043e62a29ca5c7ac6f955",
+  "actual_scope": "Fourcompletech10tables27–30allheader/cells actuallydisplayed/read. NotwholeHTMLread,notprintscan; parserordinalislocationonly.",
+  "tables": [
+    {
+      "html_table_ordinal": 27,
+      "whole_raw_table_sha256": "f2ac83e58ce01979ef6bf2cce506b9cd1a70c628ef5f363ab1085f03016c632e",
+      "whole_cells_actually_displayed_and_read": true,
+      "rows": [
+        [
+          "",
+          "Product of yarn in 1000 lbs.",
+          "Number of workers in spinning mills.",
+          "Product per worker in lbs.",
+          "Cost of labour per lb.",
+          "Average yearly wages."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "s. d.",
+          "£ s. d."
+        ],
+        [
+          "1819-21",
+          "106,500",
+          "111,000",
+          "968",
+          "6 4",
+          "26 13 0"
+        ],
+        [
+          "1829-31",
+          "216,500",
+          "140,000",
+          "1546",
+          "4 2",
+          "27 6 0"
+        ],
+        [
+          "1844-46",
+          "523,300",
+          "190,000",
+          "2754",
+          "2 3",
+          "28 12 0"
+        ],
+        [
+          "1859-61",
+          "910,000",
+          "248,000",
+          "3671",
+          "2 1",
+          "32 10 0"
+        ],
+        [
+          "1880-82",
+          "1,324,000",
+          "240,000",
+          "5520",
+          "1 9",
+          "44 4 0 [228]"
+        ]
+      ]
+    },
+    {
+      "html_table_ordinal": 28,
+      "whole_raw_table_sha256": "82781e94dfe00fee62efe84fd91cde6d8d38bf91c7fe9266c42468e1b9cdddbd",
+      "whole_cells_actually_displayed_and_read": true,
+      "rows": [
+        [
+          "",
+          "Product of yarn in 1000 lbs.",
+          "Number of workers in spinning mills.",
+          "Product per worker in lbs.",
+          "Cost of labour per lb.",
+          "Average yearly wages."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "s.nbsp; d.",
+          "£ s. d."
+        ],
+        [
+          "1819-21",
+          "80,620",
+          "250,000",
+          "322",
+          "15 5",
+          "20 18 0"
+        ],
+        [
+          "1829-31",
+          "143,200",
+          "275,000",
+          "521",
+          "9 0",
+          "19 18 0 [229]"
+        ],
+        [
+          "1844-46",
+          "348,110",
+          "210,000",
+          "1658",
+          "3 5",
+          "24 10 0"
+        ],
+        [
+          "1859-61",
+          "650,870",
+          "203,000",
+          "3206",
+          "2 9",
+          "30 15 0"
+        ],
+        [
+          "1880-82",
+          "993,540",
+          "246,000",
+          "4039",
+          "2 3",
+          "39 0 0"
+        ]
+      ]
+    },
+    {
+      "html_table_ordinal": 29,
+      "whole_raw_table_sha256": "21b09fd8c2207283b9efdedaf293c038ba7e18389f961b03fe3ee9832cc94212",
+      "whole_cells_actually_displayed_and_read": true,
+      "rows": [
+        [
+          "",
+          "Yearly product per worker.",
+          "Cost of labour per yard.",
+          "Yearly earnings per worker."
+        ],
+        [
+          "",
+          "Yards.",
+          "Cents.",
+          "Dollars."
+        ],
+        [
+          "1830",
+          "4,321",
+          "1.9",
+          "164"
+        ],
+        [
+          "1850",
+          "12,164",
+          "1.55",
+          "190"
+        ],
+        [
+          "1870",
+          "19,293",
+          "1.24",
+          "240"
+        ],
+        [
+          "1884",
+          "28,032",
+          "1.07",
+          "290"
+        ]
+      ]
+    },
+    {
+      "html_table_ordinal": 30,
+      "whole_raw_table_sha256": "d8ed9c0c4072f37a6c4ab5f5f06eb0d12c66df2f6a8e983e79841c8f90e4bd85",
+      "whole_cells_actually_displayed_and_read": true,
+      "rows": [
+        [
+          "",
+          "Weekly product per worker.",
+          "Cost per yard.",
+          "Hours of labour.",
+          "Weekly wage."
+        ],
+        [
+          "",
+          "Yards",
+          "",
+          "",
+          "s. d."
+        ],
+        [
+          "Switzerland and Germany",
+          "466",
+          "0.303",
+          "12",
+          "11 8"
+        ],
+        [
+          "England",
+          "706",
+          "0.275",
+          "9",
+          "16 3"
+        ],
+        [
+          "America",
+          "1200",
+          "0.2",
+          "10",
+          "20 3"
+        ]
+      ]
+    }
+  ],
+  "explicit_HTML_vs_TXT_format_differences": [
+    "HTMLtable28weavingheaderProductofyarn whereTXTProducts, literal s.nbsp; d. artifact. Costperlb/s.d. andallnumericvalues reflectbounddigitalform; neitherformprovesoriginalprintingerror orcorrectunit."
+  ],
+  "all44_html_tables_not_claimed_independently_html_read": true
+}

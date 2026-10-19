@@ -1,0 +1,144 @@
+{
+  "book_id": "P26",
+  "chapter": 11,
+  "historical_units": "million marks unless stated",
+  "five_year_table_printed196_pdf206_all20_values": [
+    {
+      "year": 1885,
+      "loans": 540.5,
+      "deposits": 261.2,
+      "notes": 858.9,
+      "cash": 655.6,
+      "notes_minus_cash_million": 203.3
+    },
+    {
+      "year": 1886,
+      "loans": 661.6,
+      "deposits": 290.6,
+      "notes": 1009.5,
+      "cash": 700.5,
+      "notes_minus_cash_million": 309.0
+    },
+    {
+      "year": 1887,
+      "loans": 648.1,
+      "deposits": 331.9,
+      "notes": 1010.5,
+      "cash": 794.7,
+      "notes_minus_cash_million": 215.8
+    },
+    {
+      "year": 1888,
+      "loans": 610.5,
+      "deposits": 301.9,
+      "notes": 1093.4,
+      "cash": 833.5,
+      "notes_minus_cash_million": 259.9
+    },
+    {
+      "year": 1889,
+      "loans": 739.9,
+      "deposits": 347.8,
+      "notes": 1160.5,
+      "cash": 764.5,
+      "notes_minus_cash_million": 396.0
+    }
+  ],
+  "1889_end_statement_printed199_pdf209": {
+    "resources_original": {
+      "gold_bullion": 244.7,
+      "German_coin": 489.9,
+      "Treasury_notes": 16.6,
+      "other_bank_notes": 13.3,
+      "bills_discounted": 653.9,
+      "loans_on_security": 186.2,
+      "securities": 28.5,
+      "real_estate": 21.3,
+      "sundries": 12.1
+    },
+    "liability_side_including_capital_original": {
+      "capital": 120,
+      "surplus": 25.9,
+      "notes": 1160.5,
+      "accounts_current": 347.8,
+      "profits": 6,
+      "sundries": 5.7
+    },
+    "resources_sum": 1666.5,
+    "liability_sum_before_editorial_correction": 1665.9,
+    "author_editorial_correction_not_real_liability": 0.6,
+    "printed_total_both_after_correction": 1666.5,
+    "author_calls_asset600000mark_typographical_error_unlocated": true,
+    "not_choose_wrong_asset_arbitrarily": true
+  },
+  "cash_for_tax_definition": 764.5,
+  "cash_for_one_third_definition_excludes_other_bank_notes": 751.2,
+  "cash_excluding_banknotes_over_own_notes_fraction": 0.6473071951744938,
+  "uncovered_million_end1889": 396,
+  "allowed_uncovered_exact_million": 286.585,
+  "computed_excess_before_any_unknown_original_error_correction": 109.415,
+  "computed_excess_using_displayed286_6": 109.4,
+  "author_stated_excess_approx": 109.6,
+  "author_approx_vs_recomputed_not_harmonized": true,
+  "loans_table_vs_balance_same_date": {
+    "five_year_table_loans_all_kinds": 739.9,
+    "bills_plus_secured_loans_in_balance": 840.1,
+    "difference": 100.2,
+    "cause_unresolved_no_silent_restatement": true
+  },
+  "Dec7_1889": {
+    "notes": 981.1,
+    "cash": 806.5,
+    "uncovered": 174.6,
+    "exact_allowed": 286.585,
+    "exact_margin": 111.985,
+    "author_rounded_margin": 112,
+    "margin_not_new_cash": true
+  },
+  "elastic_tax": {
+    "annual_percent": 5,
+    "reports_per_month": 4,
+    "reports_per_year": 48,
+    "percent_each_report": 0.10416666666666667,
+    "fraction_each_report": 0.0010416666666666667,
+    "original_fraction_visually_verified": true,
+    "third_cash_requirement_still_applies": true
+  },
+  "general_note_safeguards_historical": {
+    "national_uncovered_max_million": 385,
+    "Reichsbank_initial_million": 250,
+    "cash_minimum_fraction_excluding_other_notes": 0.3333333333333333,
+    "discount_max_months": 3,
+    "minimum_note_marks": 100,
+    "no_noteholder_special_asset_lien": true,
+    "not_legal_tender": true
+  },
+  "imperial_treasury_note_program_million": {
+    "distribution": 120,
+    "advances": 55,
+    "old_issues_retired_more_than_approx": 180,
+    "not_force_175_equals180": true
+  },
+  "profit_rules_original": {
+    "ordinary_dividend_percent": 4.5,
+    "minimum_reserve_transfer_fraction_excess": 0.2,
+    "reserve_target_fraction_capital": 0.25,
+    "government_fraction_remainder_initial": 0.5,
+    "shareholder_threshold_percent": 8,
+    "government_fraction_additional_above_threshold": 0.75
+  },
+  "profit_rules1889": {
+    "ordinary_percent": 3.5,
+    "higher_dividend_threshold_percent": 6,
+    "shareholder_fraction_further_excess": 0.25,
+    "not_flat_fraction_all_net_profit": true
+  },
+  "Reichsbank_private_capital_million": 120,
+  "Prussia_goodwill_million": 15,
+  "branches": 240,
+  "capital_surplus_share_min_fraction": 0.47,
+  "note_share_approx": 0.8333333333333334,
+  "branch_share_accounts_current_approx": 0.6666666666666666,
+  "Lombard_loans_under_one_fifth_original_general_bank_group_statement_not_single_Reichsbank_ratio": true,
+  "all_inputs_historical_current_prediction_disabled": true
+}

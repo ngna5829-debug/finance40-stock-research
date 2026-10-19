@@ -1,0 +1,912 @@
+{
+  "book_id": "P14",
+  "root_manual_merge_pending": true,
+  "old_69_evidence_dictionaries_preserved_exactly": true,
+  "additional_context_count": 30,
+  "proposed_total_count": 99,
+  "all_new_contexts_actually_read_complete": true,
+  "additions": [
+    {
+      "id": "P14-QA-A001",
+      "rule": "P14-R02",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        179,
+        196
+      ],
+      "source_global_lines_inclusive": [
+        179,
+        196
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        6504,
+        7755
+      ],
+      "source_byte_range_zero_based_half_open": [
+        6511,
+        7763
+      ],
+      "source_segment_sha256": "0df04de72eec088fe7d6859c622aa65bef8d162c8aa1541c9abf39e93022b952",
+      "source_text_including_original_CRLF": "In a critique, in other respects very favourable, from the pen of M.\r\nle Vicomte de Romanet, he supposes that I demand the suppression of\r\ncustoms. He is mistaken. I demand the suppression of the protectionist\r\n_régime_. We don't refuse taxes to the Government, but we desire, if\r\npossible, to dissuade the governed from taxing one another. Napoleon\r\nsaid that \"the customhouse should not be made an instrument of revenue,\r\nbut a means of protecting industry.\" We maintain the contrary, and we\r\ncontend that the customhouse ought not to become in the hands of the\r\nworking classes an instrument of reciprocal rapine, but that it may be\r\nused as an instrument of revenue as legitimately as any other. So far\r\nare we--or, to speak only for myself, so far am I--from demanding the\r\nsuppression of customs, that I see in that branch of revenue our future\r\nanchor of safety. I believe our resources are capable of yielding to the\r\nTreasury immense returns; and to speak plainly, I must add, that, seeing\r\nhow slow is the spread of sound economic doctrines, and so rapid\r\nthe increase of our budgets, I am disposed to count more upon the\r\nnecessities of the Treasury than on the force of enlightened opinion for\r\nfurthering the cause of commercial reform.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Complete actual misconception correction and customs-as-revenue permission; old evidence startsmidparagraph189.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A002",
+      "rule": "P14-R03",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        437,
+        484
+      ],
+      "source_global_lines_inclusive": [
+        437,
+        484
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        20540,
+        23221
+      ],
+      "source_byte_range_zero_based_half_open": [
+        20548,
+        23229
+      ],
+      "source_segment_sha256": "c2518e7fa324ef6aa9d292a0d9c83a876759f66297137a8e908722a967892055",
+      "source_text_including_original_CRLF": "If we now proceed to consider the immediate interest of the consumer, we\r\nshall find that it is in perfect harmony with the general interest, with\r\nall that the welfare of society calls for. When the purchaser goes\r\nto market, he desires to find it well stocked. Let the seasons be\r\npropitious for all harvests; let inventions more and more marvellous\r\nbring within reach a greater and greater number of products and\r\nenjoyments; let time and labour be saved; let distances be effaced by\r\nthe perfection and rapidity of transit; let the spirit of justice and\r\nof peace allow of a diminished weight of taxation; let barriers of every\r\nkind be removed;--in all this the interest of the consumer runs parallel\r\nwith the public interest. The consumer may push his secret wishes to a\r\nchimerical and absurd length, without these wishes becoming antagonistic\r\nto the public welfare. He may desire that food and shelter, the hearth\r\nand the roof, instruction and morality, security and peace, power and\r\nhealth, should be obtained without exertion, and without measure, like\r\nthe dust of the highways, the water of the brook, the air which we\r\nbreathe; and yet the realization of his desires would not be at variance\r\nwith the good of society.\r\n\r\nIt may be said that if these wishes were granted, the work of the\r\nproducer would become more and more limited, and would end with\r\nbeing stopped for want of aliment. But why? Because, on this extreme\r\nsupposition, all imaginable wants and desires would be fully satisfied.\r\nMan, like Omnipotence, would create all things by a simple act of\r\nvolition. Well, on this hypotheses, what reason should we have to regret\r\nthe stoppage of industrial production?\r\n\r\nI made the supposition, not long ago, of the existence of an assembly\r\ncomposed of workmen, each member of which, in his capacity of producer,\r\nshould have the power of passing a law embodying his _secret wish_, and\r\nI said that the code which would emanate from that assembly would be\r\nmonopoly systematized, the theory of scarcity reduced to practice.\r\n\r\nIn the same way, a chamber in which each should consult exclusively his\r\nown immediate interest as a consumer, would tend to systematize liberty,\r\nto suppress all restrictive measures, to overthrow all artificial\r\nbarriers--in a word, to realize the _theory of plenty_.\r\n\r\nHence it follows:\r\n\r\nThat to consult exclusively the immediate interest of the producer, is\r\nto consult an interest which is anti-social.\r\n\r\nThat to take for basis exclusively the immediate interest of the\r\nconsumer, would be to take for basis the general interest.\r\n\r\nLet me enlarge on this view of the subject a little, at the risk of\r\nbeing prolix.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole consumer-wishes/general-public-interest identification and immediate-interest conclusions.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A003",
+      "rule": "P14-R03",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        552,
+        561
+      ],
+      "source_global_lines_inclusive": [
+        552,
+        561
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        26353,
+        26837
+      ],
+      "source_byte_range_zero_based_half_open": [
+        26363,
+        26847
+      ],
+      "source_segment_sha256": "3e4da309944a02913e85f57a11272462f1eeecfddcec4dce977bd9fe63062865",
+      "source_text_including_original_CRLF": "Restrictive laws always land us in this dilemma:--\r\n\r\nEither you admit that they produce scarcity, or you do not. If you admit\r\nit, you avow by the admission that you inflict on the people all the\r\ninjury in your power. If you do not admit it, you deny having restricted\r\nthe supply and raised prices, and consequently you deny having favoured\r\nthe producer.\r\n\r\nWhat you do is either hurtful or profitless, injurious or ineffectual.\r\nIt never can be attended with any useful result.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole final restriction harm/ineffectual/no useful result conclusion, preserved without factual endorsement.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A004",
+      "rule": "P14-R07",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        882,
+        918
+      ],
+      "source_global_lines_inclusive": [
+        882,
+        918
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        44763,
+        47032
+      ],
+      "source_byte_range_zero_based_half_open": [
+        44774,
+        47043
+      ],
+      "source_segment_sha256": "3d7b8f7b3bfcbd5647eb0d30316da22b0ac30bc069f121af747b649b591216fa",
+      "source_text_including_original_CRLF": "I have referred likewise to the opinions of another Minister of\r\nCommerce, M. d'Argout. They deserve to be dwelt upon for an instant.\r\nDesiring to strike a formidable blow at beet-root culture, he says,\r\n\"Undoubtedly, the cultivation of beet-root is useful, _but this utility\r\nis limited_. The developments attributed to it are exaggerated. To be\r\nconvinced of this, it is sufficient to observe that this culture will be\r\nnecessarily confined within the limits of consumption. Double, triple,\r\nif you will, the present consumption of France, _you will always find\r\nthat a very trifling portion of the soil will satisfy the requirements\r\nof that consumption_.\" (This is surely rather a singular subject of\r\ncomplaint!) \"Do you desire proof of this? How many _hectares_ had we\r\nunder beet-root in 1828? 3130, which is equivalent to 1-10, 540th of\r\nour arable land. At the present time, when indigenous sugar supplies\r\none-third of our consumption, how much land is devoted to that culture?\r\n16,700 _hectares_, or 1-1978th of the arable land, or 45 _centiares_\r\nin each commune. Suppose indigenous sugar already supplied our whole\r\nconsumption, we should have only 48,000 hectares under beet-root, or\r\n1-689th of the arable land.\"*\r\n\r\nThere are two things to be remarked upon in this citation--the facts and\r\nthe doctrine. The facts tend to prove that little land, little capital,\r\nand little labour are required to produce a large quantity of sugar, and\r\nthat each commune of France would be abundantly provided by devoting to\r\nbeet-root cultivation one hectare of its soil. The doctrine consists in\r\nregarding this circumstance as adverse, and in seeing in the very power\r\nand fertility of the new industry, _a limit to its utility_.\r\n\r\n     * It is fair to M. d'Argout to say that he put this language\r\n     in the mouth of the adversaries of beet-root culture. But he\r\n     adopts it formally, and sanctions it besides, by the law\r\n     which it was employed to justify.\r\n\r\nI do not mean to constitute myself here the defender of beet-root\r\nculture, or a judge of the strange facts advanced by M. d'Argout; * but\r\nit is worth while to scrutinize the doctrine of a statesman, to whom\r\nFrance for a long time entrusted the care of her agriculture and of her\r\ncommerce.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole quoted utility-limits argument and note identifying opponent voice formally adopted, no midquote start892.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A005",
+      "rule": "P14-R07",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        945,
+        950
+      ],
+      "source_global_lines_inclusive": [
+        945,
+        950
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        48585,
+        48952
+      ],
+      "source_byte_range_zero_based_half_open": [
+        48596,
+        48963
+      ],
+      "source_segment_sha256": "af1afe37c09ee5bb175d975cf576803d3297a4dfa74ddcc56458d0c067847c69",
+      "source_text_including_original_CRLF": "     * Supposing that 48,000 or 50,000 hectares were sufficient\r\n     to supply the present consumption, it would require 150,000\r\n     for triple that consumption, which M. d'Argout admits as\r\n     possible. Moreover, if beet-root entered into a six years'\r\n     rotation of crops, it would occupy successively 900,000\r\n     hectares, or 1-38th of the arable land.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Complete six-year successive rotation note; old945–949 cuts final hectares/arable-denominator line950.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A006",
+      "rule": "P14-R08",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        1031,
+        1066
+      ],
+      "source_global_lines_inclusive": [
+        1031,
+        1066
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        53092,
+        54897
+      ],
+      "source_byte_range_zero_based_half_open": [
+        53105,
+        54910
+      ],
+      "source_segment_sha256": "554632fa836b4639c8416165a47ac60f71bcc96118103b4e0b92fc35167f8049",
+      "source_text_including_original_CRLF": "In this, as in other cases, we shall find protectionist theorists\r\nviewing their subject from the producer's stand-point, whilst we\r\nadvocate the cause of the unfortunate consumers, whose interests they\r\nstudiously keep out of sight. They institute a comparison between the\r\nfield of industry and the _turf_. But as regards the latter, the race is\r\nat once the _means_ and the _end_. The public feels no interest in the\r\ncompetition beyond the competition itself. When you start your horses,\r\nyour _end_, your object, is to find out which is the swiftest runner,\r\nand I see your reason for equalizing the weights. But if your _end_,\r\nyour object, were to secure the arrival of some important and urgent\r\nnews at the winning-post, could you, without inconsistency, throw\r\nobstacles in the way of any one who should offer you the best means of\r\nexpediting your message? This is what you do in commercial affairs.\r\nYou forget the end, the object sought to be attained, which is material\r\nprosperity; you disregard it, you sacrifice it to a veritable _petitio\r\nprincipii_; in plain language, you are begging the question.\r\n\r\nBut since we cannot bring our opponents to our point of view, let us\r\nplace ourselves in theirs, and examine the question in its relations\r\nwith production.\r\n\r\nI shall endeavour to prove,\r\n\r\n1st, That to level and equalize the conditions of labour, is to attack\r\nexchange in its essence and principle.\r\n\r\n2d, That it is not true that the labour of a country is neutralized by\r\nthe competition of more favoured countries.\r\n\r\n3d, That if that were true, protective duties would not equalize the\r\nconditions of production.\r\n\r\n4th, That liberty, freedom of trade, levels these conditions as much as\r\nthey can be levelled.\r\n\r\n5th, That the least favoured countries gain most by exchange.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole consumer standpoint/race-message argument; old1035 starts midparagraph.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A007",
+      "rule": "P14-R09",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        1216,
+        1292
+      ],
+      "source_global_lines_inclusive": [
+        1216,
+        1292
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        63547,
+        68347
+      ],
+      "source_byte_range_zero_based_half_open": [
+        63563,
+        68363
+      ],
+      "source_segment_sha256": "91fe4e4753e4ccc39222c36c367318f3978d88b6eadffd3d5fb436b225d00a06",
+      "source_text_including_original_CRLF": "III. In the third place, to contend that by a protective duty you\r\nequalize the conditions of production, is to give currency to an error\r\nby a deceptive form of speech. It is not true that an import duty\r\nequalizes the conditions of production. These remain, after the\r\nimposition of the duty, the same as they were before. At most, all that\r\nsuch a duty equalizes are _the conditions of sale_. It may be said,\r\nperhaps, that I am playing upon words, but I throw back the accusation.\r\nIt is for my opponents to show that _production and sale_ are synonymous\r\nterms; and if they cannot do this, I am warranted in fastening upon them\r\nthe reproach, if not of playing on words, at least of mixing them up and\r\nconfusing them.\r\n\r\nTo illustrate what I mean by an example: I suppose some Parisian\r\nspeculators to devote themselves to the production of oranges. They know\r\nthat the oranges of Portugal can be sold in Paris for a penny apiece,\r\nwhilst they, on account of the frames and hot-houses which the colder\r\nclimate would render necessary, could not sell them for less than a\r\nshilling as a remunerative price. They demand that Portuguese oranges\r\nshould have a duty of elevenpence imposed upon them. By means of this\r\nduty, they say, the _conditions af production_ will be equalized;\r\nand the Chamber, giving effect, as it always does, to such reasoning,\r\ninserts in the tariff a duty of elevenpence upon every foreign orange.\r\n\r\nNow, I maintain that the _conditions of production_ are in nowise\r\nchanged. The law has made no change on the heat of the sun of Lisbon, or\r\non the frequency and intensity of the frosts of Paris. The ripening of\r\noranges will continue to go on naturally on the banks of the Tagus, and\r\nartificially on the banks of the Seine--that is to say, much more\r\nhuman labour will be required in the one country than in the other. The\r\nconditions of sale are what have been equalized. The Portuguese must now\r\nsell us their oranges at a shilling, elevenpence of which goes to pay\r\nthe tax. That tax will be paid, it is evident, by the French consumer.\r\nAnd look at the whimsical result. Upon each Portuguese orange consumed,\r\nthe country will lose nothing, for the extra elevenpence charged to the\r\nconsumer will be paid into the treasury. This will cause displacement,\r\nbut not loss. But upon each French orange consumed there will be a loss\r\nof elevenpence, or nearly so, for the purchaser will certainly lose that\r\nsum, and the seller as certainly will not gain it, seeing that by the\r\nhypothesis he will only have received the cost price. I leave it to the\r\nprotectionists to draw the inference.\r\n\r\nIV. If I have dwelt upon this distinction between the conditions\r\nof production and the conditions of sale, a distinction which the\r\nprotectionists will no doubt pronounce paradoxical, it is because it\r\nleads me to inflict on them another, and a much stranger, paradox, which\r\nis this: Would you equalize effectually the conditions of production,\r\nleave exchange free.\r\n\r\nNow, really, it will be said, this is too much; you must be making game\r\nof us. Well, then, were it only for curiosity, I entreat the gentlemen\r\nprotectionists to follow me on to the conclusion of my argument. It will\r\nnot be long. I revert to my former illustration.\r\n\r\nLet us suppose for a moment that the average daily wage which a\r\nFrenchman earns is equal to a shilling, and it follows incontestably\r\nthat to produce directly an orange in France, a day's work, or its\r\nequivalent, is required; while to produce the value of a Portuguese\r\norange, only a twelfth part of that day's labour would be necessary;\r\nwhich means exactly this, that the sun does at Lisbon what human labour\r\ndoes at Paris. Now, is it not very evident that if I can produce an\r\norange, or, what comes to the same thing, the means of purchasing one,\r\nwith a twelfth part of a day's labour, I am placed, with respect to this\r\nproduction, under exactly the same conditions as the Portuguese producer\r\nhimself, excepting the carriage, which must be at my expense. It is\r\ncertain, then, that liberty equalizes the conditions of production\r\ndirect or indirect, as far as they can be equalized, since it leaves\r\nno other difference, but the inevitable one arising from the expense of\r\ntransport.\r\n\r\nI add, that liberty equalizes also the conditions of enjoyment, of\r\nsatisfaction, of consumption, with which the protectionists never\r\nconcern themselves, and which are yet the essential consideration,\r\nconsumption being the end and object of all our industrial efforts. In\r\nvirtue of free trade, we enjoy the sun of Portugal like the Portuguese\r\nthemselves. The inhabitants of Havre and the citizens of London are put\r\nin possession, and on the same conditions, of all the mineral resources\r\nwhich nature has bestowed on Newcastle.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole productionvs sale/climate/tax-transfer and directindirect production argument; old1251starts midparagraph and misses climate distinction.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A008",
+      "rule": "P14-R12",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        1728,
+        1762
+      ],
+      "source_global_lines_inclusive": [
+        1728,
+        1762
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        94132,
+        96053
+      ],
+      "source_byte_range_zero_based_half_open": [
+        94150,
+        96071
+      ],
+      "source_segment_sha256": "9ad0a170258c9dd769c6dbc16f602eb7f55f7604d2c7d01397fa6e4f6e629a25",
+      "source_text_including_original_CRLF": "Suppose that while foreign iron cannot be sold in our market below eight\r\nfrancs, French iron cannot be sold for less than twelve francs.\r\n\r\nOn this hypothesis, there are two modes in which the State can secure\r\nthe home market to the producer.\r\n\r\nThe first mode is to lay a duty of five francs on foreign iron. It is\r\nevident that that duty would exclude it, since it could no longer be\r\nsold under thirteen francs, namely, eight francs for the cost price, and\r\nfive francs for the tax, and at that price it would be driven out of the\r\nmarket by French iron, the price of which we suppose to be only twelve\r\nfrancs. In this case, the purchaser, the consumer, would be at the whole\r\ncost of the protection.\r\n\r\nOr again, the State might levy a tax of five francs from the public, and\r\ngive the proceeds as a premium to the ironmaster. The protective effect\r\nwould be the same. Foreign iron would in this case be equally excluded;\r\nfor our ironmaster can now sell his iron at seven francs, which, with\r\nthe five francs premium, would make up to him the remunerative price of\r\ntwelve francs. But with home iron at seven francs the foreigner\r\ncould not sell his for eight, which by the supposition is his lowest\r\nremunerative price.\r\n\r\nBetween these two modes of going to work, I can see only one difference.\r\nThe principle is the same; the effect is the same; but in the one,\r\ncertain individuals pay the price of protection; in the other, it is\r\npaid for by the nation at large.\r\n\r\nI frankly avow my predilection for the second mode. It appears to me\r\nmore just, more economical, and more honourable; more just, because if\r\nsociety desires to give largesses to some of its members, all should\r\ncontribute; more economical, because it would save much expense in\r\ncollecting, and get us rid of many restrictions; more honourable,\r\nbecause the public would then see clearly the nature of the operation,\r\nand act accordingly.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full foreign8/domestic12 assumption, both duty/subsidy paths and preference; old1737 cuts first-mode cost premise.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A009",
+      "rule": "P14-R13",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        1978,
+        1988
+      ],
+      "source_global_lines_inclusive": [
+        1978,
+        1988
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        108371,
+        109115
+      ],
+      "source_byte_range_zero_based_half_open": [
+        108393,
+        109137
+      ],
+      "source_segment_sha256": "f139f33fe53cecf6d6d2627caac2dfeee6cefacf09b435d11d0e4ab1e8016a9e",
+      "source_text_including_original_CRLF": "The truth is, it would be necessary to take the balance of trade\r\n_backwards [au rebours]_, and calculate the national profits from\r\nforeign trade by the excess of imports over exports. This excess, after\r\ndeducting costs, constitutes the real profit. But this theory, which\r\nis true, leads directly to free trade. I make you a present of it,\r\ngentlemen, as I do of all the theories in the preceding chapters.\r\nExaggerate it as much as you please--it has nothing to fear from that\r\ntest. Suppose, if that amuses you, that the foreigner inundates us with\r\nall sorts of useful commodities without asking anything in return, that\r\nour imports are _infinite_ and exports _nil_, I defy you to prove to me\r\nthat we should be poorer on that account.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full originalstrong reverse nationaltradeprofit claim and freenoreturn-gift limiting premise.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A010",
+      "rule": "P14-R15",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        2103,
+        2123
+      ],
+      "source_global_lines_inclusive": [
+        2103,
+        2123
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        114744,
+        116107
+      ],
+      "source_byte_range_zero_based_half_open": [
+        114766,
+        116129
+      ],
+      "source_segment_sha256": "c19f88cd3b9b09ea4dbd7216c07c365aa546d9d235a3a063124c11f90da80c16",
+      "source_text_including_original_CRLF": "But, again, you may say that the producer and consumer are identical. If\r\nthe manufacturer gain by protection, he will make the agriculturist\r\nalso a gainer; and if agriculture prosper, it will open a vent\r\nto manufactures. Very well; if you confer upon us the monopoly of\r\nfurnishing light during the day,--first of all, we shall purchase\r\nquantities of tallow, coals, oils, resinous substances, wax,\r\nalcohol--besides silver, iron, bronze, crystal--to carry on our\r\nmanufactures; and then we, and those who furnish us with such\r\ncommodities, having become rich will consume a great deal, and impart\r\nprosperity to all the other branches of our national industry.\r\n\r\nIf you urge that the light of the sun is a gratuitous gift of nature,\r\nand that to reject such gifts is to reject wealth itself under pretence\r\nof encouraging the means of acquiring it, we would caution you against\r\ngiving a death-blow to your own policy. Remember that hitherto you have\r\nalways repelled foreign products, because they approximate more nearly\r\nthan home products to the character of gratuitous gifts. To comply with\r\nthe exactions of other monopolists, you have only _half a motive_; and\r\nto repulse us simply because we stand on a stronger vantage-ground than\r\nothers would be to adopt the equation, + x + = -; in other words, it\r\nwould be to heap _absurdity upon absurdity_.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full producer-to-consumer link objection and naturalgiftargument",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A011",
+      "rule": "P14-R15",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        2149,
+        2164
+      ],
+      "source_global_lines_inclusive": [
+        2149,
+        2164
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        117441,
+        118530
+      ],
+      "source_byte_range_zero_based_half_open": [
+        117463,
+        118552
+      ],
+      "source_segment_sha256": "74a05b8ba339125369367c7e6cea9756c3a313e10ab4aad289965ade29f88d76",
+      "source_text_including_original_CRLF": "Once more, when products such as coal, iron, corn, or textile fabrics,\r\nare sent us from abroad, and we can acquire them with less labour than\r\nif we made them ourselves, the difference is a free gift conferred\r\nupon us. The gift is more or less considerable in proportion as the\r\ndifference is more or less great. It amounts to a quarter, a half, or\r\nthree-quarters of the value of the product, when the foreigner only\r\nasks us for three-fourths, a half, or a quarter of the price we should\r\notherwise pay. It is as perfect and complete as it can be, when the\r\ndonor (like the sun in furnishing us with light) asks us for nothing.\r\nThe question, and we ask it formally, is this, Do you desire for\r\nour country the benefit of gratuitous consumption, or the pretended\r\nadvantages of onerous production? Make your choice, but be logical; for\r\nas long as you exclude as you do, coal, iron, com, foreign fabrics, in\r\nproportion as their price approximates to zero, what inconsistency would\r\nit be to admit the light of the sun, the price of which is already at\r\n_zero_ during the entire day!\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full quarter/half/threequarter gift comparison and zero daytime light conclusion",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A012",
+      "rule": "P14-R19",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        2501,
+        2532
+      ],
+      "source_global_lines_inclusive": [
+        2501,
+        2532
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        135906,
+        137747
+      ],
+      "source_byte_range_zero_based_half_open": [
+        135929,
+        137770
+      ],
+      "source_segment_sha256": "5e5474c7b39afe9a6c1d17592495856f51b32fd472c9fb32206768d2185a597c",
+      "source_text_including_original_CRLF": "Put the case of a nation which is isolated, and possesses a given amount\r\nof specie, and which chooses to amuse itself by burning each year one\r\nhalf of all the commodities that it possesses. I undertake to prove\r\nthat, according to the theory of M. de Dombasle, it will not be less\r\nrich.\r\n\r\nIn fact, in consequence of the fire, all things will be doubled in\r\nprice, and the inventories of property, made before and after the\r\ndestruction, will show exactly the same _nominal_ value. But then what\r\nwill the country in question have lost? If John buys his cloth dearer,\r\nhe also sells his corn at a higher price; and if Peter loses on his\r\npurchase of corn, he retrieves his losses by the sale of his cloth.\r\n\"Each recovers, in the extra price of his products, the extra expense\r\nof living he has been put to; and if everybody pays as a consumer,\r\neverybody receives a corresponding amount as a producer.\"\r\n\r\nAll this is a jingling quibble, and not science. The truth, in plain\r\nterms, is this: that men consume cloth and corn by fire or by using\r\nthem, and that the effect is the same _as regards price_, but not _as\r\nregards wealth_, for it is precisely in the use of commodities that\r\nwealth or material prosperity consists.\r\n\r\nIn the same way, restriction, while diminishing the abundance of things,\r\nmay raise their price to such an extent that each party shall be,\r\n_pecuniarily speaking_, as rich as before. But to set down in an\r\ninventory three measures of corn at 20s., or four measures at 15s.,\r\nbecause the result is still sixty shillings,--would this, I ask, come\r\nto the same thing with reference to the satisfaction of men's wants?\r\n\r\nIt is to this, the consumer's point of view, that I shall never cease\r\nto recall the protectionists, for this is the end and design of all our\r\nefforts, and the solution of all problems.**\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full two numeric thought-experiments now included in originalconditions, sourceoldonlyopeningtranslatornote",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A013",
+      "rule": "P14-R21",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        2736,
+        2773
+      ],
+      "source_global_lines_inclusive": [
+        2736,
+        2773
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        148597,
+        151011
+      ],
+      "source_byte_range_zero_based_half_open": [
+        148626,
+        151041
+      ],
+      "source_segment_sha256": "c621da846c6a78df127c5f6d71ea532740a6767035f6245f660420a50d355088",
+      "source_text_including_original_CRLF": "As regarded his workmen, they had no more employment than formerly.\r\nThere were five times more fields, but each field was five times\r\nsmaller; they produced oil, but they produced less wheat; he no longer\r\npurchased linens, but he no longer sold rye. Moreover, the farmer could\r\nexpend in wages only the amount of his capital, and his capital went on\r\nconstantly diminishing. A great part of it went for buildings, and the\r\nvarious implements needed for the more varied cultivation in which he\r\nhad engaged. In short, the supply of labour remained the same, but as\r\nthe means of remunerating that labour fell off, the ultimate result was\r\na forcible reduction of wages.\r\n\r\nOn a greater scale, this is exactly what takes place in the case of\r\na nation which isolates itself by adopting a prohibitive _régime_.\r\nIt multiplies its branches of industry, I grant, but they become of\r\ndiminished importance; it adopts, so to speak, a more complicated\r\n_industrial rotation_, but it is not so prolific, because its capital\r\nand labour have now to struggle with natural difficulties. A greater\r\nproportion of its circulating capital, which forms the wages fund,\r\nmust be converted into fixed capital. What remains may have more varied\r\nemployment, but the total mass is not increased. It is like distributing\r\nthe water of a pond among a multitude of shallow reservoirs--it covers\r\nmore ground, and presents a greater surface to the rays of the sun,\r\nand it is precisely for this reason that it is all the sooner absorbed,\r\nevaporated, and lost.\r\n\r\nThe amount of capital and labour being given, they create a smaller\r\namount of commodities in proportion as they encounter more obstacles. It\r\nis beyond doubt, that when international obstructions force capital\r\nand labour into channels and localities where they meet with greater\r\ndifficulties of soil and climate, the general result must be, fewer\r\nproducts created--that is to say, fewer enjoyments for consumers. Now,\r\nwhen there are fewer enjoyments upon the whole, will the workman's share\r\nof them be augmented? If it were augmented, as is asserted, then the\r\nrich--the men who make the laws--would find their own share not only\r\nsubject to the general diminution, but that diminished share would be\r\nstill further reduced by what was added to the labourers' share. Is\r\nthis possible? Is it credible? I advise you, workmen, to reject such\r\nsuspicious generosity.*\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole son remainingcapital/wagereduction thennationalconversion andelitecredibilityquestion; old2696–2738cuts workerparagraph",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A014",
+      "rule": "P14-R22",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        2961,
+        2975
+      ],
+      "source_global_lines_inclusive": [
+        2961,
+        2975
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        160998,
+        161904
+      ],
+      "source_byte_range_zero_based_half_open": [
+        161034,
+        161940
+      ],
+      "source_segment_sha256": "432f43f0270c5081d6d57407b6040e51df752846f914be2c7304bfd572429ac1",
+      "source_text_including_original_CRLF": "Our theory consists merely in observing universal _facts_, universal\r\nopinions; calculations and ways of proceeding which universally prevail;\r\nand in classifying these, and rendering them Co-ordinate, with a view to\r\ntheir being more easily understood.\r\n\r\nOur theory is so little opposed to practice that it is nothing else but\r\n_practice explained_. We observe men acting as they are moved by the\r\ninstinct of self-preservation and a desire for progress, and what\r\nthey thus do freely and voluntarily we denominate political or social\r\neconomy. We can never help repeating, that each individual man is\r\n_practically_ an excellent economist, producing or exchanging according\r\nas he finds it more to his interest to produce or to exchange. Each,\r\nby experience, educates himself in this science; or rather the science\r\nitself is only this same experience accurately observed and methodically\r\nexplained.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Entire practice-explained and universal individualexcellent assertion currently notoldanchors",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A015",
+      "rule": "P14-R23",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        3110,
+        3147
+      ],
+      "source_global_lines_inclusive": [
+        3110,
+        3147
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        168218,
+        170706
+      ],
+      "source_byte_range_zero_based_half_open": [
+        168259,
+        170747
+      ],
+      "source_segment_sha256": "12676ea238c9209b5ecf3ed049b24ad2cf00ecac5117d3bf4bfdc18cd69e9b2d",
+      "source_text_including_original_CRLF": "For my own part, it seems to me, that if I had entered the precincts of\r\nthe science by the same gate, if I had failed to perceive clearly that\r\nLiberty, Utility, Justice, Peace, are things not only compatible, but\r\nstrictly allied with each other, and, so to speak, identical, I should\r\nhave endeavoured to forget what I had learned, and I should have asked:\r\n\r\n\"How God could have willed that men should attain prosperity only\r\nthrough Injustice and War? How He could have willed that they should be\r\nunable to avoid Injustice and War except by renouncing the possibility\r\nof attaining prosperity?\r\n\r\n\"Dare I adopt, as the basis of the legislation of a great nation, a\r\nscience which thus misleads me by false lights, which has conducted me\r\nto this horrible blasphemy, and landed me in so dreadful an alternative?\r\nAnd when a long train of illustrious philosophers have been conducted by\r\nthis science, to which they have devoted their lives, to more consoling\r\nresults--when they affirm that Liberty and Utility are perfectly\r\nreconcilable with Justice and Peace--that all these great principles\r\nrun in infinitely extended parallels, and will do so to all eternity,\r\nwithout running counter to each other,--I would ask, Have they not in\r\ntheir favour that presumption which results from all that we know of the\r\ngoodness and wisdom of God, as manifested in the sublime harmony of the\r\nmaterial creation? In the face of such a presumption, and of so many\r\nreliable authorities, ought I to believe lightly that God has been\r\npleased to implant antagonism and dissonance in the laws of the moral\r\nworld? No; before I should venture to conclude that the principles\r\nof social order run counter to and neutralize each other, and are in\r\neternal and irreconcilable opposition--before I should venture to impose\r\non my fellow-citizens a system so impious as that to which my reasonings\r\nwould appear to lead,--I should set myself to reexamine the whole chain\r\nof these reasonings, and assure myself that at this stage of the\r\njourney I had not missed my way.\" But if, after a candid and searching\r\nexamination, twenty times repeated, I arrived always at this frightful\r\nconclusion, that we must choose between the Bight and the Good,\r\ndiscouraged, I should reject the science, and bury myself in voluntary\r\nignorance; above all, I should decline all participation in public\r\naffairs, leaving to men of another temper and constitution the burden\r\nand responsibility of a choice so painful.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Entire strong principleidentity/divinepresumption/20examinations notoldmidparagraph3131",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A016",
+      "rule": "P14-R24",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        3165,
+        3202
+      ],
+      "source_global_lines_inclusive": [
+        3165,
+        3206
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        171246,
+        173798
+      ],
+      "source_byte_range_zero_based_half_open": [
+        171287,
+        173839
+      ],
+      "source_segment_sha256": "0eae43de1d5173882d94eafbf51b217e5075f3f2974e20321371a7fcc1632ee0",
+      "source_text_including_original_CRLF": "In practice, does a single exchange take place, out of a hundred, out\r\nof a thousand, out of ten thousand perhaps, which represents the direct\r\nbarter of commodity for commodity? Never since the introduction of money\r\nhas any agriculturist said: I want to buy shoes, hats, advice, lessons;\r\nbut only from the shoemaker, the hat-maker, the lawyer, the professor,\r\nwho will purchase from me corn to an exactly equivalent value. And why\r\nshould nations bring each other under a yoke of this kind? Practically\r\nhow are such matters transacted?\r\n\r\nLet us suppose a people shut out from external relations. A man, we\r\nshall suppose, produces wheat. He sends it to the _home_ market,\r\nand offers it for the highest price he can obtain. He receives in\r\nexchange--what? Coins, which are just so many drafts or orders, varying\r\nvery much in amount, by means of which he can draw, in his turn, from\r\nthe national stores, when he judges it proper, and subject to due\r\ncompetition, everything which he may want or desire. Ultimately, and\r\nat the end of the operation, he will have drawn from the mass the\r\nexact equivalent of what he has contributed to it, and, in value, _his\r\nconsumption will exactly equal his production_.\r\n\r\nIf the exchanges of the supposed nation with foreigners are left free,\r\nit is no longer to the _national_, but to the _general_, market that\r\neach sends his contributions, and, in turn, derives his supplies for\r\nconsumption. He has no need to care whether what he sends into the\r\nmarket of the world is purchased by a fellow-countryman or by a\r\nforeigner; whether the drafts or orders he receives come from a\r\nFrenchman or an Englishman; whether the commodities for which he\r\nafterwards exchanges these drafts or orders are produced on this or on\r\nthe other side of the Rhine or the Pyrenees. There is always in each\r\nindividual case an exact balance between what is contributed and what is\r\nreceived, between what is poured into and what is drawn out of the great\r\ncommon reservoir; and if this is true of each individual, it is true of\r\nthe nation at large.\r\n\r\nThe only difference between the two cases is, that in the last each has\r\nto face a more extended market both as regards sales and purchases, and\r\nhas consequently more chances of transacting both advantageously.\r\n\r\nThis objection may perhaps be urged: If everybody enters into a\r\nleague not to take from the general mass the commodities of a certain\r\nindividual, that individual cannot, in his turn, obtain from the mass\r\nwhat he is in want of. It is the same of nations.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Entire indirectmoney mechanism/closed-to-world/exactbalance notoldmidparagraph3193",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A017",
+      "rule": "P14-R25",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        3224,
+        3254
+      ],
+      "source_global_lines_inclusive": [
+        3224,
+        3254
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        174420,
+        176254
+      ],
+      "source_byte_range_zero_based_half_open": [
+        174463,
+        176297
+      ],
+      "source_segment_sha256": "4343e1f1e532bcab360db26f878fc6842bfe53df0313be613f96f2828e732bb0",
+      "source_text_including_original_CRLF": "Some years ago I happened to be at Madrid, and went to the Cortes. The\r\nsubject of debate was a proposed treaty with Portugal for improving\r\nthe navigation of the Douro. One of the deputies rose and said: \"If the\r\nnavigation of the Douro is improved in the way now proposed, the traffic\r\nwill be carried on at less expense. The grain of Portugal will, in\r\nconsequence, be sold in the markets of Castile at a lower price, and\r\nwill become a formidable rival to our _national industry_. I oppose\r\nthe project, unless, indeed, our ministers will undertake to raise\r\nthe tariff of customs to the extent required to re-establish the\r\nequilibrium.\" The Assembly found the argument unanswerable.\r\n\r\nThree months afterwards I was at Lisbon. The same question was discussed\r\nin the Senate. A noble hidalgo made a speech: \"Mr President,\" he said,\r\n\"this project is absurd. You place guards, at great expense, along the\r\nbanks of the Douro to prevent Portugal being invaded by Castilian grain;\r\nand at the same time you propose, also at great expense, to facilitate\r\nthat invasion. This is a piece of inconsistency to which I cannot\r\nassent. Let us leave the Douro to our children, as it has come to us\r\nfrom our fathers.\"\r\n\r\nAfterwards, when the subject of improving the navigation of the Garonne\r\nwas discussed, I remembered the arguments of the Iberian orators, and I\r\nsaid to myself, If the Toulouse deputies were as good economists as the\r\nSpanish deputies, and the representatives of Bordeaux as acute logicians\r\nas those of Oporto, assuredly they would leave the Garonne\r\n\r\n\"Dormir au bruit flatteur de son onde naissante;\"\r\n\r\nfor the canalisation of the Garonne would favour the invasion of\r\nToulouse products, to the prejudice of Bordeaux, and the inundation of\r\nBordeaux products would do the same thing to the detriment of Toulouse.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "BothMadrid andLisbon pluswholeFrenchhypothesis notoldonlyLisbon",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A018",
+      "rule": "P14-R27",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        3360,
+        3406
+      ],
+      "source_global_lines_inclusive": [
+        3350,
+        3406
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        180446,
+        184266
+      ],
+      "source_byte_range_zero_based_half_open": [
+        180491,
+        184312
+      ],
+      "source_segment_sha256": "e2eaa4013df6fba7d0b5a0940867b4ad5f9591331d2a32537159c41c21f9f8a6",
+      "source_text_including_original_CRLF": "But if exchange does not possess a character which is peculiar to\r\nit,--if it is not governed by any natural law,--if, capriciously, it\r\nbe sometimes useful and sometimes detrimental,--if it does not find its\r\nmotive force in the good which it accomplishes, its limit in the good\r\nwhich it ceases to accomplish,--if its consequences cannot be estimated\r\nby those who effect exchanges;--in a word, if there be no absolute\r\nprinciples, then we must proceed to weigh, balance, and regulate\r\ntransactions, we must equalize the conditions of labour, and try to find\r\nout the average rate of profits--a colossal task, well deserving the\r\nlarge emoluments and powerful influence awarded to those who undertake\r\nit.\r\n\r\nOn entering Paris, which I had come to visit, I said to myself, Here\r\nare a million of human beings, who would all die in a short time if\r\nprovisions of every kind ceased to flow towards this great metropolis.\r\nImagination is baffled when it tries to appreciate the vast multiplicity\r\nof commodities which must enter to-morrow through the barriers in order\r\nto preserve the inhabitants from falling a prey to the convulsions of\r\nfamine, rebellion, and pillage. And yet all sleep at this moment, and\r\ntheir peaceful slumbers are not disturbed for a single instant by the\r\nprospect of such a frightful catastrophe. On the other hand, eighty\r\ndepartments have been labouring to-day, without concert, without any\r\nmutual understanding, for the provisioning of Paris. How does each\r\nsucceeding day bring what is wanted, nothing more, nothing less, to so\r\ngigantic a market? What, then, is the ingenious and secret power which\r\ngoverns the astonishing regularity of movements so complicated, a\r\nregularity in which everybody has implicit faith, although happiness\r\nand life itself are at stake? That power is an _absolute principle_, the\r\nprinciple of freedom in transactions. We have faith in that inward light\r\nwhich Providence has placed in the heart of all men, and to which He has\r\nconfided the preservation and indefinite amelioration of our species,\r\nnamely, a regard to personal _interest_--since we must give it its right\r\nname--a principle so active, so vigilant, so foreseeing, when it is free\r\nin its action. In what situation, I would ask, would the inhabitants of\r\nParis be, if a minister should take it into his head to substitute for\r\nthis power the combinations of his own genius, however superior we might\r\nsuppose them to be--if he thought to subject to his supreme direction\r\nthis prodigious mechanism, to hold the springs of it in his hands, to\r\ndecide by whom, or in what manner, or on what conditions, everything\r\nneeded should be produced, transported, exchanged, and consumed? Truly,\r\nthere may be much suffering within the walls of Paris--poverty, despair,\r\nperhaps starvation, causing more tears to flow than ardent charity\r\nis able to dry up; but I affirm that it is probable, nay, that it is\r\ncertain, that the arbitrary intervention of government would multiply\r\ninfinitely those sufferings, and spread over all our fellow-citizens\r\nthose evils which at present affect only a small number of them.\r\n\r\nThis faith, then, which we repose in a principle, when the question\r\nrelates only to our home transactions, why should we not retain, when\r\nthe same principle is applied to our international transactions, which\r\nare undoubtedly less numerous, less delicate, and less complicated?\r\nAnd if it is not necessary that the _préfecture_ should regulate our\r\nParisian industries, weigh our chances, balance our profits and losses,\r\nsee that our circulating medium is not exhausted, and equalize the\r\nconditions of our home labour, why should it be necessary that the\r\nCustomhouse, departing from its fiscal duties, should pretend to\r\nexercise a protective action over our external commerce?\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "CompleteParis provisioning context andfinal fiscalguard notoldmidparagraph3380",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A019",
+      "rule": "P14-R30",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        3630,
+        3686
+      ],
+      "source_global_lines_inclusive": [
+        3630,
+        3686
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        195768,
+        198993
+      ],
+      "source_byte_range_zero_based_half_open": [
+        195820,
+        199053
+      ],
+      "source_segment_sha256": "816521e5e50cd15687abc70a4f68ba6613993ef687824876e5bb8af83e4ddd33",
+      "source_text_including_original_CRLF": "The immediate effect of the invention and employment of an ingenious\r\nmachine is to render superfluous, for the attainment of a given result,\r\na certain amount of manual labour. But its action does not stop there.\r\nFor the very reason that the desired result is obtained with fewer\r\nefforts, the product is handed over to the public at a lower price; and\r\nthe aggregate of savings thus realized by all purchasers, enables them\r\nto procure other satisfactions; that is to say, to encourage manual\r\nlabour in general to exactly the extent of the manual labour which has\r\nbeen saved in the special branch of industry which has been recently\r\nimproved. So that the level of labour has not fallen, while that of\r\nenjoyments has risen.\r\n\r\nLet us render this evident by an example.\r\n\r\nSuppose there are used annually in this country ten millions of hats\r\nat 15 shillings; this makes the sum which goes to the support of this\r\nbranch of industry £7,500,000 sterling. A machine is invented which\r\nallows these hats to be manufactured and sold at 10 shillings. The sum\r\nnow wanted for the support of this industry is reduced to £5,000,000,\r\nprovided the demand is not augmented by the change. But the remaining\r\nsum of £2,500,000 is not by this change withdrawn from the support of\r\n_human labour_. That sum, economized by the purchasers of hats, will\r\nenable them to satisfy other wants, and, consequently, to that extent\r\nwill go to remunerate the aggregate industry of the country. With the\r\nfive shillings saved, John will purchase a pair of shoes, James a book,\r\nJerome a piece of furniture, etc. Human labour, taken in the aggregate,\r\nwill continue, then, to be supported and encouraged to the extent of\r\n£7,500,000; but this sum will yield the same number of hats, plus all\r\nthe satisfactions and enjoyments corresponding to £2,500,000 that the\r\nemployment of the machine has enabled the consumers of hats to save.\r\nThese additional enjoyments constitute the clear profit which the\r\ncountry will have derived from the invention. This is a free gift, a\r\ntribute which human genius will have derived from nature. We do not at\r\nall dispute, that in the course of the transformation a certain amount\r\nof labour will have been _displaced_; but we cannot allow that it has\r\nbeen destroyed or diminished.\r\n\r\nThe same thing holds of the importation of foreign commodities. Let us\r\nrevert to our former hypothesis.\r\n\r\nThe country manufactures ten millions of hats, of which the cost price\r\nwas 15 shillings. The foreigner sends similar hats to our market, and\r\nfurnishes them at 10 shillings each. I maintain that the _national\r\nlabour_ will not be thereby diminished.\r\n\r\nFor it must produce to the extent of £5,000,000, to enable it to pay for\r\n10 millions of hats at 10 shillings.\r\n\r\nAnd then there remains to each purchaser five shillings saved on\r\neach hat, or in all, £2,500,000, which will be spent on other\r\nenjoyments--that is to say, which will go to support labour in other\r\ndepartments of industry.\r\n\r\nThen the aggregate labour of the country will remain what it was, and\r\nthe additional enjoyments represented by £2,500,000 saved upon hats,\r\nwill form the clear profit accruing from imports under the system of\r\nfree trade.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole exactlabour-offset andbothmachineimport example; oldonlyhatamount",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A020",
+      "rule": "P14-R32",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        4153,
+        4190
+      ],
+      "source_global_lines_inclusive": [
+        4151,
+        4193
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        223605,
+        225905
+      ],
+      "source_byte_range_zero_based_half_open": [
+        223669,
+        225971
+      ],
+      "source_segment_sha256": "449bec0c9ebfc68c4d21f1ad0a7deeac2a456fb77b722d3774d1643ea177c27f",
+      "source_text_including_original_CRLF": "And yet a tribute is as different from a purchase as a theft is from an\r\nexchange; and I should like quite as well to hear it said, Cartouche has\r\nbroken into my strong-box and purchased a thousand pounds, as to hear\r\none of our deputies repeat, We have paid Germany tribute for a thousand\r\nhorses which she has sold us.\r\n\r\nFor what distinguishes the act of Cartouche from a purchase is, that he\r\nhas not put into my strong-box, and with my consent, a value equivalent\r\nto what he has taken out of it.\r\n\r\nAnd what distinguishes our remittance of £20,000 which we have made to\r\nGermany from a tribute paid to her is this, that she has not received\r\nthe money gratuitously, but has given us in exchange a thousand horses,\r\nwhich we have judged to be worth the £20,000.\r\n\r\nIs it worth while exposing seriously such an abuse of language? Yes; for\r\nthese terms are used seriously both in newspapers and in books.\r\n\r\nDo not let it be supposed that these are instances of a mere _lapsus\r\nlinguo_ on the part of certain ignorant writers! For one writer who\r\nabstains from so using them, I will point you out ten who admit them,\r\nand amongst the rest, the D'Argouts, the Dupins, the Villeles--peers,\r\ndeputies, ministers of state,--men, in short, whose words are laws,\r\nand whose sophisms, even the most transparent, serve as a basis for the\r\ngovernment of the country.\r\n\r\nA celebrated modern philosopher has added to the categories of Aristotle\r\nthe sophism which consists in employing a phrase which includes a\r\n_petitio pinncipii_. He gives many examples of it; and he should have\r\nadded the word tributary to his list. The business, in fact, is to\r\ndiscover whether purchases made from foreigners are useful or hurtful.\r\nThey are hurtful, you say. And why? Because they render us tributaries\r\nto the foreigner. This is just to use a word which implies the very\r\nthing to be proved.\r\n\r\nIt may be asked how this abuse of words first came to be introduced into\r\nthe rhetoric of the monopolists?\r\n\r\nMoney leaves the country to satisfy the rapacity of a victorious enemy.\r\nMoney also leaves the country to pay for commodities. An analogy is\r\nestablished between the two cases by taking into account only the points\r\nin which they resemble each other, and keeping out of view the points in\r\nwhich they differ.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full tribute/purchase theft/1000horses20000GBP subjectiveequivalence andcircularword argument supports neworiginalconditions notoldonlywarship",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A021",
+      "rule": "P14-R37",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        5419,
+        5474
+      ],
+      "source_global_lines_inclusive": [
+        5419,
+        5474
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        289907,
+        293228
+      ],
+      "source_byte_range_zero_based_half_open": [
+        289988,
+        293309
+      ],
+      "source_segment_sha256": "963c8fbcf22a8421ff0ccb2b99c90e69c26e869a9e1c6b7f9adc74d954aea52a",
+      "source_text_including_original_CRLF": "After all, can the kind of morality we are advocating of itself enable\r\nus to realize all that social perfection which the sympathetic nature of\r\nthe soul of man and its noble faculties authorize us to look forward to\r\nand hope for? I am far from saying so. Assume the complete diffusion of\r\ndefensive morality, it resolves itself simply into the conviction that\r\nmen's interests, rightly understood, are always in accord with justice\r\nand general utility. Such a society, although certainly well ordered,\r\nwould not be very attractive. There would be fewer cheats simply because\r\nthere would be fewer dupes. Vice always lurking in the background, and\r\nstarved, so to speak, for want of support, would revive the moment that\r\nsupport was restored to it.\r\n\r\nThe prudence of each would be enforced by the vigilance of all; and\r\nreform, confining itself to the regulation of external acts, and never\r\ngoing deeper than the skin, would fail to penetrate men's hearts and\r\nconsciences. Such a society would remind us of one of those exact,\r\nrigorous, and just men, who are ready to resent the slightest invasion\r\nof their rights, and to defend themselves on all sides from attacks. You\r\nesteem them; you perhaps admire them; you would elect them as deputies;\r\nbut you would never make them your friends.\r\n\r\nBut the two principles of morality I have described, instead of running\r\ncounter to each other, work in concert, attacking vice from opposite\r\ndirections. Whilst the economists are doing their part, sharpening the\r\nwits of the Orgons, eradicating prejudices, exciting just and necessary\r\ndistrust, studying and explaining the true nature of things and of\r\nactions, let the religious moralist accomplish on his side his more\r\nattractive, although more difficult, labours. Let him attack dishonesty\r\nin a hand-to-hand fight; let him pursue it into the most secret\r\nrecesses of the heart; let him paint in glowing colours the charms\r\nof beneficence, of self-sacrifice, of devotion; let him open up the\r\nfountains of virtue, where we can only dry up the fountains of vice.\r\nThis is his duty, and a noble duty it is. But why should he contest the\r\nutility of the duty which has devolved upon us?\r\n\r\nIn a society which, without being personally and individually virtuous,\r\nwould nevertheless be well ordered through the action of the economic\r\nprinciple of morality (which means a knowledge of the economy of the\r\nsocial body), would not an opening be made for the work of the religious\r\nmoralist?\r\n\r\nHabit, it is said, is a second nature.\r\n\r\nA country might still be unhappy, although for a long time each man may\r\nhave been unused to injustice through the continued resistance of an\r\nenlightened public. But such a country, it seems to me, would be well\r\nprepared to receive a system of teaching more pure and elevated. We get\r\na considerable way on the road to good, when we become unused to evil.\r\nMen can never remain stationary. Diverted from the path of vice, feeling\r\nthat it leads only to infamy, they would feel so much the more sensibly\r\nthe attractions of virtue.\r\n\r\nSociety must perhaps pass through this prosaic state of transition, in\r\nwhich men practise virtue from motives of prudence, in order to rise\r\nafterwards to that fairer and more poetic region where such calculating\r\nmotives are no longer wanted.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole economicmoralitynotallperfection paragraph beginsbeforeold5420",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A022",
+      "rule": "P14-R38",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        5590,
+        5622
+      ],
+      "source_global_lines_inclusive": [
+        5588,
+        5622
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        298152,
+        299929
+      ],
+      "source_byte_range_zero_based_half_open": [
+        298233,
+        300010
+      ],
+      "source_segment_sha256": "2eda1993a0bbe8a882a4856627376dfff2b31d4fce0c29bda5368c54bc42e7d4",
+      "source_text_including_original_CRLF": "Of these two processes, the one which gives the best result may be\r\nrepresented by the sharp axe, and the other by the blunt one.\r\n\r\nYou do not deny that at present, in France, we obtain a piece of stuff\r\nby the work of our own looms (that is the blunt axe) _with more labour_\r\nthan by producing and exchanging wines (that is the sharp axe). So far\r\nare you from denying this, that it is precisely because of this _excess\r\nof labour_ (in which you make wealth to consist) that you recommend,\r\nnay, that you _compel_ the employment of the worse of the two hatchets.\r\n\r\nNow, only be consistent, be impartial, and if you mean to be just, treat\r\nthe poor carpenters as you treat yourselves.\r\n\r\nPass a law to this effect:\r\n\r\n\"_No one shall henceforth be permitted to employ any beams or rafters,\r\nbut such as are produced and fashioned by blunt hatchets_.\"\r\n\r\nAnd see what will immediately happen.\r\n\r\nWhereas at present we give a hundred blows of the axe, we shall then\r\ngive three hundred. The work which we now do in an hour will then\r\nrequire three hours. What a powerful encouragement will thus be given to\r\nlabour! Masters, journeymen, apprentices! our sufferings are now at an\r\nend. We shall be in demand; and, therefore, well paid. Whoever shall\r\nhenceforth desire to have a roof to cover him must comply with our\r\nexactions, just as at present whoever desires clothes to his back must\r\ncomply with yours.\r\n\r\nAnd should the theoretical advocates of free trade ever dare to call\r\nin question the utility of the measure, we know well where to seek for\r\nreasons to confute them Your Inquiry of 1834 is still to be had. With\r\nthat weapon, we shall conquer; for you have there admirably pleaded the\r\ncause of restriction, and of blunt axes, which are in reality the same\r\nthing.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole proposedbluntaxe law3x effort hope and1834Inquiry subject",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A023",
+      "rule": "P14-R39",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        5661,
+        5737
+      ],
+      "source_global_lines_inclusive": [
+        5655,
+        5737
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        301322,
+        305009
+      ],
+      "source_byte_range_zero_based_half_open": [
+        301403,
+        305090
+      ],
+      "source_segment_sha256": "d001e96a053a86e575bf4f9f1037d5165062315a6ed55ce31ce8643116d2d22c",
+      "source_text_including_original_CRLF": "My object was to interrogate these plain, simple people as to the manner\r\nin which they are, or believe themselves to be, affected by the policy\r\nof protection. The president pointed out that this would be infringing\r\nto some extent on the fundamental conditions of the Association. For in\r\nFrance, this land of liberty, people who associate give up their right\r\nto talk politics--in other words, their right to discuss their common\r\ninterests. However, after some hesitation, he agreed to include the\r\nquestion in the order of the day.\r\n\r\nThey divided the assembly into as many committees as there were groups\r\nof distinct trades, and delivered to each committee a schedule to be\r\nfilled up after fifteen days' deliberation.\r\n\r\nOn the day fixed, the worthy president (we adopt the official style)\r\ntook the chair, and there were laid upon the table (still the official\r\nstyle) fifteen reports, which he read in succession.\r\n\r\nThe first which was taken into consideration was that of the tailors.\r\nHere is an exact and literal copy of it:--\r\n\r\nEFFECTS OF PROTECTION.--REPORT OF THE TAILORS.\r\n\r\nInconveniences.\r\n\r\n1st, In consequence of the policy of protection, we pay dearer for\r\nbread, meat, sugar, firewood, thread, needles, etc., which is equivalent\r\nin our case to a considerable reduction of wages.\r\n\r\n2d, In consequence of the policy of 'protection, our customers also pay\r\ndearer for everything, and this leaves them less to spend upon clothing;\r\nwhence it follows that we have less employment, and, consequently,\r\nsmaller returns.\r\n\r\n3d, In consequence of the policy of protection, the stuffs which we make\r\nup are dear, and people on that account wear their clothes longer, or\r\ndispense with part of them. This, again, is equivalent to a diminution\r\nof employment, and forces us to offer our services at a lower rate of\r\nremuneration.\r\n\r\nAdvantages.\r\n\r\nNone.\r\n\r\nNote.--After all our inquiries, deliberations, and discussions, we have\r\nbeen quite unable to discover that in any respect whatever the policy of\r\nprotection has been of advantage to our trade.\r\n\r\nHere is another report:--\r\n\r\nEFFECTS OF PROTECTION.--REPORT OF THE BLACKSMITHS.\r\n\r\nInconveniences.\r\n\r\n1st, The policy of protection imposes a tax upon us every time we eat,\r\ndrink, or warm or clothe ourselves, and this tax does not go to the\r\ntreasury.\r\n\r\n2d, It imposes a like tax upon all our fellow-citizens who are not of\r\nour trade, and they, being so much the poorer, have recourse to cheap\r\nsubstitutes for our work, which deprives us of the employment we should\r\notherwise have had. None.\r\n\r\n3d, It keeps up iron at so high a price, that it is not employed in\r\nthe country for ploughs, grates, gates, balconies, etc.; and our trade,\r\nwhich might furnish employment to so many other people who are in want\r\nof it, no longer furnishes employment to ourselves.\r\n\r\n4th, The revenue which the treasury fails to obtain from commodities\r\nwhich are not imported is levied upon the salt we use, postages, etc.\r\n\r\nAll the other reports (with which it is unnecessary to trouble the\r\nreader) are to the same tune. Gardeners, carpenters, shoemakers,\r\nclogmakers, boatmen, millers, all give vent to the same complaints.\r\n\r\nI regret that there are no agricultural labourers in our association.\r\nTheir report would assuredly have been very instructive.\r\n\r\nBut, alas! in our country of the Landes, the poor labourers, protected\r\nthough they be, have not the means of joining an association, and,\r\nhaving insured their cattle, they find they cannot themselves become\r\nmembers of a friendly society. The boon of protection does not hinder\r\nthem from being the parias of our social order. What shall I say of the\r\nvine-dressers?\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full fifteendays15reports/tailor andblacksmith/missingagriculturallabourer context notoldonlyblacksmith",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A024",
+      "rule": "P14-R41",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        6049,
+        6086
+      ],
+      "source_global_lines_inclusive": [
+        6048,
+        6092
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        320797,
+        323559
+      ],
+      "source_byte_range_zero_based_half_open": [
+        320881,
+        323643
+      ],
+      "source_segment_sha256": "0a5594828135321513db663e87f61c0d171566ead854b1631ecca97f3e631101",
+      "source_text_including_original_CRLF": "Mr Free-trader,--Allow us to tell you that you must have read only half\r\nthe article which has called forth your letter. We said that free trade\r\nacts exactly in the same way as roads, canals, railways, and everything\r\nelse which facilitates communication by removing obstacles. Its first\r\ntendency is to increase the supply of the commodity freed from duty, and\r\nconsequently to lower its price. But by augmenting at the same time the\r\nsupply of all other commodities for which this article is exchanged, it\r\nincreases the demand, and the price by this means rises again. You ask\r\nwhat gain this would be to the people? Suppose a balance with several\r\nscales, in each of which is deposited a certain quantity of the articles\r\nyou have enumerated. If you add to the corn in one scale it will tend\r\nto fall; but if you add a little cloth, a little iron, a little fuel,\r\nto what the other scales contained, you will redress the equilibrium.\r\nIf you look only at the beam, you will find nothing changed. But if you\r\nlook at the people for whose use these articles are produced, you will\r\nfind them better fed, clothed, and warmed.\r\n\r\nMr Editor,--I am a manufacturer of cloth, and a protectionist. I confess\r\nthat your article on dearness and cheapness has made me reflect. It\r\ncontains something specious which would require to be well established\r\nbefore we declare ourselves converted.\r\n\r\nMr Protectionist,--We say that your restrictive measures have an\r\niniquitous object in view, namely, artificial dearness. But we do not\r\naffirm that they always realize the hopes of those who promote them.\r\nIt is certain that they inflict on the consumer all the injurious\r\nconsequences of scarcity. It is not certain that they always confer a\r\ncorresponding advantage on the producer. Why? Because if they diminish\r\nthe supply, they diminish also the demand.\r\n\r\nThis proves that there is in the economic arrangement of this world a\r\nmoral force, a _vis medieatrix_, which causes unjust ambition in the\r\nlong run to fall a prey to self-deception.\r\n\r\nWould you have the goodness, Sir, to remark that one of the elements\r\nof the prosperity of each individual branch of industry is the\r\ngeneral wealth of the community. The value of a house is not always in\r\nproportion to what it has cost, but likewise in proportion to the number\r\nand fortune of the tenants. Are two houses exactly similar necessarily\r\nof the same value? By no means, if the one is situated in Paris and\r\nthe other in Lower Brittany. Never speak of price without taking into\r\naccount collateral circumstances, and let it be remembered that no\r\nattempt is so bootless as to endeavour to found the prosperity of parts\r\non the ruin of the whole. And yet this is what the policy of restriction\r\npretends to do.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole first supplementletterreply multi-pan andsecondletter notoldmidreply6060",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A025",
+      "rule": "P14-R42",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        6242,
+        6272
+      ],
+      "source_global_lines_inclusive": [
+        6240,
+        6276
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        330478,
+        332314
+      ],
+      "source_byte_range_zero_based_half_open": [
+        330562,
+        332398
+      ],
+      "source_segment_sha256": "e719da24b1779cf7e12c293e564ec7b91cfe963363c159d91f99b9094b848586",
+      "source_text_including_original_CRLF": "This is just the system of tactics which has been employed to defend\r\nevery system of abuse; and one thing I must plainly avow, that it is\r\nthis system of tactics which constantly embarrasses those who advocate\r\nreforms, even those most useful to the people. You will soon see the\r\nreason of this.\r\n\r\nWhen an abuse has once taken root, everything is arranged on the\r\nassumption of its continuance. Some men depend upon it for subsistence,\r\nothers depend upon them, and so on, till a formidable edifice is\r\nerected.\r\n\r\nWould you venture to pull it down? All cry out, and remark this--the men\r\nwho bawl out appear always at first sight to be in the right, because\r\nit is far easier to show the derangements which must accompany a reform\r\nthan the arrangements which must follow it.\r\n\r\nThe supporters of abuses cite particular instances of sufferings; they\r\npoint out particular employers who, with their workmen, and the people\r\nwho supply them with materials, are about to be injured; and the poor\r\nreformer can only refer to the general good which must gradually diffuse\r\nitself over the masses. That by no means produces the same sensation.\r\n\r\nThus, when the question turns on the abolition of slavery. \"Poor men!\"\r\nis the language addressed to the negroes, \"who is henceforth to support\r\nyou. The manager handles the lash, but he likewise distributes the\r\ncassava.\"\r\n\r\nThe slaves regret to part with their chains, for they ask themselves,\r\n\"Whence will come the cassava?\"\r\n\r\nThey fail to see that it is not the manager who feeds them, but their\r\nown labour--which feeds both them and the manager.\r\n\r\nWhen they set about reforming the convents in Spain, they asked the\r\nbeggars, \"Where will you now find food and clothing? The prior is your\r\nbest friend. Is it not very convenient to be in a situation to address\r\nyourselves to him?\"\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole reformdependencenetwork/visiblepain versusdiffusebenefitnotoldonly3replies",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A026",
+      "rule": "P14-R50",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        7748,
+        7763
+      ],
+      "source_global_lines_inclusive": [
+        7745,
+        7763
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        395729,
+        396417
+      ],
+      "source_byte_range_zero_based_half_open": [
+        395844,
+        396532
+      ],
+      "source_segment_sha256": "47a3b74dd7d3c3bc3702fcf1023a9639872926a8643bb0a53230ccc624ece16e",
+      "source_text_including_original_CRLF": "_Utopian free-trader getting more and more excited_. \"I should proclaim\r\nfreedom of worship, freedom of teaching, and new resources. I would buy\r\nup the railways, pay off the public debtr and starve out stockjobbers.\"\r\n\r\n\"Monsieur l'Utopiste!\"\r\n\r\n\"Set free from a multiplicity of cares, I should concentrate all\r\nthe powers of government in the repression of fraud, and in the\r\nadministration of prompt and cheap justice; I....\r\n\r\n\"Monsieur l'Utopiste, you undertake too many things; the nation will not\r\nsupport you!\"\r\n\r\n\"You have granted me a majority.\"\r\n\r\n\"I withdraw it.\"\r\n\r\n\"Be it so. Then I am no longer a minister, and my projects will continue\r\nto be what they were--_Utopias_.\"\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole withdrawnmajority enddialogue supports originalclaim notoldonlyopening",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A027",
+      "rule": "P14-R55",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        8736,
+        8755
+      ],
+      "source_global_lines_inclusive": [
+        8736,
+        8764
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        439844,
+        441521
+      ],
+      "source_byte_range_zero_based_half_open": [
+        439978,
+        441655
+      ],
+      "source_segment_sha256": "bc199607134bdd03f0fc12a75f08d0b7df1015a0e97edd6b6882ff547ec800e9",
+      "source_text_including_original_CRLF": "Father: I am going to tell you a secret. I remain in Paris on purpose. I\r\nshall call in the people to my assistance. It rests with them to replace\r\nthe octroi on its ancient basis, and get quit of that fatal principle\r\nwhich was engrafted on it, and which still vegetates there like a\r\nparasitical fungus.\r\n\r\nSon: You must succeed in this at once.\r\n\r\nFather: On the contrary, the work will be difficult and laborious.\r\nPeter, Paul, and John understand one another marvellously. They will do\r\nanything rather than allow firewood, butter, and butchers' meat to\r\nenter Paris. They have on their side the people, who see clearly the\r\nemployment which these three protected branches of industry afford.\r\nThey know well to what extent the cowfeeders and wood-merchants give\r\nemployment to labour; but they have by no means the same exact idea of\r\nthe labour which would be developed in the open air of liberty.\r\n\r\nSon: If that is all, you will soon enlighten them.\r\n\r\nFather: At your age, my son, no doubts arise. If I write, the people\r\nwill not read; for, to support their miserable existence, they have not\r\nmuch time at their disposal. If I speak, the magistrates will shut\r\nmy mouth. The people, therefore, will long remain under their fatal\r\nmistake. Political parties, whose hopes are founded on popular passions,\r\nwill set themselves, not to dissipate their prejudices, but to make\r\nmerchandise of them. I shall have to combat at one and the same time the\r\ngreat men of the day, the people, and their leaders. In truth, I see a\r\nfrightful storm ready to burst over the head of the bold man who shall\r\nventure to protest against an iniquity so deeply rooted in this country.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole poverty/censorship/party interference and publicmisunderstanding reform-obstacle argument; no claim this oldrange contains the subsequent soncompletion exchange.",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A028",
+      "rule": "P14-R56",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        9009,
+        9080
+      ],
+      "source_global_lines_inclusive": [
+        9008,
+        9080
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        450971,
+        453894
+      ],
+      "source_byte_range_zero_based_half_open": [
+        451113,
+        454036
+      ],
+      "source_segment_sha256": "4ebac45093ee94d75ca18f215a82408662f16e2e4f3363808d8e5bfd83e19e8e",
+      "source_text_including_original_CRLF": "\"With all my heart. Some time afterwards, Robinson having met with\r\nFriday, they united their labour in a common work. In the morning they\r\nhunted for six hours, and brought home four baskets of game. In the\r\nevening they worked in the garden for six hours, and obtained four\r\nbaskets of vegetables.\r\n\r\n\"One day a canoe touched at the island. A good-looking foreigner\r\nlanded, and was admitted to the table of our two recluses. He tasted and\r\ncommended very much the produce of the garden, and before taking leave\r\nof his entertainers, spoke as follows:--\r\n\r\n\"'Generous islanders, I inhabit a country where game is much more\r\nplentiful than here, but where horticulture is quite unknown. It would\r\nbe an easy matter to bring you every evening four baskets of game, if\r\nyou would give me in exchange two baskets of vegetables.'\r\n\r\n\"At these words Robinson and Friday retired to consult, and the argument\r\nthat passed is too interesting not to be reported _in extenso_.\r\n\r\n\"Friday: What do you think of it?\r\n\r\n\"Robinson: If we close with the proposal, we are ruined.\r\n\r\n\"F.: Are you sure of that? Let us consider.\r\n\r\n\"R.: The case is clear. Crushed by competition, our hunting as a branch\r\nof industry is annihilated.\r\n\r\n\"F.: What matters it, if we have the game?\r\n\r\n\"R.: Theory! it will no longer be the product of our labour.\r\n\r\n\"F.: I beg your pardon, sir; for in order to have game we must part with\r\nvegetables.\r\n\r\n\"R.: Then, what shall we gain?\r\n\r\n\"F.:. The four baskets of game cost us six hours' work. The foreigner\r\ngives us them in exchange for two baskets of vegetables, which cost us\r\nonly three hours' work. This places three hours at our disposal.\r\n\r\n\"R.: Say, rather, which are substracted from our exertions. In this will\r\nconsist our loss. _Labour is wealth_, and if we lose a fourth part of\r\nour time, we shall be less rich by a fourth.\r\n\r\n\"F.: You are greatly mistaken, my good friend. We shall have as much\r\ngame, and the same quantity of vegetables, and three hours at our\r\ndisposal into the bargain. This is progress, or there is no such thing\r\nin-the world.\r\n\r\n\"R.: You lose yourself in generalities! What should we make of these\r\nthree hours?\r\n\r\n\"F.: We would do _something else_.\r\n\r\n\"R.: Ah! I understand you. You cannot come to particulars. Something\r\nelse, something else--this is easily said.\r\n\r\n\"F.: We can fish, we can ornament our cottage, we can read the Bible.\r\n\r\n\"R.: Utopia! Is there any certainty that we should do either the one or\r\nthe other?\r\n\r\n\"F.: Very well, if we have no wants to satisfy we can rest. Is repose\r\nnothing?\r\n\r\n\"R.: But while we repose we may die of hunger.\r\n\r\n\"F.: My dear friend, you have got into a vicious circle. I speak of\r\na repose which will subtract nothing from our supply of game and\r\nvegetables. You always forget that by means of our _foreign trade_\r\nnine hours' labour will give us the same quantity of provisions that we\r\nobtain at present with twelve.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole initialtwopeople/productiveexchangeparameters andsavedtime+leisure notoldmidquotedargument9034",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A029",
+      "rule": "P14-R61",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        10016,
+        10032
+      ],
+      "source_global_lines_inclusive": [
+        10013,
+        10032
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        497627,
+        498797
+      ],
+      "source_byte_range_zero_based_half_open": [
+        497776,
+        498946
+      ],
+      "source_segment_sha256": "28175532ed66a7c2db7d7ecae090ff564a41e8411660cc91abf104659a95d68a",
+      "source_text_including_original_CRLF": "Let the Belgians and the English lower the price of their iron ever\r\nso much; let them, if they will, send it to us for nothing; this\r\nmight extinguish some of our blast-furnaces; but immediately, and as\r\na necessary consequence of this very cheapness, there would rise up a\r\nthousand other branches of industry more profitable than the one which\r\nhad been superseded.\r\n\r\nWe arrive, then, at the conclusion that domination by labour is\r\nimpossible, and a contradiction in terms, seeing that all superiority\r\nwhich manifests itself among a people means cheapness, and tends only to\r\nimpart force to all other nations. Let us banish, then, from political\r\neconomy all terms borrowed from the military vocabulary: to fight with\r\nequal weapons, to conquer, to crush, to stifle, to be beaten, invasion,\r\ntribute, etc. What do such phrases mean? Squeeze them, and you obtain\r\nnothing... Yes, you do obtain something; for from such words proceed\r\nabsurd errors, and fatal and pestilent prejudices. Such phrases tend to\r\narrest the fusion of nations, are inimical to their peaceful, universal,\r\nand indissoluble alliance, and retard the progress of the human race.\r\n\r\nTHE END.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Whole final cheapiron/free blastfurnace loss immediatelynecessarily1000others anddomination-impossibility conclusion",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    },
+    {
+      "id": "P14-QA-A030",
+      "rule": "P14-R55",
+      "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+      "proposed_source_range": [
+        8860,
+        8875
+      ],
+      "source_global_lines_inclusive": [
+        8860,
+        8875
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        445611,
+        446443
+      ],
+      "source_byte_range_zero_based_half_open": [
+        445753,
+        446585
+      ],
+      "source_segment_sha256": "7056ce8c578c1996a56890cf7e0ca0a6175019e2abdc65d58b68cec1ec28ad4d",
+      "source_text_including_original_CRLF": "Peter: I declare, for my own part, if you deprive the poor cowfeeders\r\nand pig-drivers of their daily bread, I can no longer be answerable for\r\npublic order. Workmen, distrust that man. He is the agent of perfidious\r\nNormandy, and derives his inspiration from the provinces. He is a\r\ntraitor; down with him! (The people preserve silence.)\r\n\r\nJacques Bonhomme: Parisians, what I have told you to-day,\r\n\r\nI told you twenty years ago, when Peter set himself to work the octroi\r\nfor his own profit and to your detriment. I am not, then, the agent of\r\nNormandy. Hang me up, if you will, but that will not make oppression\r\nanything else than oppression. Friends, it is not Jacques or Peter that\r\nyou must put an end to, but liberty if you fear it, or restriction if it\r\ndoes you harm.\r\n\r\nThe People: Hang nobody, and set everybody free.\r\n",
+      "source_full_file_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2",
+      "reason": "Full finaltheatre threats/falseagent accusation and explicitdo-nothang-anyone institutionaldifference, supports actuallastscene originalconditions",
+      "hash_method": "Original UTF-8 CRLF bytes, no newline normalization",
+      "precise_printed_page_verified": false,
+      "precise_original_printed_pages": null,
+      "original_scan_obtained": false,
+      "whole_context_actually_read_by_reviewer": true
+    }
+  ],
+  "source_file": "work/book-experts-v5/index_team/P14/source/original.txt",
+  "source_sha256": "8da4965380b9c2102ab60fcfd22dfe9cd11cbf766eabfeea61ef65672e1510a2"
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": "P26",
+  "metadata_only_sync": true,
+  "rules_and_all115_fragments_unchanged": true,
+  "source_and11chapter_drafts_unchanged": true,
+  "review_before_metadata_hashes": {
+    "expert-definition.json": "aae3e94e93d1d85a5c702bedf204333af2e95cd1ce978ad660e6dbaf90c66cb1",
+    "source-fragments.json": "3f22510502772473c4aeaddb34856d5ef1f3d8668a7d8b1c1c1985e360f13668",
+    "reading-audit.json": "e96b8a58a87e50590f7d4e3f99bff4f5776cb09f867163bf6d741b35ee813157",
+    "self-validation.json": "102b45159508a1081f9a55ceb2eb6ff60f7d8aadd14280294db1f7b5e616a04b",
+    "全书综合与附录.md": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02"
+  },
+  "final_hashes": {
+    "expert-definition.json": "f331b01a3b82e94069f5e1e584c06089fb003a5ee4f2449888faa5808d3af71c",
+    "source-fragments.json": "3f22510502772473c4aeaddb34856d5ef1f3d8668a7d8b1c1c1985e360f13668",
+    "reading-audit.json": "9469c6491109fbca0cdd31a023e20e1c63de3eff9b23531910b16f1d8d9faa01",
+    "self-validation.json": "266eafc3e74f46609e836b992e28e383919e1088b1884f21c5fac92a146ec50d",
+    "independent-QA.json": "6ee029db177f7565917fa4b59b38bbcfa335dba9f21e5d28391ef6712f7924ad",
+    "全书综合与附录.md": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02"
+  },
+  "hash_cycle_avoided": "QA records pre-metadata review snapshot; this separate log records final metadata hashes. QA itself is not rewritten to depend on audits that embed its hash.",
+  "goal_tools_called": false,
+  "author_finalizer_rerun": false
+}

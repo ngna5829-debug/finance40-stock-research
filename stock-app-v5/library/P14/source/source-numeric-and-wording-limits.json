@@ -1,0 +1,103 @@
+{
+  "book_id": "P14",
+  "historical_numbers_all_verified": false,
+  "original_scan_obtained": false,
+  "numeric_layouts_exist_without_html_table_tags": true,
+  "not_investment_experiment": true,
+  "items": [
+    {
+      "id": "beet-unit",
+      "lines": [
+        892,
+        949
+      ],
+      "issue": "45centiares与面积、公社区域未解，48k/50k/轮作约数；作者不判事实",
+      "original_values_unchanged": true
+    },
+    {
+      "id": "gutenberg-century",
+      "lines": [
+        1346,
+        1356
+      ],
+      "issue": "TXT十三世纪与LOC1454/55不合，source/ch04-source-limits.json独立记录；未修源",
+      "original_values_unchanged": true
+    },
+    {
+      "id": "merchant-profit-base",
+      "lines": [
+        1920,
+        1945
+      ],
+      "visible_arithmetic": {
+        "first_profit": 40000,
+        "profit_over_initial_200000": 0.2,
+        "profit_over_cost_280000": 0.14285714285714285,
+        "second_profit": 70400,
+        "total_profit": 110400,
+        "customs_value_gap": 152000
+      },
+      "issue": "40k的20%用初货值，不按280k成本；152k非110.4k利润",
+      "original_values_unchanged": true
+    },
+    {
+      "id": "blacksmith-none",
+      "lines": [
+        5712,
+        5715
+      ],
+      "issue": "None同在第二点末，HTML同样，未搬位置",
+      "parallel_official_html_checked": true
+    },
+    {
+      "id": "postal-growth",
+      "lines": [
+        8290,
+        8304
+      ],
+      "visible_arithmetic": {
+        "116m_times_3_6_m": 417.6,
+        "116m_growth_360_percent_m": 533.6
+      },
+      "issue": "increase360%及417m分母/术语未解，87m/116m范围未给",
+      "parallel_official_html_checked": true
+    },
+    {
+      "id": "postal-budget",
+      "lines": [
+        8306,
+        8340
+      ],
+      "visible_arithmetic": {
+        "letter_revenue_m": 15,
+        "journals_revenue_m": 5,
+        "31_less_5_expenses_m": 26,
+        "visible_net_m": -6,
+        "printed_net_m": 2,
+        "current_net19_less_printed2_m": 17,
+        "postal_gross_m": 50,
+        "three_taxes_total_m": 280
+      },
+      "issue": "不补8m；三税其余230m单项无列，可能转录/原版/口径，未定何方错",
+      "parallel_official_html_checked": true
+    },
+    {
+      "id": "game-vegetables",
+      "lines": [
+        9119,
+        9123
+      ],
+      "issue": "来客后段商品方向倒置，先前送猎物换菜；不默改",
+      "parallel_official_html_checked": true
+    },
+    {
+      "id": "less-iron",
+      "lines": [
+        9981,
+        9984
+      ],
+      "issue": "两次less iron却称相反，保持未解，无原扫描",
+      "parallel_official_html_checked": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "book_id": "P29",
+  "original_chapter_count": 11,
+  "strict_counts": [
+    2457,
+    2201,
+    2370,
+    2208,
+    2226,
+    2278,
+    2540,
+    2529,
+    2328,
+    2238,
+    2261
+  ],
+  "body_han_total": 25636,
+  "minimum_body_han": 2201,
+  "all_chapters_at_least_2000": true,
+  "total_at_least_20000": true,
+  "method": "U+4E00–U+9FFF within explicit body markers; exclude chapter headings, metadata and original-source locator parentheticals. Appendix/synthesis/expert metadata not counted.",
+  "source_slices_match_full_text": true,
+  "rules_count": 29,
+  "all_rule_lines_in_source": true,
+  "source_SHA": "defad25040b984a02c8c2da7449846e8aa0cee7f47bab0b6d235481a4bf70973",
+  "independent_semantic_QA_status": "pass_after_corrections_with_source_limits",
+  "independent_QA_file": "work/book-experts-v5/value_team/P29-QA.json",
+  "independent_QA_SHA": "a9650ae6cfd11547240ac47dededb0fa45542282f3e4806afe43488c05181a28",
+  "post_QA_metadata_only": true
+}

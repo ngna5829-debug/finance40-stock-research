@@ -1,0 +1,1834 @@
+{
+  "book_id": "P11",
+  "expert_id": "P11-Keynes-Tract-1923",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "John Maynard Keynes",
+  "title": "A Tract on Monetary Reform",
+  "edition": "Macmillan and Co. Limited London1923; preface October1923, reworked1922 articles as declared",
+  "role": "货币、信用、财政、契约与外汇条件的知识审查",
+  "system_prompt": "你是P11 Keynes《A Tract on Monetary Reform》所标1923 Macmillan版这一册的唯一知识专家。五原章、56原注、表、三图、索引和全部末项已完整语义审读，未取得全书原印扫描，历史数字并非全部独立核准。每次先识别问题是固定货币契约、商品经营、财政收入/旧债、货币余额、外汇或政策目标。原主张与适用条件用原文件总行具体区间举证，原观察、作者规范、现代解释分列。现金、存款与準备不可重算；库存不是美股，原通胀含多词义，贬值定值不是无限再贬；金为储备与金为固定尺度不同。固定数量同比只在余额和準备条件不变，一般平价须篮子、贸易条件、非贸易相对价、基年与期限；汇价/物价均可移，不保证回旧。远期锁已签外币风险，不除信用商品风险，利差、客户净差、资本与管制分辨。1923观察、未来建议不能写现代法或实时行情。缺规则所需资料，对数值方向/幅度/时点弃权并给缺口；不得把未解表数、政治讽刺、帝国分区设现代特征。未来涨价预防是预测问题，现代回测只可用决策时已经发布资料，不能看未来。无原精确动作阈值或完整周期诊断，勿替作者编自动策略。本次未接合格行情输入，current_stock_decision_enabled:false，experiments_run:false，不宣称选股、收益实验或真实机构资金。他书质疑要合同、独立余额、信用流和制度实证；具体条件被推翻时修结论，external_reference_not_new_vote，不新增读完作品数。规则、档案及原文定位已由独立工作流复核，原扫描与历史资料边界保留，见independent-QA.json。",
+  "rules": [
+    {
+      "id": "P11-R01",
+      "chapter_ordinal": 1,
+      "title": "固定契约与实际所有权分开",
+      "author_claim_paraphrase": "投资体系特指未来固定货币付款，普通股所有权、租约、永久或有期限债权不相同，群体可重叠。",
+      "author_original_conditions": "原各项契约具体权利、非简单有钱人分类。",
+      "required_inputs": [
+        "名义付款及实际产权",
+        "期限与签约日期",
+        "指数调整"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            359,
+            408
+          ],
+          "source_segment_sha256": "1ee301d0776dbdf56a7a8ad06cb69bfdc56b137eb1087186398e32b7dbe9f95c",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "For the purpose of this inquiry a triple classification of Society is convenient--into the Investing Class, the Business Class, and the Earning Class. These cla",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "契约为利润分享或真实资产回还时收窄固定钱损害。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R02",
+      "chapter_ordinal": 1,
+      "title": "名义利率与真实返还",
+      "author_claim_paraphrase": "100实际本金、5%名息、期末原单位购买力90或110，实际返还94.5或115.5；不能只看名息。",
+      "author_original_conditions": "本金和息都按同一篮子及期间换算，预期和实际不同。",
+      "required_inputs": [
+        "息方式与期限",
+        "同篮购买力",
+        "预期/实现日期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            754,
+            788
+          ],
+          "source_segment_sha256": "a701fbc676e29bfa220be9894fe1905424b58afb821a4d730665841a0f3dc8e7",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Economists draw an instructive distinction between what are termed the “money” rate of interest and the “real” rate of interest. If a sum of money worth 100 in ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "缺实际购买力或篮子改变时不量化真实率。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R03",
+      "chapter_ordinal": 1,
+      "title": "事后原料涨价非已知预期",
+      "author_claim_paraphrase": "1919–20原料篮和低贷息可造暴利，未预期者也获，但事后表不保证前瞻。",
+      "author_original_conditions": "商品库存不是股票；注6 high real措辞限度保留。",
+      "required_inputs": [
+        "采购销售时点",
+        "可交易商品",
+        "借款及其他费用"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            714,
+            752
+          ],
+          "source_segment_sha256": "ccb41aff130de481f3236a595cd103eae1ecbafca05cf15948c30696d10c0b01",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "stocks of commodities should be held speculatively for the rise, and for a time the mere expectation of a rise is sufficient, by inducing speculative purchases,",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            801,
+            808
+          ],
+          "source_segment_sha256": "00ca73d51020da3c84e88a93ef822f0d21de29e9c6593abd64e54f97acb590a7",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "        [6] The merchant, who borrows money in order to take advantage             of a prospective high real rate of interest, has to act             in advanc",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能将事后篮46%当可买组合或保证交易策略。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R04",
+      "chapter_ordinal": 1,
+      "title": "工资相对改善与就业成本不同",
+      "author_claim_paraphrase": "有组织劳动可较旧价获得相对/绝对改善，萧条惩罚可主要是失业；名义资产升掩真实资本减。",
+      "author_original_conditions": "各群体、工时、物价与来源不能合一。",
+      "required_inputs": [
+        "工资工时及就业",
+        "资本实物与折旧",
+        "收入来源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            917,
+            985
+          ],
+          "source_segment_sha256": "1453ee197f599cee1aab5b77367c6fc03550e1fee351b8c73ee411ee9db7a193",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "wage-earner are diminished during a period of rising prices. This has often been true in the past, and may be true even now of certain classes of labour which a",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "真实资本或失业资料推翻相对薪率可代表全体福祉判断。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R05",
+      "chapter_ordinal": 1,
+      "title": "一般物价与相对价格及预期不同",
+      "author_claim_paraphrase": "相对价可调生产结构，一般价预期经固定债和经营利润改变总生产。",
+      "author_original_conditions": "钱约、预期、利益重叠不自动抵销。",
+      "required_inputs": [
+        "分品与总价",
+        "固定债约",
+        "当时可得预期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1044,
+            1084
+          ],
+          "source_segment_sha256": "a050fc737ea5ce9b1dc6bcd27c138e176dde1206269b1554662eecb8c6b609a0",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "If, for any reason right or wrong, the business world _expects_ that prices will fall, the processes of production tend to be inhibited; and if it expects that ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1086,
+            1103
+          ],
+          "source_segment_sha256": "dc89520ca12d225eac4afa4216156bf8785d00b64b42092b2ca7fe52fb3b632f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "        [8] The interests of the salaried and wage-earning classes             will, in so far as their salaries and wages tend to be             steadier in mo",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "成本或需求结构变化时不能把全部产量变化归币尺。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R06",
+      "chapter_ordinal": 1,
+      "title": "生产期限造成无法全卸风险",
+      "author_claim_paraphrase": "长流程先付钱后售货被迫持风险，多源农业分散消费者风险却不必补偿个体农民；投机仅移承担。",
+      "author_original_conditions": "区分相对商品价风险和币值风险、个体与整体。",
+      "required_inputs": [
+        "流程期限和回款",
+        "风险对冲范围",
+        "供需及商品价"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1105,
+            1168
+          ],
+          "source_segment_sha256": "9a4ab3238df9733db0b227cae38f636c17a3b28e1f7ee5a1102c9239d721735f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "But there is a further reason, connected with the above but nevertheless distinct, why modern methods of production require a stable standard,--a reason springi",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "专业投机分摊不证明社会总风险归零。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R07",
+      "chapter_ordinal": 1,
+      "title": "周期累积不是天文固定律",
+      "author_claim_paraphrase": "预期行为可加强价格动，变因多而反作用会出现；目标避免确定大幅变价，不必消灭每初因。",
+      "author_original_conditions": "作者未给固定周期、数值信号或保证全成功。",
+      "required_inputs": [
+        "预期可得时点",
+        "信用和生产反馈",
+        "政策动作"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1170,
+            1212
+          ],
+          "source_segment_sha256": "f43a288696c1406a428b021b37cb974ad2bbecc9f6b2a7098f8daa8a02c4d5ba",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "There is a further aggravation of the case, in that an expectation about the course of prices tends, if it is widely held, to be cumulative in its results up to",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "固定周年周期或用未来实价作预期需拒。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R08",
+      "chapter_ordinal": 1,
+      "title": "两种损害的条件规范比较",
+      "author_claim_paraphrase": "涨价伤固定投资与储蓄，跌价伤生产就业；排除德国极端通胀后较怕通缩，二者均应避。",
+      "author_original_conditions": "不是通胀越大越好，时代贫困与就业权重。",
+      "required_inputs": [
+        "分配及就业影响",
+        "通胀程度",
+        "政策备选"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1216,
+            1241
+          ],
+          "source_segment_sha256": "aeb4711495d3a2c96d2552a426f71245e5595866acca32ab5d5241f2e7b18c3a",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "We see, therefore, that rising prices and falling prices each have their characteristic disadvantage. The Inflation which causes the former means Injustice to i",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            1,
+            40
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新证据改变权重或极端通胀需修比较。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R09",
+      "chapter_ordinal": 2,
+      "title": "印钞可转真实资源但非免费",
+      "author_claim_paraphrase": "习惯和财富不变时纸量增使原持有者购买力下降，新钞拿真实资源；黄金本身价值仅暂忽略。",
+      "author_original_conditions": "示例9m/12m/16m与36m总实值为条件模型。",
+      "required_inputs": [
+        "实际持币与财富习惯",
+        "币购买力",
+        "财政取得资源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1275,
+            1335
+          ],
+          "source_segment_sha256": "a7548c38f601a75fa846923a74fbe85ea3426362f118bd13b1c70b6ba8a32865",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The Quantity Theory of Money states that the amount of cash which the community requires, _assuming certain habits of business and of banking to be established_",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "习惯变或金值变时停止按固定总实值外推。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R10",
+      "chapter_ordinal": 2,
+      "title": "货币税税基会逃离",
+      "author_claim_paraphrase": "货币减值可缩真实持币、改变速度与替代，税越高未必收入越高；必要小额支付仍可能留。",
+      "author_original_conditions": "税率和总跌幅/周转的原示例非严格逐次复利。",
+      "required_inputs": [
+        "真实余额独立依据",
+        "支出周转与替代",
+        "发行实收入"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1455,
+            1486
+          ],
+          "source_segment_sha256": "f3b4bdd68865063654ae9a5972c6873fbc9fac06a081647f149dd26185c4af2d",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Like other conveniences of life the use of money is taxable, and, although for various reasons this particular form of taxation is highly inexpedient, a Governm",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "暂停将原0.5%或4d/£当精算参数，依据不同分母修。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R11",
+      "chapter_ordinal": 2,
+      "title": "财政评收时差恶性循环",
+      "author_claim_paraphrase": "货币单位坏使税评到收实值丢，常税减又靠印钞，直到币使用与印钞税基均丢；过渡财政需另法。",
+      "author_original_conditions": "德国/Russia历史情形，恢复单位与零售币可区别。",
+      "required_inputs": [
+        "评税收税日与金额",
+        "其他收入",
+        "持币与结算"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1803,
+            1823
+          ],
+          "source_segment_sha256": "3595f92fb4ba0c6239f3a494fd8fafc39c8bbeda2d8761b0c4f828d28a7bfd3e",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The recent history of German finance can be summarised thus. Reliance on inflationary taxation, whilst extremely productive to the exchequer in its earliest sta",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若税及时指数化或可靠别收入，应收窄毁坏必然论。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R12",
+      "chapter_ordinal": 2,
+      "title": "旧内债服务与现在印钞收入不同",
+      "author_claim_paraphrase": "贬币另减固定内债负担；长期贬值确认与资本征税是调整过重债权的不同政策。",
+      "author_original_conditions": "旧债固定本币、税基容忍度和及时采取条件。",
+      "required_inputs": [
+        "债币种固定条款",
+        "实际税基收入",
+        "替代征税方案"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            1843,
+            1873
+          ],
+          "source_segment_sha256": "460c39975cbd98a758fff16582a11132bffb3191983c9cfb9d0701799a021347",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "We have seen in the preceding section the extent to which a Government can make use of currency inflation for the purpose of securing income to meet its outgoin",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "外币或指数债不能同法减实际服务，缺负担不选政策。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R13",
+      "chapter_ordinal": 2,
+      "title": "法国预算推论有限定排项",
+      "author_claim_paraphrase": "作者末1923预算粗估排外债、养老金及重建，税基/服务不足推稳旧平价难。",
+      "author_original_conditions": "预估常改、假设外债取消和德国补额外支出并不期待。",
+      "required_inputs": [
+        "同年完整收支口径",
+        "债服务",
+        "可信条件变化"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2026,
+            2048
+          ],
+          "source_segment_sha256": "bbb1b79a38d953c1d44a38dc03412256dcd263e2eb5d9cdc06a555f3b251b294",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "At the end of 1922 the internal debt of France, excluding altogether her external debt, exceeded 250 milliard francs. Further borrowing budgeted for in the ensu",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2050,
+            2090
+          ],
+          "source_segment_sha256": "8974520e14a680bc9b538f7a657d85e1c24ac65dff0ac9e398e30df20dc17159",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "            the further depreciation of the franc, since he first             introduced his budget, is already improving the receipts             measured in t",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            41,
+            73
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "原18/23非精确全税；新税基或制度变可修必然判断。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R14",
+      "chapter_ordinal": 3,
+      "title": "数量关系需现金银行准备三层",
+      "author_claim_paraphrase": "n=p(k+rkprime)，公众手现金、银行真实余额与准备乘积不同，现金与存款不能重复计。",
+      "author_original_conditions": "消费单位与现金定义明确，习惯不变才固定比。",
+      "required_inputs": [
+        "现金口径",
+        "真实现金/银行余额",
+        "准备比例和消费篮"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2143,
+            2200
+          ],
+          "source_segment_sha256": "728b8d0a3071cacecddd93beeccebc0d172890b6b555300e307617f59e1b3a76",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Consequently what the public want is not so many ounces or so many square yards or even so many £ sterling of currency notes, but a quantity sufficient to cover",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2202,
+            2213
+          ],
+          "source_segment_sha256": "747382d0981d9e98e6757c11f19728e8a57dbbe0e5936d898b7614aacbf3f37c",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "       [21] My exposition follows the general lines of Prof. Pigou             (_Quarterly Journal of Economics_, Nov. 1917) and of Dr.             Marshall (_M",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若k/r变不能现金翻倍即价格翻倍。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R15",
+      "chapter_ordinal": 3,
+      "title": "数量内生与短期路径",
+      "author_claim_paraphrase": "金囤积/农民持钞可减轻初步价格效果，大扩张预期逃币可加剧，习惯未必完全回旧。",
+      "author_original_conditions": "长短期不同、10%低单位句是近似说明。",
+      "required_inputs": [
+        "储备与持币习惯",
+        "币数量和预期",
+        "制度时点"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2268,
+            2343
+          ],
+          "source_segment_sha256": "774c23f61b5ceefd061490f6dcda43018bfad60a67dca12714015f17df5a10d6",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "So far there should be no room for difference of opinion. The error often made by careless adherents of the Quantity Theory, which may partly explain why it is ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将长期同比作当前方向幅度和时间预测。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R16",
+      "chapter_ordinal": 3,
+      "title": "三种通胀词义与信用周期",
+      "author_claim_paraphrase": "现金量、准备比例、真实余额各有通胀紧缩含义；繁荣真实余额降、萧条升可主导。",
+      "author_original_conditions": "1920/22英国数据作者明言粗示例，余额不是独立实证。",
+      "required_inputs": [
+        "名义与真实分母",
+        "价格与存款",
+        "独立余额资料"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2345,
+            2399
+          ],
+          "source_segment_sha256": "2da861499a29f2bc1028576c6aa35eb6674be8f0e80358285cd3727d62d6c0a4",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The terms _inflation_ and _deflation_ are used by different writers in varying senses. It would be convenient to speak of an increase or decrease in _n_ as an i",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "现代CPI词义不可直接替换，残差倒推不可作因果证。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R17",
+      "chapter_ordinal": 3,
+      "title": "稳值需反向调控非固定数量",
+      "author_claim_paraphrase": "先确保现金和准备可控，利率影响余额与借款未必独够；要抵销不稳公众需要。",
+      "author_original_conditions": "不被财政发行/全球金需约束，具央行协调；美国接金例有条件。",
+      "required_inputs": [
+        "政策权限和资产",
+        "财政发行",
+        "公众信用需求"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2401,
+            2458
+          ],
+          "source_segment_sha256": "4a4be6d4e90bc26d67db10bae5cef22b16ca08e2f168eac4b2ff785d3ff00bcc",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The moral of this discussion, to be carried forward in the reader’s mind until we reach Chapters IV. and V., is that the price level is not mysterious, but is g",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有失控财政或反向行准备时不能叫完全可控。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R18",
+      "chapter_ordinal": 3,
+      "title": "平价有可交易与非贸易两层",
+      "author_claim_paraphrase": "跨境同品扣成本近套利关系，一般指数需非贸易品与贸易品同比及基本关系稳。",
+      "author_original_conditions": "运费关税禁令基年和篮子不能省。",
+      "required_inputs": [
+        "同品货篮与指数",
+        "贸易/非贸易价格",
+        "运费税及管制"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2543,
+            2606
+          ],
+          "source_segment_sha256": "43071243883097cf788d80e5c0a150ff88c3cfe9effde9281e6d121831c262a6",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "In practical applications of the doctrine there are, however, two further difficulties, which we have allowed so far to escape our attention,--both of them aris",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2616,
+            2669
+          ],
+          "source_segment_sha256": "b8f2373edffcf6a9baf069bb590d54c58420874a2f36d677190c5d234dafb641",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "So far from this being a truism, it is not literally or exactly true at all; and one can only say that it is more or less true according to circumstances. If ca",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "基本贸易条件/效率/资本变会永久改均衡，拒盲目回旧。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R19",
+      "chapter_ordinal": 3,
+      "title": "平价移动而非汇价必单向回归",
+      "author_claim_paraphrase": "均衡可由汇率、价格或二者移动；贸易关系若不持久变才长期参考，一般指数偏离非真值保证。",
+      "author_original_conditions": "基本关系与政策内价先稳，不设交易期限。",
+      "required_inputs": [
+        "同期内外价与汇向",
+        "结构性关系",
+        "当时政策"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2514,
+            2541
+          ],
+          "source_segment_sha256": "444658db5af59096cba5efcf09a22876b77e99755a3d083eba1904b7e5b8dc95",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "If, therefore, we find that the internal and external purchasing powers of the home-currency are widely different, and, which is the same thing, that the actual",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2688,
+            2722
+          ],
+          "source_segment_sha256": "99f84049cccbe80627860b9a109fb4b3da792a9967f2c563c9490ac332f190a8",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "When this is the case, it is not possible to say in general whether exchange value will move towards purchasing power parity or the other way round. Sometimes, ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "货币政策或结构未稳时不指定哪曲线主动移。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R20",
+      "chapter_ordinal": 3,
+      "title": "三国表图是同源粗归纳",
+      "author_claim_paraphrase": "英法意不同指数与美元汇价有趋同和偏离，基年及指数选择误差限折价推论。",
+      "author_original_conditions": "图至Dec1922、表至June1923；数非独立原账核。",
+      "required_inputs": [
+        "原指数源版本和月份",
+        "图表日期范围",
+        "报价和取样"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2775,
+            2844
+          ],
+          "source_segment_sha256": "45dd6bd8df752b79490b831ac24c811485baa32b0ba3c8bc4775db162550a840",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "In the charts and tables below, the actual results are worked out of applying the theory to the exchange value of sterling, francs, and lire in terms of dollars",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2914,
+            2919
+          ],
+          "source_segment_sha256": "1ced4b04f9a4af2f15767ee327ff3af8b60f1c1df72b25198fc3591be09236e9",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "       [31] _Economist_ Index Number.         [32] U.S. Bureau of Labour Index Number, as revised.         [33] The U.S. Bureau of Labour Index Number divided b",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            2980,
+            2981
+          ],
+          "source_segment_sha256": "c58b0103b4f6e51aaa0ee70476e8011db20ce4be9923191591d057846da9a908",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "       [34] U.S. Bureau of Labour Index divided by French official             wholesale Index.",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3039,
+            3044
+          ],
+          "source_segment_sha256": "ca4a673ca720e2f7239f9538a3f408eb9d1a5f3ba7784f6a6eadae736fe1921a",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "       [35] U.S. Bureau of Labour Index Number divided by the “Bachi”             Index Number.  [Illustration: FRANCE]  [Illustration: ITALY]",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将同源图表算独立验证，缺月不插，相关数差不进实验。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R21",
+      "chapter_ordinal": 3,
+      "title": "年平衡不等日信用平衡",
+      "author_claim_paraphrase": "秋季采购需短资金，金制微利套利可承接，浮动时回汇风险大，资本有限使季节波幅增加。",
+      "author_original_conditions": "战前均值与战后情形分、贸易支付先到货。",
+      "required_inputs": [
+        "季节应付和短贷",
+        "转换费用与汇风险",
+        "可用资本"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3094,
+            3109
+          ],
+          "source_segment_sha256": "620afbf07b7d8bdf9214337eac4eb3820de38444ed3ca2b2f9f392dc60d2cfad",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Even though foreign trade is properly adjusted, and the country’s claims and liabilities on foreign account are in equilibrium over the year as a whole, it does",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3111,
+            3142
+          ],
+          "source_segment_sha256": "d5da045ee74ba5235c67ccd19d189673870f9034f72392aed06bad4244bc667e",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "       [37] Whilst the fact of seasonal pressure is well ascertained,             the exact analysis of it is a little complicated. Food             arrivals in",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3151,
+            3185
+          ],
+          "source_segment_sha256": "8ab7988a543c6abb1ab598908319d3de80267943174d3df8e0ad133a4be39f98",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "But what is the position now? As always, the balance of payments must balance every day. As before, the balance of trade is spread unevenly through the year. Fo",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "跨年或非季节财政事件不能全归季节；新净结算能力可修。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R22",
+      "chapter_ordinal": 3,
+      "title": "暂季节与持久币变分开",
+      "author_claim_paraphrase": "过去数年重复式高低及贸易可解释不少波动，官方回平价愿望不等足够可预测担保。",
+      "author_original_conditions": "作者列1919/1922/1923非季节例外、资源需足。",
+      "required_inputs": [
+        "每日年度结算",
+        "央行可信承诺与资源",
+        "政策/贸易渠道"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3187,
+            3218
+          ],
+          "source_segment_sha256": "838f12869114c7388a5eefa84e98862f177880b6866c53eb8f03d2360256b2be",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The extent to which the exchange fluctuations which have troubled trade during the past three years have been seasonal, and therefore due, not to a continuing o",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3254,
+            3292
+          ],
+          "source_segment_sha256": "aef12e1a7b376ba5ee338e0028df30e63a58bb42417ed7d7cc44160cb3d0442d",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "It follows that, whilst purely seasonal fluctuations do not interfere with the forces which determine the ultimate equilibrium of the exchanges, nevertheless st",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "季节表不是永恒收益规律，缺保证不称稳日汇。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R23",
+      "chapter_ordinal": 3,
+      "title": "远期对冲对象及残留商品风险",
+      "author_claim_paraphrase": "已签合同到结算可锁币汇，签前未知、信用/担保、库存世界商品价风险仍在。",
+      "author_original_conditions": "金额、币、交付期匹配且可成交；不是消全部经营风险。",
+      "required_inputs": [
+        "实际合同现金流",
+        "远期可用担保和对手",
+        "商品剩余暴露"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3297,
+            3329
+          ],
+          "source_segment_sha256": "b1f275b5b5e79db1b59fda8b3d03c2740d68504f5ac3999d4de650b6a3efd62f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "When a merchant buys or sells goods in a foreign currency the transaction is not always for immediate settlement by cash or negotiable bill. During the interval",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3654,
+            3665
+          ],
+          "source_segment_sha256": "10af81dab6d420555be575e14daf8f7858fe370f0a22a35c575495a0817e9beb",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "But there is a further qualification, not to be overlooked, to the value of forward transactions as a protection against risk. The price of a particular commodi",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "无法匹配或风险未除时不叫完整无风险。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R24",
+      "chapter_ordinal": 3,
+      "title": "远期差先看实际短利差",
+      "author_claim_paraphrase": "同币即期远期差体现不带纯汇险持不同中心资金的偏好，短贷实际利率而非长债收益。",
+      "author_original_conditions": "报价方向和期限一致、竞争且对手信用正常。",
+      "required_inputs": [
+        "同期限即远期买卖价",
+        "实际短贷率",
+        "手续费/结算"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3673,
+            3721
+          ],
+          "source_segment_sha256": "0070cc1246e604c3cc0684aa95de6f8cbc1c3225ec2558b89ced4541edee41ef",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "If dollars one month forward are quoted cheaper than spot dollars to a London buyer in terms of sterling, this indicates a preference by the market, on balance,",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "远期不是未来即期必到价格，缺可借贷条件不叫可执行套利。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R25",
+      "chapter_ordinal": 3,
+      "title": "信用与供需资本可压过利差",
+      "author_claim_paraphrase": "政治清算管制风险、客户买卖净差、有限竞争及有限套利资本改变差。",
+      "author_original_conditions": "风险已覆盖汇不等信用可算，资本非无限。",
+      "required_inputs": [
+        "信用与管制",
+        "客户净额及资源",
+        "竞争费用"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3755,
+            3805
+          ],
+          "source_segment_sha256": "7c67e359837a52944bbf61022429665085073a4b965d25cdbcc53bb37bff593a",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "2. If questions of credit did not enter in, the factor of the rate of interest on short loans would be the dominating one. Indeed, as between London and New Yor",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3807,
+            3846
+          ],
+          "source_segment_sha256": "0f51aa25a5dad9db9e811018059ea77e3c8bb94675ea1dcbb16e254b56a682b8",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "4. Lastly, we have to provide for the case, quite frequent in practice, where our assumption of a large and free market breaks down. A business in forward excha",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "异常差不能自动算纯利差，也不能以理论机会称实际利润。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R26",
+      "chapter_ordinal": 3,
+      "title": "专业远期几例不成准确率",
+      "author_claim_paraphrase": "有时一致专业意见后来大致对，作者明否精确一般化；现金业余投机不是同信号。",
+      "author_original_conditions": "所举有限历史样本且事后结果。",
+      "required_inputs": [
+        "全部同期样本与失败",
+        "可得报价时间",
+        "成本与客户类别"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3848,
+            3893
+          ],
+          "source_segment_sha256": "399ae3daa021fa032cfabaca441edbbdbd26153afdb1392effcb2951edbe3a07",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "It is interesting to notice that when the differences between forward and spot rates have become temporarily abnormal, thus indicating an exceptional pressure o",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "禁止生成胜率/真实机构流，完整样本或反例可修。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R27",
+      "chapter_ordinal": 3,
+      "title": "国家对冲设施及投机规范有条件",
+      "author_claim_paraphrase": "国家可只对合格机构供即远相对报价，需资源/担保；客户能担损比用途区分重要。",
+      "author_original_conditions": "作者规范，循环资金无纯汇险不是无全部银行风险。",
+      "required_inputs": [
+        "资源可动性",
+        "对手抵押承受",
+        "合约与期限"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3915,
+            3942
+          ],
+          "source_segment_sha256": "fb7ec0f691d31be46205240ae418054590cda129fe74ee1a1315f3aa549d6e2f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "This is a function which the State banks of such countries could usefully perform. For this they must either themselves command a certain amount of foreign curr",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3961,
+            3995
+          ],
+          "source_segment_sha256": "7e59cc3522edc5bf654a94953b199145b999b2369662e7f35b632af364b7c5d0",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "2. It is not unusual at present for banks to endeavour to distinguish between speculative dealings in forward exchange and dealings which are intended to hedge ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不可将作者反用途歧视作规避当前法规的指示。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R28",
+      "chapter_ordinal": 3,
+      "title": "利率即时差与长期信用渠道分",
+      "author_claim_paraphrase": "不兑金时小短利差主要改即远差，不必即期大移；信用渐变和投机覆盖仍可间接影响。",
+      "author_original_conditions": "利差与汇波规模、制度不同；注39有限间接路。",
+      "required_inputs": [
+        "利率变时点与幅度",
+        "即远差/汇险",
+        "信用量与预期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            3997,
+            4057
+          ],
+          "source_segment_sha256": "d3a6a243b39173613b30112890ca28229368c307f8e3e28be7e1ef75930f3dae",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "3. A failure to analyse the relation between spot and forward exchange may be, sometimes, partly responsible for a mistaken bank-rate policy. Dear money--that i",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            74,
+            139
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将小加息即本币必升，也不声称利率完全无汇影响。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R29",
+      "chapter_ordinal": 4,
+      "title": "贬值稳定与复旧紧缩的契约分配",
+      "author_claim_paraphrase": "大复旧会扩大真实固定债和抑库存经营，财政可不堪，已按新值签约者不应全补旧群体。",
+      "author_original_conditions": "按契约年龄与固定币条款，长期和过渡分。",
+      "required_inputs": [
+        "契约年龄条款",
+        "工资库存成本",
+        "税基与债服务"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4160,
+            4208
+          ],
+          "source_segment_sha256": "52a365fa16e60fcf52089025551d17542dbf1f123920d5053a75b1c525674f8b",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The simple arguments against Deflation fall under two heads.  In the first place, Deflation is not _desirable_, because it effects, what is always harmful, a ch",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4285,
+            4323
+          ],
+          "source_segment_sha256": "3716b07cf971309197eb7ab2e28606bfebb495c6bdad671e3d87623318dfe9ee",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "But this is not the actual situation. The vast issues of War Loans have swamped the pre-war holdings of fixed interest-bearing stocks, and society has largely a",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "指数化或真实调整速度不同可改变损害，不默认所有亏损比例。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R30",
+      "chapter_ordinal": 4,
+      "title": "复旧声誉理由有有限条件",
+      "author_claim_paraphrase": "接近旧值5–10%且仍选择金值信誉才可能值得承受；深长期贬值更宜稳适应现值。",
+      "author_original_conditions": "区间非校准自动阈值；引用Ricardo1822不是已读额外书。",
+      "required_inputs": [
+        "到旧值差与调整成本",
+        "未来价值锚目的",
+        "契约调整"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4325,
+            4362
+          ],
+          "source_segment_sha256": "d37180502c32bcebfc2b88d6e49575d4a3b04e5919685eaebd495ed3f4aa6b06",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "2. _The restoration of a currency to its pre-war gold value enhances a country’s financial prestige and promotes future confidence._  Where a country can hope t",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4421,
+            4447
+          ],
+          "source_segment_sha256": "484806cc6af590c220a645d6afa38866eb1e59fb8546ea0677528003ee1ce2b9",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Ricardo, speaking in the House of Commons on the 12th of June 1822,[44] gave his opinion that: “If in the year 1819 the value of the currency had stood at 14s. ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若选稳内价声誉前提变；旧引文不作新独立票。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R31",
+      "chapter_ordinal": 4,
+      "title": "内价与外价不稳时须择",
+      "author_claim_paraphrase": "外价不可控而变时不能通常兼稳外汇和内价，作者偏内价但国贸地位和科学可行性影响。",
+      "author_original_conditions": "平价限制保留、印度偶然例粗表不是当前数据。",
+      "required_inputs": [
+        "内外价口径",
+        "外贸及国内契约",
+        "管理实际能力"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4452,
+            4494
+          ],
+          "source_segment_sha256": "83dec35060c6e36186a1677f2ad70488724d12c59ed5dfa61d887ffbcf286497",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Since, subject to the qualification of Chapter III., the rate of exchange of a country’s currency with the currency of the rest of the world (assuming for the s",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4496,
+            4536
+          ],
+          "source_segment_sha256": "e2d8334797b14058028e7fa2613ca243f0f8e71954c1092731a8a4568996bc54",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "There has been an interesting example recently of a country which, more perhaps by chance than by design, has secured the advantages of a relatively stable leve",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "协同外价真稳或交易结构不同可修取舍。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R32",
+      "chapter_ordinal": 4,
+      "title": "旧慢调整有储备时点约束",
+      "author_claim_paraphrase": "金流利率经内价数月调整，快耗储备前可能未调；浮动快却过敏，外贷可遮永久缺口。",
+      "author_original_conditions": "暂季节与持久失衡、单行与国家资源不同。",
+      "required_inputs": [
+        "可用储备和金流",
+        "内价调整速度",
+        "外贷来源和用途"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4584,
+            4639
+          ],
+          "source_segment_sha256": "e0707e789c1a4cda8f2dc42100ace19a3cdee2e76838a86a71c12979e2a5fbc8",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "We are familiar with the causal chain along which the pre-war method reached its result. If gold flowed out of the country’s central reserves, this modified dis",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "理论最终平衡不能保证途中不崩；新渠道速度证可修。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R33",
+      "chapter_ordinal": 4,
+      "title": "金本身也受央行管理",
+      "author_claim_paraphrase": "过去独立金供需和任意准备可稳，战后集中囤金让价依少数央行，金非天然永稳尺。",
+      "author_original_conditions": "1923结构，旧比例失现实基础，非所有时代。",
+      "required_inputs": [
+        "金使用与储藏",
+        "央行政策和比率",
+        "制度变化"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4711,
+            4785
+          ],
+          "source_segment_sha256": "55e708c5d4411912122e7d7c1ea3995f5c6362ea958721b5781c03d049d6983c",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "But the conditions of the future are not those of the past. We have no sufficient ground for expecting the continuance of the special conditions which preserved",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4838,
+            4878
+          ],
+          "source_segment_sha256": "cc02c3665ad5612b03a531510ac0f49511cefd03a41fade2c78160091afde669",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "If, indeed, a providence watched over gold, or if Nature had provided us with a stable standard ready-made, I would not, in an attempt after some slight improve",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不把当时过剩/短缺两路径择一为现代金价确定预测。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R34",
+      "chapter_ordinal": 4,
+      "title": "管理风险与国际合作权力分开",
+      "author_claim_paraphrase": "战乱纸币灾难非和平管理失败证明，但管理能力风险实；金合作可不对称且英美周期不同。",
+      "author_original_conditions": "作者规范与历史政治评，国民性不作特征。",
+      "required_inputs": [
+        "央行独立权限",
+        "合作约束与资源",
+        "各国周期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4815,
+            4836
+          ],
+          "source_segment_sha256": "a6df5ea712d4d60800b83c98ecc73265d481ff45d31a7b1f20296ac259c27ef7",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "It is natural, after what we have experienced, that prudent people should desiderate a standard of value which is independent of Finance Ministers and State Ban",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4907,
+            4929
+          ],
+          "source_segment_sha256": "b0c7c1ca6cbde926595cd3eea93c5a35ec4dea56d484b205633ac65a971c1193",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "For these reasons enlightened advocates of the restoration of gold, such as Mr. Hawtrey, do not welcome it as the return of a “natural” currency, and intend, qu",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            4943,
+            4985
+          ],
+          "source_segment_sha256": "1273e4536c5deb4bfe3c570f5effd832f565ad9d69ac9211ebe341d1c3614337",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "On the other hand, I see grave objections to reinstating gold in the pious hope that international co-operation will keep it in order. With the existing distrib",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            140,
+            176
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "可信对称合作或失败资料可修；不将两国意见当全人群认可。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R35",
+      "chapter_ordinal": 5,
+      "title": "利率资产财政联合传递",
+      "author_claim_paraphrase": "大行现金/存款习惯连英行资产和财政券融资；资产购买能抵销高率，资产减能抵低率。",
+      "author_original_conditions": "准备非天定，银行可改比阻延；比率措辞未解不作硬门。",
+      "required_inputs": [
+        "央行资产项",
+        "财政融资与期限",
+        "银行比例/信用"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5027,
+            5058
+          ],
+          "source_segment_sha256": "22d7671f2ce09a04246d8d94872bba47d55ec96720af592431ebea323367dac6",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The amount of credit, so created, is in its turn roughly measured by the volume of the banks’ deposits--since variations in this total must correspond to variat",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5071,
+            5088
+          ],
+          "source_segment_sha256": "ba3bfbb21cd26e4a85e97f5e74b6f58b9b751e967f6b09fbf67630e79a6c4847",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "To complete the argument, one further factor, not yet mentioned, must be introduced, namely (_d_) the proportion of the banks’ second-line reserve in the shape ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5115,
+            5185
+          ],
+          "source_segment_sha256": "8b53d36775c03a022ccd845cd46a2c66afd12c1eb8ca63cfcdc2002c43c7c1bb",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Now (_c_), namely the assets of the Bank of England, consist (so far as their variable part is concerned) of  (i.) Ways and Means advances to the Treasury.  (ii",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "单看银行率不定宽紧，缺账勿填实际机构流。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R36",
+      "chapter_ordinal": 5,
+      "title": "目标公开而诊断非机械公式",
+      "author_claim_paraphrase": "国内价格为先，综合指数可作尺度但反未来累积需综合就业生产信用，完整诊断超本书。",
+      "author_original_conditions": "未指定现代数值目标与公式，预测输入为当时可得。",
+      "required_inputs": [
+        "同期指数版本",
+        "就业生产信用",
+        "动作和信息发布时点"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5241,
+            5261
+          ],
+          "source_segment_sha256": "194c35f1141036777524cc7262d5a6000693c00df9395f05b2607733786262af",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "I. Accordingly my first requirement in a good constructive scheme can be supplied merely by a development of our existing arrangements on more deliberate and se",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5263,
+            5317
+          ],
+          "source_segment_sha256": "b238b0305960550bfcf2d0ec6457c52e2f1e51068ae4a2cb31fa66f54eeca6ec",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "If the Bank of England, the Treasury, and the Big Five were to adopt this policy, to what criteria should they look respectively in regulating bank-rate, Govern",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5319,
+            5329
+          ],
+          "source_segment_sha256": "557e0bd4e1a9b1de0bed3011391cf7a833f817e3027b91a1b2a3c7d38a2df050",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "It would at least be possible to avoid, for example, such action as has been taken lately (in Great Britain) whereby the supply of “cash” has been deflated at a",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "禁止用未来实际数回填，缺诊断不能装成原作者自动策略。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R37",
+      "chapter_ordinal": 5,
+      "title": "黄金价可调整且流出先诊因",
+      "author_claim_paraphrase": "报价买卖金缓短期汇动，内币弱加率、金变贵加金买价、暂季节储备足则容流。",
+      "author_original_conditions": "英实际资源及制度、价非永钉；财政近500k美元仅当时。",
+      "required_inputs": [
+        "金价与内价",
+        "可用储备/外流原因",
+        "财政购汇期限"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5340,
+            5373
+          ],
+          "source_segment_sha256": "794742345ba2c4993331c31b4cde587db0d353386a26639aed0eec017028b9ae",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "I believe that we can go a long way in this direction if the Bank of England will take over the duty of regulating the price of gold, just as it already regulat",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5378,
+            5407
+          ],
+          "source_segment_sha256": "4e461b59bcf820a68410499b5c249b07f237fe8646b904924d595b8f043778cc",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "(1) The service of the American debt will make it necessary for the British Treasury to buy nearly $500,000 every working day. It is clear that the particular m",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "因不明/储备不足不能择动作，旧幅度不作当前阈值。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R38",
+      "chapter_ordinal": 5,
+      "title": "金储备与钞量目的分开",
+      "author_claim_paraphrase": "金需为应急与暂国际债，纸币量随管理信用贸易就业；固定金比警讯晚且锁资源。",
+      "author_original_conditions": "信用财政先能管理，无发行固定数不等可财政无限印钱。",
+      "required_inputs": [
+        "应急储备需量",
+        "信用管理工具",
+        "财政依赖"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5413,
+            5438
+          ],
+          "source_segment_sha256": "42b3ae5db247488afb8a6480e58fc44d46bb63eda32ae920e6315da624d78085",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "the amount of gold to be held against a note issue is to set up a danger signal which cannot be easily disregarded, when a curtailment of credit and purchasing ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5470,
+            5508
+          ],
+          "source_segment_sha256": "69679c55bf77df9063433a7d8032cd9925b9ec91ce8534e048a674464aaedbcc",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "issue in deciding to raise or to lower the bank rate, it follows that the only employment for gold (nevertheless important) is as a store of value to be held as",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若先财政失控则不适用；现代替代储备资料可修金不可替判断。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R39",
+      "chapter_ordinal": 5,
+      "title": "美国经济效果与法律兑现不同",
+      "author_claim_paraphrase": "作者称美元标准令金跟美元，仍承认接金增部分余额；可停接新金而保旧钞兑金以约束压力。",
+      "author_original_conditions": "1923历史及条件建议，未证法律已改。",
+      "required_inputs": [
+        "实际法与操作时点",
+        "金接收和信用传递",
+        "央行政治压力"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5530,
+            5557
+          ],
+          "source_segment_sha256": "45d5d47bd55d6b69ac5c372a5327bebdafcf0231243fd40c757e114d917d2e3f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The theory on which the Federal Reserve Board is supposed to govern its discount policy, by reference to the influx and efflux of gold and the proportion of gol",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5578,
+            5595
+          ],
+          "source_segment_sha256": "24377cb8a6a086af672c1f4a4e79a8ad664f6f0a2b85195260928b110034963e",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "Closing the Mints to the compulsory acceptance of gold need not affect the existing obligation of convertibility;--the liability to encash notes in gold might s",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能经济修辞作法规；未来成本粗数不进实验。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R40",
+      "chapter_ordinal": 5,
+      "title": "对外贷款须识别储蓄或新增购买力",
+      "author_claim_paraphrase": "真实储蓄减少别消费投资不必增总购买力或抽金，新造信用外借才走涨价一路。",
+      "author_original_conditions": "全球合并资源/付款不同，借款方向不足。",
+      "required_inputs": [
+        "储蓄与发行来源",
+        "本国支出变化",
+        "实际贸易与金价"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5635,
+            5648
+          ],
+          "source_segment_sha256": "061a87b7309674b5590a2f14f97306fef8de446d393b344aa233a572bb8687ad",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "The notion, that America can get rid of her gold by showing a greater readiness to make loans to foreign countries, is incomplete. This result will only follow ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "没有来源不得国际贷款即全球流动性扩。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P11-R41",
+      "chapter_ordinal": 5,
+      "title": "其他锚先恢复控制且地缘设想非永恒",
+      "author_claim_paraphrase": "先有非印钞收入和可服务内债，再选锚与储备；双中心自愿协作是作者时代建议。",
+      "author_original_conditions": "政策独立/共同稳值能否成功未保证，帝国地理非现代特征。",
+      "required_inputs": [
+        "财政货币控制",
+        "内债服务",
+        "锚资源及协作"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5652,
+            5682
+          ],
+          "source_segment_sha256": "d3ccb82ccbc8b88a4f23c9440602a30287112d7ec720ffab8c06c7927d3ca57b",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "I argue, therefore, that the same policy which is wise for Great Britain is wise for the United States, namely to aim at the stability of the commodity-value of",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P11/source/original.txt",
+          "source_global_lines_inclusive": [
+            5685,
+            5715
+          ],
+          "source_segment_sha256": "35a3972f53179ed1865a2126315e97a31217b8e17dbdf35410ee176fb510703f",
+          "hash_method": "原始逐行字节含CRLF首尾区间",
+          "excerpt_for_location": "III. _Other Countries._  What course, in such an event, should other countries pursue? It is necessary to presume to begin with that we are dealing with countri",
+          "precise_printed_page_verified": false,
+          "chapter_printed_range_from_contents": [
+            177,
+            206
+          ]
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "失控国名义锚不足，新增币中心或自主证据可修两中心规范。",
+      "modern_layer_separate": "输入核证、证伪与现代防看未来是本次解释；原书未设现代自动选股阈值。",
+      "current_stock_decision_enabled": false
+    }
+  ],
+  "rule_count": 41,
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_original_scan_words_visually_verified": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_sha256": "46150582067a213ff7eee0ff7745159bdc005a9056cb1603c7e26c9bf3c3cd8e",
+  "source_limits_files": [
+    "work/book-experts-v5/index_team/P11/source/ch01-source-limits.json",
+    "work/book-experts-v5/index_team/P11/source/ch02-source-limits.json",
+    "work/book-experts-v5/index_team/P11/source/ch03-source-limits.json",
+    "work/book-experts-v5/index_team/P11/source/ch04-source-limits.json",
+    "work/book-experts-v5/index_team/P11/source/ch05-source-limits.json",
+    "work/book-experts-v5/index_team/P11/source/whole-source-limits.json"
+  ],
+  "global_abstain_conditions": [
+    "资料分母/币种/期限/时点不明",
+    "直接用未核历史数或源冲突作精算",
+    "把一般平价或远期当必达价格",
+    "把金比率/利率孤立当信号",
+    "把政治群体国民性/帝国地理当特征"
+  ],
+  "cross_book_borrowing_policy": "external_reference_not_new_vote",
+  "independent_qa_file": "independent-QA.json",
+  "final_qualified": true,
+  "goal_completion_status_sync": {
+    "final_status_authority_external": "work/stock_app_v5/goal-completion-status-sync-confirmation.json",
+    "scope": "Status-only closure from immutable actual prior semantic-review evidence; no new full source reading, author rule changes, all-glyph or model execution claim."
+  }
+}

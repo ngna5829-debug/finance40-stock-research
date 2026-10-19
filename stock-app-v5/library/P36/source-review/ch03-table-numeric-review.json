@@ -1,0 +1,150 @@
+{
+  "book_id": "P36",
+  "chapter": 3,
+  "all13rows65primarycells_visually_examined": true,
+  "original_PDF_pages": [
+    50,
+    51
+  ],
+  "printed_pages": [
+    46,
+    47
+  ],
+  "rows": [
+    {
+      "security": "BritishConsols",
+      "coupon": 2.5,
+      "price1906": 86.5,
+      "price1905": 89.125,
+      "price1904": 88.5,
+      "price1896": 113.875
+    },
+    {
+      "security": "MetConsols",
+      "coupon": 3.5,
+      "price1906": 102.0,
+      "price1905": 104.0,
+      "price1904": 104.5,
+      "price1896": 128.75
+    },
+    {
+      "security": "LondonCounty",
+      "coupon": 3.0,
+      "price1906": 88.5,
+      "price1905": 94.5,
+      "price1904": 93.0,
+      "price1896": 128.75
+    },
+    {
+      "security": "Leeds",
+      "coupon": 4.0,
+      "price1906": 108.0,
+      "price1905": 109.0,
+      "price1904": 111.5,
+      "price1896": 130.5
+    },
+    {
+      "security": "Liverpool",
+      "coupon": 3.5,
+      "price1906": 107.0,
+      "price1905": 109.0,
+      "price1904": 109.0,
+      "price1896": 144.25
+    },
+    {
+      "security": "Manchester",
+      "coupon": 4.0,
+      "price1906": 123.0,
+      "price1905": 128.75,
+      "price1904": 124.75,
+      "price1896": 159.0
+    },
+    {
+      "security": "NewSouthWales",
+      "coupon": 3.5,
+      "price1906": 100.5,
+      "price1905": 100.0,
+      "price1904": 96.0,
+      "price1896": 112.25
+    },
+    {
+      "security": "Queensland",
+      "coupon": 3.5,
+      "price1906": 99.5,
+      "price1905": 99.0,
+      "price1904": 96.0,
+      "price1896": 111.5
+    },
+    {
+      "security": "Canada",
+      "coupon": 3.0,
+      "price1906": 98.5,
+      "price1905": 100.5,
+      "price1904": 97.0,
+      "price1896": 107.25
+    },
+    {
+      "security": "Cape",
+      "coupon": 3.5,
+      "price1906": 97.0,
+      "price1905": 98.0,
+      "price1904": 95.0,
+      "price1896": 120.0
+    },
+    {
+      "security": "LonNWestern",
+      "coupon": 3.0,
+      "price1906": 93.0,
+      "price1905": 96.0,
+      "price1904": 95.0,
+      "price1896": 124.75
+    },
+    {
+      "security": "Midland",
+      "coupon": 2.5,
+      "price1906": 76.0,
+      "price1905": 79.0,
+      "price1904": 78.0,
+      "price1896": 124.75
+    },
+    {
+      "security": "GreatWestern",
+      "coupon": 4.0,
+      "price1906": 123.0,
+      "price1905": 127.0,
+      "price1904": 123.5,
+      "price1896": 164.0
+    }
+  ],
+  "independent_means": [
+    3.3461538461538463,
+    100.1923076923077,
+    102.60576923076923,
+    100.90384615384616,
+    128.43269230769232
+  ],
+  "author_rounded_means": [
+    3.3,
+    100.2,
+    101.8,
+    100.9,
+    128.4
+  ],
+  "coupon_footnotes_original_visualchecked": true,
+  "old_coupon": {
+    "BritishConsols": 2.75,
+    "Midland": 3
+  },
+  "full_actual_coupon_paths_known": false,
+  "annual_or_net_returns_verified": false,
+  "independent_nominal_price_mean_decline": 28.240384615384617,
+  "independent_real100after50percentpriceincrease": 66.66666666666667,
+  "independent_real105after10percentpriceincrease": 95.45454545454545,
+  "independent_money_principal_loss_at10percentpriceincrease": 0.09090909090909094,
+  "author_six_eight_rates_additive_approx_not_exact": true,
+  "conditional_exactnominal_4real_2price": 6.0799999999999965,
+  "conditional_exactnominal_4real_4price": 8.16000000000001,
+  "original_gold_supply_or_CPI_series_independently_verified": false,
+  "actual_trade_experiment_enabled": false,
+  "scope": "Historical13bondtable arithmetic plus explicitly independent hypotheticalrealreturncalculations, notactualprices/performanceproof."
+}

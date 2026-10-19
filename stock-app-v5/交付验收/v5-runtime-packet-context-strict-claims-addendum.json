@@ -1,0 +1,150 @@
+{
+  "audit": "Strict claim schema addendum to independent knowledge-packet capacity audit",
+  "createdUTC": "2026-10-13T18:21:18.706441+00:00",
+  "currentRuntimeFile": "work/stock_app_v5/agents_runtime.py",
+  "currentRuntimeSHA256": "c46d52a629cf420a8b7f94272f5dd232c1a4b5ec582b7f67eee2e769b0a98fc5",
+  "previousAuditFile": "work/book-experts-v5/value_team/peer-QA/v5-runtime-packet-context-QA.json",
+  "previousAuditSHA256": "9d7fe53bf5beff26add58a74402305c415dd0466b99b39be238a7f124e5ba2ee",
+  "previousAuditUnmodified": true,
+  "schemaChangeActuallyRead": {
+    "function": "validate_answer",
+    "line": 52,
+    "condition": "set(c)=={'rule_id','text'}",
+    "effect": "Every accepted claim has exactly rule_id and text; additional prediction fields or payload keys cause ValueError and are rejected. Unrecognized top-level fields are omitted from the returned normalized answer."
+  },
+  "independentPureValidatorChecks": {
+    "validExactClaimAccepted": true,
+    "extraClaimKeyRejections": [
+      {
+        "extraClaimKey": "probability",
+        "rejected": true,
+        "reason": "模型claim只接受rule_id与text，不能夹带额外预测或未限定字段。"
+      },
+      {
+        "extraClaimKey": "targetPrice",
+        "rejected": true,
+        "reason": "模型claim只接受rule_id与text，不能夹带额外预测或未限定字段。"
+      },
+      {
+        "extraClaimKey": "largeExtra",
+        "rejected": true,
+        "reason": "模型claim只接受rule_id与text，不能夹带额外预测或未限定字段。"
+      },
+      {
+        "extraClaimKey": "anotherField",
+        "rejected": true,
+        "reason": "模型claim只接受rule_id与text，不能夹带额外预测或未限定字段。"
+      }
+    ],
+    "unrecognizedTopLevelValueNotPropagated": true,
+    "scope": "Pure validate_answer calls on synthetic dictionaries only; no model, market execution or orchestration functions called."
+  },
+  "supersededOldAuditCaveat": "The old statement that arbitrary extra claim keys can propagate and defeat the declared-field bound applies only to the older runtime SHA. It is resolved for the current strict schema; retain the old report as a historical snapshot.",
+  "currentCapacityConclusion": "For currently accepted normalized answers and this fixed catalogue/frozen input, the prior control-character150 conservative envelope now covers all accepted answer fields, subject to the stated independent source-selection/answer-ID maximization. It is not a measured tokenizer limit or a guarantee for a different/larger frozen facts object or smaller model context.",
+  "all40CurrentKnowledgePacketSizesEqualPriorAudit": true,
+  "bookCount": 40,
+  "ruleCount": 1731,
+  "P14packetBytes": 88252,
+  "P36packetBytes": 94543,
+  "priorCurrentPacketPhaseBoundsStillApplicable": [
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "minimal",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 15512,
+          "overCapCount": 0
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 104841,
+          "overCapCount": 0
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 16135,
+          "overCapCount": 0
+        }
+      }
+    },
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "Chinese150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 282418,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 132688,
+          "overCapCount": 1
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 305339,
+          "overCapCount": 4
+        }
+      }
+    },
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "controlCharacter150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 498418,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 159688,
+          "overCapCount": 8
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 542939,
+          "overCapCount": 4
+        }
+      }
+    }
+  ],
+  "schemaKnownUnicodeSerializationBoundary": "Each of at most3 claims and3 elements in each missing/challenges/revisions list has at most150 Python characters. JSON control characters can encode to6 bytes per character; allowed rule IDs are restricted to current packet IDs. Valid outputs retain probability:null and executionAllowed:false.",
+  "overflowHandlingStillRequired": {
+    "perCallMessagesPlusOutputAllowanceCheckedBeforeHTTP": true,
+    "truncateFalsePreserved": true,
+    "shiftFalsePreserved": true,
+    "oversizedCallMustAbstain": true,
+    "multiRoundAll88SuccessGuaranteed": false,
+    "reason": "Chief prompts still aggregate40 outputs plus cited rules; even the150Han envelope exceeds131072 for all4 chiefs and one reply. Strict keys remove arbitrary extra payloads, but do not make bounded multi-round prompts fit."
+  },
+  "modelFunctionsExecuted": {
+    "run": 0,
+    "call": 0,
+    "request": 0,
+    "start": 0,
+    "models": 0
+  },
+  "HTTPRequestsMade": 0,
+  "modelsInvoked": 0,
+  "testResultsNotIndependentlyRerun": "Root reports16tests with extra-key subcases passed;88 therein are mocks. This addendum only verifies the stated pure validator behavior and unchanged packet sizes.",
+  "noCodeOrCanonicalEdits": true,
+  "onlyNewAddendumWritten": true
+}

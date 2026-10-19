@@ -1,0 +1,78 @@
+{
+  "book_id": "P15",
+  "current_investment_experiment": false,
+  "all_history_verified": false,
+  "source_values_unchanged": true,
+  "cotton_mill_sum_checks": [
+    [
+      2483,
+      2483
+    ],
+    [
+      2538,
+      2538
+    ]
+  ],
+  "woollen_mill_sum_checks": [
+    [
+      1829,
+      1829
+    ],
+    [
+      1793,
+      1793
+    ]
+  ],
+  "US_visible_rows": [
+    {
+      "year": 1850,
+      "establishments": 123025,
+      "nominal_products_dollars": 1019106616,
+      "independent_nominal_products_per_establishment": 8283.735956106482
+    },
+    {
+      "year": 1860,
+      "establishments": 140433,
+      "nominal_products_dollars": 1885861876,
+      "independent_nominal_products_per_establishment": 13428.908276544687
+    },
+    {
+      "year": 1870,
+      "establishments": 252148,
+      "nominal_products_dollars": 4232325442,
+      "independent_nominal_products_per_establishment": 16785.084323492552
+    },
+    {
+      "year": 1880,
+      "establishments": 253852,
+      "nominal_products_dollars": 5365579191,
+      "independent_nominal_products_per_establishment": 21136.643363061943
+    }
+  ],
+  "US_independent_adjacent_change_checks": [
+    {
+      "period": "1850–1860",
+      "independent_nominal_products_change": 866755260,
+      "source_claim_change": 866755060,
+      "claim_minus_visible_change": -200,
+      "establishments_change": 17408
+    },
+    {
+      "period": "1860–1870",
+      "independent_nominal_products_change": 2346463566,
+      "source_claim_change": 2346463766,
+      "claim_minus_visible_change": 200,
+      "establishments_change": 111715
+    },
+    {
+      "period": "1870–1880",
+      "independent_nominal_products_change": 1133253749,
+      "source_claim_change": 1133537749,
+      "claim_minus_visible_change": 284000,
+      "establishments_change": 1704
+    }
+  ],
+  "US1880_vs1860_mean_nominal_product_increase_pct": 57.39658747971199,
+  "source_claim_percent": 60,
+  "scope": "Visible arithmetic only:50–60quotedchange differs−200,60–70+200,70–80+284000. Perestablishment amount is nominal notphysicalproduct/labourproductivity orstockreturn; rounding/base/composition/proof responsibility unresolved."
+}

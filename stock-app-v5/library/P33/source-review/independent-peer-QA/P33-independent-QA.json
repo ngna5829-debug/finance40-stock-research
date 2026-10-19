@@ -1,0 +1,1528 @@
+{
+  "book_id": "P33",
+  "status": "full_original_semantic_review_required_corrections_pending_not_accepted",
+  "qualified_pass": false,
+  "all9_original_chapters_and_dossiers_actually_read": true,
+  "all39_rules_entire_expert_synthesis_explainer_audit_plan_validation_actually_read": true,
+  "whole_frontmatter_PG_license_and_all81906publisherOCR_andending_supplement_actually_read": true,
+  "all9_original_form_images_actually_viewed": true,
+  "original_full_source_line_coverage": [
+    [
+      "front",
+      1,
+      185
+    ],
+    [
+      "chapter1",
+      186,
+      426
+    ],
+    [
+      "chapter2",
+      427,
+      637
+    ],
+    [
+      "chapter3",
+      638,
+      1057
+    ],
+    [
+      "chapter4",
+      1058,
+      1319
+    ],
+    [
+      "chapter5",
+      1320,
+      1504
+    ],
+    [
+      "chapter6",
+      1505,
+      2304
+    ],
+    [
+      "chapter7",
+      2305,
+      2842
+    ],
+    [
+      "chapter8",
+      2843,
+      3066
+    ],
+    [
+      "chapter9",
+      3067,
+      3429
+    ],
+    [
+      "PGlicense",
+      3430,
+      3780
+    ]
+  ],
+  "precise_complete_raw_source_contexts": 258,
+  "exact_line_char_byte_SHA_file_checks": [
+    {
+      "rule": "P33-R01",
+      "paragraph": "P33-C01-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R01",
+      "paragraph": "P33-C01-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R01",
+      "paragraph": "P33-C01-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R01",
+      "paragraph": "P33-C01-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R02",
+      "paragraph": "P33-C01-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R02",
+      "paragraph": "P33-C01-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R02",
+      "paragraph": "P33-C01-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R03",
+      "paragraph": "P33-C01-P019",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R03",
+      "paragraph": "P33-C01-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R03",
+      "paragraph": "P33-C01-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R04",
+      "paragraph": "P33-C01-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R04",
+      "paragraph": "P33-C01-P023",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R04",
+      "paragraph": "P33-C02-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R04",
+      "paragraph": "P33-C02-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R05",
+      "paragraph": "P33-C02-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R05",
+      "paragraph": "P33-C02-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R05",
+      "paragraph": "P33-C02-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R06",
+      "paragraph": "P33-C02-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R06",
+      "paragraph": "P33-C02-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R06",
+      "paragraph": "P33-C02-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R07",
+      "paragraph": "P33-C02-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R08",
+      "paragraph": "P33-C02-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R08",
+      "paragraph": "P33-C02-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R08",
+      "paragraph": "P33-C02-P019",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R08",
+      "paragraph": "P33-C02-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R09",
+      "paragraph": "P33-C03-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R09",
+      "paragraph": "P33-C03-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R09",
+      "paragraph": "P33-C03-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R09",
+      "paragraph": "P33-C03-P044",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R10",
+      "paragraph": "P33-C03-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R10",
+      "paragraph": "P33-C03-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P019",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P040",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P041",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P042",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P043",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R11",
+      "paragraph": "P33-C03-P044",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P028",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P029",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P033",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P035",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P036",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R12",
+      "paragraph": "P33-C03-P037",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R13",
+      "paragraph": "P33-C04-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R14",
+      "paragraph": "P33-C04-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R14",
+      "paragraph": "P33-C04-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R15",
+      "paragraph": "P33-C04-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R15",
+      "paragraph": "P33-C04-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R16",
+      "paragraph": "P33-C04-P030",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R16",
+      "paragraph": "P33-C04-P032",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R16",
+      "paragraph": "P33-C04-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R16",
+      "paragraph": "P33-C04-P035",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R16",
+      "paragraph": "P33-C04-P037",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R17",
+      "paragraph": "P33-C05-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R18",
+      "paragraph": "P33-C05-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R19",
+      "paragraph": "P33-C05-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R19",
+      "paragraph": "P33-C05-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R19",
+      "paragraph": "P33-C05-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R19",
+      "paragraph": "P33-C05-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R19",
+      "paragraph": "P33-C05-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R20",
+      "paragraph": "P33-C06-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R20",
+      "paragraph": "P33-C06-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R20",
+      "paragraph": "P33-C06-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R20",
+      "paragraph": "P33-C06-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R20",
+      "paragraph": "P33-C06-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R21",
+      "paragraph": "P33-C06-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R21",
+      "paragraph": "P33-C06-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R21",
+      "paragraph": "P33-C06-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R21",
+      "paragraph": "P33-C06-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R21",
+      "paragraph": "P33-C06-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R22",
+      "paragraph": "P33-C06-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R22",
+      "paragraph": "P33-C06-P019",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R22",
+      "paragraph": "P33-C06-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R22",
+      "paragraph": "P33-C06-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R22",
+      "paragraph": "P33-C06-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P024",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P025",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P026",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P027",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P028",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P029",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P030",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P031",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P032",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P033",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R23",
+      "paragraph": "P33-C06-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P040",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P041",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P042",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P043",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P044",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P045",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P046",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R24",
+      "paragraph": "P33-C06-P047",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P048",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P049",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P050",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P051",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P052",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P053",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R25",
+      "paragraph": "P33-C06-P054",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P056",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P057",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P058",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P059",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P060",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R26",
+      "paragraph": "P33-C06-P061",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P063",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P064",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P065",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P066",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P067",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P068",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P070",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P071",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P072",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P073",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P074",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P075",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R27",
+      "paragraph": "P33-C06-P076",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R28",
+      "paragraph": "P33-C07-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P023",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P024",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P025",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P026",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P027",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P028",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P029",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P030",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P031",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P032",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P033",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P035",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P036",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P037",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P038",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P039",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P040",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P041",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P042",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P043",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P044",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P045",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R29",
+      "paragraph": "P33-C07-P046",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P048",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P049",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P050",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P051",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P052",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P053",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P054",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P055",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P056",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P057",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P058",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P059",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P060",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P061",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P062",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P064",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P065",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R30",
+      "paragraph": "P33-C07-P066",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P032",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P033",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P046",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P068",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P069",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P070",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P071",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P072",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P073",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P074",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P075",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R31",
+      "paragraph": "P33-C07-P076",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R32",
+      "paragraph": "P33-C08-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C08-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C06-P050",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C06-P051",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R33",
+      "paragraph": "P33-C06-P052",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R34",
+      "paragraph": "P33-C08-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R34",
+      "paragraph": "P33-C08-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R34",
+      "paragraph": "P33-C08-P019",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R35",
+      "paragraph": "P33-C08-P020",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R35",
+      "paragraph": "P33-C08-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R35",
+      "paragraph": "P33-C08-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R36",
+      "paragraph": "P33-C09-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R37",
+      "paragraph": "P33-C09-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R37",
+      "paragraph": "P33-C09-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R37",
+      "paragraph": "P33-C09-P018",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R37",
+      "paragraph": "P33-C09-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R37",
+      "paragraph": "P33-C09-P022",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P023",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P025",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P027",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P028",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R38",
+      "paragraph": "P33-C09-P035",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P027",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P028",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P029",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P030",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P031",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P032",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P033",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P034",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P33-R39",
+      "paragraph": "P33-C09-P035",
+      "exact_line_char_byte_SHA_file_match": true
+    }
+  ],
+  "strict_counts": [
+    2399,
+    2398,
+    2478,
+    2176,
+    2324,
+    2687,
+    2475,
+    2161,
+    2488
+  ],
+  "strict_body_Han_total": 21586,
+  "minimum_Han": 2161,
+  "actual_original_PDF_pages_viewed": [
+    5,
+    57,
+    62,
+    64,
+    65,
+    66,
+    67,
+    73,
+    77,
+    93,
+    100,
+    127,
+    128,
+    130,
+    131,
+    133,
+    140,
+    154,
+    161,
+    162,
+    172
+  ],
+  "extra_original_highres_crop_actually_viewed": "P33-images/pdf154-footer-highres.png",
+  "source_snapshot": [
+    {
+      "file": "source/IA-1915-metadata.json",
+      "bytes": 45031,
+      "sha256": "6bb74abb9ee729bbef679ff57f73e87e96850000c3ddd52ec55d133268cd94f0"
+    },
+    {
+      "file": "source/IA-metadata.json",
+      "bytes": 40866,
+      "sha256": "d28bfe10894987b8b89ab7e8de4f49d6e48c100257e6a0b6ed6d728bad99ce2e"
+    },
+    {
+      "file": "source/IA-search.json",
+      "bytes": 979,
+      "sha256": "1c7fcb93307c683a23f8dc7f807b5781532a2c55a0de922021b61cb8dae465c8"
+    },
+    {
+      "file": "source/PG-ending-supplement.txt",
+      "bytes": 201,
+      "sha256": "d38a488ef1a95dee1dbfad8f5e0e05a4143587691f83e32079d8e063b49c7572"
+    },
+    {
+      "file": "source/chapters/ch01.txt",
+      "bytes": 13675,
+      "sha256": "0af662ab544bb69509aadb6db5872918e7a611837b97f123d3677571504e9b7d"
+    },
+    {
+      "file": "source/chapters/ch02.txt",
+      "bytes": 11765,
+      "sha256": "d11fa322fdeb303934edb0d007df98bd355f6091731a364df06579a93a3e171a"
+    },
+    {
+      "file": "source/chapters/ch03.txt",
+      "bytes": 24359,
+      "sha256": "51fbd13ae2be6bdf5c9c2c9628afd5689e5d82dcb9477f36f5377a137e17fe11"
+    },
+    {
+      "file": "source/chapters/ch04.txt",
+      "bytes": 13758,
+      "sha256": "1dd02a9407f27564ce5bac9b9d99fb101aa16a84c1d54b216335a2e8fa537a07"
+    },
+    {
+      "file": "source/chapters/ch05.txt",
+      "bytes": 11125,
+      "sha256": "ae54392014644f05622aaa47745c35771f0b0390750f74987058c7b2635d9019"
+    },
+    {
+      "file": "source/chapters/ch06.txt",
+      "bytes": 46769,
+      "sha256": "dfb10da3177707fa5ed1621e56c1ef3042068267ffb6eeba4386bfb1b783ab8a"
+    },
+    {
+      "file": "source/chapters/ch07.txt",
+      "bytes": 29160,
+      "sha256": "007f7d4f88d65d24649a938b7b9a952d1faa1520c922693b5cb00a8fc31cf171"
+    },
+    {
+      "file": "source/chapters/ch08.txt",
+      "bytes": 12882,
+      "sha256": "f1cf283fa9fff743ddffd1fe553076be0f02430db13e5ae2c603cb9781d61bbc"
+    },
+    {
+      "file": "source/chapters/ch09.txt",
+      "bytes": 21113,
+      "sha256": "ff05524dc3b5755d94046617fc5864c4fd93bf5a8deaaac8dcaeb920709a43f6"
+    },
+    {
+      "file": "source/frontmatter.txt",
+      "bytes": 6397,
+      "sha256": "3471194cc0d9260beec587e6e5c5ffdee50261f902f08f45b57291a8597997df"
+    },
+    {
+      "file": "source/full-PG-license.txt",
+      "bytes": 18591,
+      "sha256": "5b0e1955f812b812c92dbf2d8d7262a7a0cc24014c9e53752f420410604f7d5d"
+    },
+    {
+      "file": "source/original-1915.pdf",
+      "bytes": 10269112,
+      "sha256": "adadaed2550f1abf3d0e253c656f4d49604aa6743ca7465913b1a266ac4973f7"
+    },
+    {
+      "file": "source/original.html",
+      "bytes": 232860,
+      "sha256": "9989932db8da469949304b3d3be2c071cdb234f96ad7f01fc00383e0bbecf292"
+    },
+    {
+      "file": "source/original.txt",
+      "bytes": 213374,
+      "sha256": "938a9a485314fd0f9a0ebbe88da8923b124738c39e05d30a338a20b688838649"
+    },
+    {
+      "file": "source/publisher-catalogue-OCR.txt",
+      "bytes": 82147,
+      "sha256": "0b27f557b6c04969b6a2718af3fd85865a7243254dbff1de55149f2e81c033b6"
+    },
+    {
+      "file": "source/scan-pages.json",
+      "bytes": 327126,
+      "sha256": "26591c59f79d9eb8847e3038e11011663b4a5c0998c85e57e77b32481b459671"
+    }
+  ],
+  "original_all_glyphs_proofread": false,
+  "all_underlying_statutes_historical_ledgers_news_or_other_books_verified": false,
+  "publisher_advertisements_not_counted_new_books": true,
+  "rawPG_truncated_ending_not_misrepresented_complete_alone": true,
+  "source_form_internal_number_and_date_discrepancy": {
+    "id": "P33-QA-A08",
+    "status": "required_original_form_discrepancy_disclosure",
+    "source_PDF_page": 154,
+    "printed_page": 142,
+    "original_images_actually_viewed": [
+      "source-review/p154.png",
+      "value_team/peer-QA/P33-images/pdf154-footer-highres.png"
+    ],
+    "observation": "Creditformheader CreditNo1301 andOctober19,1909; sameformNBfooter LetterofCreditNo1310 andOctober9,1909. TrustreceiptPDF161No1301; disagreement preserved notsilentlyoneauthenticcontract. Bottom600consistent.",
+    "required_files": [
+      "ch09.md",
+      "全书综合与附录.md",
+      "source-review/form-visual-audit.json",
+      "章节与阅读审计.json"
+    ],
+    "required_addition_zh": "信用证页上方和信托收据记一三〇一，信用证底部附记却为一三一〇；页首日期十月十九日与底部十月九日也不同。样表内这些不一致保留，本次不据此确认真实、统一的交易记录。",
+    "raw_source_must_remain_unchanged": true
+  },
+  "current_market_expert_calls": 0,
+  "backtest_executed": false,
+  "probabilities_calibrated": false,
+  "candidate_file": "work/book-experts-v5/value_team/peer-QA/P33-expert-candidate.json",
+  "candidate_sha256": "0f6b33f11c934699a1a1c23016d3fad1589054acc1db1f7dae69d01229cd6e28",
+  "required_findings_file": "work/book-experts-v5/value_team/peer-QA/P33-required-findings.json",
+  "completed_utc": "2026-10-13T15:12:51.409965+00:00"
+}

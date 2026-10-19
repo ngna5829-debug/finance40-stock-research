@@ -1,0 +1,301 @@
+{
+  "schema": "delivery-launch-readiness-readonly-v1",
+  "checkedAtUTC": "2026-10-13T18:25:12.833254+00:00",
+  "healthWhitelisted": {
+    "ok": true,
+    "app": "regime-stock-research",
+    "version": "5.0",
+    "port": 8775,
+    "buildId": "cd899edd23c3",
+    "loadedCodeSha256": "cd899edd23c309cf12e61648b09ff36a9de1ab7cce742e77922c828d6fbd4c2b",
+    "loadedAt": "2026-10-13T18:20:44.843380+00:00",
+    "defaultProvider": "public",
+    "feed": "iex",
+    "autoRefreshSeconds": 300,
+    "maxWorkers": 4,
+    "alpacaConnected": false,
+    "marketState": {
+      "state": "open",
+      "isOpen": true,
+      "asOf": "2026-10-13T18:25:11.645842+00:00",
+      "expectedCompletedSession": "2026-10-12",
+      "calendarVerified": true
+    }
+  },
+  "ownedServiceEvidence": {
+    "pid": 12539,
+    "bridgeEntrypointWithinThisWorkspace": true,
+    "port8775Specified": true,
+    "entrypointResolutionMethod": "Observed bridge.py/cwd; fullargvnotprintedorpersisted"
+  },
+  "runningCodeMatches": {
+    "work/stock_app_v5": true,
+    "outputs/stock-app-v5": true
+  },
+  "currentModuleDigests": {
+    "work/stock_app_v5": "cd899edd23c309cf12e61648b09ff36a9de1ab7cce742e77922c828d6fbd4c2b",
+    "outputs/stock-app-v5": "cd899edd23c309cf12e61648b09ff36a9de1ab7cce742e77922c828d6fbd4c2b"
+  },
+  "GETSnapshotAvailable": true,
+  "snapshotStatus": "partial",
+  "capturedAt": "2026-10-13T18:21:38.977577+00:00",
+  "snapshotAgeSeconds": 212.885569,
+  "universeCount": 100,
+  "distinctUniverseSymbols": 100,
+  "availableUniverseStocks": 100,
+  "universeQuoteCoverage": 100,
+  "universeBarCoverage": 100,
+  "universeSource": "https://www.nasdaq.com/market-activity/stocks/screener",
+  "universeAsOf": "Last price as of Oct 12, 2026",
+  "snapshotProvider": "public",
+  "dataMode": "polling_public_delay_unknown",
+  "coverage": {
+    "requestedStocks": 100,
+    "availableStocks": 100,
+    "requestedBenchmarks": 6,
+    "availableBenchmarks": 5
+  },
+  "fundamentalsCoverage": {
+    "requested": 100,
+    "availableSelectedAnnualFacts": 61,
+    "attemptedThisRefresh": 0,
+    "automaticRotatingBudgetSeconds": 45,
+    "refreshTTLHours": 12,
+    "allOriginalReportsRead": false,
+    "source": "SEC EDGAR public API",
+    "coverage": "USD standard taxonomy only; missing/custom/nonUSD/future/conflicting fields not filled."
+  },
+  "stocksWithAnnualFacts": 61,
+  "stockDataExamples": [
+    {
+      "symbol": "AAPL",
+      "snapshotCapturedAt": "2026-10-13T18:21:38.977577+00:00",
+      "source": "Yahoo公开网页行情（实验、非官方API）",
+      "feed": "public_delay_unknown",
+      "isRealtime": false,
+      "delay": "此网页chart接口延迟未核实；以源报价时间为准，非逐笔实时报价保证",
+      "quote": {
+        "price": 342.41,
+        "currency": "USD",
+        "timestamp": "2026-10-13T18:20:51+00:00",
+        "ageSeconds": 304.081395
+      },
+      "quoteReceivedAt": "2026-10-13T18:20:53.508284+00:00",
+      "historyLastCompletedDate": "2026-10-12",
+      "historyAsOf": "2026-10-12",
+      "historyReceivedAt": "2026-10-13T18:20:53.505756+00:00",
+      "priceBasis": "adjclose_ratio_ohlc",
+      "volumeAdjustmentVerified": false,
+      "annualFacts": {
+        "source": "SEC EDGAR consolidated annual XBRL facts",
+        "asOf": "2025-09-27T00:00:00+00:00",
+        "receivedAt": "2026-10-13T14:16:43.056725+00:00",
+        "availableAt": "2026-10-13T14:16:43.056725+00:00",
+        "availabilityBasis": "Actually observed in the public SEC API at receipt; original intraday acceptance time not claimed. This cache is not a historical point-in-time database.",
+        "reportPeriod": {
+          "start": "2024-09-29",
+          "end": "2025-09-27",
+          "filed": "2025-10-31",
+          "accn": "0000320193-25-000079",
+          "form": "10-K"
+        },
+        "coverage": "Selected consolidated standard-taxonomy USD annual facts, not all original annual-report pages/notes or issuer custom tags.",
+        "cashFlowMeaning": "Corporate annual operating cash flow; not stock-market capital flow, institutional account activity or current cash balance.",
+        "fullOriginalFilingRead": false,
+        "realInstitutionalFlow": false
+      }
+    },
+    {
+      "symbol": "MSFT",
+      "snapshotCapturedAt": "2026-10-13T18:21:38.977577+00:00",
+      "source": "Yahoo公开网页行情（实验、非官方API）",
+      "feed": "public_delay_unknown",
+      "isRealtime": false,
+      "delay": "此网页chart接口延迟未核实；以源报价时间为准，非逐笔实时报价保证",
+      "quote": {
+        "price": 546.335,
+        "currency": "USD",
+        "timestamp": "2026-10-13T18:20:52+00:00",
+        "ageSeconds": 303.081398
+      },
+      "quoteReceivedAt": "2026-10-13T18:20:54.962606+00:00",
+      "historyLastCompletedDate": "2026-10-12",
+      "historyAsOf": "2026-10-12",
+      "historyReceivedAt": "2026-10-13T18:20:54.958755+00:00",
+      "priceBasis": "adjclose_ratio_ohlc",
+      "volumeAdjustmentVerified": false,
+      "annualFacts": {
+        "source": "SEC EDGAR consolidated annual XBRL facts",
+        "asOf": "2026-06-30T00:00:00+00:00",
+        "receivedAt": "2026-10-13T14:16:46.247755+00:00",
+        "availableAt": "2026-10-13T14:16:46.247755+00:00",
+        "availabilityBasis": "Actually observed in the public SEC API at receipt; original intraday acceptance time not claimed. This cache is not a historical point-in-time database.",
+        "reportPeriod": {
+          "start": "2025-07-01",
+          "end": "2026-06-30",
+          "filed": "2026-07-29",
+          "accn": "0001193125-26-323660",
+          "form": "10-K"
+        },
+        "coverage": "Selected consolidated standard-taxonomy USD annual facts, not all original annual-report pages/notes or issuer custom tags.",
+        "cashFlowMeaning": "Corporate annual operating cash flow; not stock-market capital flow, institutional account activity or current cash balance.",
+        "fullOriginalFilingRead": false,
+        "realInstitutionalFlow": false
+      }
+    },
+    {
+      "symbol": "BRK-B",
+      "snapshotCapturedAt": "2026-10-13T18:21:38.977577+00:00",
+      "source": "Yahoo公开网页行情（实验、非官方API）",
+      "feed": "public_delay_unknown",
+      "isRealtime": false,
+      "delay": "此网页chart接口延迟未核实；以源报价时间为准，非逐笔实时报价保证",
+      "quote": {
+        "price": 521.3,
+        "currency": "USD",
+        "timestamp": "2026-10-13T18:20:54+00:00",
+        "ageSeconds": 301.08141
+      },
+      "quoteReceivedAt": "2026-10-13T18:20:58.569108+00:00",
+      "historyLastCompletedDate": "2026-10-12",
+      "historyAsOf": "2026-10-12",
+      "historyReceivedAt": "2026-10-13T18:20:58.566777+00:00",
+      "priceBasis": "adjclose_ratio_ohlc",
+      "volumeAdjustmentVerified": false,
+      "annualFacts": {
+        "source": "SEC EDGAR consolidated annual XBRL facts",
+        "asOf": "2025-12-31T00:00:00+00:00",
+        "receivedAt": "2026-10-13T14:16:54.518203+00:00",
+        "availableAt": "2026-10-13T14:16:54.518203+00:00",
+        "availabilityBasis": "Actually observed in the public SEC API at receipt; original intraday acceptance time not claimed. This cache is not a historical point-in-time database.",
+        "reportPeriod": {
+          "start": "2025-01-01",
+          "end": "2025-12-31",
+          "filed": "2026-03-02",
+          "accn": "0001193125-26-083899",
+          "form": "10-K"
+        },
+        "coverage": "Selected consolidated standard-taxonomy USD annual facts, not all original annual-report pages/notes or issuer custom tags.",
+        "cashFlowMeaning": "Corporate annual operating cash flow; not stock-market capital flow, institutional account activity or current cash balance.",
+        "fullOriginalFilingRead": false,
+        "realInstitutionalFlow": false
+      }
+    },
+    {
+      "symbol": "QQQ",
+      "snapshotCapturedAt": "2026-10-13T18:21:38.977577+00:00",
+      "source": "Yahoo公开网页行情（实验、非官方API）",
+      "feed": "public_delay_unknown",
+      "isRealtime": false,
+      "delay": "此网页chart接口延迟未核实；以源报价时间为准，非逐笔实时报价保证",
+      "quote": {
+        "price": 742.71,
+        "currency": "USD",
+        "timestamp": "2026-10-13T18:20:49+00:00",
+        "ageSeconds": 306.081387
+      },
+      "quoteReceivedAt": "2026-10-13T18:20:51.298389+00:00",
+      "historyLastCompletedDate": "2026-10-12",
+      "historyAsOf": "2026-10-12",
+      "historyReceivedAt": "2026-10-13T18:20:51.295744+00:00",
+      "priceBasis": "adjclose_ratio_ohlc",
+      "volumeAdjustmentVerified": false,
+      "annualFacts": null
+    }
+  ],
+  "quotesAndDailyBarsSeparate": true,
+  "sourceQuoteTimeNotReceiptTimePolicy": "完整日线用于指标；原始最新报价单独显示。报价时间与取数时间分开，不把缓存标作实时。",
+  "sourceDelayUnknownPublicNotTickRealtime": true,
+  "realInstitutionalFlowsAvailableCount": 0,
+  "moneyFlowPolicy": "未取得真实机构/订单资金净流；OBV/CMF仅是价格成交量代理，不能识别机构。",
+  "SECscope": "Selected standard-taxonomy consolidated USD annual XBRL facts at one filing/period; not all report notes, current quarter, livecashbalance or institution netbuying; cache not historicalpoint-in-time data.",
+  "defaultDocumentEngineActualLLMInvocationsDeclared": 0,
+  "actualModelInferenceCallsDuringThisReadOnlyAudit": 0,
+  "optionalOllamaInferenceStarted": false,
+  "serviceWideOptionalSessionCounterIndependentlyObservableWithoutJobID": false,
+  "modelCounterEvidenceBoundary": "Catalogue/defaultbook engine explicitly0; optional jobs require explicitPOSTandexisting localmodel. No optionalmodel was started or called by this auditor; no claim88calls have run.",
+  "securityReadOnlyGETChecks": {
+    "externalOrigin": 403,
+    "foreignHost": 403,
+    "nullFileOrigin": true,
+    "sameLocalOrigin": true
+  },
+  "launcherCommandExecutable": true,
+  "launcherShellSyntaxOK": true,
+  "startupPolicy": "Launcher verifies app/version and exact four-module loaded digest before reusing8775; Python from existingruntime orPATH, no packageinstall.",
+  "readonlyOnly": true,
+  "noRefreshPOST_noModelPOST_noStart_noStop_noGoal": true,
+  "noCredentialsOrRefreshSecretsWritten": true,
+  "finalRestartOwnership": "root ownsservice; any finalbackend modulehashdifference requires root restart, auditordoesnot stop service.",
+  "findings": [
+    {
+      "severity": "scope",
+      "message": "最终owned服务摘要与work/outputs四模块一致。快照partial仍须保留基准/数据口径缺项；不能由100股有数据推全部资料完整。"
+    },
+    {
+      "severity": "counter_scope",
+      "message": "默认文献引擎模型计数0，本次审计推理调用0；没有启动可选会话，也没有声称88次已完成。"
+    }
+  ],
+  "guide": {
+    "file": "work/stock_app_v5/启动说明.html",
+    "sha256": "62d9af4fc0f64a311d5a4b3e87eb481b0b873859ede53ff697f516f9b46c88c1",
+    "relative_links": [
+      "index.html",
+      "library/书本深读档案.html"
+    ],
+    "both_relative_targets_in_current_output_exist": true,
+    "offline_no_external_assets_no_script": true,
+    "no_hardcoded_final_qualified40claim": true,
+    "expected88not_claimed_executed": true,
+    "visualBrowserReviewPerformedByThisAuditor": false,
+    "visualReviewHandoff": "root finalcopyandview; staticparse/link checks performed here",
+    "copiedOutputGuideSHA256": "62d9af4fc0f64a311d5a4b3e87eb481b0b873859ede53ff697f516f9b46c88c1",
+    "copiedGuideMatchesWork": true
+  },
+  "actualReadOnlyLauncherChecks": {
+    "currentOutputLaunchCheckExit": 0,
+    "currentWorkLaunchCheckExit": 0,
+    "scope": "Only checkerGEThealth/comparehash; fullcommand launchernotexecuted; no service mutation.",
+    "result": "Bothfinalversionsmatchownedserviceafterrootrestart"
+  },
+  "minimumPythonVersion": "3.9",
+  "preFinalRestartHistoricalCapture": {
+    "healthWhitelisted": {
+      "ok": true,
+      "app": "regime-stock-research",
+      "version": "5.0",
+      "port": 8775,
+      "buildId": "fa9e84b8313d",
+      "loadedCodeSha256": "fa9e84b8313d5660f9ab38c8dc75f9be6546aadffbbdfd9982147a5688926e29",
+      "loadedAt": "2026-10-13T14:15:25.495261+00:00",
+      "defaultProvider": "public",
+      "feed": "iex",
+      "autoRefreshSeconds": 300,
+      "maxWorkers": 4,
+      "alpacaConnected": false,
+      "marketState": {
+        "state": "open",
+        "isOpen": true,
+        "asOf": "2026-10-13T17:55:00.821709+00:00",
+        "expectedCompletedSession": "2026-10-12",
+        "calendarVerified": true
+      }
+    },
+    "ownedServiceEvidence": {
+      "pid": 35781,
+      "pythonProcess": true,
+      "bridgeEntrypointWithinThisWorkspace": true,
+      "port8775Specified": true,
+      "workingDirectoryWithinWorkspace": true,
+      "entrypointResolutionMethod": "relativebridge.py resolvedagainst observedprocesscwd; fullargvnotprintedorpersisted"
+    },
+    "runningCodeMatches": {
+      "work/stock_app_v5": false,
+      "outputs/stock-app-v5": true
+    },
+    "capturedAt": "2026-10-13T17:53:31.277279+00:00",
+    "checkedAtUTC": "2026-10-13T17:55:06.136861+00:00"
+  },
+  "finalRootRestartObserved": true
+}

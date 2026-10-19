@@ -1,0 +1,758 @@
+{
+  "book_id": "P22",
+  "issues": [
+    {
+      "id": "P22-N01",
+      "kind": "denominator_unstated",
+      "author_or_PG_original": "40m建设、30m净收益与利息差、售款11.375m约成本六分一",
+      "independent_review": "只建设与合并财政负担有不同分母；可能合计但作者未明确",
+      "independent_calculation": {
+        "sale_pct_of_40m": 28.4375,
+        "sale_pct_of_70m": 16.25
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch01-P0050",
+          "printed_anchor_range": [
+            41,
+            42
+          ],
+          "html_line_range": [
+            1569,
+            1592
+          ],
+          "paragraph_text_sha256": "053e5b6b43285131673b0f7ac172dc03950a868e6f2fe4bc1ea27ce7503da052"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N02",
+      "kind": "inconsistent_subtotals",
+      "author_or_PG_original": "Argentine总路线880，665+115；产权总3705，1148/572/102/1888",
+      "independent_review": "保留分项与总数，不补遗漏",
+      "independent_calculation": {
+        "route_sum": 780,
+        "ownership_sum": 3710
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch02-P0059",
+          "printed_anchor_range": [
+            68,
+            69
+          ],
+          "html_line_range": [
+            2306,
+            2319
+          ],
+          "paragraph_text_sha256": "01ada0307f5e95a07df2a78453e7ef39fad0098775cf34efc6736af37a3198a4"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N03",
+      "kind": "same_year_scope_unexplained",
+      "author_or_PG_original": "Canada1890里程10150与14004",
+      "independent_review": "本段范围没有解释，不能拼精确序列",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch02-P0070",
+          "printed_anchor_range": [
+            73,
+            73
+          ],
+          "html_line_range": [
+            2419,
+            2435
+          ],
+          "paragraph_text_sha256": "7b554a525deeac7e25886b0d8c1eb700d16f07eea250bd8344d6c429a06b6b18"
+        },
+        {
+          "paragraph_id": "P22-ch02-P0073",
+          "printed_anchor_range": [
+            74,
+            75
+          ],
+          "html_line_range": [
+            2495,
+            2516
+          ],
+          "paragraph_text_sha256": "78acd5a9c64634645c2236e6a07d21abf75b58eef82afe1e8b62882b0aa95295"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N04",
+      "kind": "prose_vs_table",
+      "author_or_PG_original": "援助215m高于成本48m；表援助215361697成本131350019",
+      "independent_review": "各项和正确但前段差未重现，贷款保证名义额不等损失",
+      "independent_calculation": {
+        "sum": 215361697,
+        "excess": 84011678
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch02-P0071",
+          "printed_anchor_range": [
+            73,
+            74
+          ],
+          "html_line_range": [
+            2436,
+            2449
+          ],
+          "paragraph_text_sha256": "58f53de0cf13c80635f8b581afcad1bd0805dd6ba5da944fd7029023c656ba95"
+        },
+        {
+          "paragraph_id": "P22-ch02-P0072",
+          "printed_anchor_range": [
+            74,
+            74
+          ],
+          "html_line_range": [
+            2451,
+            2493
+          ],
+          "paragraph_text_sha256": "0e0bb87bd3fd0b35b603ee93979f62abe5b1503fc6697f7f1354a40edcaa18fa"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N05",
+      "kind": "ratio_scope_unexplained",
+      "author_or_PG_original": "运营线路成本8519670421，总收入1097847428，称12.7%",
+      "independent_review": "直接按该两数不能精确复算，可能原引用另有范围，未填",
+      "independent_calculation": {
+        "direct_ratio_pct": 12.886031662609076
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch03-P0018",
+          "printed_anchor_range": [
+            85,
+            86
+          ],
+          "html_line_range": [
+            2774,
+            2805
+          ],
+          "paragraph_text_sha256": "f8f089bfc60b78f7c02759cd35212b2a72205509bf3215e5de447bce79c239ab"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N06",
+      "kind": "consolidation_count",
+      "author_or_PG_original": "纽约中央前章十一条，后章十条",
+      "independent_review": "可能范围不同，未有完整原资产谱系，不统一",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch03-P0011",
+          "printed_anchor_range": [
+            82,
+            83
+          ],
+          "html_line_range": [
+            2688,
+            2708
+          ],
+          "paragraph_text_sha256": "a3264aa9e230b80a9ffc85ae82cae0e102190a022ca4672291ac7184c7dec8da"
+        },
+        {
+          "paragraph_id": "P22-ch06-P0006",
+          "printed_anchor_range": [
+            165,
+            165
+          ],
+          "html_line_range": [
+            5051,
+            5065
+          ],
+          "paragraph_text_sha256": "ec1fbeda5d2391311fa259bc3172fefd13296dd8f3c64cb13a488240a4056500"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N07",
+      "kind": "normative_generalization_vs_case",
+      "author_or_PG_original": "美国政府不认可垄断，同时州保护公司免竞争并续期",
+      "independent_review": "原则性总括与所述例外并存，不能用总括作法律结论",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch04-P0021",
+          "printed_anchor_range": [
+            101,
+            101
+          ],
+          "html_line_range": [
+            3293,
+            3300
+          ],
+          "paragraph_text_sha256": "4d63b86d5e02c40e15da55e2230471d41f34d00a9d9bf32390980638ae1d6339"
+        },
+        {
+          "paragraph_id": "P22-ch04-P0028",
+          "printed_anchor_range": [
+            104,
+            104
+          ],
+          "html_line_range": [
+            3377,
+            3396
+          ],
+          "paragraph_text_sha256": "5b42b4156f97698904d4974cbfa83a26dd61666e804544542d02e955c8037ff9"
+        },
+        {
+          "paragraph_id": "P22-ch04-P0042",
+          "printed_anchor_range": [
+            113,
+            113
+          ],
+          "html_line_range": [
+            3612,
+            3624
+          ],
+          "paragraph_text_sha256": "df9a0ef171ab244b4d47d956821d5ccf9bdc8839adf480e654e79a4de082f853"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N08",
+      "kind": "excess_vs_total_percentage",
+      "author_or_PG_original": "成本116.45m，超额261m，称超额325%",
+      "independent_review": "总资本百分比与超额百分比混用",
+      "independent_calculation": {
+        "excess_pct": 224.13052812365822,
+        "total_capital_pct": 324.1305281236582
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch06-P0015",
+          "printed_anchor_range": [
+            172,
+            173
+          ],
+          "html_line_range": [
+            5249,
+            5277
+          ],
+          "paragraph_text_sha256": "ca86ecd5d41e813ff8630697d4f55904470755baf41031079a3824051acbf24f"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N09",
+      "kind": "table_addition",
+      "author_or_PG_original": "十二项费用与总7298.20",
+      "independent_review": "逐项相加7195.20，差103，不指定错项",
+      "independent_calculation": {
+        "items_sum": 7195.2,
+        "reported_total": 7298.2,
+        "difference": 103
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch06-P0039",
+          "printed_anchor_range": [
+            186,
+            187
+          ],
+          "html_line_range": [
+            5655,
+            5708
+          ],
+          "paragraph_text_sha256": "6c930383c7c4869e4dde076ca1200924efca982bd7e78562a2611aba01bcd413"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N10",
+      "kind": "PG_heading_vs_TOC",
+      "author_or_PG_original": "目录IX，但纸231正文CHAPTER X；273亦X",
+      "independent_review": "按目录与位置视为独立第九章；未核扫描，不断言原印错",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch09-P0001",
+          "printed_anchor_range": [
+            231,
+            231
+          ],
+          "html_line_range": [
+            6866,
+            6866
+          ],
+          "paragraph_text_sha256": "8c52f6debe0cca02e2c12381e4500dbf2be373eae450e962357c879c15c7138b"
+        },
+        {
+          "paragraph_id": "P22-ch10-P0001",
+          "printed_anchor_range": [
+            273,
+            273
+          ],
+          "html_line_range": [
+            8261,
+            8261
+          ],
+          "paragraph_text_sha256": "8c52f6debe0cca02e2c12381e4500dbf2be373eae450e962357c879c15c7138b"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N11",
+      "kind": "rate_transcription_and_fraction_basis",
+      "author_or_PG_original": "费表小数/分数与cents表头；1870有82-109；州内¼跨州及¼总额表达",
+      "independent_review": "不归一原表数，不将25%总额同时当25%跨州",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch09-P0008",
+          "printed_anchor_range": [
+            233,
+            233
+          ],
+          "html_line_range": [
+            6934,
+            6989
+          ],
+          "paragraph_text_sha256": "6a23c556a4e8b4e250493df3eef7e88bb0ffcbdbb729d14786045a2c6458197a"
+        },
+        {
+          "paragraph_id": "P22-ch09-P0019",
+          "printed_anchor_range": [
+            238,
+            239
+          ],
+          "html_line_range": [
+            7207,
+            7230
+          ],
+          "paragraph_text_sha256": "dc4b9e3f4fd74e9d51bf4263bd40b4cb594f562fc80fbad192084155c0f4803c"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N12",
+      "kind": "historical_date_difference",
+      "author_or_PG_original": "Granger决定1876与1877",
+      "independent_review": "未查全卷程序阶段，保留差别，历史摘引非现行法",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch08-P0018",
+          "printed_anchor_range": [
+            212,
+            213
+          ],
+          "html_line_range": [
+            6377,
+            6395
+          ],
+          "paragraph_text_sha256": "b3cd262d300abf7ec5dcea37a81cb47136a66c3d713879339ecf8cf3c9659cd1"
+        },
+        {
+          "paragraph_id": "P22-ch03-P0016",
+          "printed_anchor_range": [
+            84,
+            84
+          ],
+          "html_line_range": [
+            2736,
+            2752
+          ],
+          "paragraph_text_sha256": "b78026f125667db7ccc23826a05ee643f820cdf5b106152b155574ae9aab2362"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N13",
+      "kind": "population_divisor",
+      "author_or_PG_original": "奥匈4000000、66000000、1⅔；India200m/51m与少于¼",
+      "independent_review": "不擅补0；表值与算术分栏",
+      "independent_calculation": {
+        "Austria_direct": 16.5,
+        "India_direct": 0.255
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch10-P0020",
+          "printed_anchor_range": [
+            280,
+            280
+          ],
+          "html_line_range": [
+            8476,
+            8519
+          ],
+          "paragraph_text_sha256": "37d2c7378a26adef1411c1e0b3fc7c4ea0374dcc9ae5124d6818fb5c25ab0e87"
+        },
+        {
+          "paragraph_id": "P22-ch10-P0021",
+          "printed_anchor_range": [
+            280,
+            280
+          ],
+          "html_line_range": [
+            8521,
+            8528
+          ],
+          "paragraph_text_sha256": "69aa29c120005fe9e81e91157612a062b9db2ae208a57de1663a3bfaf2b1fd4d"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N14",
+      "kind": "rounding_and_sum",
+      "author_or_PG_original": "六股面额225651000、缩水60815000",
+      "independent_review": "行和和未舍入计算稍异，不能作精确totalreturn",
+      "independent_calculation": {
+        "par_row_sum": 225652015,
+        "printed_shrink_row_sum": 60813000,
+        "unrounded_price_shrink": 60816439.84
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch10-P0034",
+          "printed_anchor_range": [
+            284,
+            284
+          ],
+          "html_line_range": [
+            8663,
+            8723
+          ],
+          "paragraph_text_sha256": "8326d3ade46fe0195cd2f7c54ddf86e1193b8d29b803ada75155e66f06e6755f"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N15",
+      "kind": "cross_chapter_earnings",
+      "author_or_PG_original": "Iowa1888–89总37469276/37369276；次年每里1821.37/1522",
+      "independent_review": "不选一值代替另一，不作精确政策因果",
+      "independent_calculation": {
+        "gross_difference": 100000,
+        "per_mile_difference": 299.3699999999999
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch09-P0065",
+          "printed_anchor_range": [
+            265,
+            265
+          ],
+          "html_line_range": [
+            8013,
+            8041
+          ],
+          "paragraph_text_sha256": "44040bcd89774cbe8ae977d604cdaf03713df4ad24dd21998f2912dcdff94d9f"
+        },
+        {
+          "paragraph_id": "P22-ch09-P0066",
+          "printed_anchor_range": [
+            265,
+            266
+          ],
+          "html_line_range": [
+            8043,
+            8053
+          ],
+          "paragraph_text_sha256": "7d6b838b8f1a773b7468468752e3607745e09362b18a075b15a328657a745ef2"
+        },
+        {
+          "paragraph_id": "P22-ch11-P0055",
+          "printed_anchor_range": [
+            344,
+            344
+          ],
+          "html_line_range": [
+            10525,
+            10556
+          ],
+          "paragraph_text_sha256": "ab8b4f3aa0e740d96f370f0b57f0e903043facbe7a4b2fa0bab86ad589eb8793"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N16",
+      "kind": "cost_range_and_wage_math",
+      "author_or_PG_original": "成本75k与25–30k得至少2250；US5×555=2625；雇员1600/975高70%、720/465高53%",
+      "independent_review": "源表及范围有未解释差，按本次算术另记",
+      "independent_calculation": {
+        "extra_return_at_25k": 2250.0,
+        "extra_return_at_30k": 2025.0,
+        "US_wage_product": 2775,
+        "gross_employee_difference_pct": 64.1025641025641,
+        "net_employee_difference_pct": 54.83870967741935
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch13-P0008",
+          "printed_anchor_range": [
+            371,
+            371
+          ],
+          "html_line_range": [
+            11355,
+            11362
+          ],
+          "paragraph_text_sha256": "3ea1a23069ab17ce4c26d0c1f5e310838f24f894a86ad2937884f6f7b574c6bd"
+        },
+        {
+          "paragraph_id": "P22-ch13-P0009",
+          "printed_anchor_range": [
+            371,
+            371
+          ],
+          "html_line_range": [
+            11364,
+            11407
+          ],
+          "paragraph_text_sha256": "1565e848a43d834ee8e0b77f4ac438f729e64fcc048bc7403996d43cce9f5fac"
+        },
+        {
+          "paragraph_id": "P22-ch13-P0011",
+          "printed_anchor_range": [
+            372,
+            372
+          ],
+          "html_line_range": [
+            11412,
+            11421
+          ],
+          "paragraph_text_sha256": "320e2bdcc2d478b08672665254f59b0790c6561c57f708014d64f244afe703fb"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N17",
+      "kind": "quoted_estimate_not_fully_reconstructable",
+      "author_or_PG_original": "Davis节约160m，另称扣50m偿债基金后降成本310m",
+      "independent_review": "作者说过分乐观，未读外篇，不补未给额外200m",
+      "independent_calculation": {
+        "table_sum_millions": 160,
+        "unexplained_increment_millions": 200
+      },
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch14-P0088",
+          "printed_anchor_range": [
+            421,
+            422
+          ],
+          "html_line_range": [
+            12892,
+            12937
+          ],
+          "paragraph_text_sha256": "5ed4c6a85fb2a26f389dadda287117302714b711c20c2f87d31b9df58adfc2c7"
+        },
+        {
+          "paragraph_id": "P22-ch14-P0089",
+          "printed_anchor_range": [
+            422,
+            422
+          ],
+          "html_line_range": [
+            12939,
+            12942
+          ],
+          "paragraph_text_sha256": "df428273d97848a25c26bafe3e682bb9d4d6d129d019f62f174cbda365e2f602"
+        },
+        {
+          "paragraph_id": "P22-ch14-P0091",
+          "printed_anchor_range": [
+            422,
+            422
+          ],
+          "html_line_range": [
+            12949,
+            12953
+          ],
+          "paragraph_text_sha256": "007491af2b763c70ff8744e80fd75440a964aba2a7e1d9ebcb07eaae7c34c73c"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N18",
+      "kind": "overlapping_zone_and_missing_cells",
+      "author_or_PG_original": "区段13到225，14自225及上；伤亡1891其他/合计缺",
+      "independent_review": "不平滑为226，不补空白为0",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-ch14-P0133",
+          "printed_anchor_range": [
+            440,
+            440
+          ],
+          "html_line_range": [
+            13535,
+            13730
+          ],
+          "paragraph_text_sha256": "5c34657e32f9b5ed2c41cdebb000f551d48a926c0ce3b7508b87948a322fd7ef"
+        },
+        {
+          "paragraph_id": "P22-ch14-P0162",
+          "printed_anchor_range": [
+            450,
+            450
+          ],
+          "html_line_range": [
+            13995,
+            14057
+          ],
+          "paragraph_text_sha256": "a84b358ccd5e0226f1081c731a01008ad4c356374f28dffbf90f547982066999"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N19",
+      "kind": "appendix_transcription_unverified",
+      "author_or_PG_original": "Belgium第一类201–300段未明，Italy第7类0.612；Iowa局部非单调与煤单位",
+      "independent_review": "完整保留PG格；不能自动补字、以步长改价或吨煤百磅换算混淆",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-appendix-P0022",
+          "printed_anchor_range": [
+            462,
+            463
+          ],
+          "html_line_range": [
+            14623,
+            14735
+          ],
+          "paragraph_text_sha256": "aaf7abd162453cdfa1f022b1fa598d65530c36314e8cb319e06dd98fe5af7e1c"
+        },
+        {
+          "paragraph_id": "P22-appendix-P0034",
+          "printed_anchor_range": [
+            467,
+            467
+          ],
+          "html_line_range": [
+            15256,
+            15297
+          ],
+          "paragraph_text_sha256": "716103289105e7424210860479f2bd883cfeb4bcd7822dae49deaec98cf72a4e"
+        },
+        {
+          "paragraph_id": "P22-appendix-P0063",
+          "printed_anchor_range": [
+            471,
+            473
+          ],
+          "html_line_range": [
+            15684,
+            16781
+          ],
+          "paragraph_text_sha256": "d05f2a3c28d6e440e42bdf5f5bc97419a6565ed3a6a3c85aba5309895e5435ee"
+        },
+        {
+          "paragraph_id": "P22-appendix-P0066",
+          "printed_anchor_range": [
+            474,
+            475
+          ],
+          "html_line_range": [
+            16806,
+            17988
+          ],
+          "paragraph_text_sha256": "fa3b47baffcee30a7d1288eb5704d13915709bb7159eacd269d8cc4a59d37221"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    },
+    {
+      "id": "P22-N20",
+      "kind": "index_locator",
+      "author_or_PG_original": "Congressmen17、Ericsson449、Stickney23等索引",
+      "independent_review": "与正文定位有可见疑点，规则以实际段SHA和HTML行证，不用索引自动页证",
+      "independent_calculation": null,
+      "source_evidence": [
+        {
+          "paragraph_id": "P22-index-P0124",
+          "printed_anchor_range": [
+            479,
+            479
+          ],
+          "html_line_range": [
+            18259,
+            18259
+          ],
+          "paragraph_text_sha256": "b4567c02a0fe4a2f0a020f840beca1ffc30336f320fadf246abc57eb0ac4db12"
+        },
+        {
+          "paragraph_id": "P22-index-P0187",
+          "printed_anchor_range": [
+            480,
+            480
+          ],
+          "html_line_range": [
+            18443,
+            18443
+          ],
+          "paragraph_text_sha256": "156de52a5d40843e6e29b560c456ae0c1e94ab376ae95c2be29bb2c5a0f2f073"
+        },
+        {
+          "paragraph_id": "P22-index-P0534",
+          "printed_anchor_range": [
+            487,
+            487
+          ],
+          "html_line_range": [
+            19241,
+            19249
+          ],
+          "paragraph_text_sha256": "7e079cab23c1facd84c80823cd9a2af185e8088b7ee7c5b68a28e5f5f93497a3"
+        }
+      ],
+      "resolution": "preserve; no same-edition scan obtained, no silent original change",
+      "original_glyphs_verified": false
+    }
+  ],
+  "all_original_glyphs_verified": false,
+  "all_transcribed_tables_semantically_read": true,
+  "all_table_numbers_independently_historically_verified": false,
+  "author_meaning_vs_independent_calculation_separate": true
+}

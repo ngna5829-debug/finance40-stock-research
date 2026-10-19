@@ -1,0 +1,185 @@
+[
+  {
+    "issue": "CommonIS_denominator_netassets_wrong",
+    "page": 540,
+    "correct": "net sales;figure186actuallyusesnet sales"
+  },
+  {
+    "issue": "Sales_baseline_ratio_vschange",
+    "pages": [
+      542,
+      543,
+      548,
+      553,
+      555
+    ],
+    "correct": "19000/9000=211.11%ofJanuarybutincrease111.11%;ratioformulasretainlabelsissue"
+  },
+  {
+    "issue": "Roundedshare_usedasexact",
+    "page": 542,
+    "correct": "148680*.071=10556.28 not10620;10620requires9000/126000fullprecision"
+  },
+  {
+    "issue": "May_brand_plus1400vs1500",
+    "pages": [
+      543,
+      544,
+      548,
+      553
+    ],
+    "correct": "16520+1400=17920 not18020;correctannual156896 vs156996,similarly60pctscenarioMay9800not9900"
+  },
+  {
+    "issue": "Historicalmonthlycost_ratios_dontall50pct",
+    "page": 547,
+    "correct": "allmonthlyoriginalcellsretained;annual50doesnotensureeverymonth50;lineitemsnotexactannualsum"
+  },
+  {
+    "issue": "Costs_percent_vspercentagepoints",
+    "pages": [
+      546,
+      547
+    ],
+    "correct": "50to52is2percentagepointsor4%relativecostrate increase;not2%relativeincrease"
+  },
+  {
+    "issue": "Fixedcost_hardcoded_annualtotals",
+    "pages": [
+      547,
+      548,
+      555
+    ],
+    "correct": "rent458x6+508x6=5796vs5798;consistentunroundedinitial5500/12+50 yields5800;monthlyannualscope/precision disclose"
+  },
+  {
+    "issue": "Utilitytotalnot2500",
+    "pages": [
+      547,
+      548,
+      553,
+      555
+    ],
+    "correct": "source2640/worst2786vsstatedconstant2500;afteralladjustmentsshouldnormalizemonthlyshares tofinalannualsales"
+  },
+  {
+    "issue": "OI_interest_tax_NIidentity",
+    "page": 548,
+    "correct": "annual57705−2000−8052=47653true;displayedmonthlycellsare rounded,identityresiduals0or−1;annual57705−2000−8052=47653valid;preserveoriginalroundedcells/fullprecisionunknownnotclaimmaterialidentityerror"
+  },
+  {
+    "issue": "Accountsreceivable_threevsfourmonths",
+    "pages": [
+      548,
+      549,
+      555,
+      556
+    ],
+    "correct": "prosecurrent+two prior vsformula current+three;cashcollect3prior meansagedARmustreconcilesales−collections"
+  },
+  {
+    "issue": "APandinventory_flow_stock_notidentical",
+    "pages": [
+      548,
+      549,
+      556
+    ],
+    "correct": "APdescriptionpriorvsactualcurrentCOGS;cashAPpaidpreviousCOGSnotpurchases ignoresinventorychange;creditpurchase+beginAP−payment necessary"
+  },
+  {
+    "issue": "Unearned50vs25pct",
+    "pages": [
+      548,
+      549,
+      556,
+      558
+    ],
+    "correct": "formulaandvalues.25net vsprose.50;cashadvance/satisfactionalsoflowmissing"
+  },
+  {
+    "issue": "RE_wrongstatement/equipmentlag/cashplug",
+    "pages": [
+      549,
+      550,
+      556
+    ],
+    "correct": "NIfromISnotBS;Janasset50kignoresJan300depthenlags;cashJanplugusedasbegin vspriorDec110knoopeningbridge;0balanceonlyarithmeticnotmodelvalidity"
+  },
+  {
+    "issue": "Cash42581_000typo",
+    "page": 550,
+    "correct": "figure42581.453 not42581000"
+  },
+  {
+    "issue": "Cashcollection_threeprior_not_sum3flows",
+    "pages": [
+      550,
+      556,
+      557
+    ],
+    "correct": "eachmonthsinglemontht−3 net sale not sumthreepastmonths;printedMarchnet10508 vsgross10908"
+  },
+  {
+    "issue": "CashCF_omitted_tax_inventory_newloanterms",
+    "pages": [
+      550,
+      551,
+      552,
+      557
+    ],
+    "correct": "cashflowsnoincome_taxpmt/taxpayable,NWCpurchasebalance,loanfeesinterest,guaranteedcreditfacility;annualBS59905vsCF58884notreconciled"
+  },
+  {
+    "issue": "Worstcase_label_notboundedprobability",
+    "pages": [
+      552,
+      553
+    ],
+    "correct": "60pctbaseline+fixednewbranddifferentassumptions;notprovenworstcase/probability;captionCFsurplusactualIS;negativetaxnotguaranteedcashrefund"
+  },
+  {
+    "issue": "Excelprose_B4_vsB8/unchangedfixedcost/header",
+    "pages": [
+      554,
+      555,
+      556
+    ],
+    "correct": "actualB9=B8*.5 notB4*.5;salary468rentchangesdepchangesnotalllastyearsame;Noncurrentheaderabovecashwrong;cellD14longformulaclippednotinventcomplete"
+  },
+  {
+    "issue": "MC8nonevalidoption",
+    "page": 561,
+    "correct": "utilitiesexpensepriorISnotBS;all4choicesnonecorrect"
+  },
+  {
+    "issue": "ABCpercentrowafterJanFebchange",
+    "pages": [
+      562,
+      563
+    ],
+    "correct": "originalpercentagevectorretainpriorseasonalweights;updatedJan41800/627990=6.656 not7.0%;useconsistentupdatedsharesforfixedannualutilities"
+  },
+  {
+    "issue": "Growth_profit_notvaluation",
+    "pages": [
+      544,
+      551,
+      552,
+      553
+    ],
+    "correct": "NPVrequiresinvestment/timing/riskdiscount;higherrevenueorNIalone notguaranteedvalueincrease;budgetsnotcalibratedstockprobabilities"
+  },
+  {
+    "issue": "Externalreports/videos/workbooknotread",
+    "pages": [
+      540,
+      542,
+      543,
+      544,
+      546,
+      554,
+      563
+    ],
+    "correct": "allprintedcasesquestionsread;noactuallatestBig5annualreport/fullfilms/workbookclaim,book2020salesratio4.4874274historicalnotforecastvalidated"
+  }
+]

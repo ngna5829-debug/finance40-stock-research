@@ -1,0 +1,20 @@
+{
+  "book_id": "P21",
+  "chapter": 15,
+  "pdf_pages_fully_visually_read": [251, 252, 254],
+  "printed_pages": [222, 223, 225],
+  "images": ["pdf251.png", "pdf252.png", "pdf254.png"],
+  "author_reported_total_dimes": 21,
+  "original_21_confirmed_visually": true,
+  "independent_review": {
+    "first_ten_named_units": ["A", "B", "C", "A′", "D", "B′", "C′", "E", "B″", "A″"],
+    "additional_higher_than_final_named_units_in_diagram": ["F", "G"],
+    "final_six_named_units": ["H", "B‴", "C″", "D′", "E′", "F′"],
+    "named_selected_units_total": 18,
+    "difference_from_author_total": 3,
+    "unresolved_possible_reason": "图或叙述可能省略中间项目，也可能存在计数问题；未确定原因，不改21，不虚补三项。"
+  },
+  "consumer_surplus_diagram_last_unit": "AᵛBᵛ，OCR记号有丢失；差额区是个人效用示意，不是金融收入。",
+  "empirical_numerical_data_present": false,
+  "all_scan_glyphs_audited": false
+}

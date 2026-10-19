@@ -1,0 +1,43 @@
+{
+  "book_id": "P25",
+  "completed_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "all_book_source_read": true,
+  "body_Han": 40713,
+  "preface_and_TOC_read": true,
+  "fable_read": true,
+  "current_stock_decision_enabled": false,
+  "updated_utc": "2026-10-13T01:22:29.797150+00:00",
+  "status": "original_chapters_reading_in_progress",
+  "whole_book_reading_scope": "all_primaryPGdigitaltext with known disclosed gap plus selected1875correspondence; not entire1875scan",
+  "total_body_Han": 40793,
+  "minimum_chapter_body_Han": 2303,
+  "final_dossier_pending_QA": false,
+  "independent_QA": {
+    "status": "passed_with_source_limits",
+    "file": "独立复核.json",
+    "reviewer": "root",
+    "original_author_is_other_agent": true,
+    "complete_book_source_and_dossiers_actually_reviewed": true,
+    "all_rules_reviewed": 48,
+    "old_full_fragment_records_actually_read": 74,
+    "additional_complete_paragraph_contexts_actually_read": 4,
+    "full_glyph_or_external_historical_guarantee": false
+  }
+}

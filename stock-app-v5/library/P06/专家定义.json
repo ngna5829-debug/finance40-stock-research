@@ -1,0 +1,2188 @@
+{
+  "schema_version": "book-expert-v5.1",
+  "book_id": "P06",
+  "expert_id": "P06-Withers-WarTime",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "Hartley Withers",
+  "title": "War-Time Financial Problems",
+  "original_chapter_count": 20,
+  "source_sha256": "500b1349523a5fb402a61d88bab68b93211ff678a27ee54b65d26317aea2146b",
+  "semantic_source_reading_complete": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "literal_all_printed_words_verified": false,
+  "independent_qa_status": "passed_qualified",
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "han_body_count": 52933,
+  "role": "战时财政、货币、真实资本与制度变动的历史经济推理专家",
+  "callable_system_prompt": "你是一书一专家P06，只基于Hartley Withers《War-Time Financial Problems》所读20篇及前言索引，不能冒充其他作品已读。先说明对象、币种、时期、来源和资料截止日，区分真实生产资源、财富、工业资本、储蓄、货币和信用；区分国内转移与跨境债务、存量交易与新募资、账表外观与可支付准备。每个判断引用本地章和完整原文的精确段落行区间，纸页未经核准则写未知。作者主张、原文引用的对手观点和现代独立分析分别说明。文章日期1917-09至1919-03；末篇1918-12早于第17—19篇，不把后期信息回填。面对同书修订，报告新增条件与旧判断范围，不选择一句抹平其他篇。缺少规则所需实际资料则弃权于因果定量、现行法律或股票结论，只讲机制。所有历史表值尚未逐格印刷核准，P06第6表千镑差异、第8转录改号、第17算术冲突等不进入精确实验。本次未接入合格行情输入，不生成当前股票买卖决定。接受他书质疑时列出可使判断改变的实际订单、生产、信用、支付、合同、法规或代表性分配证据；引用他书仅是external_reference_not_new_vote，不增造已读专家或独立票。最后写明何处只是作者预测、政治立场或比喻，何处有可复核原文，何处尚缺外部核验。",
+  "input_contract": {
+    "always_required": [
+      "讨论对象",
+      "研究截止日",
+      "资料来源与日期",
+      "币种与单位",
+      "历史或现代标识"
+    ],
+    "conditional_required": "按各规则required_inputs；资料不齐可讨论原书，但相应结论弃权。",
+    "prohibited_substitutions": [
+      "市场成交量冒充机构净资金",
+      "会计现金率冒充新黄金",
+      "黄金金属耐久冒充购买力不变",
+      "引述其他书冒充整书阅读",
+      "编辑篇次冒充写作日期",
+      "章级行证冒充纸页逐字核准"
+    ]
+  },
+  "rules": [
+    {
+      "id": "P06-R01",
+      "title": "生产资本与金融请求权分开",
+      "author_claim_paraphrase": "作者在第一篇采用生产用途的较窄资本概念，主要指工业工具设备；信用可制造购买权，却不直接释放劳力与物品。末篇另列工人、组织、机器和运输的生产约束。",
+      "evidence": [
+        {
+          "chapter": 1,
+          "article_date": "1917-09",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            382,
+            398
+          ],
+          "source_segment_sha256": "8dab4d28e0d5d214fdd7ec40e07f41270746f26cca34bc36a28009eb74928dcf",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 1,
+          "article_date": "1917-09",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            478,
+            486
+          ],
+          "source_segment_sha256": "9e5e0ec8cff5b2bafb2c1bf0e9ea62f444f26b917f9f179687fa0e897426c259",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 20,
+          "article_date": "1918-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7794,
+            7818
+          ],
+          "source_segment_sha256": "51713bfb4b1b208b4ae3ee2e521cc8efde0d27bead3890253c3c8c064fd51086",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "原书狭义资本概念；并不否定信用可支持可行生产。",
+      "required_inputs": [
+        "实物产能与产出",
+        "资产实际用途",
+        "融资用途与闲置约束"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "证明融资短缺在闲置产能下阻断订单，可修正货币只改变价格的强表述。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            345,
+            687
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "用于生产的设备、材料和组织与财产账面价值及货币购买权不同；增加钱不自动增加商品。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch01-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 20,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7772,
+            8031
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "用于生产的设备、材料和组织与财产账面价值及货币购买权不同；增加钱不自动增加商品。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch20-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "组织能力是末篇列出的产出条件，不能据此把它直接写成第一篇狭义资本定义中的同类账项；闲置能力下融资效应是本档案另设的反证问题。"
+    },
+    {
+      "id": "P06-R02",
+      "title": "纯利率与购买力分开",
+      "author_claim_paraphrase": "名义固定利息上升可能被购买力下降抵消，不能只比较票面收益。",
+      "evidence": [
+        {
+          "chapter": 1,
+          "article_date": "1917-09",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            516,
+            544
+          ],
+          "source_segment_sha256": "5d5a55c0fc4b214a3a6279b8401f837228f1aba173a98401d64712adadf6c03c",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "原文历史高等级固定债务的比较，并非今日股票预期回报。",
+      "required_inputs": [
+        "利息合同与期限",
+        "同期间购买力指标",
+        "税费与币种"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "同口径实际利率或债务价格证明持有人实际获益，才改变购买力判断。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            345,
+            687
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "名义固定利息上升可能被购买力下降抵消，不能只比较票面收益。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch01-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3745,
+            4107
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "名义固定利息上升可能被购买力下降抵消，不能只比较票面收益。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch10-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R03",
+      "title": "国内转移与外债支付分开",
+      "author_claim_paraphrase": "国内债务付息有收入转移性质；外债要求对外支付，不能以国家付给自己消除。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "article_date": "1917-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1885,
+            1902
+          ],
+          "source_segment_sha256": "145e2c2afc8e7cdbdca7f420c4ae143d08fa89240a59d2c9b9d65b1e3e2bc6a3",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 15,
+          "article_date": "1918-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5990,
+            6009
+          ],
+          "source_segment_sha256": "d71f972ef90b8b65b11750f45891f68e27e1a428f741ea7b8a2ac2a15bd5dfd0",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "净国家资产估算不代表每家每户没有负担。",
+      "required_inputs": [
+        "债权人居民身份",
+        "跨境资产负债及到期",
+        "税负分配与支付路径"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "经核准的居民身份、净额与第三国清算改变资金来源解释，不能按名义债额推断。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1551,
+            1906
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "国内债务付息有收入转移性质；外债要求对外支付，不能以国家付给自己消除。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch04-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 15,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5720,
+            6081
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "国内债务付息有收入转移性质；外债要求对外支付，不能以国家付给自己消除。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch15-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 17,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6501,
+            6963
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "国内债务付息有收入转移性质；外债要求对外支付，不能以国家付给自己消除。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch17-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R04",
+      "title": "税、真实储蓄贷款与新信用分开",
+      "author_claim_paraphrase": "征税和放弃消费的真实储蓄可释放当下资源；新造信用取得购买权可能推高价格。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "article_date": "1917-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1380,
+            1399
+          ],
+          "source_segment_sha256": "07892c780e1abe757274a54a799d97a53e7596af56e119c7a0b64f9a7ede399d",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 3,
+          "article_date": "1917-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1493,
+            1520
+          ],
+          "source_segment_sha256": "eb515250c6201fcbf441440d2e574a14f93f4d0e6e401dae1bdaa2034b36fa2b",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "第三篇明确假定总产出能力不变，用幻想的1000/500百万能量单位解释战争资源转移；真实节约贷款与新信用机制分开。",
+      "required_inputs": [
+        "资金来源",
+        "储蓄与消费变化",
+        "采购品供给约束"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "新增生产与进口填补需求的证据，可反驳全部新增信用只引起涨价。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1131,
+            1550
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "征税和放弃消费的真实储蓄可释放当下资源；新造信用取得购买权可能推高价格。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch03-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1551,
+            1906
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "征税和放弃消费的真实储蓄可释放当下资源；新造信用取得购买权可能推高价格。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch04-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3019,
+            3345
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "征税和放弃消费的真实储蓄可释放当下资源；新造信用取得购买权可能推高价格。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch08-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 20,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7772,
+            8031
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "征税和放弃消费的真实储蓄可释放当下资源；新造信用取得购买权可能推高价格。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch20-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "工序可替代性、转业时间和进口供给是本档案对原简化转移模型的现代审查条件，非作者已给出的量化检验。"
+    },
+    {
+      "id": "P06-R05",
+      "title": "资本一次征税先查变现机制",
+      "author_claim_paraphrase": "大额资本税可能要求售产、借款或以资产缴付，估值与重复征收预期影响储蓄。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "article_date": "1918-01",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1934,
+            1955
+          ],
+          "source_segment_sha256": "e7465b723bff2be0312b97d6775db34e385751ec2c3f7da1ad941259908b5dff",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 15,
+          "article_date": "1918-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5903,
+            5925
+          ],
+          "source_segment_sha256": "3835753375767e38f8b1c0d1e6bc7d7db3ae6022f94a6b3e1b70875171f94355",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 15,
+          "article_date": "1918-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5943,
+            5963
+          ],
+          "source_segment_sha256": "283ac910c557c88b5ddf8623fa6400d5f94a60e3131965d8fb1136788e8df324",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "作者仍承认可接受性和社会协调收益可能改变评估；不能说逻辑上不可能。",
+      "required_inputs": [
+        "税基估值日期",
+        "缴纳形式与期限",
+        "资产流动性",
+        "家庭负担分布"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "代表性可接受性、筹款成本和对生产影响的数据，能修正作者反对强度。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1907,
+            2239
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "大额资本税可能要求售产、借款或以资产缴付，估值与重复征收预期影响储蓄。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch05-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 15,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5720,
+            6081
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "大额资本税可能要求售产、借款或以资产缴付，估值与重复征收预期影响储蓄。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch15-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R06",
+      "title": "不要合并不同税案",
+      "author_claim_paraphrase": "作者分别转引Gardiner、Round Table和Hoare等提案；第十五篇自己另提500/800及家庭调整门槛，并称这些数字只是建议。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "article_date": "1918-01",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1960,
+            1990
+          ],
+          "source_segment_sha256": "b24d8439327fef99408965c89c238421a7db446ffa194a3e78f600c45b8cdafe",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 15,
+          "article_date": "1918-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5735,
+            5757
+          ],
+          "source_segment_sha256": "83aef7850d12ad61d62564317f60436764ec95162194fe1eb11f29584a9103a7",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 15,
+          "article_date": "1918-11",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6040,
+            6064
+          ],
+          "source_segment_sha256": "ea0a6c3baaf11bf215480f92c75625f6078b1e97676f1192ddc7e77b9e6e5762",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "多个方案数字及债务基础不是同口径，均未独立核准。",
+      "required_inputs": [
+        "提案作者与版本",
+        "税基范围",
+        "家庭类型与门槛"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "正式方案全文可纠正归属；不能平均数字形成一个作者方案。",
+      "kind": "source_attribution_audit_derived_from_book",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1551,
+            1906
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "被引述方案与作者自己的免税门槛、家庭补贴、资本税比率是不同安排。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch04-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            1907,
+            2239
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "被引述方案与作者自己的免税门槛、家庭补贴、资本税比率是不同安排。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch05-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 15,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5720,
+            6081
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "被引述方案与作者自己的免税门槛、家庭补贴、资本税比率是不同安排。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch15-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "不合并不同提案和税基是本档案的来源归属纪律，不冒称作者另设计了相同名称的审计算法。"
+    },
+    {
+      "id": "P06-R07",
+      "title": "银行合并的竞争判断可修订",
+      "author_claim_paraphrase": "早期认为竞争和新进入尚可制约大银行，后文担心五家巨头协议使集中风险更近。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "article_date": "1918-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2346,
+            2386
+          ],
+          "source_segment_sha256": "f30b27fa005531ba8683e08688ad7f1424363ef6de1b0d23d83a317ba9ebc5de",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 12,
+          "article_date": "1918-08",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4454,
+            4464
+          ],
+          "source_segment_sha256": "1ad0dabc4db932e64211105dcc990c68b580ede44a689cb726b6e093d775ceb6",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 12,
+          "article_date": "1918-08",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4697,
+            4708
+          ],
+          "source_segment_sha256": "69bbc92fec68ef401123b0c09092febbbdd4eb2a88332020046f34e045283823",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "前后时间条件必须保留，进入可能性不是已测事实。",
+      "required_inputs": [
+        "机构与网点范围",
+        "进入成本",
+        "协议与服务条款",
+        "集中度时间序列"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "存在实际进入、竞价和地方服务改善可减轻风险；封闭与协同行为可加强风险。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2240,
+            2650
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "早期认为竞争和新进入尚可制约大银行，后文担心五家巨头协议使集中风险更近。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch06-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4439,
+            4902
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "早期认为竞争和新进入尚可制约大银行，后文担心五家巨头协议使集中风险更近。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch12-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R08",
+      "title": "银行合并账表不能创造准备",
+      "author_claim_paraphrase": "作者说改变银行账表形式可使它看起来更强，却不能使它真正更强；旧部内持票与合并表须按实际账户理解。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "article_date": "1918-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2554,
+            2563
+          ],
+          "source_segment_sha256": "5a7aea6fca0eb013a3d78c03258ee31253723c6688f06ad6418d147aa60f67df",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 18,
+          "article_date": "1919-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7172,
+            7185
+          ],
+          "source_segment_sha256": "9b39c37d569ae337ed1c413dea1192d583d8cd9001a10e29af8d0e31f5365ca9",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "作者对兑换法律的解释不是本项目已核准法规；六篇表格有未解千镑差异。",
+      "required_inputs": [
+        "逐项资产负债",
+        "内部持票与抵销",
+        "可动用准备",
+        "兑换条件"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "核准原表、合同和真实可提取准备才允许精确比较。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2240,
+            2650
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "合并发行部和银行部会改变账表外观，不自动新增黄金或真实支付能力。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch06-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 18,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6964,
+            7346
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "合并发行部和银行部会改变账表外观，不自动新增黄金或真实支付能力。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch18-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "两表没有创造新黄金，是依据所列账户和作者表相/实质区分的核算推论，不声明历史每一格已经认证。"
+    },
+    {
+      "id": "P06-R09",
+      "title": "准备率必须保留分母",
+      "author_claim_paraphrase": "作者列旧表现金率19.6%和重组现金率33.5%，并说明重组现金可能包括约1100万旧政府债或国库券。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "article_date": "1918-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2565,
+            2614
+          ],
+          "source_segment_sha256": "2a72f6c590c1b1e99e9d8f559fec233c4dbb69b8a5fba826e1b6566bfd1f8834",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 6,
+          "article_date": "1918-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2540,
+            2552
+          ],
+          "source_segment_sha256": "be0168cd54eca19482c186548142fa2485e378d0d250ff9a41e52b531880b524",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "原文重组现金包括旧政府债务换名形成票据，不能全当黄金。",
+      "required_inputs": [
+        "准备定义",
+        "分母范围",
+        "内部往来抵销",
+        "币种与日期"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "统一口径后真实流动资产增加，才可改变只是外观变化的判断。",
+      "kind": "modern_denominator_audit_derived_from_historical_tables",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2240,
+            2650
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "现金率要说明存款、票据、其他债务及资本是否进入分母；同名比例可指不同口径。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch06-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 18,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6964,
+            7346
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "现金率要说明存款、票据、其他债务及资本是否进入分母；同名比例可指不同口径。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch18-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "必须保留分母及内部分录抵消，是本档案据原表作出的现代核算纪律；原书没有把全部重新计算的分母另设为正式规则。"
+    },
+    {
+      "id": "P06-R10",
+      "title": "隐含支持不是已签担保",
+      "author_claim_paraphrase": "Withers转引Addis：巨型银行失败可能迫使政府动用国家资源，因此可被视作实际上有政府支持。",
+      "evidence": [
+        {
+          "chapter": 12,
+          "article_date": "1918-08",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4464,
+            4488
+          ],
+          "source_segment_sha256": "20620dfcd948e8712ae767b9ae780adaa5e14aee9747eb0a6cd53b8cfbd3308e",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "Addis的担忧是原文引用，未独立核准担保条款。",
+      "required_inputs": [
+        "适用法律与担保合同",
+        "财政责任范围",
+        "机构可处置资产"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "正式且可执行担保可改变信用边界，不能由规模自行补造。",
+      "kind": "quoted_addis_claim_and_modern_legal_boundary",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4439,
+            4902
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "对巨型银行国家可能支持的政治预期与正式法律担保不同。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch12-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ],
+      "modern_attribution_boundary": "virtually Government-guaranteed是Addis政治预期的转引，不是本档案核准的担保合同，也不能把规模变成现行法律保证。"
+    },
+    {
+      "id": "P06-R11",
+      "title": "发行改革查披露与责任",
+      "author_claim_paraphrase": "作者要求清楚利润、供应商价格及完整账目，也担心严法抑制诚实风险承担。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "article_date": "1918-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2867,
+            2892
+          ],
+          "source_segment_sha256": "d5701a71ad3803f9f2644ccf5e6e0ef72af77517ce07f1ce4efd9ccd24312466",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 7,
+          "article_date": "1918-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2894,
+            2926
+          ],
+          "source_segment_sha256": "8697f5415e17c3ce0b98056e6781da050f041010ecc4d9d433fc1584792bbda9",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "公众逐利或轻信不能自动免除发行者的信息责任。",
+      "required_inputs": [
+        "财报",
+        "发行用途",
+        "关联交易及供应商成本",
+        "责任和披露条款"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "审计和欺诈证据可改变对发行的判断；预期收益口号不能补齐资料。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            345,
+            687
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "作者要求清楚利润、供应商价格及完整账目，也担心严法抑制诚实风险承担。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch01-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2651,
+            3018
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "作者要求清楚利润、供应商价格及完整账目，也担心严法抑制诚实风险承担。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch07-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R12",
+      "title": "战时与和平用途约束不同",
+      "author_claim_paraphrase": "战争资源瓶颈可支持优先军需，和平重建应另衡量生产恢复和资本流动。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "article_date": "1918-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2964,
+            2977
+          ],
+          "source_segment_sha256": "eb9e94b1bb7101c726382b61ed80df734038ceab08edd6f57c6737cd1d648f9e",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7579,
+            7598
+          ],
+          "source_segment_sha256": "acce3a4d95235f4686340876ad99bd41e991430be7a418d26b690e9288b8ca8d",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "外资、关键行业与航运控制报告包含备选设计，不全是已实施法律。",
+      "required_inputs": [
+        "项目实际生产用途",
+        "劳力与原料约束",
+        "政策版本日期",
+        "控制权资料"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "真实资源短缺或安全风险能支持具体限制；注册名字不能替代实际控制证据。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            2651,
+            3018
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "战争资源瓶颈可支持优先军需，和平重建应另衡量生产恢复和资本流动。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch07-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4903,
+            5372
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "战争资源瓶颈可支持优先军需，和平重建应另衡量生产恢复和资本流动。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch13-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "战争资源瓶颈可支持优先军需，和平重建应另衡量生产恢复和资本流动。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R13",
+      "title": "国际金融地位需生产支持",
+      "author_claim_paraphrase": "金融网络与声誉依赖产业、储蓄和海外交易，单纯市场业务繁荣不证明真实优势。",
+      "evidence": [
+        {
+          "chapter": 13,
+          "article_date": "1918-09",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5041,
+            5060
+          ],
+          "source_segment_sha256": "307e55c59ff25e5a2ddc2c373980dbe2cbffaeb16c482817e2e351d8721196bc",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "作者爱国和帝国立场应归作者；相对美国落后也是文内承认。",
+      "required_inputs": [
+        "真实生产与出口",
+        "融资与储蓄",
+        "同口径国际比较"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "可靠相对指标可修正地位；不能用民族评价或一段成交热闹确认排名。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            688,
+            1130
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "金融网络与声誉依赖产业、储蓄和海外交易，单纯市场业务繁荣不证明真实优势。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch02-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4903,
+            5372
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "金融网络与声誉依赖产业、储蓄和海外交易，单纯市场业务繁荣不证明真实优势。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch13-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "金融网络与声誉依赖产业、储蓄和海外交易，单纯市场业务繁荣不证明真实优势。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R14",
+      "title": "国际借贷的有效需求与支付边界",
+      "author_claim_paraphrase": "外国贷款可让需求转成购买，但最终索取可能是商品、证券或黄金。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7548,
+            7577
+          ],
+          "source_segment_sha256": "54b12e231ad0ce1e2607f2608f64c81d27bfb30f8c2f4316a5e29b2ea02841c0",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "并非逐笔贷款一定购买本国货物；贸易与外汇压力需要同时观察。",
+      "required_inputs": [
+        "借款用途与币种",
+        "订单和结算路径",
+        "国际收支与到期债务"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "追踪实际采购及偿付可改变出口支持假设；仅有证券发行不足。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            688,
+            1130
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "外国贷款可让需求转成购买，但最终索取可能是商品、证券或黄金。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch02-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3346,
+            3744
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "外国贷款可让需求转成购买，但最终索取可能是商品、证券或黄金。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch09-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "外国贷款可让需求转成购买，但最终索取可能是商品、证券或黄金。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R15",
+      "title": "预算比较先统一时期和价格",
+      "author_claim_paraphrase": "财政年度、累计债务、未来预算及净战争费用不同；名义增加不等于实际增加。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "article_date": "1918-04",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3032,
+            3096
+          ],
+          "source_segment_sha256": "05622bbeeb465992bec89cc132fdf20c7037b46bf4bcc38e23985d82f99e6292",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 8,
+          "article_date": "1918-04",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3100,
+            3133
+          ],
+          "source_segment_sha256": "3157c8b6e91b840da54bf7d0132cfe17a19a0032bf007343cb52632f0740ad94",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 17,
+          "article_date": "1919-01",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6632,
+            6640
+          ],
+          "source_segment_sha256": "c6501f3b15c8d81fcda8f68488829a7f73d59a5a8b3c266def9385da305c1ba6",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "原文购买力折减和战后资产回收是估算，不能无条件拼接。",
+      "required_inputs": [
+        "财政覆盖期间",
+        "正常支出扣除",
+        "价格指数",
+        "币种换算与净额"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "经核准同口径序列可用于比较；未解算术或估算不能转为精确实验输入。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3019,
+            3345
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "财政年度、累计债务、未来预算及净战争费用不同；名义增加不等于实际增加。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch08-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3346,
+            3744
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "财政年度、累计债务、未来预算及净战争费用不同；名义增加不等于实际增加。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch09-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 17,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6501,
+            6963
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "财政年度、累计债务、未来预算及净战争费用不同；名义增加不等于实际增加。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch17-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R16",
+      "title": "停战成本仍需看后续承诺",
+      "author_claim_paraphrase": "停战并不立即结束遣散、撤销订单与养老金费用；赔款也受支付能力约束。",
+      "evidence": [
+        {
+          "chapter": 17,
+          "article_date": "1919-01",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6642,
+            6652
+          ],
+          "source_segment_sha256": "199df159602d04c2b432f9d5dce120c5c0fa8983c59c05492b8384a8cf6f9ed2",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 17,
+          "article_date": "1919-01",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6654,
+            6683
+          ],
+          "source_segment_sha256": "52cf8751ec21603cbdb27457cef575ae6a6322ef0f93dafbf0c2e8d2f4147970",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "作者关于赔款权利是当时意见，预测不是已发生结果。",
+      "required_inputs": [
+        "承诺和撤约成本",
+        "养老金期限",
+        "偿付能力",
+        "实际和预测标识"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "正式合同及实现现金流可修正预计；不能把作者希望变成已收资金。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 17,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6501,
+            6963
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "停战并不立即结束遣散、撤销订单与养老金费用；赔款也受支付能力约束。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch17-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R17",
+      "title": "货币量、速度、商品与购买力",
+      "author_claim_paraphrase": "币值需考虑货币和信用、周转以及商品量，黄金购买力也会变化。",
+      "evidence": [
+        {
+          "chapter": 10,
+          "article_date": "1918-06",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3858,
+            3879
+          ],
+          "source_segment_sha256": "ab3e4796e2cd5da258991cca7880f025b2a4924d781c2395c072680ad4a71c5a",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 20,
+          "article_date": "1918-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7872,
+            7901
+          ],
+          "source_segment_sha256": "fd6898303168cc3ded99e1a58fc0858a48fdf2b217b1b453c9a8f8a783405038",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "第二十篇更强措辞仍应保留第十篇速度条件；没有回归或因果识别。",
+      "required_inputs": [
+        "统一货币口径",
+        "流通速度或交易资料",
+        "实物供给",
+        "价格及工资时间序列"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "速度减慢或供给增长抵消扩张，可修正机械涨价推断。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3745,
+            4107
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "币值需考虑货币和信用、周转以及商品量，黄金购买力也会变化。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch10-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 20,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7772,
+            8031
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "币值需考虑货币和信用、周转以及商品量，黄金购买力也会变化。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch20-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R18",
+      "title": "支付媒介与长期价值标准分开",
+      "author_claim_paraphrase": "当下能接受的支付工具与长期购买力衡量不是同一功能。",
+      "evidence": [
+        {
+          "chapter": 10,
+          "article_date": "1918-06",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3833,
+            3856
+          ],
+          "source_segment_sha256": "84deec1adfeeab651fbb8d677782bdcb0f83b05ea52422f930ab37d768706c2a",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 20,
+          "article_date": "1918-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7935,
+            7967
+          ],
+          "source_segment_sha256": "f69ccdf4ed5a7435fe7daa44bead60b835d6f0795b4e71cb53028a3fb09cb753",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "黄金的广泛接受有当时国家和正常时期限定，绝非价格不变。",
+      "required_inputs": [
+        "可接受支付工具",
+        "合同结算币种",
+        "兑换与跨境渠道",
+        "实际购买力"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "不同制度下可信的清算安排可替代某些黄金功能，不能预设永远唯一。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            3745,
+            4107
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "当下能接受的支付工具与长期购买力衡量不是同一功能。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch10-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 20,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7772,
+            8031
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "当下能接受的支付工具与长期购买力衡量不是同一功能。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch20-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R19",
+      "title": "红股不自动创造真实财富",
+      "author_claim_paraphrase": "储备资本化的同比例红股改变名义资本与每股表示，不必改变所有权比例或生产收益。",
+      "evidence": [
+        {
+          "chapter": 11,
+          "article_date": "1918-07",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4170,
+            4196
+          ],
+          "source_segment_sha256": "bc16baa6a84ed4b0f153b0b9db1a72fe18b4027a75ab94c38ce2f1ba9d77251a",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 11,
+          "article_date": "1918-07",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4216,
+            4230
+          ],
+          "source_segment_sha256": "04498999341c13955a0700821a1fb48654aeabc2c5b5596ce082094128262cb7",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "股价可能因信息或心理变化，书中没有事件样本和准确率。",
+      "required_inputs": [
+        "发行前后资产权益",
+        "股东比例",
+        "盈利",
+        "信息公告时间"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "实际新增资产、权益变化或可信新增盈利信息可改变经济效果判断。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4108,
+            4438
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "储备资本化的同比例红股改变名义资本与每股表示，不必改变所有权比例或生产收益。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch11-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R20",
+      "title": "新募资与折价认购权另审",
+      "author_claim_paraphrase": "新发行认购价与可能公众发行价不同，机会成本不能混成已有红股。",
+      "evidence": [
+        {
+          "chapter": 11,
+          "article_date": "1918-07",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4310,
+            4348
+          ],
+          "source_segment_sha256": "076b5b979b04998d508805d4409ba334821ae366793f241608fcb841249acbae",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "作者价格例子是情境，并不保证公众可按该价格认购。",
+      "required_inputs": [
+        "发行条款",
+        "可执行认购价",
+        "募集净款",
+        "稀释与权利安排"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "实际发行结果和需求可验证机会成本，不能把例价当无风险利润。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4108,
+            4438
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "新发行认购价与可能公众发行价不同，机会成本不能混成已有红股。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch11-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R21",
+      "title": "社会主义争论同时查双方机制",
+      "author_claim_paraphrase": "作者承认机会不均，也质疑行会准入、需求约束、脏活与协调机制。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "article_date": "1918-10",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5388,
+            5413
+          ],
+          "source_segment_sha256": "7cfc65f914685ef6d39eb2b68e6fef08ca74d82026db4b7db30c3ecc601ef3b6",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 14,
+          "article_date": "1918-10",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5533,
+            5567
+          ],
+          "source_segment_sha256": "726665f88c2cb0ae296f2673c79e2ffe5422fa1e12cc994a313e1cc5ad739133",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 14,
+          "article_date": "1918-10",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5634,
+            5687
+          ],
+          "source_segment_sha256": "fa8bd24139265f8de0bd2e032ae96403732742e204e8f25f05865e82ffe6a769",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "Cole等只在本文引述范围内读过，未读其整书；道德修辞不是效果数据。",
+      "required_inputs": [
+        "分配与准入机制",
+        "劳动供给",
+        "实际需求",
+        "治理与协调程序"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "可靠运行证据可修正批评；应对市场和国家方案施加相同证据标准。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            5373,
+            5719
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "作者承认机会不均，也质疑行会准入、需求约束、脏活与协调机制。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch14-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R22",
+      "title": "黄金改革与异常许可分开",
+      "author_claim_paraphrase": "作者支持谨慎减少纸币并恢复兑换，但拟议制度包含财政许可、发行变化和利率传导问题。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "article_date": "1918-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6342,
+            6382
+          ],
+          "source_segment_sha256": "6bc369e32714d593a17d21d3154c3749c4a6b96aa44c0ecd4d694208fbb96639",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 16,
+          "article_date": "1918-12",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6413,
+            6444
+          ],
+          "source_segment_sha256": "6b620dd01065d64ba9f9c7cae24148016f552476ec3ba0aa53eb1b3265a8fca1",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "委员会建议及Withers评述均属1918年12月材料；在150百万黄金与满意外汇并维至少一年条件达成之前，持续择机减少无覆盖券。此为当时提议，非现行法规或现代阈值。",
+      "required_inputs": [
+        "发行与准备制度",
+        "异常许可规则",
+        "大银行响应",
+        "完整政策文本"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "实际法律与传导数据可改变约束强度；不能直接套旧目标黄金量或利率。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 16,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6082,
+            6500
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "作者支持谨慎减少纸币并恢复兑换，但拟议制度包含财政许可、发行变化和利率传导问题。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch16-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 18,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6964,
+            7346
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "作者支持谨慎减少纸币并恢复兑换，但拟议制度包含财政许可、发行变化和利率传导问题。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch18-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R23",
+      "title": "票据到期不是系统信用自动收缩",
+      "author_claim_paraphrase": "单张票据偿还不保证全市场信用量收缩，新票据、再售或新融资可能替代。",
+      "evidence": [
+        {
+          "chapter": 18,
+          "article_date": "1919-02",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7260,
+            7280
+          ],
+          "source_segment_sha256": "2717371626a5d94e2105a83da0abda9be38ff5bc8b9164c4f11e4c382b6ea12a",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "个别到期便利与总量纪律分开；成功一次危机不证明以后不可能恐慌。",
+      "required_inputs": [
+        "票据到期与续作",
+        "新信用流量",
+        "支付需求",
+        "准备与挤兑数据"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "全市场信用和可支付准备的实测变化可修正，而非只检查单笔期限。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 18,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            6964,
+            7346
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "单张票据偿还不保证全市场信用量收缩，新票据、再售或新融资可能替代。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch18-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R24",
+      "title": "发行许可与交易所准入不同",
+      "author_claim_paraphrase": "旧限制主要不准交易所买卖，新许可制度可能把发行本身纳入处罚。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7399,
+            7423
+          ],
+          "source_segment_sha256": "00ddc2a54775429a4b97d6ab3a4d8d72242d9482bbf066ca55a2e79c30133b61",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7469,
+            7489
+          ],
+          "source_segment_sha256": "2e716b432e1db4ba5889e045d04dd2fa2791a7a90d167d4b8d2e6cf23a8149f4",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "本书记述当时公报和下院承诺，未独立核准最终命令或现代法律。",
+      "required_inputs": [
+        "正式法规版本",
+        "适用日期",
+        "交易场所规则",
+        "实际执行记录"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "最终修订和适用个案可改变结论；未核法规时仅说明原书机制。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "旧限制主要不准交易所买卖，新许可制度可能把发行本身纳入处罚。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R25",
+      "title": "拆股与新资本用途不同",
+      "author_claim_paraphrase": "单位拆细或存量股份转手可能改变交易便利，不能直接等同新生产资本被耗用。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7707,
+            7727
+          ],
+          "source_segment_sha256": "fee0b5daeef9f1515cbb1e1bc422742385472a3c725ac95b41f9ef18e95d41de",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "并不否认估值、流动性和风险变化，也不同于真正新募资。",
+      "required_inputs": [
+        "交易性质",
+        "现金实际流入公司情况",
+        "股数与每股权益",
+        "实际生产投入"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "确有新投入或权利改变才可改变资源判断；不能由单位面额推断财富增加。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4108,
+            4438
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "单位拆细或存量股份转手可能改变交易便利，不能直接等同新生产资本被耗用。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch11-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "单位拆细或存量股份转手可能改变交易便利，不能直接等同新生产资本被耗用。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    },
+    {
+      "id": "P06-R26",
+      "title": "政策追溯与修订要保留时间",
+      "author_claim_paraphrase": "追溯交易禁令可威胁抵押变现，文内随后报告去掉追溯效力的承诺。",
+      "evidence": [
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7672,
+            7681
+          ],
+          "source_segment_sha256": "985113750722263354010a2f11580a4352eda523a0879aa7c07e4e2de3f3e6cb",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        },
+        {
+          "chapter": 19,
+          "article_date": "1919-03",
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7729,
+            7767
+          ],
+          "source_segment_sha256": "b98e99dcb36b26c61ccf83bc9c09171f4c0a9e81b8145301a162a9db71995071",
+          "hash_method": "exact original UTF-8 bytes, preserving CRLF and terminal line endings",
+          "precision": "independently selected precise source passage",
+          "printed_page": null,
+          "pdf_page": null,
+          "source_scope": "official complete PG transcription; not a verified original printed-page locator"
+        }
+      ],
+      "author_original_conditions": "承诺不是本项目核准已实施文本；早篇不能倒填后期知识。",
+      "required_inputs": [
+        "文件发布日期与生效日",
+        "修订全文",
+        "既存合同与抵押",
+        "数据截止日"
+      ],
+      "missing_required_data_action": "abstain",
+      "abstention_scope": "缺资料时允许说明原书机制，不允许精确实证、现行法律判断或个股行动建议。",
+      "evidence_that_would_change_judgment": "核准修订文本及贷款实际处理可修正最坏情景，不把可能后果写成全部已经发生。",
+      "kind": "historical_economic_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            4903,
+            5372
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "追溯交易禁令可威胁抵押变现，文内随后报告去掉追溯效力的承诺。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch13-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        },
+        {
+          "chapter": 19,
+          "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+          "source_lines_inclusive": [
+            7347,
+            7771
+          ],
+          "printed_page": null,
+          "pdf_page": null,
+          "precision": "chapter scope only; retained as context, not the precise rule quotation",
+          "paraphrase": "追溯交易禁令可威胁抵押变现，文内随后报告去掉追溯效力的承诺。",
+          "original_mismatched_file_path": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+          "line_coordinate_system": "one-based inclusive lines in complete original.txt"
+        }
+      ]
+    }
+  ],
+  "modern_extensions": [
+    {
+      "id": "P06-M01",
+      "label": "融资瓶颈与实物产能双边检查",
+      "status": "现代独立分析假设，未运行",
+      "inputs": [
+        "订单",
+        "闲置产能",
+        "融资可得性",
+        "合同现金流"
+      ],
+      "not_attributed_to_author_as_algorithm": true
+    },
+    {
+      "id": "P06-M02",
+      "label": "财政表统一时期与价格口径",
+      "status": "现代审计程序，未运行投资实验",
+      "not_attributed_to_author_as_algorithm": true
+    },
+    {
+      "id": "P06-M03",
+      "label": "政策版本和截止日约束",
+      "status": "现代信息审计程序",
+      "not_attributed_to_author_as_algorithm": true
+    }
+  ],
+  "cross_challenge_protocol": {
+    "external_reference_not_new_vote": true,
+    "steps": [
+      "列出对方原文及条件，不声称已读其全书",
+      "列明具体争点与本书日期和证据范围",
+      "说明哪些新证据能修正本书判断",
+      "证据未解决时保留并列假说，不拼出确定性或增加专家票数"
+    ]
+  },
+  "scope_limits": [
+    "不是投资策略代码或当代证券推荐",
+    "没有预测准确率、择时阈值或回测收益",
+    "国家及社会群体评价只归原作者",
+    "被引法律和委员会报告未另完整核准",
+    "独立语义QA已带来源限定通过；原扫描字形与全部历史事实仍未全认证"
+  ],
+  "knowledge_ready": true,
+  "source_attribution_note": "Current precise rule evidence uses complete original.txt line coordinates. Earlier chapter-scope paths/ranges are retained and explicitly corrected; they are not presented as precise quotations."
+}

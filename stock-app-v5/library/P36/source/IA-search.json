@@ -1,0 +1,103 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 28,
+    "params": {
+      "query": "title:(cycles of speculation) AND creator:gibson",
+      "qin": "title:(cycles of speculation) AND creator:(gibson)",
+      "fields": "identifier,title,date,creator",
+      "wt": "json",
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 14,
+    "start": 0,
+    "docs": [
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1909-01-01T00:00:00Z",
+        "identifier": "cu31924030208981",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, b. 1868",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cyclesofspeculat00gibsiala",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cu31924030208973",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cyclesspeculati01gibsgoog",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Thomas Gibson",
+        "date": "1917-01-01T00:00:00Z",
+        "identifier": "cyclesspeculati02gibsgoog",
+        "title": "The Cycles of Speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cyclesofspeculat00gibsuoft",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "in.ernet.dli.2015.224629",
+        "title": "The Cycles Of Speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cyclesspeculati00gibsgoog",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "in.ernet.dli.2015.12646",
+        "title": "The Cycles Of Speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1917-01-01T00:00:00Z",
+        "identifier": "cu31924075870398",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, b. 1868",
+        "date": "1917-01-01T00:00:00Z",
+        "identifier": "cyclesofspeculat00gibs",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1909-01-01T00:00:00Z",
+        "identifier": "cyclesofspecul00gibs",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1907-01-01T00:00:00Z",
+        "identifier": "cyclesofspecula00gibs",
+        "title": "The cycles of speculation"
+      },
+      {
+        "creator": "Gibson, Thomas, 1868-",
+        "date": "1911-01-01T00:00:00Z",
+        "identifier": "cu31924013779354",
+        "title": "The cycles of speculation"
+      }
+    ]
+  }
+}

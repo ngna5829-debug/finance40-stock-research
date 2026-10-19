@@ -1,0 +1,128 @@
+{
+  "book_id": "P33",
+  "scope": "independentarithmetic chapters1–7 plusselectedimages; originalamountsunmodified; historicalexternalledgersnotverified",
+  "cases": [
+    {
+      "case": "brokerpoint",
+      "cent_per_GBP": "0.05",
+      "USD_per_GBP": "0.0005",
+      "GBP10000fee": "5",
+      "PDF_actual_viewed": 73
+    },
+    {
+      "case": "longbilldisplay",
+      "original_display_sum": "4.74",
+      "original_evenrate": "4.8026",
+      "360day_discount_independent": "4.385208333333333333333333333",
+      "365day_discount_independent": "4.325136986301369863013698630",
+      "full_unrounded_360total_independent": "4.748958333333333333333333333",
+      "author_daycount_rounding_unresolved": true,
+      "PDF_actual_viewed": 93
+    },
+    {
+      "case": "sterlingcommission",
+      "original_percent": "3/8of1%",
+      "independent_amount": "375.00000",
+      "repayment_GBP": "100375",
+      "futures_coverage_named_GBP": "100000",
+      "fullcover_not_proved": true,
+      "PDF_actual_viewed": 100
+    },
+    {
+      "case": "currencyloaninterest",
+      "independent_quarteryear": "7260.00",
+      "not365precisedatebasis": true
+    },
+    {
+      "case": "triangularcurrency",
+      "original_roundeddollars": "4879.23",
+      "independent_USD": "4879.227053140096618357487923",
+      "cost_USD": "4840",
+      "independent_grossgap": "39.227053140096618357487923",
+      "allfees_execution_notprovided": true
+    },
+    {
+      "case": "goldexportdisplayandprofit",
+      "total_display_independent": 250718,
+      "GBP51380_times25points_USD": "128.4500",
+      "author_original_profit_USD": "128.25",
+      "original_break_even_rate": "4.8796",
+      "next_paragraph_compared_rate": "4.8775",
+      "USD_delta_from_prior_break_even": "20.5520",
+      "PDF_actual_viewed": [
+        127,
+        128
+      ],
+      "unresolvedprecision_notusedforexperiments": true
+    },
+    {
+      "case": "goldimportdisplay",
+      "expense_sum": 206595,
+      "independent_GBP_for_USD1m": "206594.4963226179654574002149",
+      "approximationonly": true,
+      "PDF_actual_viewed": [
+        130,
+        131
+      ]
+    },
+    {
+      "case": "goldtriangularfulltable",
+      "expense_sum": 1000615,
+      "original_GBP": "205536",
+      "independent_GBP_unroundedgold": "205536.6235059760956175298805",
+      "final_USD_on_originalGBP": "1000615.01952",
+      "PDF_actual_viewed": 133,
+      "precise_ledgernotclaimed": true
+    },
+    {
+      "case": "goldtradeall5rows",
+      "rows": [
+        {
+          "year": 1913,
+          "export_USD": 77762622,
+          "import_USD": 69194025,
+          "signed_import_excess_independent": -8568597,
+          "export_excess_footnote_required": true
+        },
+        {
+          "year": 1912,
+          "export_USD": 57328348,
+          "import_USD": 48936500,
+          "signed_import_excess_independent": -8391848,
+          "export_excess_footnote_required": true
+        },
+        {
+          "year": 1911,
+          "export_USD": 22509653,
+          "import_USD": 73607013,
+          "signed_import_excess_independent": 51097360,
+          "export_excess_footnote_required": false
+        },
+        {
+          "year": 1910,
+          "export_USD": 118563215,
+          "import_USD": 43339905,
+          "signed_import_excess_independent": -75223310,
+          "export_excess_footnote_required": true
+        },
+        {
+          "year": 1909,
+          "export_USD": 91531818,
+          "import_USD": 44003989,
+          "signed_import_excess_independent": -47527829,
+          "export_excess_footnote_required": true
+        }
+      ],
+      "PDF_actual_viewed": 140,
+      "externaldatabaseverified": false
+    },
+    {
+      "case": "floatingsecurityrenewal",
+      "USD_initial": "241500.00",
+      "USD_cover": "243000.00",
+      "new_GBP_independent": "50310.55900621118012422360248",
+      "author_new_GBP": "50310",
+      "approximate_nottotalallinfinancingcost": true
+    }
+  ]
+}

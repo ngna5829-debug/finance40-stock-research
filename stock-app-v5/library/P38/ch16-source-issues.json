@@ -1,0 +1,147 @@
+[
+  {
+    "issue": "5yearinitial_vs6yearNPVcase",
+    "pages": [
+      480,
+      481,
+      482
+    ],
+    "original": "machineused5yrs,then6yrswithadded5000year6",
+    "independent": "samefirstfiveflowsNPV9negative145.72,sixpositive2835.6193799064495 (rounded2835.62);notfixedinputs-samemethodproof"
+  },
+  {
+    "issue": "SummaryPIdefinitionwrong",
+    "pages": [
+      489,
+      501,
+      502
+    ],
+    "original": "summaryNPV/initialcost vsbodyPVinflows/PVoutflows",
+    "independent": "PI1.1772 not.1772 ininitialoutlaycase;cutoff1needsPVbenefits/PVcosts"
+  },
+  {
+    "issue": "NPVaccept conditional/projectdiscountscope",
+    "pages": [
+      482,
+      483,
+      484,
+      485,
+      495
+    ],
+    "independent": "forecastpositiveNPVnotrealizedguarantee;incrementalcash/taxes/NWC/capex/opportunitycost/scenario/projectriskneeddefine;raisingratesnotmonotonicforallmixedcashflows"
+  },
+  {
+    "issue": "IRRreinvestment andsignchanges",
+    "pages": [
+      487,
+      488,
+      502
+    ],
+    "original": "IRRassumesreinvestatIRR;negativemultipleperiodmaymultipleIRRs",
+    "independent": "discountIRRdefinitionneedsnoreinvestment;terminalwealthrealizationrequiresassumptions;multiple signchangescanproduce0/1/multiplevalidroots notguarantee;example2rootsverified"
+  },
+  {
+    "issue": "MIRRterminaldate/inputs",
+    "pages": [
+      489,
+      490
+    ],
+    "original": "compounduntil lastinflow costcapitalunifiedrate,oneanswer",
+    "independent": "totalprojecthorizon iflaternegativeoutflow;finance/reinvestcanseparate;bothpositiveandnegativeflowsrequired;oneconstructnotautomaticrankingoptimization",
+    "primary_url": "https://support.microsoft.com/en-us/excel/functions/mirr-function"
+  },
+  {
+    "issue": "PIgreedynotgeneraloptimal",
+    "pages": [
+      494,
+      495,
+      501,
+      503
+    ],
+    "original": "rankPImaxvalueunqualified",
+    "independent": "specific7projectbest78verified128sets,notgeneralindivisibleknapsack/dependenciesoptimalrule;scopeconstraintsfirst"
+  },
+  {
+    "issue": "Unequalprojectlife requiresobjective/repeat",
+    "pages": [
+      492,
+      493
+    ],
+    "original": "cannotcompareNPVsifdifferentlives;replacement/equalannuityassumerepeat",
+    "independent": "oneoffdifferenthorizonNPVcancomparewithconsistentobjective;repeatnotautomatic,LCMlifetimeassumption/inflation/technologyrisk;no forcedperpetuity"
+  },
+  {
+    "issue": "Paybackfraction timing",
+    "pages": [
+      480,
+      489,
+      504
+    ],
+    "independent": "fractionalyears assumeswithinyearcashuniformity;endyearlumpsdiscreterecoverylater;paybacknotbankaccountliquidityguarantee"
+  },
+  {
+    "issue": "Rounding/IRR14_09_vs14_10",
+    "pages": [
+      482,
+      487,
+      489,
+      491
+    ],
+    "original": "NPV2835.63/.62;IRR14.09/14.10",
+    "independent": "fullprecisionstoreddistinctfromroundedcells;notmarkdifferentreturnfacts"
+  },
+  {
+    "issue": "ExcelNPVtiming/zeros/signs",
+    "pages": [
+      496,
+      497
+    ],
+    "original": "cash0separateformula correct;proseJ6vsactualJ7",
+    "independent": "NPVfirstperiod1,IRRallflowsregularinterval;zerosretaintimingblankmaydrop;structuredperiodcompleteaudit",
+    "primary_url": "https://support.microsoft.com/en-us/excel/functions/irr-function?nochrome=true"
+  },
+  {
+    "issue": "Historicaloil/Olympicexternalmissingvideo",
+    "pages": [
+      491,
+      495,
+      504,
+      505
+    ],
+    "independent": "allbookcasetextread,butnoexternalfullnews/videos/projectforecasts;TokyoNPVIRRcannotinventcostcashflows;TrimfuturePVcomputablenetNPVmissinginitial"
+  },
+  {
+    "issue": "Tile replacement wording",
+    "page": 504,
+    "independent": "40yearcommon horizonneeds8five-yearcycles5eight-yearcycles, actualreplacementsbefore40excludinginitial7/4;noassumeboundaryreplacementincluded"
+  },
+  {
+    "issue": "Houseborrowrate notallrisk appropriate",
+    "page": 504,
+    "independent": "given7yearscenarioNPVscomputedat3and8,notactualhousingrecommendation;costloanvsprojectrisk/fees/tax/financingcashdoublecountneedclarify"
+  },
+  {
+    "issue": "Table16.10_original_terminal_total_conflict",
+    "printed_page": 490,
+    "pdf_page_one_based": 505,
+    "original": {
+      "terminal_total": 31595.22,
+      "all_displayed_terminal_cells": [
+        3077.25,
+        5646.33,
+        6475.15,
+        5940.5,
+        5450,
+        5000
+      ]
+    },
+    "independent": {
+      "full_precision_total": 31589.219349800005,
+      "displayed_cell_sum": 31589.23,
+      "MIRR": 0.12004761379617856
+    },
+    "not_a_cent_rounding_difference": true,
+    "original_pdf_and_native_source_unmodified": true,
+    "critical_original_whole_page_actually_viewed_by_root_and_peer": true
+  }
+]

@@ -1,0 +1,2023 @@
+{
+  "book_id": "P09",
+  "expert_id": "P09-Ricardo-1817",
+  "book_count": 1,
+  "expert_count": 1,
+  "author": "David Ricardo",
+  "title": "On The Principles of Political Economy, and Taxation",
+  "edition": "1817 London John Murray first-edition text; duplicate V and VIII labels retained as V* and VIII*; not 1821 third edition",
+  "role": "生产成本、分配、货币、税和贸易论证的条件审查专家",
+  "system_prompt": "你是P09这一册的唯一知识专家，依据Project Gutenberg33310所标1817首版31原章与66原注，不借1821第三版或被引整部著作补知识已读范围。回答先说判断对象、术语与计量口径，再给本册具体总行区间证据、原始条件和可否证点。作者原意、书内后续修订、现代解释和独立检验分别列，不把现代阈值或程序参数归给作者。不凭索引概括覆盖正文，不用本书未解数字作精确实验。纯租与建筑资本、永久不可分改良、现租期和期后、局部与一般税、同币金额与真实购买力、值与实物财富、政府债权与现代股票都分别判断。缺必要成本、边际、合同、币值、供量、税基、时间或信用资料时说明缺口并弃权于相应确定结论。本次未接入行情，current_stock_decision_enabled:false；不得输出已有当前价格、真实机构资金或已经运行投资实验的声明。遇别书质疑，要求竞争入口、资本转用、现金需求、生产成本、人口选择或债权条款等具体资料，能收窄条件就修正，不凭作者票数坚持。引用别书只作external_reference_not_new_vote，不增加已读本数。完整语义审读不等于扫描每字或历史数值准确保证。",
+  "rules": [
+    {
+      "id": "P09-R01",
+      "chapter_ordinal": 1,
+      "title": "效用、稀缺与可复制生产分开",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "有用是交换价值必要条件，却不按效用程度定交换比；稀缺不可复制品另论，多数可增供品以必要劳动比较，并须纳直接间接劳动。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            233,
+            275
+          ],
+          "source_segment_sha256": "8429beb892bdd888d785c7e4ab64489a13c3957a1d7be77d0c9f6009416796d5",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "particular object, and sometimes the power of purchasing other goods which the possession of that object conveys. The one may be called _value in use_; the other, _value ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 1,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            535,
+            548
+          ],
+          "source_segment_sha256": "dcf830f09f15931a9b5782ee6fcc1b0841d8635339dca928d388388d2fef8c67",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "immediate production only, but on all those implements or machines required to give effect to the particular labour to which they were applied.  If we look to a state of ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 1,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            277,
+            324
+          ],
+          "source_segment_sha256": "5e83fa59daeaf46470691c92f3254dec743be5cc5baf407a1513947e29b70602",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "In the early stages of society, the exchangeable value of these commodities, or the rule which determines how much of one shall be given in exchange for another, dep",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 1,
+          "reviewer_added_evidence_id": "P09-QA-A001",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A001.txt"
+        }
+      ],
+      "author_original_conditions": "有用、可复制、竞争；不可将稀缺艺术等纳同一劳动价关系。",
+      "required_inputs": [
+        "产品用途和品质",
+        "可复制性",
+        "直接间接必要投入"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "现代使用此项审查价格原因，不给劳动小时到股票价的公式。",
+      "evidence_that_would_revise_or_narrow": "若价格来自不可复制稀缺、异质劳动或资本结构差，收窄简单劳动量结论。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R02",
+      "chapter_ordinal": 2,
+      "title": "租是差额且不把总租款当纯租",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "土地优势差形成纯租，价格取无租必要边际；粮贵产生租，不因租先高才让粮普贵。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1151,
+            1175
+          ],
+          "source_segment_sha256": "659eb326ad3bc6f6f4ae9baf19544b6200c53d8ca4e19f52e61916a2b41687d3",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "its rise or fall is regulated. Rent is that portion of the produce of the earth, which is paid to the landlord for the use of the original and indestructible powers of th",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 49,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1302,
+            1339
+          ],
+          "source_segment_sha256": "6f281666d3410773b68702b3598621eab57c3261eee7152c2bfcee2c93e8fc3c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "the employment of an additional quantity of labour with a proportionally less return.  The most fertile, and most favourably situated land will be first cultivated, and t",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 49,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1338,
+            1361
+          ],
+          "source_segment_sha256": "f9b30d20ef4b061d30a96d458f0307a69e1c010d6ef2d1f40f531a0bde8a4998",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is true, that on the best land, the same produce would still be obtained with the same labour as before, but its value would be enhanced in consequence of the dim",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 49,
+          "reviewer_added_evidence_id": "P09-QA-A002",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A002.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1240,
+            1303
+          ],
+          "source_segment_sha256": "6e97440ca29641b48f97e087cd4f2a67dae52d644b2dc170d7d871fa6d44e679",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Thus suppose land--No. 1, 2, 3,--to yield, with an equal employment of capital and labour, a net produce of 100, 90, and 80 quarters of corn. In a new country, where",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 49,
+          "reviewer_added_evidence_id": "P09-QA-A003",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A003.txt"
+        }
+      ],
+      "author_original_conditions": "等投入、等劳动、可竞争的必要边际；俗称租含资本补偿须拆。",
+      "required_inputs": [
+        "土地或追加资本产出",
+        "必要边际",
+        "纯租与改良补偿"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "分拆是研究要求，不能随意用总租百分比代纯租。",
+      "evidence_that_would_revise_or_narrow": "若供给物理或产权封闭、无租边际不存在，或改良不可撤，改用相关例外。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R03",
+      "chapter_ordinal": 3,
+      "title": "矿租同样按相对必要开采优势",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "同劳动的矿质差形成租，金属需采出和送市场；最不利必要生产定价而非未开采任意最低品位。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1587,
+            1625
+          ],
+          "source_segment_sha256": "f6b199d1f005f82264a8f2b9bf061d1201343ec2978c63602694634ab4a5845e",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The metals, like other things, are obtained by labour. Nature, indeed, produces them; but it is the labour of man which extracts them from the bowels of the earth, and pr",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 77,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "同类金属、必要开采条件、竞争、运输在取得中。",
+      "required_inputs": [
+        "开采处理运输成本",
+        "所需产量",
+        "必要矿或追加资本"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "所列现代全成本数据不冒称作者有矿企实测表。",
+      "evidence_that_would_revise_or_narrow": "若富矿可独供、运输分割或控制产量，不能仅按物理最差矿判断。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R04",
+      "chapter_ordinal": 4,
+      "title": "自然价与市价及资本迁移",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "现实市场供给不恰合需要，市价偏离会引资本往来；金融借贷使资本可转，不要求每个厂主本人换业。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1680,
+            1728
+          ],
+          "source_segment_sha256": "8c7e58b33719f1de87be398e7dd4f291cc11ae1b02e2669848e46fca5051ccd5",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": " In making labour the foundation of the value of commodities, and the comparative quantity of labour which is necessary to their production, the rule which determines the",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 82,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1737,
+            1768
+          ],
+          "source_segment_sha256": "3f54296a762f865ffad849c9dac849ee7db717a22eb33803b6c923fc15794fbe",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "producing either the effects of a glut from a too abundant supply, or an enormously high price from the supply being unequal to the demand, we must confess that the princ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 82,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1702,
+            1741
+          ],
+          "source_segment_sha256": "8705a2ca2ce4471c931aa766ffa94a577ae8f6541181fcc7168f486fa19477e9",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Whilst every man is free to employ his capital where he pleases, he will naturally seek for it that employment which is most advantageous; he will naturally be dissa",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 82,
+          "reviewer_added_evidence_id": "P09-QA-A004",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A004.txt"
+        }
+      ],
+      "author_original_conditions": "普通回报和可迁移资本；允许偏离及等待，不给固定复归时间。",
+      "required_inputs": [
+        "市场交易价与需求",
+        "普通生产费用",
+        "资金和转用能力"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不能将最终复归私设均线、交易日数或买点。",
+      "evidence_that_would_revise_or_narrow": "若融资、设备或产权限制使进入退出不可行，收窄复归判断。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R05",
+      "chapter_ordinal": 5,
+      "title": "自然工资含习惯生活而非固定饥饿线",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "劳动自然价满足劳动者及家庭维持；必要生活习惯随时代国家变，市场工资又受劳动需求和资金。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1810,
+            1825
+          ],
+          "source_segment_sha256": "d802abd0c91f2df2c18139101894f9efaa45a8f28bad5e39757ed06a056e18c3",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Labour, like all other things which are purchased and sold, and which may be increased or diminished in quantity, has its natural and its market price. The natural price ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 90,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1925,
+            1944
+          ],
+          "source_segment_sha256": "44d3eb5506fa3f344eacdc860fd4ac0ef5d80e18391be12f0864c8be6358fd65",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is not to be understood that the natural price of wages, estimated even in food and necessaries, is absolutely fixed and constant. It varies at different times in the ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 90,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            1845,
+            1899
+          ],
+          "source_segment_sha256": "6c0dbebc55542929ba53856c10761aac005294cc4e2b12018f63b09654d343df",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The market price of labour is the price which is really paid for it, from the natural operation of the proportion of the supply to the demand; labour is dear when it",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 90,
+          "reviewer_added_evidence_id": "P09-QA-A005",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A005.txt"
+        }
+      ],
+      "author_original_conditions": "生活标准、人口和生产条件给定时比较；不将同一篮子跨一切社会。",
+      "required_inputs": [
+        "生活篮子和习惯",
+        "劳动资金与人数",
+        "食品生产难易"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不制定当代最低工资或以群体刻板印象评人。",
+      "evidence_that_would_revise_or_narrow": "实际生活习惯、工资协商、人口选择与作者设定不同则调整。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R06",
+      "chapter_ordinal": 6,
+      "title": "工资与普通资本利润的分配条件",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "无租必要农业产物在普通条件下分工资利润；生活品更难取得抬工资可压利润，但极低利润会先制止积累。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            2285,
+            2321
+          ],
+          "source_segment_sha256": "6f7cde79e9ffa1baa8f1450eb89e55f7e14f1f2c570ca815dd358f56785b292a",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The profits of stock in different employments, having been shewn to bear a proportion to each other, and to have a tendency to vary all in the same degree and in the same",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 116,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            2753,
+            2794
+          ],
+          "source_segment_sha256": "1c156bbc02b90a74c18d40f5ae76dd53c5fce11ff6f289fad281285182cbc36b",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "labourer, as we have already shewn, would be worse, inasmuch as he would be able to command a less quantity of the produce of the country. The only real gainers would be ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 116,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            2644,
+            2668
+          ],
+          "source_segment_sha256": "196a66b5744c6d3575c1dfbe0e39adbb160716cb5f9e953a3320d7142eaa50c7",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "In all these calculations I have been desirous only to elucidate the principle, and it is scarcely necessary to observe, that my whole basis is assumed at random, an",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 116,
+          "reviewer_added_evidence_id": "P09-QA-A006",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A006.txt"
+        }
+      ],
+      "author_original_conditions": "同可比生产资本、正常价格、无租边际；例中数字任意。",
+      "required_inputs": [
+        "资本回收与工资",
+        "必需品实际成本",
+        "普通利润与新增积累"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "profits of stock不换作现代股票总回报。",
+      "evidence_that_would_revise_or_narrow": "资本结构、物价、真实需求或其他支出变化时，不能只看工资倒推利润。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R07",
+      "chapter_ordinal": 7,
+      "title": "外贸增丰裕与比较生产条件",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "外贸可增所取物量不立刻增本国价值；英葡酒布例按各自相对劳动成本选择，跨境资本不同于国内自由转移。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            2825,
+            2848
+          ],
+          "source_segment_sha256": "fae9e05958c351d7d07934ae576be02d037b22daec5cea041a6dfb11c734320c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "No extension of foreign trade will immediately increase the amount of value in a country, although it will very powerfully contribute to increase the mass of commodities,",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 146,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            3079,
+            3145
+          ],
+          "source_segment_sha256": "b44a6d48a6a83088738342a8cd731a6e603295ab1e42da042a7133970a4998b8",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "them to the various markets where they were to be sold.  Experience however shews, that the fancied or real insecurity of capital, when not under the immediate control of",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 146,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            2994,
+            3079
+          ],
+          "source_segment_sha256": "fc4e06fbb13ba9bb5589e088b47e0aa915078c28c35f7e7fc27088654600eb30",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The same rule which regulates the relative value of commodities in one country, does not regulate the relative value of the commodities exchanged between two or more",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 146,
+          "reviewer_added_evidence_id": "P09-QA-A007",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A007.txt"
+        }
+      ],
+      "author_original_conditions": "同质可贸易品、给定生产劳动、资本国际转移限制及支付可行。",
+      "required_inputs": [
+        "两边各品生产条件",
+        "贸易运保与支付",
+        "可替代产量"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不由比较优势直接预测上市出口商利润。",
+      "evidence_that_would_revise_or_narrow": "资本跨界、质量、费用或外方供给改变时须重比；数例非史实。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R08",
+      "chapter_ordinal": 8,
+      "title": "税占用资源与收入资本来源",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "税把国民土地劳动产物给政府，若少消费或多生产能抵它，不必毁资本；是否侵资本依行为。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            3504,
+            3536
+          ],
+          "source_segment_sha256": "4453f9bdf4c43f47a6ed15096fa0072ab2846492e11660a7efd4084bf5394744",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Taxes are a portion of the produce of the land and labour of a country, placed at the disposal of the government; and are always ultimately paid, either from the capital,",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 186,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            3560,
+            3592
+          ],
+          "source_segment_sha256": "ba129556e42e747b95761ea33676da078890554e444b9c9d2a90a25e5044652d",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "collectively.  Taxes are not necessarily taxes on capital, because they are laid on capital; nor on income, because they are laid on income. If from my income of 1000_l._",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 186,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "具体支出与替换；资本是生产资源，不只钱额。",
+      "required_inputs": [
+        "公共与私人消费",
+        "真实生产和资本替换",
+        "税支付来源"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不靠税名判断全由收入或资本付。",
+      "evidence_that_would_revise_or_narrow": "若政府用途或国民生产反应不同，不维持简单资本消耗量。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R09",
+      "chapter_ordinal": 9,
+      "title": "原产物税及四种高粮价原因",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "原产物税触无租边际可令粮价补；粮价高可能是供短、增长供难、钱变或税，工资反应不同。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            3647,
+            3688
+          ],
+          "source_segment_sha256": "99b6fef5f2ec0af5a83a99e8ccb376ff25c063c3b8a507fd58be7a85da7a5c86",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Having in a former part of this work established, I hope satisfactorily, the principle, that the price of corn is regulated by the cost of its production on that land exc",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 194,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            3823,
+            3912
+          ],
+          "source_segment_sha256": "b1537266b667de6b3ef331740b4dcfa535096d8fdfb217b9fc9295a923f1c6a8",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "the rise of wages precedes the rise in the price of corn; again, in some the effect is slow, and in others the interval must be very short.  Those who maintain that it is",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 194,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "竞争退出、需求及无租边际；分别识别价格原因。",
+      "required_inputs": [
+        "税基及边际费用",
+        "产量和供量",
+        "币值与劳动篮子"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不以一个粮价箭头触发股票风险或收益结论。",
+      "evidence_that_would_revise_or_narrow": "短缺、进口或币值变不同则改工资和租的条件分支。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R10",
+      "chapter_ordinal": 10,
+      "title": "纯租税与资本补偿税区别",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "纯租税归地主且不动无租地成本；连建筑等资本补偿一起税则可影响新增供给及产品价。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4152,
+            4168
+          ],
+          "source_segment_sha256": "4b30ae715bd50d5c362fadfc737f0dababb4cd90d466d6496094786c97731c7e",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "A tax on rent would affect rent only; it would fall wholly on landlords, and could not be shifted to any class of consumers. The landlord could not raise his rent, becaus",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 221,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4170,
+            4190
+          ],
+          "source_segment_sha256": "12c306e083b59d7c9d1de985970ed0b1fe1d59f8146f773a4e0f67fd8c4bccc0",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "A tax on rent, as rent is constituted, would discourage cultivation, because it would be a tax on the profits of the landlord. The term rent of land, as I have elsewhere ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 221,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4208,
+            4217
+          ],
+          "source_segment_sha256": "07b904776aeffe366b0b29cc57985bc50ef76f918951b3cbbe84101118eb4f54",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "consumer of raw produce. If a tax were laid on rent, and no means of separating the remuneration now paid by the tenant to the landlord under the name of rent were adopte",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 221,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "纯租能识别；必要建筑资本要通常收益；长期与当前付款分开。",
+      "required_inputs": [
+        "纯租与设施补偿",
+        "租约",
+        "必要生产和退出"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不把历史合同改名描述当现行避税办法。",
+      "evidence_that_would_revise_or_narrow": "长期锁定合同、资本不可撤或垄断选择使转嫁比例不能直接定。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R11",
+      "chapter_ordinal": 11,
+      "title": "什一税按毛量且须区分税分母",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "按毛产物取成涉及无租边际，与纯租税不同；物租和金额租可异，进口不受同税会改国内需求。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4227,
+            4271
+          ],
+          "source_segment_sha256": "1391be5cd749c8419901393f4bb05d932672d65d060110eda77cbd7aca0b70b9",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Tithes are a tax on the gross produce of the land, and, like taxes on raw produce, fall wholly on the consumer. They differ from a tax on rent, inasmuch as they affect la",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 225,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4304,
+            4315
+          ],
+          "source_segment_sha256": "26988389e2d35d75181bd97d2350ad6e2f42062e8a28450fa38f80f84e38f647",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Tithes however may be considered as injurious to landlords, inasmuch as they act as a bounty on importation, by taxing the growth of home corn, while the importation of f",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 225,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4273,
+            4302
+          ],
+          "source_segment_sha256": "4d9e67feb6dff2205239a001ad8ab7523d56a654366cc399d6a1389107b4dc4c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The chief objection against tithes is, that they are not a permanent and fixed tax, but increase in value, in proportion as the difficulty of producing corn increase",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 225,
+          "reviewer_added_evidence_id": "P09-QA-A008",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A008.txt"
+        }
+      ],
+      "author_original_conditions": "毛量比例、净所得定义、国内外税待遇；开头价式有未解差。",
+      "required_inputs": [
+        "税基与数量单位",
+        "严格比例和计价",
+        "净分配与进口条件"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "毛营收税只可条件类比，不给现代政策比例。",
+      "evidence_that_would_revise_or_narrow": "8先令与严格十分之一式未统一，不可混用表；实际外粮和成本会改方向。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R12",
+      "chapter_ordinal": 12,
+      "title": "面积税的额外私人受益与租期",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "等额按地而产量不同可令统一粮价多补好地；额外部分现租期归农民、以后可转地主，超过国库所得。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4385,
+            4410
+          ],
+          "source_segment_sha256": "ebea39102e4d273e7bfc1a4fcac567a3cbc963530b5817c50bd8437be78274cd",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "An equal land-tax, imposed indiscriminately and without any regard to the distinction of its quality, on all land cultivated, will raise the price of corn in proportion t",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 232,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4428,
+            4438
+          ],
+          "source_segment_sha256": "cbbd1c3d183721b2dba457d2305b75a6dc614bb7226b8f68c18fb7211e525ec6",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "another, likely to amount to.\" It is undoubtedly true, that the farmer does calculate his probable outgoings of all descriptions, when agreeing with his landlord concerni",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 232,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "同价产品、不同产量同税、竞争及续租；消费者付与财政收入不同。",
+      "required_inputs": [
+        "各地税额及产量",
+        "产品价格市场",
+        "合同续租和新增收益"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不以消费者多付全记为税收入。",
+      "evidence_that_would_revise_or_narrow": "需求、租约、资本流动和豁免不符则重判；法国历史例未独立核。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R13",
+      "chapter_ordinal": 13,
+      "title": "黄金库存与货币用途令调整慢",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "金耐久存量、货币功能使税后量减慢，先由持有者受损；货币与器物用途及固定/比例矿税要分。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4640,
+            4661
+          ],
+          "source_segment_sha256": "7ed148788e9b3581c51d0b80ff5cccdeac12319b9df8ab6a5c24698f5f0462e5",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If the mines which supply us with gold were in this country, and if gold were taxed, it could not rise in relative value to other things till its quantity were reduced. T",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 247,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4681,
+            4698
+          ],
+          "source_segment_sha256": "6b714a534fc990eb547b00ca496771ad7d3cfa9ed873c5144cd25918ef0b278c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The argument which I have just been using, applies only to those states of society in which the precious metals are used for money, and where paper credit is not establis",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 247,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4836,
+            4864
+          ],
+          "source_segment_sha256": "3143c3fa213d356216577233724862d057d5d29ba5d9072f23dc496cc5e1e949",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If the tax, instead of being a fixed sum per mine worked, were a certain portion of its produce, the quantity would not be reduced in consequence. If a half, a fourth, or",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 247,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4751,
+            4766
+          ],
+          "source_segment_sha256": "2456a34f8a1fac5858942ecc1f24325d1afef8efb8e309b654ce3d666687778d",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If in consequence of the tax, only one tenth of the present quantity of gold were obtained from the mines, that tenth would be of equal value with the ten tenths now",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 247,
+          "reviewer_added_evidence_id": "P09-QA-A009",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A009.txt"
+        }
+      ],
+      "author_original_conditions": "金属货币及纸信用条件、存量年流量、独占矿为假设；比例税边际有缺口。",
+      "required_inputs": [
+        "金存量与年产耗用",
+        "货币和器物用途",
+        "替代矿、纸信用、税基"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不推现代金价或矿股，表只是内部模型。",
+      "evidence_that_would_revise_or_narrow": "可竞争金源、纸替代或矿的普通利润被税侵，原特殊结论须收窄。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R14",
+      "chapter_ordinal": 14,
+      "title": "房税过渡及最终比例不定",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "需求减而旧房不减可压租；建筑慢耗、少新建使建筑回报调整，最终住户地面地主分担比例难定。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4874,
+            4887
+          ],
+          "source_segment_sha256": "02a526c09e487a2cfa9df11c48a91fbc260f09404161bca82705e8d23ca466ed",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "There are also other commodities besides gold which cannot be speedily reduced in quantity; any tax on which will therefore fall on the proprietor, if the increase of pri",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 262,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            4923,
+            4946
+          ],
+          "source_segment_sha256": "5d7ffa2800e786d09666d090f12238b179f166b2eff9037f043d18e9cb1244e3",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If the tax be moderate, and the circumstances of the country such, that it is either stationary or advancing, there would be little motive for the occupier of a house to ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 262,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "需求反应、旧房存量、耗损和新建筑资本条件。",
+      "required_inputs": [
+        "住户需求与合约",
+        "建筑维护和新供给",
+        "地面租/建筑租"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "规范公平与经济归宿另列，不由房地产税名估股票。",
+      "evidence_that_would_revise_or_narrow": "需求、融资或不可替代地点不同，不能套一半一半或即时转嫁。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R15",
+      "chapter_ordinal": 15,
+      "title": "一般利润税、币值与资本结构",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "税利润的局部与一般效果不同；同资本、不同周转销售可同额税而不同价比例，固定名义所得还要看币值。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5004,
+            5055
+          ],
+          "source_segment_sha256": "08348e59a86334399dfd1f40986e0f9639e74489e706cec0cff3a750e5b96b02",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "A tax on hats will raise the price of hats; a tax on shoes, the price of shoes; if this were not the case, the tax would be finally paid by the manufacturer; his profits ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 269,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5057,
+            5099
+          ],
+          "source_segment_sha256": "17ec441e6ff7c43966e444c199b147b2f5f66bce0212f62cb839007b731160b9",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "But although, if money be not taxed, and do not alter in value, all commodities will rise in price, they will not rise in the same proportion; they will not after the tax",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 269,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5218,
+            5223
+          ],
+          "source_segment_sha256": "180f545219a37f8a1e7e3e34512d9c290f7aa62671833e7e3972b6903bbd9142",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "A tax on the profits of stock would also affect the stockholder, if all commodities were to rise in proportion to the tax; but if from the alteration in the value of mone",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 269,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5225,
+            5244
+          ],
+          "source_segment_sha256": "79e9edea0004033a0f61fa9cb55acbf972971527e82c233e9628d3937e002c3a",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If it be agreed, that by taxing the profits of one manufacturer only, the price of his goods would rise, to put him on an equality with all other manufacturers; and ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 269,
+          "reviewer_added_evidence_id": "P09-QA-A010",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A010.txt"
+        }
+      ],
+      "author_original_conditions": "货币来源是否同税和价标准明确；原5225–5235表述同早段有张力。",
+      "required_inputs": [
+        "税覆盖与毛净分母",
+        "资本耐久与周转",
+        "固定名义合同与币值"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "固定股息语境不当所有现代企业权益。",
+      "evidence_that_would_revise_or_narrow": "暂停有冲突的货币矿分支，勿混近似比例作精确表。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R16",
+      "chapter_ordinal": 16,
+      "title": "工资税包括需求和支出方向修订",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "维持劳动要求可令税后工资增、利润少；政府国内雇人、国外补助、资本损伤会使最终补偿不同。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5393,
+            5401
+          ],
+          "source_segment_sha256": "b94995f9b0973c6cecfea9ae3945d40ac340395ea5517c517c172660f83f8c29",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "\"The price of labour will express, clearly, the wants of the society respecting population;\" it will be just sufficient to support the population, which at that time the ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 285,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5416,
+            5469
+          ],
+          "source_segment_sha256": "f9a4da6ba0c2fe30c56abfc8244b5b93a3989bf579ac1408b955538b3c4ded56",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is undoubtedly true, that a taxed commodity will not rise in proportion to the tax, if the demand for it will diminish, and if the quantity cannot be reduced. If metal",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 285,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            5590,
+            5609
+          ],
+          "source_segment_sha256": "ec8d6cb18460c2a4dad066c5e1c2ae616d685e60612cd6c12d1210fa8eeb1ac4",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "I hope then that I have succeeded in shewing, that any tax which shall have the effect of raising wages, will be paid by a diminution of profits, and therefore that a tax",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 285,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "劳动人口和实际资金，政府支出地区；不把章首完全断言脱离后段。",
+      "required_inputs": [
+        "工资篮子",
+        "国内劳动资金",
+        "政府支出与资本变化"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不由循环钱款推现实政府支出无成本。",
+      "evidence_that_would_revise_or_narrow": "劳动需求或人口选择不随设定，工人可担一部；削币算例不精确。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R17",
+      "chapter_ordinal": 17,
+      "title": "国债利息转移与真正消耗及垄断税例外",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "战费本金资源消耗与国内债息转移不同；偿债须真实盈余。不可增供垄断价税又可能归租。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6053,
+            6098
+          ],
+          "source_segment_sha256": "ffe490abc3c7806dc5f7536c5b9c6bd0f9f5a01e876417c53b1153ca84fe5558",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Taxes which are levied on a country for the purpose of supporting war, or for the ordinary expenses of the state, and which are chiefly devoted to the support of unproduc",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 330,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6172,
+            6181
+          ],
+          "source_segment_sha256": "0a2678a763789fdf6df409396171933f2e4de0096806472ac18213d4c6e92644",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "however be admitted, that during peace, our unceasing efforts should be directed towards paying off that part of the debt which has been contracted during war; and that n",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 330,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6228,
+            6240
+          ],
+          "source_segment_sha256": "a2012bb6795ee25f8df779edc472138a00c38807e938950a5a6fc2d869be8a6f",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The corn and raw produce of a country, may indeed for a time sell at a monopoly price; but they can do so permanently only when no more capital can be profitably employed",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 330,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "国内债权转移、履约规范；垄断须真无新增供给可能。",
+      "required_inputs": [
+        "债权国别和合同",
+        "真实财政余额",
+        "可增供量及边际租"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不主张违约，不将债券资本当美股权益。",
+      "evidence_that_would_revise_or_narrow": "外债、分配行为和信用反应另核；正常有租并非绝对垄断。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R18",
+      "chapter_ordinal": 18,
+      "title": "济贫税按实际评值与不可分改良",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "归宿取相对行业负担、可否提价和租期；永久不可分改善完成后收益可具租性质，需更新建筑另论。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6439,
+            6467
+          ],
+          "source_segment_sha256": "7f407ad9abadfc289734881daa6874a8a727ace8e1f88eafb5d3fc56e3b3928b",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The poor rates are professed to be levied on the farmer in proportion to his rent; and accordingly, the farmer who paid a very small rent, or no rent at all, should pay l",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 354,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6518,
+            6543
+          ],
+          "source_segment_sha256": "77fbdfdeceeeb6e07e9f2555ba1852abd5c17edbb9d14062c09c1bfb02039fdf",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "This then would be the effect of poor rates in an advancing society; but in a stationary, or in a retrograde country, so far as capital could not be withdrawn from the la",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 354,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10603,
+            10629
+          ],
+          "source_segment_sha256": "0eea4a60bfcb7a4c3ef889b6adc3087db4b485266a9959e3633828919062b5ca",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "  [26] In a former part of this work, I have noticed the   difference between rent, properly so called, and the   remuneration paid to the landlord under that name, for t",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 354,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6469,
+            6543
+          ],
+          "source_segment_sha256": "84d9c172089dddd892698bd1498dfdfa1f732c75a02262e750bfff44be3ffebf",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Nor would it make the slightest difference in this question, if the landlord had made these improvements himself, and had in consequence raised his rent from 100_l._",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 354,
+          "reviewer_added_evidence_id": "P09-QA-A011",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A011.txt"
+        }
+      ],
+      "author_original_conditions": "估值不是固定付地主租；区分事前投入与事后新增税，资本可撤程度。",
+      "required_inputs": [
+        "真实税评对象",
+        "改善日税评日租期",
+        "资本可撤比例与更新"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "永久资本注是作者修订，现代沉没术语只解释。",
+      "evidence_that_would_revise_or_narrow": "不同地方法、沉没程度或合同需修结论；原制度未法条全核。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R19",
+      "chapter_ordinal": 19,
+      "title": "贸易转型损失与临时递减保护",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "转业有真实闲置损失和失业；廉粮总体可能益，但为应急资本逐撤可设限年递减税，不是永护。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6596,
+            6613
+          ],
+          "source_segment_sha256": "d52afc711e73d5f6e7644b66e60a7760dbd8fb2daa670a2878a0a5bdd547d7cc",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The commencement of war after a long peace, or of peace after a long war, generally produces considerable distress in trade. It changes in a great degree the nature of th",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 363,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6644,
+            6673
+          ],
+          "source_segment_sha256": "82b28665949360fd7a6210b3b98dedeb696ae705a79104ff2437f70685fbcde9",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "From contingencies of this kind, though in an inferior degree, even agriculture is not exempted. War, which in a commercial country, interrupts the commerce of states, fr",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 363,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6742,
+            6765
+          ],
+          "source_segment_sha256": "10124a27830bce61d9bbd03d924a06ae1f22beb5afd6edbf382f286d0f19b529",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "owner and the public. He consents to sink that part of his capital which cannot be separated from the land, because with that part which he can take away, he can obtain a",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 363,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6736,
+            6765
+          ],
+          "source_segment_sha256": "e50d1e8f85f49c362b820c6a8854bcfbb86af3f8afc977923d070d8a7ec66bd6",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "This is true, even if the capital cannot be withdrawn from the land, and must be employed there, or not be employed at all: but if great part of the capital could be",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 363,
+          "reviewer_added_evidence_id": "P09-QA-A012",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A012.txt"
+        }
+      ],
+      "author_original_conditions": "资产可转程度、阶段、应急供粮及风险；区分困顿与资本总损。",
+      "required_inputs": [
+        "资产清单和新用途",
+        "就业库存与进口",
+        "过渡时间和成本"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不把长期福利和当前投资者收益混同。",
+      "evidence_that_would_revise_or_narrow": "不能仅事件日期确认暂时或恢复；如果真资本毁掉，维持同价值前提不成立。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R20",
+      "chapter_ordinal": 20,
+      "title": "财富实物与交换价值、旧库存重估",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "同劳动效率提高可增有用品不增新批总价值；旧库存可跌值，水独占与真实水少分别是转移与实物损。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6790,
+            6824
+          ],
+          "source_segment_sha256": "12a717ec83a5d7538a2088af4670e90b9b3bc83559a08dcf02561a734795fc11",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Value then essentially differs from riches, for value depends not on abundance, but on the difficulty or facility of production. The labour of a million of men in manufac",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 377,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6873,
+            6894
+          ],
+          "source_segment_sha256": "6637842a9b44524b90cfe14f16da38b9c8675200a66a99a18474478916322fda",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Let water become scarce, says Lord Lauderdale, and be exclusively possessed by an individual, and you will increase his riches, because water will then have value; and if",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 377,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6931,
+            6962
+          ],
+          "source_segment_sha256": "f02476ade4e9a3159762b61c4efb2df9667efe19d329cedc2f86fc88a46e4ad7",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "From what has been said, it will be seen that the wealth of a country may be increased in two ways: it may be increased by employing a greater portion of revenue in the m",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 377,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            6790,
+            6863
+          ],
+          "source_segment_sha256": "49d416d0dbb4e6a95fc8a7aced1e233c19c38ab3ccbe5fc33259412abdd7cadc",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Value then essentially differs from riches, for value depends not on abundance, but on the difficulty or facility of production. The labour of a million of men in ma",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 377,
+          "reviewer_added_evidence_id": "P09-QA-A013",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A013.txt"
+        }
+      ],
+      "author_original_conditions": "同质可比产物、给定劳动资本；价值量尺无完美真实品。",
+      "required_inputs": [
+        "品质量与数量",
+        "新流量/旧存量",
+        "相对价与支配分配"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不以名义市值增等于社会资源增。",
+      "evidence_that_would_revise_or_narrow": "不同品使用价值难合算，不作统一幸福分数；自然投入若不免费要改条件。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R21",
+      "chapter_ordinal": 21,
+      "title": "长期利润与暂时资金、利息指标分开",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "积累须看必需品和人口条件；法定息非市场息，库存未售可推借款息，政府证券有风险、流动性和偿还条款。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7305,
+            7341
+          ],
+          "source_segment_sha256": "ba50cb4b94d210d2d34be0a4c40353c2c8d36cc0496717c4ad292d84b5e5b83c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Adam Smith has justly observed, that it is extremely difficult to determine the rate of the profits of stock. \"Profit is so fluctuating, that even in a particular trade, ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7343,
+            7364
+          ],
+          "source_segment_sha256": "ea0442e66536fd968343e7bc10a6e53120b1319e20441564b4e7c7f55b737186",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The rate of interest, though ultimately and permanently governed by the rate of profit, is however subject to temporary variations from other causes. With every fluctuati",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7366,
+            7399
+          ],
+          "source_segment_sha256": "c6e09ce1c54efb7531dde4e74235fa5067dd1b7d30323a4de4c45fd8872bce53",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The price of funded property is not a steady criterion by which to judge of the rate of interest. In time of war, the stock market is so loaded by the continual loans of ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10722,
+            10750
+          ],
+          "source_segment_sha256": "cf3cfd79f3db0cc71136a54b48f456f08a3c3bee5340c0b5f0cc2c90b57f3de3",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "  [36] \"All kinds of public loans,\" observes M. Say, \"are   attended with the inconvenience of withdrawing capital, or   portions of capital, from productive employments,",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7122,
+            7159
+          ],
+          "source_segment_sha256": "0b5eddde5362c9968d43b23bed41a3bad0ed6468e0d9f7e9015f65354f00d8c4",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "From the account which has been given of the profits of stock, it will appear, that no accumulation of capital will permanently lower profits, unless there be some p",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "reviewer_added_evidence_id": "P09-QA-A014",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A014.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7207,
+            7221
+          ],
+          "source_segment_sha256": "531158647010be3f2a6a94f590a10608e8f565fb8ce7de2990e6e37a7c21f64f",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "There is only one case, and that will be temporary, in which the accumulation of capital with a low price of food may be attended with a fall of profits; and that is",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 398,
+          "reviewer_added_evidence_id": "P09-QA-A015",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A015.txt"
+        }
+      ],
+      "author_original_conditions": "区分长期利润、短时现金需、信用和证券条款，票据粗收益差保留。",
+      "required_inputs": [
+        "实成交借款费用",
+        "库存与付款时间",
+        "票息价/兑现偿还/风险"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不按一个政府债率估每只股票回报。",
+      "evidence_that_would_revise_or_narrow": "现金持有或资本配置受阻可挑战无限有效需求，良好借款和坏信高息不同比。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R22",
+      "chapter_ordinal": 22,
+      "title": "出口补贴粮价的章内条件修订",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "单位成本不变时补贴主要降低外国价、国内只暂升；若需差地劳动更多，则持续补贴可永久升粮价和租。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7409,
+            7450
+          ],
+          "source_segment_sha256": "3bfc4f49fbed314b8846ac1fef8879cef4e4b556d9d60afcd158631edd8f03d9",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "A bounty on the exportation of corn tends to lower its price to the foreign consumer, but it has no permanent effect on its price in the home market.  Suppose that to aff",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 417,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7491,
+            7504
+          ],
+          "source_segment_sha256": "5ea038b4ed218ac0361c22b497fb4ce089e6d666f519d1680974401a927d0333",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "necessary. In this account of the effects of a bounty, nothing has been supposed to occur to raise the natural price of corn, by which its market price is ultimately gove",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 417,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7716,
+            7768
+          ],
+          "source_segment_sha256": "e19746c86e07da909659666a78dfed25b416cd76c5c6e7d870f914bf90da1c35",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "I have already attempted to shew, that the market price of corn, would, under an increased demand from the effects of a bounty, exceed its natural price, till the requisi",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 417,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "新增供给必要成本、竞争、外国需求及资金来源。",
+      "required_inputs": [
+        "补贴资金和单位",
+        "边际生产随量变化",
+        "内外价格与受益者"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不以一句补贴公告确定产业股收益。",
+      "evidence_that_would_revise_or_narrow": "差地或制造扩产成本变时不能沿开头无永久影响；世界机会损失需替代产出证据。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R23",
+      "chapter_ordinal": 23,
+      "title": "生产补贴封闭与开放经济分开",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "纯国内税补转移可改价与工资不增资源；开放自由贸易时相对价改可重配资本，前结论不再同。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7931,
+            7964
+          ],
+          "source_segment_sha256": "40951881ba357d080c87813b9c3522476b3e586df6eef858d50696cc1c2f75dd",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It may not be uninstructive to consider the effects of a bounty on the _production_ of raw produce and other commodities, with a view to observe the application of the pr",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 449,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7995,
+            8022
+          ],
+          "source_segment_sha256": "371a670695a5facb83e2b1c9d6eba76dcb8e0c752ea6f5044dd0a4b78afe3c41",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Here it will be proper to remark the different effects produced on profits from an alteration in the real labour value of corn, and an alteration in the relative value of",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 449,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8061,
+            8076
+          ],
+          "source_segment_sha256": "588115231ebc818ef41d2d79361700470fa54680539ad99fac31bd84f9bb4842",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "In considering this question, we have purposely left out of our consideration the effect of such a measure on foreign trade; we have rather been supposing the case of an ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 449,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            7974,
+            7993
+          ],
+          "source_segment_sha256": "6622eb811a79fb88d459612d5c1d268a69f0b145a2499108d4b013ef62046319",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Now whether such a measure would have any operation on the wages of labour, would depend on the question, whether the labourer, in purchasing commodities, would pay ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 449,
+          "reviewer_added_evidence_id": "P09-QA-A016",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A016.txt"
+        }
+      ],
+      "author_original_conditions": "先固定封闭国资本、人口和需求，随后明确放松贸易条件。",
+      "required_inputs": [
+        "资金来源/受款方",
+        "消费篮子及成本",
+        "贸易和资本用途"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "真实效率改善与筹钱补价格不能混。",
+      "evidence_that_would_revise_or_narrow": "实际需求或人口、资本变则不维持国家无结果；开放时需新分支。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R24",
+      "chapter_ordinal": 24,
+      "title": "无租边际可以在已有租地的追加资本",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "同地追加可撤资本只得普通回报，可无新增租；煤地按相对优势，主食变化有先退地后需求扩的时间链。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8128,
+            8159
+          ],
+          "source_segment_sha256": "e8070f695733306b31578f09d14df4e4c873fe412a1f12b4b662330ef11acc03",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "were true that England had so far advanced in cultivation, that at this time there were no lands remaining which did not afford a rent, it would be equally true that ther",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 458,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8207,
+            8238
+          ],
+          "source_segment_sha256": "fc5569fab7ab2b9ec04c7ac081a4155b77a40f1c7af558344f8d70113c56f612",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "particular mines which regulated the price of the produce. If the old mines are insufficient to supply the quantity of coal required, the price of coal will rise, and wil",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 458,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8295,
+            8314
+          ],
+          "source_segment_sha256": "013b64a6c30b9f5284777a001586a95940b38949439ad521ee6ee7c002e0383b",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If potatoes were to become the common food of the people, there would be a long interval during which the landlords would suffer an enormous deduction of rent. They would",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 458,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "新增资本可撤，不能覆盖永久改善注；边际需为实际必要而非任意差地。",
+      "required_inputs": [
+        "追加资本用途/可撤",
+        "煤或土地送市场成本",
+        "主食选择与人口"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不按物理亩产最低定全市场价格。",
+      "evidence_that_would_revise_or_narrow": "资产不可分、全部量固定或质量不比，收窄普遍租判断。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R25",
+      "chapter_ordinal": 25,
+      "title": "殖民限制的世界效率与国别得失",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "全球低效可局部益母国而损殖民地；国内自由进入可压超利，进口方仍可能被迫买较高必要价。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8415,
+            8444
+          ],
+          "source_segment_sha256": "c5f5ecc32c2b5347f3b776be6d80f4ca6fcd46df8aeb4d328b752a8b9dfb82d5",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Without affirming or denying, that the actual practice of Europe with regard to their colonies is injurious to the mother countries, I may be permitted to doubt whether a",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 476,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8469,
+            8493
+          ],
+          "source_segment_sha256": "961886ce2e21f3f0e021168cf1cb6a3d7a9c488e94c5468624daae5344801d27",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Let the two nations, between which the commercial treaty is made, be the mother country and her colony, and Adam Smith, it is evident, admits, that a mother country may b",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 476,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8550,
+            8563
+          ],
+          "source_segment_sha256": "b5d31f11b62d34bb2fdd268407a7d72b23c2fb08406e6e581bc3b3bce7cd8863",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is evident then, that the trade with a colony may be so regulated, that it shall at the same time be less beneficial to the colony, and more beneficial to the mother c",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 476,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "强制贸易路径、国内竞争或独家、支付及替代供给；不以经济转移认可压迫。",
+      "required_inputs": [
+        "限制条款与交易路径",
+        "内外竞争入口",
+        "替代成本与金属支付"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不按国家名称作现时政治投资评级。",
+      "evidence_that_would_revise_or_narrow": "自由进入不实、权利和分配主体不等同，不能维持个人与国家自动同益。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R26",
+      "chapter_ordinal": 26,
+      "title": "净余与就业总额及贸易比较边界",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "同净租利润下多总劳动不必增加税力；苏英各改外贸不必使原国内两笔资本消失，不能只比一半交易。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8656,
+            8695
+          ],
+          "source_segment_sha256": "48c51a9de930298eff2c4b5758d3d867f19e895dd8cc5ba8bfd6a19cc15450bd",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Granting for a moment that this were true; what would be the advantage resulting to a country from the employment of a great quantity of productive labour, if, whether it",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 491,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8732,
+            8749
+          ],
+          "source_segment_sha256": "4cf362f2f5032b874d01f848850a3788fd316781d22607f28cc49637101f7c4f",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "This argument appears to me to be fallacious; for though two capitals, one Portuguese and one English, be employed, as Dr. Smith supposes, still a capital will be employe",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 491,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "净口径扣温和必要工资，税力不是人口幸福，国内资本合计同条件比较。",
+      "required_inputs": [
+        "毛产品与必要费用",
+        "租利润净口径",
+        "贸易双方资本去向"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不把历史net revenue当现代净国民收入。",
+      "evidence_that_would_revise_or_narrow": "现代工资储蓄、公共服务等目标不同，须声明口径而非偷换。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R27",
+      "chapter_ordinal": 27,
+      "title": "发行、标准、兑现和银行功能的条件",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "纸量受标准与兑现检验可替昂贵币，发行利益在国家或银行分配；双金属债务选择较便宜合法币，铸费有兑付灰区。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8795,
+            8820
+          ],
+          "source_segment_sha256": "d27d0ea466ed2495d424ef33f63c6efd17eb9132fdf22dc116dd3a5060e6df94",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is on this principle that paper money circulates: the whole charge for paper money may be considered as seignorage. Though it has no intrinsic value, yet, by limiting ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8874,
+            8911
+          ],
+          "source_segment_sha256": "e94554628d32e43b2a779469556a439ad382aa39449d8649b6187c8278e0b9be",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Experience however shews, that neither a state nor a bank ever have had the unrestricted power of issuing paper money, without abusing that power: in all states, therefor",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9071,
+            9089
+          ],
+          "source_segment_sha256": "0a2913bdc470795902f58e0f6f192e6a6a3c2e51409551e7499c6391fa358a32",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "If now gold be also made a legal tender, and every debtor be at liberty to discharge a debt by the payment of 420 shillings, or twenty guineas, for every 21_l._ that he o",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9183,
+            9206
+          ],
+          "source_segment_sha256": "2cc6d77c2fca7096dea806a58f82cd7ea5204f7692fd4b6cb606ca1daef1787e",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "To a moderate seignorage on the coinage of money there cannot be much objection, particularly on that currency which is to effect the smaller payments. Money is generally",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            8867,
+            8872
+          ],
+          "source_segment_sha256": "099a201e25d95068156127cf889f8ffa632ae059a3d748835f5d971420f0bb3b",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Dr. Smith appears to have forgotten his own principle, in his argument on colony currency. Instead of ascribing the depreciation of that paper to its too great abund",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "reviewer_added_evidence_id": "P09-QA-A017",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A017.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9013,
+            9024
+          ],
+          "source_segment_sha256": "d2dd3e8d867898c537e4ca279abc06e0d2acc2505b9953c0fb8cbaaebaefeb7a",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The whole business, which the whole community can carry on, depends on the quantity of capital, that is, of its raw material, machinery, food, vessels, &c., employed",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 499,
+          "reviewer_added_evidence_id": "P09-QA-A018",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A018.txt"
+        }
+      ],
+      "author_original_conditions": "数量和总发行者、金或金条标准、可兑现及法定币条款；若无滥发保障，结论受限。",
+      "required_inputs": [
+        "总币量与用途",
+        "兑付对象与铸费",
+        "信用/贷款/制度条款"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不把理论金本位替作现行货币法或银行安全结论。",
+      "evidence_that_would_revise_or_narrow": "期限纸券同现金和银行不影响真实配置是强命题，信用或中介证据可收窄。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R28",
+      "chapter_ordinal": 28,
+      "title": "贵便宜必须指定比较媒介与供给",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "金对粮和对布可不同方向；贫穷而当地粮供不变与实际供粮中断是不同条件，粮支配劳动多不必钱价高。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9293,
+            9331
+          ],
+          "source_segment_sha256": "2fb23d2df7f3d3307ba02b865fce404ae6320564489e8f58457ca06d586c0339",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "To me it appears, that the very reverse would take place: the diminished power of the Dutch or Genoese to purchase generally, might depress the price of corn for a time b",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 527,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9333,
+            9349
+          ],
+          "source_segment_sha256": "1cae12f29eb2ebe64dadcb33a50309784c652b16301faafe4b05109230ced856",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "When we speak of the high or low value of gold, silver, or any other commodity in different countries, we should always mention some medium in which we are estimating the",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 527,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "同品、同币制、实际量和购买力；国别旧概括未实证。",
+      "required_inputs": [
+        "报价币/品质/篮子",
+        "到货与本地供应",
+        "收入与信用"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不据平均粮价低证明每户足吃。",
+      "evidence_that_would_revise_or_narrow": "供给确少或交易路径断时不能用不涨价的反例否定困境。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R29",
+      "chapter_ordinal": 29,
+      "title": "垫税利息看占用时间非经手人数",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "提前垫税需资金，晚付有时间价值；同税经五或五十手不意味着每手都加全年一成。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9403,
+            9442
+          ],
+          "source_segment_sha256": "277008c9a2ed1307d2be4726e77cac1affbdb309ee373b4087b7e0028a31c420",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "M. Say greatly magnifies the inconveniences which result if a tax on a manufactured commodity is levied at an early, rather than at a late period of its manufacture. The ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 538,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9444,
+            9461
+          ],
+          "source_segment_sha256": "907de11a714db35a5ab4c2e5a29914116458e13557eb72d241cf9d8d47b23a88",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "M. Simonde, in his excellent work, _De la Richesse Commerciale_, following the same line of argument as M. Say, has calculated that a tax of 4000 francs, paid originally ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 538,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "真实资金时间与利率、政府资金需要，6734总数未解。",
+      "required_inputs": [
+        "垫付交接销售日",
+        "税本金和新增费用",
+        "各方实借率/风险"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "现代现金流只作为检验，不给现行税支付方案。",
+      "evidence_that_would_revise_or_narrow": "五/六次一成都不合6734，不定哪层错；有新费用或不同风险需分。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R30",
+      "chapter_ordinal": 30,
+      "title": "供需的短期与成本长期及术语",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "供需可暂动市价，可竞争适度增供品最终有成本约束；垄断另论，实际买量不增而币值变仍可价变。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9471,
+            9505
+          ],
+          "source_segment_sha256": "ef1e473644a16b5a04688bee51087c19420bc25e461be9299e561db957e27364",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is the cost of production which must ultimately regulate the price of commodities, and not, as has been often said, the proportion between the supply and demand: the p",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 542,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9559,
+            9582
+          ],
+          "source_segment_sha256": "f205cd42b07baae192ef62efb43b317d7d2cdaf2598c1430ae157c9c7406c910",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "This is true of monopolized commodities, and indeed of the market price of all other commodities for a limited period. If the demand for hats should be doubled, the price",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 542,
+          "portable_source_file": "source/original.txt"
+        }
+      ],
+      "author_original_conditions": "需求词义、币值、供给可增和竞争入口；最终未有固定日数。",
+      "required_inputs": [
+        "必要成本与品质",
+        "购买量/支付意愿",
+        "竞争与可增供应及时间"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "不建买人数除卖数量的股票定价程序。",
+      "evidence_that_would_revise_or_narrow": "持续可验证的进入和成本资料不合时收窄，不能无限推迟证伪。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    },
+    {
+      "id": "P09-R31",
+      "chapter_ordinal": 31,
+      "title": "租、人口、真实价术语与固定国债的修订",
+      "layer": "original_author_with_explicit_source_conditions",
+      "author_claim_paraphrase": "租增值非实物新生；高工资人口不必增，真实价与生产成本用语需分；廉粮不使所有价和净税力同比落。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9637,
+            9658
+          ],
+          "source_segment_sha256": "c5ae7183feaf2a97e6a6ac8f82a549722d06196b4b41d545eae56ca6f6ad6827",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "I have already expressed my opinion on this subject in treating of rent, and have now only further to add, that rent is a creation of value, as I understand that word, bu",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            9801,
+            9822
+          ],
+          "source_segment_sha256": "9ed82d543aca129d4e7d90c5c23323c13b80783380b98360df4cce46b783e386",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "It is by giving the workman more money, or any other commodity in which wages are paid, and which has not fallen in value, that his situation is improved. The increase of",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10970,
+            10978
+          ],
+          "source_segment_sha256": "36b313111fcc124d8e364dbfa1668cf718381d3d3087c14c605e7c6f32001122",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "  [59] Upon shewing this passage to Mr. Malthus, at the time   when these papers were going to the press, he observed,   \"that in these two instances he had inadvertently",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10066,
+            10082
+          ],
+          "source_segment_sha256": "f7987afc0876473c425f82d0eecc7fa21f9e16ba0b893c173afbd1669c01fd60",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "Mr. Malthus, having acknowledged this principle, cannot, I think, consistently maintain that the whole money value of all the commodities in the country must sink exactly",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10169,
+            10201
+          ],
+          "source_segment_sha256": "3b4d544fe1d470ac0bc3e63a0465300198dbb8ed3da02e7daacaa8fa1a7d92eb",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "But, if it did, it must not be supposed that the ability to pay taxes will diminish in the same degree, as the money value, even of the net revenue. Suppose that my net r",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "portable_source_file": "source/original.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10129,
+            10144
+          ],
+          "source_segment_sha256": "c2b55d2a5eea0b247b02bdb88ff801b99e464a5136931081fedcd9cdf1c9245c",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "The whole argument, however, of Mr. Malthus, is built on an infirm basis: it supposes, because the gross income of the country is diminished, that, therefore, the ne",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "reviewer_added_evidence_id": "P09-QA-A019",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A019.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10981,
+            10987
+          ],
+          "source_segment_sha256": "080eae15283df02f7aabfe0834add10d1c7c0624b14860a8fcc170cdc1e1dc02",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "  [61] Manufactures, indeed, could not fall in any such   proportion, because, under the circumstances supposed,   there would be a new distribution of the precious ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "reviewer_added_evidence_id": "P09-QA-A020",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A020.txt"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+          "source_global_lines_inclusive": [
+            10999,
+            11003
+          ],
+          "source_segment_sha256": "0051540480fc6f57ed12ff6005f08dfe5f14171fdf3f819a196563ccab49349d",
+          "hash_method": "原始文件逐行字节含原CRLF，区间含首尾，直接拼接",
+          "excerpt_for_location": "  [65] This is on the supposition that money continued at   the same value. In the last note, I have endeavoured to   shew that money would not continue of the same ",
+          "precise_printed_page_independently_verified": false,
+          "chapter_printed_start_from_original_contents": 549,
+          "reviewer_added_evidence_id": "P09-QA-A021",
+          "portable_source_file": "source/original.txt",
+          "evidence_file": "source/evidence/P09-QA-A021.txt"
+        }
+      ],
+      "author_original_conditions": "固定需求、相对肥力、工资人口选择、固定币值或后续金入修订；税篮子和债权性质。",
+      "required_inputs": [
+        "物量/成本/租分配",
+        "工资人口和新增需求",
+        "债权条款税篮子币值"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_interpretation_separate": "固定国债持有人不等同现代所有股票持有人，别用低粮价推总财富一列。",
+      "evidence_that_would_revise_or_narrow": "麦卡洛克调息为外部质疑，不作现行方案；真实价术语原冲突和数据未核。",
+      "current_stock_decision_enabled": false,
+      "unverified_historical_numbers_allowed_in_experiment": false
+    }
+  ],
+  "rule_count": 31,
+  "required_inputs_by_rule": true,
+  "global_abstain_conditions": [
+    "资料不齐且问题要求定量确定结论",
+    "未核设例充当真实数据",
+    "币值/品质/主体/时间混口径",
+    "来源内部数字或条件冲突用于定量分支",
+    "把1817册说成1821或所有引书已读"
+  ],
+  "modern_extensions_not_author_rules": [
+    "现代资产和信用口径的资料清单",
+    "机会成本/现金流的解释性复算",
+    "对进入、控制、公共服务和分配的独立质疑"
+  ],
+  "coverage_qualified": true,
+  "book_semantic_reading_completed": true,
+  "full_reading_completed": false,
+  "all_scan_words_visually_verified": false,
+  "historical_numbers_all_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_sha256": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+  "source_numeric_limits_files": [
+    "work/book-experts-v5/index_team/P09/source/ch01-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch06-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch11-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch15-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch16-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch21-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch29-source-limits.json"
+  ],
+  "independent_QA_file": "独立复核.json",
+  "rule_evidence_segment_count": 101,
+  "content_peer_confirmation": "independent-review/P09-final-merge-verification.json"
+}

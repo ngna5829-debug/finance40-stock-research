@@ -1,0 +1,255 @@
+{
+  "book_id": "P09",
+  "status": "passed_with_source_limits",
+  "pending_final_peer_hash_confirmation": false,
+  "peer_QA": "independent-review/P09-independent-QA.json",
+  "peer_QA_SHA256": "d55f110afbde7b7ee4f8337d5744ec394ec70d72d706a01015357d324f194f1b",
+  "root_scope": {
+    "six_changed_original_global_ranges_actually_read": [
+      [
+        677,
+        692
+      ],
+      [
+        4890,
+        4921
+      ],
+      [
+        8931,
+        8936
+      ],
+      [
+        8889,
+        8911
+      ],
+      [
+        10970,
+        10978
+      ],
+      [
+        10090,
+        10101
+      ]
+    ],
+    "all_four_changed_chinese_dossiers_actually_read": [
+      1,
+      14,
+      27,
+      31
+    ],
+    "whole_synthesis_and_explainer_actually_read": true,
+    "original_unchanged_semantic_rule_fields_in_changed_chapters_actually_read": [
+      1,
+      14,
+      27,
+      31
+    ],
+    "root_did_not_reread_all31_whole_original_chapters": true,
+    "full_book_source_all_dossiers_all_rules_and_front_back_independent_reader": "practical_books",
+    "no_original_scan_was_available": true,
+    "all_glyphs_proofread": false
+  },
+  "all31_original_chapters_all66_notes_all31_rules_whole_independent_review_complete": true,
+  "six_corrections": [
+    {
+      "chapter": 1,
+      "file": "chapters/ch01.md",
+      "kind": "profit_rate_level_unit",
+      "old": "他把十个百分点条件下合计年度销售额写成约一百二十六点二七镑。",
+      "new": "他把利润率为百分之十时的合计年度销售额写成约一百二十六点二七镑。",
+      "basis_global_lines": [
+        677,
+        692
+      ],
+      "reason": "10% is givenprofitrate level, notdifference10percentagepoints; model total126.27unchanged.",
+      "original_draft_sha256": "a9c629c3f1c66e5f7bd343e1df36397d4a618326cc601d72c5f3b1ea1a3b36ff"
+    },
+    {
+      "chapter": 14,
+      "file": "chapters/ch14.md",
+      "kind": "quotation_attribution_precision",
+      "old": "斯密原引文说，普通情形下可推住户立即且最后付全税；",
+      "new": "原文在引述斯密之后说，普通情形下可推住户立即且最后付全税；",
+      "basis_global_lines": [
+        4890,
+        4921
+      ],
+      "reason": "Electronic text closes Smith quotation at fashion; ordinary incidence statement follows outside quotation. Avoid attributing the unquoted sentence to Smith as a direct original quotation, while preserving proposition; no original scan acquired.",
+      "original_draft_sha256": "d630efc451fe12f436232c3ca9777c6752f508dd322899532d98bfbddf00895f"
+    },
+    {
+      "chapter": 27,
+      "file": "chapters/ch27.md",
+      "kind": "commissioner_minister_control_direction_precision",
+      "old": "专制政府下异议重，自由且立法明智时可让专门委员、独立部长控制、持券者随时要求兑现。",
+      "new": "专制政府下异议重，自由且立法明智时可由专门委员管理，委员完全独立于部长的控制，持券者可随时要求兑现。",
+      "basis_global_lines": [
+        8931,
+        8936
+      ],
+      "reason": "Author explicitly commissioners totally independent of ministerial control; current compressed Chinese can imply an independent minister controls the issuance.",
+      "original_draft_sha256": "351d83ce7b84b2a6b893897dd6629223162de05f2c6c91325a01d14fa33de936"
+    },
+    {
+      "chapter": 27,
+      "file": "chapters/ch27.md",
+      "kind": "seven_percent_annual_rate_unambiguous_unit",
+      "old": "银行同样发而贷政府七厘，每年七万税转给银行。",
+      "new": "银行同样发而以百分之七的年利率贷给政府，每年七万税转给银行。",
+      "basis_global_lines": [
+        8889,
+        8911
+      ],
+      "reason": "Source million ×7% per annum =70000. Chinese 七厘 is ambiguous across historic period conventions; spell annual7% explicitly, unchanged amounts.",
+      "original_draft_sha256": "351d83ce7b84b2a6b893897dd6629223162de05f2c6c91325a01d14fa33de936"
+    },
+    {
+      "chapter": 31,
+      "file": "chapters/ch31.md",
+      "kind": "Malthus_note59_term_substitution_direction",
+      "old": "对方说两处不慎将真实价格写成本；李嘉图认为那两处恰是正确意义，前处才误。",
+      "new": "对方说两处不慎用了“真实价格”，原应写“生产成本”；李嘉图认为那两处恰是正确意义，前处才误。",
+      "basis_global_lines": [
+        10970,
+        10978
+      ],
+      "reason": "Original Malthus says inadvertently used real price instead of cost of production, not cost instead of real price. Preserve Ricardo disagreement, do not reconcile authors.",
+      "original_draft_sha256": "b48fb3d848b50bdf308335cb5e64c0088a4150324571900f4f8cc0444f3c2d02"
+    },
+    {
+      "chapter": 31,
+      "file": "chapters/ch31.md",
+      "kind": "Malthus_annual_percentage_rate_and_last_two_hundred_million_scope",
+      "old": "马尔萨斯列一七九四至一八一三二十年粮平均约八十三先令、末十年九十二、末五年一百零八，近五亿实际借款平均五厘；若粮五十、其他价同比低，固定息真实负担可变七八九十厘。",
+      "new": "马尔萨斯列一七九四至一八一三二十年粮平均约八十三先令、末十年九十二、末五年一百零八，近五亿实际借款平均年利率约百分之五；若粮五十、其他价同比低，固定利息的真实负担相当于年利率百分之七、八、九，而最后两亿相当于百分之十。",
+      "basis_global_lines": [
+        10090,
+        10101
+      ],
+      "reason": "Spell source per-cent rate levels rather than historically variable Chinese 厘 notation; source ten-percent equivalent specifically last200million, not all500million; underlying historical figures remain unverified quotation.",
+      "original_draft_sha256": "b48fb3d848b50bdf308335cb5e64c0088a4150324571900f4f8cc0444f3c2d02"
+    }
+  ],
+  "body_han_counts": [
+    3138,
+    2936,
+    2145,
+    2136,
+    2847,
+    2726,
+    3074,
+    2112,
+    2565,
+    2085,
+    2175,
+    2574,
+    2480,
+    2267,
+    2534,
+    3130,
+    2774,
+    2307,
+    2418,
+    2589,
+    2635,
+    2487,
+    2307,
+    2326,
+    2336,
+    2284,
+    2762,
+    2208,
+    2113,
+    2233,
+    3109
+  ],
+  "body_han_total": 77812,
+  "minimum_chapter_han": 2085,
+  "rule_count": 31,
+  "original_old80_evidence_segments_preserved": true,
+  "added_full_original_contexts": 21,
+  "all101_exact_raw_CRLF_source_evidence_checks": true,
+  "exact_original_scanned_page_numbers_verified": false,
+  "raw_source_integrity": {
+    "source/ch16-source-limits.json": "60349ade88c82d35dceefc4768416022c9a1118b189d1650b5a07107097e507c",
+    "source/ch08-original.txt": "ff1474ca24269b92cf38d1dacb7dd86cc4365dcee702b7377aeef4f5c106b9af",
+    "source/ch26-notes.txt": "c1337bcfa50038b2a4400af2ac521e7a3501f863249522482cb610b88c57224c",
+    "source/ch07-notes.txt": "73e8a1c3dc51a6b366fbb73a2b0fee1346b405e06337051ce8063212cbdcb720",
+    "source/original.txt": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+    "source/ch13-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch18-notes.txt": "edb3442a71f4e7936fed7bf2e6cdf4ce7986fc19ecd4ad31bc086e3f02189b25",
+    "source/ch01-notes.txt": "01ff2dbcd6c786c1d9addb1466cab7ab83cc52decf6b465d680233e1d6ce9baa",
+    "source/ch15-source-limits.json": "7304c3117da09451e68ed132b146ca3b94a7bc2c0b8529cfd3e90c181cf34f94",
+    "source/ch15-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch09-original.txt": "3957b9f48eeb0921b886f60191857789859bcd6677a863945bf4e4053701b2b8",
+    "source/ch20-notes.txt": "6fb54ddb8c0d4747ed0f0d042cdc4c98a943831006e2e6920f543fbb08e8280c",
+    "source/ch04-original.txt": "d2362021782e70f39837f86bee04971ba4ce2237396abe5285d8e090e040c9d3",
+    "source/ch03-original.txt": "72447f1b37945375ec31042109523ff715d5db94fc4ee6199869c51d2f88edd6",
+    "source/ch16-original.txt": "ac1a9764be1b413dac935918921a67401ce231461542ecb29efc5e30f4993132",
+    "source/ch11-original.txt": "40583db7b8f3f29f059433970c41fad8659966f6277d97e427e9636dcc98447c",
+    "source/ch27-original.txt": "db747a9886b00c59a55e66dfdf0e77427203f28fe55093ce1f49854588515e0a",
+    "source/ch20-original.txt": "f9e41c82ad42cbcf66cc07cd7e27a784656c5e501d56d6b1348d695d91183d7a",
+    "source/ch27-notes.txt": "e8d735656ab1e9c24bb424721b7000a3f3266e6b6781919ff73de35042fd3d0d",
+    "source/ch12-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch06-arithmetic-notes.json": "131797f7b1e1485e20290197eb8f57fcfb46d44f9d5801a1e6cee75b21fc269a",
+    "source/ch06-notes.txt": "9f6e35b1b0a3d5ee1cf20204aa2094a23d3ca8859233fe21054b010930a749de",
+    "source/ch10-original.txt": "b440ebcac2330a05f6df8729ca46534980898508d22c72dd6fa02c399f981cde",
+    "source/ch19-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch17-original.txt": "d0856c5a0b36386b24f8705c186436350075f81425c679d6809dfb9a76207b1c",
+    "source/ch02-original.txt": "13843bf7fc456382402ddb26a2d7c395ef2281c255d8b4260d7002b343f529fd",
+    "source/ch05-original.txt": "c5ee5a888b77c05f723233489071ea007bb2632e2e5657175c904877391bb506",
+    "source/ch14-notes.txt": "be8a5beb2e342496de90b65c17842a1afa08a47fd93e68be5a4d432b6455e21c",
+    "source/ch21-notes.txt": "57b0398b031f0afe4f6fa0674d81e9d6b58af7719ff9c769f728230f5b5cc62b",
+    "source/ch21-original.txt": "548d4492fcd9e3d1eaccf03c3c63b286d4c3ccd9e0c4048eaf4ec17d6f19546d",
+    "source/ch26-original.txt": "ce8237c682553596df5fd9afde7ca2d42492ce3e1da5e99f2eba786179804756",
+    "source/ch08-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch15-original.txt": "6368ae2bf3da918098beeb6d37c579e7e54df8400f7448bb8d9ce04966e369f6",
+    "source/ch12-original.txt": "15d6d9781076b5d983f3a49926729985ef7d5c3c7cb31108ee39c37f0124321d",
+    "source/ch21-source-limits.json": "aa826dc9463090ca5b13095fafe39ac3d0e1422c14a59338e3b9f182f8ad6d46",
+    "source/ch07-original.txt": "7dd60c517c41a793b8fce83f605114ba40cb88a4b1e7479d4aa03b12fb18eda0",
+    "source/ch29-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch05-notes.txt": "40acd627f7e35111eae896b90f5b46d2fb5bf364f039cde40eff5991d58a5b29",
+    "source/ch11-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch11-source-limits.json": "6089ea45bd7a0ee22c4ad382df499f0a7048f045cf7a31c9fb8b144ece6f2832",
+    "source/ch31-original.txt": "9eae7efe8ea44a30d65f211f2e7b30da5f6a657622625570a7cfbbe81d418fb1",
+    "source/ch30-notes.txt": "d748a731d278f17ab28f3e3baf0a6850bbe2224ffe696b873d85a6b3e0c0c64b",
+    "source/ch24-original.txt": "3252a4e81969170e08f946e16be17b8f238a23bad9758a964548af1e029211af",
+    "source/ch23-original.txt": "5e5d082774d224d007e85219f4e2f2b8e4955d7598cbdcf6eb41c6ca52bbf185",
+    "source/ch24-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch01-original.txt": "1ab3e23a861770f01dc50a99e4f5b9ce14649d70985b0db1014bd1d26e08c93c",
+    "source/ch06-original.txt": "ac286e0b848d800c675bd9f17b457f3d06eae2f46109e0d6152ac5752703974b",
+    "source/ch13-original.txt": "ecea060d960efa75d6d51bfd5a98ec36f6514b6a674927bfc5d9d383da9878a5",
+    "source/ch14-original.txt": "e273ae964d5675f95f8be5bd93638838f4235442b88c15220e08f10f1ec66385",
+    "source/ch01-arithmetic-notes.json": "9f3707ebe15aeb27dcfb3d8c3e0dd886889bbc3880f00d76a882c14eaa44ed4f",
+    "source/ch22-original.txt": "95e3894643a2a87cdd1832da1a2bb509069803e237fe2b0367eb0836117d3a8b",
+    "source/ch22-notes.txt": "a497537ae54b14800bd4ee4001e0a04fc7e8de36bdba55531c8111487ceb62fa",
+    "source/ch25-original.txt": "749263a3a64b1bf879c0f4fe0df3039f6edaee863e52f1f2b1de1d53ed558184",
+    "source/ch03-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch30-original.txt": "9c4a1cfdfd990702de8027fca6087a2567964261e583d7dc3224032507b573f2",
+    "source/ch17-notes.txt": "b3d0dccedd917eeca45a88484a4e1e0266a671806f9898432e8a331a5def4d23",
+    "source/ch29-source-limits.json": "6a7845c5adeb34b0bf06aa43631e94c9b0f9b61987e12623e2be88fb87a526b2",
+    "source/ch09-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch28-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch28-original.txt": "edec91dcdfa94a66f60202db4fb609cc7325ba1ec063737772a3351ec08a3103",
+    "source/ch10-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch19-original.txt": "75faa8cf90f457b9e87fde4bb380bc96213f9763ce813b2b44e3541e51fd415a",
+    "source/ch04-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch25-notes.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+    "source/ch31-notes.txt": "d9c235e252e8808031fb5d0f0861de6ea72df88c992ad4613e478718dae7b12a",
+    "source/ch29-original.txt": "dbf5f23366d72172f2d8c7c6cad8970c68c845fc34b4ca8a5c2a85b5a8c96215",
+    "source/retrieval-secondary.json": "dfecc9e9cbf627090dccd0f24bb9696ea8995f34a6279fb7d04641b77eca11fa",
+    "source/ch23-notes.txt": "330b0414a102f07cfdbb2801d7c9ef0637429aeceae23da10297cda46cfddec7",
+    "source/ch16-notes.txt": "b56c23e63fa69a62650d1f5ba7198f1c70b7f0cf92ee95220ff531936a58045b",
+    "source/ch18-original.txt": "50f9e0d2fce2274692eded024891d691331d55139a322a2b9033f302cd48f12e",
+    "source/ch02-notes.txt": "efa4edbb61e7985b4e966a6051f38242454c792a51e2a527b0e17a17fb17b18b"
+  },
+  "expert_SHA256": "75736bb19a43eeabfd28a5bfe446f362cbde4d4106a549facb1bd44dd21262d4",
+  "audit_SHA256": "364e84c21c4fbf8de92dfb49af9c5e5a8c8b5cb26de09af09737ea082af5aab0",
+  "all_original_scan_glyphs_verified": false,
+  "current_stock_decisions": false,
+  "actual_models_or_investment_experiments": 0,
+  "calibrated_predictive_probability": false,
+  "updated_utc": "2026-10-13T14:38:06.027341+00:00",
+  "content_peer_confirmation": "independent-review/P09-final-merge-verification.json",
+  "final_status_hash_confirmation": "recorded_separately_in_peer_final_status_confirmation"
+}

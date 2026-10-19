@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0",
+  "book_id": "P28",
+  "completed_at_utc": "2026-10-12T06:41:19.979172+00:00",
+  "title_en": "How to Invest Money",
+  "author": "George Garr Henry",
+  "publication_year": 1908,
+  "official_catalog_url": "https://www.gutenberg.org/ebooks/34463",
+  "source_sha256": "8f06977f09a5146f8d28f93998b9468cae9c1a27a2363e52d9336488982f5691",
+  "complete_source_downloaded": true,
+  "source_start_and_end_markers_verified": true,
+  "original_toc_and_chapter_body_count_match": true,
+  "chapter_count": 9,
+  "total_original_chapter_english_words": 20857,
+  "full_original_text_semantic_reading_completed": true,
+  "all_chapter_dossiers_complete": true,
+  "each_chapter_body_han_minimum": 2000,
+  "book_body_han_minimum": 20000,
+  "body_han_total_excluding_headings_and_metadata": 21435,
+  "count_method_zh": "逐文件排除所有#标题行及原章元数据行，再仅统计U+4E00至U+9FFF汉字；英文、数字、标点不计。",
+  "chapters": [
+    {
+      "roman": "I",
+      "start_line": 124,
+      "title": "GENERAL PRINCIPLES OF INVESTMENT",
+      "end_line": 417,
+      "source_words": 2974,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 1,
+      "print_pages": [
+        7,
+        22
+      ],
+      "dossier_file": "chapters/ch01.md",
+      "body_han_count": 2397,
+      "dossier_sha256": "9bce14087627acbb21c640e26fa3a64ef76b1bb15ebbe558f018278527a705eb",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "II",
+      "start_line": 418,
+      "title": "RAILROAD MORTGAGE BONDS",
+      "end_line": 761,
+      "source_words": 3199,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 2,
+      "print_pages": [
+        23,
+        39
+      ],
+      "dossier_file": "chapters/ch02.md",
+      "body_han_count": 2456,
+      "dossier_sha256": "ac958ccf37824a5c9ce08ba8b0434917f9a421e891a0443bf2757c9a7ded6adc",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "III",
+      "start_line": 762,
+      "title": "RAILROAD EQUIPMENT BONDS",
+      "end_line": 972,
+      "source_words": 2011,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 3,
+      "print_pages": [
+        40,
+        50
+      ],
+      "dossier_file": "chapters/ch03.md",
+      "body_han_count": 2397,
+      "dossier_sha256": "c2caac91d2ec10f2b8e589c10597fd2e14579ed98874ae56849933afe039177a",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "IV",
+      "start_line": 973,
+      "title": "REAL-ESTATE MORTGAGES",
+      "end_line": 1201,
+      "source_words": 2142,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 4,
+      "print_pages": [
+        51,
+        62
+      ],
+      "dossier_file": "chapters/ch04.md",
+      "body_han_count": 2405,
+      "dossier_sha256": "475240921af74505426fb9687def9d0d2d2ccedbf423e82f84b71e784115fbc8",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "V",
+      "start_line": 1202,
+      "title": "INDUSTRIAL BONDS",
+      "end_line": 1449,
+      "source_words": 2270,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 5,
+      "print_pages": [
+        63,
+        75
+      ],
+      "dossier_file": "chapters/ch05.md",
+      "body_han_count": 2411,
+      "dossier_sha256": "b3cd41017dbd12d1368b786950328eddab8ea04d52c635b00c13ef93e670606b",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "VI",
+      "start_line": 1450,
+      "title": "PUBLIC-UTILITY BONDS",
+      "end_line": 1732,
+      "source_words": 2597,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 6,
+      "print_pages": [
+        76,
+        90
+      ],
+      "dossier_file": "chapters/ch06.md",
+      "body_han_count": 2301,
+      "dossier_sha256": "b45328544fad8798ebd5c3a6c0fc7fd7e0a7ce5606671b422dab50de85ef9d70",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "VII",
+      "start_line": 1733,
+      "title": "MUNICIPAL BONDS",
+      "end_line": 1902,
+      "source_words": 1650,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 7,
+      "print_pages": [
+        91,
+        99
+      ],
+      "dossier_file": "chapters/ch07.md",
+      "body_han_count": 2207,
+      "dossier_sha256": "39b5a77c6ac99d32d6975c6d577e87a2c208a2fa95d22860fc992cf69b7de718",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "VIII",
+      "start_line": 1903,
+      "title": "STOCKS",
+      "end_line": 2039,
+      "source_words": 1399,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 8,
+      "print_pages": [
+        100,
+        107
+      ],
+      "dossier_file": "chapters/ch08.md",
+      "body_han_count": 2379,
+      "dossier_sha256": "50401405d807e05943914b1e1c051101eebc63b9fc6c7cda1c475f19572ca8b7",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    },
+    {
+      "roman": "IX",
+      "start_line": 2040,
+      "title": "MARKET MOVEMENTS OF SECURITIES",
+      "end_line": 2293,
+      "source_words": 2615,
+      "semantic_reading_completed": true,
+      "dossier_completed": true,
+      "chapter_number": 9,
+      "print_pages": [
+        108,
+        121
+      ],
+      "dossier_file": "chapters/ch09.md",
+      "body_han_count": 2482,
+      "dossier_sha256": "ec44662de9f1af0a01d94a04bf99a42aa43353987d27b4d6f3ca9a98bf4a5493",
+      "read_scope": "complete_chapter_original_text_not_toc_or_samples",
+      "author_vs_modern_analysis_separated": true
+    }
+  ],
+  "front_and_back_matter": [
+    {
+      "item": "书名页/版权/目录/前言",
+      "source_lines": [
+        1,
+        123
+      ],
+      "read_completed": true,
+      "finding_zh": "1908年4月出版，九章及前言；作者说明部分材料来自System杂志并整理成独立出版物。"
+    },
+    {
+      "item": "校订说明",
+      "source_lines": [
+        2299,
+        2301
+      ],
+      "read_completed": true,
+      "finding_zh": "保留原拼写，仅emphasied改为emphasized；不算第九章作者正文。"
+    },
+    {
+      "item": "PG完整许可与后置说明",
+      "source_lines": [
+        2311,
+        2661
+      ],
+      "read_completed": true,
+      "preserved_in_full_source": true,
+      "separate_file": "source/PG许可.txt"
+    }
+  ],
+  "images": [
+    {
+      "file": "source/images/icover.jpg",
+      "url": "https://www.gutenberg.org/cache/epub/34463/images/icover.jpg",
+      "sha256": "4e75b1e37710e4036ace40a3d93f4f1fc4738642afae3c3b0a0b011ce641889b",
+      "visually_reviewed": true,
+      "interpretation_zh": "已目视：封面显示How to Invest Money及George Garr Henry，没有金融表格。"
+    },
+    {
+      "file": "source/images/i001.jpg",
+      "url": "https://www.gutenberg.org/cache/epub/34463/images/i001.jpg",
+      "sha256": "4b737e59eb90afa365b773e400b2eac0cb230ff8ac19fcff955a314b3bfcba92",
+      "visually_reviewed": true,
+      "interpretation_zh": "已目视：小型出版标志，没有金融数字或论证图。"
+    }
+  ],
+  "numeric_table_audit": [
+    {
+      "chapter": 2,
+      "source_lines": [
+        674,
+        683
+      ],
+      "read_completed": true,
+      "rows": [
+        "Pennsylvania",
+        "New York Central",
+        "Illinois Central",
+        "Great Northern",
+        "Union Pacific"
+      ],
+      "historical_not_current": true
+    },
+    {
+      "chapter": 2,
+      "source_lines": [
+        446,
+        458
+      ],
+      "read_completed": true,
+      "finding_zh": "6%票息、八年、110¾价格、约4.40%收益基础；只作历史算例。"
+    },
+    {
+      "chapter": 3,
+      "source_lines": [
+        927,
+        959
+      ],
+      "read_completed": true,
+      "finding_zh": "100000本金、三年与十年债、出售约99与93¾；历史假设而非预测。"
+    },
+    {
+      "chapter": 4,
+      "source_lines": [
+        1167,
+        1183
+      ],
+      "read_completed": true,
+      "finding_zh": "保证人5%资本相对于60000贷款的约3000支持；不是每笔隔离准备金。"
+    }
+  ],
+  "display_truncation_handled_zh": "首次合并阅读输出截断处重新读入第360—460行；第5章单独完整重新读入；第7章1880—1902行补读恢复全部文字。不以截断输出声称覆盖。",
+  "unresolved_original_text_gaps": [],
+  "qualifications_zh": [
+    "完整阅读结论限已取得的PG完整校本文；未取得原版全页扫描，不声称逐扫描字形校勘。",
+    "原作者1906—1908统计、历史司法与制度描述未以独立档案全部实证复验，稿中保留为历史原文证据。",
+    "已取得两张HTML图片并目视查看；没有把图片存在或章节字符数当成语义阅读本身。",
+    "知识角色已定义，不代表作者人格或独立模型，也未启用当前股票买卖结论。"
+  ],
+  "knowledge_expert_definition_file": "专家定义.json",
+  "knowledge_expert_enabled": true,
+  "current_stock_decision_enabled": false,
+  "independent_semantic_qa_status": "value_team_pass_with_source_limits_R11_fixed_verified",
+  "not_40_books_complete": true,
+  "expert_definition_sha256": "c8999c09366f0b2633d467bbebe071dfe941aeb3e0dce09de37101b74afa0869",
+  "independent_semantic_qa_file": "../../value_team/P28-QA.json",
+  "post_review_corrections": [
+    {
+      "rule": "P28-R11",
+      "change_zh": "补第II章印刷页32、源文580—595行必要维护与琐碎改良资本化依据，同时保留第五/六章摊还与折旧依据。",
+      "applied_at_utc": "2026-10-12T08:55:00.285221+00:00"
+    }
+  ],
+  "independent_semantic_qa_sha256": "8cfe952ac88691946cee227fed4a0ebbfa5fbf060d2ecf96855abcaeae381259",
+  "independent_semantic_qa_confirmed_utc": "2026-10-12T10:45:49.440166+00:00"
+}

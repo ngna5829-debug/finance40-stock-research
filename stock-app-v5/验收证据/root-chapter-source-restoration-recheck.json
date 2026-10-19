@@ -1,0 +1,1627 @@
+{
+  "status": "independent_metadata_and_source_bytes_recheck_passed",
+  "scope": "只读核root已执行的只增恢复；非新增全书阅读/核图，不把历史源误字转作已核准数值",
+  "restoration_plan_sha256": "4e044f53d1737c756d6ddd5d24a642e2aac9309226d2c84eef7647c260e093c3",
+  "root_execution_result_sha256": "e92f82ee1b7e8c19efd91ecc1fbd508a9ef43c578095aa0292b4500b4d0f48a3",
+  "239_added_research_files_individually_verified": [
+    {
+      "file": "outputs/book-experts-v5/P38/ch01-figures-1.jpg",
+      "source_sha256": "4e6e810b688bfdb39144a1527d1f80d3b3a26ae422342fae23293a2ca5514e1f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch01-figures-2.jpg",
+      "source_sha256": "230d4eb646fd64f3d76cb77c2ebfdcdf6fe15c5a370b782918018f8579718065",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch01-figures-3.jpg",
+      "source_sha256": "a96e93ed2ad282e0b72386bf985a40036aa0ea9a2d2f96b74d83d406e5c7ef20",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch02-figures-1.jpg",
+      "source_sha256": "0a83fe0595e6af7e8bdf99c89f2c45cb498109b26dddfc0624d479bd655d4b76",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch02-figures-2.jpg",
+      "source_sha256": "cdf7aca9b60d69394e2ccae44ecf1ad452c5ae0ab5c823047edf2dda5036548e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-1.jpg",
+      "source_sha256": "49d85cc02102a948bb20010fd4841b1eb6fc365e40ca474bc8326705c9e9e063",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-2.jpg",
+      "source_sha256": "31c32699e8ad85fcd74cee4b8ceeb282a1a8a9b6a5202b8474557d9841b7ba1a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-3.jpg",
+      "source_sha256": "45ff054d625300c7f27184603b2655f4c9e1d2ec39b3757242665e2693e2ae33",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-4.jpg",
+      "source_sha256": "33b565ce7f1e62d9981d4b1f89ed86050bb6a7f01091954de151bdf6a52e8c25",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-5.jpg",
+      "source_sha256": "8160c823a2f81a3c3e314878927be3f45e3e156ea0c0c82fe83d85b5297c76e3",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-6.jpg",
+      "source_sha256": "f201e50adf6e8cc6cec125cfe0b88c5e0d769fe63d13d5a413e4165242e02e83",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-figures-7.jpg",
+      "source_sha256": "95cbb9e9937ce58c7d94af112a29ad468a6171fcf6d421d042a2d76068ea7f34",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch03-cycle-table.jpg",
+      "source_sha256": "95cf01dd24896c9414680cef24bbe692910fbab9f6acdfec7b39104e1f2f01e0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch04-figures-1.jpg",
+      "source_sha256": "5f477119ef701ef906c8b10c7133abf618f98418281cd823f3ba0a453e70c1ce",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch04-figures-2.jpg",
+      "source_sha256": "60e9797a4714c7f9bde68a2ab387dfe2c32467ee6707a5812d2ed8b38478bf58",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch04-figures-3.jpg",
+      "source_sha256": "f59cad1347b0700d1d4f2dfbc92bb7650852a12f1fd8b86b2e02f9458ea41ed7",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch04-figures-4.jpg",
+      "source_sha256": "f7ba27b77198de651d7274798bcc952c1e3fd59927adaa4dc89df4e4f8190d83",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch04-figures-5.jpg",
+      "source_sha256": "90d7071c901b63224d3c181af10dc5f8e83b62ccce6d61e01245e8a793bffb17",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-1.jpg",
+      "source_sha256": "3669933b0baf703460560fc6e491f9b9d2d7a6a54843bcd9fdecd219c53e7e7e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-2.jpg",
+      "source_sha256": "de3505c5d3c9d9330bc2a549bc0c38937d3212c606416df1dda410f33328346e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-3.jpg",
+      "source_sha256": "831de0c6ec7a1bdf419f6e2e9a4bdba4e167e945a132803d1f59c45964840fca",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-4.jpg",
+      "source_sha256": "c49498f28dfa00464eb00162b4f2b95caaa01c4ab012acdbe07bd79d4d805732",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-5.jpg",
+      "source_sha256": "ca0e1d571f41a02d7391a457e9ed2ada5f9e34c654bbcd8ba5e2d5cd6b0cf769",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-6.jpg",
+      "source_sha256": "29486c19112715e95c060cfaf63e8d2655b9525a8480b9849732e57e6a135739",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-7.jpg",
+      "source_sha256": "12a164ad2ed5e950d31d0990173233f8c94f6bc569e98893167d7d74995da634",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-figures-8.jpg",
+      "source_sha256": "cdea63a400aad52f86b86abe27c2e34c25a6c01fed44d560853144746c1d5341",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-critical-163.jpg",
+      "source_sha256": "37e1aca33c61c82a02d724eb3fcaae1bc6a97568fd93ceff807d5912570a2e0b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch05-critical-169.jpg",
+      "source_sha256": "3263d116772af637c92f28519526110336f42a2c86f262fbec57c2779750d291",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-1.jpg",
+      "source_sha256": "907f4ca12eee6afab206109ed1bbad240520b48c7435e973267063545517b11d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-2.jpg",
+      "source_sha256": "c3bc4c05a7f88889bcb66999e1a8021ddc50910f876a1c028e2136b106a29018",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-3.jpg",
+      "source_sha256": "3b1c8e0916b413755878dd0d74677a519946d74261c82ceeba50b1f6b079a542",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-4.jpg",
+      "source_sha256": "f08ca3fbbde40c10ea522a1ff37155af90a76a1b2be5d8693ae8152b6c8bf976",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-5.jpg",
+      "source_sha256": "32b6fc1728bad28cf20b452979641d959b9f015427982608a620259bef5094d5",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-figures-6.jpg",
+      "source_sha256": "0971335c663fbcd2d9c64f2cbc5653832c272066d05baaa6ef8b365c393316cf",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-critical-190.jpg",
+      "source_sha256": "0a44d10bb0cfad658fcdcaf1ecc70c9afe32b20b9abbb2e2074edb728c0e473b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-critical-199.jpg",
+      "source_sha256": "2361af5f08320e7605dbd5f17a88ce4deffdcfe2750b1fc78b7639e31f60a93c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch06-critical-182.jpg",
+      "source_sha256": "6235ed3319f432cb79412348fa5c5749426c61b789c17d24c049f05fa31f1e28",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-1.jpg",
+      "source_sha256": "3c05574c9ead0ee52889a6e124ef9518b7dacc51c9f97bd477e642f7c69aefd1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-2.jpg",
+      "source_sha256": "92f32c4ebb2d4527598996f6b4913814115785a432cdeb83597757541fa29970",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-3.jpg",
+      "source_sha256": "bde0109d3de89ce67db7456d89e1ff3998dbddfdd7fc38f41aed3bb9bf66a22b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-4.jpg",
+      "source_sha256": "caa08fc6420b958e28113486bffc10f5610c35420687837ebfef1a96777332c4",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-5.jpg",
+      "source_sha256": "d57a0a3efd6656cba2f3963eb624e8ebc7b3b833d265d0b7ed8b7638e95c5345",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-6.jpg",
+      "source_sha256": "2d6a5db6db7ff173f2081dcc39c94f3361bbcf19d4f6407c958c4066edfb6474",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-7.jpg",
+      "source_sha256": "7aa134442b79c7f7564af23c260f2ff70b05c125fc25d34940e0d1a79f7850f3",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-8.jpg",
+      "source_sha256": "c5d82adb7e5033a0b331dfbd4d462005e91b00719b2f3624a24a8cc7669526b1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-figures-9.jpg",
+      "source_sha256": "adb901cb7672cd1b91a8436666931a79760084d694a6393d13f0f5683027ebc5",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-critical-220.jpg",
+      "source_sha256": "e56e74c904a66ccee51583136c80d5fd05a1d098f00061ae9a8488ed085141eb",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-critical-221.jpg",
+      "source_sha256": "2ef453a802bd9ea9e68031ddf8edf507c42b4a0337b8c5a61ef513cff5df85f1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-critical-230.jpg",
+      "source_sha256": "f8000bf0599a7fd426af59a5088633d3d3e133c3b991ba15d771393046c15616",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch07-critical-241.jpg",
+      "source_sha256": "150ebabc62c45cd3959699565b265f73789ffd22bb953388895b6b87504e20c1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/source-review/explicit-external-images/practical_team/P38-QA-images/pdf234.png",
+      "source_sha256": "7af8bb7e5836efaf0d6acb8ca6e066d22f11a40af6a9c068c0584dafb60880a0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-1.jpg",
+      "source_sha256": "9b453c9e740c0359631dc0d0cf709354bb0eb2eb219762eb7175ecf174eeba5a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-2.jpg",
+      "source_sha256": "dac55dcb3b2fa4488785c72d083190c88c992307e4ed2eb2dadf511600dc88e2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-3.jpg",
+      "source_sha256": "7d49eccd5a6feaeb81f416d01c9299691a6595a262e10ddf03de6743d20296ea",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-4.jpg",
+      "source_sha256": "0753d80ebc75025311a1e8516ae10c2b46bbe6e74877bfda598d17f22efd2937",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-5.jpg",
+      "source_sha256": "8340723f4f72252f055d52ede7eead6840badae3447d9fc837c7e8179f7d9c67",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-6.jpg",
+      "source_sha256": "232a05f5dc45fb8b88e0ce8d334310e14bd7b3072a65793f1828acd6dcae58d0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-7.jpg",
+      "source_sha256": "197fb705d715fbdd9d3c4c8328f77570af056bc10136ca552b042821aa9b71a7",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-8.jpg",
+      "source_sha256": "5e0385d2c24a3ad8635d012e4438d3219c5434cca5e1ca328dea3ae1ab4bc9e3",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-figures-9.jpg",
+      "source_sha256": "62a73bb357a9ab564b6b549eaa6173c4ca49ab83cf1ddb04146a4fd6a182185c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-245.jpg",
+      "source_sha256": "d0a401c7cdebbcb128744f0ca66f1bd3d6de0561bb115d89c2c8964ab0545d39",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-247.jpg",
+      "source_sha256": "51f7691cf2ea8678f683a1f36d3e6ff932b569337c8f3289f49159a2704e94c2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-253.jpg",
+      "source_sha256": "d8ea75c1d08d33f37b2728af4e272d31aef84671292429fce609f0bd233d2df9",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-256.jpg",
+      "source_sha256": "e3b044b4f6bb88d48fdd9ec80923f424e480588c8ddc0ec49547ad52800b1b15",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-257.jpg",
+      "source_sha256": "01a0693f120c825d622fa29a565cc0998f5f2a8810e678b6ef525cad3182df14",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-258.jpg",
+      "source_sha256": "2d5b72189598b4aab51e3db160fbe0a23f6484bd5b4ea0dc6be79ea57a7a095c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch08-critical-259.jpg",
+      "source_sha256": "7e783b2274493daf13346ee5d69b011cc2aeb84fe482e1e6a82aa6fff8014b33",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-figures-1.jpg",
+      "source_sha256": "8c34100a10b0038601f7d6d7767b6db03a4f6668058903c212caf029b612b7a4",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-figures-2.jpg",
+      "source_sha256": "c062117c0a016c59ec1922d14e11b97def602f8e7ab2a3c66cebf2b0510d8bdd",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-figures-3.jpg",
+      "source_sha256": "f8b6724c0c6232f8ff835ab1215faa06cd62eee8d8eea50bb710f8d507812b8f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-figures-4.jpg",
+      "source_sha256": "a646baebbc301d38f17580714f6ba011dfb6c80d034be257d088a50a49455136",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-figures-5.jpg",
+      "source_sha256": "8be27ffa076fddbda6c392d35830d18a6e01fd879af107eb66a761cffe9d3a96",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-280.jpg",
+      "source_sha256": "b6f7a222ad71a65049539d70772251dc47b849c6618f344a4520ba92328260c1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-281.jpg",
+      "source_sha256": "2d2e2cd4c2507339aa9a36c3e7d4b67864c5ac5646c6b24b1d0569de0dd99e66",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-282.jpg",
+      "source_sha256": "3b9489667d781eb42612cb5a0aa42451b5c53c7a3f3d73881b23fa55c0a76571",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-283.jpg",
+      "source_sha256": "9913603529959ec18a6575f9831bf7e6bb91e4259c60ff7cf4d11c1d8611f3a2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-284.jpg",
+      "source_sha256": "cf1937456b90e45e7fd2f76c171c2584e3b5f4099ca0834776f860d5ab8ed5e0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-285.jpg",
+      "source_sha256": "3b689834b3a3fbe479c5533476a23c392e9a1f8cdc7d6f2bd7f6f6c84d507653",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-290.jpg",
+      "source_sha256": "7e9c82cdeb0d36ecbc3740f0cc2f313defa3f58f560a4c7605c24cfccd76b4fc",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-critical-292.jpg",
+      "source_sha256": "8078297595305f0e0e5934c3efe63744d4795ec5a8b2d2f0b1e41ad2f5fffb98",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch09-Excel-cashmatrix.jpg",
+      "source_sha256": "a9ea9b7c01eb11cffbd2a4ed5001ee4342fea3b4a40015dfba9a663fd9ed2eb4",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-1.jpg",
+      "source_sha256": "4e8eb3d3c482dbfa89003b7160e5ae32849d006a622333811d2ec27f0bdf11fd",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-2.jpg",
+      "source_sha256": "39dc6bf7c231af9e9569d4b6b21aacd84064b33a9c086a7ec1cbaace42c242f2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-3.jpg",
+      "source_sha256": "7ea58f9cea603d3c9cbe2ffe3484b1dff20c42b2651b3d3f23e1b9502a7bc8b0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-4.jpg",
+      "source_sha256": "7b1b3f63f3132b8b0f2f0b9cae32edb90258be2665d59c28636875da3f180bbc",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-5.jpg",
+      "source_sha256": "b6161e65832105c2dec3fb52fc8a593c2a67365aad80657d8f7f22f7597b2679",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-6.jpg",
+      "source_sha256": "e5d79570dab61dead18783b4221c0ab13693987b7f06bf30f65f1b7a68761e64",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-7.jpg",
+      "source_sha256": "7f9402cf8a93d4ca63e13a5345ff750aab27b6f0ed04e706fba3e2372cb077d9",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-8.jpg",
+      "source_sha256": "f08f78ffe9d3c5785ec3b01b3898cd2bed36e8057f7947c2236ddcb8b0bb102f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-figures-9.jpg",
+      "source_sha256": "56117dfa61f4d14bc76908b03089e96c0bb79003ed8e0e68aca673431213484b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-302.jpg",
+      "source_sha256": "1f57df31e4711bfaf4c2ac860c0acf291f755a533d2a983f517f5b150a4a6459",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-305.jpg",
+      "source_sha256": "18814c9a3e95659a8dde00771b5c0cd8ac4d5ef6c0eca2dfbfefa8b432d61917",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-313.jpg",
+      "source_sha256": "e5ef6663da98633cfcea1ac7adce8d4b39b7a4fa741f2e26a10257fdf80f3ec5",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-314.jpg",
+      "source_sha256": "408ada54135b9d8abce456ae569adff983748ddbcf420114801cb13ec3bc290b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-315.jpg",
+      "source_sha256": "976b47555c00435f6105f3ef293d9a1daf8b3587648c1bb0aa58cc79f00d1c2c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-323.jpg",
+      "source_sha256": "fedbd117a60cf709dbb4b07fb2741b6a8c5211c3c1a555fd707fa296bbbbac65",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-324.jpg",
+      "source_sha256": "ead0fd3aa16a933c8d888d063098066469aac4b9c9696b9a8cd0c042da97436b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-325.jpg",
+      "source_sha256": "c7edcb41cb1714b2b4e5a106803b87b1c41918a99515072f3a679ba640b9a8ed",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-326.jpg",
+      "source_sha256": "47e57eb973d2205d7cb664a96afde8d2a6b3d8bd9858768991119be15a3d7329",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch10-critical-327.jpg",
+      "source_sha256": "6731010aa02ac7150f81a53babe875f557a7dbcda67eb92d8e6d3fd98e20d275",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-1.jpg",
+      "source_sha256": "231cd9e58f93fc92c6c1428e478b2e4f114702e444adc77f7b71bc872ea7c84b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-2.jpg",
+      "source_sha256": "24a3a4d07895557a621875e501f9a2c2bcbb7bffe008b4adbda79b09b5e2315c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-3.jpg",
+      "source_sha256": "14b7e6bad2fe95eb58ac2621517d62702fce519a3fd57cc1921f16234b7611a4",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-4.jpg",
+      "source_sha256": "fa2cdccb26e234ad8d3b8fe91c4fafc030bba182feab3d2522dc5c5649f32f51",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-5.jpg",
+      "source_sha256": "993e13e7c6f36179fca7abef5e680888953ea91b0d00bd298aab9128e2cff83e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-6.jpg",
+      "source_sha256": "a1b7a5186afdaa361dcb91729189c9a533ddcb20475d3934df234afdc7f57f4d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-7.jpg",
+      "source_sha256": "b48ebef96a86cc0354d92d5956d166cd6bb2343d8c06f69e4ee0ea2c68e49592",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-8.jpg",
+      "source_sha256": "c55873608f734d90fb1ad5f9a631edc8971dcbfa793de245b1b26cdf070cdc15",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-figures-9.jpg",
+      "source_sha256": "739afe6576ef81d10ee3d20a03d60e7b5ccbb41fc1b6eb31ac76c2e71d9aa040",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-338.jpg",
+      "source_sha256": "19a1360f40bcdeccd002c024c536e88272a958eeec12494f689005b7eae316a2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-344.jpg",
+      "source_sha256": "6b04b675387d91d51db2bcfcd27a264ffa5ca1761bd13a9ba5f9af737f0d2ba2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-345.jpg",
+      "source_sha256": "d926c6abaa6ed4e483e056ebacb547f1ad2318e7f5e582ef74a62bc6f3973e53",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-346.jpg",
+      "source_sha256": "fdd3d4887875aac893330cfc53431fb388b6d587714a9bac528b9e3e5b45a7ed",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-352.jpg",
+      "source_sha256": "b761887d3e132e32a04e669dd34c84d24f0c2cdb48b3e4f6f5f4723ca705265e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-353.jpg",
+      "source_sha256": "272e94732afa6b82f21ec778cdc8fb21179e5e879d5bf32bdef1648474f70634",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-354.jpg",
+      "source_sha256": "3da5ab2ae974ce4e46716f2a1a5da686800e71327dda37c77a45c96ce5b3324e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-355.jpg",
+      "source_sha256": "a25de4fa91cb7b58cf00985aed0445fe018230f8ca7ff78230260e5181a50867",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-356.jpg",
+      "source_sha256": "57664e848d1b383dbdd8eb6a72e87a099d5b41109ac1dc7ea0e389b9d131a306",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-357.jpg",
+      "source_sha256": "54a7b8aa19c445e1f322e856c1075793f1956523c9b45151082f3296199c8e83",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch11-critical-361.jpg",
+      "source_sha256": "062c99f09da93d5aadaf02dbcf22ec50e6c72b1a26e9ca92cbeec23b3c36382f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-1.jpg",
+      "source_sha256": "ed015736bd7d8b6ea3e00a806e2920d16ff6be3002c01ca5ff9cc987829e2a6c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-2.jpg",
+      "source_sha256": "60d5df235859b45866a2f63667c82367665dba80d7f8fa1c48bfbf232b6ffae2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-3.jpg",
+      "source_sha256": "01b4b92adab692155905dba66949bada9992e06b888b66beed18430ea7c615e1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-4.jpg",
+      "source_sha256": "a92ae2da2e865876a24741a71334f64ea53d44281012b5d84204e1b23463012f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-5.jpg",
+      "source_sha256": "d463a4280cc66ca59d92cdf3d42ece6d28c5f85d9ec8fa1522a35aa4065d5c59",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-6.jpg",
+      "source_sha256": "64ee3fd95542135119e31ae287f64b77d1862d9ec5f87f9556f0d57245d36000",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-figures-7.jpg",
+      "source_sha256": "13c35441425b86f2026ee8dce175f024e91bc266e3ee9adedac66419e349f04e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-372.jpg",
+      "source_sha256": "50a1c1e89cc90b0aa701cf757e8fbbaf4cf5ee60e90fbab5705b4e51e3d11ed5",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-377.jpg",
+      "source_sha256": "9e14818ef224d4eb28cab8fe63271e03d98be1a46a6fdc27b57a8ce6b3fdea2b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-379.jpg",
+      "source_sha256": "13163c7f3d48d260077609e2df0dfe1bfd45b9717cca4ce3a064b2f20cc1421a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-382.jpg",
+      "source_sha256": "a6dacbd9b5623a5107dd10ecdfd4668215f9003d27f13ece8fc043b37ac45e61",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-383.jpg",
+      "source_sha256": "aca88bcea0f16a59036e0a08f0223da1992caacea986b7dcec48b27b8f870d50",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-384.jpg",
+      "source_sha256": "cb7af16dc1a1c8749edad181d2088be07d49f84e094f69000d1de734d40c43ae",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-386.jpg",
+      "source_sha256": "f3d898f36a37d1dc9cf19add2e0b9ac8a79c0785c9cdb9fded3f3b2a89dd5ec6",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch12-critical-387.jpg",
+      "source_sha256": "f71c5faf34177965b4acb5559cc375439062228ac709d2c92b946c332f13c23d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-1.jpg",
+      "source_sha256": "cb5c60c8e66baf21ab88a9bea22ede12fcd395e7d8938d627c4c1fec2fcffe32",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-2.jpg",
+      "source_sha256": "bca5f970be8f02c79923dc836a62549b4e1d1a25e77b12aa87935b83ba8b32c9",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-3.jpg",
+      "source_sha256": "992e202b5b4afe61319463bc5566cb80e2fef32bd9001e318ab737aab5e09c61",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-4.jpg",
+      "source_sha256": "11b6e2af7923370dcd04c6566931679af6f8010b8a3bd7875091fb30d5d47696",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-5.jpg",
+      "source_sha256": "18c0f5ee818426b89285ddc14c1d6de61dcf0330181ebf5410efe69fa0c55e84",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-6.jpg",
+      "source_sha256": "4811a5619feef46d9b9869aa74fa47a6d3ddb96e01a7019e0ac8ee0cccb11a0b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-7.jpg",
+      "source_sha256": "f5f803b77d1d595993c2e387932f8988ca098e46fb904220d66e7ce13977dda8",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-8.jpg",
+      "source_sha256": "76c24493a1efa4875a2e08db06f6868ec5a44badba002fdbb54927fd4c4e5e77",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-figures-9.jpg",
+      "source_sha256": "e5ddf863ec27d47fc101cea33c1b49df465a325d68ac5c2fac544db25d958fba",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-critical-411.jpg",
+      "source_sha256": "61bd022031c96f97de815bea079c4decab6cc1de04ac4ba8730814e3296678a0",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-critical-417.jpg",
+      "source_sha256": "a57b7c93968fbbf8e668861b3f16f2a20e2766a8c9f612f2f55cec866deae8af",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-critical-418.jpg",
+      "source_sha256": "3baa555f586d975f49d401621a6a2482027bdd55c98293fc6e7efdae6220e2ac",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch13-critical-423.jpg",
+      "source_sha256": "68d16653de8d994482a4ac2eb9a5a59e924536c04fb07bf91d8243a55779481b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-1.jpg",
+      "source_sha256": "addd484d15218f20ec6475e653daefcbc10a28fbdc68187a291b8192857a2c2d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-2.jpg",
+      "source_sha256": "31a3a662db9a1986ec40bb423dd1229f0655d523994408284c5af7d187175ddf",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-3.jpg",
+      "source_sha256": "bffe1a70662e64a2d3c36032640ca56ba6f876187bc430ae7f8724edbe577d9f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-4.jpg",
+      "source_sha256": "be1f614e10838d9ca50036183a1fb9b776944dc56fdb53a0d8955c70c39efc66",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-5.jpg",
+      "source_sha256": "808312ef3f448026821dfd6c09b292b4fcc99e9ae17f3da336b032b850b37520",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-6.jpg",
+      "source_sha256": "26248996bdc2486bfc33e9a7b1aeda0a82d33c1ddf8850beacc3ebaaf234a93b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-7.jpg",
+      "source_sha256": "8cac22ba3ca968ae00118c652393f2ec4deb386139779c823ba198c75cc8f979",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-figures-8.jpg",
+      "source_sha256": "98558e0aa49083fa722031d5bc2fe06d51f9798c54700d52a7c718792f3e8d1f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-critical-451.jpg",
+      "source_sha256": "6d03d17b928aa5a2791962ef0daef30516d4372b255cdb1b1f743a34e8be4577",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-critical-452.jpg",
+      "source_sha256": "6eb93de7c8bdf17db668dc19e615d0860318625cdd6ac87ded38acb117bf0e53",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch14-critical-459.jpg",
+      "source_sha256": "8e58a484a43f6303ef8c4d5ca9769243f77faa957359f8a862fbc6ba2edfd81c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-1.jpg",
+      "source_sha256": "02aae5922e33c45103174da64d9a1c03297d7c4f27702fb63dd5aab7ed184931",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-2.jpg",
+      "source_sha256": "436c9e53e367757126cb9f4c9ded3cc424b1736695a607b4a230bc0a197492ad",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-3.jpg",
+      "source_sha256": "2c9a560fb202ddbbf25721bdc454697430f08a7321c5fda9c5a1ee3d73b089d8",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-4.jpg",
+      "source_sha256": "ecdcc891f92a37f41ed0bad041f054750b2ea69c76e338ef9475eff74f91805e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-5.jpg",
+      "source_sha256": "33537eb20c45e9f2f51e9534f4d10e679e0223bb39278b88a260fdd74f8eadbe",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-6.jpg",
+      "source_sha256": "507702cd276baeb68b6f9181efef0e4dd169988a7f2f547c066f2724327b44c2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-7.jpg",
+      "source_sha256": "1a2e0abc2c3d82d4f35b1f38ef17257f126495e0909e284021fa5b557e22cdbb",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-figures-8.jpg",
+      "source_sha256": "72288c062d76b5d4144ee495f7909f7f45324fefc29d13802ee1d29243ed8dfe",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-critical-466.jpg",
+      "source_sha256": "49df0e04e75216fa0bb3ca550aa0a405b2bbab5a0a42f15afffb4eacf0b297f6",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-critical-483.jpg",
+      "source_sha256": "5328c302549ad35cf49284a94d656c4bef85a5a65c237789d0e1324426d2f8ff",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-critical-484.jpg",
+      "source_sha256": "e9c2db479fd2501e2481986bbb1e3dd874b42637759aecd6c53137a76df68476",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch15-critical-485.jpg",
+      "source_sha256": "920020dd24dce0d44b4f6c5cd817b0735882ad6917360051de1c6c2fdaf21fec",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-1.jpg",
+      "source_sha256": "c28cb6ad174a8b470e97859d24e12eec1466033a1653c1c4e65e6c62a55d5d1a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-2.jpg",
+      "source_sha256": "e8a98a20de37631ee062f6fe8ae568f02e27fa1b2ea8bafafc4f24632366a3ca",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-3.jpg",
+      "source_sha256": "a6e31b9281e86c3baf4b1c68ade03f2dc5b5082a0a3d91abcd46a71b333f4c17",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-4.jpg",
+      "source_sha256": "77273e838396f5c0f395c2555d2c3328ad5c2d58771b17f338652675495c3038",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-5.jpg",
+      "source_sha256": "a1bb8658b50e044cdcd4f9327920d0ba313bb2dba23a9a2161e12c1733fcaa7a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-6.jpg",
+      "source_sha256": "bdf964a8a86dfb9229c2e0275371770e45671e0b88577376dbcd02b50d0f8811",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-figures-7.jpg",
+      "source_sha256": "088fefae76d2345c77f9a4bdc27152dbeadf95afac49671e3d3906e9eeb7ae8d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-critical-511.jpg",
+      "source_sha256": "4952c396e119600d2542b17cba902ede97e1c5d416b436793e60a1e2ce312cec",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-critical-512.jpg",
+      "source_sha256": "53844939cef14bdd2f0edc3af8ff610ba34b417f5219bc1983a0ea3238ca34e9",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch16-critical-514.jpg",
+      "source_sha256": "f84f03f660d373d0f210f1556970c46c8d7a4ed79c95f007159e730c123fe607",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-1.jpg",
+      "source_sha256": "f459f9f845660f6759314feb75a710d7af608d08b91e212c262ebe0fedc35934",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-2.jpg",
+      "source_sha256": "a741bd743ecd9f27b3fe1e840513d9c0e68d4c724292d9b5ebd247f4c2b5b624",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-3.jpg",
+      "source_sha256": "45a8cc2ae50769d0a1868fc84824dbaa0cd45cbc26383814a32b2d415fd0ab1d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-4.jpg",
+      "source_sha256": "c69a6bf94d34fb2b24e966aa1ec86f40d71c67329fdc076fe4c8d79ffc93b100",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-5.jpg",
+      "source_sha256": "9da60b0b8e5342007ba968099dc812faa0b98de8976a3774af4b228eff72576b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-6.jpg",
+      "source_sha256": "a74faa3dfb708c8d28d02c19fdcc2178d5a190275f65251af4a6d5ef2bb1de3a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-figures-7.jpg",
+      "source_sha256": "c320ded66a6793db257823a291ebab4284f4c75f9900de28be806cca8869f8da",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-critical-528.jpg",
+      "source_sha256": "c66d3a4d155f2a33e0d891a0288972a667556d64c6d25176e059715b45ea6778",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch17-critical-539.jpg",
+      "source_sha256": "40d5a7cee852edaf64282aeb6b0b9beef0c18ac416037e4e66f9a2b0a5636068",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-1.jpg",
+      "source_sha256": "c9c09d0090c1aad368ab743a22f9a5da14d597cce1541d05f1a8054be2208b49",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-2.jpg",
+      "source_sha256": "6af15cf505055ee1921c34604acbeb11e15f187313ce3c2a7630f30d443dbf29",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-3.jpg",
+      "source_sha256": "67ac116bcc30753c566a2cec6187d65908533fa6b950e220527859a21a18db39",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-4.jpg",
+      "source_sha256": "c75747e37fdeb985145be7e8421a159a471b5dc4a56021701f2cc5c56b6e2a91",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-5.jpg",
+      "source_sha256": "f0c2a7fa1f9dd7e329e496e68ef211066198c4a1494c8e9e475f0a9e976c2f4d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-6.jpg",
+      "source_sha256": "9e8b14e1d3f15e04985dd68fb703715dd660b3985f8cc52a8727604df1c6f9df",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-7.jpg",
+      "source_sha256": "5f3eb183997b0893d152150c0e742049e4627a49d6243ab3c23cf0839652d341",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-figures-8.jpg",
+      "source_sha256": "92e0377e42562ae5e4fb29f8ffaaf4cf4eb827b1c0e44fe753bb4610fd3a5cc4",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-critical-562.jpg",
+      "source_sha256": "39b07c7232e6e0d174ffa7feef5971f766ba03f6847734d9ca4e1be4a0acbf12",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-critical-563.jpg",
+      "source_sha256": "9b878c545a1f555f730e6c69a83924cd584ac3c0efd9094321f6fad12025e81d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-563.jpg",
+      "source_sha256": "8318b93d02ba3b425fe7a162309b4e2cafb87078ce3eadab437c2176b87c7e5f",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-564.jpg",
+      "source_sha256": "717a80a04022d7691fff804639d2364f8ebd0404c2976151006b512d2efb296e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-566.jpg",
+      "source_sha256": "b57dba450ab35d7715d1f336405f33d9b03621349c2f22d94c24543cc07409f8",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-568.jpg",
+      "source_sha256": "19bc5db7001889673fcbd9a4351c69fee36d6fa0e116a464b20d54857a44cbcd",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-570.jpg",
+      "source_sha256": "07c1f81a4dfe9d09d30dd59d2ee88990157e49c2064a3c5363b3be5b2fe1c5e2",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-571.jpg",
+      "source_sha256": "e0e08e8a72b8c14bef02f834f4f3ef1d216e2a4b157640d2b29184a204bd3f76",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-572.jpg",
+      "source_sha256": "bafd85ad51798090f8473c63d2178495172bddcd6b1f2c9c96974c88afde4ab6",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-564-complete.jpg",
+      "source_sha256": "fc6c6058015d4c0d39cbfc6e96ea7ee0222bf5ccbc1b83865d4982b22b07eecb",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-568-complete.jpg",
+      "source_sha256": "71113a7ba5bf93e3fdf40618788b3b40e6521d38080d42370bcf9b6b1fd033d8",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch18-detail-578-complete.jpg",
+      "source_sha256": "df77136328f1c4fabeb6ea12c9aed780d7a327f9d4261a532341676b41a69fcb",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-1.jpg",
+      "source_sha256": "ca2728ee102bd165f77ebe1fc8ddcf3832312d3a4da7f6b7b12e0c9054b6fa41",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-2.jpg",
+      "source_sha256": "3c3919202e32b691ce68020c166c7a0a4804c88d1d4dbdafd882739c31ac8ce1",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-3.jpg",
+      "source_sha256": "e83bcf5528040fdd08383ca18f67d2c1cb3c494984b5d7ebc6df8f620a34d473",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-4.jpg",
+      "source_sha256": "ef976e0c8e2531a6da0049a501cec75562336f6e1306594b78ebe2986401d096",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-5.jpg",
+      "source_sha256": "09a5a7b25f11fd13e7455d5604479571c07a077227a8cd506608f1b6ebf2156c",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-6.jpg",
+      "source_sha256": "6a8751a3e82638158f55917cf6920a4a745a3b0fc879728bce3ef2f551f0c0a5",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-7.jpg",
+      "source_sha256": "f435053b8f4212a411ffbc403bc46cd195799a9c52a0aa3111aea3e79a54522b",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-8.jpg",
+      "source_sha256": "88f6ba277806c7a57a25954e7651f3a4b35ef95ab91206fdebc6461fdfdc4a20",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-figures-9.jpg",
+      "source_sha256": "e421261b5174bad3b6cca67144859f7a7becf7aa15d1f5b84fde1b8e854867ff",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-detail-601.jpg",
+      "source_sha256": "085256f704c466a819c22efd10d70cfdd13428b4d2b4fcb9359e9d8a32833910",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-detail-603.jpg",
+      "source_sha256": "b4f62096d77292564c19a7e4d1364e72cfb873ac42dc1329b5a0f1e249ae7dc7",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch19-detail-610.jpg",
+      "source_sha256": "2adc3c0c5386a1968424db2d850762cf80fc70ac5bcbd221ebb427cd9223993d",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-1.jpg",
+      "source_sha256": "224372d46b184833b0c97b65da530bf7fecd3b50d161d7b8d03616bd3b608ecf",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-2.jpg",
+      "source_sha256": "4c1dfefda806f6c46cb28b43266de906405f05d3be38251a840c18f53ca472f7",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-3.jpg",
+      "source_sha256": "241e0a4cee81f698aea1567b7bd8a4edbaab46f5df4aec33da26c4d931729219",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-4.jpg",
+      "source_sha256": "0d10ec519a51e78d018896f50b2336a9eca9bbc42c0ffdc6a8409dcd951e5d51",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-5.jpg",
+      "source_sha256": "59ccae9097c758ee1bcbd9aac849005603e5d7dbf39e378ac08289b0bef016fe",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-figures-6.jpg",
+      "source_sha256": "91aee00fe22452268123631639d3ba89fc8c2987e591efea985f861618df7297",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/ch20-critical-620.jpg",
+      "source_sha256": "3b348a6d245e4a813a0edbcb38ddd779713c79fbc024ec2c2b11eb992c98828e",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/index-figures-1.jpg",
+      "source_sha256": "701aa5970d9319bd155e13af0a1818bb1b2c2e9ba682e405150f384ddd527c62",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P38/index-figures-2.jpg",
+      "source_sha256": "e3367964310d0938c4e01e8b468a14ce3c935885b8f7f09b86c7da9bb7cb8dfb",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch01.txt",
+      "source_sha256": "3595da84bc5f6c67674a317fe89f76218d6991e29c1ceb5b0da1c6afd9a0cc87",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch02.txt",
+      "source_sha256": "0a10ecc7943f567027c546a47c4af5106213497374af9b13968b49bb5b185703",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch03.txt",
+      "source_sha256": "bdd693a1208af7b51591ef2ff819fafee4a9f35b96700be532886fb1e83cd648",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch04.txt",
+      "source_sha256": "566c5a4599e26dca902d4f794b44b6a0226d3393e22ac0f9c3691b4323379e22",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch05.txt",
+      "source_sha256": "7c09cf1dad22d86fb3cf344e1b3c835dc83474de95a4c42d59795f2d49f07bcc",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch06.txt",
+      "source_sha256": "519288afa1121f3acedd6758f2c06c98cc2b9dfa1cab2fca24500df578e4b4b3",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch07.txt",
+      "source_sha256": "ddfad9c87d6fb722d61d737d29d76a7cab7f390a29b0f8a6c86c2ef8d35b0e1a",
+      "current_stage_and_canonical_exact_SHA": true
+    },
+    {
+      "file": "outputs/book-experts-v5/P40/source-chapters/ch08.txt",
+      "source_sha256": "aa56af2983dbef38f96c6cee00b3962f9973f67e2112036e70459de82c92abfe",
+      "current_stage_and_canonical_exact_SHA": true
+    }
+  ],
+  "69_original_source_slices_individually_verified": [
+    {
+      "book_id": "P26",
+      "chapter": 1,
+      "source_sha256": "1e339315552b6e4988dfc07b67b31188d67a2d12e621660804f479fec5a33070",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 2,
+      "source_sha256": "cb92ef7bcfa04110105a9cbe574008d9a2ffb6d05c9ca9c9407b3411641d5c42",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 3,
+      "source_sha256": "084feccd8f728e5c2607753a746c07d933e77822277fc354646bd58ab378c262",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 4,
+      "source_sha256": "2911977ab2e2de7673efdf87c7558d5c322231931eb34de187804884e10eb881",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 5,
+      "source_sha256": "e607962cf107b92af3530c21986d0c1def98af748d358494fa1832199e1d5b65",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 6,
+      "source_sha256": "c1b3e5b8b232bed1148ae14e4fe4088c203515fdd0bc0ee319339f7911951f76",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 7,
+      "source_sha256": "b858d57c8f6bd9dfc6a2361a9787334eb0ebab527733d0e0779646142ad5cb3a",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 8,
+      "source_sha256": "8b8ffc639eb65756d3ab3f2de516f6d29d9a6373a985f8befa62b777517e1380",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 9,
+      "source_sha256": "dd721d46b7964d34cd6eede100305f993b65d8de172e746eddc68388ab63ac97",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 10,
+      "source_sha256": "e4fd21f31a385483a3f70498d39c775fe2758cd1f81ab8c27797dccba09f8cee",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P26",
+      "chapter": 11,
+      "source_sha256": "551b1b0df17773b79efb58203f990409d7e3b42c4f182b89b7b9df909389fb14",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 1,
+      "source_sha256": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 2,
+      "source_sha256": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 3,
+      "source_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 4,
+      "source_sha256": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 5,
+      "source_sha256": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 6,
+      "source_sha256": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 7,
+      "source_sha256": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 8,
+      "source_sha256": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 9,
+      "source_sha256": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 10,
+      "source_sha256": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 11,
+      "source_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 12,
+      "source_sha256": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 13,
+      "source_sha256": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 14,
+      "source_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 15,
+      "source_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P27",
+      "chapter": 16,
+      "source_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 1,
+      "source_sha256": "93cb684dd34b65aa1f37099ccdf48b1229bf79a3a38e6ba6cd4672a373910653",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 2,
+      "source_sha256": "23e82bf6f59ac11afc89bf66d9d7438c8280debe99772deb54f714c359afabe5",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 3,
+      "source_sha256": "eae5fda61855b552aebcc3427a308c33fa686e1820b2c82d628be7ea2175a2f2",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 4,
+      "source_sha256": "05f3493ccf17d2045ee4b53e0e8ac26d5aea9b49af7318142490f0a52f062c34",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 5,
+      "source_sha256": "6184605739ab277953e4925f789468dcf884d39cea156c67c3bccb49fc02523c",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 6,
+      "source_sha256": "a3613d6b55494ce4320bfdaef785b96ac799fc052dd4b8896ed119b34889f83b",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 7,
+      "source_sha256": "ae9ebf407c3fdf985edff3698d207b11fbef445f2f884cf1192edc3e6fe04369",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 8,
+      "source_sha256": "8ea0815324b31d43b1aa9a9557e030de93c21a0571fe6119c8e74b6332c0701d",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 9,
+      "source_sha256": "2dc954ea2a8c18810d8ec555f555eda30b05509f4c0e7d4468eaeafc8169b44a",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 10,
+      "source_sha256": "97b87b38f98c8f7edc84dd03d70451c1b3a4af57c5171833d125ef37c25ce08a",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 11,
+      "source_sha256": "c0d83eafece0e8208aaa444569da3d21cf4163251ac5cfa8844b7a5372fdd63f",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 12,
+      "source_sha256": "21524e1a60edb905e6ce18a6858e150d0017e6460a1cc88c7f5398f52424dabe",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 13,
+      "source_sha256": "38758d7cf28667f4b505ae37843249e0a20b5b3572a7f3fa4864862e6e1f2d44",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 14,
+      "source_sha256": "ea29513015a1d92ebbc6f25b13b6a915cd7b326445e127ded5a1b648a3bd2d7f",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 15,
+      "source_sha256": "a1caae0486a54c226e64691b443ff6ad20ccb3ceeb9b139dbcd143053b650023",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 16,
+      "source_sha256": "c582ad6176eb0551e74ed76f952471ca9a6f98a35c593677918d2f235dcd6bf0",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 17,
+      "source_sha256": "1c15205865555e4569ff7f254bce831c06e981777926e80d241fff8a79f2428f",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 18,
+      "source_sha256": "4218621f06cbab7c41f289d197c90277cb89c4a1a7422cf7a11c87ddf31308b8",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 19,
+      "source_sha256": "0c5a44b45953b3b086ac4f058e0164a29347e7f23440ca12502699a3d2042e20",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P38",
+      "chapter": 20,
+      "source_sha256": "3a9a459e6e400f8ad948ca07399041ffe8b0fc567ca53f3e91fa5c5bc16d17e0",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 1,
+      "source_sha256": "9f71cccdbf248a802e6c6d525cabd3828650cd4a5b390fcae03be8387deeb421",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 2,
+      "source_sha256": "a43804cc8f4237b1e05a47ef41147da17c18fbc0afa1c7abb35c1ab41c3da548",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 3,
+      "source_sha256": "2fd5b056129fe273dfdaeeb402c5484ca1cdb2681a7d3f4a929126f3432cbd61",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 4,
+      "source_sha256": "7d7de33792d3586625ebf28aeb31f8777aab36d05dc3316d34cdfb6342a6b50e",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 5,
+      "source_sha256": "73142c3670de4a05715e5ff00adeb162bae04cf996d8414f0ba386937e56ac0b",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 6,
+      "source_sha256": "81d8d1ca04340a9457ab9387c2ce433501002f4c2f7be9870bdcfd53439ffbda",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 7,
+      "source_sha256": "e032b81d6dd08e6c5912f75c01a9749ac9c45cca3daada8e0082f2a34305891b",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 8,
+      "source_sha256": "bba08f1961b2c6d47743762a5f53d41d30a513ce4ffe734d1f8e66e1821b0ef8",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 9,
+      "source_sha256": "2b8a887f50ad0e498b3e3afe02343440ca02639d0e548177cd6d1e7132762399",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 10,
+      "source_sha256": "6357b7443c7b4f43cff3852bea98d4732f3e8ea93879bfc6ebb76a85c8f917e0",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 11,
+      "source_sha256": "802a15717c02e218bbfaa91df1e4826676da0b9c2c56cd05776cd7d2d19f0c51",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 12,
+      "source_sha256": "3c615219d2201d2bb1495d2ca919c31b6c5639ed304b42172d02dfb33b358fc9",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 13,
+      "source_sha256": "c6bf9e2523bd51abfb3de4be8c765a018a4ece0de06b46a8e3c73088e19f366f",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P39",
+      "chapter": 14,
+      "source_sha256": "ad31d19c3d28245e7ddf63719342c5c656ce4aed54af155fa950ae8482b1c4c4",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 1,
+      "source_sha256": "3595da84bc5f6c67674a317fe89f76218d6991e29c1ceb5b0da1c6afd9a0cc87",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 2,
+      "source_sha256": "0a10ecc7943f567027c546a47c4af5106213497374af9b13968b49bb5b185703",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 3,
+      "source_sha256": "bdd693a1208af7b51591ef2ff819fafee4a9f35b96700be532886fb1e83cd648",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 4,
+      "source_sha256": "566c5a4599e26dca902d4f794b44b6a0226d3393e22ac0f9c3691b4323379e22",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 5,
+      "source_sha256": "7c09cf1dad22d86fb3cf344e1b3c835dc83474de95a4c42d59795f2d49f07bcc",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 6,
+      "source_sha256": "519288afa1121f3acedd6758f2c06c98cc2b9dfa1cab2fca24500df578e4b4b3",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 7,
+      "source_sha256": "ddfad9c87d6fb722d61d737d29d76a7cab7f390a29b0f8a6c86c2ef8d35b0e1a",
+      "actual_source_slice_bytes_match": true
+    },
+    {
+      "book_id": "P40",
+      "chapter": 8,
+      "source_sha256": "aa56af2983dbef38f96c6cee00b3962f9973f67e2112036e70459de82c92abfe",
+      "actual_source_slice_bytes_match": true
+    }
+  ],
+  "5_separate_alias_sidecars_exact_and_69_old_dossier_alias_bytes_match": true,
+  "complete_primary_source_links_all_stage_canonical_SHA_match": true,
+  "root_execution_preexisting_canonical_SHA_protection_count": 651,
+  "all244_added_files_present": true,
+  "no_added_chapter_markdown_from_restoration": true,
+  "added_book_or_chapter_count": 0,
+  "original_definition_or_dossier_edits_by_this_recheck": 0,
+  "generated_utc": "2026-10-13T18:56:09.493687+00:00"
+}

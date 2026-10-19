@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>本地美股研究台 · 使用说明</title>
+  <style>
+    :root{color-scheme:light;--ink:#17352e;--muted:#52665f;--line:#dce5de;--green:#176247}
+    *{box-sizing:border-box}body{margin:0;background:#f3f6f2;color:var(--ink);font:16px/1.85 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+    main{max-width:840px;margin:42px auto;padding:34px 42px;background:#fff;border:1px solid var(--line);border-radius:18px}
+    .eyebrow{margin:0;color:var(--green);font-size:13px;letter-spacing:.08em}h1{font-size:30px;line-height:1.4;margin:9px 0 14px}h2{font-size:20px;margin:30px 0 10px}p{margin:10px 0;color:var(--muted)}strong{color:var(--ink)}
+    nav{display:flex;flex-wrap:wrap;gap:12px;margin:23px 0}a{color:var(--green);text-underline-offset:4px}nav a{padding:9px 17px;border:1px solid var(--green);border-radius:9px;text-decoration:none}nav a:first-child{background:var(--green);color:white}
+    ol{padding-left:25px}li{padding:5px 0}.note{padding:14px 18px;border-left:3px solid var(--green);background:#f1f7f1;border-radius:0 8px 8px 0}
+    table{width:100%;border-collapse:collapse;font-size:15px;margin:12px 0}th,td{text-align:left;vertical-align:top;padding:11px 12px;border-bottom:1px solid var(--line)}th{width:26%;color:var(--ink);font-weight:600}td{color:var(--muted)}footer{border-top:1px solid var(--line);margin-top:30px;padding-top:18px;font-size:14px;color:var(--muted)}
+    @media(max-width:600px){main{margin:12px;padding:24px 20px;border-radius:12px}h1{font-size:26px}th{width:31%}th,td{padding:10px 7px}}
+  </style>
+</head>
+<body>
+<main>
+  <p class="eyebrow">本地使用 · 自动联网 · 原文可查</p>
+  <h1>打开你的美股研究台</h1>
+  <p>工作台读取公开行情、检查市场状态与个股技术条件，并按书本机制显示资料、反例和缺口。书本审核状态以档案页为准；阅读完成不等于整套策略已自动化或预测已经校准。</p>
+  <nav aria-label="打开研究资料">
+    <a href="index.html">打开选股工作台</a>
+    <a href="library/书本深读档案.html">打开书本深读档案</a>
+  </nav>
+
+  <h2>第一次启动</h2>
+  <ol>
+    <li><strong>先解压整个文件夹。</strong>保留网页、启动器和书库的相对位置，不只取出一个 HTML。</li>
+    <li>Mac 双击文件夹里的<strong>“一键启动选股台.command”</strong>。启动器会检查已有本地服务，或启动服务并打开浏览器；本机需要已有 Python 3.9 及以上版本。</li>
+    <li>保持电脑联网、唤醒，并保留服务终端窗口。首次采集股票池与行情可能需要几分钟，页面会在取得数据后更新。</li>
+  </ol>
+  <p>Windows 可使用同文件夹的“启动选股台.bat”，同样需要已有 Python 3.9 及以上版本。本包不自动安装软件、不替你注册或购买行情账号。</p>
+  <p class="note">单独双击 HTML 可以看界面和静态书库，但网页本身不能启动电脑上的后台服务。若页面显示“未连接”，先使用启动器；服务启动后页面会重连。</p>
+
+  <h2>自动更新怎样工作</h2>
+  <p>本地服务运行期间约每 5 分钟采集一次，日线与财报使用各自标明年龄的缓存，减少重复请求。关闭浏览器不会自动停止服务；关闭服务窗口、按 Control+C 或电脑休眠会暂停采集。再次打开网页或启动器即可继续查看。</p>
+  <p>股票池为按公开市值排名及来源筛选口径取得的 100 只证券。若个别数据源失败，页面保留缺项和采集状态；有报价不表示基准、财报、新闻或其他条件都齐全。</p>
+
+  <h2>看清四种不同的数据</h2>
+  <table aria-label="行情与财报口径">
+    <tbody>
+      <tr><th>最新报价</th><td>查看来源报价时间和接收时间。公开网页渠道的精确延迟未知，不能把每次联网或接收时间称为逐笔实时行情。若只得到完成日线的收盘价，页面会标明。</td></tr>
+      <tr><th>日线与市场</th><td>指标使用完成日线，和未复权的最新报价分开。查看最后日期、复权口径、成交量口径及纽约交易状态；休市时不应期待新成交。</td></tr>
+      <tr><th>SEC 财报</th><td>只提取已取得的同一申报、同一报告期、标准 USD 标签的年度 XBRL 事实。报告截至日、申报日和接口接收日不同；缺项保留未知，不能当作已通读当前报告全部附注或当前季度数据。</td></tr>
+      <tr><th>资金观察</th><td>年度经营现金流是企业会计事实；OBV、CMF 是价格成交量代理。这些都不能识别机构账户或证明股票市场真实净流入，目前没有接入真实机构资金净流。</td></tr>
+    </tbody>
+  </table>
+  <p>没有已有正规行情账号时，默认使用公开渠道。若使用已有 Alpaca 配置，页面仍须按所选 feed、覆盖市场与时间判断，本地轮询快照也不是完整同步逐笔盘口。</p>
+
+  <h2>文献检查与模型会话分开</h2>
+  <p><strong>默认是确定性的文献规则与资料检查，模型调用为 0。</strong>它列出明确绑定的原书机制、现代计算、证据与缺项；交叉检查文字不等于已经调用了独立语言模型，也不表示全部原书策略都已编码。</p>
+  <p><strong>可选会话使用你本机已有的 Ollama 模型。</strong>只有档案审核门、模型可用性和上下文条件满足时，才可主动开始。设计流程为 40 份书本初评、4 组质疑、40 份回应、4 组裁决，合计计划 88 次请求；以会话日志的实际请求数、完成数、失败或弃权为准，不能把计划数当已完成数。</p>
+  <p>软件不自动下载模型、不调用付费云接口，也没有把书本分别训练成 40 个模型。可选会话输出供进一步核查，不改写行情、技术风险门或执行许可；本说明没有声称已经运行过 88 次会话。</p>
+
+  <h2>页面未连接或启动器拒绝复用</h2>
+  <p>先确认服务终端仍在运行、电脑联网且未休眠。启动器若提示本地端口已有其他服务，会保留它；若提示正在运行另一版研究台，请在原研究台终端按 Control+C，再双击本包启动器。不要同时启动多个不同版本。</p>
+  <footer>技术分是工程排序，不能读作上涨概率。市况硬门和数据未知项仍需查看；本地工作台没有下单接口，也没有已经验证的未来收益保证。</footer>
+</main>
+</body>
+</html>

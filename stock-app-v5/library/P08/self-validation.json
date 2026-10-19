@@ -1,0 +1,20 @@
+{
+  "book_id": "P08",
+  "scope": "长度/标记/文件哈希/JSON/确定锚段结构的自检，不是独立语义QA",
+  "passed": true,
+  "han_total": 33736,
+  "minimum": 2471,
+  "chapter_count": 10,
+  "rule_count": 32,
+  "independent_semantic_qa_passed": true,
+  "artifacts_sha256": {
+    "专家定义.json": "8aa0a4dbaf013e704587b0ad65cbc8c2e0cb113dffdfb2c2c856b08dcfcbfb0b",
+    "章节与阅读审计.json": "ced985af1206a6931a9dcfa256c047bb438aa1c315164ee39e1198605153a7f5",
+    "source-metadata.json": "e973c24deb38eb7b68e42e0a3a47b49631505f994add32ce06a119b7e0f109b5",
+    "章节深读.md": "f629cada64bbcd5535d53a3b3a95da1f98af9448559cd64c46478e2a077d5252",
+    "全书综合与前后置页.md": "253b49a2525f9050e36eb677eb844565926aab6353d9273218bd9d0cbcaaa05f",
+    "专家说明.md": "688943f734ba67eec2051a77ea0a5f75ff8be99202d607004d0a7fc56561dff9"
+  },
+  "independent_qa_result": "passed_qualified",
+  "delivery_pdf_sha256": "60126690e56d24774e5b7701929de68c8e4355d77e2764a9b61676b6769bed0c"
+}

@@ -1,0 +1,1437 @@
+{
+  "schema_version": "book-expert-v5",
+  "book_id": "P29",
+  "expert_id": "P29-EXPERT",
+  "expert_count": 1,
+  "book_count": 1,
+  "name_zh": "科顿现金流、证券权利与证据审查专家",
+  "author": "William Cotton, F.S.A., of Exeter",
+  "title": "Everybody’s Guide to Money Matters",
+  "title_zh_reference": "人人的金钱事务指南",
+  "year": 1898,
+  "knowledge_status": "complete_digital_text_and_chapter_dossiers_independent_QA_pass_after_corrections_with_source_limits",
+  "knowledge_grounded": true,
+  "complete_source_read": true,
+  "source": {
+    "book_id": "P29",
+    "title": "Everybody’s Guide to Money Matters",
+    "author": "William Cotton, F.S.A., of Exeter",
+    "edition_title_year": 1898,
+    "catalog_url": "https://www.gutenberg.org/ebooks/1903",
+    "rights": "Project Gutenberg catalogue: public domain in the USA; not a blanket worldwide legal claim",
+    "retrieved_utc": "2026-10-12T10:27:06.280037+00:00",
+    "sources": [
+      {
+        "file": "source/pg1903.txt",
+        "url": "https://www.gutenberg.org/cache/epub/1903/pg1903.txt",
+        "bytes": 233481,
+        "sha256": "defad25040b984a02c8c2da7449846e8aa0cee7f47bab0b6d235481a4bf70973"
+      },
+      {
+        "file": "source/pg1903.html",
+        "url": "https://www.gutenberg.org/cache/epub/1903/pg1903-images.html",
+        "bytes": 258769,
+        "sha256": "1d07598fd3b1f6d57d70520799fef42e519fe83f3a552673078f25b0f4bbf10c"
+      }
+    ],
+    "complete_PG_start_end_markers": true,
+    "original_chapter_count": 11,
+    "reading_status": "complete_PG_transcription_reading_qualified",
+    "original_scanned_glyphs_all_verified": false,
+    "transcriber_warning": "Table mistakes in original preserved and marked with underscores; landscape tables retain long lines; pound symbol preservation noted.",
+    "reading_completed_utc": "2026-10-12T11:10:58.995774+00:00",
+    "all_11_chapters_actual_full_text_read": true,
+    "frontmatter_appendix_and_full_PG_license_read": true,
+    "exact_paper_page_alignment_verified": false,
+    "unresolved_original_or_transcription_numbers": true
+  },
+  "body_han_total": 25636,
+  "current_stock_decision_enabled": false,
+  "live_data_connected": false,
+  "actual_expert_invocation_for_current_market": false,
+  "predictive_probability_calibrated": false,
+  "backtest_executed": false,
+  "rules": [
+    {
+      "id": "P29-R01",
+      "chapter_numbers": [
+        1
+      ],
+      "appendix": false,
+      "name_zh": "先辨计价单位与支付工具",
+      "author_basis_zh": "金本位、旧币单位、银行券承诺及法偿条件不同，付款义务不自动包含找零便利。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "source_lines": [
+            222,
+            343
+          ],
+          "source_file": "source/ch01.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            1,
+            12
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00033",
+          "dossier_file": "chapters/ch01.md"
+        }
+      ],
+      "required_inputs": [
+        "currency",
+        "unit",
+        "paymentInstrument",
+        "applicableTerms"
+      ],
+      "horizon_zh": "具体支付当日",
+      "modern_boundary_zh": "旧英国金本位与法偿规则不是现行美股或全球支付法。",
+      "abstention_or_falsification_zh": "单位、币种或权限不明时不判断付款是否完成。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R02",
+      "chapter_numbers": [
+        1
+      ],
+      "appendix": false,
+      "name_zh": "现金转银行须先核机构并保留凭据",
+      "author_basis_zh": "选择可信机构，存入凭据与银行欠客户的存折记录相配，支票存根和签名保留支付证据。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "source_lines": [
+            345,
+            533
+          ],
+          "source_file": "source/ch01.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            1,
+            12
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00033",
+          "dossier_file": "chapters/ch01.md"
+        }
+      ],
+      "required_inputs": [
+        "institutionIdentity",
+        "depositReceipt",
+        "accountEntries",
+        "paymentRecords"
+      ],
+      "horizon_zh": "每次交付和对账期间",
+      "modern_boundary_zh": "记录可追踪不等于机构无违约或欺诈风险。",
+      "abstention_or_falsification_zh": "没有机构实际入账或收款证据时不能确认余额。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R03",
+      "chapter_numbers": [
+        2
+      ],
+      "appendix": false,
+      "name_zh": "可投资余额来自收支时间预算",
+      "author_basis_zh": "先估未来支出与可收租息，再把不需即用部分转计息存款。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "source_lines": [
+            574,
+            608
+          ],
+          "source_file": "source/ch02.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            13,
+            19
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00072",
+          "dossier_file": "chapters/ch02.md"
+        }
+      ],
+      "required_inputs": [
+        "cashSchedule",
+        "incomeReliability",
+        "expenseDates",
+        "depositTerms"
+      ],
+      "horizon_zh": "示例半年；实际按用户收支期",
+      "modern_boundary_zh": "半年和三百是教学例，不是所有人的固定应急金。",
+      "abstention_or_falsification_zh": "收入推迟或紧急支出出现要重新估计所谓多余金额。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R04",
+      "chapter_numbers": [
+        2
+      ],
+      "appendix": false,
+      "name_zh": "存款期限和控制权必须写明",
+      "author_basis_zh": "十四日通知、急取扣计息日、不可转让以及两人提款形式影响使用。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "source_lines": [
+            610,
+            635
+          ],
+          "source_file": "source/ch02.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            13,
+            19
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00072",
+          "dossier_file": "chapters/ch02.md"
+        }
+      ],
+      "required_inputs": [
+        "noticePeriod",
+        "interestDayBasis",
+        "withdrawalAuthority",
+        "ownership"
+      ],
+      "horizon_zh": "合同存续和紧急提款时",
+      "modern_boundary_zh": "历史免等通知惯例不承诺现行银行同样办理。",
+      "abstention_or_falsification_zh": "授权、日数基础或提前支取条件缺时精确息款弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R05",
+      "chapter_numbers": [
+        2
+      ],
+      "appendix": false,
+      "name_zh": "内部转存与真实支出分开",
+      "author_basis_zh": "存折收付差额208镑11先令2便士成立，但三百转存不是消费。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "source_lines": [
+            637,
+            675
+          ],
+          "source_file": "source/ch02.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            13,
+            19
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00072",
+          "dossier_file": "chapters/ch02.md"
+        }
+      ],
+      "required_inputs": [
+        "accountLedger",
+        "transferCounterpart",
+        "cashSettlement"
+      ],
+      "horizon_zh": "对账期间",
+      "modern_boundary_zh": "三百作为内部转账的抵销是独立家庭账务延伸；年份模板不构成真实流水。",
+      "abstention_or_falsification_zh": "同笔转存不能在两账户重复当新增财富。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R06",
+      "chapter_numbers": [
+        3
+      ],
+      "appendix": false,
+      "name_zh": "服务成本包括无息余额",
+      "author_basis_zh": "银行使用客户无息余额获利；两万余额替代收益五百只是例示机会成本。",
+      "chapter_sources": [
+        {
+          "chapter": 3,
+          "source_lines": [
+            745,
+            789
+          ],
+          "source_file": "source/ch03.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            20,
+            25
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00087",
+          "dossier_file": "chapters/ch03.md"
+        }
+      ],
+      "required_inputs": [
+        "averageBalance",
+        "fees",
+        "liquidityNeed",
+        "alternativeRisk"
+      ],
+      "horizon_zh": "账户实际保持期间",
+      "modern_boundary_zh": "百分之二点五不是保证替代收益，不能忽视支付所需余额。",
+      "abstention_or_falsification_zh": "替代投资风险及现金需要未知时不建议全部转出。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R07",
+      "chapter_numbers": [
+        3
+      ],
+      "appendix": false,
+      "name_zh": "贴现不是足额现金与固定统一利率",
+      "author_basis_zh": "未来票据可扣贴现额提前换现款，实际报价可低于银行参考利率。",
+      "chapter_sources": [
+        {
+          "chapter": 3,
+          "source_lines": [
+            790,
+            856
+          ],
+          "source_file": "source/ch03.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            20,
+            25
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00087",
+          "dossier_file": "chapters/ch03.md"
+        }
+      ],
+      "required_inputs": [
+        "billTerms",
+        "acceptorCredit",
+        "discountQuote",
+        "maturity"
+      ],
+      "horizon_zh": "票据剩余期限",
+      "modern_boundary_zh": "源汇票年份与到期冲突未解，不能据此算精确报价。",
+      "abstention_or_falsification_zh": "付款责任、有效到期或利率缺时只解释机制。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R08",
+      "chapter_numbers": [
+        4
+      ],
+      "appendix": false,
+      "name_zh": "证券性质与价格分别调查",
+      "author_basis_zh": "继承证券也应查可疑性质与异常高价，动听成功前景须证明。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "source_lines": [
+            909,
+            959
+          ],
+          "source_file": "source/ch04.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            26,
+            34
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00098",
+          "dossier_file": "chapters/ch04.md"
+        }
+      ],
+      "required_inputs": [
+        "securityIdentity",
+        "terms",
+        "issuerFacts",
+        "price"
+      ],
+      "horizon_zh": "持有前和重大证据改变时",
+      "modern_boundary_zh": "可转换在该段指可交易，不自动指债转股。",
+      "abstention_or_falsification_zh": "未核真实项目而仅有宣传时安全结论弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R09",
+      "chapter_numbers": [
+        4
+      ],
+      "appendix": false,
+      "name_zh": "抵押保护依赖产权与净变现缓冲",
+      "author_basis_zh": "房产值需覆盖本金、欠息与诉讼成本，律师查产权、专业估值，受托财产骗案否证只拿契据。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "source_lines": [
+            964,
+            1010
+          ],
+          "source_file": "source/ch04.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            26,
+            34
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00098",
+          "dossier_file": "chapters/ch04.md"
+        }
+      ],
+      "required_inputs": [
+        "title",
+        "priorClaims",
+        "valuation",
+        "enforcementCosts"
+      ],
+      "horizon_zh": "贷款期限与违约处置",
+      "modern_boundary_zh": "三分之二历史常见额非现代固定安全阈值；法律后果需现行资料。",
+      "abstention_or_falsification_zh": "无处分权、估值或优先权证据时抵押安全弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R10",
+      "chapter_numbers": [
+        4
+      ],
+      "appendix": false,
+      "name_zh": "面值买价已缴额与催缴责任分开",
+      "author_basis_zh": "报价110或90不是面值100；五镑股仅缴三仍有两镑潜在责任，未缴股息基数另限。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "source_lines": [
+            1065,
+            1121
+          ],
+          "source_file": "source/ch04.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            26,
+            34
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00098",
+          "dossier_file": "chapters/ch04.md"
+        }
+      ],
+      "required_inputs": [
+        "faceValue",
+        "price",
+        "paidIn",
+        "callLiability",
+        "incomeBasis"
+      ],
+      "horizon_zh": "入手和催缴可能发生期",
+      "modern_boundary_zh": "历史股份整单位与催缴制度不泛化到所有现代股票。",
+      "abstention_or_falsification_zh": "契约性质和未缴责任缺时收入率和最大风险弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R11",
+      "chapter_numbers": [
+        4
+      ],
+      "appendix": false,
+      "name_zh": "收入权由除息登记与付款日区分",
+      "author_basis_zh": "付款前已除息的购买不取得该期收入，企业变化利润和固定利息性质不同。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "source_lines": [
+            1124,
+            1149
+          ],
+          "source_file": "source/ch04.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            26,
+            34
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00098",
+          "dossier_file": "chapters/ch04.md"
+        }
+      ],
+      "required_inputs": [
+        "exDate",
+        "recordRules",
+        "paymentDate",
+        "incomeTerms"
+      ],
+      "horizon_zh": "相关权益期",
+      "modern_boundary_zh": "一八九八年固定日期非今日交易日历。",
+      "abstention_or_falsification_zh": "无证券-specific日程不能给最后买入获息日。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R12",
+      "chapter_numbers": [
+        5
+      ],
+      "appendix": false,
+      "name_zh": "赎回权不等于强制到期",
+      "author_basis_zh": "政府永久债可按面值提前偿还的权力、预定降息与某些利息担保但缺还本安排分别存在。",
+      "chapter_sources": [
+        {
+          "chapter": 5,
+          "source_lines": [
+            1163,
+            1205
+          ],
+          "source_file": "source/ch05.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            35,
+            40
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00125",
+          "dossier_file": "chapters/ch05.md"
+        },
+        {
+          "chapter": 5,
+          "source_lines": [
+            1235,
+            1252
+          ],
+          "source_file": "source/ch05.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            35,
+            40
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00125",
+          "dossier_file": "chapters/ch05.md"
+        }
+      ],
+      "required_inputs": [
+        "callTerms",
+        "couponSchedule",
+        "maturity",
+        "price"
+      ],
+      "horizon_zh": "全持有期间和可赎回窗口",
+      "modern_boundary_zh": "作者称政府最安全是其时代判断，不保证价格与流动性。",
+      "abstention_or_falsification_zh": "只见政府名而没有发行条款时赎回及收益弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R13",
+      "chapter_numbers": [
+        5
+      ],
+      "appendix": false,
+      "name_zh": "较多年付可能消耗资本",
+      "author_basis_zh": "一千永久债换二十年每年五十五，之后停止并注销本金，是固定期限年金。",
+      "chapter_sources": [
+        {
+          "chapter": 5,
+          "source_lines": [
+            1210,
+            1229
+          ],
+          "source_file": "source/ch05.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            35,
+            40
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00125",
+          "dossier_file": "chapters/ch05.md"
+        }
+      ],
+      "required_inputs": [
+        "paymentSchedule",
+        "principalRights",
+        "incomeNeed",
+        "bequestNeed"
+      ],
+      "horizon_zh": "明确二十年示例；实际按合同",
+      "modern_boundary_zh": "五十五除一千不等于永久利息百分之五点五；独立需现金流比较。",
+      "abstention_or_falsification_zh": "期限和本金归属缺时不能比较终身收入。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R14",
+      "chapter_numbers": [
+        5
+      ],
+      "appendix": false,
+      "name_zh": "执行保证代收和再投资各有范围",
+      "author_basis_zh": "地方银行保证经纪履约，授权代收、税扣及限额内自动再投资解决不同问题。",
+      "chapter_sources": [
+        {
+          "chapter": 5,
+          "source_lines": [
+            1254,
+            1311
+          ],
+          "source_file": "source/ch05.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            35,
+            40
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00125",
+          "dossier_file": "chapters/ch05.md"
+        }
+      ],
+      "required_inputs": [
+        "executionGuarantee",
+        "authority",
+        "taxStatus",
+        "reinvestmentTerms"
+      ],
+      "horizon_zh": "交易与各期收入",
+      "modern_boundary_zh": "保证经纪不等于保证发行人或价格；佣金原字仍待扫描核。",
+      "abstention_or_falsification_zh": "没有真实费用及税规则时不算个人净收入。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R15",
+      "chapter_numbers": [
+        6
+      ],
+      "appendix": false,
+      "name_zh": "年金的生命条件与购价先于数字排序",
+      "author_basis_zh": "单人、共同生存或最后生存者年金不同，现金和百镑股票购买基数随价区分。",
+      "chapter_sources": [
+        {
+          "chapter": 6,
+          "source_lines": [
+            1318,
+            1399
+          ],
+          "source_file": "source/ch06.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            41,
+            54
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00147",
+          "dossier_file": "chapters/ch06.md"
+        }
+      ],
+      "required_inputs": [
+        "lifeCondition",
+        "purchaseBasis",
+        "price",
+        "paymentTerms"
+      ],
+      "horizon_zh": "生命或延后给付存续",
+      "modern_boundary_zh": "原费率、年龄限制和分类是历史条件，不输出现代核保或寿命判断。",
+      "abstention_or_falsification_zh": "合同和正式现行报价缺时不给个人领取额。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R16",
+      "chapter_numbers": [
+        6
+      ],
+      "appendix": false,
+      "name_zh": "保险年金需持续偿付而非只看现在",
+      "author_basis_zh": "公司当前有钱不够，还须长期保持偿付；末次给付到死亡当天的标记改变比较。",
+      "chapter_sources": [
+        {
+          "chapter": 6,
+          "source_lines": [
+            1572,
+            1730
+          ],
+          "source_file": "source/ch06.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            41,
+            54
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00147",
+          "dossier_file": "chapters/ch06.md"
+        }
+      ],
+      "required_inputs": [
+        "solvencyReports",
+        "longTermLiabilities",
+        "contract",
+        "finalPaymentRule"
+      ],
+      "horizon_zh": "整个预计年金期限",
+      "modern_boundary_zh": "全部表已读但原格有错，数字不能当今日报价或无误计算库。",
+      "abstention_or_falsification_zh": "原异常格、空格和未核条款用于精算时弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R17",
+      "chapter_numbers": [
+        6
+      ],
+      "appendix": false,
+      "name_zh": "名义同息率不消除收款币种差",
+      "author_basis_zh": "卢比票据按卢比付息，换英镑的收入和市价不同于英国发行的印度借款。",
+      "chapter_sources": [
+        {
+          "chapter": 6,
+          "source_lines": [
+            1733,
+            1752
+          ],
+          "source_file": "source/ch06.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            41,
+            54
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00147",
+          "dossier_file": "chapters/ch06.md"
+        }
+      ],
+      "required_inputs": [
+        "paymentCurrency",
+        "spendingCurrency",
+        "FXTerms",
+        "price"
+      ],
+      "horizon_zh": "每期支付及变现期",
+      "modern_boundary_zh": "书中卢比约半价和62报价都是作者时点观察。",
+      "abstention_or_falsification_zh": "无实际汇率与币种条款时本币收益弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R18",
+      "chapter_numbers": [
+        7
+      ],
+      "appendix": false,
+      "name_zh": "地方授权和偿债基金不能盖住产业衰退",
+      "author_basis_zh": "合法借款须资源充足，但借满后失去产业的城市可能付不了，买回折价利发行者。",
+      "chapter_sources": [
+        {
+          "chapter": 7,
+          "source_lines": [
+            1760,
+            1795
+          ],
+          "source_file": "source/ch07.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            55,
+            78
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00172",
+          "dossier_file": "chapters/ch07.md"
+        }
+      ],
+      "required_inputs": [
+        "revenueBase",
+        "industryDependence",
+        "debt",
+        "sinkingFund"
+      ],
+      "horizon_zh": "负债和本地资源变化期",
+      "modern_boundary_zh": "作者绝对安全和其衰落反例一起保留，不当审批保证。",
+      "abstention_or_falsification_zh": "真实收入不足、无法核资源时安全弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R19",
+      "chapter_numbers": [
+        7
+      ],
+      "appendix": false,
+      "name_zh": "信用担保顺位与溢价赎回分开",
+      "author_basis_zh": "记名和持票不同，溢价债早赎损本金差额，铁路保证价值与优先顺位需查。",
+      "chapter_sources": [
+        {
+          "chapter": 7,
+          "source_lines": [
+            1837,
+            2097
+          ],
+          "source_file": "source/ch07.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            55,
+            78
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00172",
+          "dossier_file": "chapters/ch07.md"
+        }
+      ],
+      "required_inputs": [
+        "ownershipForm",
+        "callTerms",
+        "guarantor",
+        "seniority",
+        "price"
+      ],
+      "horizon_zh": "付款、赎回和退出期间",
+      "modern_boundary_zh": "折价无损只是成功按面值还本的局部比较；非所有优先股都非累计。",
+      "abstention_or_falsification_zh": "借款付款能力和保证范围不明时不给安全等级。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R20",
+      "chapter_numbers": [
+        7
+      ],
+      "appendix": false,
+      "name_zh": "行业判断需要经营和治理证据",
+      "author_basis_zh": "银行催缴、地区需求与替代、代理失控、矿源耗尽等因素否证高收入或高名气安全。",
+      "chapter_sources": [
+        {
+          "chapter": 7,
+          "source_lines": [
+            2100,
+            2437
+          ],
+          "source_file": "source/ch07.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            55,
+            78
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00172",
+          "dossier_file": "chapters/ch07.md"
+        }
+      ],
+      "required_inputs": [
+        "financials",
+        "callLiability",
+        "localDemand",
+        "management",
+        "assetQuality"
+      ],
+      "horizon_zh": "企业经营周期与资产寿命",
+      "modern_boundary_zh": "国别行业强评价和失败比例是历史观点，不是当前概率；保险平均法过强须受持续偿付约束。",
+      "abstention_or_falsification_zh": "只给价格或行业标签时大多数本书结论弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R21",
+      "chapter_numbers": [
+        8
+      ],
+      "appendix": false,
+      "name_zh": "成交价差与结算融资另核",
+      "author_basis_zh": "卖低买高两价、经纪费、展期付费与三日两周结算各不同，未持有卖出也有交付条件。",
+      "chapter_sources": [
+        {
+          "chapter": 8,
+          "source_lines": [
+            2444,
+            2574
+          ],
+          "source_file": "source/ch08.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            79,
+            100
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00240",
+          "dossier_file": "chapters/ch08.md"
+        }
+      ],
+      "required_inputs": [
+        "bidAsk",
+        "commission",
+        "financingTerms",
+        "settlementRules"
+      ],
+      "horizon_zh": "实际成交和结算窗口",
+      "modern_boundary_zh": "旧jobber和contango含义不能无说明套现代制度；不执行下单。",
+      "abstention_or_falsification_zh": "成本和合约缺时不给净交易回报。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R22",
+      "chapter_numbers": [
+        8
+      ],
+      "appendix": false,
+      "name_zh": "信息重复不等独立证据",
+      "author_basis_zh": "经纪可能清库存，付费赞文被转引成新闻，陌生人私人邀请也可取自名单。",
+      "chapter_sources": [
+        {
+          "chapter": 8,
+          "source_lines": [
+            2671,
+            2918
+          ],
+          "source_file": "source/ch08.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            79,
+            100
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00240",
+          "dossier_file": "chapters/ch08.md"
+        }
+      ],
+      "required_inputs": [
+        "recommendationOrigin",
+        "paidPromotion",
+        "inventoryInterest",
+        "independentFacts"
+      ],
+      "horizon_zh": "决策形成与消息更新期",
+      "modern_boundary_zh": "多专家重复同一源不等于独立验证是本次现代延伸，非作者提出多agent架构。",
+      "abstention_or_falsification_zh": "保赚说法、无法验证资产或利益时价值结论弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R23",
+      "chapter_numbers": [
+        8
+      ],
+      "appendix": false,
+      "name_zh": "矿业宣传链要求原始产权产出证据",
+      "author_basis_zh": "每吨三盎司报告、工图和涨价可引诱公众，催缴后却无金迹；勘探母公司现金收入又不同最终开采。",
+      "chapter_sources": [
+        {
+          "chapter": 8,
+          "source_lines": [
+            2920,
+            3017
+          ],
+          "source_file": "source/ch08.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            79,
+            100
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00240",
+          "dossier_file": "chapters/ch08.md"
+        }
+      ],
+      "required_inputs": [
+        "title",
+        "engineerReport",
+        "production",
+        "costs",
+        "proceeds",
+        "unpaidCalls"
+      ],
+      "horizon_zh": "开发及资本回收期",
+      "modern_boundary_zh": "案例未具名未外查，不补造公司；报价零散不能作回测序列。",
+      "abstention_or_falsification_zh": "技术名词和漂亮图没有实际核验时安全价值弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R24",
+      "chapter_numbers": [
+        9
+      ],
+      "appendix": false,
+      "name_zh": "保险先匹配依赖与触发期限",
+      "author_basis_zh": "收入人死亡保障不同于慢慢储蓄，定期与双生命触发不同；低费和未来分红有时点差。",
+      "chapter_sources": [
+        {
+          "chapter": 9,
+          "source_lines": [
+            3037,
+            3139
+          ],
+          "source_file": "source/ch09.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            101,
+            121
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00257",
+          "dossier_file": "chapters/ch09.md"
+        },
+        {
+          "chapter": 9,
+          "source_lines": [
+            3284,
+            3338
+          ],
+          "source_file": "source/ch09.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            101,
+            121
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00257",
+          "dossier_file": "chapters/ch09.md"
+        },
+        {
+          "chapter": 9,
+          "source_lines": [
+            3454,
+            3479
+          ],
+          "source_file": "source/ch09.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            101,
+            121
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00257",
+          "dossier_file": "chapters/ch09.md"
+        }
+      ],
+      "required_inputs": [
+        "dependentsNeed",
+        "term",
+        "benefitTrigger",
+        "premiumSchedule",
+        "guaranteedVsBonus"
+      ],
+      "horizon_zh": "保障所对应的依赖期间",
+      "modern_boundary_zh": "年费与28年储蓄为教学例；永久胜储蓄是未证强断言。",
+      "abstention_or_falsification_zh": "预算、期限、续费和保证部分缺时不建议产品。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R25",
+      "chapter_numbers": [
+        9
+      ],
+      "appendix": false,
+      "name_zh": "保单有效性和损失范围需实核",
+      "author_basis_zh": "保管可找到、持续缴费、减额退保及火险子限额/比例条款决定实际可领金额。",
+      "chapter_sources": [
+        {
+          "chapter": 9,
+          "source_lines": [
+            3141,
+            3597
+          ],
+          "source_file": "source/ch09.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            101,
+            121
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00257",
+          "dossier_file": "chapters/ch09.md"
+        }
+      ],
+      "required_inputs": [
+        "policy",
+        "premiumStatus",
+        "beneficiaryAuthority",
+        "surrenderTerms",
+        "insuredValues",
+        "sublimits"
+      ],
+      "horizon_zh": "事故时点及合同存续",
+      "modern_boundary_zh": "历史医疗、婚姻财产、30日、40/33%、5%限额非当前通用法律或费率。",
+      "abstention_or_falsification_zh": "缺合同和缴费证据时实际保障结论弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R26",
+      "chapter_numbers": [
+        10
+      ],
+      "appendix": false,
+      "name_zh": "正名义利差不证明住房协会安全",
+      "author_basis_zh": "月存和还款、退出权、房屋质量、超建及续贷集中提款可形成失败链，审计必须核产权唯一对应。",
+      "chapter_sources": [
+        {
+          "chapter": 10,
+          "source_lines": [
+            3604,
+            3933
+          ],
+          "source_file": "source/ch10.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            122,
+            133
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00296",
+          "dossier_file": "chapters/ch10.md"
+        }
+      ],
+      "required_inputs": [
+        "loanBook",
+        "withdrawalPromises",
+        "assetValuation",
+        "titleAudit",
+        "relatedParties",
+        "arrears"
+      ],
+      "horizon_zh": "存贷款全期与提款压力期间",
+      "modern_boundary_zh": "原40镑2先令算术与表不合，独立复算不能当协会真利；不生成房贷报价。",
+      "abstention_or_falsification_zh": "重复契据、弃房、资金缺口或原数字未解时安全与精确收益弃权。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R27",
+      "chapter_numbers": [
+        11
+      ],
+      "appendix": false,
+      "name_zh": "集中记录与资格程序仍要对应使用",
+      "author_basis_zh": "地方存折、总部回执、年度核对、账户额度、取款授权和身后支付步骤明确。",
+      "chapter_sources": [
+        {
+          "chapter": 11,
+          "source_lines": [
+            3940,
+            4108
+          ],
+          "source_file": "source/ch11.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            134,
+            141
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00316",
+          "dossier_file": "chapters/ch11.md"
+        }
+      ],
+      "required_inputs": [
+        "institutionRules",
+        "reconciledLedger",
+        "identityAuthority",
+        "withdrawalTime",
+        "stockConversion"
+      ],
+      "horizon_zh": "每次存取和遗产申请时",
+      "modern_boundary_zh": "绝对永久安全是作者强说；历史额度和身份法律不移植。",
+      "abstention_or_falsification_zh": "无现行条款或记录不符时不输出保证与个人法律结论。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R28",
+      "chapter_numbers": [],
+      "appendix": true,
+      "name_zh": "附录现期率不是总收益",
+      "author_basis_zh": "不同买价使同面值年息的现期率不同，表不含还本损益和其他成本。",
+      "chapter_sources": [
+        {
+          "chapter": "appendix",
+          "source_lines": [
+            4116,
+            4172
+          ],
+          "source_file": "source/appendix.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            142,
+            148
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00328",
+          "dossier_file": "全书综合与附录.md"
+        }
+      ],
+      "required_inputs": [
+        "coupon",
+        "faceValue",
+        "purchasePrice",
+        "fees",
+        "callTerms"
+      ],
+      "horizon_zh": "各期现金收入；总收益需全现金流",
+      "modern_boundary_zh": "42行294格有异常，独立公式另记，未校全部扫描；不是到期收益率。",
+      "abstention_or_falsification_zh": "冲突格用于精确计算时弃权；仅解释比率概念。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    },
+    {
+      "id": "P29-R29",
+      "chapter_numbers": [],
+      "appendix": true,
+      "name_zh": "委托函件应明确数量单位价格授权",
+      "author_basis_zh": "收据、转存、代收、保管和买卖用不同函件，500面值铁路上限150每百不同500现金预算。",
+      "chapter_sources": [
+        {
+          "chapter": "appendix",
+          "source_lines": [
+            4176,
+            4386
+          ],
+          "source_file": "source/appendix.txt",
+          "source_lines_are_in_full_source": true,
+          "print_pages": [
+            142,
+            148
+          ],
+          "print_page_range_is_contents_based_not_glyph_verified": true,
+          "HTML_anchor": "id00328",
+          "dossier_file": "全书综合与附录.md"
+        }
+      ],
+      "required_inputs": [
+        "securityIdentity",
+        "faceOrCashQuantity",
+        "limitPrice",
+        "authority",
+        "executionReceipt"
+      ],
+      "horizon_zh": "委托与实际成交期",
+      "modern_boundary_zh": "历史函件不能直接发送；未实施下单或外部资金行为。",
+      "abstention_or_falsification_zh": "缺执行回执不声称买卖已经完成。",
+      "calibrated": false,
+      "current_direction_enabled": false,
+      "interpretation_method": "human-readable source-grounded editorial knowledge definition; not author impersonation or independent executed LLM"
+    }
+  ],
+  "primary_questions_zh": [
+    "钱何时需要、何时可收，是否真有多余现金？",
+    "买的是何种权利、是否有未缴与顺位责任？",
+    "面值、价格、收入、偿付、授权和证据有没有混同？",
+    "建议来源与利益是否已查、原表数字能否确认？"
+  ],
+  "required_inputs_union": [
+    "FXTerms",
+    "acceptorCredit",
+    "accountEntries",
+    "accountLedger",
+    "alternativeRisk",
+    "applicableTerms",
+    "arrears",
+    "assetQuality",
+    "assetValuation",
+    "authority",
+    "averageBalance",
+    "beneficiaryAuthority",
+    "benefitTrigger",
+    "bequestNeed",
+    "bidAsk",
+    "billTerms",
+    "callLiability",
+    "callTerms",
+    "cashSchedule",
+    "cashSettlement",
+    "commission",
+    "contract",
+    "costs",
+    "coupon",
+    "couponSchedule",
+    "currency",
+    "debt",
+    "dependentsNeed",
+    "depositReceipt",
+    "depositTerms",
+    "discountQuote",
+    "enforcementCosts",
+    "engineerReport",
+    "exDate",
+    "executionGuarantee",
+    "executionReceipt",
+    "expenseDates",
+    "faceOrCashQuantity",
+    "faceValue",
+    "fees",
+    "finalPaymentRule",
+    "financials",
+    "financingTerms",
+    "guaranteedVsBonus",
+    "guarantor",
+    "identityAuthority",
+    "incomeBasis",
+    "incomeNeed",
+    "incomeReliability",
+    "incomeTerms",
+    "independentFacts",
+    "industryDependence",
+    "institutionIdentity",
+    "institutionRules",
+    "insuredValues",
+    "interestDayBasis",
+    "inventoryInterest",
+    "issuerFacts",
+    "lifeCondition",
+    "limitPrice",
+    "liquidityNeed",
+    "loanBook",
+    "localDemand",
+    "longTermLiabilities",
+    "management",
+    "maturity",
+    "noticePeriod",
+    "ownership",
+    "ownershipForm",
+    "paidIn",
+    "paidPromotion",
+    "paymentCurrency",
+    "paymentDate",
+    "paymentInstrument",
+    "paymentRecords",
+    "paymentSchedule",
+    "paymentTerms",
+    "policy",
+    "premiumSchedule",
+    "premiumStatus",
+    "price",
+    "principalRights",
+    "priorClaims",
+    "proceeds",
+    "production",
+    "purchaseBasis",
+    "purchasePrice",
+    "recommendationOrigin",
+    "reconciledLedger",
+    "recordRules",
+    "reinvestmentTerms",
+    "relatedParties",
+    "revenueBase",
+    "securityIdentity",
+    "seniority",
+    "settlementRules",
+    "sinkingFund",
+    "solvencyReports",
+    "spendingCurrency",
+    "stockConversion",
+    "sublimits",
+    "surrenderTerms",
+    "taxStatus",
+    "term",
+    "terms",
+    "title",
+    "titleAudit",
+    "transferCounterpart",
+    "unit",
+    "unpaidCalls",
+    "valuation",
+    "withdrawalAuthority",
+    "withdrawalPromises",
+    "withdrawalTime"
+  ],
+  "abstain_conditions_zh": [
+    "只有价格OHLCV，没有相关合同、财务、权属或现金流。",
+    "用1898费率、法条、国别或失败比例代替现行证据。",
+    "未解原表要用于精确报价、法律裁决、收益率或回测。",
+    "同一宣传被多个视角重复而没有新增独立原始证据。"
+  ],
+  "internal_tensions_zh": [
+    "银行服务信任与银行股份催缴/倒闭。",
+    "政府安全与赎回价格/币种/期限。",
+    "个人退出权与机构集中提款失败。",
+    "保险平均法强信任与持续偿付/分红估值。",
+    "作者失败比例和永久优越断言缺完整样本。"
+  ],
+  "cross_challenges": [
+    {
+      "claim": "有抵押且利差正，所以协会安全。",
+      "challenge": "查重复契据、实际房屋价值、提款压力与源表算术；缺证撤回。",
+      "rules": [
+        "P29-R09",
+        "P29-R26"
+      ]
+    },
+    {
+      "claim": "国家保证而年付高，故永久收益高。",
+      "challenge": "查本金消耗、赎回权、买价和币种，不以年度数字作全部结论。",
+      "rules": [
+        "P29-R12",
+        "P29-R13",
+        "P29-R15",
+        "P29-R17"
+      ]
+    },
+    {
+      "claim": "多个专家看到相同涨价新闻，足以确认金矿成功。",
+      "challenge": "查源新闻付费/转引、产权和产出；重复不加证据。",
+      "rules": [
+        "P29-R22",
+        "P29-R23"
+      ]
+    },
+    {
+      "claim": "带分红寿险始终胜储蓄。",
+      "challenge": "要求等预算现金流、保证与预计分红区别、续费和保险期；没有则停止比较。",
+      "rules": [
+        "P29-R24",
+        "P29-R25"
+      ]
+    }
+  ],
+  "revision_policy_zh": "逐条区分原作者说法、独立算术与现代转译。新证据记录日期、来源、被否证条件和改判；若无证据不强判。新扫描修正原表时保留旧值与校勘记录。",
+  "output_contract": {
+    "must_include": [
+      "question",
+      "horizon",
+      "used_rule_ids",
+      "source_lines",
+      "author_meaning",
+      "independent_analysis",
+      "missing_inputs",
+      "counterevidence",
+      "abstention_or_qualified_conclusion"
+    ],
+    "must_not_include": [
+      "guaranteed_returns",
+      "calibrated_win_probability",
+      "fabricated_author_personality",
+      "current_orders",
+      "claim_40_books_complete"
+    ]
+  },
+  "callable_system_prompt_zh": "你是P29整本书的知识审查视角，非William Cotton本人。仅使用提供的书规则与具体原文定位，先问期限与权利，验证相关输入，允许反例修改结论。清楚区分作者历史观点、编辑独立复算和现代延伸；只给日线时对书需财务合同的结论弃权。不得把旧阈值、未解表格或比例用于现代概率，不下单，不保证收益。任何系统硬约束或缺数据不可绕过。输出命题、来源、条件、反证、缺项和有保留结论。",
+  "created_utc": "2026-10-12T11:10:58.995774+00:00"
+}

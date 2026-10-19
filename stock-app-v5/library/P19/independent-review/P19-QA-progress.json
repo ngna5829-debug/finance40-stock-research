@@ -1,0 +1,2815 @@
+{
+  "book_id": "P19",
+  "reviewer": "index_books",
+  "status": "full_semantic_review_finished_required_corrections_not_passed",
+  "expert_snapshot_sha256": "1dd20e23a58914ce613fd96925f2a567eb11b44b9eb8365b33b5f6a4f3b0c11b",
+  "audit_snapshot_sha256": "1f6dc67cf943db58517f6914d872c7d91a07b80c147d030dffe66e733249ea51",
+  "pdf_snapshot_sha256": "a940b4d9151f142943427de5ca981fb3033fa50159eeeaf1949f165e4e1d06f4",
+  "full_text_snapshot_sha256": "4b248b5206d43498df20132f40f62289b3db89812c606b2318ad834586083ab7",
+  "chapter_review": {
+    "1": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "fbabebec5df1ff0cd956b0b953c5c2a171a722b9c88f8f7ae8cc0d797554a110",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          717
+        ]
+      ],
+      "material_author_misinterpretation_found": false
+    },
+    "2": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "cc4dcc97555263f56cf581aaf06c3403b169e5a50882ddd2778b0737c1b04b51",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          565
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "selected_original_images_actually_viewed": [
+        37
+      ],
+      "independent_display_math": "Halfyear4% annual=>2%,7%=>3.5%; extra1.5 points,10%gross minus2=8/minus3.5=6.5 before insurance/rent/wages. Original paper25 inverse duration statement confirmed on scan and left unresolved, not OCR-corrected."
+    },
+    "3": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "cc78649bca30565716761e081b37f5c9e552390c88db9be2d7eb568989aaa8dc",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1040
+        ],
+        [
+          1041,
+          1283
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        58,
+        65,
+        66,
+        67
+      ],
+      "printed_pages": [
+        46,
+        53,
+        54,
+        55
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "Original26pages including algebra53–55 fully read. Draft distinguishes legalpar/accountunit vs goldpurchasingpower, conditional static scale vs varying causal forecast, bankcash vs public balances, creditorigin/repaymentgross vs net, consumer includesinvestment vs modernGDP, governmentdirect issue exception vs bank-only channel, centraleligibility samequality, source h<net assumednotcrisisupperbound. Actualscans confirm original textX+x vs equationX+xprime mismatch, all income B/priceP/assetL/cashR variables OCRdamaged. No wholePDFglyph audit, no external currentlegal conclusions."
+    },
+    "4": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "b547d15d4687ab4db8750f8aedf1d07f841c4544db3e35271307c52da501f22c",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          716
+        ]
+      ],
+      "material_chapter_author_misinterpretation_found": false,
+      "comments": "Whole16pages with all notes compared. Draft distinguishes payableplace/accountasset, allinternational payments not just merchandise, harvest income decline vs bufferoutlay condition, foreignloan resource transfer/goldreserve temporary bridge, tradableFOB vs nontradablecostbasket, fixedgoldpoint requiresactualdelivery, author actualpayment vs modernanticipateddefault prices.20m+10m−12m=18m hypothesis notobserveddata; reverse5% reciprocal qualifier is modern audit. RuleR10 shorthand loses income/outlay condition, fixcandidate."
+    },
+    "5": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "91a59f9afac1be6870aed38cf1d97867f216ac3dffaadde7eb5216c7d07e64c9",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          642
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        97
+      ],
+      "printed_pages": [
+        85
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All14pages and inline note read. Draft separates gold location/3uses/freecoinage terms, legalchange vs actuallyexport, goldcerttrust normative claim vs modernproperty audit, fixedissue belowmin condition, unissuedlegalcapacity vs physicalgold, authorization vsactual use, proportional redemption identity vs macrocrisis forecast, authority/discretion vs automaticmoney growth, historicalFederal law and author new-system insufficientexperience. Normative residualgoldwaste claim not treated as currentfact.",
+      "independent_display_arithmetic": {
+        "legal_capacity_example": 38450000,
+        "fixed_ratio_redemption": {
+          "gold_before": 100,
+          "notes_before": 300,
+          "redeemed": 10,
+          "gold_after": 90,
+          "notes_after": 290,
+          "legal_three_times_capacity_after": 270
+        },
+        "historical_tax_fractions_visually_confirmed": "40percent;1percentuntil32.5percent;1.5percentormoreeach2.5percentdeficiency. Historical only not current statute."
+      }
+    },
+    "6": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "edc915bcf046481bcbe2078052d24b3b1ebf9f95bdf141378f158672f830f242",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          516
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All12pages compared. Goldexternaldrain can warn earlier than wagescash but samegoldcountries commonexpansion hidesrelativealarm. Original own policy/temporarylimitedexemptions included. Securitiesnewissue vssecondary notnet capital; underwriter residual inventory/borrowing and fixedincome vs speculative yields distinguish hope vs safeprofit. India1906/07 jute quotedhistoricalnotverifiedall. Developmentborrowvswarfinance excluded, fortuitousflows neednotcycle, domesticinvestment offsets notabsolutefxrule, freegold beyond legal requirements notallnationalmetal. No forecast/calibration."
+    },
+    "7": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "087ef912cac98dedaf0388e79964a9cfdc9b13cd3bc462bbcf930b9052b43c93",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          412
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All9pages and inline acceptor note read. Draft separates messageinstruction vs fundsusable, remotebranchliability vs worldgroupassets, receivableactualquality vs knowncredit, endorsement rights vs immediate full marketliquidity, borrower tradeproceeds vs acceptor primary duty, preacceptance bank financing vs later guarantee, same shock signatures notindependent probability, creditor place before currency, centreassets/peripheralondemandliabilities mismatches. Freegoldexport historicallyconditional notmodernfinancialcentre universaltest."
+    },
+    "8": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "723d0b4314d6bc0c994ce4df6252ec2ba2e4ab3152e549da14358790df95ee24",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          916
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        127,
+        133,
+        134
+      ],
+      "printed_pages": [
+        115,
+        121,
+        122
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All20pages/twoinline notes fully compared. Orders/production and bill maturity lag, ownvsforeignfinance exposure, stock liquidation temporary vs enduringoutlayadjustment, lender quality/currency confidence/funding risk,1%annual3mo=.25%, retainedpaper vs re-lending centralforeign asset swap, India15rupeeGBP/16d ±5/32d and lower15+27/32d, earmarkedphysical vsaccountcredit, colonialwarassurance challenged, trader/farmer bankaccess notinnate grouptrait,7–10yr historicalnotfixedforecast, cashcontinuestoabsorbpastturn thenreturnslater, all author/modern layers clear."
+    },
+    "9": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "323895f6559937808605a44aff75e40528720b04fa8b1dcfdaac714094af0ca7",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1075
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        139,
+        158,
+        159
+      ],
+      "printed_pages": [
+        127,
+        146,
+        147
+      ],
+      "material_chapter_author_misinterpretation_found": false,
+      "comments": "All24pages/fullinline notes compared. Draft assetlossvsnominaldebt, cashshortvsinsolvency two separatecauses, frozenclaims vszero eventual recovery, relationshipinformation vsimmediatelyreplacecredit, commercialrecoverhyp vsworld contraction/no foreignbuying, network/trade sensitivityvs identicalsimultaneouscrises, foreignnewissues cessationevenbeforeoldrepayment, ownerresidualprofit vs marketreturn, callrecalledrates vs guaranteedyield, retainprofitsbuffer vs commodityneverworthless selfcritique,1866competition borrowerquality vs goldregime riskhistoricalnotnewproof. Scan139 confirmspaper127 footer OCR137. Scan159 revealsmain half-percent/day OCR1; note4%perday expressly saidtohave, not annualized."
+    },
+    "10": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "85949dc201ccc0de6abf2d68e4ab14ff870acabd16b188cb0347c99a3b6d2b0a",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          527
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All12pagesand lastinline note compared. Goodcollateral unlimitedwhileavailable/highrate conditions vs hopelessinsolvency; normalvaluation uncertainty; purchaseproducemeanscashout vs highrate repayincentive; maintaingoldgoal can revise lesser evil suspension basedbusiness; centre reputation/client knowledge slower than billdenominationchange; premiumnotfixedrate substitute/costexternalcurrencydebt; internationalgold/guarantee/credit distinct; goldcannot create banklendingwithoutsolventcollateral; onlycashdenomination currentavailability; boughtforeignclaimwithnewpapercurrency internally reversed from prior externaldefence and AUTHOR NO CONCRETE CASE safeguards. Expansiongold buffer vs crisisnotnecessary; modernpublicwelfare/legal constraintsseparate."
+    },
+    "11": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "c1f039591579c987d83a54fee09a917b4d866c47144384d6005eeaa4026225cf",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          981
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All22pages/all inline notes compared. Draft preserves strongchapter169 revision of originalnewloanpurpose classification vs mixednetborrow; commoditytickets/stockvsflows and repaymentvstransfer distinctions; goldmonetaryusevsindustrial notquantityproof; Gresham requiresnominalacceptance / convenientguineapremium /assignat practicalrestriction;3,100/200=15.5 displayed ratio onlynotwholehistoricalverified; tokenquantity/buyback/liquidity/premia different from metalcontents;debtpaymentplace/currency needs transformedgoldnotallforeign debts direct bullion;insurancebyvaluenotweightproportional;seigniorage/cost/bulk affectsapproxparity;unitcontinuity vs statutorydebtscaledexceptions and1873paperdiscountvsgold/premiumvsbankcredit different reference. No newthreshold/currentlawclaim."
+    },
+    "12": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "7c5f90e166cdcca5f7df2d0fd06bc640937164e23b23169f7e86d8f81f4c1092",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          935
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All21pages/fullinline notes compared. Credit-first theory permittednotsole history; societalproductiondebt economicmetaphor/uncertain notlegalguarantee; bankpaymentpowernotrealgoods;twofunctionsnotnecessarilyequallendingbalances;paper versus metal savingdifferent notallcosts;net borrowing vsphysicalcapital and assets/liabswordcapital distinct;demand vsnotice/interest bills exceptions;2solvency tests assetmarginandondemandcash;securityloan frozenaggregateinvestments fundedby savings/newcredit;realbill doctrine notall temporarydeficiency illegitimate;individual clearingcompetition vs commonexpansion;solventvsproveability/relationship info;central reserve/callbroker assets differentpaymenteligibility;historic1917 ratiosnotcurrent;stateauthority normativepluscustom/constitution exceptions;statutoryreserve criticismnotallregulation useless. No stateautomatic guarantee/currentthreshold."
+    },
+    "13": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "d52650e34e9f4304a457293089478692a676fd30c9d3115d7a485594057a6470",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          545
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All12pages and inline notes fully compared before context boundary. Taxation/final savings vs anticipatory loan, delayedsupplierpayment financing, wartimeidlebalances vs outlay, foreigncentre1914 goldwarinsurance/billsupplydisruption, fundingrealresident savings orforeignsubscription vs internalassettransfer, publicpurchase substitutesprivateborrowing but finiteinventory limits, hypothetical100/debt2of3/sellthirdat+50=>50debtpay leavesquarterdebt, billwithoutloss is originalstrongclaim challenged for rate/liquidity costs. No currentreturncalibration."
+    },
+    "14": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "dd81f92d66a73fc3c14b5093d1c80b1349b6d59a8d9991c1ce6827b35c052f8e",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          664
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All15pages/Ottawa gold note compared. Draftlongtermbankpurchase vs realpublicsaving, centralreserves conditionalexpansion vs fixedmultiplier, governmentacceptor guarantee vs directliability not doublecount, buffersstocks/unspent balances/spendrecredit vs imports, goldrelease/recoverytradeoff/sameothercountriesinflation hidesrelativeFX, directforeignprocurement vs contractors/privateconsumption, physicaladaptabilityvs sufficientcollateral, London-dollar place/pledge vs sale/Ottawa not transatlantic twice, Germanyprofits/wage lag valuejudgments not independentlyidentified, taxation policy notonlypossible resourcecontrol, smallnotesissue secondary creditcontrol. No materialchapter misinterpretation."
+    },
+    "15": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "977b64bef016450ffbff6768976b6f13e8751549a496fe0c92deb2386d6297c1",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1012
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        249,
+        261,
+        263,
+        264
+      ],
+      "printed_pages": [
+        237,
+        249,
+        251,
+        252
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All22pages/inline historicalnotes compared. Initialnotwar/legal noncurrency vs laterlegalnotes, denominations vs total/newissuesvsredeemed, politicalconfidencevs hypothesizedforeigncredit/depreciation, strongTerror enforcement/pricecontrols notendorsed, counterasset goldhoardinglawvalue, repeal releasesoldbalances before newissues, landsecurity vsfixedimmediateconvertibility and75yearsretraction, unpaidsale2/3 notwithdrawal, nominal6.4b*.24=1.536b near1.5/13b*.0338=.4394 near.44/19b*24/3000=.152b near.15, multipleaccountunits and payment/speculation balances, 1795originalmandatsconflictconfirmed vs1796sequence kept, legalolddebtsdate scale vsactualmarket, officialpaperend vsnonlegaltenderfiscaldefault, speculation supportinterpretation notcurrentbottombuyrule. Actual scans237 fraction FX/2491795/251one-thirdpercent/2526.75b confirmed. No wholequotedhistories readclaim."
+    },
+    "16": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "bbcfdac1837fb1d6479a8edb604fcf3d836b52fe11fc0be9f157af1292a4ef40",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1040
+        ],
+        [
+          1041,
+          1175
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        274,
+        281,
+        287
+      ],
+      "printed_pages": [
+        262,
+        269,
+        275
+      ],
+      "material_author_misinterpretation_found": false,
+      "minor_date_correction_required": "SevenrowgoldFXtable startsAugustnotJuly;seeP19-QA-C10",
+      "comments": "All24pages/notes compared. Govexchequerbills notactualcash source/repayment historicalnotallrescuessafe; govadvanceamountnotsolecause/contextnetforeigninvestmentoffset; Hamburgsilverbasis goldrelative price/terminterest/direction; externalFXrecoversbeforeinternalcashlag/confidence, Francemetalreturn/statisticsillegalunrecordednotinvented, earlymetalimportscreditwagecashchain, legallynotfirstnotes vsacceptance practical, suspendedcashnotimmediatecollapse, 3depreciationmeasuresdifferent/wartransportrisk, originalTookeMushetFebruaryyearshift/unexplaineddiff, all22year×7cells actualscanread nilgoldkept/silverstdvsdollarpar, indexpeaksnotoneworstyear, concurrentnationalmetalresumptionraisesmetalvalue,1819Actvslaterstagesvsmarketalreadypar,275dpercentunit originalunresolved, governmentmotives expresslyhypothesis notproof. No wholehistoricalreports readclaim."
+    },
+    "17": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "a33886811828ea6377a452ac310aa795876805fa1af38f0d1334310abd003e54",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          975
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        293
+      ],
+      "printed_pages": [
+        281
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All20pages/fullquotes andnotes compared. Monetaryrestoration oldcontracts/rigidprices vs mintextraction motive notallsame;weight×fineness×legaltender value vsmintbuyprice separate, halfpure80grain still40puresameprevious120thirdfine, nominalcalleddown12→9→6 loss/creditunitrise andcashgap;permanentFXvsGreshamselfcredit claimednotidentified, Greshamfatherattributionquoteauthor correction;1551metalstandard vs1560 allcurrency/expenseheldbypublic; bullionexpertscreditdepositsvsfullreserve bank money; goldsmithoriginhyp vs safes notfact,1694banknotes+balanceeconomy simultaneouscreditincomesnotfixedmultiplier;Lowndesintrinsicvsextrinsic but missallcommoditymoneyunit/Locke publicdebt strongestclaim, formed7/17years vs suddenmonths andpriceflexibility policycondition;withdrawclippedearlybeforenewcoinscashshortage notsimplybankplot, paper+metaldualunit/warend convergence vs ultimatevirtualgold standard/1717stillovervalued. No originalexternalhistories fullread ormodernwelfareguarantee."
+    },
+    "18": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "04f5799615f57ec7de9ac06bd2fefaf32e1ca099e201d24008ffc6c99275f807",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          976
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        312,
+        317,
+        318,
+        330
+      ],
+      "printed_pages": [
+        300,
+        305,
+        306,
+        318
+      ],
+      "material_author_misinterpretation_found": true,
+      "required_correction_ids": [
+        "P19-QA-C11",
+        "P19-QA-C12"
+      ],
+      "comments": "All22pages/full inline notes compared. Nominalgoldsilverratio actualfineness&mintcharge combined; statutoryconditionalproclamationneveractivated=>notunlimitedsilverpurchase;1816law notfullactualredeem;Continentals1/40market vsnext1/20bondconversion vs1790one100 /estimatedmissing destroyed conjecture; goldovervaluation unintendedsilveroutflow;Germanindemnity creditorcapacity/purchase beforecoinage; internationalgoldvariable/foreigncrisisvsdomesticcrisis oppositepaper effects,stockfutureforeignflow notoneoffpermanentprice;author1877exceptionfurtherexplanationnotidentified;oppositetradebalancescouldbothappreciate/allcapitalpayments;silvermonthlyincrementbanknotesretirement netonly2heads/Treasurygold excludedbroader;Baringsguaranteeactualoutcome notexantesafe;harvest/tariff conditionalnotwelfaremodel,callcommissions dailyvsannualnonstable;goldborrowing notclosingpaperimbalance;politicalcounterfactualsilvervalueendogenous. ChapterwrongChinese11/12reversed;ruleR42 calls1/40repayment whilemarketvalue;requirecorrections."
+    },
+    "19": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "a25efa63db145fb5ddc7b035696d1a1b62292b8010044094ccfbc1e5d0b5b9c1",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1053
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        343,
+        347,
+        355
+      ],
+      "printed_pages": [
+        331,
+        335,
+        343
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All23pages/Russianconversion andlakh notes compared. Austria sequential100*.2*.4=8/not40single/hybridcashsecurity/legalobligationvsactualredemption; newgoldmarkettarget notoptimalallcontracts/Austriangoldassets includesforeignbills; Russian7to2 earlier vs lateroldgold2/3 separate/noallpartiesfairguarantee; Indiabuysgoldpayrupee onlyuppercapnotlowerpromise/full5yrnotinstant, noteslegallycoveredbutrupeepublicpreferred including7/16%note and1/4%golddiscount actual;currency/goldstandard/daybalances reserveaccounts separate, legalmetallocatednotmereaccountcredits;LondonIndia dualFXdirection/currencywithdrawal notnationalresourcevanish;absorption excludessovereigns andassumesnotmelt/notespublicexcludesgovernmentbank,15rows allcrosssum;faminevsworldcreditcompeting no coefficientsidentified/singleaggregatecannotprovezero, colonialprimitivegroupwordnotmoderntrait; redeemedgoldornamentnotexportstillwithdrawsrupees;wartime43d melt/101.5c originalUSA limitimage, fixedpaperelasticity/smalldenom savedcounterfactual requirespublicacceptance. No underlyingofficialcommissionsfullread."
+    },
+    "20": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "f1c02643ab6ca359538c32057be388e247e9d6c55b778b928621e4e76a052e02",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          878
+        ]
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All20pages/2inline notes compared. War3differentcurrency/goldpurchasingpower/goldtransport causalcomponents, goldmarketlegalvsactualinsurablepermit, creditpegforeignborrowingdoesnotoldrealpurchasingpower; formerstandard restoration paperdeflation vsmarketmarkdownpaper/debtsoldunit, warbankassetsgovsecuritiessojusttraderbankrateinsufficient/repaymentgenuinesavingnotnewcredit;realcapital vsbuyingpower/approximatefixedvsworkingfinance expressly notstrict;oldincome stocksoutlay and businessorders/re-lend repaymentallvsdeflationalternative no doublecredit;tax-preferrednormative/taxincidence notuniversal;temporarilytrade-debtfewcrisisproofhyp thenrestoration financingrevivesincludinglonggovbondshortborrow;goldgloballyvariable/allnationalbuyingselfdefeating goal, markdownimmeddebtloadvsgradualprice/bankcapital/fixedcreditorsdiff; nationalgold/foreigndebtscontract vsnationalcurrency/autopreferenceretrofit unjustasauthor judgment; inabilityrequiredcutsvscreditreputation dilemma, nationwidegoldactualabsorptionnotcountrycount, internationalcoordination debtorcreditor normative, wagesstickyprofitsunemployment conditionalredistributionnone;1919allforward scenarios notverifiedhistory orstockprob."
+    },
+    "21": {
+      "whole_draft_actually_read": true,
+      "draft_sha256": "e56a5133e90a37610d0698e72209376f708efd6a2af321d7af4cf3134bd3b9cf",
+      "complete_chapter_source_and_inline_notes_actually_read": true,
+      "source_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+      "read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          874
+        ]
+      ],
+      "selected_original_images_actually_viewed": [
+        385
+      ],
+      "printed_pages": [
+        373
+      ],
+      "material_author_misinterpretation_found": false,
+      "comments": "All17pages/allquote/nSmith exception/nFisher compared. Classicalinitialstrongfiatworthlessclaim isopponent notreply, usefuldoctrine vs theoreticaltruthfalseproof, accountunitvsgoldlegaldebt/performancecontractspecific vs generallaw andfairnessvalueremapping, metallicwarning conditionalnotcommoditypriceperfect;goldcurrencydemandhuge industrialfixed small stock/endogeneityvalue reversedbutconvertibilitystillregulatingfunction;silverlossmonetarypartnotall60to22;worldgoldexchangeeconomyneedglobalstandard Fisherproposalnotproven;373actualscanunderlineread confirmscash effect notcauseNORMALcycle vs otherexogenouspolicycash, simultaneousworldcycle notprevented/cashabsorption tardy;finalconsumerweightsservicesnointermediate doublecount/stock cushion meansnotproportional;constantpricevsoutlay population/workqualitynormativeeffort andgoods alternativesbothtenable notmodernalgorithm;workingclassbenefitwagecost vsnominalprofit;merchant/promoterforecastmoreprimacybankpolicyearliercanshorten noteliminate;separatepaymentloan andevennoshortloan balancesreallocationtheoreticalcycle persists, banksdamp/transmit notnaturalexperiment;velocity/needstradeendogenous notgiven, legalnotesbankliability andloancreated finalstatementpracticalnotcontradiction oftheoreticalcounterfactual. No literalallglyph claim."
+    }
+  },
+  "rules_actually_semantically_reviewed": [
+    "P19-R01",
+    "P19-R02",
+    "P19-R03",
+    "P19-R04",
+    "P19-R05",
+    "P19-R06",
+    "P19-R07",
+    "P19-R08",
+    "P19-R09",
+    "P19-R10",
+    "P19-R11",
+    "P19-R12",
+    "P19-R13",
+    "P19-R14",
+    "P19-R15",
+    "P19-R16",
+    "P19-R17",
+    "P19-R18",
+    "P19-R19",
+    "P19-R20",
+    "P19-R21",
+    "P19-R22",
+    "P19-R23",
+    "P19-R24",
+    "P19-R25",
+    "P19-R26",
+    "P19-R27",
+    "P19-R28",
+    "P19-R29",
+    "P19-R30",
+    "P19-R31",
+    "P19-R32",
+    "P19-R33",
+    "P19-R34",
+    "P19-R35",
+    "P19-R36",
+    "P19-R37",
+    "P19-R38",
+    "P19-R39",
+    "P19-R40",
+    "P19-R41",
+    "P19-R42",
+    "P19-R43",
+    "P19-R44",
+    "P19-R45",
+    "P19-R46",
+    "P19-R47",
+    "P19-R48",
+    "P19-R49",
+    "P19-R50",
+    "P19-R51"
+  ],
+  "candidate_exact_evidence": {
+    "P19-R01": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          61,
+          98
+        ],
+        "source_segment_sha256": "e89454ae691f5f40369286a56dfc1739b848f7d36e3bf148556449f27d5b1802",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "extent such a society might have existed just as it is without\nthe use of money, or which of its characteristics would be\nnecessarily sacrificed.  In other words we have to find no"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          125,
+          182
+        ],
+        "source_segment_sha256": "7089095924079c680defc0792bab2d8fa0861f4a903251a9e353eb3e020965a9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "in case of dispute there is no recognised \" legal tender \" in\nwhich a court of law can order the debtor to pay. How this\nproblem might best be solved by the dealers we need not sto"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          193,
+          220
+        ],
+        "source_segment_sha256": "ffb712654abf7958da68cf165e5ce636a3ae403cd7862e0ea9d042d6afcaaba0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "bank credits and money is rarely of any importance. And\nfor all that a bank credit is merely a debt, differing from other\ndebts only in the facilities allowed by the banker for tra"
+      }
+    ],
+    "P19-R02": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          250,
+          273
+        ],
+        "source_segment_sha256": "692f6969e054cec14167a7d1b6ffc8244946a6765a271ea71d53179ba445aea4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "by equivalence to any           specified   commodity?       If every   one\nwho received a credit immediately spent it on commodities,\nthe function of the banker would be reduced t"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          286,
+          368
+        ],
+        "source_segment_sha256": "fc6ab80035e52a632aa5baaabe6e87468590f4469fdacf095b8b4d2dd5e16067",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    The great credit-machine will work very much as it does\nin the actual world. An order is given by a merchant to a\nmanufacturer to supply a certain quantity of goods.           "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          373,
+          433
+        ],
+        "source_segment_sha256": "56f572115b2ceed9e9c072840dcaeec967567d22116f0bbbdf8faff8051b39cb",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "of the merchant count for much less. The production of fixed\ncapital is different again.   The order is given not by a merchant\nbut by a promoter, who makes it his business to proc"
+      }
+    ],
+    "P19-R03": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          597,
+          640
+        ],
+        "source_segment_sha256": "fa83b7c0cea79e8676294f1b6f0af0585609db94c1d82c0b1d1bb90b64ab7d22",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "  medium. But without pursuing that subject further here,^ we\n  may say that the justification for the hypothesis is that it pro-\n vides us with an analysis of the functions of cre"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch01.txt",
+        "source_local_lines_inclusive": [
+          646,
+          717
+        ],
+        "source_segment_sha256": "f2a19aa07a4340a0bcb3479d3ce940add64b516db798e209a6c6529cc1c30737",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "                   CREDIT WITHOUT MONEY                                   15\n\nfor the appropriate amount of wealth,          he has taken a short cut\nto the     same end.      But "
+      }
+    ],
+    "P19-R04": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          4,
+          40
+        ],
+        "source_segment_sha256": "9ad9bc5cadc9ac2acfdc395c882a290c379b52de15866e6e1b9e08edba562260",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "We have now arrived then at a revised definition of money.\nIt is the means established by law (or custom) for the payment                     i,-\n\nof debts.       Consequential upo"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          43,
+          97
+        ],
+        "source_segment_sha256": "f4c09d3f214494a0a2600627d24754f5c12de1477f06959c6752749a9e966ee0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "=== PDF 30 / PRINTED 18 ===\ni8                           CURRENCY AND CREDIT\neffectively carried out,                  if   all   coin that    is        reduced by wear\nappreciably"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          99,
+          202
+        ],
+        "source_segment_sha256": "00843afb6bd2b2585d47adfb4db8963b38e6aabe7015ffcda0087b47f660ab90",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "they need to be counted, and change               must sometimes be\nasked       for   them.    And    while the small bank-note seems to\nhave no advantage over coin to set against "
+      }
+    ],
+    "P19-R05": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          173,
+          293
+        ],
+        "source_segment_sha256": "2546d37feaec3fa69d602f4077b86af6fa14aa8c36cfcd9fe880d57628c224b4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "     Now let us examine again the effects of a disturbance of\nthe credit machine, with the modifications introduced                       by the\nuse of money.  "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          293,
+          342
+        ],
+        "source_segment_sha256": "2c32b9bad22891751df1606a1a8b5e50dc9101840b0d55c9a1c68026f7a5b8e9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "     they will take any measures to safeguard their position.\n        The danger arises from the undue increase of credits the                ;\n\n\n\n     remedy is to be found only i"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          345,
+          464
+        ],
+        "source_segment_sha256": "adbed1a505c2f38f6208ddf1d07008d777dcaae10611f9bbb2a8382849974fe9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    The reason why they are high is that prices are rising, and\n    the value of any stock of goods grows, even while it is in the\n    dealer's hands.   But if the rate of interest"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch02.txt",
+        "source_local_lines_inclusive": [
+          466,
+          552
+        ],
+        "source_segment_sha256": "aeb7d4014750c210368d94835ee6908c6d8e31994bdd088ad09d3c86eb6aaeb8",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n       The expedient to which banks almost invariably have re-\ncourse      is   to aim at preserving a certain fixed proportion be-\ntween their reserve of cash and their liabiliti"
+      }
+    ],
+    "P19-R06": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          29,
+          166
+        ],
+        "source_segment_sha256": "9fb32422297946dcbd90550c4e59c05372967f5681dacd19365dfa76d4eee8d0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "that they must take some positive action to restrict credit.                     If\nthey fail to do so, or     if   the action they take is not effective,\nthey may be brought up sh"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          168,
+          198
+        ],
+        "source_segment_sha256": "34d5c1ecc598f381bc6ebf65ba5d98e55bd86076b0538d597d115091af4d6b84",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\npayment, quite apart from any value it may possess for any 1\nother purpose.     Gold itself derives part of its value from the\ndemand for it as a means of payment.\n   If an issue "
+      }
+    ],
+    "P19-R07": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          436,
+          520
+        ],
+        "source_segment_sha256": "32b43dbe85acb3f3f04ed021c23c6c4f193b27acef3e878d7d7202427f2723b5",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\nThe choice of their customers as between cash and credit pro-\nceeds, as we have seen, from the economic conditions, being f;\ndetermined entirely by the convenience of the individu"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          521,
+          678
+        ],
+        "source_segment_sha256": "5e96f4d4d78345f1f568c762c54bcf7e158ff4a902a9ea7a23e2dd732a6bb286",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "at other times to avoid keeping large idle balances.                         It follows\n\nthat practically all the sums borrowed will be quickly paid\n^way. Some may be paid away fro"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          680,
+          780
+        ],
+        "source_segment_sha256": "fcd907b0619a3426b1b239c5c348737d2535b7d75cdb45732252499d07595e48",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " quantity theory would lead us to lay all the stress on balances,\n and to say that prices ought to increase in proportion to the\n unspent margin, i.e. to the quantity of credit and"
+      }
+    ],
+    "P19-R08": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          784,
+          860
+        ],
+        "source_segment_sha256": "80b1b479d81a3f92d33e3311af3974a7059725de6ff7ddc7f77ccd4502b58ef0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "                             ?                               Z                         v\n\n\n\n\n        46                   CURRENCY AND CREDIT\n        these incomes are not immediat"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          862,
+          955
+        ],
+        "source_segment_sha256": "19ba23a5eeb6b16e5c16e95688eca2aed204a059dd2920c180e3cc054c1a6ff3",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "passed are manylrifo which the use of ifioney or banlc credits\"\nenters quite capriciously:         —   It\"T5\"Trmattef of chance'whether a\nparticutaT purchase nf\"gf?yCJds 6r\"securit"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          1145,
+          1283
+        ],
+        "source_segment_sha256": "5c09f32f4fc706d5499ae8a461cab7d4bfa0b5b65a3da215068b218e1955ebee",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "Let M be the unspent margin, and let T and C be the portions\nof   it   in the   hands of traders and consumers respectively, so that\nM= T-\\- C.\n       Next let A be increased to A "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch03.txt",
+        "source_local_lines_inclusive": [
+          1076,
+          1143
+        ],
+        "source_segment_sha256": "e0581b312a2a85c6a76fb991e321a032a1abdca97241c1e11910c6e7eb587073",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "business men.     In such conditions   many of the traders who\n\n=== PDF 64 / PRINTED 52 ===\n         52              CURRENCY AND CREDIT\n         borrow from the ordinary banks wan"
+      }
+    ],
+    "P19-R09": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          52,
+          153
+        ],
+        "source_segment_sha256": "99800e48aaaef7681ebd641c854b57a3b7ea3670b4f76062020bc80ee37ee880",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "own country finds that he is the debtor of some of his fellow-\ncountrymen and the creditor of others. If he draws cheques\nin favour of the former and receives cheques drawn in his\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          155,
+          293
+        ],
+        "source_segment_sha256": "233474e56b2d7079324bbf2f1942e8e11bb5ecb0c1d31df23cffe152c0c2bde7",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the exchange will become unfavourable to it.           The whole\ntheory of the foreign exchanges is commonly explained by\nreference to this fact.  In reality, however, it is not an"
+      }
+    ],
+    "P19-R10": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          293,
+          347
+        ],
+        "source_segment_sha256": "34352fcf5910d73551727aa0bca1169ca2d333ec5fe6a99c93feb638a446050d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    62               CURRENCY AND CREDIT\n    For the immediate efifect of the failure of the harvest is to\n    diminish the income of the agricultural populatio"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          348,
+          414
+        ],
+        "source_segment_sha256": "bd5e47dc8ac22bba81d9f8f18474952cdbd75538110eef571c4c1079ba475cb4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "remittance by sending gold.              Thus the     rate of       exchange\noscillates between an upper and          a lower limit.    The limit at\nwhich it be"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          415,
+          518
+        ],
+        "source_segment_sha256": "b511d3fc8cd37a942aa2ac8099557f45019584658c77b25b30983b3364c93294",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "income of the former is diminished, and the consumers' income\nof the latter is increased, by this amount.    The borrowing\ncountry thereby becomes entitled to a greater share in th"
+      }
+    ],
+    "P19-R11": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          521,
+          633
+        ],
+        "source_segment_sha256": "caaa82f4e2c9607291a0aa5d511d918e97f430e1db84ac12796c699866fb7589",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "values in different places, the difference between two places\nbeing any amount not exceeding the cost of transporting it\nfrom one   to the other.    For some commodities the cost o"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch04.txt",
+        "source_local_lines_inclusive": [
+          635,
+          694
+        ],
+        "source_segment_sha256": "090f73556fdd7bf3471e9bbce4e43a54b27b5a9722a864c5b6875b713dd3aff0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "produced at home at a high cost in consequence of the high\nrate of wages prevailing, such, for example, as some building\nmaterials which are too bulky in proportion to their value "
+      }
+    ],
+    "P19-R12": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          39,
+          106
+        ],
+        "source_segment_sha256": "563fff53d3b6e9a8e1173b92637cd346b6c66bbddb3277e1c441085d11f1ed91",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n\n                                                                     J\n\n=== PDF 85 / PRINTED 73 ===\n                 SYSTEMS OF NOTE ISSUE                               73\n\namoun"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          134,
+          164
+        ],
+        "source_segment_sha256": "620d12241e7d4783f8ea4bc311f057bd795161e2f70f9a3d88a9cf4c034f4772",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\nregulation of the value of the monetary unit, by inducing an                         |\n\n\n\nexpansion or contraction of credit as the circumstances may                          \\\n\n\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          167,
+          285
+        ],
+        "source_segment_sha256": "8dc8215050e60c9582e80cbf2e28804f67863f281add2f37b65a2aab22c00dec",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "tion of credit become effective.  To this aspect of the question\nwe shall return later.     Here we shall consider the different\nsystems that have been devised for accumulating and"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          287,
+          341
+        ],
+        "source_segment_sha256": "8495bba9d91e4bb9e440a4e1653e8635e87ad14dc57ffc430f13470033488c14",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\nalready in operation.          If   the fixed issue         is   to be exceeded,\nit   can be done with smoothness and                  celerity.     On the other\nhand, the actual "
+      }
+    ],
+    "P19-R13": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          343,
+          437
+        ],
+        "source_segment_sha256": "f5b906c43d2024c0b069318e27dd8b4ccdf245a776f30e292e8f80616318ff1f",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "of credit is almost indispensable.   For a long time the United\n\n=== PDF 91 / PRINTED 79 ===\n                                                                          —\n           "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          466,
+          520
+        ],
+        "source_segment_sha256": "707ed9d64254a1fcacd3493c9bd55a48ddfccbf40b916fead5ae8cc250e4984e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "England provides credits to form these reserves.                    In either\ncase the rate of interest asked must ultimately determine the\nrate prevailing in the money market.\n   "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch05.txt",
+        "source_local_lines_inclusive": [
+          548,
+          642
+        ],
+        "source_segment_sha256": "41beaac6c05863bffcd23c1cfc5b9ad81ed9ff340ff59b78147c78b4485ea342",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "of England.   A system which rigidly limited this ebb and\nflow could not work.\n    Another plan for regulating paper money, though one not\nso prevalent as the various modifications"
+      }
+    ],
+    "P19-R14": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch06.txt",
+        "source_local_lines_inclusive": [
+          37,
+          129
+        ],
+        "source_segment_sha256": "0839a29244294beaa6df2632409fcaa93cd6b8c2593d5552342c65f314ab56c0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "=== PDF 99 / PRINTED 87 ===\n       INTERNATIONAL CURRENCY MOVEMENTS 87\n    exports diminished, a balance becomes due to foreign traders,\n    the exchanges  become unfavourable, gol"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch06.txt",
+        "source_local_lines_inclusive": [
+          165,
+          224
+        ],
+        "source_segment_sha256": "14c2986a3285c452731f770f98ba844c60736cb4b0e81a8af562b00beed4edc5",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n\n       But if the whole gold-using world be regarded as a single\n    economic unit, it suffers from just the same dangers as we\n    have already traced in a single country.      "
+      }
+    ],
+    "P19-R15": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch06.txt",
+        "source_local_lines_inclusive": [
+          261,
+          395
+        ],
+        "source_segment_sha256": "eefa90fd18346f5c15ad10b3d9a36a4b701ba7c886eded19cabcad2b4d47cf57",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "and flows with the contractions and expansions of credit is\nthe production of fixed capital.\n      This opens up the whole question of capital movements,\nto which up to now we have"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch06.txt",
+        "source_local_lines_inclusive": [
+          397,
+          457
+        ],
+        "source_segment_sha256": "4405e11830fdbb35fab663375d9d6cfcb5255c99ef0b00e2e677b9e1a8fb5bfa",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "   that of a half-developed country, which is still short of rail-\n   ways, harbours, roads, industrial machinery, buildings, etc., in\nV comparison with    its natural resources. C"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch06.txt",
+        "source_local_lines_inclusive": [
+          459,
+          516
+        ],
+        "source_segment_sha256": "db9a837d89f2f77671584b7e255cb753797985c08e406b20586120cc863f689c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    subject, ever since   banking had developed, were quite rightly\n    traced to an excessive creation of credits, in the form of bank\n    notes, which were then the prevalent for"
+      }
+    ],
+    "P19-R16": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch07.txt",
+        "source_local_lines_inclusive": [
+          4,
+          42
+        ],
+        "source_segment_sha256": "9618a3d9557266d3425259e0bd196e71cb5c0d9becc684b0d6d5de50028e50a8",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "Up to this point we have assumed credits in one place to be\nexchanged for credits in another, without inquiring too closely\ninto the means by which such exchanges can be effected.\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch07.txt",
+        "source_local_lines_inclusive": [
+          69,
+          206
+        ],
+        "source_segment_sha256": "0582aaee1f3e0ab73b0a329f9d5ead4d29a6307613ff69baebcd21a2fb9e3380",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "likely to default on any of his debts than a financial house of\nworld-wide reputation  but still his name on a promissory\n                             ;\n\n\n\nnote will carry no weigh"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch07.txt",
+        "source_local_lines_inclusive": [
+          208,
+          250
+        ],
+        "source_segment_sha256": "9e3682857cf3c6116b1b5b51f869b23a92e57762232fa80616f6f73d2032b15c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "                                              was so long the\nrecognised form of remittance.       Whencommunication was\nslow and uncertain, the importer of goods did not know when"
+      }
+    ],
+    "P19-R17": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch07.txt",
+        "source_local_lines_inclusive": [
+          267,
+          350
+        ],
+        "source_segment_sha256": "76dd0b9d91c39064df5f2c8d61e21b358abb5375e44485863ff629c0cecb4957",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "bill,   for the time being, is a lender.\n        In actual practice different countries vary greatly in the\nextent to which they finance their foreign trade.                       "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch07.txt",
+        "source_local_lines_inclusive": [
+          352,
+          412
+        ],
+        "source_segment_sha256": "2105fb3ce991f0f6aec5a15a4c55aa65a3d58799338e1a4e8aaa4bd5350952cb",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "guarantor of a debt unless the debtor has failed to pay.                But\nthe acceptor    is   himself the debtor on the     The drawer\n                                          "
+      }
+    ],
+    "P19-R18": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          4,
+          110
+        ],
+        "source_segment_sha256": "c85da24a6c20a5461d27d7dc4e9bce18dae23c876efe4209858a9f093584a4d4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "In currency systems like those which formed the subject of\nChapters V. and VI., where the legal tender circulation in-\ncludes paper money convertible into gold, the regulation of\n "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          113,
+          192
+        ],
+        "source_segment_sha256": "e928f4a057d2c11a6457cb3860ee6900caf74e5be9f38813cf1b0d47736c1e6e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "capital commitments are therefore specially apt to overstrain\ncredit when the turning point  from expansion to contraction\narrives. These capital commitments may be financed either"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          837,
+          916
+        ],
+        "source_segment_sha256": "ed1691184a61ac83f57b2fa975ac3b772cbff24fca781afcf07240da3e24d44c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the same thing from another     point of view, the monetary  unit\nis rising in value, and a borrower quite apart from the charge\n\nfor interest, has to repay a greater amount of pur"
+      }
+    ],
+    "P19-R19": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          261,
+          394
+        ],
+        "source_segment_sha256": "a1ba8ebaa848da6b270b565bb8ded7a34ad607fbea88e1099a73a90231182c91",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "exports and imports will be paid for by        bills drawn upon its\n\nown banks or accepting houses.           So far as imports are con-\ncerned, the relation between         the ex"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          396,
+          520
+        ],
+        "source_segment_sha256": "6158aa0d18a05412c13b8984c23f250feff84529351f457c29cf3782b47ebaef",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "could be counteracted by a movement of the foreign exchanges\nof no more than \\ per cent, in favour of the country.       The\neffect on lenders of a difference of i per cent, on sho"
+      }
+    ],
+    "P19-R20": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          539,
+          631
+        ],
+        "source_segment_sha256": "00eee0924bcf6dcfe8ca8bbec4025fc010989c7e764ad59efe4a70e6ae416048",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "one on the other, a system has been evolved which has of late\nyears been widely adopted.        Even if a country has no posi-\ntion at all as a financial centre, if no one draws bi"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          633,
+          746
+        ],
+        "source_segment_sha256": "edfbb154cc6d989f9eba599a5b89fde8113b05ab42230055cf0950f50edff119",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "     countries.      India, Nigeria, the Straits Settlements, the Philip-\n     pines, the     Dutch East Indies, and German East Africa are\n     instances.     In these cases it is"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          748,
+          837
+        ],
+        "source_segment_sha256": "c1ddf9789511c369495813672216ecd1ccf9f6c58417e8f7ee60e6e858c7be46",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "to determine the sensitiveness of a credit system to changes\nin the   bank rate.       Much depends upon the character of the\ncountry's business, and on the proportion of it which "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch08.txt",
+        "source_local_lines_inclusive": [
+          840,
+          916
+        ],
+        "source_segment_sha256": "804384bab116fa35a60ee43412e37b67b063e1d907451557a91211283d9b4187",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "for interest, has to repay a greater amount of purchasing\npower in terms of commodities than he originally received.\n    During an expansion of credit, prices are rising and profit"
+      }
+    ],
+    "P19-R21": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          5,
+          136
+        ],
+        "source_segment_sha256": "9eb7f287ddc55ae8e26d2204b6b2559893797e3bf7ade928f72501efcea18f15",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "If the remedy for a disorder in the currency system is to be\nfound in the control of credit,         we have to consider not only\nthe sensitiveness of credit        to   the contro"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          145,
+          265
+        ],
+        "source_segment_sha256": "4c461388399b7db97dcf8128343127eead07fa54d99b32f3b97439c8dd01d147",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "progress in nearly every country of the world, that nowadays\nthe great central banks are alive to the importance of keeping\ncontrol.   Perpetually watching the foreign exchanges, a"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          273,
+          359
+        ],
+        "source_segment_sha256": "c69c1ff7334e11083995dfc29733480a6a3caecf9f2312326472f273974811bd",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "violent effect upon credit operations.     The obligations of\na solvent  bank are  from  the  point of view   of its creditors\nsimply the equivalent of    so much   money.     Let "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          363,
+          448
+        ],
+        "source_segment_sha256": "ff213a872bdd690dea54e4d9d20b7fb97cf19e83e504d9445d82d0c0b63b139a",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "cannot permanently maintain them. The drain of gold or of\npaper based on gold into circulation is the signal for the in-\nevitable contraction of credit and deflation of values.   T"
+      }
+    ],
+    "P19-R22": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          454,
+          624
+        ],
+        "source_segment_sha256": "f670600e066977c4f3064d4c5d01ec2d739d2411852c6cb8d3f194cbb2fd1238",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\nessential. Otherwise the exhaustion of the reserve might find\nthe country still at a level of prices above its neighbours, and\nfaced with the choice between a contraction so preci"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          635,
+          716
+        ],
+        "source_segment_sha256": "c1f0f60fa14df874744469390d82881cad0939aa314944f006c29545425947f2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "gold.     If the exceptional harvest coincides        with a financial\ncrisis   in    a neighbouring   country,   it   may partly or wholly\ncounteract the tendency of forced sales "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          721,
+          860
+        ],
+        "source_segment_sha256": "d351a41feb225691ebd8f90cc2143ebe34edbc85e78a8451cdce564d0792e5ad",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "more characteristic feature of a crisis than forced sales of com-\nmodities,                                                                               f\n\n\n    Stock exchange sec"
+      }
+    ],
+    "P19-R23": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          865,
+          904
+        ],
+        "source_segment_sha256": "b65dff88b968f81e3393669e52c697dfdcf82eeda5b04bb1a991b56fb37d7d15",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "in commodities or in securities.            Securities present the best\nopportunities for speculation owing to their wide fluctuations\nof value.        A concern which has to pay n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          907,
+          991
+        ],
+        "source_segment_sha256": "df173bac50e1b14d8a955a3a9d26a4aa25d7d760240186460c59755bf3e22d8f",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\ntime), or else for short periods, e.g.                    from one London Stock\nExchange account to another, these accounts                           coming twice a\nmonth.    A su"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch09.txt",
+        "source_local_lines_inclusive": [
+          996,
+          1075
+        ],
+        "source_segment_sha256": "189f7a822d0a8eb3ef967c98de40121fb1b23308e02eb365df7077c942fa0fc2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n1837 it spread to the United States. In 1838 when England\nhad already entered upon a period of quiet recuperation, it\nbroke out in Belgium, France, and Germany, and in 1839 it\nspr"
+      }
+    ],
+    "P19-R24": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          5,
+          122
+        ],
+        "source_segment_sha256": "6252dca97c3b801d1e22f78e4e20cede1f0e9b4fe8733614a37cef7f8712183b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "A CRISIS may be regarded as a struggle to maintain the\nstandard of value.         It is indeed actually caused       by a general\nfall of prices, which merely another name for a ri"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          124,
+          166
+        ],
+        "source_segment_sha256": "efd5a7e28f398d0b92b0a23efe9c88dd4f211bb21d0f3be63bb059692f56a7cd",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "command. But the difficulty may be due not so much to\nimprudence as to the poverty or elementary economic\norganisation of the* country.     It may be that traders have\nno good secu"
+      }
+    ],
+    "P19-R25": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          166,
+          284
+        ],
+        "source_segment_sha256": "f66140c490eef86c2adaa7454356738efefa6c66362bb5fb82100e6a63c89f9e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "restriction     of credit drastic enough to restore the standard\nimmediately.       For many countries this is true, and they do in\nfact take refuge from the stress of a crisis in "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          285,
+          378
+        ],
+        "source_segment_sha256": "f95789ecbe4a52928b9cf9a4b254b63e109ec65aa228759730cc19573e48889d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the bank rate.   This view is based on the assumption that\nthe high bank rate only brings in gold by attracting the foreign\nlender.     The direct return to the foreign lender can "
+      }
+    ],
+    "P19-R26": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          67,
+          166
+        ],
+        "source_segment_sha256": "b7acd8185bbd94c1542709057f805e2d9baba6f4dbb8f80ed16a590f401de7d0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "     its   neighbours may have to meet an adverse balance at the\n     clearing-house.          The function of making advances to solvent\n:^   borrowers devolves on the central ban"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch10.txt",
+        "source_local_lines_inclusive": [
+          380,
+          527
+        ],
+        "source_segment_sha256": "b3e35475059e57b8ac5119505e2601c121ded1c5cd4a304cd925afb617464acf",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "money and bank credits.            It is therefore the   only means of\nincreasing the supply of purchasing power and so of reducing\nagain the    artificially raised   value of the "
+      }
+    ],
+    "P19-R27": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          3,
+          147
+        ],
+        "source_segment_sha256": "75d6c6163608768abf34836730049d27adda4f05abacb89c2dd84d64d519ef55",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "                     MONEY AND COINAGE.\nUp to this point our attention has    been turned to those\nproblems which  proceed  from the inherent nature of a credit\nsystem.   We have f"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          193,
+          239
+        ],
+        "source_segment_sha256": "adcfe269abd3afdd12fa23edb2b2f024988301c291c0f85bcce13184055c88a7",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "   Hitherto we have assumed the standard of value to be gold.\nEven when paper money falls away from this standard, we\nhave supposed that the standard is still kept in sight, and th"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          276,
+          348
+        ],
+        "source_segment_sha256": "e7b63fe4aa907197ab1a2e5d5d0909f0cad3af2ad6603cc2732bdf749f919f23",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "unsuitability of bank credits as a medium of payment in certain\nclasses of transactions.    The interchangeability of bank-credits\nand    legal tender money at the option of the ba"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          350,
+          410
+        ],
+        "source_segment_sha256": "aa1165a79487842b53cd6dd68bf9cfe385cd310e8ae413551940e43464ea3c2d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "consumer may be thereupon applied to the extinction of a\nbanker's loan it comes to an end and can be said to have\n                 ;\n\n\n\nbeen '' consumed \". But, on the other hand, "
+      }
+    ],
+    "P19-R28": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          425,
+          561
+        ],
+        "source_segment_sha256": "10d2d552a0a2e93a2b55631df1ffc902a50ad833914f56c8749337f521bfec89",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "any prohibition of melting.    But the value of the coin may\nbe raised indefinitely above the value of the metal by merely\nrestricting the amount coined ; for by the quantity theor"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          574,
+          655
+        ],
+        "source_segment_sha256": "7874e03f389b32edb91fbac7582b0447bf73324e7049a18bb92597d84dd733c9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "mains in circulation, coin and paper, being equally available\nfor the payment of debts, bear the same value in terms of the\nmoney of account       But if the amount of paper money "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          666,
+          722
+        ],
+        "source_segment_sha256": "6aa0464364f7d064ef0deb2a0fe02cfbdbf7de098648b16e537ba1c8470bbaca",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "of an over-valued silver subsidiary coinage has now become\nalmost universal.\n   The system is, of course, incompatible with the free coin-\nage of silver. The amount coined must be "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch11.txt",
+        "source_local_lines_inclusive": [
+          829,
+          981
+        ],
+        "source_segment_sha256": "8997fba7c6f140fa2a8bf4297fbc9cf51c38c330039d42b83a8cb91f443c05aa",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n\n\n                     MONEY AND COINAGE                                        i8i\n\nnational payments is that in every gold-using country credits\ncan be bought at a fixed price f"
+      }
+    ],
+    "P19-R29": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          5,
+          176
+        ],
+        "source_segment_sha256": "036b14bf2e325850170c1625a4561ce2c36771a50deaa9ca8f470a733c9ab36b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "as something subordinate to credit.          It is not   suggested that\nthat is the only legitimate standpoint, to the exclusion of the\nmore commonly accepted view of metallic mone"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          190,
+          263
+        ],
+        "source_segment_sha256": "dfece530a9db366c7809d327ce405e9c7e83f35068c6c8ae3872fc11c20d7181",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "pelled to keep larger balances (not necessarily of cash, they\nmay be of credit) because they cannot rely on borrowing.\n    The other side of the banker's business, the assuming of\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          269,
+          307
+        ],
+        "source_segment_sha256": "355637fa25e6162755ea185a4cde52244fd7ffbe94487ac7ec3efac90c7d89c0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "companies, collectors of working-class rents, etc.    Apart from      f\nthis the banks create purchasing power in the process of grant-\ning credits.  It rests with them to increase"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          769,
+          835
+        ],
+        "source_segment_sha256": "c0cbca35cd9f115062c7a666a06bcf69e235f84a487c74a35a1749ed1a991b8b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "          be innocuous but for the fatal facilities he receives from the\n          banker.    It is his power of borrowing that enables him to\n\n          increase his stocks as he ",
+        "purpose": "R29 crosschapter21 optional separation/creditcycle stillpossible;no longer pending"
+      }
+    ],
+    "P19-R30": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          359,
+          484
+        ],
+        "source_segment_sha256": "71fc2d660e4866e0b0f58fd98e9b9d2519a5df54fca4b58c49c0c059aaf58776",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "=== PDF 205 / PRINTED 193 ===\n                         THE THEORY OF BANKING                              193\n\n    reserves as to enable it to meet all demands.               If no"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          491,
+          546
+        ],
+        "source_segment_sha256": "c2221a233f690cd7b44e7b6197690ebe0ec7489227be15dd823945b6630ae046",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "I   system was a conspicuous feature of the Overend and Gurney\n    crisis of 1866, and also of the United          States crisis of 1907.\n          In considering the means of main"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          561,
+          578
+        ],
+        "source_segment_sha256": "3c7a76c6d623a7a6df18ccd8d92088b12e3c4ceae8367de400896ecc498317b6",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    passive   ;   it   is   in lending that he plays an active part in trade.\n\n    In    lending he takes the responsibility for two                   kinds    of\n    decisions   h"
+      }
+    ],
+    "P19-R31": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          601,
+          752
+        ],
+        "source_segment_sha256": "4c2e03f6edae33a9351dc9dff2c18ac1b051d0c85ebfdcc53569f1592b9ecd3a",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    198              CURRENCY AND CREDIT\nV   day.     Although it can be withdrawn almost on demand,                           it   is\n\n    different from a deposit with a bank in "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          758,
+          855
+        ],
+        "source_segment_sha256": "bdf6c56137d12a0486fcfc966bf9e7546cf88c0208262dc9941ceccbfb03353d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "nor they are necessarily to blame the gold market may be\n                                             ;\n\n\n\ninfluenced by conditions abroad, over which they have no con-\ntrol and of"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch12.txt",
+        "source_local_lines_inclusive": [
+          857,
+          935
+        ],
+        "source_segment_sha256": "bc384db1d00106b45a9888ee20fd5d1fc1605e0814c89dffcb620ffe49087066",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    represented by a note than when it takes the form of a deposit.\n    Moreover, bank-notes may, in an emergency, be made legal\n    tender, even if they are not normally so ; or, "
+      }
+    ],
+    "P19-R32": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch13.txt",
+        "source_local_lines_inclusive": [
+          5,
+          130
+        ],
+        "source_segment_sha256": "e3620886fe8fa72e6abde6b6a48a6d281be4b81509a6078c06ba8da16e88a7fd",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "tempt to gauge their soundness under strain on the assumption\nthat, whatever the strain, they remain unaltered, we are im-\nplicitly     taking    it   for   granted that the strain"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch13.txt",
+        "source_local_lines_inclusive": [
+          138,
+          259
+        ],
+        "source_segment_sha256": "0ef94ca37d5fea362e596716c8ba92172454d931b409219351645d2af657cf4b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "funds by taxation and by borrowing in the home market, this\ndiminution in the expenditure of the public would so reduce\nthe    demand for commodities as to set free all the capital"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch13.txt",
+        "source_local_lines_inclusive": [
+          264,
+          452
+        ],
+        "source_segment_sha256": "afdb4fdd1fded212a66462ab0299b3ac7fc1ce45ce81f435d6d3d2b2b5957c7b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "since the increase of the consumers' outlay draws on stocks of\ncommodities, attracts additional imports, and diverts possible\nexports to some extent to the             home   marke"
+      }
+    ],
+    "P19-R33": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch13.txt",
+        "source_local_lines_inclusive": [
+          454,
+          545
+        ],
+        "source_segment_sha256": "a0d1a02af26f655a30c821bc8055d264a3b7ad2e5656fa9d2d5ef7f004ebb232",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "=== PDF 228 / PRINTED 216 ===\n2i6              CURRENCY AND CREDIT\nundiminished.     Goods are bought as quickly as before, and\nthe high    rate of interest   operates to prevent  "
+      }
+    ],
+    "P19-R34": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          4,
+          82
+        ],
+        "source_segment_sha256": "2ecf77a4aafb4fc0b6bbce15ccd74082c91c9f9342c8f2bef1753e50a27f0217",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "        Thus besides taxation, and permanent borrowing at home and\n        abroad, and temporary borrowing in anticipation of these, a\n        Government has three legitimate forms"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          86,
+          183
+        ],
+        "source_segment_sha256": "63dc998a05387dda840588a31e07d15831d98bb60cf9a6318936cfaacf4c5d1c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "220             CURRENCY AND CREDIT\ndifferunder different systems. In the first place, the great\ncentral banks may make advances direct to the Government.\nIn France a sum of no les"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          184,
+          257
+        ],
+        "source_segment_sha256": "6d8b916cf02da7a4647aec9b3e79f0e3d48c6636cf4a16ca424ddbb1f601ed72",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "      The consumers' income may be divided into two portions,\nthat which is derived from war            work and Government work\nof all kinds, and the remainder which is still deri"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          261,
+          346
+        ],
+        "source_segment_sha256": "f53936b0298036345ae953e41dec62a138312a7a83d6136f52c38fc9ec9766c5",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "standard     of value    is   very dangerous, and unlimited paper\nissues remain as the only practicable resource.\n    Faced with these problems, a Government has to decide\nwhether "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          642,
+          664
+        ],
+        "source_segment_sha256": "40ee626e8804e4254336bd6091811b4b0769159ed7f38be764644bbf858771d7",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "      Of course it is not to be imagined that every nation which\nhas to finance a war invariably exhausts all the methods of\nsound finance before having recourse to methods of infl"
+      }
+    ],
+    "P19-R35": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          350,
+          481
+        ],
+        "source_segment_sha256": "20fa6e3acbc6c70244c3d2a0fb289b67cd936826f47d8166d5695218db8feaeb",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "   226              CURRENCY AND CREDIT\n  the supplies so purchased, like any other imports, are a con-\n  sequence of the high prices in the home market.          But often\n  forei"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          492,
+          571
+        ],
+        "source_segment_sha256": "47fe8b265824c7a09e9d3e4e6e8267aff4c55f2ae3fda2396091812bb63617de",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the United States.  The limit of those purchases was to be\nfound nowhere short of the power of the United States to\nproduce what was required and the possibility of transporting\nit"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch14.txt",
+        "source_local_lines_inclusive": [
+          580,
+          641
+        ],
+        "source_segment_sha256": "a164374001a60691a0ef3e55e34370fd13bce451bf3923d7c0557b034f6e8c51",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "and their banks of issue were no longer legally bound to grant\ncredits in exchange for gold at a fixed price.\n    For Germany the problem of financing imports can hardly\nbe said to"
+      }
+    ],
+    "P19-R36": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          43,
+          130
+        ],
+        "source_segment_sha256": "ddcd3b39afa68e4097264206b7440cdc13882faa5cc6eb99f25aa33d24d0c559",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "      The issue of the French assignats was not in the first in-\n stance a war measure at   all. The immediate occasion of the\n Revolution was the financial impasse in which the Go"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          132,
+          173
+        ],
+        "source_segment_sha256": "9c40cc1e285102ad84204021a4a5e855e37d2552bca1171360bda0f4f58dff9e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "236                CURRENCY AND CREDIT\nand speculation quickly raised them to a premium. Perhaps\nif the substitution of small notes for large had been continued\n\nso long as the dem"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          178,
+          226
+        ],
+        "source_segment_sha256": "b0a1f390f0473f731c1943a8cc1cf44f41b4be319bfa9ca8584ddcbb3b45df08",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "other side.  It seems more probable that the fall in the summer\n\nwas overdone. It was a speculative movement, which the\neconomic as distinguished from the political conditions did\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          261,
+          368
+        ],
+        "source_segment_sha256": "f497c1d34d1c68ff9367c2ac476366e037af14f31227fbc9e09df04535509770",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    one consequence of depreciation could not    be ignored. An\n    indefinite rise in the prices of the necessaries of life occasioned\n    acute distress and discontent and called"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          373,
+          464
+        ],
+        "source_segment_sha256": "f319b11a876e02f18ff84a403302b8fd3f568c743bb53a4ecef83541299e55ed",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "      So far as the economic system is concerned, the first im-\n portant step was the repeal of the law of the   maximum on\n the 24th December, 1794.              Maximum prices ha"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          468,
+          539
+        ],
+        "source_segment_sha256": "2dead537208a9e25d02e478f449c5ff2fd499023a922dca841e144acdcbb82d2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "in Paris and elsewhere were to be opened            ;    the value of silver\nbullion   in    assignats   was   to   be   officially    ascertained   and\npublished      monthly.    "
+      }
+    ],
+    "P19-R37": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          552,
+          619
+        ],
+        "source_segment_sha256": "2806d669c2621ad2a6129665d9f56aa1f88b375379276f9da6fbc04c49e3a781",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "been regarded as the security for the assignats. All that was\nneeded to rehabilitate them was to make them convertible\non demand into this security. But it could not be said that\nt"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          648,
+          734
+        ],
+        "source_segment_sha256": "a2ebf5f501212909a163a7c0e229d5190a0e03d56ad640ed859a80b69a273dae",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "paring for the advent of the              new Government.                 Currency\nmatters were allowed to drift and the credit of the assignats\nwas not assisted either by the gran"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          747,
+          837
+        ],
+        "source_segment_sha256": "7b38968723319cdd15ea0db0a6853d5e1cd0f777b4470988cf5c392afbaf2a3b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "A continuance of paper money in some form seemed absolutely\ninevitable, and the next step was to devise a new issue of paper\nmoney, which should be absolutely secured against depre"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          842,
+          933
+        ],
+        "source_segment_sha256": "772383cb9f5e8154b13b6590779041cb7aaf13ef3fe96db6af9f9fbbbf46bb04",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "entirely given way to specie, unemployment becomes one of\nthe chief grounds of discontent. But if wage contracts were\nnot easily adapted to a monetary unit which depreciated by\nhal"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch15.txt",
+        "source_local_lines_inclusive": [
+          934,
+          1012
+        ],
+        "source_segment_sha256": "d0970bf92f6fd2ae13345c50e365043ad20d33a3a17bd61f837d16a50bee43bc",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    Much has been written of the fallacies inherent in the issue\nof the assignats. They were supposed to be \" based \" on the\npublic lands, but were not, in fact, convertible into l"
+      }
+    ],
+    "P19-R38": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          4,
+          81
+        ],
+        "source_segment_sha256": "5049e1c86967909b79b7a5038014e365d053e7517240879161800b5f381172e1",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "The currency difficulties in England differed completely from\nthose of France, occurring as they did in a highly-developed\ncredit   system which had already been adapted to finance"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          90,
+          198
+        ],
+        "source_segment_sha256": "597bf066738fccf114f501d36fb5fc80b4bda3d4de11edb252ed10d82cf4e779",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "provision, was the cause of growing misgiving to the Bank,\n\n                                                        —\nand led the Directors to make repeated protests to Pitt pro-\nt"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          203,
+          291
+        ],
+        "source_segment_sha256": "9e8fc421b9f7af9dac94a464e632210fbbf7c70b4881e6074082ee80ff023a1d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "found in them.      In 1793, the first year of the war, they\naveraged a little over ;^9,ooo,ooo.   In 1 794 they were lower,\nthe average being about ;^7, 5 00,000.     At the begin"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          296,
+          403
+        ],
+        "source_segment_sha256": "1e67b7afc4c8e6a2d6ef43a47b56d7c7aabf987f670feb808007949c45e69e8b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "for guineas.         But this   loss of confidence itself calls for ex-\nplanation.\n       Why, then, should the banks have been in difficulties?\nWhy should gold have been exported "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          404,
+          528
+        ],
+        "source_segment_sha256": "7f472f09cf95abe83c926f32dac9acd529366731961276799001a1cab47c1db3",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    But to appreciate the full significance of these figures it\nis   necessary to understand that September,   1795, was pre-\ncisely the month in which the Bank of England first be"
+      }
+    ],
+    "P19-R39": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          531,
+          623
+        ],
+        "source_segment_sha256": "70cf405cf201e0bd99b12b88c4f2656ac81218d814172b840fac69904762f851",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " and more favourable, the usual consequences of the contraction\n of credit and lowering of values in a country which has passed\n through a crisis.\n       At the time, however, it s"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          624,
+          768
+        ],
+        "source_segment_sha256": "2d9846603c20fe6fcf392cc2ca20bf5987396263df4acc5fd7f76ec2cf4e5f79",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    For these reasons the prices of the precious metals and the\nforeign exchanges  do not give an unquestionable measure of\ndepreciation.  There remain the prices of commodities. A"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          772,
+          817
+        ],
+        "source_segment_sha256": "f207e90c80fff3bcbf16301f35a9ef550e36ed1077dd59b15d95a0567b543ba2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "      The statistics show a general tendency towards increasing\ndepreciation, reaching a   maximum rather before the end of\nthe war.   But this general tendency is broken by very c"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          822,
+          957
+        ],
+        "source_segment_sha256": "1bce1400c5766a57908eab4750f1714d71b8b1b2abdc4e13bd509fc068726054",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    The continental blockade was already beginning, but still\nin a mild and incomplete form, English goods being smuggled\ninto the Continent in large quantities through both Hollan"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          966,
+          1089
+        ],
+        "source_segment_sha256": "5a86ced3bbe9240afe0b3ab32b195f60da32bca122ba882a8fe2afadd2ddec35",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " 274               CURRENCY AND CREDIT\n the country and accumulating in the vaults of the bank.              The\n\"^bank actually undertook in September, 1817, to pay cash for\n note"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch16.txt",
+        "source_local_lines_inclusive": [
+          1090,
+          1175
+        ],
+        "source_segment_sha256": "1e5a84ba5415426affa62f4f814846cf65d985fdb6ae51a225508313636c90a4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    The members of the Committee and their supporters, able\nand enlightened as they were, did not penetrate to the bottom\nof the question.    But for all that the report represente"
+      }
+    ],
+    "P19-R40": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          10,
+          98
+        ],
+        "source_segment_sha256": "5cef425716d4b0349557c7a98bdee87076fd7afd3e29d8b1bf9d943e71fa16f9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "Whenever, in consequence of war or any other cause, the\nmonetary unit of a country depreciates, the difficult prob-\nlems arise   whether it is to be restored to its former value\n  "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          103,
+          152
+        ],
+        "source_segment_sha256": "a319ef0e825482c32749a1f3141d7eb01858935f43a8a825e6392b3c7059c0d7",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\n                                          Value of         Weight of         Percentage\n          Year.                      Tower Pound           Penny in              of\n       "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          156,
+          252
+        ],
+        "source_segment_sha256": "3ace9859eb28d7338c573fc366294a77c2af326b2b48da4b6270b6042e9a5b2d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "profit arising from the reduction of fineness and weight.  As\nthe seignorage had previously been only is. a pound, the mint\nprice had been 44s. a pound of the old sterling standard"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          256,
+          294
+        ],
+        "source_segment_sha256": "2d0868adb7b97573c2fd1fbca733e03f2f15da7c131785eaaf19916ddfe1711f",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "coins one-fourth               fine,   a proclamation was issued in July in-\nflicting savage penalties                on any who should \" invent, speak,\nmutter or devise any manner"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          299,
+          351
+        ],
+        "source_segment_sha256": "f7abd725312c76579cd6e983cd7ae86a9c7b11818595dc57abe4e56472519a0e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " the exchange                  from 15s. to 14s. Flemish for\n                        had- fallen\n a pound of our     money. ^ The Mint was then paying ten\ntestons for an ounce of f"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          358,
+          486
+        ],
+        "source_segment_sha256": "2635f85a5713df57158275bd6266e8a681d668ef2013e046b374470c98e8875b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    20S. 4d., and though it then fell to 19s. (and would have fallen,\n    Gresham said, to       i8s., but for his    arrangements for meeting\n    the King's debts)   Gresham raise"
+      }
+    ],
+    "P19-R41": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          491,
+          534
+        ],
+        "source_segment_sha256": "1c5b5371644a812a15485565bc4cf8523ae1dab4cc127a117b51c2184cc30a2e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "experts in the value of coined gold and silver, they discharged\nthe functions which in the East belong to the ''shroffs\".\nSince the intrinsic value of a coin depends not only on it"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          540,
+          629
+        ],
+        "source_segment_sha256": "0050689f083a6237bd680c75688a8273d490bd107e4063fc1b63c55bc71229b3",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "coinage ratio was altered spasmodically in different countries                    ;\n\n\n\neach in turn lagged behind the others and began to lose its\ngold,  and then, perhaps, raising"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          633,
+          682
+        ],
+        "source_segment_sha256": "06955eeac53c2bb52cf34b529a4d377a86b69e9ab048bfb21320cfabb55432ec",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "new bank would enable merchants                  to economise       balances\nmore effectively than before.\n   Thus the foundation of the bank added ;^ 1,200,000 in\npaper to the pur"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          687,
+          780
+        ],
+        "source_segment_sha256": "bc01f54172d58fa459555193bac5036805c9d10ad024442f2995aef729238f87",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "and recommended a slight reduction in the weight of the\npound sterling. But the evil developed rapidly, and the\nGovernment called for a report from the Secretary of the\nTreasury, W"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          781,
+          884
+        ],
+        "source_segment_sha256": "a3db1e126b8a4d7e48ce630a4bc12e9af1b3145ced59b9edc52d6adae120324a",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "\"intrinsic value\" and the \"extrinsic denomination\" of the\ncoin between its value, when melted, as a raw material of in-\n       ;\n\n\n\ndustry, and its value as the legal means of disc"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch17.txt",
+        "source_local_lines_inclusive": [
+          890,
+          975
+        ],
+        "source_segment_sha256": "acc3df90513c6405f6408e908fdcab16913b3ec8253aa607bd80b490589f2beb",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the Exchequer was, for those times, prodigious.        Lowndes had\nestimated that the silver coin in circulation was ;^5,6oo,ooo,\nthat of this total ;^4, 000,000 was probably clipp"
+      }
+    ],
+    "P19-R42": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          4,
+          82
+        ],
+        "source_segment_sha256": "f48600b509a975a44d97724edd12b0cdaeee8f53169c7fb68dee4002830b2ad0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "The nineteenth century saw what was perhaps the most re-\nmarkable and far-reaching of all changes of standard, the\nalmost universal adoption of the gold standard. The change\ncame v"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          88,
+          175
+        ],
+        "source_segment_sha256": "27049fee544a1e0f9bcd208566813b7070fc72ad191751ce1ee5bd5023ccc0a2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "to go   first,   and would flood the silver market and raise the\nrelative value of gold.    The market ratio at Hamburg, which\nwas 15 in 1793, rose to 1 5'37> the highest level for"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          180,
+          265
+        ],
+        "source_segment_sha256": "a3d341b3a883d08d1fa18f6d5ae169998178756fa6970316bc61661d4a1c6a92",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "unworkable.         Lord Liverpool had foreseen these dangers,\nthough he had by no means appreciated their importance,\nand he had, as an afterthought, suggested the remedy. The\nmer"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          270,
+          354
+        ],
+        "source_segment_sha256": "8c93aeaca39e581dc1e55f29df7163ed5953e6d08b81dfde24b620944ba40759",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " the realm of paper currency.        The Americans may even be\n said to have invented paper money. Some of the Colonies\nhad  indulged  in it before John Law embodied a forced curre"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          362,
+          443
+        ],
+        "source_segment_sha256": "3d3ab225bda9a46b81c15cf7f6ba6994021bc35c1825c50ae631d19867754d9f",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "silver was relegated to a subordinate position just as    it   had\nbeen in England in the eighteenth century.       By 1853 the loss\nof silver had become inconvenient, and subsidia"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          448,
+          529
+        ],
+        "source_segment_sha256": "fe230e82a866e666c40a9ea7a8a53b820c0aaffcc8bb788d4fbd806e3d08449d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "cent.   The restoration of peace speedily raised its value, but\neven when peace was an accomplished fact the discount was\nstill some 30 per cent.    The first measure taken to corr"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          533,
+          578
+        ],
+        "source_segment_sha256": "c1636acb19804a352e7f8df576a8a0c99b55a2b5da6f17994a309597de336d63",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the value of the greenback rose but little.              It   touched 91-5 at\nthe end of 1871, but         fell   a   little   in 1872, and   was as low as\n85 in May, 1873.        "
+      }
+    ],
+    "P19-R43": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          582,
+          621
+        ],
+        "source_segment_sha256": "c6dfcb8f8df5210ff108545a5feade90f22d3b3096010d99610f9c9e41bc37f4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " mileage was only 5875.  In 1873 it had risen to 11,060, so\nthat 5185 miles had  been added in three years. Like the\nUnited States, Austria- Hungary normally exported more\ngoods th"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          625,
+          717
+        ],
+        "source_segment_sha256": "364b9c29cd8d1f3a3c663ca5317f009317efded416dd2d759d81b8c1e0c646ed",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "in the period      181 5-21.    In both cases there    is   an easy but\ndeceptive appreciation which really only reflects a credit ex-\npansion in the gold-using countries      ;   "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          722,
+          797
+        ],
+        "source_segment_sha256": "8e137d3786f8f8d6b3d8ac307b042330c5446fc53cd2c7da13bcf8d7781967d7",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "month a sum of not more than $4,000,000 and not less than\n$2,000,000 was to be spent on the purchase of silver for\ncoinage into dollars. At the then price of silver $2,000,000\nwort"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          807,
+          847
+        ],
+        "source_segment_sha256": "addd9de6c3c5c4c01fe8ec1a4b715f893b3b81962c7f0e7af0cb13073f746c42",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": " of exports over imports.   In the five years 1881-85 imports\n averaged $77,000,000 and exports $71,000,000.     In the five\n years 1886-90 the average imports had grown to $130,00"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          851,
+          891
+        ],
+        "source_segment_sha256": "103b7ce071702d13ab735ba117757dd422e8c6bca70ffe521abf7dab1e31ec1d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "balance of exports to be paid                 for.   Where there is a gold\nstandard, gold will be imported till the level of prices has been\nraised to such a point that sufficient "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch18.txt",
+        "source_local_lines_inclusive": [
+          896,
+          976
+        ],
+        "source_segment_sha256": "7cd0ab3b0421027217aac0ed3786ec4cd5d0385b72eea8fc73777af81f0641a1",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "refused to pay out legal tender money.     They thought it safer\nto break   their   engagements with    their depositors,   than to\ntransgress this legal requirement or, where a br"
+      }
+    ],
+    "P19-R44": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          9,
+          85
+        ],
+        "source_segment_sha256": "ef48c10eba1e8d2bc37e9e9710850436b27d2d8ed894539a1d30b4eb61826a01",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "England after the Bank restriction and the United States\n             War both returned to a gold standard which\nafter the Civil\nhad been substantially in operation before the issu"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          96,
+          177
+        ],
+        "source_segment_sha256": "9fceab45e12b6ec0972642bcf10b330ef7f22392d36b295623e59a4ff8858ed0",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "against Napoleon III., and the premium rose as high as before.\nIn 1864 came the joint intervention with Prussia against\nDenmark, and in 1866 the war against Prussia, and also\nthe O"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          182,
+          260
+        ],
+        "source_segment_sha256": "d547d9bfcfcd26ca643f9ffc7b6c54fc966db38c596258cc45e0522a526e58e1",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "permanency.     It was too much to hope that the old par of\nexchange of 102*15 would be reached within any reasonable\ntime, but it seemed safe to adopt a value corresponding to the"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          261,
+          355
+        ],
+        "source_segment_sha256": "c1e49294a021797f20212a7cc5be5e0714a1c968043f82c72ad3bbca03788ed8",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "until the recrudescence of        war over the Eastern question in\n1876-78.    In the autumn of 1877 it fell to 22|d., and though\nearly in 1 878 the expectation of peace produced a"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          360,
+          454
+        ],
+        "source_segment_sha256": "da93d4e3590388b348d7cb35b5645714efc83b4e09c08bc2ea1c391b897751d1",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "fine,   but was worth less than 4 francs. Both countries fixed\nnew gold values for their    monetary  units approximating to\ntheir market values.     Neither debtors   nor creditor"
+      }
+    ],
+    "P19-R45": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          458,
+          498
+        ],
+        "source_segment_sha256": "981abf7ffb81cb0d1a27d22a467099dd202d5f1c6779900519104027457d0c9b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "in        and an attempt was made to put these coins into cir-\n     1 899,\n\nculation  by redeeming notes and making other Government\npayments in gold unless the payees expressly as"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          505,
+          601
+        ],
+        "source_segment_sha256": "783a7744a1f28f1c554d9ce92faf78f64c903a0380bc906ca2f2c5d212b6091d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "332               CURRENCY AND CREDIT\nfall below the prescribed value of is. 4d. (or rather a slightly\n\nlower value, say is. 3jd., corresponding to the export specie\npoint.\n    For"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          605,
+          650
+        ],
+        "source_segment_sha256": "7b7c60e8e1dbf6ec5209b287ca34037b77c992f17897349919ca7d9187dfb59b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "   At last, however, in March, 1908, it became clear that the\nsuspension of the sale of bills and the release of gold in India\nwere not sufficient by themselves to support exchange"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          655,
+          700
+        ],
+        "source_segment_sha256": "d6a465fb919c82428170a1e0332a7b45ca5f9067d04f6747af2fefdfa667f1c2",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "             ABSORPTION OF CURRENCY (LAKHS).\n\n                         Rupees.        Notes.           Total.\n\n\n\n\n         1898-99              -27         251               224\n  "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          704,
+          805
+        ],
+        "source_segment_sha256": "6a3ade613e7704b2b68fc372d4e33447bf89d4c79f1e77d4dcefdafef654561b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "The second arose in the years 1905-7 when, after a slack in-\nterval, the same conditions recurred, 3192 lakhs being absorbed\nin    two years.       The third arose at the end of 19"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          810,
+          893
+        ],
+        "source_segment_sha256": "5ba39086b21f2f913b9932b4b194b77dd57e9a6a07943ee47760dae31322bca9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "the autumn of 1906) had risen steadily since the beginning of\n1905, the average increase as measured by index-numbers ex-\nceeding 15 per cent, at the maximum.      From about June,"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          897,
+          936
+        ],
+        "source_segment_sha256": "56beca255d54eccaad41410f50c0e0025d1c275e366fdfe9474986c3314b8faa",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "Hoarding is prevalent.      Economic motives sometimes work in\nobscure and unexpected ways.       But it remains true that the\npeople can absorb rupees when they can          sell "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch19.txt",
+        "source_local_lines_inclusive": [
+          940,
+          1053
+        ],
+        "source_segment_sha256": "14fdf6235c13633b9b67f42a00e43ae2ae4966f1e62fcfaaa7a60be18b4a50ef",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "was slight and the        fall   This merely means that the\n                                 great.\nprice of silver manifests the same tendencies as the prices of\nother commodities"
+      }
+    ],
+    "P19-R46": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          5,
+          100
+        ],
+        "source_segment_sha256": "ddae6d51ab0223f7927948c2ec4e7287573c43429aa68379b491aed79ca46235",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "As the financial pressure and commercial restraints of war con-\nditions are relaxed, the question of a   change or restoration of\nthe monetary standard will become one of great pra"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          101,
+          167
+        ],
+        "source_segment_sha256": "d53ec69f324d0a1f833c8b38eedd5ac0fd6df477508485181d7a36c5a064a5b5",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "   What is to be the future international standard of value\nand medium of payment ? Is there to be a general return to\nthe gold standard ?  If so, will those countries whose paper\n"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          185,
+          258
+        ],
+        "source_segment_sha256": "12b868f1cef77d406fdaa64ff86d26761f9ee2ebdf124e12e032a128ac35a4ff",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "            Now the word capital is a dangerous one. It is quite true\n        that after an exhausting war the country will be suffering from\n        scarcity of capital, but scarc"
+      }
+    ],
+    "P19-R47": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          262,
+          300
+        ],
+        "source_segment_sha256": "99cc04dd376c972688aae6943a935040e40fa7a0932055aad96de10d6cdbfcce",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "low, will want to borrow to replenish them, so that the brunt\nof the demand for funds for both fixed and circulating capital\nwill fall on the bankers.\n          These conditions  w"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          308,
+          359
+        ],
+        "source_segment_sha256": "c93aac04598200e9e76112e07063503821b4e1599ff75b2ce59a02cef1c4fa23",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "payment of Government indebtedness diminishes the assets\nand therefore also the liabilities of the banks, and enables the\nbanks to grant credits to traders to an equal amount witho"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          360,
+          441
+        ],
+        "source_segment_sha256": "a186af29e931a7360fdc32d2a2c9ae2c6ae53427f0889f4a267977df98129221",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    Deflation and capital restoration, notwithstanding that\ntaxation and other severe financial methods favour both, must\nbe regarded as in some degree rivals.           Purchasing"
+      }
+    ],
+    "P19-R48": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          448,
+          530
+        ],
+        "source_segment_sha256": "8da95e160ff896f50f1d3233a014055744c0710ddf97f92256290b17783c7c2c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "ismore or less within the control of Governments and banks.\nBut what is the rate of progress to be ? This brings us back\nto the point from which we started.      Is gold to remain "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          537,
+          630
+        ],
+        "source_segment_sha256": "34bde7d6b2e8639a610d1a6c04e59bbac1b9ca2381539f14fb7f09f3e9b07f2a",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "confined to the case of the debtor.        Falh'ng prices deter traders\nfrom holding stocks of goods       ;   new orders are checked and\nproduction and employment         fall   o"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          631,
+          728
+        ],
+        "source_segment_sha256": "62e1ebd4e7974ec6242cf1c9c3f94b4eb74a765183fdc101d871dbbc70556f74",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    But there is one class of investor which is in an altogether\nspecial position, more particularly in post-war finance.   That\nis   the holder of the national debt.\n    There is "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          732,
+          817
+        ],
+        "source_segment_sha256": "8e45d277344c17254c669a6e7831a74092073e404fad965735fab56fb28bc3f4",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "commodities will    rise.   If the tendency is to be content with\na paper circulation, without gold backing, the value of gold\nmay fall even below the low level characteristic of w"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch20.txt",
+        "source_local_lines_inclusive": [
+          821,
+          878
+        ],
+        "source_segment_sha256": "6a3bf49ee790d09e7d8a31f484c9aa23b3f09909ac64646ed402dbaadb29ae3b",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "standard has once been relinquished, it becomes very difficult\nto resist the traders' desire to have just so much credit created as\nis   necessary to finance their business at the "
+      }
+    ],
+    "P19-R49": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          5,
+          95
+        ],
+        "source_segment_sha256": "c494c6762451f0e9f9695f31fcc5cdc10b6dce7cbabb7652255e7b549e6cbbc1",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "4 What I have called the classical theory of currency starts with\n  the postulate that any two things exchanged must both have\n  value.    If goods or services are sold for money, "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          99,
+          158
+        ],
+        "source_segment_sha256": "1163692bc38dbe92deb7c0cb7d8b996e4557ceb7f74a44cb5ce9e95fb20f290d",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "putting forward abstract theories.            \" The admonition to beware\nof abstract        theories,\" said       Canning,    *'   comes from whom?\nFrom the inventors and champions"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          163,
+          267
+        ],
+        "source_segment_sha256": "e31c063ec237458efa86baaf2380520bcbb5165cffac981f5f081499a039e214",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "something which does not exist either in law or in practice, in\nthat case one class of measures relating to paper currency\nmay be adopted           ;   but if the word            P"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          272,
+          357
+        ],
+        "source_segment_sha256": "45f14d1c52ef4121493a471bd34a805fe24b646ade382d302e32aec0f5876824",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "upon it to determine its weight and fineness, claimed that this\nwas so \" according to practice, according to law, according to\nthe ancient monetary policy of this country \".   The "
+      }
+    ],
+    "P19-R50": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          362,
+          458
+        ],
+        "source_segment_sha256": "e4aa062697731cb677caa3611c5c1dca5ef22613290a8a44f6908ca2307f6b8c",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "gain the full advantage of this respite there must be a real\nreluctance to depart                from the metallic standard.                  Primitive\nman clung to his religious r"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          464,
+          518
+        ],
+        "source_segment_sha256": "f0e964268383aad330838dfd45d8fcfd2f158c829fd571ec0229b8bdb679b16e",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "       The periodic credit expansions and credit contractions, on\n the other hanH^^ and the changes in the value of gold which I\n aecompaiiy ll ient; -must be regarded as normal. T"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          521,
+          618
+        ],
+        "source_segment_sha256": "baadcfe44927d1bc24fc0453368065ef22f8e24ea3292c02b0d4fb6f476a7024",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "            periodic fluctuations there was for many years superimposed\n            a general tendency to depreciate.\n                Criticism of any theory of currency leads up t"
+      }
+    ],
+    "P19-R51": [
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          623,
+          736
+        ],
+        "source_segment_sha256": "dd9fd7473f97e3bad7af839169a167bc91d49cabfc6650403f218d90c26c3c01",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "       It is the   inherent instability of credit that    is    perpetually\n involving the world in credit expansions, each of which would\n threaten    the collapse of the gold sta"
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          739,
+          835
+        ],
+        "source_segment_sha256": "56efabefd4825b639fcde0571af516f6d7a6b134a909d4dc72bfb64548b666b9",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "             kinds, but they must anticipate the demand for new products,\n       and must see what the consumer will want long before he has\n         '\n\n\n\n\n                        "
+      },
+      {
+        "source_file": "work/book-experts-v5/value_team/P19/source/ch21.txt",
+        "source_local_lines_inclusive": [
+          837,
+          874
+        ],
+        "source_segment_sha256": "06233137b66c2a70c31695580450b7de05ed35dcf106aeab9bd5361f283e9751",
+        "hash_method": "Exact UTF-8 stored OCR chapter, splitlines keepends, no normalization",
+        "excerpt_for_location": "    380             CURRENCY AND CREDIT\n    circulation increased, a smaller stock of currency would support\n    a given level of prices, and vice versa.   In reality an increased\n"
+      }
+    ]
+  },
+  "all21chapters_reviewed": true,
+  "all51rules_reviewed": true,
+  "independent_QA_pass": false,
+  "full_scan_glyph_reviewed": false,
+  "candidate_required_corrections": [
+    {
+      "id": "P19-QA-C01",
+      "issue": "All51 source.locator_basis strings reverse the mathematical mapping: paper n=PDF n+12 is false; actual PDF=printed+12/printed=PDF−12. Current numeric arrays correct so do not remap arrays incorrectly.",
+      "old_exact": "1919 original scan: paper n=PDF n+12. Pages read as full OCR; only stated images visually checked.",
+      "new_exact": "1919 original scan: PDF page = printed page + 12; printed page = PDF page − 12. Pages read as full OCR; only stated images visually checked."
+    },
+    {
+      "id": "P19-QA-C02",
+      "rule": "P19-R05",
+      "issue": "Cash drawn for wages and gradually retained by public is primarypaper21–23/PDF33–35; current source pages24–28 mainly merchant rates/control and do not directly support this complete subclaim. Add exact primaryparagraphs and these printed pages; retain current rate/control evidence."
+    },
+    {
+      "id": "P19-QA-C03",
+      "rule": "P19-R10",
+      "classification": "author_claim_condition_missing",
+      "old_author_meaning": "歉收增加进口需求，外国贷款改变收款与支出的分布；金属可运输时汇率偏离会触及输送界限。",
+      "new_author_meaning_candidate": "歉收先减少产出与收入；若支出因动用余额而未同比减少，汇兑才受不利压力。外国贷款改变国际支付与支出分布；真实兑换和金属运输可行时，汇率偏离受金输送成本界限约束。",
+      "supporting_printed_pages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "chapter_prose_already_qualified": true,
+      "no_original_source_number_change": true,
+      "additional_required_inputs_candidate": [
+        "income_flows",
+        "outlay_flows",
+        "unused_balances"
+      ]
+    },
+    {
+      "id": "P19-QA-C04",
+      "rule": "P19-R09",
+      "classification": "source_page_scope_incomplete",
+      "issue": "The explicit aggregate other payments net statement and example are paper61/PDF73, beyondcurrentprinted56–60; add61 while preserving existing56–60 and source paragraph."
+    },
+    {
+      "id": "P19-QA-C05",
+      "rule": "P19-R20",
+      "classification": "original_application_condition_missing_in_rule",
+      "issue": "Foreignasset sale mechanism originalpaper119–120 requires receivedlocal paper actually withheldfromcirculation, not lentoutagain, plus maintainedcredit contraction. Current rule/requiredinputs omit this important condition though chapterdraft explicitly preserves it. Add exactfragment localch08lines550–609 and requiredinputs for actualcurrencywithdrawal/re-lending/credit response; make relevant conditionalabstention explicit. Does not reject a different modern policy objective by fiat.",
+      "additional_required_inputs_candidate": [
+        "cash_withdrawal",
+        "bank_re_lending",
+        "discount_rate"
+      ],
+      "author_meaning_candidate": "为支持所述汇价目标出售外国资产时，收到的本地纸币须实际退出且不再放出，并维持信用限制；印度汇兑与兑换界限以及不同群体的现金和信用习惯又限定渠道。",
+      "application_boundary_addition": "缺真实回收、再放贷或信用限制资料时，弃权于此机制已维持汇价的判断。"
+    },
+    {
+      "id": "P19-QA-C06",
+      "rule": "P19-R18",
+      "classification": "multi_claim_precise_evidence_required",
+      "issue": "The slowcashreturn following continuedearlyabsorption after contraction is directly paper125–126/PDF137–138, notcurrent107–111 alone. Add finalparagraphs/localch08lines840–916 and pages125/126; retain earlymerchant/order evidence. Existing draft preserveslag, not a needed chapter rewrite."
+    },
+    {
+      "id": "P19-QA-C07",
+      "rule": "P19-R23",
+      "classification": "author_claim_causal_allocation",
+      "old_author_meaning": "固定债息与短期融资使收入变化放大股东残余收益，投机及可随时收回的贷款在危机中加重出售压力。",
+      "new_author_meaning_candidate": "固定债息可使经营收入变化放大股东残余收益；投机者的短期或可随时收回融资在危机中加重出售压力。",
+      "issue": "Sourcepaper146 hypothetical corporate5/10dividend amplification stems fixeddebentureinterest; its separate nextdiscussion short/call funding causes selling/liquiditypressure. Do not attribute both mechanisms to operating residualprofit arithmetic. Draft itself properly separated."
+    },
+    {
+      "id": "P19-QA-C08",
+      "classification": "new_original_vs_OCR_numeric_gap",
+      "printed_page": 147,
+      "pdf_page": 159,
+      "source_file": "source/ch09.txt",
+      "issue": "Main renewalcommission originalscan reads½ percent perday; OCRlocallines911–913 reads1 percent perday. Originalfootnote quoted1884 4percent perday intact. No draft currently assertsmain numeric, so record explicit source transcription gap/audit rather than overwriteraw. Do not calibrate or annualize either.",
+      "original_image": "index_team/peer-QA/P19-scan/leverage-159.png"
+    },
+    {
+      "id": "P19-QA-C09",
+      "rule": "P19-R26",
+      "classification": "multi_claim_precise_evidence_required",
+      "issue": "Rule title links suspensionissuecap and preservationgoldconflict; primaryremoveissuelimit and goodsecurity/highrate thenrestrictloans vs suspendgold decision is originalpaper152–154/PDF164–166, outside currentsourcepages159–162. Add exactearlych10paragraphs/local40–166 along with159–162; keep author noactualgoldexchangecrisiscase condition within latter evidence. No chapterprose rewrite."
+    },
+    {
+      "id": "P19-QA-C10",
+      "classification": "chapter_minor_date_error",
+      "file": "ch16.md",
+      "old_exact": "七月至次年二月附近的差价",
+      "new_exact": "八月至次年二月附近的差价",
+      "source": "source/ch16.txt local346–383/PDF274 paper262; scan says23August1795 to22February1796, tablestartsAug.",
+      "body_Han_count_change": 0
+    },
+    {
+      "id": "P19-QA-C11",
+      "classification": "chapter_fineness_fraction_reversed",
+      "file": "ch18.md",
+      "old_exact": "应有的十一分之十二成色",
+      "new_exact": "应有的十二分之十一成色",
+      "source": "source/ch18.txt local66–82/PDF312 paper300; original11/12fine vsusual9/10",
+      "body_Han_count_change": 0
+    },
+    {
+      "id": "P19-QA-C12",
+      "classification": "rule_market_value_mislabelled_repayment",
+      "rule": "P19-R42",
+      "field": "application_boundary",
+      "old_exact": "大陆纸币一比四十早期偿付安排、后来的低价值兑付与1790办法不同，不能合成单一回收率。",
+      "new_exact": "大陆纸币约一比四十是1780年相对银的市场价值；随后五年票据认购按不高于一比二十，1790年残余股票认购按一比一百，不能合成单一回收率。",
+      "source": "source/ch18.txt local270–354;PDF317 paper305 market1/40 andPDF318 paper306 bonds1/20/1790stock1/100 visuallyconfirmed",
+      "also_update_if_exactduplicated": "independent_analysis contains same boundary sentence"
+    },
+    {
+      "id": "P19-QA-C13",
+      "classification": "all51_rules_exact_evidence_and_crosschapter_scope",
+      "issue": "Original51rules onlywidepageledger/entirechapter fileSHA withno preciseparagraphlocators. Add184 handchosen originalfragments withlocal inclusive lines/rawbytes/Unicode offsets/SHA/excerpt; all fullchapter contextactuallyread. R29 source mustinclude21corroboration;R34 selectedpaper232notes/bonds paragraph alsoaddactivepagecoverage whilelegacyoldpage scope retained. Do not replace oldscope silently or claimOCRexcerpts are visuallycertifiedtranscriptions."
+    }
+  ],
+  "remaining": "13 requiredcandidate correctiongroups+184exactanchor merge andfinalrecheck; original21source/draft/notes/front/index/back/synthesis/expert fullsemanticQAfinished, notpassed untilcorrectionsresolved.",
+  "pending_cross_chapter_evidence": {},
+  "front_matter_review": {
+    "all_original_extracted_text_actually_read": true,
+    "pdf_range": [
+      1,
+      12
+    ],
+    "preface_pages": [
+      9,
+      10
+    ],
+    "contents_pdf": 11,
+    "actual_image_title_and_contents": [
+      7,
+      11
+    ],
+    "sixth_chapter_start_86_confirmed_against_contents_image": true,
+    "preface_author_notexclusivemethod_nopanacea_quantityinsufficient_and_war_present_tense_context_preserved": true
+  },
+  "index_review": {
+    "all_extracted_index_text_actually_read": true,
+    "printed_pages": [
+      381,
+      393
+    ],
+    "pdf_pages": [
+      393,
+      405
+    ],
+    "actual_read_blocks_pdf": [
+      [
+        393,
+        396
+      ],
+      [
+        397,
+        400
+      ],
+      [
+        401,
+        405
+      ]
+    ],
+    "final_index_pdf405_actual_image_read": true,
+    "every_index_locator_target_independently_crosschecked": false
+  },
+  "back_matter_review": {
+    "all_extracted_text_actually_read": true,
+    "pdf_range": [
+      406,
+      410
+    ],
+    "printer_colophon_read": true,
+    "original_extra_appendix_separate": false,
+    "all_low_OCR_pages_actually_classified_on_composite_image": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      8,
+      12,
+      406,
+      407,
+      409,
+      410
+    ],
+    "library_records_are_not_original_content": true,
+    "library_stamp_dates_exactly_transcribed": false,
+    "image": "source-review/outer-and-low-OCR.png"
+  },
+  "all_synthesis_expert_description_callable_prompt_and_audit_semantically_read": true,
+  "exact_evidence_boundary_notice": "184 precise locator fragments, not standalone complete natural paragraphs. Every rule has a complete uninterrupted original-chapter context file. All gaps and adjacent continuations are present there.",
+  "boundary_repair_audit_file": "work/book-experts-v5/index_team/peer-QA/P19-boundary-and-continuous-context-QA.json"
+}

@@ -1,0 +1,337 @@
+{
+  "book_id": "P32",
+  "status": "complete_independent_semantic_review_corrections_pending_no_pass",
+  "review_time_expert_sha256": "b9daaa043208cf89f21fbfddc6d120ee866e8dba54472f28081cee1f8d068ed9",
+  "review_time_audit_sha256": "c8f959442323a223ff9d097727c01c75ab8a4f0dfc852ae4904aa0297359cbd2",
+  "required_findings": [
+    {
+      "type": "source_coordinate_file",
+      "candidate": "Original global lines refer to source/original.txt, current source_file is chapter subset. Preserve scope as navigation and add exact original.txt line/char/byte/SHA + full continuous chapter discourse.",
+      "status": "all52_rules_201_exact_candidate_contexts_and_continuous_units_completed"
+    },
+    {
+      "rule_id": "P32-R04",
+      "candidate": "Boundary mentions ch8 floor broker cannot predict; add its direct source only after actual full ch8 review.",
+      "status": "actual_full_ch08_review_complete_and_three_direct_contexts_added"
+    },
+    {
+      "file": "source/footnotes-ledger.json",
+      "candidate": "Whole-footnote original_txt_lines upper bound is exclusive (F1[9725,9728], F2starts9728); label explicitly. Rule paragraph ledger uses inclusive end; do not mix coordinate conventions.",
+      "scope": "All129 footnotes actually read; all line-range end conventions validated"
+    },
+    {
+      "id": "P32-page-anchor-01",
+      "affected": [
+        "P32-R08",
+        "P32-R09",
+        "P32-3-P023",
+        "P32-3-P024",
+        "P32-F34-P001"
+      ],
+      "finding": "Original1914 complete scan PDF98/printed86 starts borrowed100 andN34,PDF99/87 finishes price1%/returncollateral/N34; PDF100/88 is watercarrierNapoleon,notreturn. ExistingHTML-derived printed87–88/PDF99–100 onepage late. Keep previous navigation labelled, precise originalimage pages98–99,printed86–87;P024only99/87;N34start98/86through99/87.",
+      "direct_original_images": [
+        "P32-images/pdf98.png",
+        "P32-images/pdf99.png",
+        "P32-images/pdf100.png"
+      ],
+      "no_whole_scan_glyph_verification": true
+    },
+    {
+      "id": "P32-wording-01",
+      "file": "ch04.md",
+      "old": "还可动用客户经纪的本行存款",
+      "candidate_new": "还可动用经纪在本行的存款",
+      "reason": "Original P020 says any deposit the broker may have in the institution; eliminate ambiguous reading that bank directly sweeps end-customer deposits."
+    },
+    {
+      "id": "P32-attribution-01",
+      "rules": [
+        "P32-R12"
+      ],
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "圣保罗1000股120：客户15000、银行96000、经纪9000，银行20%缓冲不同客户12.5%。",
+      "candidate_new": "圣保罗1000股每股120的例中，客户付15000、银行贷96000、经纪补9000；借据授权抵押保证降至20%以下可出售。",
+      "independent_analysis_addition": "客户初始款占买价12.5%、客户加经纪资本为24000及20%，是本次独立复算，非作者直接写出的客户百分率；不作现代保证金标准。",
+      "reason": "Keep author directly supplied numbers versus our derived12.5% separate; all raw values unchanged."
+    },
+    {
+      "id": "P32-wording-02",
+      "rules": [
+        "P32-R21"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者以证券先跌及NYSE抵押贷款收缩对照全国扩张，认为提前警报并非主因。",
+      "candidate_new": "作者以证券先跌及纽约市银行以交易所证券抵押的贷款收缩，对照全国贷款扩张，认为市场提前警报而非危机主因。",
+      "reason": "Avoid ambiguous institutionNYSE borrowing; sourceP013 is NewYorkCitybankloans secured by StockExchangecollateral."
+    },
+    {
+      "id": "P32-unit-01",
+      "rules": [
+        "P32-R23"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者列建设许可/抵押扩张与铁路新增毛净收益比例40→不足10及资本难筹。",
+      "candidate_new": "作者列建设许可及抵押扩张、铁路新增净收益与新增毛收益之比由约40%降至不足10%，以及资本难筹。",
+      "reason": "Explicit percent and numerator direction for ratio of net to gross in matter increasedearnings; notlevelnetprofitmargin."
+    },
+    {
+      "id": "P32-wording-03",
+      "rules": [
+        "P32-R25"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "1913不改所有权知情订单、适当充分押款及客户券规定，三月设商业行为委员会。",
+      "candidate_new": "1913年禁止会员给出或明知执行不改变所有权的订单，另列适当充分保证金及客户券使用规定，并于三月设商业行为委员会。",
+      "reason": "Keep distinctgiveversuswithknowledgeexecute conditions and adequate margin notfixed20%; wholeactual rulecontexts appended."
+    },
+    {
+      "id": "P32-wording-04",
+      "file": "ch08.md",
+      "old": "一百万财富三分之一、两百万持有人在此重引",
+      "candidate_new": "全国财富约三分之一、两百万持有人在此重引",
+      "reason": "P040 original one third of our nation’s wealth, not one million wealth; keep link to first-chapter43/130 and holderdedup caution."
+    },
+    {
+      "id": "P32-coverage-wording-01",
+      "file": "ch08.md nonbody original reading range header",
+      "old": "按五个15000字符段及60000–76170最后段无隙全读",
+      "candidate_new": "原写作的全文覆盖记录另以审计中的实际批次为准；本次独审按0–13000、13000–26000、26000–39000、39000–52000、52000–65000、65000–76170无隙对读。",
+      "reason": "Old prose wrongly says five15000parts plus laststarting60000; use actual own6batches without claiming an unverified originalauthor readingbatch sequence."
+    },
+    {
+      "id": "P32-translation-01",
+      "file": "ch09.md",
+      "old": "匹配厂",
+      "candidate_new": "火柴厂",
+      "reason": "Original Sao Paulo Match Factories manufactures matches, not matching."
+    },
+    {
+      "id": "P32-wording-05",
+      "file": "ch09.md",
+      "old": "纽约多为本土铁工",
+      "candidate_new": "纽约多为本国铁路与工业公司",
+      "reason": "Original home rails and industrial companies notironworking-onlyindustry."
+    },
+    {
+      "id": "P32-wording-06",
+      "rules": [
+        "P32-R33"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者赞六个月缓出卖产权所得股，注109允许重组/合并或无现金公众股例外。",
+      "candidate_new": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+      "reason": "Rule150 does not necessarily apply rather than guaranteedexemption; preserve originalqualification andspecialsettlementmeaning.",
+      "refined_by_finding": "P32-settlement-condition-01"
+    },
+    {
+      "id": "P32-wording-07",
+      "file": "ch10.md",
+      "old": "他认为此辩护无法回答",
+      "candidate_new": "作者认为维达的上述批评难以反驳",
+      "reason": "Unanswerable argument describes Vidal critique of monopoly, not an unanswered pro-monopoly defense; clarify pronoun referent."
+    },
+    {
+      "id": "P32-wording-08",
+      "rules": [
+        "P32-R35"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者纠正会员非法律强制担同事债，治理体实践自愿从公款支持。",
+      "candidate_new": "作者纠正会员并非依法必须承担同事负债；交易所治理体在实践中自愿从协会共同基金支付违约会员的负债。",
+      "reason": "Source general funds of chambre syndicale not government public money; retain voluntary versus mandatory distinction."
+    },
+    {
+      "id": "P32-attribution-02",
+      "rules": [
+        "P32-R37"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者赞银行支持俄债及可转让证券分散收入，原总155bn与65+67+18口径未解。",
+      "candidate_new": "作者称俄国债买者因大银行支持而处安全位置，并援引奈马克关于可转让证券分散收入、形成金融民主的论述；所列巴黎总额为1550亿法郎，三分项为650亿、670亿和180亿。",
+      "independent_analysis_addition": "显示三分项合1500亿，比所列1550亿少50亿；原图确认原数，是否不同时间或范围仍未解。此为本次独立核算，不是作者自己揭示的问题；银行支持亦非自动法定担保，所有权分散需实际数据。",
+      "reason": "Do not attribute our unresolved arithmetic review to original author; preserve his strong safe claim and Neymarck quoted voice separately."
+    },
+    {
+      "id": "P32-wording-09",
+      "rules": [
+        "P32-R41"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告称未经客户允用于自利或超过未付购价质押是转换，另建议不当卖客券属盗窃。",
+      "candidate_new": "报告称未经客户同意，把客户证券用于自身利益或以超过未付购价的金额质押，依当时法律构成侵占（conversion）；另建议立法把客户未违约时擅卖其已全付或部分付款证券、或为自身利益处分，列作盗窃。",
+      "reason": "Legal conversion is wrongful appropriation, not ordinary transformation; preserve existing-law versus proposed-larceny distinction and default exception."
+    },
+    {
+      "id": "P32-wording-10",
+      "rules": [
+        "P32-R40"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告批大权却多灾后才动，建议周期查账并对已无偿付还收新客款立法。",
+      "candidate_new": "报告批评管理者拥有大权却常在灾难后才行动，建议定期查账；并建议禁止已资不抵债的经纪继续接收客户现金或证券、或做自营新交易，但既有账户清理或加强除外。其资不抵债认定还保留合理相信相关应收账户可收回的条件。",
+      "reason": "Original P057 applies cash/securities from any customer, not only new clients; two explicit qualifications must not disappear."
+    },
+    {
+      "id": "P32-wording-11",
+      "rules": [
+        "P32-R42"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告明确不担保品格/声明真，反对国家或交易所担核真责任，要求财表及资本用途频披露。",
+      "candidate_new": "报告明确交易所不保证证券品质或推广者所报事实全真，不建议国家或交易所承担全部核真责任；它要求频繁提交财务状况报表，并在未来上市申请中说明股本发行取得的现金、财产及推广者或卖方佣金。",
+      "reason": "Securities character is quality, not human moral character; repeated financial filings versus future-listing issue details are distinct requirements."
+    },
+    {
+      "id": "P32-wording-12",
+      "rules": [
+        "P32-R47"
+      ],
+      "fields": [
+        "name_zh"
+      ],
+      "old": "附录价低诱投机与资金挤压须实测",
+      "candidate_new": "附录低随叫利率诱投机与资金挤压须实测",
+      "reason": "Low rate refers to money interest, not low stock prices."
+    },
+    {
+      "id": "P32-source-text-anomaly-01",
+      "paragraph_id": "P32-A-P157",
+      "source_lines": [
+        9315,
+        9336
+      ],
+      "finding": "原印纸439/PDF451亦有world’s commercial future delivery has been the subject of machinery这组重复病句，不是已证PG独有错。原数字源与PDF不改；现代语义理解另注明上下文，不把修复正常句冒作原句。",
+      "original_image_verified": true,
+      "source_images": [
+        "P32-images/pdf450.png",
+        "P32-images/pdf451.png"
+      ]
+    },
+    {
+      "id": "P32-wording-13",
+      "file": "全书综合与附录.md",
+      "old": "不保证证券品格或推广声明全真",
+      "candidate_new": "不保证证券品质或推广声明全真",
+      "reason": "Character ofsecurities meanssecurityquality; alignR42."
+    },
+    {
+      "id": "P32-stage-archive-01",
+      "file": "source-review/scan-checkpoint.json metadata",
+      "finding": "16:36检查点仍写ongoingnotcomplete/notfullch8；最终17:23后整本完成。保原阶段记录，明确historical_stage_record:true与complete_book_scope_record:章节与阅读审计.json，不把旧阶段当当前状态。"
+    },
+    {
+      "id": "P32-stage-archive-02",
+      "files": [
+        "ch02.md",
+        "ch04.md",
+        "ch09.md",
+        "ch10.md"
+      ],
+      "finding": "章后正文外书未完/仍待后章附录是历史写作阶段记录，最终展示应标明并指向最终整本审计；不改变正文。"
+    },
+    {
+      "id": "P32-settlement-condition-01",
+      "file": "ch09.md",
+      "old": "财产卖方所得股票六个月后才可特殊结算，但脚注规则一百五十明列重组、合并或没公开现金发行的例外，不能转成全部人一律六个月。",
+      "candidate_new": "正文把限制概述为本公司股票向公众提供后六个月才能挂牌；脚注规则一百五十更精确：卖产人获授记作全付或部分付款的股票或证券，须从公众认购同类股票或证券的特殊结算日期起满六个月，才可安排其交易的特殊结算日。脚注另说现有公司重组、合并，或没有向公众现金发行股份的情形不必适用；这不是无条件豁免，不能转成所有卖产股从任意起点一律六个月。",
+      "rule_id": "P32-R33",
+      "rule_fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "previous_candidate_rule_meaning": "作者赞财产卖方所得股等待六个月，注109说明该特殊结算规则不必适用于重组、合并或没有向公众现金发行股份的情况。",
+      "new_candidate_rule_meaning": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+      "reason": "Note109 begins waitingclock atspecialsettlementdatefor publicsubscriberssameclass, notarbitrarylisting/issuancedate. Preservecoarserauthorbodysummary andquotedrule finercondition plusnotnecessarilyexception.",
+      "complete_source_evidence": [
+        "P32-9-P059",
+        "P32-F109-P001"
+      ],
+      "source_full_original_TXT_lines_body": [
+        7173,
+        7186
+      ],
+      "source_full_note_lines_half_open": [
+        10495,
+        10505
+      ],
+      "full_body_and_note_actually_reread_in_this_review": true
+    }
+  ],
+  "candidate_expert_file": "work/book-experts-v5/value_team/peer-QA/P32-expert-candidate.json",
+  "candidate_expert_sha256": "77f66201f2046fabaa27dec47866e16b07a16e4ccf24e67e5ac7e9177787d721",
+  "complete_source_and52rule_review": true,
+  "strict_counts": [
+    3161,
+    3224,
+    2886,
+    3146,
+    3538,
+    3104,
+    2952,
+    3369,
+    3214,
+    2774
+  ],
+  "strict_total_Han": 31368,
+  "minimum_Han": 2774,
+  "precise_contexts": 201,
+  "footnote_coordinate_convention": {
+    "file": "source/footnotes-ledger.json",
+    "start": "onebasedinclusive",
+    "end": "onebasedexclusive",
+    "all129_validated": true,
+    "recommendation": "State this convention in final audit; original derivative file can be preserved unchanged. Rule paragraph/context source_lines use inclusive ends."
+  },
+  "source_bytes_not_modified": true,
+  "canonical_not_modified": true,
+  "source_limits_retained": true,
+  "all_original_scan_glyphs_collated": false,
+  "current_market_calls": 0,
+  "completed_utc": "2026-10-13T14:42:38.745285+00:00",
+  "post_merge_candidate_strict_counts": [
+    3161,
+    3224,
+    2886,
+    3145,
+    3538,
+    3104,
+    2952,
+    3369,
+    3316,
+    2779
+  ],
+  "post_merge_candidate_total_Han": 31474,
+  "post_merge_candidate_minimum_Han": 2779,
+  "current_required_finding_count": 26,
+  "last_updated_utc": "2026-10-13T15:16:50.605992+00:00"
+}

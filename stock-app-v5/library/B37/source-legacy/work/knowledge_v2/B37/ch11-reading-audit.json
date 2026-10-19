@@ -1,0 +1,153 @@
+{
+  "book_id": "B37",
+  "chapter": 11,
+  "pdf_pages_reviewed": [
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181
+  ],
+  "all_extractable_text_in_assigned_chapter_reviewed": true,
+  "visual_reinspection_pdf_pages": [
+    177,
+    178,
+    180,
+    181
+  ],
+  "hypothetical_profit_table": {
+    "pdf_page": 177,
+    "printed_page": 171,
+    "all_12_rows_visually_read": true,
+    "rows": [
+      {
+        "shares": 100,
+        "daily_dollars": 12.5,
+        "stage_dollars": 1000,
+        "days": 80
+      },
+      {
+        "shares": 200,
+        "daily_dollars": 25,
+        "stage_dollars": 1000,
+        "days": 40
+      },
+      {
+        "shares": 300,
+        "daily_dollars": 37.5,
+        "stage_dollars": 1012.5,
+        "days": 27
+      },
+      {
+        "shares": 400,
+        "daily_dollars": 50,
+        "stage_dollars": 1000,
+        "days": 20
+      },
+      {
+        "shares": 500,
+        "daily_dollars": 62.5,
+        "stage_dollars": 1000,
+        "days": 16
+      },
+      {
+        "shares": 600,
+        "daily_dollars": 75,
+        "stage_dollars": 1050,
+        "days": 14
+      },
+      {
+        "shares": 700,
+        "daily_dollars": 87.5,
+        "stage_dollars": 1050,
+        "days": 12
+      },
+      {
+        "shares": 800,
+        "daily_dollars": 100,
+        "stage_dollars": 1000,
+        "days": 10
+      },
+      {
+        "shares": 900,
+        "daily_dollars": 112.5,
+        "stage_dollars": 1012.5,
+        "days": 9
+      },
+      {
+        "shares": 1000,
+        "daily_dollars": 125,
+        "stage_dollars": 1000,
+        "days": 8
+      },
+      {
+        "shares": 1100,
+        "daily_dollars": 137.5,
+        "stage_dollars": 962.5,
+        "days": 7
+      },
+      {
+        "shares": 1200,
+        "daily_dollars": 150,
+        "stage_dollars": 1050,
+        "days": 7
+      }
+    ],
+    "days_sum": 250,
+    "stage_profit_sum": 12137.5,
+    "tax_printed": 1942,
+    "net_printed": 10195.5,
+    "all_row_multiplications_match": true,
+    "net_arithmetic_matches": true,
+    "real_account_verified": false,
+    "experiment_input_enabled": false,
+    "assumptions_unproven": [
+      "稳定每股平均八分之一",
+      "可按保证金持续增加股数",
+      "规模增加不影响执行/容量/单位收益",
+      "未给完整真实亏损顺序、费用和成交"
+    ]
+  },
+  "source_chart_or_page_images": [
+    "work/knowledge_v2/B37/ch11-table177.png",
+    "work/knowledge_v2/B37/ch11-page178.png",
+    "work/knowledge_v2/B37/ch11-page180.png",
+    "work/knowledge_v2/B37/ch11-page181.png"
+  ],
+  "chapter_body_han_count": 3122,
+  "chapter_sha256": "f09c194c1e092cd274a88261079c440267e000fdcc5434c3ea0703a8b81e5d8a",
+  "six_orders_case": {
+    "pdf_pages": [
+      179,
+      180,
+      181
+    ],
+    "trades": 3,
+    "orders": 6,
+    "author_claim_five_orders_immediately_favorable": true,
+    "author_says_only_occasional": true,
+    "is_general_win_rate": false
+  },
+  "cross_chapter_tension": {
+    "pdf_pages": [
+      32,
+      175
+    ],
+    "description": "早文赞经纪暂缓止损，本章个人订单排除裁量；未统一为单一执行规则。"
+  },
+  "han_count_method": "正文标记内删除#开头标题行后，仅计U+4E00–U+9FFF汉字，不含章标题/章范围/元数据。",
+  "final_printed_page_verification": {
+    "pdf_page": 181,
+    "printed_page_in_450_dpi_image": 175,
+    "ocr_reported": 175,
+    "preceding_pdf180_printed": 174,
+    "pagination_anomaly": false,
+    "evidence_image": "work/knowledge_v2/source-review/B37-independent/pdf181-footer.png",
+    "correction_note": "先前低分辨率把5误读6，450DPI独立图纠正；不保留原书分页冲突断言。"
+  }
+}

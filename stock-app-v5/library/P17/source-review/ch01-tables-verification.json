@@ -1,0 +1,61 @@
+{
+  "chapter": 1,
+  "pdf_pages_reviewed": [
+    36,
+    42,
+    43
+  ],
+  "printed_pages_reviewed": [
+    20,
+    26,
+    27
+  ],
+  "qualified_scope": "Three full original table pages visually read; no all-book glyph claim",
+  "findings": [
+    {
+      "pdf_page": 36,
+      "printed_page": 20,
+      "field": "Paid-up Capital",
+      "wikisource_transcription": "64348650",
+      "original_scan_observed": "4348650",
+      "type": "confirmed_transcription_error",
+      "resolution": "Preserve original downloaded HTML/text; use original scan verified 4348650 for arithmetic and label corrected research value",
+      "left_sum_corrected": 110429199,
+      "right_sum": 110429199,
+      "printed_total": 110429199
+    }
+  ],
+  "completed_at_utc": "2026-10-12T08:16:56.495506+00:00",
+  "other_tables": [
+    {
+      "pdf_page": 42,
+      "printed_page": 26,
+      "issue_assets": [
+        11015100,
+        7434900,
+        38458235
+      ],
+      "issue_total": 56908235,
+      "sum_verified": true
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 27,
+      "liabilities": [
+        14553000,
+        3431484,
+        13318714,
+        42485605,
+        29010
+      ],
+      "assets": [
+        11005126,
+        33623288,
+        27592980,
+        1596419
+      ],
+      "total": 73817813,
+      "sum_both_verified": true
+    }
+  ]
+}

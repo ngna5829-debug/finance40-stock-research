@@ -1,0 +1,684 @@
+{
+  "book_id": "P37",
+  "reviewer": "root_independent_of_practical_books_author",
+  "status": "complete_independent_whole_source_semantic_QA_candidates_pending_merge",
+  "independent_QA_pass": false,
+  "full_original_author_body_LF_normalized_characters_actually_read": 105689,
+  "full_original_author_body_range_LF": [
+    2941,
+    108630
+  ],
+  "all_original_22_unnumbered_topics_actually_read": true,
+  "all9_original_units_read_in_full": true,
+  "all9_Chinese_dossiers_actually_compared_in_full": true,
+  "all40_complete_rule_semantic_fields_actually_reviewed": true,
+  "whole_expert_definition_synthesis_explainer_actually_read": true,
+  "frontmatter_2941_characters_unique_footnote_transcriber_notes_and_full_PG_license_actually_read": true,
+  "all17_official_images_actually_viewed_in_five_contact_sheets": true,
+  "original1926physical_scan_obtained": false,
+  "all_original_scan_glyphs_proofread": false,
+  "both_current_SEC_order_bulletins_main_text_actually_read": "2026-10-13, updated2026-08-18; modern independent educational boundaries, not Harper author rules or binding law",
+  "precise_original_context_checks": [
+    {
+      "rule": "P37-R01",
+      "paragraph": "P37-T01-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R01",
+      "paragraph": "P37-T01-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R02",
+      "paragraph": "P37-T02-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R02",
+      "paragraph": "P37-T02-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R02",
+      "paragraph": "P37-T02-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R02",
+      "paragraph": "P37-T02-P011",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R03",
+      "paragraph": "P37-T02-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R03",
+      "paragraph": "P37-T02-P008",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R03",
+      "paragraph": "P37-T02-P009",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R03",
+      "paragraph": "P37-T02-P010",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R04",
+      "paragraph": "P37-T03-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R05",
+      "paragraph": "P37-T04-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R05",
+      "paragraph": "P37-T04-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R05",
+      "paragraph": "P37-T04-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T04-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T04-P007",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T04-P009",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T04-P010",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T05-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T05-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T05-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R06",
+      "paragraph": "P37-T05-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R07",
+      "paragraph": "P37-T05-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R07",
+      "paragraph": "P37-T22-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R08",
+      "paragraph": "P37-T06-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R08",
+      "paragraph": "P37-T07-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R09",
+      "paragraph": "P37-T07-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R09",
+      "paragraph": "P37-T07-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R09",
+      "paragraph": "P37-T07-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R09",
+      "paragraph": "P37-T07-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R10",
+      "paragraph": "P37-T07-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R11",
+      "paragraph": "P37-T07-P007",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R11",
+      "paragraph": "P37-T07-P009",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R12",
+      "paragraph": "P37-T08-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R12",
+      "paragraph": "P37-T07-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R13",
+      "paragraph": "P37-T09-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R14",
+      "paragraph": "P37-T09-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R15",
+      "paragraph": "P37-T10-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R15",
+      "paragraph": "P37-T10-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R16",
+      "paragraph": "P37-T10-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R16",
+      "paragraph": "P37-T10-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R16",
+      "paragraph": "P37-T02-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R17",
+      "paragraph": "P37-T11-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R18",
+      "paragraph": "P37-T11-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R18",
+      "paragraph": "P37-T11-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R18",
+      "paragraph": "P37-T11-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R19",
+      "paragraph": "P37-T11-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R19",
+      "paragraph": "P37-T11-P007",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R19",
+      "paragraph": "P37-T04-P007",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R19",
+      "paragraph": "P37-T04-P010",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R20",
+      "paragraph": "P37-T12-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R20",
+      "paragraph": "P37-T13-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R20",
+      "paragraph": "P37-T18-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R21",
+      "paragraph": "P37-T13-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R21",
+      "paragraph": "P37-T13-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R22",
+      "paragraph": "P37-T13-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R22",
+      "paragraph": "P37-T13-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R23",
+      "paragraph": "P37-T13-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R23",
+      "paragraph": "P37-T13-P008",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R23",
+      "paragraph": "P37-T19-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R24",
+      "paragraph": "P37-T13-P009",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R24",
+      "paragraph": "P37-T13-P011",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R24",
+      "paragraph": "P37-T13-P012",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R24",
+      "paragraph": "P37-T06-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R25",
+      "paragraph": "P37-T14-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R25",
+      "paragraph": "P37-T15-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R26",
+      "paragraph": "P37-T15-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R26",
+      "paragraph": "P37-T15-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R26",
+      "paragraph": "P37-T15-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R27",
+      "paragraph": "P37-T15-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R27",
+      "paragraph": "P37-T15-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R28",
+      "paragraph": "P37-T16-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R29",
+      "paragraph": "P37-T17-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R29",
+      "paragraph": "P37-T17-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R29",
+      "paragraph": "P37-T08-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R30",
+      "paragraph": "P37-T18-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R31",
+      "paragraph": "P37-T19-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R31",
+      "paragraph": "P37-T19-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R32",
+      "paragraph": "P37-T19-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R32",
+      "paragraph": "P37-T19-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R32",
+      "paragraph": "P37-T06-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R32",
+      "paragraph": "P37-T08-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R33",
+      "paragraph": "P37-T20-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R33",
+      "paragraph": "P37-T04-P010",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R33",
+      "paragraph": "P37-T11-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R33",
+      "paragraph": "P37-T11-P007",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R34",
+      "paragraph": "P37-T20-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R34",
+      "paragraph": "P37-T20-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R35",
+      "paragraph": "P37-T21-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R36",
+      "paragraph": "P37-T21-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R36",
+      "paragraph": "P37-T21-P005",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R36",
+      "paragraph": "P37-T21-P006",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R37",
+      "paragraph": "P37-T21-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R37",
+      "paragraph": "P37-T09-P003",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R38",
+      "paragraph": "P37-T22-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R39",
+      "paragraph": "P37-T22-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R40",
+      "paragraph": "P37-T22-P004",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R40",
+      "paragraph": "P37-T13-P008",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    },
+    {
+      "rule": "P37-R40",
+      "paragraph": "P37-T18-P002",
+      "raw_lines_chars_bytes_SHA_exact": true,
+      "whole_HTML_normalized_paragraph_pages_match": true
+    }
+  ],
+  "rule_source_support_count": 99,
+  "unique_original_paragraphs": 74,
+  "independent_full_HTML_normalized_page_map_parse_matches": true,
+  "legacy_character_and_hash_coordinates_are_LF_normalized_not_raw_CRLF": true,
+  "all_original_sources_unchanged": {
+    "source/original.txt": "e6bbfe06e313a94e3a6dba7fdcb0b6164d680c3854c798a242b9c0c0100ba490",
+    "source/full-PG-license.txt": "d910768c212e2eae8d5e178520ff21a4e04f7d1b8b83ff4e3368e814aa5e1d9f",
+    "source/official-HTML-package-manifest.json": "13de495fe9e5ef9e63bb99d3b32c5fc94a77e06848eb14e58f8b8d659c9b765d",
+    "source/frontmatter.txt": "a9db1331e09028b84aec32dc96255a88cb0797d8d1800953bc32ebff36a121e1",
+    "source/official-full-HTML-with-images.zip": "de94291a539b6deba86927eef93797e1a974b59ca09176bf87f6fed8dc952b62",
+    "source/transcriber-notes.txt": "08e3d2048eb3f2819f572975887d0c089042b20a60d5bee7ddea44c3a4faf94c",
+    "source/paragraph-index.txt": "06a6a1fcca17034e461acf6a20d279e327e5c0f89ae1143aa2d9e4d3cd95f04d",
+    "source/HTML-normal-page-map.json": "9120f21f627fcaccd8055831dee12bde2cf3e8e98bfa56a939f6491ccd404680",
+    "source/IA-search.json": "7e9a02a44f300a9db76543de68802f17b6fc848eba6244fcb6ad4e281e6de7a4",
+    "source/original.html": "f143e589a5de0690e7c535db97b768b8d1f3373413e1b4ae452606651976be93",
+    "source/reading-units/u01.txt": "871384beb598d2e1e3006ff79e90e6dd28168b0675380cd76c9b4000e6508637",
+    "source/reading-units/u03.txt": "bae958233c1d12e369b61cb03aec6dcac3be17fea15a666ac271f1d95e5b5285",
+    "source/reading-units/u02.txt": "8f3f099f6e64cc9fd19773bcd2e9c5f4308ee84d204480d53bd3e1f29eee9c6b",
+    "source/reading-units/u06.txt": "ecac7f6d5b9b5dae57db93731fc2dccf85bc2ad55c0dd4d63aead3061875ded8",
+    "source/reading-units/u07.txt": "c9f1ef2db4b7ed4f2064e0de8d7008c4b76287e572951fadef239894015afb22",
+    "source/reading-units/u05.txt": "8edc025df783abdfb3678d011c142e375f9b7e6064e8013316bed24a1ff0dfc2",
+    "source/reading-units/u04.txt": "32728dd48b52ba04cb0ed53bbfc3d567b106d4ced65cf1f2ef86159ed71378c6",
+    "source/reading-units/u09.txt": "47df687f2bb864c37192d3204114d6b79efa284ea207e80957a8c0d9f596ce1e",
+    "source/reading-units/u08.txt": "618eb45a08cc13e555a47ba874aede9abf9c3a7371dd1a963cc52fe86725dd03",
+    "source/official-HTML-package/pg73647-images.html": "f143e589a5de0690e7c535db97b768b8d1f3373413e1b4ae452606651976be93",
+    "source/official-HTML-package/images/i_040fp.jpg": "d7a6ab14c12f86fe415c5c23564528e6140d5c97d4f5e01b1fede278ecc6a860",
+    "source/official-HTML-package/images/i_011.jpg": "19e19008b92e5b2746cee88cce187d97253af663447bdc39a0aa03d9824b51e4",
+    "source/official-HTML-package/images/i_072.jpg": "ff7114d3ddded661d65e92b4371efc8a5cbd6384f7f127754a771202a0ee6b7d",
+    "source/official-HTML-package/images/i_064.jpg": "8f3c8eb6eeb3cd9719d7bd7fb5b139c0213aa323f5e68f954e8ed608b536a8c2",
+    "source/official-HTML-package/images/i_046.jpg": "388ee909bd8a3c85a8094f54b93b652685912575b031cdf4d331369ac7d3a501",
+    "source/official-HTML-package/images/i_074fp.jpg": "04f96536a25ed97e86f87ccb22eba7e5b8da3d6070eb3eb24123d852a6e73270",
+    "source/official-HTML-package/images/i_frontispiece.jpg": "1130b67fc89e1eb5eca230e096fb0582e1775ebfbcc10c888b21ab27930d763a",
+    "source/official-HTML-package/images/i_069.jpg": "099ad9486a052f7557ba6e2e3c83060475a44059f35f30aa8e9f9d6e2874f210",
+    "source/official-HTML-package/images/i_082.jpg": "dcc31d39fbab9e6de0c7b314705695f67edad4496f9e08dc7c8dd547fbe4a9bf",
+    "source/official-HTML-package/images/i_094.jpg": "54ba1647544076282c041cfd0b86c9dfcce3a96e0c5f928b21db72a9c8d3be31",
+    "source/official-HTML-package/images/cover.jpg": "9cfaa1b7849ea066e589ed96d756960c1a5749033bee1746c6e729479ca503c1",
+    "source/official-HTML-package/images/i_056.jpg": "2393914c43918bc3361a09405829b66b15b41101b568de45ed6785b34e077922",
+    "source/official-HTML-package/images/i_014fp.jpg": "b8f4151127db7343817e62d48df4f23264e13f4f8147bddc76839292358ae0a3",
+    "source/official-HTML-package/images/i_026.jpg": "757d41dd06f4cb3e6e6351d191ad1bab1b2b8b62af65dc28bf66b8033eb10149",
+    "source/official-HTML-package/images/i_009.jpg": "f895e9d8fa2c1bdbc4b9ec45c1224c79950f40e2a84b7c210204f1a3578b58b9",
+    "source/official-HTML-package/images/i_035.jpg": "21522e059043d13008b03172aa8e3a94f879142677cbb2efb47ecfc69240e5a7",
+    "source/official-HTML-package/images/i_021.jpg": "18ac06077fb7fc090f123801b9ea3836d4c9b9d692730753110f0af54db690e0"
+  },
+  "required_findings": "P37-required-findings.json",
+  "candidate_expert_sha256": "bcaa020eb9a5b65cf1ba129d9987de5f613ade6b0c2a68e1d52020d8fb6373ee",
+  "candidate_counts": [
+    2596,
+    2916,
+    2823,
+    3071,
+    3306,
+    2583,
+    2655,
+    2717,
+    2367
+  ],
+  "candidate_total": 25034,
+  "minimum_candidate": 2367,
+  "every_referenced_work_whole_read": false,
+  "all_historical_numbers_independently_verified": false,
+  "current_stock_decision_enabled": false,
+  "actual_current_model_calls": 0,
+  "backtests_executed": 0,
+  "predictive_calibration": false,
+  "source_missing_original_scan_limit_retained": true,
+  "mechanical_evidence_checks_not_replacement_for_actual_whole_semantic_review": true,
+  "completed_utc": "2026-10-13T15:09:28.115594+00:00"
+}

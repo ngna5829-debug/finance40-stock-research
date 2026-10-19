@@ -1,0 +1,114 @@
+{
+  "book_id": "P20",
+  "status": "all_nonchapter_original_sections_semantically_read_with_OCR_and_selected_visual_limits",
+  "sections": [
+    {
+      "name": "front",
+      "pdf_start": 6,
+      "pdf_end": 20,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          6,
+          20
+        ]
+      ],
+      "source_file": "source/front.txt",
+      "source_sha256": "9f7c48619f3efcb40323d44676e6496bf252578cf31171b48d395a69e0dbd2bd",
+      "read_facts": "书名第二版续至1904、版权1895/1902、1902年3月前言说明实质重写及新增回顾、31章及4附录目录；不将三编分计三本。"
+    },
+    {
+      "name": "appendix-A",
+      "pdf_start": 459,
+      "pdf_end": 461,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          459,
+          461
+        ]
+      ],
+      "source_file": "source/appendix-A.txt",
+      "source_sha256": "c53f763e58473fb397c47f7aafecfd67749f8490805de5642c319e6647e40c56",
+      "read_facts": "Fish1889信引用其当年日记叙Grant1874否决：先准备赞同又写作反思后改否决；1873讨论不是尚未组织的国会后来具体法案。原图确认Apr17而非OCR7，个人回忆及自评影响须保留证据类型。"
+    },
+    {
+      "name": "appendix-B",
+      "pdf_start": 462,
+      "pdf_end": 472,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          462,
+          472
+        ]
+      ],
+      "source_file": "source/appendix-B.txt",
+      "source_sha256": "65092b3a3e96ce94e1bb09fd4ee97e3a2c5c0dc2d655b368fa53a27490352438",
+      "read_facts": "未通过的1898委员会方案，本书摘其国家银行第18–45条，不是608页委员会报告全集。资本扣地产；初五年担保25%及随后五年逐步退出；5%金保证基金及既有5%金赎回基金，二者不可计法定准备；税60–80%档2%年率/80以上6%年率；股东转让前60日责任；法定准备的至少四分之一为库内实际硬币；轮换检查、反赠贷检查员、两次年检查；第34正式限制政府责任，作者经济解释不得删条。"
+    },
+    {
+      "name": "appendix-C",
+      "pdf_start": 473,
+      "pdf_end": 478,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          473,
+          478
+        ]
+      ],
+      "source_file": "source/appendix-C.txt",
+      "source_sha256": "3917c8f40c45b538c92b9a9874349073bd91e7e139b9062c0bc158d2b3beb639",
+      "read_facts": "1902Fowler未获1903届审议：无债券担保最多25%实缴无损资本，5%金或债基金，每半年税¼%，同存款准备，3个兑换城市/区外券须返，失败金兑/3%基金触发额外税年上限1%。Forgan1903完整批评要求5中心及跨区代理，反强制外区券返：纽约将50万存款债换券债支援作物，后回流恢复存款。不能把提案与反对意见都归作者已执行政策。"
+    },
+    {
+      "name": "appendix-D",
+      "pdf_start": 479,
+      "pdf_end": 482,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          479,
+          482
+        ]
+      ],
+      "source_file": "source/appendix-D.txt",
+      "source_sha256": "5bc618cd6c7767568211731af5ff045452b38c0148f135a633fdf25f4a8002ba",
+      "read_facts": "1903Aldrich拟财政存款担保可含有条件州/市/铁路债，公开钱全部来源，存款利息至少1½%原图，运河债券税¼%半年原图。第3允许财政兑后再付券，作者批评弱化返原行并给部长选择政治/金融权。末尾反有意积盈余存银行，但结论436建议意外余款暂存不矛盾。"
+    },
+    {
+      "name": "bibliography",
+      "pdf_start": 483,
+      "pdf_end": 490,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          483,
+          490
+        ]
+      ],
+      "source_file": "source/bibliography.txt",
+      "source_sha256": "7103dca275c50e209d638ee92f9546315ae3dca3b8962444f974f640446ddb59",
+      "read_facts": "全部书目含除公共文献外的主要引用来源读完；Douglass与Douglas、不同Webster、旧版Dunbar/Jevons年份及各种论文史书区分。本次未因为书目出现就声称所列著作全读。末470空白。"
+    },
+    {
+      "name": "index",
+      "pdf_start": 491,
+      "pdf_end": 496,
+      "all_extracted_text_read": true,
+      "reading_batches_pdf": [
+        [
+          491,
+          496
+        ]
+      ],
+      "source_file": "source/index.txt",
+      "source_sha256": "1827bd5129e1215590552f312d283386350694bb5fdf7cea0a532c5624b5f96c",
+      "read_facts": "六页全部词条和页参读完，尤其goldnotwhollyfreeofvariation12、noteholderspriorlien不同规则页、银行原则/货币原则、publicdeposit、两院讨论、不同银行制度。索引定位是线索，不替原正文，少数OCR缺字/页数不冒称全字形核过。"
+    }
+  ],
+  "full_external_documents_and_bibliography_books_read": false,
+  "all_original_scan_glyphs_verified": false,
+  "completed_utc": "2026-10-12T19:24:08.516377+00:00"
+}

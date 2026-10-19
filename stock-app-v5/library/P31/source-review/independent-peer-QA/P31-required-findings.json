@@ -1,0 +1,157 @@
+{
+  "book_id": "P31",
+  "status": "full_semantic_review_completed_corrections_pending_no_final_pass",
+  "original_expert_sha256": "611d0b27f2cc488b178ae807418b2b250d5266cdad65ece5f75933b3b1ffa95b",
+  "original_audit_sha256": "31053b8c11ac6516e7275e6b65da30bcda520d1433c59ba66d497063bbd2f535",
+  "required_findings": [
+    {
+      "type": "full_source_file_locator",
+      "status": "candidate_complete_all40_rules",
+      "reason": "现source_file分章而source_lines是全original.txt全局行号；保留chapter_scope，精确定位明指source/original.txt并另附char/byte/SHA。"
+    },
+    {
+      "rule_id": "P31-R05",
+      "field": "chapter_sources",
+      "candidate": "补P042–P049劳动三列项和前两种分析/总结、P017比率总和原强言。原P041只是引入句，P048只第三项，不足完整证明多主张。",
+      "content_correction_needed": false
+    },
+    {
+      "rule_id": "P31-R13",
+      "field": "chapter_sources",
+      "candidate": "加P026同刻国际统一及P031水槽比喻，原29–30仅跨期论点，不能独立支持整条多主张。"
+    },
+    {
+      "rule_id": "P31-R15",
+      "field": "chapter_sources",
+      "candidate": "加P056狭义兑付和广义钱值诚实区别，支持独立边界所述原书不同诚信对象。"
+    },
+    {
+      "rule_id": "P31-R18",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者从银金价约38%跌幅直接扣金购买力24–41%升幅来支持银较稳定。",
+      "candidate_new": "作者从金购买力24–41%的升幅直接扣除银以金计价约38%的跌幅，支持银较稳定。",
+      "reason": "原纸94/PDF110 This fall ... must be deducted from the rise，中文原从38扣24–41是次序倒向；ch04正确。",
+      "source_original_image": "source-review/pdf110.png"
+    },
+    {
+      "rule_id": "P31-R21",
+      "field": "chapter_sources",
+      "candidate": "已全读第11章，P31-C11-P013直接说明担保安全/被迫接管和资产用途，新增完整精确段锚。",
+      "status": "actual_ch11_full_read_completed_crosssource_added"
+    },
+    {
+      "rule_id": "P31-R31",
+      "field": "chapter_sources",
+      "candidate": "已全读第10章，P31-C10-P014直接承认世界贸易互扰，新增完整精确段锚。",
+      "status": "actual_ch10_full_read_completed_crosssource_added"
+    },
+    {
+      "field": "ch10.md",
+      "old": "银行相信自己有偿付能力，能够随时获得钱，公众相信付款要求会被满足",
+      "candidate_new": "银行被认为有偿付能力，能够随时获得钱，公众相信付款要求会被满足",
+      "reason": "原a bank, believed to be solvent是银行被认为有偿付能力，非银行自身信念；原段整体讲公众对后备付款信任，后一质疑仍分事实与相信。",
+      "full_source_lines": [
+        3296,
+        3324
+      ],
+      "printed_pages": [
+        181,
+        182,
+        183
+      ],
+      "content_correction_needed": true
+    },
+    {
+      "field": "ch11.md",
+      "old": "第九章承认篮子可调整，第十章认为变动不会扰动钱值",
+      "candidate_new": "第十章承认未来可能调整篮子，并认为变动不会扰动钱值",
+      "reason": "未来改list方法在第10章第五优点后的完整段，不是第9章仅初次委员会择品数量灵活。"
+    },
+    {
+      "field": "ch11.md",
+      "old": "财产在不擅经营者手里可能更不值钱",
+      "candidate_new": "财产在贷方手里通常比在原主手里更不值钱",
+      "reason": "原generally far less valuable in his hands than original owner，不直接给贷方管理差的质量判断，也不是仅可能。"
+    },
+    {
+      "rule_id": "P31-R40",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者承认贷方担保不安全、被迫取抵押且管理差，故萧条中份额大仍可能金额少。",
+      "candidate_new": "作者承认贷方担保安全下降、被迫接收抵押财产且该财产在贷方手中较不值钱；萧条中份额大仍可能金额少。",
+      "reason": "源资产用途/价值在两人手中的差别，不宜直接换作贷方管理差；原security much lessened是安全下降，非断一切担保绝对不安全。"
+    },
+    {
+      "rule_id": "P31-R37",
+      "field": [
+        "modern_boundary_zh",
+        "independent_analysis_zh"
+      ],
+      "old": "原保证未实测，只有相信足偿且随时可借等条件；无当前方向或概率。",
+      "candidate_new": "原保证未实测，依银行被认为有偿付能力且随时可借等条件；无当前方向或概率。",
+      "reason": "与ch10被认为而非银行自我信念之澄清一致。"
+    },
+    {
+      "field": "全书综合与附录.md",
+      "old": "结论又明确说贷方可能失去担保、被迫管理自己不擅用的抵押物",
+      "candidate_new": "结论又明确说贷方担保安全下降、被迫接收对自己用途较小的抵押财产",
+      "reason": "原security much lessened不是担保消失，财产用途/价值不同不直接等同管理能力差；原217–218已独立目视。"
+    },
+    {
+      "field": "全书综合与附录.md",
+      "old": "历史官方材料的可检索描述出现标准银元，应进一步以确切法条及相应年份核对。",
+      "candidate_new": "银凭证的具体担保资产，应进一步以确切法条及相应年份核对。",
+      "reason": "此处没有给可复核的具体官方URL/版本/条文，不能将未注明的外部检索说法作既成事实；保留问题。若补精确已读官方证据亦可。"
+    },
+    {
+      "field": "专家说明.md",
+      "old": "结论的担保违约和接管风险",
+      "candidate_new": "结论的担保安全下降和接管风险",
+      "reason": "结论原源明示安全下降/接管财产，不能混称担保人违约；保留现实贷款风险。"
+    },
+    {
+      "field": "internal_tensions_zh",
+      "old": "第五章贷方不直接营业与结论中的担保违约和接管风险。",
+      "candidate_new": "第五章贷方不直接营业与结论中的担保安全下降和接管风险。",
+      "reason": "与原源及说明精确措辞同步。"
+    },
+    {
+      "field": "ch02.md nonbody coverage footer",
+      "old": "后续章节未完成，不称整本已读。",
+      "candidate_new": "此为第二章写作时的阶段记录；现整本语义覆盖另以全书审计及独立复核记录为准。",
+      "reason": "旧阶段句在最终包容易被当作当前缺章；保留历史轨迹、只改正文外状态，不能以此改伪全文完成。"
+    }
+  ],
+  "candidate_file": "work/book-experts-v5/value_team/peer-QA/P31-expert-candidate.json",
+  "candidate_sha256": "a48e95e38ac8c7eb786cfd67ae31c73c252202492d821cd7dfa852e0dce1d94f",
+  "actual_original_chapters_read": 11,
+  "all40_rules_and_all_dossiers_read": true,
+  "precise_source_spans_count": 109,
+  "independent_count": {
+    "counts": [
+      2909,
+      2918,
+      2728,
+      2644,
+      2721,
+      2560,
+      2707,
+      2671,
+      3147,
+      2725,
+      2798
+    ],
+    "total": 30528,
+    "minimum": 2560,
+    "method": "Only Han in正文 markers; no chapter headings/metadata, synthesis or introduction added"
+  },
+  "old_author_sources_and_canonical_untouched": true,
+  "full_original_scan_glyph_collation": false,
+  "current_market_calls": 0,
+  "completed_utc": "2026-10-13T13:38:36.114264+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "book_id": "P26",
+  "check_count": 13,
+  "checks": {
+    "original_pdf_complete_214pages": true,
+    "author_page_coverage_199_contiguous": true,
+    "chapters_count11": true,
+    "all_chapter_body_atleast2000": true,
+    "book_body_atleast20000": true,
+    "original_pdf_sha_matches": true,
+    "all_summary_shas_match": true,
+    "all_visual_files_exist_and_actually_seen_per_audit": true,
+    "all60_rules_refer_valid_chapter_original_page_and_fragment": true,
+    "all_fragment_text_hashes_recomputed": true,
+    "original_conflicts_not_silently_corrected": true,
+    "no_current_prediction_or_unrun_backtest_claim": true,
+    "independent_full_source_semantic_QA_passed_with_source_limits": true
+  },
+  "mechanical_check_passed": true,
+  "independent_semantic_QA": "pass_after_corrections_with_source_limits",
+  "expert_sha256": "f331b01a3b82e94069f5e1e584c06089fb003a5ee4f2449888faa5808d3af71c",
+  "audit_sha256": "9469c6491109fbca0cdd31a023e20e1c63de3eff9b23531910b16f1d8d9faa01",
+  "source_fragments_sha256": "3f22510502772473c4aeaddb34856d5ef1f3d8668a7d8b1c1c1985e360f13668",
+  "independent_QA_sha256": "6ee029db177f7565917fa4b59b38bbcfa335dba9f21e5d28391ef6712f7924ad"
+}

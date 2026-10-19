@@ -1,0 +1,24 @@
+# Full binary research materials are distributed as Release assets.
+*.zip
+*.zip.part
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.tif
+*.tiff
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+**/runtime/
+**/logs/
+**/cache/
+**/sec-financial-cache.json
+**/latest-snapshot.json
+*credentials*.json
+*secrets*.json
+private-share-upload/

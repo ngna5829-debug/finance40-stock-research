@@ -1,0 +1,120 @@
+{
+  "book_id": "P30",
+  "title": "The Theory of Stock Exchange Speculation",
+  "author": "Arthur Crump",
+  "chosen_edition": "Second Edition, London1874, Cornell170-page complete public scan",
+  "rejected_base": "PG59518 NewYork1887 Rosenbaum explicitly omits final chapter; not declared unabridged original",
+  "source_item": "https://archive.org/details/cu31924055332534",
+  "institution": "Cornell University Library",
+  "rights_metadata": "Cornell PDF4: no known copyright restrictions in US on use of text; no claim about every jurisdiction",
+  "sources": [
+    {
+      "file": "source/cu31924055332534.pdf",
+      "bytes": 6285945,
+      "sha256": "d7c23891893b17ab18b7742608dea1dd2ace129326ced6b0fc8ee8f0f9350a45",
+      "url": "https://archive.org/download/cu31924055332534/cu31924055332534.pdf"
+    },
+    {
+      "file": "source/cu31924055332534_djvu.txt",
+      "bytes": 302132,
+      "sha256": "539b41aa5262975c85e88c03c43db3f063cd2c95c141725269d310b63eb7d93d",
+      "url": "https://archive.org/download/cu31924055332534/cu31924055332534_djvu.txt"
+    },
+    {
+      "file": "source/cu31924055332534_djvu.xml",
+      "bytes": 3538025,
+      "sha256": "fd9379ba4739997ff4d8aedd0ed66506f850c5b2d04d46fee4dfcaec28d38c99",
+      "url": "https://archive.org/download/cu31924055332534/cu31924055332534_djvu.xml"
+    },
+    {
+      "file": "source/cu31924055332534_scandata.xml",
+      "bytes": 59373,
+      "sha256": "f652ed3f4a2783e4d32126a83cb8bda4af0c7fb516a65e6f3ce28a639131efac",
+      "url": "https://archive.org/download/cu31924055332534/cu31924055332534_scandata.xml"
+    }
+  ],
+  "retrieved_utc": "2026-10-12T11:16:39.593840+00:00",
+  "status": "complete_original_digital_OCR_semantic_reading_with_selected_image_verification_and_explicit_source_limits",
+  "original_scan_glyphs_all_verified": false,
+  "Oxford_scan_gap": {
+    "missing_printed_pages": [
+      66,
+      67
+    ],
+    "image_confirmed_pdf_pages": [
+      78,
+      79
+    ],
+    "finding": "PDF78纸65后PDF79纸68原图确认缺2页，不能单独称完整扫描"
+  },
+  "primary_source_changed": {
+    "item": "https://archive.org/details/cu31924055332534",
+    "institution": "Cornell University Library",
+    "edition": "Second Edition, London1874; CornellPDF5 original image confirmed",
+    "PDF_pages": 170,
+    "visible_printed_page_sequence": "1–153 at PDF13–165, missing Oxford66–67 present here atPDF78–79",
+    "full_scan_glyphs_proofread": false,
+    "status": "complete_full_text_read",
+    "sources": [
+      {
+        "file": "source/cu31924055332534.pdf",
+        "bytes": 6285945,
+        "sha256": "d7c23891893b17ab18b7742608dea1dd2ace129326ced6b0fc8ee8f0f9350a45",
+        "url": "https://archive.org/download/cu31924055332534/cu31924055332534.pdf"
+      },
+      {
+        "file": "source/cu31924055332534_djvu.txt",
+        "bytes": 302132,
+        "sha256": "539b41aa5262975c85e88c03c43db3f063cd2c95c141725269d310b63eb7d93d",
+        "url": "https://archive.org/download/cu31924055332534/cu31924055332534_djvu.txt"
+      },
+      {
+        "file": "source/cu31924055332534_djvu.xml",
+        "bytes": 3538025,
+        "sha256": "fd9379ba4739997ff4d8aedd0ed66506f850c5b2d04d46fee4dfcaec28d38c99",
+        "url": "https://archive.org/download/cu31924055332534/cu31924055332534_djvu.xml"
+      },
+      {
+        "file": "source/cu31924055332534_scandata.xml",
+        "bytes": 59373,
+        "sha256": "f652ed3f4a2783e4d32126a83cb8bda4af0c7fb516a65e6f3ce28a639131efac",
+        "url": "https://archive.org/download/cu31924055332534/cu31924055332534_scandata.xml"
+      }
+    ],
+    "gap_pages66_67_and_final153_visually_verified": true
+  },
+  "actual_reading_completed_so_far": [
+    "Introduction complete CornellPDF13–28",
+    "All15chapters complete CornellPDF29–165, including formerly missing paper66–67 and finalchapterXV",
+    "Cornellfront1–12 andback166–170 OCR+all17images classified/read"
+  ],
+  "superseded_source_item": "https://archive.org/details/theorystockexch01crumgoog",
+  "superseded_institution": "Oxford University original digitized by Google, official Internet Archive collection",
+  "superseded_sources": [
+    {
+      "file": "source/theorystockexch01crumgoog.pdf",
+      "url": "https://archive.org/download/theorystockexch01crumgoog/theorystockexch01crumgoog.pdf",
+      "bytes": 2187011,
+      "sha256": "7ce315b564eceb36a5fd6240ec0e42088d196c792d44b63be8aff0479a58b31b"
+    },
+    {
+      "file": "source/theorystockexch01crumgoog_djvu.txt",
+      "url": "https://archive.org/download/theorystockexch01crumgoog/theorystockexch01crumgoog_djvu.txt",
+      "bytes": 254125,
+      "sha256": "393da356bfefd2bafbc39a4d60a38c47502d705bd13f4f9924a0006e645f0be4"
+    },
+    {
+      "file": "source/theorystockexch01crumgoog_djvu.xml",
+      "url": "https://archive.org/download/theorystockexch01crumgoog/theorystockexch01crumgoog_djvu.xml",
+      "bytes": 2575596,
+      "sha256": "34cbbb06adf0443375c6ea76afc92b6ef1b273b7e7cf29fad2f757601417bf4e"
+    },
+    {
+      "file": "source/theorystockexch01crumgoog_scandata.xml",
+      "url": "https://archive.org/download/theorystockexch01crumgoog/theorystockexch01crumgoog_scandata.xml",
+      "bytes": 50205,
+      "sha256": "9e2e25213ea626b3886d0bed1be9fb7d0f7445000bf048d3de49401e032b6628"
+    }
+  ],
+  "all_original_scan_glyphs_proofread": false
+}

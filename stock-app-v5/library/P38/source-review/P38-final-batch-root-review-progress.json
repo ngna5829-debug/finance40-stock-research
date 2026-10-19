@@ -1,0 +1,62 @@
+{
+  "book_id": "P38",
+  "status": "in_progress_not_qualified",
+  "root_already_author_read_whole_book": true,
+  "independent_reviewer": "practical_books",
+  "does_not_claim_root_second_whole20_source_reread": true,
+  "additional_dossiers_actually_reread": [
+    {
+      "chapter": 10,
+      "whole_dossier_actually_reread": true,
+      "sha256": "f1e20b5c697a6919980affc8bca076dedb5979ff16d6318142219ccc110034df"
+    },
+    {
+      "chapter": 11,
+      "whole_dossier_actually_reread": true,
+      "sha256": "2582d6ccd361a8cb3a4adf479caf293ce7be74104a28c495cfdfab464b572510"
+    },
+    {
+      "chapter": 16,
+      "whole_dossier_actually_reread": true,
+      "sha256": "811636c31944326ea36d1f9b633cba4956b3704bb116c3174cd277f34adfca1b"
+    },
+    {
+      "chapter": 18,
+      "whole_dossier_actually_reread": true,
+      "sha256": "aba450777d514122178044640332d66d36801fbf078146f16661ef38dd513c8e"
+    },
+    {
+      "chapter": 19,
+      "whole_dossier_actually_reread": true,
+      "sha256": "8de1057786fe3280b9e1996f2a5ba47e30a4f54a88034c63167f11b158a1bcb7"
+    }
+  ],
+  "additional_whole_original_images_actually_viewed": [
+    325,
+    327,
+    505,
+    511,
+    552,
+    577,
+    584,
+    588
+  ],
+  "candidate_files_wholly_actually_read": [
+    "P38-C10-rate-unit-correction-candidates.json",
+    "P38-C11-rate-unit-correction-candidates.json",
+    "P38-C16-correction-candidates.json",
+    "P38-C18-correction-candidates.json",
+    "P38-C19-correction-candidates.json"
+  ],
+  "updated_utc": "2026-10-13T13:07:54.612271+00:00",
+  "ch19_initial_truncated_then_entire_dossier_reread": true,
+  "ch18_three_annual_rates_clarification_pending": {
+    "old": "三年增长百分之九十一十的初稿约百分之十",
+    "new": "过去三年销售增长率分别为百分之九、百分之十一和百分之十，下一年初稿可暂用简单平均百分之十并保留预测假设",
+    "exact_source": "source-chapters/ch18.txt849–851 reviewed by peer; root source paragraph verification pending"
+  },
+  "Review2_original9_11_10_source_actually_read_by_root": true,
+  "whole_SEC2024_Item8_01_dividend_paragraph_actually_read_by_root": true,
+  "SEC_historical_primary_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000047/goog-20240425.htm",
+  "not_a_full_all20_original_re_read_by_root": true
+}

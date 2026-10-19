@@ -1,0 +1,107 @@
+{
+  "source": "Gold Reserve appendix, printed171/PDF183; all10 rows and headings read; scan visually checked",
+  "rows": [
+    {
+      "year": 1872,
+      "visible_liability_denominator": 584000000,
+      "visible_reserve": 12100000,
+      "original_percent": 2.06,
+      "recalculated_percent": 2.0719178082191783,
+      "rounds_to_printed_two_decimals": false
+    },
+    {
+      "year": 1894,
+      "visible_liability_denominator": 721400000,
+      "visible_reserve": 25800000,
+      "original_percent": 3.58,
+      "recalculated_percent": 3.5763792625450512,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1895,
+      "visible_liability_denominator": 794600000,
+      "visible_reserve": 29900000,
+      "original_percent": 3.75,
+      "recalculated_percent": 3.7628995721117544,
+      "rounds_to_printed_two_decimals": false
+    },
+    {
+      "year": 1896,
+      "visible_liability_denominator": 797700000,
+      "visible_reserve": 34600000,
+      "original_percent": 4.33,
+      "recalculated_percent": 4.337470226902345,
+      "rounds_to_printed_two_decimals": false
+    },
+    {
+      "year": 1897,
+      "visible_liability_denominator": 816400000,
+      "visible_reserve": 25100000,
+      "original_percent": 3.07,
+      "recalculated_percent": 3.074473297403234,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1898,
+      "visible_liability_denominator": 838300000,
+      "visible_reserve": 22900000,
+      "original_percent": 2.73,
+      "recalculated_percent": 2.731718955028033,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1899,
+      "visible_liability_denominator": 869300000,
+      "visible_reserve": 21200000,
+      "original_percent": 2.44,
+      "recalculated_percent": 2.4387438168641435,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1900,
+      "visible_liability_denominator": 889600000,
+      "visible_reserve": 21400000,
+      "original_percent": 2.41,
+      "recalculated_percent": 2.4055755395683454,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1901,
+      "visible_liability_denominator": 888100000,
+      "visible_reserve": 24046000,
+      "original_percent": 2.71,
+      "recalculated_percent": 2.7075779754532148,
+      "rounds_to_printed_two_decimals": true
+    },
+    {
+      "year": 1902,
+      "visible_liability_denominator": 904100000,
+      "visible_reserve": 24166000,
+      "original_percent": 2.67,
+      "recalculated_percent": 2.672934409910408,
+      "rounds_to_printed_two_decimals": true
+    }
+  ],
+  "denominator_break": "1872 includes capital; later heading deposits/current accounts/circulation of publishing banks",
+  "postal_plus_trustee_savings": {
+    "postal": 144605088,
+    "trustee": 52505081,
+    "original_total": 197110169,
+    "calculated_total": 197110169
+  },
+  "fund_annual_cost": {
+    "principal": 15000000,
+    "rate": 0.03,
+    "annual_cost": 450000
+  },
+  "cole_hypothesis": {
+    "new_balance": 15000000,
+    "assumed_reserve_ratio": 0.45,
+    "new_gold_hypothetical": 6750000,
+    "stated_historical_mean": 0.466,
+    "alternative_at_mean_not_original_calculation": 6990000
+  },
+  "restored_1902_ratio_at_plus15m": 4.332042915606681,
+  "not_observed_transactions": true,
+  "inconsistent_values_kept_as_printed": true
+}

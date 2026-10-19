@@ -1,0 +1,26 @@
+{
+  "book_id": "P23",
+  "reviewer": "root",
+  "scope_complete_for_merge": true,
+  "required_correction_groups_actually_reviewed": ["P23-QA-C01", "P23-QA-C02", "P23-QA-C03", "P23-QA-C04"],
+  "source_actual_reads": [
+    {"file": "source/ch03.txt", "local_lines_inclusive": [250, 554], "scope": "preceding textile case through whole coal/tin/glass passages and counterfactual conclusion, PDF73–77"},
+    {"file": "source/ch06.txt", "local_lines_inclusive": [981, 1195], "scope": "PDF148–151 complete opposing interests, successful arbitration and continuation"},
+    {"file": "source/appendix1.txt", "scope": "entire original appendix, all33 clauses and continuation across PDF341–345"}
+  ],
+  "all_changed_rule_semantics_actually_read": "Complete non-source semantic fields of R13, R25 and R71; one meaning change only, R25",
+  "source_internal_issues_and_complete_prompt_tensions_cross_challenges_contract_actually_read": true,
+  "actual_native_whole_images_viewed": [142, 169, 258, 283, 259, 352, 356, 357],
+  "specific_native_findings": [
+    "PDF142 original letter date1782 retained",
+    "PDF169 13509tons × GBP22 5s = GBP300575.25 versus printedGBP300375, differenceGBP200.25; no original rewrite",
+    "PDF258 seven firms versus PDF283 six firms originally printed",
+    "PDF259 footnote Appii versus PDF352 actual AppendixIII",
+    "PDF356 locomotive255 and PDF357 UnitedAlkali268 original index entries; index is not substituted for primary正文evidence"
+  ],
+  "peer_all11_original_chapters_dossiers_3appendices_73rules_review_distinct": true,
+  "root_does_not_claim_a_third_entire11chapter_read": true,
+  "262_locators_are_not_certified_individual_complete_natural_paragraphs": true,
+  "original_every_scan_glyph_verified": false,
+  "current_market_model_calls": 0
+}

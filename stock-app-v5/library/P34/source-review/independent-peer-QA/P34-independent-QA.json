@@ -1,0 +1,1234 @@
+{
+  "book_id": "P34",
+  "status": "full_original_semantic_review_required_corrections_pending_not_accepted",
+  "qualified_pass": false,
+  "all26_original_chapters_dossiers_all50rules_actually_read": true,
+  "whole_frontmatter_both_notes_PG_license_synthesis_explainer_expert_actually_read": true,
+  "original_full_source_line_coverage": [
+    [
+      "front",
+      1,
+      150
+    ],
+    [
+      "chapter1",
+      151,
+      192
+    ],
+    [
+      "chapter2",
+      193,
+      251
+    ],
+    [
+      "chapter3",
+      252,
+      342
+    ],
+    [
+      "chapter4",
+      343,
+      405
+    ],
+    [
+      "chapter5",
+      406,
+      442
+    ],
+    [
+      "chapter6",
+      443,
+      510
+    ],
+    [
+      "chapter7",
+      511,
+      566
+    ],
+    [
+      "chapter8",
+      567,
+      594
+    ],
+    [
+      "chapter9",
+      595,
+      658
+    ],
+    [
+      "chapter10",
+      659,
+      689
+    ],
+    [
+      "chapter11",
+      690,
+      752
+    ],
+    [
+      "chapter12",
+      753,
+      782
+    ],
+    [
+      "chapter13",
+      783,
+      826
+    ],
+    [
+      "chapter14",
+      827,
+      864
+    ],
+    [
+      "chapter15",
+      865,
+      978
+    ],
+    [
+      "chapter16",
+      979,
+      1033
+    ],
+    [
+      "chapter17",
+      1034,
+      1096
+    ],
+    [
+      "chapter18",
+      1097,
+      1140
+    ],
+    [
+      "chapter19",
+      1141,
+      1175
+    ],
+    [
+      "chapter20",
+      1176,
+      1215
+    ],
+    [
+      "chapter21",
+      1216,
+      1280
+    ],
+    [
+      "chapter22",
+      1281,
+      1387
+    ],
+    [
+      "chapter23",
+      1388,
+      1442
+    ],
+    [
+      "chapter24",
+      1443,
+      1526
+    ],
+    [
+      "chapter25",
+      1527,
+      1694
+    ],
+    [
+      "chapter26",
+      1695,
+      1850
+    ],
+    [
+      "PGlicense",
+      1851,
+      2201
+    ]
+  ],
+  "all34_original_source_files_byte_unchanged": true,
+  "source_snapshot": {
+    "source/original.txt": "9b783fb26167bc9875b79a264d0d21f4cebb0bd14353bec48c38d6fc3455dfe5",
+    "source/full-PG-license.txt": "218bf98e7e486531f1bb3d69beb4e28d28a7b248fcd224090c122bd590d2c5ca",
+    "source/IA-metadata.json": "125ff99698894dd3c219e1efef4288b446aebec58bbd15d97f58bbea2d8aaba3",
+    "source/frontmatter.txt": "6b26f55f4ef4b41e8cf053d7d97db66465b906955c20c0faa728db539b0bb88b",
+    "source/original-1922.pdf": "bebe64b52fa8e4f8b732438b34f9d9fcdd63b0d9599643c3408d0169afd62db5",
+    "source/IA-search.json": "2efee4c64b52c325b7975c817b7844b2c13ed3fe771fb376623f54f3a85841d6",
+    "source/scan-pages.json": "26523797f78c3b5f540c74aad1502eb95e13a9161d3d1c32807b77ec9404db6e",
+    "source/original.html": "4da16fc71d394b2231a47ec9d03e337075d56c08dd363ca29c495f5fd585d5c4",
+    "source/chapters/ch23.txt": "cc425dddb574177c4103789428424fad28cf94f8d576e176b7618de373f7a22b",
+    "source/chapters/ch22.txt": "dd20c4d816beff03f32919aadd783e40801e56452090d957c8eda3114aa4b636",
+    "source/chapters/ch20.txt": "dd89b3300e6943cd711c4688f55466aac2cc0de93627c045462423c0f41fc896",
+    "source/chapters/ch08.txt": "8df9115785bd09608aa1c918e5552bfb86a9d3226c0e46cc7458b263c81b4484",
+    "source/chapters/ch09.txt": "9df865e312216cc54e0cef33af02e4759cdcfc2e838da33271d3dea484f31c0a",
+    "source/chapters/ch21.txt": "64776f8de2ee252c608347b40759d4c23ed575226439eea5176077998f90caab",
+    "source/chapters/ch19.txt": "aaafe307ff69a2a8a80d0f787825da532e08040bec46735d401d54e609d2339b",
+    "source/chapters/ch25.txt": "5488f4cebd514eb81d5f50952a7d64a80587930dace5ed951c3cfccdbd953e1b",
+    "source/chapters/ch24.txt": "f4499dd2627ead8b056bb9eff67f1027e30ec79bb4a089e64135fab2fd1bcea7",
+    "source/chapters/ch18.txt": "a0fa9bf2d4f3adca70a084dbdf262b973fca77dc2cd70006dfcf97e1e5d8c1a6",
+    "source/chapters/ch26.txt": "d2ed6c404448df93a0c05bed58082a20e6e4492bdc210fe57825155a7590db5c",
+    "source/chapters/ch16.txt": "172ee351a920bf8d84128515402ef26c9fbb239935defd31ec00cc275dc759da",
+    "source/chapters/ch02.txt": "13e44305c14086e1fa21e16737d2f293d2c9b658165d2b1f7597599952a11a94",
+    "source/chapters/ch03.txt": "60b5a373f165059776f3d7957daa96718c1b788270c81233558cdb27cabd0969",
+    "source/chapters/ch17.txt": "e1b89667ac0036b9ccc0667839b0f652b78baa8306d9e9f9d23a4bb829f4a08e",
+    "source/chapters/ch01.txt": "c4ea1f4a18a1b5b32e1fa3049e0ff3e728000693f2c2089bcfaade829e5b9027",
+    "source/chapters/ch15.txt": "22049579e1ce530757763fa5ca256c2201647758dbea7a0ef970af5e5f814d5e",
+    "source/chapters/ch14.txt": "6d40b614bcd9f035ebb336cd48e4bcf15551bd5cee279e70a8fdb8b26c5c4db7",
+    "source/chapters/ch04.txt": "e583aa6f64706fcc18f4841444d7afb09d5dba0f638657a6f3668d4fcbb822df",
+    "source/chapters/ch10.txt": "e8f0d71417aedb191f5e5ea035362fcba0d5f124bbec6f9cb528d229c02f0e7b",
+    "source/chapters/ch11.txt": "6642d517d11bad48b347c1d26aaebbeb3710ca92219e98e6b13216cfc393eca0",
+    "source/chapters/ch05.txt": "8a503ea10090648211d892069d0000ddb63b30d911448d58ba0ad37d2a619d05",
+    "source/chapters/ch13.txt": "9e1ad0dc1ef6ad08b999582de8c1a2979fc76e39ea280d771092717d76b656cc",
+    "source/chapters/ch07.txt": "3ab8ae5cc109363ce038b952344b6be622a7c5172675c0b184e74b32249e90c0",
+    "source/chapters/ch06.txt": "b4712256349b8be067c24a0f2107d482932c9a5bc5546f7ef51c4894c16c091c",
+    "source/chapters/ch12.txt": "b353f08669a00ac1f0c95cb665a51351efce9f53662628a4d4daf93186d7a9ea"
+  },
+  "strict_body_Han_counts": [
+    2334,
+    2267,
+    2384,
+    2282,
+    2187,
+    2331,
+    2307,
+    2072,
+    2314,
+    2129,
+    2095,
+    2063,
+    2089,
+    2048,
+    2240,
+    2203,
+    2198,
+    2147,
+    2051,
+    2159,
+    2406,
+    2399,
+    2198,
+    2124,
+    2415,
+    2316
+  ],
+  "strict_total_Han": 57758,
+  "minimum_Han": 2048,
+  "count_method": "Only Han in body markers; heading lines, source parentheses and inline source-link labels excluded. No synthesis/expert/license/metadata counted.",
+  "old_author_body_count_including13source_link_Han": 57771,
+  "precise_complete_original_context_count": 171,
+  "exact_line_char_byte_SHA_checks": [
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R02",
+      "paragraph": "P34-C02-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R03",
+      "paragraph": "P34-C02-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R03",
+      "paragraph": "P34-C02-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R05",
+      "paragraph": "P34-C03-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R05",
+      "paragraph": "P34-C03-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R06",
+      "paragraph": "P34-C03-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R08",
+      "paragraph": "P34-C04-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R08",
+      "paragraph": "P34-C04-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R10",
+      "paragraph": "P34-C06-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R10",
+      "paragraph": "P34-C06-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R12",
+      "paragraph": "P34-C07-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R12",
+      "paragraph": "P34-C07-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C06-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R14",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C14-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R18",
+      "paragraph": "P34-C10-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R18",
+      "paragraph": "P34-C10-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C12-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C11-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R23",
+      "paragraph": "P34-C13-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C14-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C14-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C16-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C16-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R26",
+      "paragraph": "P34-C15-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R26",
+      "paragraph": "P34-C15-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C16-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C16-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C19-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R35",
+      "paragraph": "P34-C20-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R35",
+      "paragraph": "P34-C20-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R36",
+      "paragraph": "P34-C20-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R36",
+      "paragraph": "P34-C20-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C14-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C23-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C23-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R38",
+      "paragraph": "P34-C21-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R38",
+      "paragraph": "P34-C21-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R43",
+      "paragraph": "P34-C24-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R43",
+      "paragraph": "P34-C24-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R48",
+      "paragraph": "P34-C26-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R48",
+      "paragraph": "P34-C26-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R49",
+      "paragraph": "P34-C26-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    }
+  ],
+  "all50rules_whole_continuous_original_discourse_linked": true,
+  "necessary_rule_field_changes": [
+    {
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "author_meaning",
+      "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+      "new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "counterexample_or_limit",
+      "old": "原书明确NYSE也有永无价值之股。",
+      "new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+    },
+    {
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。"
+    },
+    {
+      "rule_id": "P34-R29",
+      "field": "author_meaning",
+      "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+      "new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。"
+    },
+    {
+      "rule_id": "P34-R30",
+      "field": "author_meaning",
+      "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+      "new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。"
+    },
+    {
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。"
+    },
+    {
+      "rule_id": "P34-R39",
+      "field": "author_meaning",
+      "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+      "new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。"
+    },
+    {
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。"
+    },
+    {
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "author_meaning",
+      "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+      "new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "independent_analysis",
+      "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+      "new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "author_meaning",
+      "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+      "new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "independent_analysis",
+      "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+      "new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "author_meaning",
+      "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+      "new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "independent_analysis",
+      "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+      "new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+    }
+  ],
+  "required_finding_groups": 21,
+  "all4_previously_unmatched_OCR_substantive_contexts_original_images_actually_seen": true,
+  "unmatched_visual_resolution": {
+    "P34-C14-P006": [
+      55,
+      56
+    ],
+    "P34-C24-P008": [
+      96
+    ],
+    "P34-C24-P011": [
+      96
+    ],
+    "P34-C24-P012": [
+      96,
+      97
+    ]
+  },
+  "actual_original_full_PDF_images_viewed": [
+    5,
+    6,
+    23,
+    34,
+    41,
+    55,
+    56,
+    66,
+    74,
+    77,
+    78,
+    80,
+    81,
+    89,
+    95,
+    96,
+    97,
+    108,
+    109,
+    110
+  ],
+  "full16row_48numeric_cell_table_actually_read_and_arithmetic_recomputed": true,
+  "all_low_OCR_physical_pages_independently_visually_reviewed_by_this_peer": false,
+  "original_all_scanned_glyphs_individually_collated": false,
+  "all_underlying_quotes_accounts_statutes_other_books_verified": false,
+  "quoted_source_voices_separated": true,
+  "mirror_not_current_IA_derivative_byte_identity_preserved": true,
+  "current_market_model_calls": 0,
+  "backtests_executed": 0,
+  "probabilities_calibrated": false,
+  "candidate_expert_file": "work/book-experts-v5/value_team/peer-QA/P34-expert-candidate.json",
+  "candidate_expert_sha256": "42caa15934c96b75fd20d07d519f18b4b9cafb9b8a0d0dab18e078bf1ef793ac",
+  "required_findings_file": "work/book-experts-v5/value_team/peer-QA/P34-required-findings.json",
+  "canonical_modified_by_reviewer": false,
+  "modern_primary_sources_actually_opened": [
+    "https://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation",
+    "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-29",
+    "https://www.investor.gov/introduction-investing/investing-basics/glossary/stop-order"
+  ],
+  "completed_utc": "2026-10-13T16:15:01.293534+00:00"
+}

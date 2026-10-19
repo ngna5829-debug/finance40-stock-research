@@ -1,0 +1,58 @@
+{
+  "book_id": "P38",
+  "chapter": 14,
+  "printed_pages": [
+    417,
+    448
+  ],
+  "pdf_pages_one_based": [
+    432,
+    463
+  ],
+  "source_chars": 66936,
+  "source_sha256": "ea29513015a1d92ebbc6f25b13b6a915cd7b326445e127ded5a1b648a3bd2d7f",
+  "actualnative_readranges": [
+    [
+      0,
+      30000
+    ],
+    [
+      29900,
+      59800
+    ],
+    [
+      59700,
+      66936
+    ]
+  ],
+  "all6sections_1note_summary_terms_11MC_5review_7problems_4videoquestiontexts_read": true,
+  "all32pagecontacts_all12figures_all14tables_allformulaimages_visuallyread": true,
+  "visual_files": [
+    "ch14-figures-1.jpg",
+    "ch14-figures-2.jpg",
+    "ch14-figures-3.jpg",
+    "ch14-figures-4.jpg",
+    "ch14-figures-5.jpg",
+    "ch14-figures-6.jpg",
+    "ch14-figures-7.jpg",
+    "ch14-figures-8.jpg",
+    "ch14-critical-451.jpg",
+    "ch14-critical-452.jpg",
+    "ch14-critical-459.jpg"
+  ],
+  "other_rendered_critical_images_notclaimedseen": true,
+  "externalvideos_workbooks_wholemanuals_read": false,
+  "literal_every_PDFglyphproofread": false,
+  "actualR_Excel_TIexecution": false,
+  "independentmathematicalrecompute": true,
+  "body_han": 3374,
+  "summary_sha256": "47b397d9c1e5b92e619e8272028c5d15cee5eaf9aef6842100192ea2d165d3d6",
+  "arithmetic": "ch14-table-arithmetic.json",
+  "sourceissues": "ch14-source-issues.json",
+  "semantic_fullchapter_read_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "47b397d9c1e5b92e619e8272028c5d15cee5eaf9aef6842100192ea2d165d3d6",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

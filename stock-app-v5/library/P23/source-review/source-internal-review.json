@@ -1,0 +1,48 @@
+{
+  "book_id": "P23",
+  "items": [
+    {
+      "id": "N01",
+      "pdf": 104,
+      "printed": 80,
+      "status": "confirmed_in_original_selected_image",
+      "original_reading": "exclusive copper mining right renewed1691, lasted until State takeover about1670",
+      "issue": "原文续准年份后于接管年份；原图确为1691/1670，不猜修正",
+      "image": "source-review/pdf104.png",
+      "author_text_preserved": true,
+      "expert_action": "do_not_build_precise_chronology_from_this_sentence_without_external_primary_verification"
+    },
+    {
+      "id": "N02",
+      "pdf": 137,
+      "printed": 113,
+      "status": "all_table_cells_selected_original_read_independent_sums_disagree",
+      "issue": "1832–35逐项海煤和与印合计不一致；详表另存，不猜修复哪个单元",
+      "arithmetic": "source-review/pdf137-table-arithmetic.json",
+      "author_text_preserved": true
+    },
+    {
+      "id": "N03",
+      "pdf": [
+        146,
+        147
+      ],
+      "printed": [
+        122,
+        123
+      ],
+      "status": "confirmed_original_images",
+      "issue": "1836April叙述969500与表959500；65‰配额62367.5对应959500非969500",
+      "images": [
+        "source-review/april-basis-146.png",
+        "source-review/april-basis-147.png"
+      ],
+      "author_text_preserved": true,
+      "independent_arithmetic": {
+        "969500_times_0_065": 63017.5,
+        "959500_times_0_065": 62367.5,
+        "8227_5_minus_1265": 6962.5
+      }
+    }
+  ]
+}

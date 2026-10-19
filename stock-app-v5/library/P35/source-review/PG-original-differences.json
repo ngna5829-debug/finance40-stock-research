@@ -1,0 +1,21 @@
+{
+  "book_id": "P35",
+  "rawPG_modified": false,
+  "differences": [
+    {
+      "chapter": 9,
+      "printed_page": 83,
+      "PDF_page": 107,
+      "field": "BankingDepartmentGovernmentSecurities",
+      "PG_value": "21,824,358",
+      "original_image_value": "21,324,358",
+      "original_image_file": "source-review/p107.png",
+      "verified_actual_viewing": true,
+      "effect": "PG assetsum500000aboveprinted, originalside sums exactly183072505",
+      "other_securities_original": 108836570,
+      "do_not_change_other_securities_to_force_balance": true,
+      "scope": "digit difference; no assumption alloriginalglyphsverified"
+    }
+  ],
+  "verified_date": "2026-10-13"
+}

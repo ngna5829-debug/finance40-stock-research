@@ -1,0 +1,360 @@
+{
+  "book_id": "P10",
+  "expert_count": 1,
+  "book_count": 1,
+  "completed_local_date": "2026-10-13",
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_original_scan_words_visually_verified": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+  "source_sha256": "087167e8de3ce15dec570f81cd8eac46d641965876f480d45f712a2d515a3c93",
+  "source_bytes": 247218,
+  "source_line_count": 4736,
+  "source_all_lines_actually_read": true,
+  "covered_source_lines_count": 4736,
+  "unread_source_line_ranges": [],
+  "chapter_count": 6,
+  "chapter_body_han_counts": [
+    2878,
+    3061,
+    3306,
+    3491,
+    3836,
+    4275
+  ],
+  "chapter_body_han_total": 20847,
+  "minimum_chapter_body_han": 2878,
+  "han_count_method": "仅各章正文标记内U+4E00..U+9FFF；标题/来源定位/目录/引用文件/综合/专家/许可不计，无自动章稿模板",
+  "chapters": [
+    {
+      "chapter_ordinal": 1,
+      "original_label": "I",
+      "title": "The Nature, Functions, and Classification of Banking Institutions",
+      "source_lines_inclusive": [
+        197,
+        392
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch01-original.txt",
+      "source_text_sha256": "1b48fab004bba87e1dfd59864ea4c71fb8abe61f77ad7b7aa547b9e864be5148",
+      "printed_start_in_original_contents": 1,
+      "printed_end_estimate_from_next_contents": 10,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          197,
+          250
+        ],
+        [
+          251,
+          392
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch01.md",
+      "draft_sha256": "dfb4acf1da9fd7ffe976a5325d341730fc52b5e64d044e8fc4d7ae9122dbc4e5",
+      "han_body_count": 2878,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 2,
+      "original_label": "II",
+      "title": "The Nature and Operations of Commercial Banking",
+      "source_lines_inclusive": [
+        393,
+        897
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch02-original.txt",
+      "source_text_sha256": "6294679b44fc5663fc419f087df53bedcb61b60f5b9a09f6b4dffc3ed2b5dd3e",
+      "printed_start_in_original_contents": 11,
+      "printed_end_estimate_from_next_contents": 34,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          393,
+          640
+        ],
+        [
+          641,
+          897
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch02.md",
+      "draft_sha256": "eafdc3c5902387f910f36704f0767194c00d5436e9f9f5690506ae6ed3cb2c7f",
+      "han_body_count": 3061,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 3,
+      "original_label": "III",
+      "title": "The Problems of Commercial Banking",
+      "source_lines_inclusive": [
+        898,
+        1589
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch03-original.txt",
+      "source_text_sha256": "77737b8ec165128fc875dcdede3cbe4e4fc3c0212a7ea31f6de78f496537474f",
+      "printed_start_in_original_contents": 35,
+      "printed_end_estimate_from_next_contents": 67,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          898,
+          1120
+        ],
+        [
+          1121,
+          1360
+        ],
+        [
+          1361,
+          1589
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch03.md",
+      "draft_sha256": "39dfd3de1052ac7c3a9ef132adda4610983e821edeeac0e287fcbb53b832af1d",
+      "han_body_count": 3306,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 4,
+      "original_label": "IV",
+      "title": "Commercial Banking in the United States",
+      "source_lines_inclusive": [
+        1590,
+        2281
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch04-original.txt",
+      "source_text_sha256": "6aef67313a8c7524c6abf5e62069688ccbb6a297034e94a211e139e03e1a09c2",
+      "printed_start_in_original_contents": 68,
+      "printed_end_estimate_from_next_contents": 100,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          1590,
+          1820
+        ],
+        [
+          1821,
+          2060
+        ],
+        [
+          2061,
+          2281
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch04.md",
+      "draft_sha256": "41eb48a83c237a08d02871a578a3d17608afe7ad46d34ed754243b43712f2408",
+      "han_body_count": 3491,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 5,
+      "original_label": "V",
+      "title": "Commercial Banking in Other Countries",
+      "source_lines_inclusive": [
+        2282,
+        3033
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch05-original.txt",
+      "source_text_sha256": "b588ac2e3692039ebef63f5ad4093adcf574f8abecbb55bb49800136bf453a19",
+      "printed_start_in_original_contents": 101,
+      "printed_end_estimate_from_next_contents": 135,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          2282,
+          2520
+        ],
+        [
+          2521,
+          2780
+        ],
+        [
+          2781,
+          3033
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch05.md",
+      "draft_sha256": "1bdcaadebb5895655dd1b560d6ec031e40dc071859e8a323ddbc16c1c7490024",
+      "han_body_count": 3836,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 6,
+      "original_label": "VI",
+      "title": "Investment Banking",
+      "source_lines_inclusive": [
+        3034,
+        3770
+      ],
+      "source_file": "work/book-experts-v5/index_team/P10/source/ch06-original.txt",
+      "source_text_sha256": "06788ec7e70b0c8a98f47eb2ffb2f329a421f76e6445c9cc74c57e239be60283",
+      "printed_start_in_original_contents": 136,
+      "printed_end_estimate_from_next_contents": 170,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          3034,
+          3270
+        ],
+        [
+          3271,
+          3520
+        ],
+        [
+          3521,
+          3770
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P10/chapters/ch06.md",
+      "draft_sha256": "8513d1d8ce9be6d225fb78cb2f1df4309004957367391c80e04baa208d81c535",
+      "han_body_count": 4275,
+      "reading_qualified_no_original_scan": true
+    }
+  ],
+  "frontmatter": {
+    "source_lines_inclusive": [
+      1,
+      196
+    ],
+    "complete_semantic_reading": true,
+    "editor_preface_separate_from_author": true
+  },
+  "references": {
+    "source_start": 3771,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      3771,
+      3826
+    ],
+    "actual_read_blocks": [
+      [
+        3771,
+        3826
+      ]
+    ],
+    "reference_groups": [
+      "综合银行",
+      "清算汇兑",
+      "各国制度",
+      "投资银行"
+    ],
+    "listed_works_not_counted_as_read": true
+  },
+  "index": {
+    "source_start": 3827,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      3827,
+      4338
+    ],
+    "actual_read_blocks": [
+      [
+        3827,
+        4100
+      ],
+      [
+        4101,
+        4338
+      ]
+    ],
+    "used_as_primary_rule_evidence": false
+  },
+  "publisher_ads": {
+    "source_start": 4339,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      4339,
+      4385
+    ],
+    "actual_read_blocks": [
+      [
+        4101,
+        4386
+      ]
+    ],
+    "advertised_works_not_counted_as_read": true
+  },
+  "pg_license": {
+    "source_start": 4387,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      4387,
+      4736
+    ],
+    "actual_read_blocks": [
+      [
+        4387,
+        4736
+      ]
+    ]
+  },
+  "backmatter_read_blocks": [
+    [
+      3771,
+      3826
+    ],
+    [
+      3827,
+      4100
+    ],
+    [
+      4101,
+      4386
+    ],
+    [
+      4387,
+      4736
+    ]
+  ],
+  "notes": {
+    "standalone_numbered_author_footnotes_found_in_this_text": false,
+    "inline_citations_all_read": true,
+    "Hamilton_savings_source_is_not_Hamilton_B40": true
+  },
+  "appendices": {
+    "independent_author_appendix_found_in_provided_text": false,
+    "absence_of_all_other_editions_not_claimed": true
+  },
+  "edition_temporal_boundary": {
+    "reform_law_already_noted": "1913-12-23",
+    "source_lines": [
+      2224,
+      2277
+    ],
+    "federal_reserve_operation_results_verified_by_author_in_this_chapter": false,
+    "future_tense_description_of_proposed_organisation": true
+  },
+  "rule_count": 35,
+  "rule_evidence_segment_count": 52,
+  "rule_fragment_hashes_verified": true,
+  "modern_interpretation_separated": true,
+  "source_limits_files": [
+    "work/book-experts-v5/index_team/P10/source/ch03-source-limits.json",
+    "work/book-experts-v5/index_team/P10/source/ch05-source-limits.json",
+    "work/book-experts-v5/index_team/P10/source/ch06-source-limits.json"
+  ],
+  "reference_works_counted_as_read": false,
+  "limitations": [
+    "没有原扫描，每章纸页仅目录范围，不能把电子行映射原印每字",
+    "所有旧制度、机构规模及失败例未独立全核",
+    "资本比率/英国minimum期限/年金分母保持未解，相关定量应用暂停",
+    "inflation取信用期限专义，不当当前CPI",
+    "改革设计与当时实际运营分开",
+    "书目、广告和另作者引书不计新增已读",
+    "自检不是独立语义QA"
+  ],
+  "independent_qa_file": "independent-QA.json",
+  "final_qualified": true
+}

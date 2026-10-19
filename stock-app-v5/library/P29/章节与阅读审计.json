@@ -1,0 +1,429 @@
+{
+  "book_id": "P29",
+  "title": "Everybody’s Guide to Money Matters",
+  "edition_year": 1898,
+  "status": "complete_PG_transcription_reading_and_dossiers_qualified_independent_semantics_pass_after_corrections",
+  "complete_original_digital_text_read": true,
+  "all_original_scan_glyphs_verified": false,
+  "source_manifest": {
+    "book_id": "P29",
+    "title": "Everybody’s Guide to Money Matters",
+    "author": "William Cotton, F.S.A., of Exeter",
+    "edition_title_year": 1898,
+    "catalog_url": "https://www.gutenberg.org/ebooks/1903",
+    "rights": "Project Gutenberg catalogue: public domain in the USA; not a blanket worldwide legal claim",
+    "retrieved_utc": "2026-10-12T10:27:06.280037+00:00",
+    "sources": [
+      {
+        "file": "source/pg1903.txt",
+        "url": "https://www.gutenberg.org/cache/epub/1903/pg1903.txt",
+        "bytes": 233481,
+        "sha256": "defad25040b984a02c8c2da7449846e8aa0cee7f47bab0b6d235481a4bf70973"
+      },
+      {
+        "file": "source/pg1903.html",
+        "url": "https://www.gutenberg.org/cache/epub/1903/pg1903-images.html",
+        "bytes": 258769,
+        "sha256": "1d07598fd3b1f6d57d70520799fef42e519fe83f3a552673078f25b0f4bbf10c"
+      }
+    ],
+    "complete_PG_start_end_markers": true,
+    "original_chapter_count": 11,
+    "reading_status": "complete_PG_transcription_reading_qualified",
+    "original_scanned_glyphs_all_verified": false,
+    "transcriber_warning": "Table mistakes in original preserved and marked with underscores; landscape tables retain long lines; pound symbol preservation noted.",
+    "reading_completed_utc": "2026-10-12T11:10:58.995774+00:00",
+    "all_11_chapters_actual_full_text_read": true,
+    "frontmatter_appendix_and_full_PG_license_read": true,
+    "exact_paper_page_alignment_verified": false,
+    "unresolved_original_or_transcription_numbers": true
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "roman": "I",
+      "source_lines_inclusive": [
+        219,
+        563
+      ],
+      "file": "source/ch01.txt",
+      "sha256": "4dd70ae052065f92c71a4bc0d4886b1c5404856499f665bff73e7fed0e80caa8",
+      "printed_range_from_contents": [
+        1,
+        12
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00033",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2457,
+      "dossier_sha256": "8f88344181244034f7c094f2fa38d972652fe11a5403d212e753f770e4462273",
+      "reading_completed_utc": "2026-10-12T10:30:09.631447+00:00",
+      "body_han_with_locator_brackets": 2484
+    },
+    {
+      "chapter": 2,
+      "roman": "II",
+      "source_lines_inclusive": [
+        564,
+        741
+      ],
+      "file": "source/ch02.txt",
+      "sha256": "9880bbf720c986328a430c8e1d421e3b385a77976a649647ed5ccec9fc29fe9a",
+      "printed_range_from_contents": [
+        13,
+        19
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00072",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2201,
+      "dossier_sha256": "fd18c2255a2bd295fbf5b92bc5f9b9aa45d692c787e20194d4718284e5bd39b2",
+      "reading_completed_utc": "2026-10-12T10:34:41.999361+00:00",
+      "body_han_with_locator_brackets": 2225
+    },
+    {
+      "chapter": 3,
+      "roman": "III",
+      "source_lines_inclusive": [
+        742,
+        905
+      ],
+      "file": "source/ch03.txt",
+      "sha256": "0b869f7497af9bceeadc10d490af78054b1d268ef046220d4ea44fd94746a5a2",
+      "printed_range_from_contents": [
+        20,
+        25
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00087",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2370,
+      "dossier_sha256": "7278a5853068106bdc30c8953f868791fa7de61dbf5a095f7e417e7d83564698",
+      "reading_completed_utc": "2026-10-12T10:34:42.002419+00:00",
+      "body_han_with_locator_brackets": 2397
+    },
+    {
+      "chapter": 4,
+      "roman": "IV",
+      "source_lines_inclusive": [
+        906,
+        1152
+      ],
+      "file": "source/ch04.txt",
+      "sha256": "9e90bce5ed67f437cd2761ba52e12a13a2e4ea6b2d2405bd701bdaab7949edc1",
+      "printed_range_from_contents": [
+        26,
+        34
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00098",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2208,
+      "dossier_sha256": "bc961ecc8d59a76ea7374dc455f37d46e639515ecb83948fb526cd496c50fdf3",
+      "reading_completed_utc": "2026-10-12T10:38:28.995330+00:00",
+      "body_han_with_locator_brackets": 2241
+    },
+    {
+      "chapter": 5,
+      "roman": "V",
+      "source_lines_inclusive": [
+        1153,
+        1314
+      ],
+      "file": "source/ch05.txt",
+      "sha256": "e25828937423d89c71958fddf2dd5e6b44fdc7b999f7b42866e8efc11e530828",
+      "printed_range_from_contents": [
+        35,
+        40
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00125",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2226,
+      "dossier_sha256": "65039602473e79f2a0d2420a0440fda1f19fc86589df76b8c824332a52e215c2",
+      "reading_completed_utc": "2026-10-12T10:38:28.998847+00:00",
+      "body_han_with_locator_brackets": 2259
+    },
+    {
+      "chapter": 6,
+      "roman": "VI",
+      "source_lines_inclusive": [
+        1315,
+        1755
+      ],
+      "file": "source/ch06.txt",
+      "sha256": "29fcaa135f0b415aec9c92a594c2e451b4ca6337212ead2a5102f25ba8aa5740",
+      "printed_range_from_contents": [
+        41,
+        54
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00147",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2278,
+      "dossier_sha256": "25dd7b3c61c3b73c38fd35bb000cdd4c122743dc6741e89b2ebfa7f7d0dbd91d",
+      "reading_completed_utc": "2026-10-12T10:40:56.709906+00:00",
+      "body_han_with_locator_brackets": 2299
+    },
+    {
+      "chapter": 7,
+      "roman": "VII",
+      "source_lines_inclusive": [
+        1756,
+        2440
+      ],
+      "file": "source/ch07.txt",
+      "sha256": "96d61d7ed85e21eae8d43e78d2b9ccbcd1052b926d6a75fa0db9784b683bf48a",
+      "printed_range_from_contents": [
+        55,
+        78
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00172",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2540,
+      "dossier_sha256": "5bac9160a78f515443b8f77d011a40f3c9b4f1fbec148e0af2f2d90156d75579",
+      "reading_completed_utc": "2026-10-12T10:43:46.069797+00:00",
+      "body_han_with_locator_brackets": 2576
+    },
+    {
+      "chapter": 8,
+      "roman": "VIII",
+      "source_lines_inclusive": [
+        2441,
+        3020
+      ],
+      "file": "source/ch08.txt",
+      "sha256": "82af75377d6fdc1ea6cb1cdd765799238da158a4464fe8ac7ba7d323baef1c8f",
+      "printed_range_from_contents": [
+        79,
+        100
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00240",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2529,
+      "dossier_sha256": "10bcb1147839abd38167a7477dce1f8f72fbcc30b18c14a0ac4e015424833e36",
+      "reading_completed_utc": "2026-10-12T10:48:33.817548+00:00",
+      "body_han_with_locator_brackets": 2565
+    },
+    {
+      "chapter": 9,
+      "roman": "IX",
+      "source_lines_inclusive": [
+        3021,
+        3600
+      ],
+      "file": "source/ch09.txt",
+      "sha256": "c5edae3f027f1b0855a3a17a6d172a6582e0a80f9b7ec49aaa2cee28be5301dd",
+      "printed_range_from_contents": [
+        101,
+        121
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00257",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2328,
+      "dossier_sha256": "3213bf13836f2240f0264688e13c84f4aa8d72609d83e0bffb29fdc00c25c637",
+      "reading_completed_utc": "2026-10-12T10:52:11.659531+00:00",
+      "body_han_with_locator_brackets": 2364
+    },
+    {
+      "chapter": 10,
+      "roman": "X",
+      "source_lines_inclusive": [
+        3601,
+        3936
+      ],
+      "file": "source/ch10.txt",
+      "sha256": "2a924bc53398dbf7f66fa56a36219c64de0af4cec4b39c69a7d6dee242a3e9a1",
+      "printed_range_from_contents": [
+        122,
+        133
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00296",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2238,
+      "dossier_sha256": "f9b9012d04a2a7b6509ed3ebeaacc9ae203bbd2c34dc269977a8eeae2aa27f90",
+      "reading_completed_utc": "2026-10-12T10:54:56.946264+00:00",
+      "body_han_with_locator_brackets": 2274
+    },
+    {
+      "chapter": 11,
+      "roman": "XI",
+      "source_lines_inclusive": [
+        3937,
+        4111
+      ],
+      "file": "source/ch11.txt",
+      "sha256": "b9d00264e0be148f13fb5b35b83466cf04ef05b621ee4ff2adfa9c4a4af514c8",
+      "printed_range_from_contents": [
+        134,
+        141
+      ],
+      "precise_glyph_page_alignment_verified": false,
+      "HTML_chapter_anchor": "id00316",
+      "read_complete": true,
+      "dossier_complete": true,
+      "body_han": 2261,
+      "dossier_sha256": "5400ecafedf88025d2a48568a00f358f1f21b22f6aba0a02188a1b0bce7296e0",
+      "reading_completed_utc": "2026-10-12T10:58:58.862003+00:00",
+      "body_han_with_locator_brackets": 2291
+    }
+  ],
+  "body_han_counts": [
+    2457,
+    2201,
+    2370,
+    2208,
+    2226,
+    2278,
+    2540,
+    2529,
+    2328,
+    2238,
+    2261
+  ],
+  "body_han_total": 25636,
+  "frontmatter": {
+    "source_lines": [
+      1,
+      218
+    ],
+    "read_complete": true,
+    "includes": [
+      "PG opening",
+      "transcriber warnings",
+      "title author 1898",
+      "preface",
+      "full original contents"
+    ]
+  },
+  "appendix": {
+    "source_lines": [
+      4112,
+      4393
+    ],
+    "read_complete": true,
+    "includes": [
+      "42-row 294-cell income table",
+      "all eleven correspondence categories"
+    ],
+    "independent_arithmetic_file": "appendix-table-arithmetic.json"
+  },
+  "PG_license": {
+    "source_lines": [
+      4394,
+      4744
+    ],
+    "read_complete": true,
+    "full_license_preserved": true
+  },
+  "images": {
+    "HTML_img_count": 0,
+    "ASCII_forms_tables_full_read": true,
+    "physical_book_other_images_or_advertisements_not_verified": true
+  },
+  "actual_reading_output_ranges_in_this_agent": [
+    [
+      1,
+      563
+    ],
+    [
+      564,
+      905
+    ],
+    [
+      906,
+      1314
+    ],
+    [
+      1315,
+      1755
+    ],
+    [
+      1756,
+      2120
+    ],
+    [
+      2121,
+      2440
+    ],
+    [
+      2441,
+      2750
+    ],
+    [
+      2751,
+      3020
+    ],
+    [
+      3021,
+      3350
+    ],
+    [
+      3351,
+      3600
+    ],
+    [
+      3601,
+      3936
+    ],
+    [
+      3937,
+      4393
+    ],
+    [
+      4394,
+      4744
+    ]
+  ],
+  "unresolved_gaps": [
+    "未取得原扫描，目录纸本范围不等于逐段精确印刷页证。",
+    "第一/二章模板年份差异；第三章汇票年和到期冲突。",
+    "第五章25.6d佣金原字；第六章年金异常格与保险表不连续。",
+    "第七章毛里求斯欠额与授权十镑差；第十章正文利差不能复算与表内缺便士。",
+    "附录当前收入率表存在已标及未标差异，精确数据用途关闭。",
+    "作者引用统计、法条及未具名案件未做全量外部验证；未读其推荐的另书指南。"
+  ],
+  "current_stock_decisions_executed": false,
+  "independent_semantic_QA_status": "pass_after_corrections_with_source_limits",
+  "artifacts_sha256": {
+    "专家定义.json": "9728aa7b0e31a050694506982b0aa62bc3321c22217d7b49ff443f360ba54bdf",
+    "全书综合与附录.md": "6ac1403fbc8976d93bfba874da043e93a05b9d8fe76d6e48b87b7b3691e0c744",
+    "专家说明.md": "281dbc041e09f0b7b4e74bf3f4347a8d6e5599d1241496eaa13796896d5bfb8d",
+    "章节深读.md": "e1d82a3293f3d8717f8cd89b2d2b4f981b2b9dbbc87b8c48a4a1d00c0deeea71",
+    "validation.json": "43a5320980f92027a1579dae57a6f1bab4014574d8922fd4ad07d0d7ceeaeab7",
+    "appendix-table-arithmetic.json": "f7479068fd8fa14b31934c5a09c9452949ae69ab72530b9610ae8e64fb8d4302"
+  },
+  "completed_utc": "2026-10-12T11:10:58.995774+00:00",
+  "peer_QA_corrections": [
+    {
+      "issue": "三分之四误写",
+      "fixed": "四分之三",
+      "basis": "full source 2292–2296"
+    },
+    {
+      "issue": "R12还本安排来源未覆盖",
+      "fixed": "added full source1235–1252"
+    },
+    {
+      "issue": "R24定期/双生命触发来源未覆盖",
+      "fixed": "added full source3284–3338 &3454–3479"
+    }
+  ],
+  "independent_QA_file": "work/book-experts-v5/value_team/P29-QA.json",
+  "independent_QA_sha256": "a9650ae6cfd11547240ac47dededb0fa45542282f3e4806afe43488c05181a28",
+  "post_QA_metadata_note": "QA中的阅读审计hash是评审时快照；此后审计加入通过状态及QA引用，hash预期改变。避免审计与QA互相hash循环；本次只刷新状态不改原文、章稿、规则。"
+}

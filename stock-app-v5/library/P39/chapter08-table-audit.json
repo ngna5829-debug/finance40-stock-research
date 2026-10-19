@@ -1,0 +1,42 @@
+{
+  "rows_millions": {
+    "1892": {
+      "balances": 397,
+      "paid_up": 44,
+      "reserve": 28,
+      "uncalled": 150,
+      "cash_bank_call": 94,
+      "investments": 95,
+      "discount_advances": 283,
+      "banks": 102,
+      "offices": 2326,
+      "cash_ratio": 23.67758186397985,
+      "investment_ratio": 23.929471032745592,
+      "advances_ratio": 71.28463476070529,
+      "sum_assets_to_balances": 118.89168765743074
+    },
+    "1902": {
+      "balances": 600,
+      "paid_up": 48,
+      "reserve": 34,
+      "uncalled": 163,
+      "cash_bank_call": 165,
+      "investments": 131,
+      "discount_advances": 387,
+      "banks": 68,
+      "offices": 4146,
+      "cash_ratio": 27.5,
+      "investment_ratio": 21.833333333333332,
+      "advances_ratio": 64.5,
+      "sum_assets_to_balances": 113.83333333333333
+    }
+  },
+  "source_gaps": [
+    "正文office数据1891.12.31为2336，表1892.12为2326，日期和数量均不同。",
+    "正文第二office数据为1901.12.31有4146，表标1902.12有4146。",
+    "正文1902 paid_up约47.5m，表四舍五入48m；总capital+reserve正文81.5m，表82m，不能混算为同一精确口径。",
+    "1892/1902表余额397/600m，正文近400/逾600m；增长50%属近似。",
+    "现金一栏合并cash+bankbalances+callmoney，不是纯金属现金。"
+  ],
+  "complete_consolidated_balance_sheets": false
+}

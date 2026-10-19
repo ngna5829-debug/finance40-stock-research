@@ -1,0 +1,775 @@
+{
+  "book_id": "P31",
+  "status": "qualified_semantic_and_final_content_confirmation_complete_metadata_close_pending",
+  "whole_book_original_semantic_QA_completed": true,
+  "qualified_content_pass": true,
+  "canonical_modified_by_reviewer": false,
+  "canonical_hashes": {
+    "专家定义.json": "e9ee937652cbacb5709cd46bf053dc2e807809d7822500a48c4362419e59aa9a",
+    "章节与阅读审计.json": "3b20101fa87e27f49bcbba850e4f80a0f4faaf73e34f6e5eac3f538a25fc1a57",
+    "独立复核.json": "4080733b970aa114518821cf6a3d34eed589fa0a462adfa352178adda2e4eae4",
+    "validation.json": "d47feef8e0d8432528086b6364535d05440f0b29c8c548083b1cc494c770be57",
+    "专家说明.md": "84766ecd7a136d1cc5e1bfa61edea6ab6d34079c9200fdff2672f7a713450313",
+    "全书综合与附录.md": "e943518469c3538ff78eae773193ff686471b36e3e51d8563c5601369de21a4c",
+    "章节深读.md": "527a5c6d8007621dbd3947f55e63ed44e8d6e721b0c35841a663802efa2a5839"
+  },
+  "full_11chapter_body_counts": [
+    2909,
+    2918,
+    2728,
+    2644,
+    2721,
+    2560,
+    2707,
+    2671,
+    3147,
+    2724,
+    2802
+  ],
+  "total_body_han": 30531,
+  "minimum": 2560,
+  "source_files_unchanged": {
+    "source/scan-text.txt": "5360ef4c53e26b53f79caae8ec3c58b104f09b247435ab5a963a44daf173df1b",
+    "source/post-chapter-matter.txt": "8a0a9a6aff652794b9f876cd31427dc7a795897415f9641397cdc2fb78562c3b",
+    "source/original.txt": "ca3df72fe6d045657347e3b5823b2ee3efcdbe37bde65de8f090a61dea56efec",
+    "source/pg-license.txt": "bfbb27a6509a417e55553f3c9396152d054159d2e65324b76c317212aefd03e6",
+    "source/IA-metadata-honestmoney00fond.json": "c64c02a0c07f36add7271b5532578d9758fae2c686953dfe050c4bbb0b53f2b8",
+    "source/original-1895.pdf": "367e9b1ae72c4c6ac4c6cf865460c110fc502b29aa837b55d72186d637904584",
+    "source/i222.jpg": "a77fb31236c944b910e3518dcc9420e5a6e93c419c94c78f1078ba29526d10aa",
+    "source/i223.jpg": "170be70739b43c3a9031af6c20cb74b322596dad0337a8b10d910d4cad69397e",
+    "source/i002.jpg": "078d880acd09aa5d85261bfa239e76ce225b550fd6a66ec914ce845fcc1722f9",
+    "source/scan-pages.json": "4daed29c3db51982fd6744e80870cf0c5231dfa10ae259d43354d3efc25b154a",
+    "source/front-matter.txt": "54a686ef3e5ec8c773556492ed1864ee78346e4664ab472d57ff0355028a950a",
+    "source/original.html": "1095e1e6d2f653e7b784136a49b7215d370f99f1ca2eaa5f043225fec558a3d3",
+    "source/chapters/ch08.txt": "e8c07158f75e79be87cf774824e9d3acc714f861f81de393424be6d168d7e7e3",
+    "source/chapters/ch09.txt": "997a3853a3d87b5daed98f128582e788b03e9f498b095265947bb8a7ea6f1f18",
+    "source/chapters/ch02.txt": "d52026e154753affdb9619d3445ac2a1663c7a5f9506829b5ae3f82d073db83a",
+    "source/chapters/ch03.txt": "862887e84963c8b5988eaff0ee695248256f46cbe145fba5c9c084a220a43df1",
+    "source/chapters/ch01.txt": "196a435885c3b499ecd60b3f114f21907eb310689697e5955828f133cf3dc5f8",
+    "source/chapters/ch04.txt": "35352ebf0cf10b1e2f1e65238cbe02d0c2090bd39aa17f1cbf673a3ccf06f18c",
+    "source/chapters/ch10.txt": "9a1d94b715533bf411f00b521803b5c9ba754ab65faa680e8f3978cd662b08aa",
+    "source/chapters/ch11.txt": "29097c64fa0eb8436433af60df75690f67eef1755ef7eb0778c54415ceba90c5",
+    "source/chapters/ch05.txt": "cb1c62d8b01d4eb0c123d0c6ec17ee5e415ef11272c2f041938124c5bca1beee",
+    "source/chapters/ch07.txt": "fef2988d0b38a72f78246bdc53e665a295c1c4a4dd496ceb940af108e64c6b55",
+    "source/chapters/ch06.txt": "7b751aff5b3f4bc9211e664ac91eef89822a4843abc2fc68a12ffd5a1a9bc223"
+  },
+  "excluded_failed_partial_downloads_not_reading_sources": [
+    "honestmoney00fond_scandata.xml.upstream-error.html",
+    "honestmoney00fond_djvu.txt.upstream-error.html",
+    "honestmoney00fond.pdf.part"
+  ],
+  "precise_source_contexts_validated": [
+    {
+      "rule": "P31-R01",
+      "paragraph": "P31-C01-P009",
+      "hash": "6a777060eccf35a8ff490b22b87741c94425a79167b1ecbfd74bc486f492cdaa",
+      "matched": true
+    },
+    {
+      "rule": "P31-R01",
+      "paragraph": "P31-C01-P010",
+      "hash": "fa0413bd5281acb2cb44206225c15086c27a55830f094beda63f0b86402b97ce",
+      "matched": true
+    },
+    {
+      "rule": "P31-R02",
+      "paragraph": "P31-C01-P015",
+      "hash": "313127989d7a5861529b2d13c6359a02e810f61424c61ed9816296132a6bd1d2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R02",
+      "paragraph": "P31-C01-P036",
+      "hash": "0f4d686ca18462176cdead33f0379cfd90aab53dcce917ee46d8ffb1ac6836af",
+      "matched": true
+    },
+    {
+      "rule": "P31-R03",
+      "paragraph": "P31-C01-P026",
+      "hash": "e94091a0adf4386716268518d4d99a579254e16d57365323ca95d4ffa7df198d",
+      "matched": true
+    },
+    {
+      "rule": "P31-R04",
+      "paragraph": "P31-C01-P031",
+      "hash": "fb960d1f2874d6849edb145ec24086682f9818ed34bd8dbcf4a41dcff899788f",
+      "matched": true
+    },
+    {
+      "rule": "P31-R04",
+      "paragraph": "P31-C01-P033",
+      "hash": "95e47b1c2e54a327f5f6a7b8f4707dc00ad5012e9c2105d76e5532f4500064e1",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P041",
+      "hash": "f79b60ebc22aa81dbfab23fa9f63689a81407b2199ab751ed81417b63b46b638",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P048",
+      "hash": "06ca9d66e0d8125ee72978ac7910080db51a367f7df4d121b233d80b3447a35a",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P042",
+      "hash": "4ecd8001dba900f04decf900939adeaec9394cab6db468f4b746c8a237405ffd",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P043",
+      "hash": "2a5aff8c8212ff3536b2603a83a7c1a13988600dc9dfb1506695bc6aabe0f855",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P044",
+      "hash": "b46f304386f3c59706ade08ebf4d1515b56a562fa835729e724f0d5620f661a8",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P045",
+      "hash": "358086a0b74569e883db7c032773c8687536aa520a7d79237104ff7571991888",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P046",
+      "hash": "5f14308f56da75fe6be2e8d02da131d223956e21e1a2314d756af762e15a1538",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P047",
+      "hash": "59f9b81df3067633133ad38e13d7f49c2d742aa8e703aef154e8fecae3328de1",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P049",
+      "hash": "782df03dd246089e9d97ac9c372a199b1d2b6fa7ca7b1e2009d9b7b265dad7d3",
+      "matched": true
+    },
+    {
+      "rule": "P31-R05",
+      "paragraph": "P31-C01-P017",
+      "hash": "0257c5608be8e7be2803daa0c3dc72a1ac30ea528a003f8fec0d2f7c8b43f303",
+      "matched": true
+    },
+    {
+      "rule": "P31-R06",
+      "paragraph": "P31-C02-P004",
+      "hash": "f6e7e029eb7ad0cbaf7f02a515866e7e7165bea4b9a0fe14214d96c3b4cd15bf",
+      "matched": true
+    },
+    {
+      "rule": "P31-R06",
+      "paragraph": "P31-C02-P006",
+      "hash": "f3844d4d3f954b81c4cae0f3a837decccea0bb5b370f2258bc0dbbbd7c061ed3",
+      "matched": true
+    },
+    {
+      "rule": "P31-R07",
+      "paragraph": "P31-C02-P020",
+      "hash": "7d7ef1ef88b919d9e4e3eb8d143b3d7e64bca376bd6779f0d60d3b9107f91190",
+      "matched": true
+    },
+    {
+      "rule": "P31-R07",
+      "paragraph": "P31-C02-P059",
+      "hash": "b19fc5f42d6dd8869931361473f6744bcdf8188d81c674c431ad5f10ea1a3268",
+      "matched": true
+    },
+    {
+      "rule": "P31-R07",
+      "paragraph": "P31-C02-P057",
+      "hash": "c6c089ba00d8ada3ce01450862cd0e36c876a2d8a8f21e8d8099194227057d7b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R08",
+      "paragraph": "P31-C02-P032",
+      "hash": "4b7d06bbfd1d16181596215e362d690a4e54ddf04845ddaab3771a7616ee7501",
+      "matched": true
+    },
+    {
+      "rule": "P31-R08",
+      "paragraph": "P31-C02-P050",
+      "hash": "83f1beb12f34050fa2961a92ddcaadc081ce7f0d51631627d9171326dcd8e14f",
+      "matched": true
+    },
+    {
+      "rule": "P31-R09",
+      "paragraph": "P31-C02-P052",
+      "hash": "e4ba291e7d97aac10b6eeff3c28ff48e0e07611daac9d3bbb3d18ce69b42962b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R09",
+      "paragraph": "P31-C02-P053",
+      "hash": "d492fe0cf2021741d42cd8e2b8d67a3688ee1c066a94d07878d9b3c698e247b3",
+      "matched": true
+    },
+    {
+      "rule": "P31-R10",
+      "paragraph": "P31-C02-P057",
+      "hash": "c6c089ba00d8ada3ce01450862cd0e36c876a2d8a8f21e8d8099194227057d7b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R11",
+      "paragraph": "P31-C03-P004",
+      "hash": "d019a328bf3d57b937f66932fa8c0caa064c7aa707c76bb6e4bcee9392f2b7c4",
+      "matched": true
+    },
+    {
+      "rule": "P31-R12",
+      "paragraph": "P31-C03-P022",
+      "hash": "03142218d6c76c8f77ce86ca81ad8966a0d6445f0e9f80b1a0a4c8371d550b1c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R12",
+      "paragraph": "P31-C03-P025",
+      "hash": "a7f70feb0f4449499cf8483f7938d018ccd7cb6c11f32e14c66d0331ffd87a45",
+      "matched": true
+    },
+    {
+      "rule": "P31-R13",
+      "paragraph": "P31-C03-P029",
+      "hash": "1791676330cf7ca0039a46bb08aeb554ca6021a9315989806d87e3a66fe4b329",
+      "matched": true
+    },
+    {
+      "rule": "P31-R13",
+      "paragraph": "P31-C03-P030",
+      "hash": "519231cf4c863e8f526fc09d8aea619b74f3412f66f1c21e6c71e1f4d454da3e",
+      "matched": true
+    },
+    {
+      "rule": "P31-R13",
+      "paragraph": "P31-C03-P026",
+      "hash": "92302527181b8116aa5f9562f9a9038640583cc1029f2e3e9d7e0b0ee91c6285",
+      "matched": true
+    },
+    {
+      "rule": "P31-R13",
+      "paragraph": "P31-C03-P031",
+      "hash": "1a40ca3b38d22789ac0193b95abe33a5edc3847e480ad4770adf0f9433c52a22",
+      "matched": true
+    },
+    {
+      "rule": "P31-R14",
+      "paragraph": "P31-C03-P040",
+      "hash": "26ed32f3fc748c8fb42587ea19aa722909341b268950887b0c3fc67976e0dae5",
+      "matched": true
+    },
+    {
+      "rule": "P31-R14",
+      "paragraph": "P31-C03-P041",
+      "hash": "bfb66502cd04c2069ffcaad2a38ff9a2522ae01e4359ef9f5efe2633205b0260",
+      "matched": true
+    },
+    {
+      "rule": "P31-R15",
+      "paragraph": "P31-C03-P053",
+      "hash": "2e8e4426af6bdabaea867ea76d74ccaf21be4517819498b5266f8d209452a067",
+      "matched": true
+    },
+    {
+      "rule": "P31-R15",
+      "paragraph": "P31-C03-P056",
+      "hash": "4e10eaf8580b161bfb2e4742416ae09bac2a173dd321259f30d20ff85474c96b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P011",
+      "hash": "d22ded430328317a4d30f6aea77f59a846cddd0a3bd9683001ff2153aba7a011",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P017",
+      "hash": "2caf91ee2b745c7a23c4527f303b9e0162ae6f7ae2f5e400220fb0a94a16d02d",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P020",
+      "hash": "0b819e6ec4657653e501d85ee0c314a2b53f6a46f9ff0fec6baba6acfedc78c2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P012",
+      "hash": "8cd33b788ff8f752d71fb6a70e32c1f1651bfbb9b7af8a21cae28d8cebc9b4f2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P013",
+      "hash": "316beb3c5d3d641fdaf1708d488f8a058ed06ddac2c5548daa9b178a8cff084b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R16",
+      "paragraph": "P31-C04-P014",
+      "hash": "307f5772405ff27b4283b84015a33c8da544487e03ffa47e04be76b9f0599767",
+      "matched": true
+    },
+    {
+      "rule": "P31-R17",
+      "paragraph": "P31-C04-P024",
+      "hash": "e8a89f6843b792ee3f14120a78f7d5f25c31eb53af740a1aa8efceb890c28c03",
+      "matched": true
+    },
+    {
+      "rule": "P31-R18",
+      "paragraph": "P31-C04-P031",
+      "hash": "e3c12c7b523e486b1c0b386d214288979e38cd1bc6a294bd254ec94ec1f94286",
+      "matched": true
+    },
+    {
+      "rule": "P31-R18",
+      "paragraph": "P31-C04-P035",
+      "hash": "44154601207431c30f6134636df0b9adb678d25b7cd119a40a683f76f564ebe7",
+      "matched": true
+    },
+    {
+      "rule": "P31-R19",
+      "paragraph": "P31-C04-P025",
+      "hash": "9961d6e009db94143185fae28cabc8c6902f4318f0b2b5b67aa1c5b9f354e976",
+      "matched": true
+    },
+    {
+      "rule": "P31-R19",
+      "paragraph": "P31-C04-P026",
+      "hash": "ee030ae4d3c0c09674433e75c16bc72bb2b1d20becb90115c85b95eed02673cd",
+      "matched": true
+    },
+    {
+      "rule": "P31-R19",
+      "paragraph": "P31-C04-P028",
+      "hash": "8293566f0ef7ce7ba03c85b083d14f5ae054e4184553b4d36d909bec3929d0df",
+      "matched": true
+    },
+    {
+      "rule": "P31-R20",
+      "paragraph": "P31-C05-P006",
+      "hash": "af6810041dd6cdba6e12989be576b13aa3684f2caed8da8353842b41c08373d4",
+      "matched": true
+    },
+    {
+      "rule": "P31-R20",
+      "paragraph": "P31-C05-P007",
+      "hash": "9fda230bb6b7cd4fe5ce2805ed452385f3aeb29c0e0e094fea0680055cb60e03",
+      "matched": true
+    },
+    {
+      "rule": "P31-R20",
+      "paragraph": "P31-C05-P008",
+      "hash": "a3b6254565d0e1997fbd917a092a639f619521e02ee25919a779dfd85ab7f0c7",
+      "matched": true
+    },
+    {
+      "rule": "P31-R21",
+      "paragraph": "P31-C05-P021",
+      "hash": "f932163618efcd821725bbba7a1b0a7e4f495afa040c662897095d8e8c24d589",
+      "matched": true
+    },
+    {
+      "rule": "P31-R21",
+      "paragraph": "P31-C05-P019",
+      "hash": "a71eb3a6565bbc63272411dee4c6be4c29f764d6eabc42b2b1d93bd7a56ef779",
+      "matched": true
+    },
+    {
+      "rule": "P31-R21",
+      "paragraph": "P31-C05-P020",
+      "hash": "7ec78416d8db1df30e1c58acd6a35dffd33c75130d38c6c2f84944fef35db8df",
+      "matched": true
+    },
+    {
+      "rule": "P31-R21",
+      "paragraph": "P31-C11-P013",
+      "hash": "86977520f85f8c9e16c81dba4aefb21d21dc97aab29890acf3d7c64baac92fa9",
+      "matched": true
+    },
+    {
+      "rule": "P31-R22",
+      "paragraph": "P31-C05-P029",
+      "hash": "5f52d73d8289ba910418cdfeb625d57d6b4e8034e7049ed4d87174917f29c242",
+      "matched": true
+    },
+    {
+      "rule": "P31-R22",
+      "paragraph": "P31-C05-P028",
+      "hash": "1d6dd37fbca7a571728a60c3a5c6ce1585aa34c25fcbee0c7296218ebd898e65",
+      "matched": true
+    },
+    {
+      "rule": "P31-R23",
+      "paragraph": "P31-C06-P008",
+      "hash": "0c21cfe23adc1755e94a576ccbe47e18aff31a7915ed3b516fb1127898bdd873",
+      "matched": true
+    },
+    {
+      "rule": "P31-R24",
+      "paragraph": "P31-C06-P009",
+      "hash": "14a11156a4a2db5307f3a76f81721ed95632d0cb6d8ed91b2c44285854dc438b",
+      "matched": true
+    },
+    {
+      "rule": "P31-R24",
+      "paragraph": "P31-C06-P011",
+      "hash": "ad48f0c7c470f7ef7dc04e485e1679ab2c5ec7ae9ec4511d5af8b2661a622dec",
+      "matched": true
+    },
+    {
+      "rule": "P31-R25",
+      "paragraph": "P31-C06-P023",
+      "hash": "c1ced7c4211e235c4af138ecef64141341e2c7116ad3537bd0fd636080d1fbbd",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P007",
+      "hash": "1fa865c410df5613aa8a58858cbf57acbc10078f54372c77bac3bbf2d85697fa",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P009",
+      "hash": "ed3138da3a7e9e2b6e68a2e46cb45a0ce74780b7ce588e3397169d97c296a3cd",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P012",
+      "hash": "3cb9f1b2dd7de4fe35c1e2153ba811921a9f89dc01e5271d2ccf9cbef9aa164f",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P008",
+      "hash": "0f05ad7086f6307427c1759cfa19814df681a2e33189e267a56117411ea16ad4",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P010",
+      "hash": "d5203f0eea15b4a012adc0c58ff4e9b3ebb9957e8a96540780782e2bffd0e2dc",
+      "matched": true
+    },
+    {
+      "rule": "P31-R26",
+      "paragraph": "P31-C07-P011",
+      "hash": "01fa9d47454c578c13f837875da46ee4d6378c7114c04efcc9efc01754920037",
+      "matched": true
+    },
+    {
+      "rule": "P31-R27",
+      "paragraph": "P31-C07-P021",
+      "hash": "0514579a0d81a6134ad3e2588fefde69d5251a38c8ad80523a2f672d79e3fb45",
+      "matched": true
+    },
+    {
+      "rule": "P31-R27",
+      "paragraph": "P31-C07-P017",
+      "hash": "860203132b9996ea28625e3ddc639ed076c60261b9a409af502ec18f4155ca4e",
+      "matched": true
+    },
+    {
+      "rule": "P31-R27",
+      "paragraph": "P31-C07-P018",
+      "hash": "4b33697f1498a7c4eb74a7f15aac710002b005ff1b1d2b214fb9e3d3ee06f73e",
+      "matched": true
+    },
+    {
+      "rule": "P31-R28",
+      "paragraph": "P31-C07-P022",
+      "hash": "6fc9e420fd0fe96bb22299e7240daa42ab02f44d11992b30363831f3f82dabf4",
+      "matched": true
+    },
+    {
+      "rule": "P31-R29",
+      "paragraph": "P31-C08-P010",
+      "hash": "0525dc18a44d70e72026366f3dd2f8c58b79fc4a60f302505b9e7d647066cf82",
+      "matched": true
+    },
+    {
+      "rule": "P31-R29",
+      "paragraph": "P31-C08-P013",
+      "hash": "18643592f91d7d51d721e0b2f36d7071d0f17d29241bd336920e57c17a508e9c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R29",
+      "paragraph": "P31-C08-P012",
+      "hash": "aa655549f7123f4fdb2db072b7d41ef5b5b32eed35d309339902abe2c90d6010",
+      "matched": true
+    },
+    {
+      "rule": "P31-R30",
+      "paragraph": "P31-C08-P023",
+      "hash": "8ea3daa6eed3989f3afb6f8dbdf543a88994f8cab15f06d455dc4a884345fb66",
+      "matched": true
+    },
+    {
+      "rule": "P31-R30",
+      "paragraph": "P31-C08-P024",
+      "hash": "5b2179168f10e91dd8ed9d13e6d4950fa171aa0326a9a290c2122aaf0169fad1",
+      "matched": true
+    },
+    {
+      "rule": "P31-R31",
+      "paragraph": "P31-C08-P028",
+      "hash": "d076946eb88edb7b69c606caffb9f6c7eec61400311a764aee47624af5c49fc7",
+      "matched": true
+    },
+    {
+      "rule": "P31-R31",
+      "paragraph": "P31-C08-P026",
+      "hash": "e95b29e8bbe079516b1bc6e444e95a66ed17e87cf0ca278bca4f49a40b66ba76",
+      "matched": true
+    },
+    {
+      "rule": "P31-R31",
+      "paragraph": "P31-C08-P027",
+      "hash": "93f5246c2b9b4331d458123bd8976d0f4ad982e2aee55e4f8cc3888c06d8e346",
+      "matched": true
+    },
+    {
+      "rule": "P31-R31",
+      "paragraph": "P31-C10-P014",
+      "hash": "0844fb0d0a95aa4b8cf8860d41aa02edcd3843c8d5b2ff5ed76a4127d325fa50",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P018",
+      "hash": "542210f0daf8932000c0d53ca7d002a70204d809e16e7d8dab57e624e5bfd03e",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P020",
+      "hash": "e9cc832681e4be8a96e531ff1f6b635ea324f28799e180edf4c88603c3efac0a",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P024",
+      "hash": "151ad6a4d0cd2b1294f2036d7f185df29e58bc80a67948f9460850e085473710",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P015",
+      "hash": "4ead64eb6ba51cb9dbd4bce04aea74bb8b879ad22962eddc931a19ea3a5d920c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P016",
+      "hash": "5a35a78cff0dfabfce8d3325044cb8c57108235a2ca7abc3eb94bbe8c9e0b89c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R32",
+      "paragraph": "P31-C09-P023",
+      "hash": "178a6a8e04f3c9444f8199006a41ce036f1f8e0d1f71c99114d5a5209d6bd665",
+      "matched": true
+    },
+    {
+      "rule": "P31-R33",
+      "paragraph": "P31-C09-P026",
+      "hash": "e04f93472d4265da0b21c88eed569cd3282d483cbbfc2ce643d7226338c1f656",
+      "matched": true
+    },
+    {
+      "rule": "P31-R33",
+      "paragraph": "P31-C09-P025",
+      "hash": "86fa30369a2284b3746c0d7ff7b217806b11d3ddee13d37e0221ac7d11a74472",
+      "matched": true
+    },
+    {
+      "rule": "P31-R33",
+      "paragraph": "P31-C09-P027",
+      "hash": "83ddc2cda54d621b702e2cdc1059550be0d360bec702c72646fd3adef821e3e0",
+      "matched": true
+    },
+    {
+      "rule": "P31-R33",
+      "paragraph": "P31-C11-P015",
+      "hash": "4a7d6cddeaf00667b1f397addeb546cd47627573f7d26761884c022ce29f8d7c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R34",
+      "paragraph": "P31-C09-P031",
+      "hash": "61450083aff6ef3b795c3b265210e1ab844541be5bdaf50cfa48bee47526c479",
+      "matched": true
+    },
+    {
+      "rule": "P31-R34",
+      "paragraph": "P31-C09-P032",
+      "hash": "a5a13e04eb09ef2d4034f75e133ff7f0f9bf1e62a95ac231a4d75313cc1407a2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R35",
+      "paragraph": "P31-C09-P032",
+      "hash": "a5a13e04eb09ef2d4034f75e133ff7f0f9bf1e62a95ac231a4d75313cc1407a2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R35",
+      "paragraph": "P31-C09-P038",
+      "hash": "11942286a0f89e407f3627d8837f1ba3683fae0548889bbc41bbe75a8554f438",
+      "matched": true
+    },
+    {
+      "rule": "P31-R35",
+      "paragraph": "P31-C09-P034",
+      "hash": "1b33c17f6743dccaf8378d32512bee5f00b853647a83dd02e97cf0b4e6499baa",
+      "matched": true
+    },
+    {
+      "rule": "P31-R35",
+      "paragraph": "P31-C09-P035",
+      "hash": "d88834deb3c4ab1a6ea55dbbe686efa43c164c52751549a844c00544d4b79161",
+      "matched": true
+    },
+    {
+      "rule": "P31-R36",
+      "paragraph": "P31-C09-P040",
+      "hash": "d6eafa8796f2d5d1e12f07acb25c8b8ef2a60717b5d23f588a38077825546fed",
+      "matched": true
+    },
+    {
+      "rule": "P31-R36",
+      "paragraph": "P31-C09-P049",
+      "hash": "8688054f04da06b6ae6e0a2a8ceb0cab1e9b1f2c406ce4b02538e6f5e8add3b2",
+      "matched": true
+    },
+    {
+      "rule": "P31-R36",
+      "paragraph": "P31-C09-P042",
+      "hash": "bee3bfe1635d93cd222470b1ab1b39369e05cfe983f9e1b08fba3f455b90372e",
+      "matched": true
+    },
+    {
+      "rule": "P31-R37",
+      "paragraph": "P31-C10-P008",
+      "hash": "1a690ddf6498ac2a81fe183f41107d5c991281c784aac937a2834ba0bf018bf7",
+      "matched": true
+    },
+    {
+      "rule": "P31-R37",
+      "paragraph": "P31-C10-P009",
+      "hash": "62454875318a1c129fd2885057bb2f3ac10aca130a9d6e6ec68a98173c2555de",
+      "matched": true
+    },
+    {
+      "rule": "P31-R38",
+      "paragraph": "P31-C10-P027",
+      "hash": "e876031bdae9da0022a7dd33858b2ccf06ffa815fc10c9a135b82151401fadbf",
+      "matched": true
+    },
+    {
+      "rule": "P31-R38",
+      "paragraph": "P31-C10-P024",
+      "hash": "a22063b023772519ed354f570d18dd71762d5ae527e17200bf4504efb8f5e44f",
+      "matched": true
+    },
+    {
+      "rule": "P31-R39",
+      "paragraph": "P31-C11-P011",
+      "hash": "9f44c1bafc7f1da13a44cf62fc0378b1b40826b90c2a7f76699bc86b4b2f55a6",
+      "matched": true
+    },
+    {
+      "rule": "P31-R40",
+      "paragraph": "P31-C11-P013",
+      "hash": "86977520f85f8c9e16c81dba4aefb21d21dc97aab29890acf3d7c64baac92fa9",
+      "matched": true
+    },
+    {
+      "rule": "P31-R40",
+      "paragraph": "P31-C11-P015",
+      "hash": "4a7d6cddeaf00667b1f397addeb546cd47627573f7d26761884c022ce29f8d7c",
+      "matched": true
+    },
+    {
+      "rule": "P31-R40",
+      "paragraph": "P31-C05-P019",
+      "hash": "a71eb3a6565bbc63272411dee4c6be4c29f764d6eabc42b2b1d93bd7a56ef779",
+      "matched": true
+    }
+  ],
+  "all40_rules_candidate_semantic_fields_confirmed": true,
+  "entire11chapters_in_assembled_dossier": true,
+  "actual_source_image_and_numeric_review_scope": "See original immutable P31-independent-QA and P31-QA-progress; no claim of all scan glyphs or statutes verified",
+  "change_diff_confirmed": {
+    "ch02.md": [
+      "--- \n",
+      "+++ \n",
+      "@@ -44,4 +44,4 @@\n",
+      " 本章给知识角色的任务，是区分流通量、库存、周转、信用与交易需求，明确合同期限和不同人的现金流，并核所谓平均稳定的篮子。若只有钱量增长或一项消费价格，不能据此识别全部需求与信用渠道，也不能给美股净资金方向。跨章质疑会追问，第九章的新制度如何回收发行、应对滞后，及第十章怎样回答这里留下的控制难题；目前不预先把未读答案填进本章，也不制造固定胜率。",
+      " <!-- 正文结束 -->",
+      " ",
+      "-阅读覆盖：第二章五原小节和全部引文顺序读完。95%/5%/98.7%保留为作者引的1881存入形式统计，非现金准备或全支付工作比例；原英文universally暂不擅自改字。后续章节未完成，不称整本已读。",
+      "+阅读覆盖：第二章五原小节和全部引文顺序读完。95%/5%/98.7%保留为作者引的1881存入形式统计，非现金准备或全支付工作比例；原英文universally暂不擅自改字。此为第二章写作时的阶段记录；现整本语义覆盖另以全书审计及独立复核记录为准。"
+    ],
+    "ch10.md": [
+      "--- \n",
+      "+++ \n",
+      "@@ -9,7 +9,7 @@\n",
+      " ",
+      " 第三项最强：作者声称制度会防止恐慌。他把恐慌描绘为不理性害怕钱不够用，信用不能正常工作，大家既要应急也怕以后拿不到而抢先要钱，囤积又提高钱值、压低价格。政府可随时供满足稳定价格的钱，将在事先解除害怕；即使害怕起，首个表现是价跌，系统随即扩量。作者明确意识到听来夸张，却仍觉得根据充分，不能仅把它淡化成一般可能有帮助。",
+      " ",
+      "-该保证实际上有几个原文条件：银行相信自己有偿付能力，能够随时获得钱，公众相信付款要求会被满足；政府目标也不是无条件救任何资产，而是维持价格。原章没有证明所有恐慌第一信号必是加权篮子先跌，也没有即时处理速度和安全担保数量模型。独立挑战需要分别问，银行资产真的足偿还是只被认为足偿，索取发生时借款流程是否来得及，而非把制度承诺本身当成事实。",
+      "+该保证实际上有几个原文条件：银行被认为有偿付能力，能够随时获得钱，公众相信付款要求会被满足；政府目标也不是无条件救任何资产，而是维持价格。原章没有证明所有恐慌第一信号必是加权篮子先跌，也没有即时处理速度和安全担保数量模型。独立挑战需要分别问，银行资产真的足偿还是只被认为足偿，索取发生时借款流程是否来得及，而非把制度承诺本身当成事实。",
+      " ",
+      " 第四项又收窄范围：任何完美钱制都不能消除过度投机、某行业发展过头，浪费劳动不能追回，繁荣与逆境及信心变化可能仍会交替。他认为可以防繁荣变大热潮、防随后下滑变极端恐慌。第三项的防恐慌与这一项的仍会损失，应按流动性机制和实际产业损失区分；不能让专家误认为书承诺每家公司不倒闭或所有证券不会跌。",
+      " "
+    ],
+    "ch11.md": [
+      "--- \n",
+      "+++ \n",
+      "@@ -13,7 +13,7 @@\n",
+      " ",
+      " 他对立法能力也设定边界：任何国家的货币法，都不能任意改变金银及其他供人使用的商品之间的相对价值，除非立法改变其相对供求。立法真正可有益地做的，是提供稳定价值标准，并使交换媒介始终符合它，如同提供长度和重量标准。这个表述应与第一章的相对交换概念合读。它不意味着政策无经济影响，作者自己也允许通过供求产生影响；它更不授权只凭法令把所有实物供给、需求或质量变动抹去。",
+      " ",
+      "-不过，长度或重量的制度标准与实际商品篮子的价格统计并不完全同构。这是本次独立质疑。前者的定义和校准不能自动证明后者在品种更换、品质变化、消费权重改变时仍衡量同一福利对象。第九章承认篮子可调整，第十章认为变动不会扰动钱值；结论再次强调稳定，却没有补出完整的接续计算和监督细则。专家在这里必须保留作者的确信，同时索取篮子、权重和变更方法，缺项则不作精确购买力承诺。",
+      "+不过，长度或重量的制度标准与实际商品篮子的价格统计并不完全同构。这是本次独立质疑。前者的定义和校准不能自动证明后者在品种更换、品质变化、消费权重改变时仍衡量同一福利对象。第十章承认未来可能调整篮子，并认为变动不会扰动钱值；结论再次强调稳定，却没有补出完整的接续计算和监督细则。专家在这里必须保留作者的确信，同时索取篮子、权重和变更方法，缺项则不作精确购买力承诺。",
+      " ",
+      " 作者认为，人们可以真诚地不同意取得诚实货币的手段，但若完全理解其效果，便不应再怀疑它对所有阶层都有益。他随后依次论劳动者、雇主、铁路股东、商人和贷方。这种叙述不是一个经过统计抽样的收入分配研究，而是把前面定义与机制推导落实到社会群体。应逐一核查每类人的权益与条件，不能把共同利益的结论当成每个个人、每一时点必然获利的经验定律。",
+      " ",
+      "@@ -31,7 +31,7 @@\n",
+      " ",
+      " 对贷方，结论明确修正了一个容易误读第五章的说法。钱升值时，贷方的固定合同确可多取得产品份额，但作者认为这只是狭窄观察。萧条中的资本借贷竞争加剧，经营者对资金的需求减少，利率下降，抵押安全也变差，资本和劳动可能一同闲置。总产出缩小时，较大的比例仍可能少于繁荣时较小比例的实际数量。作者没有给出可通用的百分比，因此这是分配对象的辨析与机制推论，而不是计算出的当前贷方损益。",
+      " ",
+      "-他还具体描述抵押处置：贷方被迫接收借款人的财产，却不想管理，财产在不擅经营者手里可能更不值钱；原主人失去自己能用的资产，贷方取得自己无用的资产，双方都未受益。故不能把第五章区分主动营业风险的文字写成贷款永远没有违约或回收风险。当前知识规则必须将购买力、利息、违约、回收费用和接管用途分开，缺这些输入时，连总回报方向也要保留，而不是用钱升值一项替代全部结果。",
+      "+他还具体描述抵押处置：贷方被迫接收借款人的财产，却不想管理，财产在贷方手里通常比在原主手里更不值钱；原主人失去自己能用的资产，贷方取得自己无用的资产，双方都未受益。故不能把第五章区分主动营业风险的文字写成贷款永远没有违约或回收风险。当前知识规则必须将购买力、利息、违约、回收费用和接管用途分开，缺这些输入时，连总回报方向也要保留，而不是用钱升值一项替代全部结果。",
+      " ",
+      " 作者承认少数人在普遍不幸中获利，并用很强的道德词批评他们，但认为人数不足以影响制度选择。他因此反对把劳动和资本、借款人与贷方、银行与公众煽动成敌对阶层。其最后依据是开明的自利而非期待人突然利他：各方仍会争取用最少劳动取得最多物品，但共同诚实的钱制能保护生产利益，不应毁掉产出财富的条件。不能把其道德修辞改写成对任何当代账户身份或交易意图的事实认定。",
+      " "
+    ]
+  },
+  "pending_metadata_close": [
+    "reading_status still contains qualified_independent_QA_pending; update it to current qualified result",
+    "pending_final_peer_hash_confirmation true only until parent metadata close"
+  ],
+  "full_scan_glyphs_individually_proofread": false,
+  "current_market_calls": 0,
+  "backtests_executed": 0,
+  "created_utc": "2026-10-13T13:53:52.032058+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "chapter_ordinal": 6,
+  "original_numbers_preserved": true,
+  "visible_arithmetic_only_not_original_ledger_verification": true,
+  "first_cost": 280000.0,
+  "first_ending": 320000,
+  "first_gain": 40000,
+  "first_stated_percent": 0.2,
+  "gain_div_initial": 0.2,
+  "gain_div_landed_cost": 0.14285714285714285,
+  "return_landed": 352000.0,
+  "return_sold": 422400.0,
+  "second_gain": 70400,
+  "two_gains": 110400,
+  "border_difference": 152000,
+  "border_difference_components": {
+    "first_added_cost": 80000,
+    "first_gain": 40000,
+    "return_added_cost": 32000
+  },
+  "uncertainties": [
+    "第一20%以初始200k非总成本280k为分母，原账未得",
+    "资本/保险/海关估价/服务/国家个人口径不全",
+    "进口赤字融资与未来义务不见，赠与不同借款",
+    "两船故事据作者报告不自行认证全部史实"
+  ],
+  "current_stock_decision_enabled": false,
+  "experiments_run": false
+}

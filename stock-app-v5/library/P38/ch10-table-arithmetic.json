@@ -1,0 +1,561 @@
+{
+  "all11_tables": {
+    "101": {
+      "source_date": "March2021 only",
+      "columns": [
+        "issuer",
+        "type",
+        "price_pctpar",
+        "callable",
+        "annualcoupon_pct",
+        "maturity",
+        "yield_pct",
+        "rating"
+      ],
+      "all10_originalrows": [
+        [
+          "3M Co.",
+          "Corp",
+          105.12,
+          true,
+          2.25,
+          "9/19/2026",
+          1.24,
+          "A+"
+        ],
+        [
+          "Alteryx",
+          "Corp",
+          98.818,
+          false,
+          1.0,
+          "8/1/2026",
+          1.206,
+          null
+        ],
+        [
+          "Anheuser-Busch Cos. LLC",
+          "Corp",
+          125.319,
+          true,
+          5.95,
+          "1/25/2033",
+          3.34,
+          "BBB+"
+        ],
+        [
+          "City of Chicago",
+          "Muni",
+          103.164,
+          true,
+          5.0,
+          "1/1/2033",
+          1.03,
+          "BBB+"
+        ],
+        [
+          "Coca-Cola Co.",
+          "Corp",
+          95.206,
+          true,
+          1.0,
+          "3/15/2028",
+          1.731,
+          "A+"
+        ],
+        [
+          "DuPont De Nemours Inc.",
+          "Corp",
+          100.815,
+          true,
+          2.17,
+          "5/1/2023",
+          1.775,
+          "BBB+"
+        ],
+        [
+          "Exxon Mobil Corp.",
+          "Corp",
+          107.325,
+          true,
+          3.18,
+          "3/15/2024",
+          0.483,
+          "AA-"
+        ],
+        [
+          "Ford Motor Co.",
+          "Corp",
+          114.88,
+          false,
+          7.13,
+          "11/15/2025",
+          3.623,
+          "BB+"
+        ],
+        [
+          "Nordstrom Inc.",
+          "Corp",
+          112.905,
+          false,
+          6.95,
+          "3/15/2028",
+          4.758,
+          "BB+"
+        ],
+        [
+          "Tennessee Energy Acquisition Corp.",
+          "Muni",
+          102.168,
+          false,
+          5.25,
+          "9/1/2021",
+          0.451,
+          "BBB+"
+        ]
+      ],
+      "prices_if1000par": [
+        1051.2,
+        988.18,
+        1253.19,
+        1031.64,
+        952.0600000000001,
+        1008.15,
+        1073.25,
+        1148.8,
+        1129.05,
+        1021.6800000000001
+      ],
+      "no_CUSIP_settlement_exacttrade_ORcoupon_schedule_given": true,
+      "notcurrentdata": true
+    },
+    "102": {
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "coupons": [
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5,
+        22.5
+      ],
+      "principal": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1000
+      ],
+      "firstcoupon": "2012-09-19",
+      "lastcoupon": "2026-09-19",
+      "hypothetical_issue": "2011-09-20",
+      "discount_rate2021usedhypothetically": 0.0124
+    },
+    "103": {
+      "steps6allread": true,
+      "FV": -1000,
+      "I/Ypercent": 2.5,
+      "N": 30,
+      "PMT": -20,
+      "printedPV": 895.3485,
+      "independentPV": 895.3485370361943
+    },
+    "104": {
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "dates": [
+        "6/30/20",
+        "12/31/20",
+        "6/30/21",
+        "12/31/21",
+        "6/30/22",
+        "12/31/22",
+        "6/30/23",
+        "12/31/23",
+        "6/30/24",
+        "12/31/24"
+      ],
+      "coupons": [
+        4500,
+        4500,
+        4500,
+        4500,
+        4500,
+        4500,
+        4500,
+        4500,
+        4500,
+        4500
+      ],
+      "principal": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        100000
+      ],
+      "totalcoupon": 45000,
+      "hypotheticalfirstdate": "2020-01-01"
+    },
+    "105": {
+      "pricepctpar": 95.2,
+      "couponpercent": 1.0,
+      "maturity": "2028-03-15",
+      "rating": "A+",
+      "frequency": "semiannual",
+      "firstcoupon": "2021-09-01",
+      "type": "corporate",
+      "callable": true,
+      "95_20_roundvs952_06": true,
+      "firstcoupon_sep1_vs_march15_maturity_nonstandard_interval_notexplained": true
+    },
+    "106": {
+      "steps6allread": true,
+      "PV": -952.06,
+      "FV": 1000,
+      "N": 14,
+      "PMT": 5,
+      "printedperiodyield_percent": 0.8651,
+      "independentperiodyield_percent": 0.865059670318584,
+      "nominalannual_percent": 1.730119340637168,
+      "effectiveannual_percent": 1.7376026229692698
+    },
+    "107": {
+      "steps6allread": true,
+      "PV": -675,
+      "FV": 1000,
+      "N": 12,
+      "PMT": 35,
+      "printedyield_percent": 7.7589,
+      "independentyield_percent": 7.758860514515387
+    },
+    "108": {
+      "steps6allread": true,
+      "FV": -1000,
+      "I/Ypercent": 4.0,
+      "N": 20,
+      "PMT": -60,
+      "printedPV": 1271.8065,
+      "independentPV": 1271.806526899354
+    },
+    "109": {
+      "steps6allread": true,
+      "PV": -820,
+      "I/Ypercent": 10.0,
+      "FV": 1000,
+      "PMT": 30,
+      "printedN": 3.1188,
+      "independentN": 3.1187804291021104
+    },
+    "1010": {
+      "steps6allread": true,
+      "PV": -595,
+      "N": 20,
+      "FV": 1000,
+      "I/Ypercent": 6.5,
+      "printedPMT": 28.2437,
+      "independentPMT": 28.243659879886657,
+      "annualcouponpercent": 2.824365987988666
+    },
+    "1011": {
+      "all10_originalratingsrows": [
+        [
+          "AAA",
+          "Aaa",
+          "Investment",
+          "Risk almost zero"
+        ],
+        [
+          "AA",
+          "Aa",
+          "Investment",
+          "Low risk"
+        ],
+        [
+          "A",
+          "A",
+          "Investment",
+          "Risky if economy declines"
+        ],
+        [
+          "BBB",
+          "Baa",
+          "Investment",
+          "Some risk; more if economy declines"
+        ],
+        [
+          "BB",
+          "Ba",
+          "Speculative",
+          "Risky"
+        ],
+        [
+          "B",
+          "B",
+          "Speculative",
+          "Risky; expected to get worse"
+        ],
+        [
+          "CCC",
+          "Caa",
+          "Speculative",
+          "Probably bankruptcy"
+        ],
+        [
+          "CC",
+          "Ca",
+          "Speculative",
+          "Probably bankruptcy"
+        ],
+        [
+          "C",
+          "C",
+          "Speculative",
+          "In bankruptcy or default"
+        ],
+        [
+          "D",
+          null,
+          "Speculative",
+          "In bankruptcy or default"
+        ]
+      ],
+      "originalsimplification_notmodern_exactdefinitions": true
+    }
+  },
+  "examples": {
+    "Applehypothetical_coupon50_20payments": {
+      "face": 1000,
+      "couponrate": 0.05,
+      "annualcoupon": 50,
+      "total20coupons": 1000,
+      "totalprincipalpluscouponnominal": 2000
+    },
+    "Nordstrom112_905percentof1000": 1129.05,
+    "3M_15period_model": {
+      "couponPV": 306.24719595951217,
+      "principalPV": 831.223767560091,
+      "totalPV": 1137.4709635196032,
+      "printedvalues": [
+        306.25,
+        831.22,
+        1137.47
+      ],
+      "notclaimedMarch2021quote1051_20samecashdates": true
+    },
+    "3M_quote105_120pct_dollar": 1051.2,
+    "Cocacola_yearcoupon1pct": 10,
+    "Cocacola_semicoupon": 5,
+    "10vs7yield_general_inverse_only_cashflowsheldfixed": true
+  },
+  "all21_figures": {
+    "Excel": {
+      "fig1011_1012": {
+        "PVselectionblankargumentsdialogallread": true
+      },
+      "fig1013": {
+        "formula": "PV(F6,F8,F11,F4)",
+        "F4": 1000,
+        "F5": 0.05,
+        "F6": 0.025,
+        "F7": 15,
+        "F8": 30,
+        "F9": 0.04,
+        "F10": 0.02,
+        "F11": 20,
+        "printedresult": -895.348537,
+        "independent": -895.3485370361943
+      },
+      "fig1014_1016_RATEselection": true,
+      "fig1015": {
+        "formula": "RATE(H6,H8,H4,H5)",
+        "H4": -675,
+        "H5": 1000,
+        "H6": 12,
+        "H7": 0.035,
+        "H8": 35,
+        "printedrate": 0.077588605,
+        "independent": 0.07758860514515387
+      },
+      "fig1017": {
+        "formula": "RATE(H6,H8,H4,H5)",
+        "H4": -952.06,
+        "H5": 1000,
+        "H6": 14,
+        "H7": 0.005,
+        "H8": 5,
+        "printedrate": 0.008650597,
+        "independent": 0.00865059670318584,
+        "text_couponpercent0_05_wrong_vs_0_5": true,
+        "screenshot_H8caption1000times3_5pct35_wrong_vsactual5": true
+      },
+      "fig1018_NPERselection": true,
+      "fig1019": {
+        "formula": "NPER(H5,H8,H4,H6)",
+        "H4": -820,
+        "H5": 0.1,
+        "H6": 1000,
+        "H7": 0.03,
+        "H8": 30,
+        "printedN": 3.118780429,
+        "independent": 3.1187804291021104
+      },
+      "fig1020_PMTselection": true,
+      "fig1021": {
+        "formula": "PMT(H7,H5,H4,H6)",
+        "H4": -595,
+        "H5": 20,
+        "H6": 1000,
+        "H7": 0.065,
+        "printedPMT": 28.24365988,
+        "independent": 28.243659879886657
+      }
+    },
+    "graphs": {
+      "fig102": {
+        "date": "November2020",
+        "units": "trillionsUSD",
+        "allfourbars_seen": true,
+        "approx_only": [
+          95,
+          64,
+          63,
+          128
+        ],
+        "no_exact_numeric_labels_or_underlying_table": true,
+        "pastnotcurrentstockforecast": true
+      },
+      "fig103": "seesawinverse fixedcashflowsprice/rates",
+      "fig104": "fourstepsidentifycashdates/discount/PVs/add",
+      "fig105": "normalupward yieldvsmaturity schematic CashRate1y3y5y10y30y noactualrates",
+      "fig106": "levelshift up/down schematic no measureduniformpolicytransmission",
+      "fig107": "February2021 upsloped schematic without dated underlyingpointstable",
+      "fig108": {
+        "allthree_datelegends": [
+          "August13,2018",
+          "July12,2019",
+          "August13,2019"
+        ],
+        "all11termlabels": [
+          "1Mo",
+          "3Mo",
+          "6Mo",
+          "1Yr",
+          "2Yr",
+          "3Yr",
+          "5Yr",
+          "7Yr",
+          "10Yr",
+          "20Yr",
+          "30Yr"
+        ],
+        "shape": "2018upward;2019July/Aug middlevalleythenlongendrise;partialinversionnotallpointsdownward",
+        "point_values_notexactlytabulated": true
+      },
+      "fig109": {
+        "dates2020": [
+          "Jan2",
+          "Jan24",
+          "Feb21"
+        ],
+        "displayed10yearpercent": [
+          1.88,
+          1.7,
+          1.46
+        ],
+        "Feb21fiveyearbelowoneyear_threeMonth": true,
+        "xlabels": [
+          "3Mo",
+          "1Yr",
+          "5Yr",
+          "10Yr"
+        ],
+        "unlabeledpointsnotconvertedtoexactmeasurements": true
+      },
+      "fig1010": "normal/flat/invertedthreecurves schematic"
+    },
+    "figure101cover": true
+  },
+  "all11problems": {
+    "1_value": 903.3666566540368,
+    "2_nominalannualyield_percent": 3.5692405780604717,
+    "3_couponannual_percent": 2.9901044743175214,
+    "4_value": 890.9549038979933,
+    "5_nominalannualyield_percent": 5.991017401986628,
+    "6_value": 818.4591996354128,
+    "7_value": 931.2324346027137,
+    "8_nominalannualyield_percent": 9.233991306260508,
+    "9_remainingyears": 12,
+    "9_assumption": "annualcoupon frequency notspecified; adoptedannual asquestionasksannualpayment; notentire15years",
+    "9_annualpayment": 40.00028390985514,
+    "9_annualcouponpercent": 4.0000283909855145,
+    "10_value": 1271.806526899354,
+    "11_nominalannualyield_percent": 10.713241592845831
+  },
+  "video": {
+    "all4questiontexts_and embeddedinputsread": true,
+    "2_annual": 731.596744042342,
+    "2_semiannual": 728.1934731006461,
+    "secondvideoprovidedexample": {
+      "maturity": 10,
+      "couponpercent": 10,
+      "coupon": 100,
+      "YTMpercent": 8,
+      "par": 1000,
+      "independent_impliedprice": 1134.2016279788288
+    },
+    "externalfilmsnotviewed_noactualcalculatororExcelrun": true
+  },
+  "duration_formula_not_present_in_obtained_chapter_despitelearningoutcome_calculate": true,
+  "IRRmath_vs_terminalwealth_reinvestmentassumption_distinct": true
+}

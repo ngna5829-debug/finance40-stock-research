@@ -1,0 +1,63 @@
+{
+  "book_id": "P38",
+  "chapter": 12,
+  "printed_pages": [
+    353,
+    380
+  ],
+  "pdf_pages_one_based": [
+    368,
+    395
+  ],
+  "source_chars": 75231,
+  "source_sha256": "21524e1a60edb905e6ce18a6858e150d0017e6460a1cc88c7f5398f52424dabe",
+  "actualnative_readranges": [
+    [
+      0,
+      31000
+    ],
+    [
+      30800,
+      61800
+    ],
+    [
+      61600,
+      75231
+    ]
+  ],
+  "all4sections_3profiles_21numberednotes_summary_terms_5MC_21review_4videoquestiontexts_read": true,
+  "Problems_CFA_sections_notpresent": true,
+  "all28pagecontacts_all15figures_all4tables_visuallyread": true,
+  "visual_files": [
+    "ch12-figures-1.jpg",
+    "ch12-figures-2.jpg",
+    "ch12-figures-3.jpg",
+    "ch12-figures-4.jpg",
+    "ch12-figures-5.jpg",
+    "ch12-figures-6.jpg",
+    "ch12-figures-7.jpg",
+    "ch12-critical-372.jpg",
+    "ch12-critical-377.jpg",
+    "ch12-critical-379.jpg",
+    "ch12-critical-382.jpg",
+    "ch12-critical-383.jpg",
+    "ch12-critical-384.jpg",
+    "ch12-critical-386.jpg",
+    "ch12-critical-387.jpg"
+  ],
+  "all92original_histogramlabels_manuallytranscribed_and_yearcoverage_checked": true,
+  "all_source_annualbarvalues_exactlyknown": false,
+  "externalvideos_workbooks_entirepapers_books_read": false,
+  "literal_every_pdf_glyph_proofread": false,
+  "body_han": 3754,
+  "summary_sha256": "e0eafd30523874bcc5da1eaaafdcf3ee992043979abf48ea442bfdfafa74b922",
+  "independent_mathematical_recompute": true,
+  "arithmetic": "ch12-table-arithmetic.json",
+  "sourceissues": "ch12-source-issues.json",
+  "semantic_fullchapter_read_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "e0eafd30523874bcc5da1eaaafdcf3ee992043979abf48ea442bfdfafa74b922",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

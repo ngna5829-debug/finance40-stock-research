@@ -1,0 +1,91 @@
+{
+  "book_id": "P12",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "experiments_run": false,
+  "all_notes157to168_read": true,
+  "issues": [
+    {
+      "source_lines": [
+        6621,
+        6639
+      ],
+      "note_lines": [
+        7262,
+        7280
+      ],
+      "type": "government_debt_matrix_visible_difference",
+      "France_components_million": [
+        2750,
+        2540
+      ],
+      "visible_France_sum": 5290,
+      "source_France_total": 5200,
+      "source_column_total": 19925,
+      "visible_printed_row_total": 19835,
+      "resolution": "France差90m及两total来源不齐保留，注161部分估/排市场私贷与BankEngland，注164latestUSnear10b没细数；不修输入平账"
+    },
+    {
+      "source_lines": [
+        6656,
+        6661
+      ],
+      "type": "UK_fifty_percent_book_value_assumption",
+      "half_lent_billion": 4.35,
+      "owed_billion": 4.21,
+      "difference_billion": 0.13999999999999968,
+      "resolution": "50%作者称方便任意假设；neitherlossgain粗，不称全部实际贷款可收50%"
+    },
+    {
+      "source_lines": [
+        6494,
+        6502
+      ],
+      "note_lines": [
+        7250,
+        7260
+      ],
+      "type": "free_trade_union_adherence_and_exceptions",
+      "resolution": "部分国家十年强加入/其他自愿，准某禁限与条件税/多数例外，不称所有加入自愿或全零贸易障碍"
+    },
+    {
+      "source_lines": [
+        6819,
+        6823
+      ],
+      "type": "1919_capital_levy_normative_strong_claim",
+      "resolution": "原每欧交战国绝对前提，P11_1923英有条件可能不需征的文本是跨书修订参照，不两项都无条件真/非新独立票"
+    },
+    {
+      "source_lines": [
+        6954,
+        6984
+      ],
+      "type": "new_resources_vs_guarantees",
+      "resolution": "新1b须全还/先旧债的资源恢复贷，另1b保证预计仅部分现金；无全部资金已筹/精确币制方案验证"
+    },
+    {
+      "source_lines": [
+        6996,
+        7029,
+        7051,
+        7061,
+        7107,
+        7127
+      ],
+      "type": "Russia_information_and_polemic",
+      "resolution": "作者承俄可靠细节几无；政治联盟/唯一Germanagency强条件观点，宗教民族与辱骂不当现代特征、不得无工业夸张当统计事实"
+    },
+    {
+      "source_lines": [
+        6221,
+        6237,
+        7156,
+        7180
+      ],
+      "type": "author_qualifies_doom_and_timing",
+      "resolution": "可能遗漏原因/过速过必，最后少突发而可能长期寂静贫，不删不确定性；仅当时可得观点非未来已证"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "book_id": "P07",
+  "date": "2026-10-12",
+  "self_validation_only": true,
+  "independent_qa_status": "passed_with_source_limits",
+  "original_numbered_chapters": 9,
+  "han_body_counts": [
+    2704,
+    2835,
+    2958,
+    2880,
+    2838,
+    2755,
+    2859,
+    3099,
+    2495
+  ],
+  "han_body_total": 25423,
+  "introduction_han_count": 2216,
+  "rules": 32,
+  "source_anchors": 44,
+  "source_anchor_sha_and_page_validation": true,
+  "chapter_concat_original_drafts": true,
+  "all_numeric_tables_historically_validated": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "files": {
+    "work/book-experts-v5/index_team/P07/source-metadata.json": "eb5eab448c16f0b52ba5cefb18e666c247c935e39519f07ba44f6626c0cb062a",
+    "work/book-experts-v5/index_team/P07/专家定义.json": "47478d10bd626f75d88403af38750080f2fdc97e1a4733fb6e056e57a46b4fa2",
+    "work/book-experts-v5/index_team/P07/专家说明.md": "f969814c2bd118685b4444025f8b3544759de9f21afa84f9d23a310e8ab19a32",
+    "work/book-experts-v5/index_team/P07/全书综合与前后置页.md": "314961655b2243f06763c122ab40b52531185e3b2ef8eb4b3af7fd4884ce8150",
+    "work/book-experts-v5/index_team/P07/章节与阅读审计.json": "441d4050363e13a1634fdf3275f01867bb9299f7d9457663df92cb48e209bc2f",
+    "work/book-experts-v5/index_team/P07/章节深读.md": "2d8e4a6e4dd2c6264703709198aac11cdfcc10618a978837415a166ea3e3a8ca"
+  },
+  "final_qualified": true
+}

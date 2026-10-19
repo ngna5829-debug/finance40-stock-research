@@ -1,0 +1,161 @@
+{
+  "original_expert_sha256": "a4705665ad1d16ce3690165da1ff0992e971a3b2cecbac60f83e775527b6a4ff",
+  "corrected_expert_sha256": "0aec44cdef4eadb8a42737d009761b2566389d2126064bf8a5fc4dc6a36a2921",
+  "findings": [
+    {
+      "id": "P24-QA01",
+      "chapter": 8,
+      "before": "法定比率一两个百分点的差",
+      "after": "法定比率相对商价差百分之一或二",
+      "source": "PDF107/paper85 ratio differs one or two per cent from commercial ratio, relative proportional difference not percentage point"
+    },
+    {
+      "id": "P24-QA02",
+      "chapter": 10,
+      "before": "索维林约三十一又二分之一百分点",
+      "after": "索维林约百分之三十一点五",
+      "source": "PDF134/paper112 31½percent coin fraction below legal weight not pp difference"
+    },
+    {
+      "id": "P24-QA03",
+      "chapter": 10,
+      "before": "原图约四分之一百分点的总转换成本",
+      "after": "原图约百分之零点二五的总转换成本",
+      "source": "PDF138/paper116 one-quarter percent cost of bullion conversion, rate level not pp"
+    },
+    {
+      "id": "P24-QA04",
+      "chapter": 12,
+      "before": "反向变动时方向反转。",
+      "after": "按前例机制推导，金相对银变贵时应释放金、吸收银；不过纸一百三十九页原印在说“方向反转”后仍写吸收金、释放银，与本段前例及反转表述不一致。本次保留原印疑点，不把推导当作原文已准确写出的方向，也不静默改扫描。",
+      "source": "WholeoriginalPDF161/paper139 directly viewed; printedifgoldrose-goldabsorbed/silverliberated internal direction contradiction"
+    },
+    {
+      "id": "P24-QA05",
+      "chapter": 13,
+      "before": "九成与十一分之十二",
+      "after": "九成与十二分之十一",
+      "source": "PDF174/152 original22caratof24, 916.66per1000 =11/12 not12/11"
+    },
+    {
+      "id": "P24-QA06",
+      "chapter": 13,
+      "before": "九个百分点按三点二五百分点复利三十年约变成二十三点五个百分点",
+      "after": "百分之九按年利率百分之三点二五复利三十年，累计约等于名义额的百分之二十三点五",
+      "source": "PDF186/paper164 9pct seignorage compounded at3¼pct30years→23.5pct originalnominalbase, neither ppdifference"
+    },
+    {
+      "id": "P24-QA07",
+      "chapter": 13,
+      "before": "乘三点二五百分点",
+      "after": "乘年利率百分之三点二五",
+      "source": "PDF187/paper165 131⅛million opportunity capital×annual3¼percent, ratelevel notpp"
+    },
+    {
+      "id": "P24-QA08",
+      "chapter": 18,
+      "before": "德国五个百分点的历史税率",
+      "after": "德国百分之五的历史税率",
+      "source": "PDF248/paper226 elastic excessiveissue tax5percent ratelevel, not difference"
+    },
+    {
+      "id": "P24-QA09",
+      "chapter": 18,
+      "before": "不能把五个百分点当所有环境适用的现代参数",
+      "after": "不能把百分之五当所有环境适用的现代参数",
+      "source": "sameoriginal tax rate level notpp"
+    },
+    {
+      "id": "P24-QA10",
+      "chapter": 24,
+      "before": "与前章介绍德国五个百分点的现行方案不同",
+      "after": "与前章介绍德国百分之五的当时方案不同",
+      "source": "PDF341/paper319 tax5percent vsrecommended10percent, ratelevels, modern-currentlabel avoided"
+    },
+    {
+      "id": "P24-QA11",
+      "chapter": 24,
+      "before": "统一五个百分点",
+      "after": "统一采用百分之五",
+      "source": "samehistorical taxrate level notpp"
+    },
+    {
+      "id": "P24-QA12",
+      "chapter": 24,
+      "before": "约七个百分点",
+      "after": "约百分之七",
+      "source": "PDF343/paper321 Moxoncashreserve7percent depositsandnotes payableondemand, ratiolevel notpp"
+    },
+    {
+      "id": "P24-QA13",
+      "chapter": 25,
+      "before": "偿还名义额增六个百分点",
+      "after": "偿还名义额增加百分之六",
+      "source": "PDF353/paper331 nominaldebt100→106 relativeincrease6percent, originalpurchasingpower106→100fall5.6604% not6% norpp"
+    },
+    {
+      "id": "P24-QA14",
+      "chapter": 25,
+      "before": "六个百分点来自一百零六比一百的调整比",
+      "after": "百分之六的名义额增幅来自一百零六比一百的调整比",
+      "source": "sameoriginalrelativeincrease rate level"
+    },
+    {
+      "id": "P24-QA15",
+      "chapter": 25,
+      "before": "第五章四功能分离在这里再次具体",
+      "after": "第三章的四项货币功能及其分离在这里再次具体",
+      "source": "OriginalChapterIII functions; ChapterV materialsqualities7, crosschapterreference erroneous"
+    },
+    {
+      "id": "P24-QA16",
+      "rule": "P24-R36",
+      "field": "author_meaning",
+      "before": "超出票后留备金的部分可省利息；格恩西工程作者解释为无息强制借款，实物与劳动仍需。",
+      "after": "票据发行额超过兑付留备金的部分可以节约利息；格恩西工程在作者解释中是一种无息强制借款，仍耗用真实材料与劳动。",
+      "source": "PDF227/paper205 actualamountnotes exceedgoldheldinreadinesstopaythem, clarify subjectamount notmisread paperafterholdingreserve"
+    },
+    {
+      "id": "P24-QA17",
+      "rule": "P24-R58",
+      "field": "author_meaning",
+      "before": "作者主张银行共同持真备，境内卖证券不能增加全国产金，单家无法撑全体系；比例未定。",
+      "after": "作者主张银行共同持有真实准备，境内卖证券不能增加一国黄金存量，单家无法撑全体系；比例未定。",
+      "source": "PDF345/paper323 domesticsecuritiessale cannotincrease stockgoldinthecountry, notgoldminingproduction"
+    }
+  ],
+  "extra_rule26_original_printed_inconsistency_disclosed": true,
+  "extra296_transcription_fixed": true,
+  "additional_contexts": 87,
+  "chapter_body_han": [
+    2227,
+    2230,
+    2273,
+    2333,
+    2259,
+    2233,
+    2205,
+    2338,
+    2408,
+    2213,
+    2397,
+    2495,
+    2399,
+    2421,
+    2408,
+    2324,
+    2412,
+    2687,
+    2337,
+    2306,
+    2723,
+    2363,
+    2275,
+    2416,
+    2374,
+    2512
+  ],
+  "total_han": 61568,
+  "originals_modified": false,
+  "qualified": false
+}

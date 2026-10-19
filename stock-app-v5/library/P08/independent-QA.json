@@ -1,0 +1,91 @@
+{
+  "book_id": "P08",
+  "reviewer": "/root",
+  "result": "passed_qualified",
+  "original_chapters": 10,
+  "chapter_body_han_total": 33736,
+  "minimum_chapter_body_han": 2471,
+  "human_review": {
+    "all_ten_chapter_dossier_bodies_read": true,
+    "synthesis_read": true,
+    "expert_information_and_entire_prompt_read": true,
+    "all_rule_definitions_read": 32,
+    "all_exact_evidence_excerpts_read": 38,
+    "full_source_metadata_and_source_recovery_notes_read": true,
+    "primary_original_pdf_pages_seen": [
+      9,
+      10,
+      17,
+      110,
+      126,
+      172,
+      190,
+      200,
+      218,
+      224,
+      228,
+      230,
+      250,
+      254,
+      364,
+      365,
+      368,
+      414
+    ],
+    "replacement_same_work_full_pages_seen": [
+      96,
+      112,
+      158,
+      176,
+      186,
+      188,
+      190,
+      192,
+      194,
+      198,
+      206,
+      210,
+      214,
+      216,
+      236,
+      240
+    ],
+    "alternative04_header_strips_seen": 49,
+    "second_complete_raw_ocr_read": false,
+    "all_literal_glyphs_verified": false
+  },
+  "review_conclusions": [
+    "Ten chapter bodies address the original argument, revisions, notes, examples and evidence defects rather than mechanically repeating chapter titles.",
+    "All 32 rule claims and 38 specific retained-source fragments were read and matched; LF normalization and numbered parallel-line hash methods are now explicit.",
+    "Credit versus physical equipment, preferred-equity analogy versus legal debt, private versus community return and material output versus price capitalization remain distinct.",
+    "Low rates cannot universally explain depression; author explicitly limits this mechanism. Technical-cost and monopoly conclusions retain competition/entry/demand conditions.",
+    "Waste has direct destruction and possible indirect utilization effects; no recommendation to cause waste or war is inferred.",
+    "Occupation training versus selection/common causes, current legality versus historic law and final-page uncertainty are preserved.",
+    "Race/group ability claims remain visible as historical defects and are excluded from application rules.",
+    "Sixteen primary cut pages are replaced only in the clearly labelled delivery copy, without mutating original raw-source hashes or increasing independent-book count."
+  ],
+  "attribution_corrections_needed": [],
+  "metadata_correction": "Chapter10 method previously said unread first1022 lines while explicit ranges said1–1036. Wording now follows the actual range and makes no additional reading claim.",
+  "remaining_limits": [
+    "Neither author nor independent reviewer certified every physical microglyph or every historical fact/legal case/number.",
+    "Full chapters7–10 were semantically read from retained same-work parallel text, not counted as separately read entire primary OCR.",
+    "Parallel footnote numbering/formula transcription and original chapter/page misreferences remain recorded; source files are not silently corrected.",
+    "Some black-marked non-author front pages may conceal unobservable library text.",
+    "A repaired complete reading copy is a composite scan, not an untouched original download.",
+    "No current stock recommendation, calibrated forecast, live experiment or backtest was performed for this knowledge dossier."
+  ],
+  "source_hashes": {
+    "primary_txt": "729253385075ad93bf6eee6f1dcf37febb47e424f1ac2d4d207b2bc006381842",
+    "primary_pdf": "c5c8aaf349b6aadac878e6ee8c704079eb6ba0badd285371d6c98b93749767fe",
+    "replacement_pdf": "0cc7c3efb481704e42a19fcc2785b1294ef20a25e533af949a1b0ac9e7bb1a36",
+    "delivery_pdf": "60126690e56d24774e5b7701929de68c8e4355d77e2764a9b61676b6769bed0c"
+  },
+  "qualified_artifact_hashes": {
+    "专家定义.json": "8aa0a4dbaf013e704587b0ad65cbc8c2e0cb113dffdfb2c2c856b08dcfcbfb0b",
+    "章节与阅读审计.json": "ced985af1206a6931a9dcfa256c047bb438aa1c315164ee39e1198605153a7f5",
+    "source-metadata.json": "e973c24deb38eb7b68e42e0a3a47b49631505f994add32ce06a119b7e0f109b5",
+    "章节深读.md": "f629cada64bbcd5535d53a3b3a95da1f98af9448559cd64c46478e2a077d5252",
+    "全书综合与前后置页.md": "253b49a2525f9050e36eb677eb844565926aab6353d9273218bd9d0cbcaaa05f",
+    "专家说明.md": "688943f734ba67eec2051a77ea0a5f75ff8be99202d607004d0a7fc56561dff9"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "catalogue_url": "https://www.gutenberg.org/ebooks/60082",
+  "text_URL": "https://www.gutenberg.org/cache/epub/60082/pg60082.txt",
+  "HTML_URL": "https://www.gutenberg.org/cache/epub/60082/pg60082-images.html",
+  "edition": "Actual1914 fourthprinting Feb,31stthousand;copyright/firstprinting1913",
+  "rights": "PGofficialcatalogue publicdomainUSA; fullPGlicense preserved; Cornellrightsleaf no known US restrictions;no blanketworldwideclaim",
+  "all10original_chapters_actual_full_semantic_read": true,
+  "all129PGrenumbered_footnotes_actual_full_read": true,
+  "all86483characters_Hughesreport_actual_full_read": true,
+  "frontmatter_index_transcriber_full_PGlicense_actual_full_read": true,
+  "preferred_complete_original_PDF": "source/alternative-1914.pdf",
+  "complete_PDF_URL": "https://archive.org/download/stockexchangefro0000wcva_r0n2/stockexchangefro0000wcva_r0n2.pdf",
+  "complete_PDF_pages": 480,
+  "original_scan_glyphs_all_verified": false,
+  "Cornell_PDF_gap": "CornellPDF303paper291blankoriginalconfirmed;sameprintingalternativePDF303fulltextviewedandmatchesPG;bothrawfilespreserved",
+  "source_files": [
+    {
+      "file": "source/original.txt",
+      "bytes": 683274,
+      "sha256": "679d8ca8285251385bbd4693d97ae4822de866ffcf91813c74b42ecc03135248",
+      "url": "https://www.gutenberg.org/cache/epub/60082/pg60082.txt",
+      "scope": "completePGtranscription"
+    },
+    {
+      "file": "source/original.html",
+      "bytes": 800305,
+      "sha256": "291873a543ac331a12c38c8795a7dab5062d6e564ca08918f600857742c1b880",
+      "url": "https://www.gutenberg.org/cache/epub/60082/pg60082-images.html",
+      "scope": "completePGHTMLpageanchors"
+    },
+    {
+      "file": "source/alternative-1914.pdf",
+      "bytes": 17173589,
+      "sha256": "74d1e4c9172a4a0cccd27d984208afbdffc4fd02e0e34fe080f1d0fd569aaf84",
+      "url": "https://archive.org/download/stockexchangefro0000wcva_r0n2/stockexchangefro0000wcva_r0n2.pdf",
+      "scope": "samefourthprinting480pagepreferredoriginalscan;selectedimagecollation"
+    },
+    {
+      "file": "source/original-1914.pdf",
+      "bytes": 8020302,
+      "sha256": "2366f395357fd3164547aaa39e708f1af989f14e6af10ccf7cb3705e76e8a1e7",
+      "url": "https://archive.org/download/cu31924030206548/cu31924030206548.pdf",
+      "scope": "Cornell480scanwithknownpaper291blank;supersededascompletealone"
+    }
+  ],
+  "original_visual_audit": "source-review/scan-checkpoint.json",
+  "read_completed_utc": "2026-10-12T17:23:30.312574+00:00",
+  "reading_status": "full_original_digital_semantic_reading_with_selected_scan_collation_coverage_qualified",
+  "unresolved_limits": [
+    "Not everyoriginalglyph visuallyproofread;selectedrawpagecollation and all lowtext physicalpagesclassified.",
+    "PGunbalancedquotes/typosmayremain;indexnotfullycrosschecked,footnotesrenumberedandmoved,duplicatechaptertitlepagesremoved.",
+    "Sectiondigit paper255 remains5or3;paper1991837paragraphhas1857bankdate inoriginal;not silentlycorrected.",
+    "43/130bn over-third claim,capital100GBP mismatch,Paris155vs150bn scope andsomequotationdates unresolved;precisionuseclosed.",
+    "Quotedstatutes,reports,courtcases,newsandallotherbooksnot separately fullyverified;oldrulesnotcurrentlaw."
+  ]
+}

@@ -1,0 +1,1865 @@
+{
+  "book_id": "P09",
+  "book_count": 1,
+  "expert_count": 1,
+  "completed_local_date": "2026-10-13",
+  "book_semantic_reading_completed": true,
+  "all_original_chapters_semantically_read": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "all_original_scan_words_visually_verified": false,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_file": "work/book-experts-v5/index_team/P09/source/original.txt",
+  "source_sha256": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+  "source_bytes": 714459,
+  "source_line_count": 12162,
+  "all_source_lines_actually_read": true,
+  "source_line_coverage_method": "前置1–225逐块阅读、31章连续主文、全部原注、后置索引广告和完整许可；仅证明所用电子文字语义覆盖，非原印每字",
+  "covered_source_lines_count": 12162,
+  "unread_source_line_ranges": [],
+  "chapter_count": 31,
+  "chapter_body_han_counts": [
+    3138,
+    2936,
+    2145,
+    2136,
+    2847,
+    2726,
+    3074,
+    2112,
+    2565,
+    2085,
+    2175,
+    2574,
+    2480,
+    2267,
+    2534,
+    3130,
+    2774,
+    2307,
+    2418,
+    2589,
+    2635,
+    2487,
+    2307,
+    2326,
+    2336,
+    2284,
+    2762,
+    2208,
+    2113,
+    2233,
+    3109
+  ],
+  "chapter_body_han_total": 77812,
+  "minimum_chapter_body_han": 2085,
+  "han_count_method": "只取每章正文开始/结束标记间U+4E00..U+9FFF；章头、来源定位、标题、原注文件、JSON、许可、综合不计；不自动生成章稿",
+  "chapters": [
+    {
+      "chapter_ordinal": 1,
+      "original_label": "I",
+      "title": "On Value",
+      "source_lines_inclusive": [
+        226,
+        1140
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch01-original.txt",
+      "source_text_sha256": "1ab3e23a861770f01dc50a99e4f5b9ce14649d70985b0db1014bd1d26e08c93c",
+      "printed_start_in_original_contents": 1,
+      "printed_end_estimate_from_next_contents": 48,
+      "separate_endnotes": [
+        {
+          "note": 2,
+          "source_lines_inclusive": [
+            10263,
+            10264
+          ]
+        },
+        {
+          "note": 3,
+          "source_lines_inclusive": [
+            10265,
+            10287
+          ]
+        },
+        {
+          "note": 4,
+          "source_lines_inclusive": [
+            10288,
+            10289
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch01-notes.txt",
+      "notes_sha256": "01ff2dbcd6c786c1d9addb1466cab7ab83cc52decf6b465d680233e1d6ce9baa",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          226,
+          455
+        ],
+        [
+          456,
+          685
+        ],
+        [
+          686,
+          915
+        ],
+        [
+          916,
+          1140
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10263,
+          10289
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch01.md",
+      "draft_sha256": "d8f27928587c27d96adbf772286b969824552c4caa860e13441798a91c0620d8",
+      "han_body_count": 3138,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 2,
+      "original_label": "II",
+      "title": "On Rent",
+      "source_lines_inclusive": [
+        1141,
+        1581
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch02-original.txt",
+      "source_text_sha256": "13843bf7fc456382402ddb26a2d7c395ef2281c255d8b4260d7002b343f529fd",
+      "printed_start_in_original_contents": 49,
+      "printed_end_estimate_from_next_contents": 76,
+      "separate_endnotes": [
+        {
+          "note": 5,
+          "source_lines_inclusive": [
+            10290,
+            10303
+          ]
+        },
+        {
+          "note": 6,
+          "source_lines_inclusive": [
+            10304,
+            10331
+          ]
+        },
+        {
+          "note": 7,
+          "source_lines_inclusive": [
+            10332,
+            10404
+          ]
+        },
+        {
+          "note": 8,
+          "source_lines_inclusive": [
+            10405,
+            10437
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch02-notes.txt",
+      "notes_sha256": "efa4edbb61e7985b4e966a6051f38242454c792a51e2a527b0e17a17fb17b18b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          1141,
+          1360
+        ],
+        [
+          1361,
+          1581
+        ]
+      ],
+      "note_read_blocks_original_global": [
+        [
+          10290,
+          10437
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch02.md",
+      "draft_sha256": "58b68e0d150bf99e26b4bfffbc2bd1e42a041d4948dd77386e6089ad5b94b852",
+      "han_body_count": 2936,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 3,
+      "original_label": "III",
+      "title": "On the Rent of Mines",
+      "source_lines_inclusive": [
+        1582,
+        1675
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch03-original.txt",
+      "source_text_sha256": "72447f1b37945375ec31042109523ff715d5db94fc4ee6199869c51d2f88edd6",
+      "printed_start_in_original_contents": 77,
+      "printed_end_estimate_from_next_contents": 81,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch03-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          1582,
+          1675
+        ]
+      ],
+      "note_read_blocks_original_global": [],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch03.md",
+      "draft_sha256": "6425519afc0ebf689431ac8e8102997a9b6303b717d1482a0d686539720a1194",
+      "han_body_count": 2145,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 4,
+      "original_label": "IV",
+      "title": "On Natural and Market Price",
+      "source_lines_inclusive": [
+        1676,
+        1804
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch04-original.txt",
+      "source_text_sha256": "d2362021782e70f39837f86bee04971ba4ce2237396abe5285d8e090e040c9d3",
+      "printed_start_in_original_contents": 82,
+      "printed_end_estimate_from_next_contents": 89,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch04-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          1676,
+          1804
+        ]
+      ],
+      "note_read_blocks_original_global": [],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch04.md",
+      "draft_sha256": "95b7fd30d02045084cc024b5da7c8ccf39b7be45e30b63333e40cf6fcb7c4e1d",
+      "han_body_count": 2136,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 5,
+      "original_label": "V",
+      "title": "On Wages",
+      "source_lines_inclusive": [
+        1805,
+        2279
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch05-original.txt",
+      "source_text_sha256": "c5ee5a888b77c05f723233489071ea007bb2632e2e5657175c904877391bb506",
+      "printed_start_in_original_contents": 90,
+      "printed_end_estimate_from_next_contents": 115,
+      "separate_endnotes": [
+        {
+          "note": 9,
+          "source_lines_inclusive": [
+            10438,
+            10448
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch05-notes.txt",
+      "notes_sha256": "40acd627f7e35111eae896b90f5b46d2fb5bf364f039cde40eff5991d58a5b29",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          1805,
+          2044
+        ],
+        [
+          2045,
+          2279
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10438,
+          10448
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch05.md",
+      "draft_sha256": "a8f81f2159d8a11c3cf6f2e2d5e3769949133dd4525050f3679d84310a04605f",
+      "han_body_count": 2847,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 6,
+      "original_label": "V*",
+      "title": "On Profits",
+      "source_lines_inclusive": [
+        2280,
+        2819
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch06-original.txt",
+      "source_text_sha256": "ac286e0b848d800c675bd9f17b457f3d06eae2f46109e0d6152ac5752703974b",
+      "printed_start_in_original_contents": 116,
+      "printed_end_estimate_from_next_contents": 145,
+      "separate_endnotes": [
+        {
+          "note": 10,
+          "source_lines_inclusive": [
+            10449,
+            10454
+          ]
+        },
+        {
+          "note": 11,
+          "source_lines_inclusive": [
+            10455,
+            10461
+          ]
+        },
+        {
+          "note": 12,
+          "source_lines_inclusive": [
+            10462,
+            10485
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch06-notes.txt",
+      "notes_sha256": "9f6e35b1b0a3d5ee1cf20204aa2094a23d3ca8859233fe21054b010930a749de",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          2280,
+          2499
+        ],
+        [
+          2500,
+          2720
+        ],
+        [
+          2721,
+          2819
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10449,
+          10485
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch06.md",
+      "draft_sha256": "46c4f84e0941f673bf8bd3f60fad6f81b89ca3a8756f4c87ebbfa25bc8b742ca",
+      "han_body_count": 2726,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 7,
+      "original_label": "VI",
+      "title": "On Foreign Trade",
+      "source_lines_inclusive": [
+        2820,
+        3498
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch07-original.txt",
+      "source_text_sha256": "7dd60c517c41a793b8fce83f605114ba40cb88a4b1e7479d4aa03b12fb18eda0",
+      "printed_start_in_original_contents": 146,
+      "printed_end_estimate_from_next_contents": 185,
+      "separate_endnotes": [
+        {
+          "note": 13,
+          "source_lines_inclusive": [
+            10486,
+            10487
+          ]
+        },
+        {
+          "note": 14,
+          "source_lines_inclusive": [
+            10488,
+            10503
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch07-notes.txt",
+      "notes_sha256": "73e8a1c3dc51a6b366fbb73a2b0fee1346b405e06337051ce8063212cbdcb720",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          2820,
+          3039
+        ],
+        [
+          3040,
+          3259
+        ],
+        [
+          3260,
+          3498
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10486,
+          10503
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch07.md",
+      "draft_sha256": "c1dfec97ee460a185247395e4e06088954c86a5703b091e4b86b6e07c689d651",
+      "han_body_count": 3074,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 8,
+      "original_label": "VII",
+      "title": "On Taxes",
+      "source_lines_inclusive": [
+        3499,
+        3641
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch08-original.txt",
+      "source_text_sha256": "ff1474ca24269b92cf38d1dacb7dd86cc4365dcee702b7377aeef4f5c106b9af",
+      "printed_start_in_original_contents": 186,
+      "printed_end_estimate_from_next_contents": 193,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch08-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          3499,
+          3641
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch08.md",
+      "draft_sha256": "d7cd6fd65d7985945e9ad31d000399283e696eba58307f8a3762c059ba71ec20",
+      "han_body_count": 2112,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 9,
+      "original_label": "VIII",
+      "title": "Taxes on Raw Produce",
+      "source_lines_inclusive": [
+        3642,
+        4146
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch09-original.txt",
+      "source_text_sha256": "3957b9f48eeb0921b886f60191857789859bcd6677a863945bf4e4053701b2b8",
+      "printed_start_in_original_contents": 194,
+      "printed_end_estimate_from_next_contents": 220,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch09-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          3642,
+          3861
+        ],
+        [
+          3862,
+          4081
+        ],
+        [
+          4082,
+          4146
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch09.md",
+      "draft_sha256": "641a5bf74a13ea7e258cbab8fcc609b15916bfd222ddbb5a08905f6a665766ba",
+      "han_body_count": 2565,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 10,
+      "original_label": "VIII*",
+      "title": "Taxes on Rent",
+      "source_lines_inclusive": [
+        4147,
+        4221
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch10-original.txt",
+      "source_text_sha256": "b440ebcac2330a05f6df8729ca46534980898508d22c72dd6fa02c399f981cde",
+      "printed_start_in_original_contents": 221,
+      "printed_end_estimate_from_next_contents": 224,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch10-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4147,
+          4221
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch10.md",
+      "draft_sha256": "ab4c6204db41b866ee442eb386fb815873b1a021b78cf844bbe11430327b3dd6",
+      "han_body_count": 2085,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 11,
+      "original_label": "IX",
+      "title": "Tithes",
+      "source_lines_inclusive": [
+        4222,
+        4337
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch11-original.txt",
+      "source_text_sha256": "40583db7b8f3f29f059433970c41fad8659966f6277d97e427e9636dcc98447c",
+      "printed_start_in_original_contents": 225,
+      "printed_end_estimate_from_next_contents": 231,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch11-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4222,
+          4337
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch11.md",
+      "draft_sha256": "c49669e977c2dda551ea56eae4ccdf69d57cad89834f15fe57d919a2f5fcc494",
+      "han_body_count": 2175,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 12,
+      "original_label": "X",
+      "title": "Land-Tax",
+      "source_lines_inclusive": [
+        4338,
+        4606
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch12-original.txt",
+      "source_text_sha256": "15d6d9781076b5d983f3a49926729985ef7d5c3c7cb31108ee39c37f0124321d",
+      "printed_start_in_original_contents": 232,
+      "printed_end_estimate_from_next_contents": 246,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch12-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4338,
+          4606
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch12.md",
+      "draft_sha256": "577a2006e61821adbceb63dcac6ff7cae697ce3e0d63fa17c6c7e5249579ba70",
+      "han_body_count": 2574,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 13,
+      "original_label": "XI",
+      "title": "Taxes on Gold",
+      "source_lines_inclusive": [
+        4607,
+        4868
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch13-original.txt",
+      "source_text_sha256": "ecea060d960efa75d6d51bfd5a98ec36f6514b6a674927bfc5d9d383da9878a5",
+      "printed_start_in_original_contents": 247,
+      "printed_end_estimate_from_next_contents": 261,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch13-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4607,
+          4868
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch13.md",
+      "draft_sha256": "7a6e4b61c0a2fa3863e60bc1077d2ebf8b4ad8d4f326828b2a407a01f173d7ce",
+      "han_body_count": 2480,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 14,
+      "original_label": "XII",
+      "title": "Taxes on Houses",
+      "source_lines_inclusive": [
+        4869,
+        4984
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch14-original.txt",
+      "source_text_sha256": "e273ae964d5675f95f8be5bd93638838f4235442b88c15220e08f10f1ec66385",
+      "printed_start_in_original_contents": 262,
+      "printed_end_estimate_from_next_contents": 268,
+      "separate_endnotes": [
+        {
+          "note": 15,
+          "source_lines_inclusive": [
+            10504,
+            10505
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch14-notes.txt",
+      "notes_sha256": "be8a5beb2e342496de90b65c17842a1afa08a47fd93e68be5a4d432b6455e21c",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4869,
+          4984
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10504,
+          10505
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch14.md",
+      "draft_sha256": "2633d4d66c6af14f778461d2478e3a6720d96e5989509b0656de700bf34447d0",
+      "han_body_count": 2267,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 15,
+      "original_label": "XIII",
+      "title": "Taxes on Profits",
+      "source_lines_inclusive": [
+        4985,
+        5259
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch15-original.txt",
+      "source_text_sha256": "6368ae2bf3da918098beeb6d37c579e7e54df8400f7448bb8d9ce04966e369f6",
+      "printed_start_in_original_contents": 269,
+      "printed_end_estimate_from_next_contents": 284,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch15-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          4985,
+          5259
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch15.md",
+      "draft_sha256": "d0c8e553dbe7824c31b006e2a8dd90424a112d4496d459c539d882c1d9ea893b",
+      "han_body_count": 2534,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 16,
+      "original_label": "XIV",
+      "title": "Taxes on Wages",
+      "source_lines_inclusive": [
+        5260,
+        6031
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch16-original.txt",
+      "source_text_sha256": "ac1a9764be1b413dac935918921a67401ce231461542ecb29efc5e30f4993132",
+      "printed_start_in_original_contents": 285,
+      "printed_end_estimate_from_next_contents": 329,
+      "separate_endnotes": [
+        {
+          "note": 16,
+          "source_lines_inclusive": [
+            10506,
+            10515
+          ]
+        },
+        {
+          "note": 17,
+          "source_lines_inclusive": [
+            10516,
+            10524
+          ]
+        },
+        {
+          "note": 18,
+          "source_lines_inclusive": [
+            10525,
+            10535
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch16-notes.txt",
+      "notes_sha256": "b56c23e63fa69a62650d1f5ba7198f1c70b7f0cf92ee95220ff531936a58045b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          5260,
+          5500
+        ],
+        [
+          5501,
+          5750
+        ],
+        [
+          5751,
+          6031
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10506,
+          10535
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch16.md",
+      "draft_sha256": "cfe45fac39c3781877628ff24d26317af34dc73fa4046e146021c773ec3c32dc",
+      "han_body_count": 3130,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 17,
+      "original_label": "XV",
+      "title": "Taxes on other Commodities than Raw Produce",
+      "source_lines_inclusive": [
+        6032,
+        6400
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch17-original.txt",
+      "source_text_sha256": "d0856c5a0b36386b24f8705c186436350075f81425c679d6809dfb9a76207b1c",
+      "printed_start_in_original_contents": 330,
+      "printed_end_estimate_from_next_contents": 353,
+      "separate_endnotes": [
+        {
+          "note": 19,
+          "source_lines_inclusive": [
+            10536,
+            10559
+          ]
+        },
+        {
+          "note": 20,
+          "source_lines_inclusive": [
+            10560,
+            10581
+          ]
+        },
+        {
+          "note": 21,
+          "source_lines_inclusive": [
+            10582,
+            10590
+          ]
+        },
+        {
+          "note": 22,
+          "source_lines_inclusive": [
+            10591,
+            10596
+          ]
+        },
+        {
+          "note": 23,
+          "source_lines_inclusive": [
+            10597,
+            10598
+          ]
+        },
+        {
+          "note": 24,
+          "source_lines_inclusive": [
+            10599,
+            10600
+          ]
+        },
+        {
+          "note": 25,
+          "source_lines_inclusive": [
+            10601,
+            10602
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch17-notes.txt",
+      "notes_sha256": "b3d0dccedd917eeca45a88484a4e1e0266a671806f9898432e8a331a5def4d23",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          6032,
+          6260
+        ],
+        [
+          6261,
+          6400
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10536,
+          10602
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch17.md",
+      "draft_sha256": "1baa6a7fd7ffe16f7951f660f752aa161a075d4dd3cf30029af0a4ffc3e83f5e",
+      "han_body_count": 2774,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 18,
+      "original_label": "XVI",
+      "title": "Poor Rates",
+      "source_lines_inclusive": [
+        6401,
+        6547
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch18-original.txt",
+      "source_text_sha256": "50f9e0d2fce2274692eded024891d691331d55139a322a2b9033f302cd48f12e",
+      "printed_start_in_original_contents": 354,
+      "printed_end_estimate_from_next_contents": 362,
+      "separate_endnotes": [
+        {
+          "note": 26,
+          "source_lines_inclusive": [
+            10603,
+            10629
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch18-notes.txt",
+      "notes_sha256": "edb3442a71f4e7936fed7bf2e6cdf4ce7986fc19ecd4ad31bc086e3f02189b25",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          6401,
+          6547
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10603,
+          10629
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch18.md",
+      "draft_sha256": "9d610e535c9724ddbc8035760220c3a273cb63eca64da3bc5130488675496aa7",
+      "han_body_count": 2307,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 19,
+      "original_label": "XVII",
+      "title": "On Sudden Changes in the Channels of Trade",
+      "source_lines_inclusive": [
+        6548,
+        6780
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch19-original.txt",
+      "source_text_sha256": "75faa8cf90f457b9e87fde4bb380bc96213f9763ce813b2b44e3541e51fd415a",
+      "printed_start_in_original_contents": 363,
+      "printed_end_estimate_from_next_contents": 376,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch19-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          6548,
+          6780
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch19.md",
+      "draft_sha256": "4a138bf8ee3ed91a3671521b14fa3bd0e4f97bfa20891098e47432fc1904f465",
+      "han_body_count": 2418,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 20,
+      "original_label": "XVIII",
+      "title": "Value and Riches, their Distinctive Properties",
+      "source_lines_inclusive": [
+        6781,
+        7116
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch20-original.txt",
+      "source_text_sha256": "f9e41c82ad42cbcf66cc07cd7e27a784656c5e501d56d6b1348d695d91183d7a",
+      "printed_start_in_original_contents": 377,
+      "printed_end_estimate_from_next_contents": 397,
+      "separate_endnotes": [
+        {
+          "note": 27,
+          "source_lines_inclusive": [
+            10630,
+            10640
+          ]
+        },
+        {
+          "note": 28,
+          "source_lines_inclusive": [
+            10641,
+            10645
+          ]
+        },
+        {
+          "note": 29,
+          "source_lines_inclusive": [
+            10646,
+            10666
+          ]
+        },
+        {
+          "note": 30,
+          "source_lines_inclusive": [
+            10667,
+            10668
+          ],
+          "nested_in_other_note": true
+        },
+        {
+          "note": 31,
+          "source_lines_inclusive": [
+            10669,
+            10670
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch20-notes.txt",
+      "notes_sha256": "6fb54ddb8c0d4747ed0f0d042cdc4c98a943831006e2e6920f543fbb08e8280c",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          6781,
+          7000
+        ],
+        [
+          7001,
+          7116
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "nested_note_30_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10630,
+          10670
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch20.md",
+      "draft_sha256": "0768f6b2e9825b5c20e06685ffda66af1e8ec903dbbbcf7aeb3ac2de162713af",
+      "han_body_count": 2589,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 21,
+      "original_label": "XIX",
+      "title": "Effects of Accumulation on Profits and Interest",
+      "source_lines_inclusive": [
+        7117,
+        7403
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch21-original.txt",
+      "source_text_sha256": "548d4492fcd9e3d1eaccf03c3c63b286d4c3ccd9e0c4048eaf4ec17d6f19546d",
+      "printed_start_in_original_contents": 398,
+      "printed_end_estimate_from_next_contents": 416,
+      "separate_endnotes": [
+        {
+          "note": 32,
+          "source_lines_inclusive": [
+            10671,
+            10682
+          ]
+        },
+        {
+          "note": 33,
+          "source_lines_inclusive": [
+            10683,
+            10690
+          ]
+        },
+        {
+          "note": 34,
+          "source_lines_inclusive": [
+            10691,
+            10719
+          ]
+        },
+        {
+          "note": 35,
+          "source_lines_inclusive": [
+            10720,
+            10721
+          ],
+          "nested_in_other_note": true
+        },
+        {
+          "note": 36,
+          "source_lines_inclusive": [
+            10722,
+            10750
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch21-notes.txt",
+      "notes_sha256": "57b0398b031f0afe4f6fa0674d81e9d6b58af7719ff9c769f728230f5b5cc62b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          7117,
+          7403
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "nested_note_35_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10671,
+          10750
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch21.md",
+      "draft_sha256": "1f34b4efba4cdb16ab7ec07f7a0cce05cec3a9dab6ea204abc1dec0a7fcd98b7",
+      "han_body_count": 2635,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 22,
+      "original_label": "XX",
+      "title": "Bounties on Exportation, and Prohibitions of Importation",
+      "source_lines_inclusive": [
+        7404,
+        7925
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch22-original.txt",
+      "source_text_sha256": "95e3894643a2a87cdd1832da1a2bb509069803e237fe2b0367eb0836117d3a8b",
+      "printed_start_in_original_contents": 417,
+      "printed_end_estimate_from_next_contents": 448,
+      "separate_endnotes": [
+        {
+          "note": 37,
+          "source_lines_inclusive": [
+            10751,
+            10780
+          ]
+        },
+        {
+          "note": 38,
+          "source_lines_inclusive": [
+            10781,
+            10782
+          ]
+        },
+        {
+          "note": 39,
+          "source_lines_inclusive": [
+            10783,
+            10784
+          ]
+        },
+        {
+          "note": 40,
+          "source_lines_inclusive": [
+            10785,
+            10807
+          ]
+        },
+        {
+          "note": 41,
+          "source_lines_inclusive": [
+            10808,
+            10824
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch22-notes.txt",
+      "notes_sha256": "a497537ae54b14800bd4ee4001e0a04fc7e8de36bdba55531c8111487ceb62fa",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          7404,
+          7640
+        ],
+        [
+          7641,
+          7925
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10751,
+          10824
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch22.md",
+      "draft_sha256": "6d33c98389c837038f5c689fcea7d946bd954ab92e058e8ec0b7271e8261b2fa",
+      "han_body_count": 2487,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 23,
+      "original_label": "XXI",
+      "title": "On Bounties on Production",
+      "source_lines_inclusive": [
+        7926,
+        8080
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch23-original.txt",
+      "source_text_sha256": "5e5d082774d224d007e85219f4e2f2b8e4955d7598cbdcf6eb41c6ca52bbf185",
+      "printed_start_in_original_contents": 449,
+      "printed_end_estimate_from_next_contents": 457,
+      "separate_endnotes": [
+        {
+          "note": 42,
+          "source_lines_inclusive": [
+            10825,
+            10826
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch23-notes.txt",
+      "notes_sha256": "330b0414a102f07cfdbb2801d7c9ef0637429aeceae23da10297cda46cfddec7",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          7926,
+          8080
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10825,
+          10826
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch23.md",
+      "draft_sha256": "6cc8cecb100de46fb90acb6c35b8a6f1392e4cacc85a36f35b5c27b0be7978cb",
+      "han_body_count": 2307,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 24,
+      "original_label": "XXII",
+      "title": "Doctrine of Adam Smith concerning the Rent of Land",
+      "source_lines_inclusive": [
+        8081,
+        8382
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch24-original.txt",
+      "source_text_sha256": "3252a4e81969170e08f946e16be17b8f238a23bad9758a964548af1e029211af",
+      "printed_start_in_original_contents": 458,
+      "printed_end_estimate_from_next_contents": 475,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch24-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          8081,
+          8382
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch24.md",
+      "draft_sha256": "573ab856a7f4287a1775530961ce27ed096a636e992fca8183f4c40baec8f9b8",
+      "han_body_count": 2326,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 25,
+      "original_label": "XXIII",
+      "title": "On Colonial Trade",
+      "source_lines_inclusive": [
+        8383,
+        8639
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch25-original.txt",
+      "source_text_sha256": "749263a3a64b1bf879c0f4fe0df3039f6edaee863e52f1f2b1de1d53ed558184",
+      "printed_start_in_original_contents": 476,
+      "printed_end_estimate_from_next_contents": 490,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch25-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          8383,
+          8639
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch25.md",
+      "draft_sha256": "cd06a819d84219455f634da96487f152b212c61da3e9c17b946e75ce33f18fd3",
+      "han_body_count": 2336,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 26,
+      "original_label": "XXIV",
+      "title": "On Gross and Net Revenue",
+      "source_lines_inclusive": [
+        8640,
+        8753
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch26-original.txt",
+      "source_text_sha256": "ce8237c682553596df5fd9afde7ca2d42492ce3e1da5e99f2eba786179804756",
+      "printed_start_in_original_contents": 491,
+      "printed_end_estimate_from_next_contents": 498,
+      "separate_endnotes": [
+        {
+          "note": 43,
+          "source_lines_inclusive": [
+            10827,
+            10839
+          ]
+        },
+        {
+          "note": 44,
+          "source_lines_inclusive": [
+            10840,
+            10851
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch26-notes.txt",
+      "notes_sha256": "c1337bcfa50038b2a4400af2ac521e7a3501f863249522482cb610b88c57224c",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          8640,
+          8753
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10827,
+          10851
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch26.md",
+      "draft_sha256": "f743fb00a4e6688084b0ab45bc9b4e507711ba7e976405b60dba7c5ffa44ee08",
+      "han_body_count": 2284,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 27,
+      "original_label": "XXV",
+      "title": "On Currency and Banks",
+      "source_lines_inclusive": [
+        8754,
+        9210
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch27-original.txt",
+      "source_text_sha256": "db747a9886b00c59a55e66dfdf0e77427203f28fe55093ce1f49854588515e0a",
+      "printed_start_in_original_contents": 499,
+      "printed_end_estimate_from_next_contents": 526,
+      "separate_endnotes": [
+        {
+          "note": 45,
+          "source_lines_inclusive": [
+            10852,
+            10864
+          ]
+        },
+        {
+          "note": 46,
+          "source_lines_inclusive": [
+            10865,
+            10868
+          ]
+        },
+        {
+          "note": 47,
+          "source_lines_inclusive": [
+            10869,
+            10885
+          ]
+        },
+        {
+          "note": 48,
+          "source_lines_inclusive": [
+            10886,
+            10901
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch27-notes.txt",
+      "notes_sha256": "e8d735656ab1e9c24bb424721b7000a3f3266e6b6781919ff73de35042fd3d0d",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          8754,
+          8980
+        ],
+        [
+          8981,
+          9210
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10852,
+          10901
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch27.md",
+      "draft_sha256": "c7919d2294a55fd8e21305d1b1cdebcfa84ed39c0265cbd9b86b22ae587a467c",
+      "han_body_count": 2762,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 28,
+      "original_label": "XXVI",
+      "title": "On the comparative Value of Gold, Corn, and Labour, in Rich and in Poor Countries",
+      "source_lines_inclusive": [
+        9211,
+        9397
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch28-original.txt",
+      "source_text_sha256": "edec91dcdfa94a66f60202db4fb609cc7325ba1ec063737772a3351ec08a3103",
+      "printed_start_in_original_contents": 527,
+      "printed_end_estimate_from_next_contents": 537,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch28-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          9211,
+          9397
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch28.md",
+      "draft_sha256": "a931cfd38944fb7fb3a52d72b011f195ce7637518d8a751f67b845f381d633f2",
+      "han_body_count": 2208,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 29,
+      "original_label": "XXVII",
+      "title": "Taxes paid by the Producer",
+      "source_lines_inclusive": [
+        9398,
+        9465
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch29-original.txt",
+      "source_text_sha256": "dbf5f23366d72172f2d8c7c6cad8970c68c845fc34b4ca8a5c2a85b5a8c96215",
+      "printed_start_in_original_contents": 538,
+      "printed_end_estimate_from_next_contents": 541,
+      "separate_endnotes": [],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch29-notes.txt",
+      "notes_sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          9398,
+          9465
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "no_associated_notes_in_source": true,
+      "note_read_blocks_original_global": [],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch29.md",
+      "draft_sha256": "6c24893472c3b641e9bc484fc891eff6e29976405aff42f76acbe57155080fa8",
+      "han_body_count": 2113,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 30,
+      "original_label": "XXVIII",
+      "title": "On the Influence of Demand and Supply on Prices",
+      "source_lines_inclusive": [
+        9466,
+        9586
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch30-original.txt",
+      "source_text_sha256": "9c4a1cfdfd990702de8027fca6087a2567964261e583d7dc3224032507b573f2",
+      "printed_start_in_original_contents": 542,
+      "printed_end_estimate_from_next_contents": 548,
+      "separate_endnotes": [
+        {
+          "note": 49,
+          "source_lines_inclusive": [
+            10902,
+            10914
+          ]
+        },
+        {
+          "note": 50,
+          "source_lines_inclusive": [
+            10915,
+            10917
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch30-notes.txt",
+      "notes_sha256": "d748a731d278f17ab28f3e3baf0a6850bbe2224ffe696b873d85a6b3e0c0c64b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          9466,
+          9586
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10902,
+          10917
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch30.md",
+      "draft_sha256": "fc8c6db2ea916079f18ec5181d694f5f881d94309bf6b7ee4b9c63f61c093744",
+      "han_body_count": 2233,
+      "reading_qualified_no_original_scan": true
+    },
+    {
+      "chapter_ordinal": 31,
+      "original_label": "XXIX",
+      "title": "Mr. Malthus's Opinions on Rent",
+      "source_lines_inclusive": [
+        9587,
+        10256
+      ],
+      "source_file": "work/book-experts-v5/index_team/P09/source/ch31-original.txt",
+      "source_text_sha256": "9eae7efe8ea44a30d65f211f2e7b30da5f6a657622625570a7cfbbe81d418fb1",
+      "printed_start_in_original_contents": 549,
+      "printed_end_estimate_from_next_contents": null,
+      "separate_endnotes": [
+        {
+          "note": 51,
+          "source_lines_inclusive": [
+            10918,
+            10920
+          ]
+        },
+        {
+          "note": 52,
+          "source_lines_inclusive": [
+            10921,
+            10927
+          ]
+        },
+        {
+          "note": 53,
+          "source_lines_inclusive": [
+            10928,
+            10931
+          ]
+        },
+        {
+          "note": 54,
+          "source_lines_inclusive": [
+            10932,
+            10955
+          ]
+        },
+        {
+          "note": 55,
+          "source_lines_inclusive": [
+            10956,
+            10957
+          ]
+        },
+        {
+          "note": 56,
+          "source_lines_inclusive": [
+            10958,
+            10959
+          ]
+        },
+        {
+          "note": 57,
+          "source_lines_inclusive": [
+            10960,
+            10967
+          ]
+        },
+        {
+          "note": 58,
+          "source_lines_inclusive": [
+            10968,
+            10969
+          ]
+        },
+        {
+          "note": 59,
+          "source_lines_inclusive": [
+            10970,
+            10978
+          ]
+        },
+        {
+          "note": 60,
+          "source_lines_inclusive": [
+            10979,
+            10980
+          ]
+        },
+        {
+          "note": 61,
+          "source_lines_inclusive": [
+            10981,
+            10988
+          ]
+        },
+        {
+          "note": 62,
+          "source_lines_inclusive": [
+            10989,
+            10990
+          ]
+        },
+        {
+          "note": 63,
+          "source_lines_inclusive": [
+            10991,
+            10994
+          ]
+        },
+        {
+          "note": 64,
+          "source_lines_inclusive": [
+            10995,
+            10998
+          ]
+        },
+        {
+          "note": 65,
+          "source_lines_inclusive": [
+            10999,
+            11004
+          ]
+        },
+        {
+          "note": 66,
+          "source_lines_inclusive": [
+            11005,
+            11011
+          ]
+        }
+      ],
+      "notes_file": "work/book-experts-v5/index_team/P09/source/ch31-notes.txt",
+      "notes_sha256": "d9c235e252e8808031fb5d0f0861de6ea72df88c992ad4613e478718dae7b12a",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          9587,
+          9800
+        ],
+        [
+          9801,
+          10030
+        ],
+        [
+          10031,
+          10256
+        ]
+      ],
+      "all_associated_notes_actually_read": true,
+      "note_read_blocks_original_global": [
+        [
+          10918,
+          11011
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P09/chapters/ch31.md",
+      "draft_sha256": "bbd9650bc8f1d3ae5e587b8a851105920d33ab33bcf3a38ec52f9c966c5f6c75",
+      "han_body_count": 3109,
+      "reading_qualified_no_original_scan": true
+    }
+  ],
+  "frontmatter": {
+    "source_lines_inclusive": [
+      1,
+      225
+    ],
+    "main_frontmatter_actually_read": true,
+    "preface_associated_note_1_lines": [
+      10259,
+      10262
+    ],
+    "preface_note_1_actually_read": true
+  },
+  "book_endnotes": {
+    "source_lines_inclusive": [
+      10257,
+      11011
+    ],
+    "note_count": 66,
+    "complete_reading": true,
+    "assigned_to_original_chapters_by_reference_markers": true,
+    "notes_actually_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "note_read_source_ranges_inclusive": [
+      [
+        10259,
+        11011
+      ]
+    ],
+    "section_heading_actually_read": true,
+    "section_heading_lines": [
+      10257,
+      10258
+    ]
+  },
+  "backmatter_read_blocks": [
+    [
+      11012,
+      11250
+    ],
+    [
+      11251,
+      11500
+    ],
+    [
+      11501,
+      11812
+    ],
+    [
+      11813,
+      12162
+    ]
+  ],
+  "index": {
+    "source_start": 11032,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      11032,
+      11616
+    ],
+    "actual_read_blocks": [
+      [
+        11032,
+        11250
+      ],
+      [
+        11251,
+        11500
+      ],
+      [
+        11501,
+        11616
+      ]
+    ],
+    "compressed_claims_not_rule_evidence": true
+  },
+  "errata": {
+    "source_lines_inclusive": [
+      11017,
+      11028
+    ],
+    "actually_read": true,
+    "all_four_items_read": true,
+    "publisher_applied_to_pg_main_text": true
+  },
+  "publisher_advertisements": {
+    "source_lines_inclusive": [
+      11617,
+      11811
+    ],
+    "printer_lines": [
+      11617,
+      11620
+    ],
+    "dated_publisher_catalogue_lines": [
+      11621,
+      11799
+    ],
+    "date_in_catalogue": "May 1817",
+    "read_blocks": [
+      [
+        11501,
+        11812
+      ]
+    ],
+    "complete_reading": true,
+    "advertised_works_counted_as_read": false,
+    "independent_author_appendix_found_in_this_text": false,
+    "empty_text_lines_are_not_visual_blank_page_claims": true
+  },
+  "pg_license": {
+    "end_marker_line": 11812,
+    "complete_reading": true,
+    "source_lines_inclusive": [
+      11813,
+      12162
+    ],
+    "actual_read_blocks": [
+      [
+        11813,
+        12162
+      ]
+    ]
+  },
+  "original_labels_V_and_VIII_repeated": true,
+  "1821_machinery_chapter_read_in_this_book": false,
+  "original_author_independent_appendix_found_in_this_text": false,
+  "all_index_claims_used_as_rule_evidence": false,
+  "index_warning": "不抑制耕作、人口无关租、所有净收入与毛收入等压缩不能覆盖正文；用作导航",
+  "source_numeric_and_wording_limits": [
+    "work/book-experts-v5/index_team/P09/source/ch01-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch06-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch11-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch15-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch16-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch21-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch29-source-limits.json"
+  ],
+  "rule_count": 31,
+  "rule_evidence_segment_count": 101,
+  "rule_hashes_verified_against_original_bytes": true,
+  "numeric_model_recomputations_are_financial_experiments": false,
+  "modern_analysis_separated": true,
+  "no_mechanical_chapter_prose_template": true,
+  "limitations": [
+    "此次PG官方目录网页超时和503，HTML503，未绕过；既有官方原UTF8全文下载验证保留",
+    "未取得可视觉核版的原扫描，不把TXT数字当每字核准；纸页目前仅原目录起点明确",
+    "没有把1821第三版的章节和改写算进本册已读",
+    "全部电子索引已读，但条目把不必抑制耕作压缩成不抑制、把具体工资分配因素省略；不能据索引覆盖正文条件",
+    "第一版31章，不含1821第三版独立Machinery章；广告中作品与被引书均不计新增阅读",
+    "来源数字及条件张力逐章记录，未擅改原UTF8，不进市场实验",
+    "不同来源字形未原扫描复核；电子文本可有原刻/转录差，未指认责任层",
+    "全部原注语义读不等于所引作品整书读",
+    "索引页码本身未经原扫描精确逐项核证",
+    "自检不当独立语义审查"
+  ],
+  "pending_final_peer_hash_confirmation": false,
+  "content_peer_confirmation": "independent-review/P09-final-merge-verification.json"
+}

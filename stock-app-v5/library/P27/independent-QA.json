@@ -1,0 +1,1227 @@
+{
+  "book_id": "P27",
+  "reviewer": "practical_books independent of root author",
+  "review_completed_utc": "2026-10-12T23:47:41.526129+00:00",
+  "status": "pass_after_corrections_with_source_limits",
+  "canonical_old_expert_passed": false,
+  "complete16_primary_PG_sources_semantically_read": true,
+  "all16_chinese_dossiers_and_all16_numeric_JSON_compared": true,
+  "whole_front_back6notes_errata_license_synthesis_and_expert_description_read": true,
+  "all72_rules_and78_attached_exact_fragments_semantically_compared": true,
+  "old_attached_text_characters_actually_read": 223794,
+  "new_source_span_count": 23,
+  "new_source_span_text_characters": 76648,
+  "new_span_complete_source_context_read_before_extraction": true,
+  "strict_body_han_counts": [
+    2565,
+    3122,
+    3073,
+    2723,
+    2713,
+    2697,
+    2603,
+    2483,
+    2592,
+    2447,
+    2530,
+    2816,
+    2368,
+    2331,
+    2452,
+    3502
+  ],
+  "strict_body_han_total": 43017,
+  "minimum_chapter": 2331,
+  "chapter_draft_material_direction_misreading_found": false,
+  "findings": [
+    {
+      "id": "P27-QA-N01",
+      "type": "percentage_vs_percentagepoint",
+      "five_chapter16_and_synthesis_units": "corrected by author and literal byte recheck verified",
+      "source_original_percentage_levels_unchanged": true,
+      "correction_record": "percentage-unit-corrections.json",
+      "rule_boundaries_remaining": [
+        13,
+        28,
+        47
+      ],
+      "rule_boundary_corrections": "all three corrections merged and verified",
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed"
+    },
+    {
+      "id": "P27-QA-E01",
+      "type": "incomplete_attached_evidence",
+      "source_additions_rules": [
+        "P27-R05",
+        "P27-R13",
+        "P27-R20",
+        "P27-R21",
+        "P27-R23",
+        "P27-R25",
+        "P27-R28",
+        "P27-R29",
+        "P27-R31",
+        "P27-R32",
+        "P27-R33",
+        "P27-R37",
+        "P27-R39",
+        "P27-R44",
+        "P27-R45",
+        "P27-R46",
+        "P27-R53",
+        "P27-R54",
+        "P27-R56",
+        "P27-R57",
+        "P27-R66",
+        "P27-R67",
+        "P27-R69",
+        "P27-R70",
+        "P27-R71"
+      ],
+      "added_complete_spans": 23,
+      "specific_examples": [
+        "R05 ended before procurement/finance/factory closure",
+        "R13 ended before actual same-origin/destination alternatives",
+        "R21 ended before actual railway/mail trade-opening passage",
+        "R25 copyright introduction missed patent/Bell mechanism",
+        "R28 ended before government/private financing example",
+        "R69 registration discussion missed price level/potential entry conditions"
+      ],
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed"
+    },
+    {
+      "id": "P27-QA-A01",
+      "type": "author_vs_modern_analysis",
+      "author_wording_clarified_rules": [
+        "P27-R04",
+        "P27-R08",
+        "P27-R09",
+        "P27-R11",
+        "P27-R17",
+        "P27-R18",
+        "P27-R19",
+        "P27-R21",
+        "P27-R22",
+        "P27-R25",
+        "P27-R29",
+        "P27-R30",
+        "P27-R31",
+        "P27-R34",
+        "P27-R36",
+        "P27-R37",
+        "P27-R39",
+        "P27-R40",
+        "P27-R46",
+        "P27-R48",
+        "P27-R51",
+        "P27-R54",
+        "P27-R55",
+        "P27-R57",
+        "P27-R59",
+        "P27-R62",
+        "P27-R63",
+        "P27-R65",
+        "P27-R68",
+        "P27-R70"
+      ],
+      "specific_examples": [
+        "R36 author asserts capital never monopolizable and 2% loans common; individual borrower frictions are modern critique",
+        "R63 author claims million repayment without specifying reinvestment; modern arithmetic assumptions were not his explicit method",
+        "R65 author claims no bankruptcy; demand/cash/refinancing stress is modern challenge",
+        "Source unit, price/cost, table and ownership auditing requirements are retained in independent_analysis"
+      ],
+      "original_modern_audit_intent_preserved": true,
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed"
+    },
+    {
+      "id": "P27-QA-M01",
+      "type": "count_metadata",
+      "corrected_ch16_body_han": 3502,
+      "corrected_book_body_han": 43017,
+      "synthesis_and_description_count_refresh": "43017 and 2331—3502 merged and verified",
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed"
+    }
+  ],
+  "independent_numeric_and_visual_checks": [
+    {
+      "chapter": 1,
+      "full_source_file": "outputs/book-experts-v5/P27/source-chapters/ch01.txt",
+      "full_source_character_ranges": [
+        [
+          0,
+          8656
+        ]
+      ],
+      "scan_native_source_actually_read": "work/book-experts-v5/root_team/P27/scan-chapters/ch01.txt",
+      "scan_native_sha256": "67be716b02e22f6909d94d60cfd3691435e20218c3cff028bf0b71ab263e95b2",
+      "full_chinese_dossier_compared": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "trustwordtrusteelegalstructurevsentiremonopoly",
+        "publiccriticismandproposalsnotactualpassedlaw",
+        "diagnosisbeforecure conditionalnotmedicalevidence",
+        "differentstakeholders fairhearingnotvotingtruth",
+        "scientificmethod宣言notempiricalvalidation",
+        "modernmultiagentindependentnotauthor40modelapproval"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch01-figures-1.jpg",
+        "PDF_pages": [
+          25,
+          26,
+          27,
+          28
+        ],
+        "printed_pages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "all_four_contactpages_prose_actually_read": true
+      },
+      "chapter_independent_table_figures_footnotes": 0
+    },
+    {
+      "chapter": 2,
+      "full_source_file": "source-chapters/ch02.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          25000
+        ],
+        [
+          25000,
+          37354
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "author_footnote1_full_read_and_originalPDF36_visual_confirmed": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "stricttrustorganizationvsbroadusage",
+        "fictionalcompositelinseedmanufacturer notactualtestimony",
+        "1890originalclaim1869earlycombination notformalcurrentdocumentyear",
+        "costsavings/patentsupplybuyer/workersinterest separate",
+        "38→52=14 vsprofit15 originalconflict",
+        "fixed30mgallons and4%baseline assumptions notactualnetprofit",
+        "Standardhearingdefenceclaim vsverifiedresult",
+        "scalealwaysmincostauthorpremise notuniversalvalidated",
+        "Carnegiecounterclaim/authorselectedsample tension retained"
+      ],
+      "independent_arithmetic": {
+        "price_change_cents": 14,
+        "price_change_percent": 36.84210526315789,
+        "original15times30m": 4500000.0,
+        "actual14times30m": 4200000.0,
+        "gapUSD": 299999.9999999994,
+        "quotedprofit_nominalratio": 22.22222222222222
+      },
+      "original_visual_spotcheck": [
+        {
+          "file": "ch02-critical-36.png",
+          "PDF_page": 36,
+          "printed_page": 14
+        },
+        {
+          "file": "ch02-critical-38.png",
+          "PDF_page": 38,
+          "printed_page": 16
+        },
+        {
+          "file": "ch02-critical-44.png",
+          "PDF_page": 44,
+          "printed_page": 22
+        }
+      ],
+      "not_all19originalchapterimages_reproofread": true
+    },
+    {
+      "chapter": 3,
+      "full_source_file": "source-chapters/ch03.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          13000
+        ],
+        [
+          13000,
+          26147
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "all_author_footnotes2and3_fulltext_read_in_back": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "specificquality/geography vswholemetalindustry",
+        "goldsmallproduction/stock notnomodernmanipulationever",
+        "snapshotpricetable vsannualaverages",
+        "copper initial13 later13.5/halfprofit/differentperiods",
+        "footnote2 collapse revises futurecorner optimism",
+        "Naturalresource rentvsannualstockreturn",
+        "coalresourceandtrafficnetworkcontroldoesnotprovepresentextortion",
+        "approxarea200/300 notstrict>2/3",
+        "uniformprices notindependentillegalproof",
+        "producerlimits rawpetroleum ambiguity",
+        "switchingcost gas100%=twice"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch03-critical-50.png",
+          "PDF_page": 50,
+          "printed_page": 28
+        },
+        {
+          "file": "ch03-critical-51.png",
+          "PDF_page": 51,
+          "printed_page": 29
+        },
+        {
+          "file": "ch03-critical-53.png",
+          "PDF_page": 53,
+          "printed_page": 31
+        },
+        {
+          "file": "ch03-critical-56.png",
+          "PDF_page": 56,
+          "printed_page": 34
+        }
+      ],
+      "independent_arithmetic": {
+        "coal_tons": 34643127,
+        "coal_receipts": 90261802,
+        "author_receipts_total": 90261805,
+        "difference": 3,
+        "zinc1886_snapmean": 5.566666666666666,
+        "zinc1887_88_snapmean": 6.58375,
+        "copper2c400m": 8000000.0,
+        "dividendcum_capital": 12.0,
+        "coalnationalretail": 480000000
+      },
+      "limits": "PDF53 footnote continues54, remainder actualread in completePGbacktext; notall16originalimagepagesreproofed"
+    },
+    {
+      "chapter": 4,
+      "full_source_file": "source-chapters/ch04.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          28940
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "oldpublichighwayprinciple notsolvingnetwork coordination",
+        "stationscrossings notsameO-Dcompetition",
+        "ratio8%count vs10%bound vs3000approx",
+        "consolidationcostefficiency vs marketpower",
+        "additionaltrafficnearlypureprofit strongauthorpremise notvalid zeromarginalcost forever",
+        "sunkcapital andpricewars causalmodel not universalcurrentbankruptcy",
+        "1887act/1888secondyear anecdotes vs modernlaw/counterfactual",
+        "pool breach incentiveandprivateclaim quote notallfirmscollusionproof",
+        "bridgeartificial vsnaturalpass both barriers",
+        "steamshipcapitalonly whenno govprivilege",
+        "telegrapheconomicchannels notpricedluxuryonly"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch04-figures-2.jpg",
+        "PDF_pages": [
+          68,
+          69,
+          70,
+          71
+        ],
+        "printed_pages": [
+          46,
+          47,
+          48,
+          49
+        ],
+        "scope": "contactpage prose all four actuallyread; additionaltrafficcostnearlynothing,freerivalrybankruptcy andpoolmechanism verified"
+      },
+      "independent_arithmetic": {
+        "stations8percent": 2960.0,
+        "miles80percent": 126400.0
+      },
+      "limits": "no footnotes or separatetablesthis chapter; outsidelegalstatus/historynot independentlycertified"
+    },
+    {
+      "chapter": 5,
+      "full_source_file": "source-chapters/ch05.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          11000
+        ],
+        [
+          11000,
+          20581
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "functionalnecessityandregionalroute notcompanycount",
+        "watermunicipal/concessionfranchisebid/buyoption notallpublicownership",
+        "gasduplicatepipes/warandwateredcapital",
+        "uniformrateclustering notproofillegalagreement",
+        "11companycounts notmarketquantityshares",
+        "manufacturing/holder/deliveredcostdifferentdenominatorsanddates",
+        "electricalundergroundcosthistoricalforecast notallmodernpowerfirms",
+        "hypotheticalKansasland100to100000 notobservedROI",
+        "landpowerandcompetitiveoutsideoptions tension retained"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch05-critical-86.png",
+          "PDF_page": 86,
+          "printed_page": 64
+        },
+        {
+          "file": "ch05-critical-87.png",
+          "PDF_page": 87,
+          "printed_page": 65
+        }
+      ],
+      "independent_arithmetic": {
+        "11gascompany_counts_sum": 683,
+        "receipts40744673_per23050706000ft3_in1000": 1.7676106319693636,
+        "original1dollar76cents71hundredthcent": 1.7671,
+        "gap_dollars_per1000": 0.0005106319693637396
+      },
+      "limits": "keyoriginaltables/costfractionsviewed; no all12pageimages reproof claim"
+    },
+    {
+      "chapter": 6,
+      "full_source_file": "source-chapters/ch06.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          26454
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "channelconveniencevsentirephysicalstock",
+        "transportconcentrationcanreduceotherlocalretailpower",
+        "Canadian96%wholesalercoverage notvolume",
+        "investigation/lawsuitclaims vslegalfinding",
+        "buyercompetitionlowerprice vs sellerhigher",
+        "milkspreadnotnetprofit",
+        "cottonseed3USD700ktons hypotheticalunchangedvolume2.1m",
+        "cornertemporary vs trustpermanent classificationnotdurabilityproof",
+        "Fouriermemoryandconsumerharmqualificationboth retained",
+        "wheat5m70c2m1.23m.5 equals400k grossnotverifiedreturn",
+        "weakinsurancefirmsdefectandoutside mutualcompetition",
+        "bankreputationnotautomaticallyabuse",
+        "cartelpredatoryfund discriminatorysupplynotimplementationadvice"
+      ],
+      "original_visual_spotcheck": {
+        "files": [
+          "ch06-figures-3.jpg",
+          "ch06-figures-4.jpg"
+        ],
+        "PDF_pages": [
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108
+        ],
+        "printed_pages": [
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86
+        ],
+        "contactpage_all8prose_read": true
+      },
+      "independent_arithmetic": {
+        "cottonseed_savingUSD": 2100000,
+        "wheat_grossUSD": 400000.0,
+        "milkspreadcents": [
+          4,
+          5
+        ]
+      },
+      "limits": "notall16originalpagesglyphreproofed;outsidehearings/lawsnotfullread"
+    },
+    {
+      "chapter": 7,
+      "full_source_file": "source-chapters/ch07.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          13500
+        ],
+        [
+          13500,
+          26382
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "limitedIPcreationincentive vsnecessitymonopoly",
+        "designknowledgegrowsyetinspirationprotectionqualified",
+        "natureprinciplevsdevicehistoricalnotcurrentlaw",
+        "patentnoveltycritique notcurrentinvalidityfinding",
+        "Bellillegalacquisition/hiddenimprovement allegationlabels preserved",
+        "expiredpatentnotautomaticlossnetworkpower",
+        "steamerNYBuenosAyressubsidyhypothesisnotactualguaranteedprofit",
+        "potatotariffcounterexample meansnotautomaticmonopoly",
+        "tariffcostfreightforeignsubstituteconditionalceiling",
+        "historical10/20/30 and25profitnotthreshold",
+        "lowerpriceincreaseddemandnotcertainfullcapacity",
+        "specialdomesticproduct/globalcomboexceptions",
+        "postalcounterfactual notcausalproof",
+        "gov2–3/private5–7 oldrates notcurrent spread"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch07-figures-4.jpg",
+        "PDF_pages": [
+          121,
+          122,
+          123
+        ],
+        "printed_pages": [
+          99,
+          100,
+          101
+        ],
+        "all3contactpageprose_actually_read": true
+      },
+      "limits": "no all15originalglyphreproof/currentlaw certification"
+    },
+    {
+      "chapter": 8,
+      "full_source_file": "source-chapters/ch08.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          29363
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "wageemployeeslimitedscope notalllabormarket",
+        "capitalandlabormonopolysameprinciple notallmorals/legallawsidentical",
+        "CBQ2/3membership10dpotentialnotachievedwages/1000jobloss",
+        "bricklayer3vs5 hypotheticalnaturalbaseline notmeasuredfairrate",
+        "fullcostpass-throughauthorstrongassumption notverified",
+        "pastUKservitudeandstatutesnotmodernlaw",
+        "forcedlaborsale/buffer/associationbenefits",
+        "uniformvsindividualwagesneitherguaranteefair",
+        "dignityanddisciplineandpossibleworkerabuse both preserved",
+        "unionlawbenefitsandconvictlaborcritique",
+        "absolutehistoricalimprovement doesnotanswerfairshare",
+        "fewemployersbuyers/unioncounterpower",
+        "unskilledunionfailuresstrongerauthorprediction limited"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch08-figures-2.jpg",
+        "PDF_pages": [
+          128,
+          129,
+          130,
+          131
+        ],
+        "printed_pages": [
+          106,
+          107,
+          108,
+          109
+        ],
+        "all4contactpageprose_actually_read": true
+      },
+      "independent_arithmetic": {
+        "bricklayer_hypothetical_differenceUSD": 2,
+        "oldstatute_elapsedhours": [
+          14,
+          15
+        ]
+      },
+      "limits": "no all17originalglyphreproof/legalhistoryexternalcertification"
+    },
+    {
+      "chapter": 9,
+      "full_source_file": "source-chapters/ch09.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          23578
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "full_authorfootnote4_read_and_originalpaper121_visual_confirmed": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "employmentvsownershipvsdirectprofitvswelfare separate",
+        "12rowexclusionauthorclassification notcensusnetgainstatus",
+        "100k/1m/severalhundredwealthy estimatesnotregister",
+        "stockholderschangingcouldbeanyprofession/censusomissions",
+        "professionalqualityandfeesethicalstandardsnotautomaticallycartel",
+        "futuremorecomplexunskilledworkqualification",
+        "farmnationalcoordination3k1.5kmi vslocalcooperative/tobaccotry",
+        "farmerssmallscalealwaysbetterhistoricalstrongclaim notmodernlaw",
+        "oleomargarinenutritionauthornotmodernfact",
+        "externalcompetitionpoliticalbarrier notinternalquotaagreement",
+        "agriculturalownervslaborvsother120672 notaritherror",
+        "two-to-onebenefitpopnotnetwelfare/poor-rich census",
+        "allcapitalnevermonopolized2vs4rates authorforecast challenged againstfinancingcase"
+      ],
+      "original_visual_spotcheck": {
+        "files": [
+          "P27-QA-images/pdf142.png",
+          "P27-QA-images/pdf143.png",
+          "P27-QA-images/pdf152.png"
+        ],
+        "PDF_pages": [
+          142,
+          143,
+          152
+        ],
+        "printed_pages": [
+          120,
+          121,
+          130
+        ],
+        "alltables12rowsand2comparisonrows actuallyread": true
+      },
+      "independent_arithmetic": {
+        "excluded12sum": 1632000,
+        "remainder": 4015368,
+        "agriculturetwo": 7549821,
+        "otheragriculture": 120672,
+        "professionalplusagriculture": 11744821,
+        "alltotal": 17392189,
+        "conditionalminus1m": 16392189,
+        "two_to_one_ratio": 2.079698188607507
+      },
+      "limits": "notall14pagesglyphreproofed; censuswholevolumesnotread"
+    },
+    {
+      "chapter": 10,
+      "full_source_file": "source-chapters/ch10.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          10000
+        ],
+        [
+          10000,
+          19648
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "fairallocation normnot netaccount",
+        "principleresearch yet factsrequired",
+        "primitivegenderandcivilizationnarrative notanthropologicalproof",
+        "interdependencemoral/legalproposal notcurrentlaw",
+        "commonstockmoneycertificate analogy authoravoidsmoneytheory",
+        "willingnesspay vsactualpublicbenefit explicitlydifferent",
+        "supplydemandfeedback directionnotelasticity/date",
+        "5000superintendent distributions illustrative1450residue",
+        "4daily1500annualconsumption samegrossschedule notproven",
+        "tenthtohundredthhistoriccostbroadnotallindustryindex",
+        "rights/smugglingviews notcurrentcriminaladvice",
+        "competitiontheory vs duplicatecapitalwaste",
+        "competitiondecline proposednextchapterstudy notuniversalextinction"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch10-figures-3.jpg",
+        "PDF_pages": [
+          163,
+          164,
+          165,
+          166
+        ],
+        "printed_pages": [
+          141,
+          142,
+          143,
+          144
+        ],
+        "all4contactprose_actually_read": true
+      },
+      "independent_arithmetic": {
+        "hypotheticalmanagementresidue": 1450
+      },
+      "limits": "notall12pagesglyphreproof/externalhistorylawcertification"
+    },
+    {
+      "chapter": 11,
+      "full_source_file": "source-chapters/ch11.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          29304
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "rivalrybuyer/seller precisevsgeneralselfishness",
+        "3m/300/2 typicalexamples notcontrolledempiricalcomparison",
+        "papertradepricevariance/deception/advertisingauthorwasteassumption",
+        "laws1–4 inverseunitsandintensity/waste/collusiondirection notelasticformula independentvotes",
+        "fifthcapitalinterestoperatingcostcontinuewithoutfixedchargecoverage notsafe",
+        "sixthnewentrythreat/sunklossqualified moderntechnology",
+        "seventhscarcitycomparativeadvantage notequalcompetitiondeath",
+        "legalmonopolyvsbroadrelativeprofitadvantage",
+        "resourceprivateownershipmechanism notrightsverdict",
+        "pigironvsBessemerqualityproductscope",
+        "actual/potential/franchise distinct",
+        "highestconcessionfee11vslowestwateruserprice5 notsame",
+        "diagramlogicalnotweights/probability",
+        "inevitableauthorstrongclaim vsmoderncontext/agencyliability",
+        "controlvsbacktooldworkshopauthorpolicy"
+      ],
+      "original_visual_spotcheck": {
+        "file": "P27-QA-images/pdf180.png",
+        "PDF_page": 180,
+        "printed_page": 158,
+        "completegraphandprose_actually_read": true,
+        "allfourpaths_and_two_nested_intensityconditions_confirmed": true
+      },
+      "limits": "notall17pageglyphreproofed; widecausaltheorynotcalibrated"
+    },
+    {
+      "chapter": 12,
+      "full_source_file": "source-chapters/ch12.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          24000
+        ],
+        [
+          24000,
+          35879
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "full_authorfootnote5_read_and_originalPDF190_visualconfirmed": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "productionhappinessworkingpremise vswelfare proof",
+        "specificoverproductionvsgeneralpurchasingability",
+        "Vanderbiltserviceacknowledgedvsincomenotperfectcontribution",
+        "100m/12000mi/1b/halfownership15–20yr forecasts notregister/realization",
+        "Alexanderbusinessquote notcausalindependentaudit",
+        "smallcapitalexcludedhistoricalstrongview notmodernbanlistedassets",
+        "3.5%vs7–10.5% notriskmatchedfreeprofit",
+        "99of100rhetoricnotempiricalsample",
+        "investmentfundsfallinterestrateswageroomnotcertainty",
+        "notalldepressionsfromunderconsumption explicit",
+        "socialreligiousdrinkingcomments notmedical/groupbehavior",
+        "entrylimitsvsotheroccupationcrowding",
+        "disasterrepairoccupation notwealthgain",
+        "moneyalwaysspentvsmoneywaitsinvestment time tension",
+        "Ely200m/1b vsauthor460m noadditiveevidence",
+        "5%CAPITAL notmiles;7500cost4381 numeric",
+        "nominalcapitalvsrealresource/refineryandcoppernewcases repeatnotindep",
+        "NYtwoannualtotal vsnationaloneannualcash estimatesnotstrictscaling",
+        "panic10times notcausalcoefficient",
+        "lastdoomconditional publicalertness exception"
+      ],
+      "original_visual_spotcheck": {
+        "files": [
+          "P27-QA-images/pdf190.png",
+          "P27-QA-images/pdf200.png",
+          "P27-QA-images/pdf202.png"
+        ],
+        "PDF_pages": [
+          190,
+          200,
+          202
+        ],
+        "printed_pages": [
+          168,
+          178,
+          180
+        ],
+        "all3fullpages_read": true
+      },
+      "independent_arithmetic": {
+        "5percent9200000000": 460000000,
+        "houses460000000div1000": 460000,
+        "peoplehouses5": 2300000,
+        "7500times4381": 32857500,
+        "repair3percent460m": 13800000,
+        "exactremaining": 19057500,
+        "newpeopleexactremaining_div1000times5": 95287.5,
+        "saving100annual3.5": 3.5,
+        "2to3timesinterestpercent": [
+          7,
+          10.5
+        ]
+      },
+      "limits": "notall21scanpagesglyphproofed/nofullAlexander/Elyexternalbooksread"
+    },
+    {
+      "chapter": 13,
+      "full_source_file": "source-chapters/ch13.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          23069
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "palliativesnotcure/somethingstillgovernnow",
+        "5vs10farehypothesis no demandorcostfunction",
+        "inelasticstaplesprofitmotiveweakconstraint",
+        "nearprofitmaxpricehigher/lowerquantity lessresponsibility",
+        "publicmaxutilization/fairreturnpolicy notmeasuredoptimum",
+        "Christianaltruismbeliefnotreligion-basedbehaviorprediction",
+        "communismfutureconditionalnewmotivenotforceortimelineguarantee",
+        "9/10starvation/tenfoldevil rhetoricalnotriskmodel",
+        "charitydoesnotcancelupstreamactions",
+        "higherwagesbothselfinterest/generositypossible",
+        "loss-productionaltruismvsfixedcapitalotherchaptersnotuniquemotive",
+        "memberfraternityexternalpublicextractionbothcanexist",
+        "moralvslegalright/personalempathy/accountability",
+        "ownersthousandjobs/milliondollarshypothesisnotactualcase",
+        "laborleadersnotallsameparasitic orpure",
+        "remedycurevsrevenge notno modernlawresponsibility"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch13-figures-1.jpg",
+        "PDF_pages": [
+          205,
+          206,
+          207,
+          208
+        ],
+        "printed_pages": [
+          183,
+          184,
+          185,
+          186
+        ],
+        "all4prose_actually_read": true
+      },
+      "limits": "notall13glyphpagesproofed;neitherreligiousnorpsychologicalcausalmodelvalidated"
+    },
+    {
+      "chapter": 14,
+      "full_source_file": "source-chapters/ch14.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          29182
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "pureindividual/societismessence notallactualproposals",
+        "mixedinstitutions/publicpostalvsfarmprivateexamples",
+        "govselectioncostcritiquequalifiedprivatecounterexamples",
+        "dependentcities/publiclimitationlongrunbeneficialstronginstitutionbelief notverified",
+        "specialpensionexceptionvsrentseekingwrong",
+        "gas3/.5scenario notauditednetreturn",
+        "authorhundredsrailwayresearchclaim nofullcasecensus",
+        "newentryinevitablemerge oldstrongtheorynotmodernguarantee",
+        "contractsvoidvsdirectmandatorypricecut oldlawnotcurrentantitrustpower",
+        "eighthCENT = .00125USD not.125USD",
+        "indirectcompetitionmitigation uncertain notallpolicyfailed",
+        "ICC/singleunifiednationalmanagement plansnotimplemented repeatnoindependentvote",
+        "two remedies/weakerfirms orpricedqualityregulatedmonopoly",
+        "privatecontrolledvspublicownedconditionalnotblanket",
+        "other equalcapital-heavy labor-lightgovpreference fullsocialconsequencesnotdiscussed"
+      ],
+      "original_visual_spotcheck": {
+        "file": "ch14-figures-4.jpg",
+        "PDF_pages": [
+          230,
+          231,
+          232,
+          233
+        ],
+        "printed_pages": [
+          208,
+          209,
+          210,
+          211
+        ],
+        "all4prose_actually_read": true
+      },
+      "independent_arithmetic": {
+        "oneeighthcent_dollars": 0.00125
+      },
+      "limits": "notall17glyphpagesreproof/currentlawvalidation"
+    },
+    {
+      "chapter": 15,
+      "full_source_file": "source-chapters/ch15.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          23595
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "result": "no_material_misreading_found",
+      "checked": [
+        "govlastresortnotautomaticfeasible/betterauthoradmits",
+        "pastprecedentvsmeritseconomicnorm notcurrentlawinvalidatescontracts",
+        "laborfruitsvsnaturalsite/franchiserightsauthorphilosophy",
+        "publictransfer/privateexpediencyandpublicsupremacystillcontract/compensation",
+        "Crotonproposalnotcompleteexactdisplacement",
+        "Coloradoandratehistoricallegalcommentnotcurrentlaw",
+        "landabundanceandcopperstrongclaim/collapsecrosschapterretained",
+        "necessarycasesseparate/privatewidelyavailable notallnationalization",
+        "7bsitepossiblevaluevs10.197bcensus/3.5mminowners =2kapprox",
+        "20person/incrementhistory70mperson centuries notpopulation/de-duplicatedequalbenefits",
+        "3familysize notextra×3",
+        "chapter14whollyineffective vs225newrivals/judicialmanyyearsyet transition tensionretained",
+        "sugarBarrettquotedclaimnotfulljudgmentread",
+        "industrialpublicfailuregeneralclaim notcomparativesuccesssample",
+        "privateefficientreward stablelowinteresttargetnotrealcashflow guarantee"
+      ],
+      "original_visual_spotcheck": {
+        "files": [
+          "P27-QA-images/pdf244.png",
+          "P27-QA-images/pdf245.png",
+          "P27-QA-images/pdf247.png"
+        ],
+        "PDF_pages": [
+          244,
+          245,
+          247
+        ],
+        "printed_pages": [
+          222,
+          223,
+          225
+        ],
+        "all3fullpages_actually_read": true
+      },
+      "independent_arithmetic": {
+        "7bdiv3_5m": 2000,
+        "3_5mtimes20": 70000000
+      },
+      "limits": "notall14pageglyphproofed/currentlaws/fullcourtdecision notread"
+    },
+    {
+      "chapter": 16,
+      "full_source_file": "source-chapters/ch16.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          13000
+        ],
+        [
+          13000,
+          26000
+        ],
+        [
+          26000,
+          39000
+        ],
+        [
+          39000,
+          52000
+        ],
+        [
+          52000,
+          63730
+        ]
+      ],
+      "full_chinese_dossier_compared": true,
+      "full_numeric_review_JSON_read": true,
+      "full_authorfootnote6_read_and_originalPDF255256_visualconfirmed": true,
+      "result": "no_material_direction_misreading_found_three_percent_unit_wording_corrections_requested",
+      "checked": [
+        "allplansauthoroutlinefallible/circumstancechanges notenacted/tested",
+        "legalfixedcapitaltitlepublicvsbondholdereconomicvsoperatorrollingstock",
+        "3.25rent/3coupon/.25ppfee25yr revalrefinance noallprincipalrepaid",
+        "ABC3m6%rent3%coupon10yrsimple900kvs>1m needsunstatedreinvestment",
+        "2/3governmentdirectorsnotauditguarantee",
+        "4–8divoperatingcapital1.25rollingcostnotmarketprice",
+        "25petition9/8branchvs8/7plusneglectbranch3.5/4.5raise6targetspecified",
+        "2yrdelay/no-risk/nobankruptcyauthorassertions notsafe",
+        "wholecostvsrelativecommoditycharges footnoteformeroppositeview retained",
+        "coal/ironvsCuZnPb lowestpitpricebidnothighestleasebid",
+        "minesvaluealwaysrise oldstrongclaim contradictedtechnology/demandpossibilities",
+        "waterpublicoperatingexceptionlightingprivate/newtownelectric vsoldgaslonglife",
+        "citybaselegalrate separate2pp/1.5pp/1ppdifferences/least1expert director",
+        "12croundtrip3perride6csave300days18dassumption",
+        "Polis1.5worksmarketbase6minus3 30%simple34.3916%with3reinvest unknownbasis",
+        "tradeprivatecurrently/legalizecontracts historicproposalnotcurrentlegalclaim",
+        "nondiscriminatorypublishedstablepricesnotequalreasonableprice",
+        "potentialentrantlimitedlowfixedcapital highcapitalhard",
+        "privatecorporatereforms2classes/nowmodernstructuresnotautomaticexcluded",
+        "Barrettauthorquoteonlymodifiedcommonlawvsch14stronginvalidity preserved",
+        "tariffuniversalitych16 vs exceptionsch7/intlcombine",
+        "laborcapitalrightssymmetrybutcoercionnotallowed historicalpolicy",
+        "wageratequestionexplicitlyundecided/skillunionch8 tension",
+        "97%claimednogiven census/8%hypotheticalbuildernotcauseestimate",
+        "nostrikesessentialproposalnotcurrentlaw",
+        "employeeparshares symmetricnoticepenaltynoriskliquidityguarantee",
+        "patriotism/wisdom/honor normsnotmodelpersonality"
+      ],
+      "original_visual_spotcheck": {
+        "files": [
+          "P27-QA-images/pdf252.png",
+          "P27-QA-images/pdf254.png",
+          "P27-QA-images/pdf255.png",
+          "P27-QA-images/pdf256.png",
+          "P27-QA-images/pdf258.png",
+          "P27-QA-images/pdf266.png"
+        ],
+        "PDF_pages": [
+          252,
+          254,
+          255,
+          256,
+          258,
+          266
+        ],
+        "printed_pages": [
+          230,
+          232,
+          233,
+          234,
+          236,
+          244
+        ],
+        "all6fullpagesincludinglongnote_actually_read": true
+      },
+      "independent_arithmetic": {
+        "ABCannualspread": 90000.0,
+        "ABC10yrsimple": 900000.0,
+        "ABCendyear3reinvest": 1031749.1380323659,
+        "Polis10yrsimplefraction": 0.3,
+        "Polisendyear3reinvestfraction": 0.34391637934412195,
+        "commuteconditionaldays": 300.0
+      },
+      "minor_wording_findings": [
+        "五个百分点收益水平应百分之五",
+        "八个百分点借款条件应年利率百分之八",
+        "九十七个百分点人口应百分之九十七"
+      ],
+      "limits": "notall37scanpagesglyphproofed;no fullstatutes/courtcase/hypotheticalimplementationverified"
+    }
+  ],
+  "review_time_original_hashes": {
+    "ch07-reading-audit.json": "ea20cd90d8a5c418a200d439f9f7ee3f8977daeca453564ec5db2fae0d6b1577",
+    "ch14-reading-audit.json": "fdcc29b45c6830ca87a82d4266a3cdd59a6fe77676c0a427bd81a663f07d6d6c",
+    "ch10-source-numeric-review.json": "86e34c0035e969e164946c21a5e20bbed44075f1e6da2abf316a31cade2a3b45",
+    "ch06-source-numeric-review.json": "0935da9126903f91d5afd6c3637ba30ab9983800bf20584cba9df006902453a9",
+    "ch09-reading-audit.json": "0a344cdd197658efbf6856aa57f3359be06b2231c310c28135ac718bc13d7190",
+    "ch04-reading-audit.json": "ab5236fd462c0534c0ecf19227bc2baade3eb72edd7d62826caeb85221fdd52e",
+    "ch12-reading-audit.json": "e44ce91d32ec1f3e06f305abc7f47918e346ad2188811be7ae9982661b88de62",
+    "self-validation.json": "fdbfa512aa16feb0e8de88515f17c58a36cce3ec76c6baf162979ceb5d99194f",
+    "ch05.md": "d83be2ca45648088499f5eac45377e7c35676af698627ad41f9699876894f5fd",
+    "ch15.md": "f0acd51015206a54c89afc0a86cee8cc9400dff4bcaeedbde74867b039bc1156",
+    "ch02-reading-audit.json": "81189a50b6c494289182a1ccfbf2585c40ad3e5fd93ab494a4945c4061def1bf",
+    "ch11-source-numeric-review.json": "23ea706ea91eac6598028ae271b49f2cec1750b0873d5f0bfdf81a9a9632fe0f",
+    "ch01.md": "fc46d5244fc94edeff5285ad5dfbcfab0d7fe17dc91084151e4efade0e5968d9",
+    "ch07-source-numeric-review.json": "81b8e99b5c1faf65b1fe915b27d6a45c6b352786e66bd1643995d88cc60d0ad3",
+    "ch11.md": "17321e4139e6503a55fda751097b4295ae553b6ec15c9f32bd4578af33ab0a91",
+    "source-fragments.json": "e5d9ddec1ff8b05149827f4f3fff18f81c1ac86c7f300b2f67a9b270840d7d0b",
+    "ch10.md": "ea7fc11798d3b1862aa4fe9450fb22625f11535f355211bfb9add3f29686eada",
+    "ch16-source-numeric-review.json": "adb83c069a827b99c1ed7b1c4b1596626cb1d9fc537f171412ed5aba4752100b",
+    "ch01-reading-audit.json": "82a46752a53c2ec18812fbaa5dbf0b7997af0c427ae9dcaaad68c25024680e6e",
+    "ch04.md": "bb71181f6559a274ab0f10662d25e1e174a92965ecd7bb89b1bf4fb390bd4153",
+    "ch14.md": "aa019dca48cccb697f2f2bbb99b36082aa510b43595b804e2827b2ffb80b973a",
+    "ch11-reading-audit.json": "231a5e0faffc3d430381770238c95733592562b626247a6fc2460b040e9ccc07",
+    "expert-definition.json": "60a3fa01d9a0712aac44b98a1ed869b9daba0c9663cf1943aedb64a7bef1a36b",
+    "ch03.md": "e585d3dd2367e81ac06f24da6b195bf3a3eb59d10e1b053426199b56c38f4189",
+    "ch13.md": "3e874de4740e73f5edd14a591f06143a219dab004e216807ebd88344c6837b86",
+    "ch05-source-numeric-review.json": "ab57d49345de890f2c4de58c2705d2d14525f36ce716a6e5ed17927ae2222407",
+    "ch09-source-numeric-review.json": "50671423646d8ee8c882f6ef07d46834d5ba2573005f766fc7210a68afa4353a",
+    "ch10-reading-audit.json": "211bdbe4f14544a95f475a6f67f90eed404e57ca6187ecf9ec2177ef2a379af6",
+    "ch07.md": "0e2de21311a4d764265d16f79a06ada560027aa474e09e63fedfa89751320559",
+    "ch13-source-numeric-review.json": "1572d2a08c777b1aa59443312d44dcbd86a3e9cbf45efb0cc6c0f16dbc68e29d",
+    "ch03-reading-audit.json": "1134ae8741dc8f09f4182392d7d832d7791db4d66b7ffbad300fc42af42be1b7",
+    "ch14-source-numeric-review.json": "53349e0e69e28a5ade2d0afb4fd4f91981955ce1b4b9cc3df262d9105a18dc82",
+    "ch06.md": "adc6af5cf835b290867dae13ec6a399b84decd1379e4d659795c16dc7fdbc241",
+    "ch13-reading-audit.json": "d31fb280eb06914d007be4dc5aa612bcf5c53a2da14add54196b9f9143bd5d9e",
+    "全书逐章深读.md": "2002d21505a7fcc7ae51c12d3d4f31905f7763fcd813ceb539f8e40a97e613a5",
+    "ch16.md": "d9ab1517343d7b74afd158256d02e912bcc9463c82e39b21d69afbc2aeded8b6",
+    "ch02-source-numeric-review.json": "6dfdbe5a3c98fb49536550d03be0ee0db40149285db739ed40be23380dcc38a1",
+    "ch02.md": "79cadae08b99d12732e7742e7192ab9531d4ffc5701ae427eb50960f818ef204",
+    "ch12.md": "bd39758067f96babecf53e2873babfb888c4b4aa69e508e108f783b6e1215844",
+    "ch15-source-numeric-review.json": "886505a5e623927dcbe761394f6d005d377ef4a6e47b48490a58cbe04127a554",
+    "ch09.md": "189fa6c6dc375369c8004b9f396bce8589f798eae6dbf35912621e8f3f3bfa84",
+    "ch03-source-numeric-review.json": "6b534d23432592f358f42c842d2a13e331756fddaf9e9ad910f49c9b2d0ae80d",
+    "ch08-reading-audit.json": "9bffcdf637b47ed5de5143b97cfd24b6430f2289d8c19cd689e5fecb761127e8",
+    "ch05-reading-audit.json": "657877e8dc5c6cd4e425fd8bb7edc9f03f501176225955b4af65204823de9d71",
+    "ch15-reading-audit.json": "8e59c96c2be1c3dbd65f9876adf0d6dc7378f64fa55de237177bdb37a467fc05",
+    "front-matter.txt": "0c9d6e1266a1ebf610fb2a48d25499206ff5e99e685a4d12701f57887de24dbb",
+    "ch16-reading-audit.json": "c51c28614a3af26b047fbf381fc8b87cd341dfb47121dc0c9d27ddee509c734f",
+    "ch06-reading-audit.json": "aa132520ff10718ca61a54774362a31d86a7781f22d47defddc69f83f988deab",
+    "back-matter.txt": "6e25d51ecf7e5933cf29cd412d9fbc27f807ce1ad2c21c295100d211ebff985f",
+    "ch08.md": "287220d233597135684613dee8a3b9b10105255a971ca79550251f6e2813bafe",
+    "reading-audit.json": "7934fc8065a94781e9b60cfcea5909d613e450e3a3541b057f41293eee99c7ab",
+    "ch04-source-numeric-review.json": "04477f2baccb092e76ddb6e60511c14f053b824871f06b5b1b9920dd4f74956f",
+    "ch08-source-numeric-review.json": "77362b7064da2fb1ddf6575884030cad7a8e041482a2f89a070d152ee354e5ac",
+    "source-plan.json": "e2b6b78a5c3b1df7285faba3c401fb8e047d3169fdfc338bd9fccaaf3c624ae8",
+    "专家说明.md": "3e66047f1e0252d181078afb57c37cade134ff70fc7a73aa0d0275f233f723e8",
+    "ch12-source-numeric-review.json": "24dabd1c8b0b0bc566c6423e07e6d0024f5841206287f64beeea3a277399782a",
+    "全书综合与附录.md": "0f9cd8abcfe7fa630973166be7be603a88e7f3217fd954b70c9a6513b55d893e",
+    "source-chapters/ch08.txt": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+    "source-chapters/ch09.txt": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+    "source-chapters/ch16.txt": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+    "source-chapters/ch02.txt": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+    "source-chapters/ch03.txt": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+    "source-chapters/ch01.txt": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+    "source-chapters/ch15.txt": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+    "source-chapters/ch14.txt": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+    "source-chapters/ch04.txt": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+    "source-chapters/ch10.txt": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+    "source-chapters/ch11.txt": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+    "source-chapters/ch05.txt": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+    "source-chapters/ch13.txt": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+    "source-chapters/ch07.txt": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+    "source-chapters/ch06.txt": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+    "source-chapters/ch12.txt": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf"
+  },
+  "current_canonical_review_snapshot_hashes": {
+    "expert-definition.json": "60a3fa01d9a0712aac44b98a1ed869b9daba0c9663cf1943aedb64a7bef1a36b",
+    "source-fragments.json": "e5d9ddec1ff8b05149827f4f3fff18f81c1ac86c7f300b2f67a9b270840d7d0b",
+    "reading-audit.json": "a5478c9665743dd3db2702bc1b0b7dd8147cbf34d4515204c86df33826ac58e8",
+    "source-plan.json": "df1910f6361a69df23a65515809ee980cbebfaf64ca0a65493c113ea60da8094",
+    "全书综合与附录.md": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1",
+    "专家说明.md": "e51396518dd4505a35acbe9217c011e1975f8d3fbb840abad3d23c1b23352b2c",
+    "ch16.md": "e3a4365d147b02ab93d2ae292b05fcd0eb1af9a1e580eab64a2164d08c5f804e",
+    "全书逐章深读.md": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86"
+  },
+  "candidate_hashes": {
+    "expert": "76e20901e14d64a5232b30a9d077472f87e2a9990f2f8c446d3bf177a1000fff",
+    "additions": "20a3c2cfc76ff1f13f14b285d693af7486c6371ec13c491f25908872c159f644"
+  },
+  "mechanical_checks_separate_from_semantic_review": {
+    "all16body_counts_min2000_and_total20000": true,
+    "all101old_and_new_source_hashes_character_ranges_valid": true,
+    "all72source_refs_defined": true,
+    "all72prediction_and_historic_threshold_validity_false": true,
+    "original78fragments_not_changed_by_reviewer": true,
+    "actual_model_calls": 0
+  },
+  "remaining_action": "Complete-source semantic review and final canonical identity recheck closed. This final metadata step is not another every-glyph rereading.",
+  "limits": [
+    "Complete independent source reading used consecutive PG1889 transcription and all front/back author matter; obtained scan title1890/copyright1889 is same work, not asserted glyph-identical.",
+    "Original images independently checked only at listed critical pages/tables/diagram; did not independently proofread every glyph of all263 author pages or borrow the author full-image status.",
+    "Original292-page PDF retained; library stickers obscure advertisements, handwriting not perfectly deciphered.",
+    "Entire census volumes, cited books, complete court cases/statutes and current law not all independently verified; references are not extra books read.",
+    "Coal3-dollar difference, linseed14/15 difference, gas price arithmetic gap, unstated debt reinvestment assumptions and author cross-chapter tensions retained.",
+    "No modern experiments, actual model runs, calibrated probabilities, current execution authority or author personality simulation."
+  ],
+  "author_finalizer_rerun": false,
+  "goal_tools_called": false,
+  "canonical_corrected_expert_passed": true,
+  "canonical_merge_hashes_before_metadata_sync": {
+    "expert-definition.json": "6ddc841794efe70bce7ac1bafd9a32af16077c7b6a875e30cb3f59b0b413f847",
+    "source-fragments.json": "bdcda38552a03c0cefe56fab1a45863ccdaa04780bc3890cef3e6e8a81d89aed",
+    "reading-audit.json": "ebf82dada1cf2e575116bc7be785c97a1528e2c196376467baa8a4202f566941",
+    "self-validation.json": "fdbfa512aa16feb0e8de88515f17c58a36cce3ec76c6baf162979ceb5d99194f",
+    "全书逐章深读.md": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86",
+    "全书综合与附录.md": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1",
+    "专家说明.md": "e51396518dd4505a35acbe9217c011e1975f8d3fbb840abad3d23c1b23352b2c"
+  },
+  "canonical_merge_recheck": {
+    "all72_rules_equal_reviewed_candidate_except_authorized_boundary_punctuation": true,
+    "other_expert_semantic_fields_equal_candidate": true,
+    "all23_new_fragments_exactly_equal_reviewed_additions": true,
+    "original78_fragments_retained_exactly": true,
+    "all101_text_hashes_valid": true,
+    "all_added_source_character_ranges_and_file_hashes_valid": true,
+    "all16_primary_chapter_sources_and15_unchanged_drafts_match_review_time": true,
+    "chapter16_and_synthesis_only_five_authorized_percentage_unit_and_count_replacements": true,
+    "body_han_total": 43017,
+    "chapter_counts": [
+      2565,
+      3122,
+      3073,
+      2723,
+      2713,
+      2697,
+      2603,
+      2483,
+      2592,
+      2447,
+      2530,
+      2816,
+      2368,
+      2331,
+      2452,
+      3502
+    ],
+    "canonical_and_root_copies_identical": true,
+    "original_scan_glyph_limits_retained": true,
+    "author_finalizer_rerun": false,
+    "goal_tools_called": false
+  }
+}

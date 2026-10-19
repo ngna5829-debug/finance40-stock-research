@@ -1,0 +1,32 @@
+{
+  "bookId": "P38",
+  "withdrawnOriginalBookErrorClaims": [
+    {
+      "issue": "Operatingincomegrowthdifference arithmetic",
+      "printed_page": 132,
+      "author_meaning": "5500from43000minus38000",
+      "independent_analysis": "5000"
+    },
+    {
+      "issue": "Charlie operating/nettableerror",
+      "printed_page": 155,
+      "author_meaning": "PrintedOI99000NI84000",
+      "independent_analysis": "Rowsyield98000/83000;1k gap unresolved;integerpercent mayhide"
+    }
+  ],
+  "actualCorrectFigures": {
+    "printed132pdf147": "OI43000−38000=5000, both original formula and table agree",
+    "printed155pdf170": "depreciation5000;289000−75000−5000−85000−25000=99000;99000−1000−14000=84000"
+  },
+  "cause": "Original dossier figure misreading, not an error in the original book.",
+  "sourcePDFUnchanged": true,
+  "oldDossierAndArithmeticPreserved": true,
+  "rootActualOriginalFigureReview": [
+    "practical_team/P38-QA-images/pdf147.png",
+    "practical_team/P38-QA-images/pdf170.png"
+  ],
+  "remainingEBITDAAndOCFIssues": "Retained, independent whole-book review still in progress",
+  "chapter5Han": 3989,
+  "bookHan": 75134,
+  "chapter5Sha256": "99764f304fa54d8d68fa5c7b0bd3f3d9d0d95aed55d85a55f84f1a9011941c67"
+}

@@ -1,0 +1,54 @@
+{
+  "tables": [
+    {
+      "file": "work/book-experts-v5/value_team/P20/source-review/ch29/England_banking_1902_02_19.csv",
+      "rows": 9,
+      "sums": {
+        "liabilities": "74803588",
+        "resources": "74806588"
+      },
+      "unit": "GBP"
+    },
+    {
+      "file": "work/book-experts-v5/value_team/P20/source-review/ch29/England_issue_1902_02_19.csv",
+      "rows": 4,
+      "sums": {
+        "liabilities": "52876780",
+        "resources": "52876780"
+      },
+      "unit": "GBP"
+    },
+    {
+      "file": "work/book-experts-v5/value_team/P20/source-review/ch29/France_1902_02_27.csv",
+      "rows": 16,
+      "sums": {
+        "liabilities": "5185811",
+        "resources": "5185811"
+      },
+      "unit": "thousand_FRF"
+    },
+    {
+      "file": "work/book-experts-v5/value_team/P20/source-review/ch29/Reichsbank_1902_02_28.csv",
+      "rows": 12,
+      "sums": {
+        "liabilities": "1996491",
+        "resources": "1996491"
+      },
+      "unit": "thousand_DEM"
+    },
+    {
+      "file": "work/book-experts-v5/value_team/P20/source-review/ch29/Scotland_1901_06_30.csv",
+      "rows": 11,
+      "sums": {
+        "liabilities": "137687",
+        "resources": "137687"
+      },
+      "unit": "thousand_GBP"
+    }
+  ],
+  "all_five_original_tables_rows_actually_visually_read": true,
+  "raw_sources_not_changed": true,
+  "BoE_liability_shortfall_GBP": 3000,
+  "BoE_banking_cash_to_public_liabilities_pct": "47.18679647812309037681631063",
+  "no_all_glyphs_or_underlying_assets_verification": true
+}

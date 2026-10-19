@@ -1,0 +1,52 @@
+{
+  "book_id": "P12",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "issues": [
+    {
+      "lines": [
+        625,
+        640
+      ],
+      "type": "observer_motive_uncertainty",
+      "resolution": "作者明承片面与误判动机，强人物断言不是心理/临床事实认证"
+    },
+    {
+      "lines": [
+        732,
+        760
+      ],
+      "type": "attributed_national_stereotypes",
+      "resolution": "所归Clemenceau民族性世界观非本专家认可，宗教/外貌/国籍不做现代特征"
+    },
+    {
+      "lines": [
+        848,
+        876
+      ],
+      "counter_conditions_lines": [
+        1039,
+        1078
+      ],
+      "type": "power_vs_feasible_use",
+      "resolution": "兵粮财杠杆存在不等可无成本动用，原另列国内/同盟/国联退路代价"
+    },
+    {
+      "lines": [
+        1146,
+        1185
+      ],
+      "type": "terms_and_function_need_full_legal_context",
+      "resolution": "实际否决/管制与漂亮名词分开，所引非本次全文条约法律核证；养老金加入不等全部战费已索"
+    },
+    {
+      "lines": [
+        1193,
+        1225
+      ],
+      "type": "not_heard_vs_written_reply",
+      "resolution": "原明确载德方书面答复，不能绝对说德完全未获任何响应机会；有效讨论与实听范围后章核"
+    }
+  ]
+}

@@ -1,0 +1,1674 @@
+{
+  "book_id": "P07",
+  "expert_id": "P07-Hirst",
+  "expert_count": 1,
+  "book_count": 1,
+  "title": "The Stock Exchange: A Short Study of Investment and Speculation",
+  "author": "Francis W. Hirst",
+  "first_publication_year": 1911,
+  "source_sha256": "11164d33cc6441a6652941f0e97ac31143953c1e76169b014cbed5f55e920945",
+  "scan_printing_year": "unknown",
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "literal_all_printed_words_verified": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "judgment_object": "具体证券权利、融资与结算、发行中介激励、信用与实际变现性；以1911作品为知识依据。",
+  "not_a_quote_from_author": "以下中文提示词、输入门和反证协议为项目的现代知识使用纪律，未归成原书算法。",
+  "callable_system_prompt": "你是P07《The Stock Exchange》的单书专家，仅代表Hirst此书中已逐章完整语义审读的论证，不代表作者其他作品。每次先指出判断对象、研究截止时间和具体证券合同；只在本书规则列明的条件下解释，附原文行号与一基PDF页。区分作者原话的转述、历史实例、被引作者和你提出的现代分析。报价、价格、价值、票息、到期收益、名义资本、实际缴款、净新增资本、成交量、实际机构资金分别核实。缺契约、收益、报价时点、可执行卖价、资金或法律资料时，说明缺项并对对应结论弃权，不能以一般教训代填数据。保留已列OCR和原书历史错误；纸本一致不等于历史准确，未核历史数值不进回测。投资与投机取决于实际风险，不只看持有意图；机构、挂牌与超额认购均非安全证明。原书行业和国家评价限其时点，不生成今日风险等级。现代阈值不得署为作者规则。本次未接入合格行情输入，current_stock_decision_enabled为false；没有运行投资实验，不输出个股买卖动作或准确率。被其他书质疑时列实际原段及条件、数据和反证；引用别书是外部参考，不增加新的专家票数，也不声称其全书已读。",
+  "input_contract": {
+    "required_for_concrete_security_judgment": [
+      "截止时点和问题范围",
+      "证券法律身份与完整权利条款",
+      "同期间收益固定费用和债务",
+      "融资、结算和追加责任",
+      "带时间来源的可执行双边报价与实际成本"
+    ],
+    "conditional_inputs": [
+      "矿业储量寿命和独立报告",
+      "发行用途、净额和承销合同",
+      "跨境支付与司法执行",
+      "新闻原始文件与利益关系"
+    ],
+    "current_missing": [
+      "未接入当代行情、公司财务、合同或实名机构资金"
+    ],
+    "missing_required_data_action": "abstain"
+  },
+  "rules": [
+    {
+      "id": "P07-R01",
+      "title": "通常环境是保全论的条件",
+      "author_claim_paraphrase": "作者认为审慎、自制者可在通常时势中保全本金并取得稳定分配。",
+      "evidence": [
+        {
+          "chapter": 0,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            185,
+            192
+          ],
+          "source_excerpt_sha256": "b87090343683afdf1d4849fdc3ca732170b547f73294434fe667d5d147c76e29",
+          "pdf_pages_inclusive": [
+            13,
+            13
+          ],
+          "printed_pages_nominal": [
+            9,
+            9
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者认为审慎、自制者可在通常时势中保全本金并取得稳定分配。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "引言的通常时势限定不能覆盖战争、恐慌、违约或所有证券。",
+      "required_inputs": [
+        "投资环境",
+        "资产权利",
+        "投资者实际可承受损失"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "原文是教育性信心，不是每个证券的保本担保；本专家不据此发绿灯。",
+      "evidence_that_would_change_judgment": "违约、购买力损失或清算事实会缩小所谓通常环境的适用范围。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R02",
+      "title": "货币信用制度支持积累但不是单因解释",
+      "author_claim_paraphrase": "作者倾向把货币改良、信用发展和投资渠道增加视为资本积累的重要共同原因。",
+      "evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            585,
+            603
+          ],
+          "source_excerpt_sha256": "88c1a1967069b38af92b5647bfc2f2972330cedbf726bb52c8fd7f1de832d868",
+          "pdf_pages_inclusive": [
+            26,
+            27
+          ],
+          "printed_pages_nominal": [
+            22,
+            23
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者倾向把货币改良、信用发展和投资渠道增加视为资本积累的重要共同原因。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "原文说among various causes且inclined to think，不是已经识别的唯一因果。",
+      "required_inputs": [
+        "货币制度",
+        "产权与治理",
+        "实际生产和资本形成"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "证券可交易不能单独证明实物财富增加；制度史年份另需核证。",
+      "evidence_that_would_change_judgment": "不同制度下同口径产出、储蓄与权利稳定的反例可改变因果权重。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R03",
+      "title": "方案面额、实际缴款和实物需求分别看",
+      "author_claim_paraphrase": "铁路热潮中的拟筹资本、已缴存款、实际建设资本与材料涨价不能混为一数。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            1688,
+            1729
+          ],
+          "source_excerpt_sha256": "f79eef5cc1cb06fdba2906c259becc529e1500a93052a8c3e5b5e54149ee4daf",
+          "pdf_pages_inclusive": [
+            60,
+            61
+          ],
+          "printed_pages_nominal": [
+            56,
+            57
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "铁路热潮中的拟筹资本、已缴存款、实际建设资本与材料涨价不能混为一数。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "1840年代案例和当时表格，未给现代资金流算法。",
+      "required_inputs": [
+        "发行面额",
+        "缴款",
+        "实际投资用途",
+        "材料价格与供给"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "PDF61表首行外国金额48被OCR识别为43；保留原转录，印刷核对另记，不能拿OCR总额做回测。",
+      "evidence_that_would_change_judgment": "经核准的净新投入和材料产能可证明名义募资是否真的造成资源瓶颈。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R04",
+      "title": "报价、价差、佣金与实付不同",
+      "author_claim_paraphrase": "经纪收佣、jobber取价差，名义本金和成交实付不是同一金额。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            2262,
+            2297
+          ],
+          "source_excerpt_sha256": "01ac72a8604d50614475b0dc8ae73092a7217cc9980f60abec0bfee1f87214bc",
+          "pdf_pages_inclusive": [
+            77,
+            78
+          ],
+          "printed_pages_nominal": [
+            73,
+            74
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "经纪收佣、jobber取价差，名义本金和成交实付不是同一金额。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            3500,
+            3513
+          ],
+          "source_excerpt_sha256": "c8080d13b718df06a0d5bb375d064313364a491a2cbdd5f14d876b790eaab0c7",
+          "pdf_pages_inclusive": [
+            114,
+            115
+          ],
+          "printed_pages_nominal": [
+            110,
+            111
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "经纪收佣、jobber取价差，名义本金和成交实付不是同一金额。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "原书伦敦与纽约旧制度例子；费率不跨时代移植。",
+      "required_inputs": [
+        "带时点买卖报价",
+        "成交确认",
+        "面额",
+        "税费与佣金合同"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "标示79不能等同随时双向成交；总成本以实际合同和执行为准。",
+      "evidence_that_would_change_judgment": "成交单与当前收费规则若不同，应替换旧制度成本假设。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R05",
+      "title": "官方挂牌也可能只有陈旧单边价格",
+      "author_claim_paraphrase": "作者警告外国债即使在伦敦挂牌，报价也可能旧到容易买进却卖不出。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            2686,
+            2697
+          ],
+          "source_excerpt_sha256": "f86667225f652f35d67aa70b3f415907a4fb7cdb6f626879292b494beda29c93",
+          "pdf_pages_inclusive": [
+            90,
+            90
+          ],
+          "printed_pages_nominal": [
+            86,
+            86
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者警告外国债即使在伦敦挂牌，报价也可能旧到容易买进却卖不出。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "这是对当时外国债与邮寄推销的警告，不是今天按国家贴标签。",
+      "required_inputs": [
+        "证券身份",
+        "报价日期",
+        "可执行双边市场",
+        "实际成交和出售条件"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "挂牌、收盘价和可变现性各自核实；不能由有价格字段推断流动性合格。",
+      "evidence_that_would_change_judgment": "近期可执行卖价和实际成交量能够修正无法退出判断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R06",
+      "title": "发行人层级和支付地不可用国家标签替代",
+      "author_claim_paraphrase": "作者分别讨论铁路、政府、市政信用及美国市债票息不在伦敦支付造成的实际障碍。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            2660,
+            2682
+          ],
+          "source_excerpt_sha256": "5e7d2c15a1cd178ff1a29da4e6cc14c41caf5342658f245aad20d56fdb278e08",
+          "pdf_pages_inclusive": [
+            89,
+            90
+          ],
+          "printed_pages_nominal": [
+            85,
+            86
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者分别讨论铁路、政府、市政信用及美国市债票息不在伦敦支付造成的实际障碍。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            4541,
+            4556
+          ],
+          "source_excerpt_sha256": "0033ff5b9f19bb3f21887683c47a2e9ee60af03d576f482f6a38d7dbbbf88141",
+          "pdf_pages_inclusive": [
+            146,
+            146
+          ],
+          "printed_pages_nominal": [
+            142,
+            142
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者分别讨论铁路、政府、市政信用及美国市债票息不在伦敦支付造成的实际障碍。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "1911信用层级与英国投资者视角；原书对地区和文明的评价归作者。",
+      "required_inputs": [
+        "具体发行人",
+        "实际收入",
+        "债务条款",
+        "支付地与币种",
+        "司法辖区"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "历史国家排序、殖民地优劣和违约概括都不作为当前信用评级。",
+      "evidence_that_would_change_judgment": "个别发行人的完整财政、担保、支付与违约史可推翻概括。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R07",
+      "title": "随时贷款把融资期限风险传给证券持仓",
+      "author_claim_paraphrase": "纽约call loan可被催还，通常抵押价值高于贷款额；恐慌中可改变对象与保证要求。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            3606,
+            3614
+          ],
+          "source_excerpt_sha256": "eb19bb4f1151bbe6fd44dc4d03523cd33d589c42ee321dbe912a846dbe7b4b38",
+          "pdf_pages_inclusive": [
+            118,
+            118
+          ],
+          "printed_pages_nominal": [
+            114,
+            114
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "纽约call loan可被催还，通常抵押价值高于贷款额；恐慌中可改变对象与保证要求。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            3640,
+            3651
+          ],
+          "source_excerpt_sha256": "537d0c56cb629dcd2a811fa631551bc8646280f827c6103159a809e54082dec9",
+          "pdf_pages_inclusive": [
+            119,
+            119
+          ],
+          "printed_pages_nominal": [
+            115,
+            115
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "纽约call loan可被催还，通常抵押价值高于贷款额；恐慌中可改变对象与保证要求。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "原书日结算市场的融资机制；20%是抵押价值高于贷款的口径。",
+      "required_inputs": [
+        "融资合同",
+        "催还时间",
+        "抵押估值",
+        "自有现金",
+        "替代融资可得性"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "高于贷款20%不等于抵押资产中20%自有权益；旧规则不成为现代最低保证金。",
+      "evidence_that_would_change_judgment": "不可撤销较长期融资、充足现金或真实折扣风险会改变强平路径。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R08",
+      "title": "杠杆放大损益并改变行为",
+      "author_claim_paraphrase": "50%转25%再到十倍持仓的案例说明损益与诱惑相互放大。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            3705,
+            3734
+          ],
+          "source_excerpt_sha256": "71dc76986452e2b3449a2bc671a4da7a1febc7c19b2d133d66cbc37c0c35fbf0",
+          "pdf_pages_inclusive": [
+            121,
+            121
+          ],
+          "printed_pages_nominal": [
+            117,
+            117
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "50%转25%再到十倍持仓的案例说明损益与诱惑相互放大。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "叙事案例不是50%或25%的安全阈值，也不是统计概率。",
+      "required_inputs": [
+        "持仓市值",
+        "债务",
+        "自有资金",
+        "融资成本",
+        "可承受损失"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "现代风险限额应另以跳空、现金和合同测量，不把作者数字当参数。",
+      "evidence_that_would_change_judgment": "真实资金与压力路径若证明有独立承受能力，可调整个案风险评估。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R09",
+      "title": "强大股票池也会被外部萧条击穿",
+      "author_claim_paraphrase": "Pacific Mail池与参与者可因货币紧张和市场抛售遭损，作者叙述60%保证金仍被冲尽。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            3974,
+            4000
+          ],
+          "source_excerpt_sha256": "f8c1a5d9d8d2be059ee07eb157f137b7153f7467d46c9188cf2c6f7db04a041a",
+          "pdf_pages_inclusive": [
+            129,
+            129
+          ],
+          "printed_pages_nominal": [
+            125,
+            125
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "Pacific Mail池与参与者可因货币紧张和市场抛售遭损，作者叙述60%保证金仍被冲尽。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "Hirst转述内部生活案例，并非本项目独立逐笔核证的交易记录。",
+      "required_inputs": [
+        "资金池实际持仓",
+        "融资合同",
+        "外部冲击",
+        "价格与强平路径"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "60%具体分母不明，不能机械等同以买价计算权益比例，不能据此求安全保证金。",
+      "evidence_that_would_change_judgment": "原合同和完整成交单可解开分母；目前保留故事与数字缺口。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R10",
+      "title": "专用抵押资产仍需持续收益",
+      "author_claim_paraphrase": "铁路和专用工厂难以另作他用，原文借Meade指出债权人的实际保障可能是资产收益。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            4759,
+            4782
+          ],
+          "source_excerpt_sha256": "90737bf1a454babc58afaa906baed34b373b95aba4e531fa6783e70186d963b1",
+          "pdf_pages_inclusive": [
+            153,
+            153
+          ],
+          "printed_pages_nominal": [
+            149,
+            149
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "铁路和专用工厂难以另作他用，原文借Meade指出债权人的实际保障可能是资产收益。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "资产可出售性、用途和法院执行均是条件；仅阅读本书所引Meade段落。",
+      "required_inputs": [
+        "资产用途与变现估值",
+        "营业收益",
+        "固定支出",
+        "执行程序"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "first mortgage名称不自动成为本金保护；收益保障和处置价值分别核查。",
+      "evidence_that_would_change_judgment": "经核证的可分拆变现价值或持续收入会改变保障判断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R11",
+      "title": "接管重整的成功不消除债权人受损",
+      "author_claim_paraphrase": "作者批评接管证书可能挤到原抵押之前，并强调B&O最后成功不证明债权人承担风险合理。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            4874,
+            4892
+          ],
+          "source_excerpt_sha256": "60294dc02175695dc70d01eba5aa32814eded9af574da1364be31680f8a19a5a",
+          "pdf_pages_inclusive": [
+            156,
+            157
+          ],
+          "printed_pages_nominal": [
+            152,
+            153
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评接管证书可能挤到原抵押之前，并强调B&O最后成功不证明债权人承担风险合理。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            4976,
+            5008
+          ],
+          "source_excerpt_sha256": "bd4f58f501b475747b9793c4e5f1e9e28310ef68aef8690282bc1a385142a170",
+          "pdf_pages_inclusive": [
+            159,
+            160
+          ],
+          "printed_pages_nominal": [
+            155,
+            156
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评接管证书可能挤到原抵押之前，并强调B&O最后成功不证明债权人承担风险合理。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "当时美国接管实践与合同权利争论，不是当前破产法定律。",
+      "required_inputs": [
+        "债务优先顺位",
+        "信托契约",
+        "接管裁定",
+        "中途出售与最终回收记录"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "公司存活、普通股获益、每个原债权人受益不能相互替代。",
+      "evidence_that_would_change_judgment": "实际裁定、顺位及不同持有人回收可推翻该案类比，不能只展示幸存企业。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R12",
+      "title": "债务核查要包含萧条收益、契约和法院",
+      "author_claim_paraphrase": "作者要求先查萧条年份收益超过固定费用的余量，再读契约并查破产和外国人待遇。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5138,
+            5167
+          ],
+          "source_excerpt_sha256": "6cbe36846638c024f7abc5c02f6b8eabec4a0abef03db9f4a47e2aa639d7d351",
+          "pdf_pages_inclusive": [
+            164,
+            165
+          ],
+          "printed_pages_nominal": [
+            160,
+            161
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者要求先查萧条年份收益超过固定费用的余量，再读契约并查破产和外国人待遇。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "未给覆盖倍数、观察年数或今日司法优劣评分。",
+      "required_inputs": [
+        "跨周期收益",
+        "固定费用",
+        "完整契约",
+        "适用司法与债权人权利"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "PDF164实际写not undervalued的疑难措辞保留，不据此生成估值方向阈值。",
+      "evidence_that_would_change_judgment": "经核证的费用、契约、执行及资产估值可修正结论，国别印象不够。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R13",
+      "title": "优先和累积权利要放在重组顺位中看",
+      "author_claim_paraphrase": "债务先于优先股；累积股息可在重组中被折让，未来追补希望不等于已付现金。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5169,
+            5192
+          ],
+          "source_excerpt_sha256": "357384d25f315727eca3f252e19bff9499da3beb846d3dea9b9de0bc71148ed8",
+          "pdf_pages_inclusive": [
+            165,
+            165
+          ],
+          "printed_pages_nominal": [
+            161,
+            161
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "债务先于优先股；累积股息可在重组中被折让，未来追补希望不等于已付现金。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5198,
+            5214
+          ],
+          "source_excerpt_sha256": "fb14c59da25ef593baf4a2960daf5d5ccb4786ce0d802ab6fce8af3461745359",
+          "pdf_pages_inclusive": [
+            166,
+            166
+          ],
+          "printed_pages_nominal": [
+            162,
+            162
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "债务先于优先股；累积股息可在重组中被折让，未来追补希望不等于已付现金。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "权利是否延伸到清算以实际章程为准，不把优先当债务。",
+      "required_inputs": [
+        "证券类别",
+        "章程",
+        "债务与新增抵押",
+        "累积欠息",
+        "重组条款"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "不得仅由preferred标签把股息和本金列成保证收入。",
+      "evidence_that_would_change_judgment": "核准权利与重组分配方案可修正追补可能性及清算回收。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R14",
+      "title": "矿业分配包含资源消耗且报告有激励",
+      "author_claim_paraphrase": "矿山是会耗竭的证券，高历史股息不证明长寿命；估值与出资专家可能受委托人影响。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5402,
+            5438
+          ],
+          "source_excerpt_sha256": "217cfdb6c147282371034e8baceef5e4cccb26c98fc1c2df52d43012bd16b76a",
+          "pdf_pages_inclusive": [
+            172,
+            173
+          ],
+          "printed_pages_nominal": [
+            168,
+            169
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "矿山是会耗竭的证券，高历史股息不证明长寿命；估值与出资专家可能受委托人影响。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "作者以十年/10%假设说明问题，对一切失败矿山的强烈概括不是本项目证明。",
+      "required_inputs": [
+        "储量与寿命",
+        "资本投入",
+        "商品价格",
+        "运营成本",
+        "报告作者和委托关系"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "现代独立地质核证可以改善估计；原作者认为难知不等于永远无法研究。",
+      "evidence_that_would_change_judgment": "独立储量、审计产量及寿命资料会修正耗竭和利益冲突判断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R15",
+      "title": "金本位固定的是名义价格并非购买力",
+      "author_claim_paraphrase": "金按重量固定铸价不意味着其商品购买力永久稳定，矿业仍受实际价值变化影响。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5523,
+            5535
+          ],
+          "source_excerpt_sha256": "c0ce25a02ab3f2e4dfd7ea850f073ecaf968738dd6282a03e85360f8ed42f536",
+          "pdf_pages_inclusive": [
+            175,
+            176
+          ],
+          "printed_pages_nominal": [
+            171,
+            172
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "金按重量固定铸价不意味着其商品购买力永久稳定，矿业仍受实际价值变化影响。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5541,
+            5557
+          ],
+          "source_excerpt_sha256": "bfa36df89662f5e3ae25c41616dbe8f259017e9afb6e987d257d519d0b13c072",
+          "pdf_pages_inclusive": [
+            176,
+            176
+          ],
+          "printed_pages_nominal": [
+            172,
+            172
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "金按重量固定铸价不意味着其商品购买力永久稳定，矿业仍受实际价值变化影响。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "以当时真实金本位为背景；今日金价和法币制度不满足该前提。",
+      "required_inputs": [
+        "货币制度",
+        "计价单位",
+        "商品价格指数",
+        "矿业收入与成本"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "名义固定与实际稳定分开，不推导今日黄金股的无风险收益。",
+      "evidence_that_would_change_judgment": "同期间购买力指数和成本可以修正实际金价路径。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R16",
+      "title": "投资身份由实际风险决定而非本人意图",
+      "author_claim_paraphrase": "不知自己承受风险不能因此自称投资者；普通人借款超出能力即使买Consols也投机。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5789,
+            5808
+          ],
+          "source_excerpt_sha256": "59f55903a001950eaaa3bea48dbe234c3ebbf6750e5233807060d918b930af2e",
+          "pdf_pages_inclusive": [
+            183,
+            184
+          ],
+          "printed_pages_nominal": [
+            179,
+            180
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "不知自己承受风险不能因此自称投资者；普通人借款超出能力即使买Consols也投机。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "原文对专业交易成员信用经营另有区分，不能把一切借款一概说成同等赌博。",
+      "required_inputs": [
+        "投资者角色",
+        "债务",
+        "资产期限",
+        "本金与现金需求",
+        "经营经验"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "不把长持意图当风险豁免，专业身份也需要真实证据。",
+      "evidence_that_would_change_judgment": "期限匹配、专业经营和独立风险资本证据可改变个案分类。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R17",
+      "title": "多头借钱、空头借股的持续成本不同",
+      "author_claim_paraphrase": "结算延续时多头需资金、空头需交付或借股，contango和backwardation体现相应紧张。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            5938,
+            5972
+          ],
+          "source_excerpt_sha256": "cc1c566b4ffd9c6f0cde68216d60ed7f72dc5550274b280a947fc7241aab55b5",
+          "pdf_pages_inclusive": [
+            188,
+            189
+          ],
+          "printed_pages_nominal": [
+            184,
+            185
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "结算延续时多头需资金、空头需交付或借股，contango和backwardation体现相应紧张。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "伦敦旧account结算制度，书中简化方向推断并非现代期货曲线万能信号。",
+      "required_inputs": [
+        "结算制度",
+        "借款与借股合同",
+        "实际费率",
+        "交付义务",
+        "佣金"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "旧术语不可不经转换直接套ETF、期货或现行融券；费率不是机构资金流。",
+      "evidence_that_would_change_judgment": "当前合同、供给与强制回补资料可修正持仓续作风险。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R18",
+      "title": "利率消息可能在宣布前已进价格",
+      "author_claim_paraphrase": "短贷收益改变专业资金的Consols选择，预期加息便可先压低价格并约束投机融资。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            6399,
+            6428
+          ],
+          "source_excerpt_sha256": "9d37c1fd7f1727ce1688ebfd78296d2bbdcab0c7270dcf3b548894f4c716be6a",
+          "pdf_pages_inclusive": [
+            202,
+            203
+          ],
+          "printed_pages_nominal": [
+            198,
+            199
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "短贷收益改变专业资金的Consols选择，预期加息便可先压低价格并约束投机融资。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "主要以Consols和短贷机会成本解释倾向，不是所有股票对利率机械反应。",
+      "required_inputs": [
+        "截止前可知利率消息",
+        "债券现金流",
+        "融资费用",
+        "当时价格"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "历史实验必须用当时已知的信息，不能把后来的加息事实倒填成可交易信号。",
+      "evidence_that_would_change_judgment": "信用、期限、增长与实际融资反应若相反可改变该条件解释。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R19",
+      "title": "票息、买价、信用和赎回期限联合决定债券价值",
+      "author_claim_paraphrase": "票息和到期赎回是不同现金流，中途价格受信用和国际利率作用。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            6453,
+            6480
+          ],
+          "source_excerpt_sha256": "53fd0561e6f12e58f9fc4ceddc0d8fb702868893e1ed60b04341e72c484cf844",
+          "pdf_pages_inclusive": [
+            204,
+            204
+          ],
+          "printed_pages_nominal": [
+            200,
+            200
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "票息和到期赎回是不同现金流，中途价格受信用和国际利率作用。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "普鲁士千马克债是简化合同例子，到期平价仍隐含履约而非无条件数学保证。",
+      "required_inputs": [
+        "现金流日期",
+        "买价",
+        "赎回条款",
+        "信用",
+        "税费币种与利率"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "票面4%不是所有买价下的到期收益率；未运行收益计算。",
+      "evidence_that_would_change_judgment": "违约、提前赎回或合同不同将修正现金流与价格关系。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R20",
+      "title": "操纵是假设机制且能力有限",
+      "author_claim_paraphrase": "作者用Suppose构造控制铁路、工厂、信用的做空机制，随后说意外事件可能击穿最强组合。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            6595,
+            6628
+          ],
+          "source_excerpt_sha256": "b76e780041538285215096c21014b8e7b72cce050f5e73637bbc82feea54e024",
+          "pdf_pages_inclusive": [
+            208,
+            209
+          ],
+          "printed_pages_nominal": [
+            204,
+            205
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者用Suppose构造控制铁路、工厂、信用的做空机制，随后说意外事件可能击穿最强组合。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            6670,
+            6698
+          ],
+          "source_excerpt_sha256": "a71b425b2ce002a7c7b18691f637f14fb36a437b3343ce37757fbef4cc493079",
+          "pdf_pages_inclusive": [
+            210,
+            211
+          ],
+          "printed_pages_nominal": [
+            206,
+            207
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者用Suppose构造控制铁路、工厂、信用的做空机制，随后说意外事件可能击穿最强组合。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "假设说明不是某次熊市已查明违法行为；灾难与真实经济状况亦影响价格。",
+      "required_inputs": [
+        "控制关系",
+        "真实订单生产与贷款变化",
+        "时间顺序",
+        "外部事件"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "价量或下跌不能独立证明操纵、真实机构净流入或净流出。",
+      "evidence_that_would_change_judgment": "独立持仓、行为证据和事件时间线可支持或反驳操纵假说。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R21",
+      "title": "交易价格与可推测价值不能冒充相同确定性",
+      "author_claim_paraphrase": "作者把成交可得价格与难以确定的真实价值区分，列出利率、收益余量、担保和期限。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            6735,
+            6764
+          ],
+          "source_excerpt_sha256": "9d469bb5532ff1427f702d42889db0c0c5a58b409d505205ce14151042e2fb20",
+          "pdf_pages_inclusive": [
+            212,
+            213
+          ],
+          "printed_pages_nominal": [
+            208,
+            209
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者把成交可得价格与难以确定的真实价值区分，列出利率、收益余量、担保和期限。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "他对gilt-edged近似价格等于价值的说法同样有条件，不是定量估值模型。",
+      "required_inputs": [
+        "可执行报价",
+        "收益与固定费用",
+        "担保",
+        "期限",
+        "信用与折现条件"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "独立估值只给条件和范围，不把作者的不可确定性改写成精确内在价格。",
+      "evidence_that_would_change_judgment": "新合同、收益、担保变化能修正估值范围；报价本身不证实价值。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R22",
+      "title": "出售企业的激励与历史利润外推要分开",
+      "author_claim_paraphrase": "原所有者可在利润顶点出售并减弱投入，公众按两年利润资本化可能接下高价。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7010,
+            7037
+          ],
+          "source_excerpt_sha256": "ea1e790183d653180224fb7084238e7d47edf6a9ebcb31ba6fcffef99c3619f3",
+          "pdf_pages_inclusive": [
+            221,
+            221
+          ],
+          "printed_pages_nominal": [
+            217,
+            217
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "原所有者可在利润顶点出售并减弱投入，公众按两年利润资本化可能接下高价。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "可能情形和旧公司法差异；两年不是通用财务观测窗口。",
+      "required_inputs": [
+        "卖方收入与持股",
+        "利润完整周期",
+        "资产与商誉",
+        "治理",
+        "注册司法"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "IPO并非全部质量差，出售时机与实际权利需个别核实。",
+      "evidence_that_would_change_judgment": "可靠跨周期利润、持续激励与合理售价可以反驳顶点出售推断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R23",
+      "title": "发行申请总额不等于净新资本",
+      "author_claim_paraphrase": "英国1910年Exchequer bonds用于偿还旧战争债；原书明确这是旧公共债的延续。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7114,
+            7117
+          ],
+          "source_excerpt_sha256": "55dc4274d2e0d8010ca2fe66be3413cda6d6f89d26dfab3fa1f88ecdae7dc949",
+          "pdf_pages_inclusive": [
+            224,
+            224
+          ],
+          "printed_pages_nominal": [
+            220,
+            220
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "英国1910年Exchequer bonds用于偿还旧战争债；原书明确这是旧公共债的延续。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7248,
+            7254
+          ],
+          "source_excerpt_sha256": "796952ec5f6e2d623f4bcbac18a9508bb7616085cf0104e4fa5d99a32cedb209",
+          "pdf_pages_inclusive": [
+            225,
+            225
+          ],
+          "printed_pages_nominal": [
+            221,
+            221
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "英国1910年Exchequer bonds用于偿还旧战争债；原书明确这是旧公共债的延续。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "账表的资本申请量、旧债展期、真正新增投入分开。",
+      "required_inputs": [
+        "发行用途",
+        "偿还旧债",
+        "现金实际到账",
+        "资本表类别与时期"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "1909/1910分类差异、OCR金额修订和境外目的地分组不可默默填零或用作机构流量。",
+      "evidence_that_would_change_judgment": "经核证的逐笔用途和净额表可以支持新增资本判断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R24",
+      "title": "促进新生产与垄断合并的效果需分别评价",
+      "author_claim_paraphrase": "作者称诚实发起新事业有公共价值，却批评垄断合并限制供给及原认购者可能失望。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7500,
+            7528
+          ],
+          "source_excerpt_sha256": "e500c1420691b3db8c530a37102d87515ddc03c60e7197684a3637a3fcc3b519",
+          "pdf_pages_inclusive": [
+            228,
+            228
+          ],
+          "printed_pages_nominal": [
+            224,
+            224
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者称诚实发起新事业有公共价值，却批评垄断合并限制供给及原认购者可能失望。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7598,
+            7613
+          ],
+          "source_excerpt_sha256": "a855bf99bddb6aa69d7cf9b9b1b964a3967f2a461bf6b91b277f1093a111c1f8",
+          "pdf_pages_inclusive": [
+            231,
+            231
+          ],
+          "printed_pages_nominal": [
+            227,
+            227
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者称诚实发起新事业有公共价值，却批评垄断合并限制供给及原认购者可能失望。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "是作者的福利与历史判断，并非所有兼并已由数据证明有害。",
+      "required_inputs": [
+        "实际新增产能",
+        "效率成本",
+        "竞争与价格",
+        "推广对价",
+        "原投资者收益"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "现代评价要检验效率、消费者和各类投资者结果；不把作者意识形态当筛股评分。",
+      "evidence_that_would_change_judgment": "经核证效率收益和消费者改善可修正负面合并论，需同口径对照。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R25",
+      "title": "条件包销与确定承购义务不同",
+      "author_claim_paraphrase": "旧式承销承担公众未认购部分，新式firm underwriting须绝对购买约定数量。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7778,
+            7806
+          ],
+          "source_excerpt_sha256": "33e1bb2fd49dd9989f7ed7c2162f3fc2938545287ee01b902bbf89b240b7fc56",
+          "pdf_pages_inclusive": [
+            236,
+            237
+          ],
+          "printed_pages_nominal": [
+            232,
+            233
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "旧式承销承担公众未认购部分，新式firm underwriting须绝对购买约定数量。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "承销安排决定义务；承销商随后销售给客户，不等于长线自有持仓。",
+      "required_inputs": [
+        "完整承销合同",
+        "承购数量",
+        "是否有条件",
+        "实际履约",
+        "最终持有人"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "承销公告、分配数量和永久持有不能混为一项真实机构流。",
+      "evidence_that_would_change_judgment": "合同与实际付款可以修改义务性质及认购解释。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R26",
+      "title": "机构久持与超额认购都需看实际资金",
+      "author_claim_paraphrase": "保险投资可长期持有但灾难会迫其变现；stags超额申请只想转售，未必能实际支付。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7834,
+            7843
+          ],
+          "source_excerpt_sha256": "798d289969f6521a339ca3bf88069077399c5ebd1ad4a59e367d4a74002028b1",
+          "pdf_pages_inclusive": [
+            238,
+            238
+          ],
+          "printed_pages_nominal": [
+            234,
+            234
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "保险投资可长期持有但灾难会迫其变现；stags超额申请只想转售，未必能实际支付。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7854,
+            7874
+          ],
+          "source_excerpt_sha256": "02c00a7f570fb733e72b9948301fab4a3b2f6b2bd7b7eec13e03a044295ac554",
+          "pdf_pages_inclusive": [
+            238,
+            239
+          ],
+          "printed_pages_nominal": [
+            234,
+            235
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "保险投资可长期持有但灾难会迫其变现；stags超额申请只想转售，未必能实际支付。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "作者说有时承销后较稳，不能普遍将承销滞留列为好消息。",
+      "required_inputs": [
+        "保险负债与赔付需求",
+        "认购付款能力",
+        "分配与转售",
+        "实际持仓期限"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "认购倍数、承销剩余和机构标签不独立证明资金稳定或净流入。",
+      "evidence_that_would_change_judgment": "实缴资金、负债结构和持仓变化可修正稳定性判断。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R27",
+      "title": "承销折扣与支付能力影响公众承担成本",
+      "author_claim_paraphrase": "作者批评高隐含承销报酬及无力实际付款的承销人，并区分投机中介和真实购买者。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7913,
+            7926
+          ],
+          "source_excerpt_sha256": "2a399a8167aaf40d17e32c987a19b611dfc9b91f1ea872deb01c0a4ca36a1528",
+          "pdf_pages_inclusive": [
+            240,
+            240
+          ],
+          "printed_pages_nominal": [
+            236,
+            236
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评高隐含承销报酬及无力实际付款的承销人，并区分投机中介和真实购买者。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            7936,
+            7953
+          ],
+          "source_excerpt_sha256": "36ddc853dd4dfca21eee9b5e9c3d0091c447b2cbfb6c772435a7212f28aa953a",
+          "pdf_pages_inclusive": [
+            241,
+            241
+          ],
+          "printed_pages_nominal": [
+            237,
+            237
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评高隐含承销报酬及无力实际付款的承销人，并区分投机中介和真实购买者。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "10%与25%是原作者当时的道德判断例子，不是今天违法认定的门槛。",
+      "required_inputs": [
+        "承销及发行费用",
+        "折扣与销售价格",
+        "承销人资产信用",
+        "支付合同"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "需要现行法规和事实才判断违法，未读法规不做法定结论。",
+      "evidence_that_would_change_judgment": "完整报酬披露、风险承担和履约证据可修正费用合理性。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R28",
+      "title": "家庭风险保障先决定可投资剩余",
+      "author_claim_paraphrase": "作者先考虑人身财产保险与分期购房，再进入证券；房屋升值论明确附often not always和租金条件。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8219,
+            8244
+          ],
+          "source_excerpt_sha256": "4fc0a6ae3e207c650c2b919d5962ef0d82f4b31c8021b0b7c0b364e61cb8b379",
+          "pdf_pages_inclusive": [
+            249,
+            250
+          ],
+          "printed_pages_nominal": [
+            245,
+            246
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者先考虑人身财产保险与分期购房，再进入证券；房屋升值论明确附often not always和租金条件。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "不把旧英国住房与保险经验升格为今日人人买房或强制产品清单。",
+      "required_inputs": [
+        "家庭现金流",
+        "负债和保险",
+        "住房费用",
+        "应急需求",
+        "投资期限"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "本专家只审资金边界，具体产品与现行条款需要新资料。",
+      "evidence_that_would_change_judgment": "实际租购成本、风险覆盖和现金缓冲可改变先后安排。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R29",
+      "title": "分散不能把劣质不流动证券变安全",
+      "author_claim_paraphrase": "作者批评隐含差价推销和跨国撒小钱，同时认为全投单证券或单行业有误。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8280,
+            8299
+          ],
+          "source_excerpt_sha256": "20bb784f78b1ce2b227d2ce4168baaeb0af2347001e38b7c2d1faaf8896ddc4d",
+          "pdf_pages_inclusive": [
+            251,
+            252
+          ],
+          "printed_pages_nominal": [
+            247,
+            248
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评隐含差价推销和跨国撒小钱，同时认为全投单证券或单行业有误。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        },
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8312,
+            8326
+          ],
+          "source_excerpt_sha256": "d5b2f086fce8f43308ea2d006ddd8775d45784a307fbc94b796c947e0efccd8a",
+          "pdf_pages_inclusive": [
+            252,
+            253
+          ],
+          "printed_pages_nominal": [
+            248,
+            249
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者批评隐含差价推销和跨国撒小钱，同时认为全投单证券或单行业有误。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "反对机械地理分散但承认优质可交易证券之间分散；不含最优权重。",
+      "required_inputs": [
+        "单项信用与流动性",
+        "价格透明度",
+        "组合集中度",
+        "风险共同来源"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "跨国数量不等于风险独立，官方报价也不等于即时变现。",
+      "evidence_that_would_change_judgment": "可靠质量、流动性和风险相关资料可修正集中与分散的取舍。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R30",
+      "title": "未缴足股份含显示价格以外的追加责任",
+      "author_claim_paraphrase": "作者警告银行保险未缴股份在紧急时可能催缴，并提及当时Lloyds保险。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8328,
+            8340
+          ],
+          "source_excerpt_sha256": "62c1cb6db602cb42d94b724ac3168b29486f8812c5b30b78d7f9bed02e034373",
+          "pdf_pages_inclusive": [
+            253,
+            253
+          ],
+          "printed_pages_nominal": [
+            249,
+            249
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者警告银行保险未缴股份在紧急时可能催缴，并提及当时Lloyds保险。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "原书历史契约类型，不能假定所有现代股票都有此责任或今天仍有同款保险。",
+      "required_inputs": [
+        "股份是否缴足",
+        "催缴金额和条件",
+        "责任上限",
+        "保险完整合同"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "显示持仓市值不能替代全部法律责任，保险不得仅凭机构名判定可赔。",
+      "evidence_that_would_change_judgment": "当前章程、法律与保险除外条款可改变实际追加风险。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R31",
+      "title": "媒体需查独立性、条件事实及正反两面",
+      "author_claim_paraphrase": "报纸可随产权和广告依赖改变；原书要求坦诚、可靠内外资料及考虑好坏因素的批评。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8360,
+            8386
+          ],
+          "source_excerpt_sha256": "6719beb15483842c04597b71ad949c66300bd6cf1c4a84b3fc92f00df67a2c4a",
+          "pdf_pages_inclusive": [
+            254,
+            254
+          ],
+          "printed_pages_nominal": [
+            250,
+            250
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "报纸可随产权和广告依赖改变；原书要求坦诚、可靠内外资料及考虑好坏因素的批评。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "谨慎偏悲观是作者针对读者乐观的建议，不等于负面新闻一律真。",
+      "required_inputs": [
+        "新闻原出处与日期",
+        "作者和广告关系",
+        "事实核证",
+        "反证"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "现代来源审计与时间截止是本项目纪律；不可把批评立场当已核准事实。",
+      "evidence_that_would_change_judgment": "独立原始文件、利益关系披露和可靠反证会改变采信。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "id": "P07-R32",
+      "title": "长期投资仍需复核且不能超自有资本",
+      "author_claim_paraphrase": "作者在结尾反对普通投资者超资本持仓，强调长期持有并留意不会持久的显著上涨与海外事件。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+          "source_lines_inclusive": [
+            8410,
+            8447
+          ],
+          "source_excerpt_sha256": "c8fee981806511cc0fc0dfae5b26ef813320003c8ed211c6ce23b68a55310144",
+          "pdf_pages_inclusive": [
+            255,
+            256
+          ],
+          "printed_pages_nominal": [
+            251,
+            252
+          ],
+          "page_mapping_method": "IA text nonempty lines match normalized DjVu XML lines exactly; PDF one-based",
+          "paraphrase": "作者在结尾反对普通投资者超资本持仓，强调长期持有并留意不会持久的显著上涨与海外事件。",
+          "source_excerpt_hash_method": "UTF-8文本splitlines后以LF连接指定含端点行区间，不含末尾LF；非该片段原始字节哈希。完整源文件另保持raw SHA。"
+        }
+      ],
+      "author_original_conditions": "4%/5%融资叙述不是今日盈亏阈值；没有卖出涨幅算法或择时准确率。",
+      "required_inputs": [
+        "自有资本与融资",
+        "持仓权利",
+        "重大事件",
+        "收益条件",
+        "实际成本"
+      ],
+      "missing_required_data_action": "abstain",
+      "modern_boundary_or_independent_analysis": "长期不等于永不卖，复核不等于每次价格波动都构成交易信号。",
+      "evidence_that_would_change_judgment": "原判断基础、资金需求和事件改变时可修正持有；缺证据则保留不确定性。",
+      "kind": "historical_investment_institution_reasoning",
+      "book_rule_not_modern_stock_parameter": true,
+      "current_stock_decision_enabled": false,
+      "numeric_experiment_enabled": false
+    }
+  ],
+  "modern_extensions": [
+    {
+      "id": "P07-M01",
+      "label": "信息与合同截止时点及缺项弃权",
+      "not_attributed_to_author_as_algorithm": true,
+      "experiment_status": "未运行"
+    },
+    {
+      "id": "P07-M02",
+      "label": "各现金流口径、净额、份额变化及风险共同来源独立核证",
+      "not_attributed_to_author_as_algorithm": true,
+      "experiment_status": "未运行"
+    },
+    {
+      "id": "P07-M03",
+      "label": "历史陈述与原刻字形分别核验；冲突保持可见",
+      "not_attributed_to_author_as_algorithm": true,
+      "experiment_status": "未运行"
+    }
+  ],
+  "cross_challenge_protocol": {
+    "external_reference_not_new_vote": true,
+    "steps": [
+      "列明对方实际读过的原文及条件，未读整书不得代言",
+      "把争点定位为权利、收益、流动性、激励或制度时点",
+      "区分原书历史主张与现代可检验假设",
+      "按每条规则反证字段说明何种证据可修正；未解决时保留并列条件"
+    ],
+    "internal_tensions": [
+      "保全通常环境与跨章战争恐慌",
+      "优先权纸面保障与接管顺位",
+      "远方推销警告与优质资产分散",
+      "批评投机与创业信用的社会作用",
+      "长持与重大事件复核",
+      "金融中介提高效率与中介激励冲突"
+    ]
+  },
+  "unresolved_gaps": [
+    "扫描实际印次不明，后置广告不倒填正文时点",
+    "Sol重复和南海2000价格原刻保留，历史正确性未核准",
+    "法国市债millions口径不明",
+    "Pacific Mail 60%保证金分母不明",
+    "not undervalued原刻语义疑难",
+    "机构起源若与官方史料冲突，不使用原书版本教授确证年份",
+    "全部表格未完成历史来源和口径逐项核准"
+  ],
+  "external_fact_checks": [
+    {
+      "original_claim": "第一美国银行位于华尔街、第二银行1816–1832",
+      "book_pdf_page": 108,
+      "official_url": "https://www.federalreservehistory.org/essays/first-bank-of-the-us",
+      "second_official_url": "https://www.newyorkfed.org/aboutthefed/history_article",
+      "official_findings": "第一银行1791费城开业；第二联邦特许1836届满。总部、分支和政治阶段不可混用。",
+      "does_not_modify_original": true
+    },
+    {
+      "original_claim": "约13名交易者19世纪初在树下形成NYSE",
+      "book_pdf_page": 111,
+      "official_url": "https://www.nyse.com/history-of-nyse",
+      "official_findings": "官方将起源列为1792-05-17签约24名经纪。",
+      "does_not_modify_original": true
+    }
+  ],
+  "source_scope": "只有本书1部；书目12项、广告、被引Meade/Withers等不计额外已读。原著1911在美国公版，不据未知印次认定所有后广告或现代译本全球公版。",
+  "final_qualified": true,
+  "goal_completion_status_sync": {
+    "final_status_authority_external": "work/stock_app_v5/goal-completion-status-sync-confirmation.json",
+    "scope": "Status-only closure from immutable actual prior semantic-review evidence; no new full source reading, author rule changes, all-glyph or model execution claim."
+  }
+}

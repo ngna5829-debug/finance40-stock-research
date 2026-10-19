@@ -1,0 +1,223 @@
+[
+  {
+    "id": "P22-QA-C01",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R11",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch04-P0021",
+      "P22-ch04-P0042"
+    ],
+    "reason": "美国不承认垄断与州排他安排并存的应用边界需两处原证，现四paragraph_evidence未含它们。"
+  },
+  {
+    "id": "P22-QA-C02",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R13",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch05-P0038",
+      "P22-ch05-P0039",
+      "P22-ch05-P0040"
+    ],
+    "reason": "原分类导语P0037没有三个标签，需同时列实际个人/地方/行业标签。"
+  },
+  {
+    "id": "P22-QA-C03",
+    "kind": "complete_contract_evidence_context",
+    "rule_id": "P22-R14",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch05-P0063",
+      "P22-ch05-P0065",
+      "P22-ch05-P0069",
+      "P22-ch05-P0070",
+      "P22-ch05-P0071"
+    ],
+    "reason": "保完整合同联合P0062–P0070及紧随解释，原片选P62/P64/P66–68不足表示合同全文，不虚称每条片段独自全合同。"
+  },
+  {
+    "id": "P22-QA-C04",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R16",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch05-P0072"
+    ],
+    "reason": "应用边界的纯成本强句/ICC非唯一张力需作者原P72和ICC第四规则双边原证。"
+  },
+  {
+    "id": "P22-QA-C05",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R23",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch07-P0018"
+    ],
+    "reason": "边界同时保长期成功和巨型失败，四十余公司方案三月失败的原证P0018须补，原四锚未含。"
+  },
+  {
+    "id": "P22-QA-C06",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R28",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch09-P0008"
+    ],
+    "reason": "规则应用边界保留原表单位/分母异常，现P7/P12/P14引用未含P8异常表，需表格原证。"
+  },
+  {
+    "id": "P22-QA-C07",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R36",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch10-P0140"
+    ],
+    "reason": "作者字段有法人授权限制，需补Kent特定授予/必要附带powers原段P0140，不只公众征用/补偿段。"
+  },
+  {
+    "id": "P22-QA-C08",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R37",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch11-P0014",
+      "P22-ch11-P0015",
+      "P22-ch11-P0016"
+    ],
+    "reason": "多次转授需McGregor每一轮原记录；原P6/P7/P10/P18不足展现具体连续转授。"
+  },
+  {
+    "id": "P22-QA-C09",
+    "kind": "crosschapter_numeric_evidence",
+    "rule_id": "P22-R40",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch09-P0065",
+      "P22-ch09-P0066"
+    ],
+    "reference_source_sections": [
+      "ch09",
+      "ch11"
+    ],
+    "reason": "应用边界明确前章数字差，应具前章gross表与net/mile段及ch11表双边原证，保两不同数字不选一。"
+  },
+  {
+    "id": "P22-QA-C10",
+    "kind": "crosschapter_tension_evidence",
+    "rule_id": "P22-R48",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch05-P0072",
+      "P22-ch07-P0019"
+    ],
+    "reference_source_sections": [
+      "ch05",
+      "ch07",
+      "ch13"
+    ],
+    "reason": "自定价格盈利推定与先前亏本运输张力，需保作者两处亏本原例的跨章原段，不仅当前P35/P37。"
+  },
+  {
+    "id": "P22-QA-C11",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R54",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch14-P0113"
+    ],
+    "reason": "Author field includes inspection service. P0112 only specifies director and bureaus; examination of reports, office/books entry and boarding trains are in P0113."
+  },
+  {
+    "id": "P22-QA-C12",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R57",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-ch14-P0166",
+      "P22-ch14-P0169",
+      "P22-ch14-P0170"
+    ],
+    "reason": "Safety appliances and the crime-story caution need direct equipment requirement, the P169 Hastings accident claim, and P170 block/continuous brake; current evidence only covers casualty table, rest and other aspects."
+  },
+  {
+    "id": "P22-QA-C13",
+    "kind": "complete_multi_claim_paragraph_evidence",
+    "rule_id": "P22-R58",
+    "existing_meaning_correct": true,
+    "needed_additional_PG_paragraph_ids": [
+      "P22-appendix-P0006",
+      "P22-appendix-P0007"
+    ],
+    "reason": "US/UK different reporting periods claim needs UK December31 1891 heading and specified source, not just the table beginning Mileage."
+  },
+  {
+    "id": "P22-QA-C14",
+    "kind": "source_character_count_basis_clarification",
+    "path": "章节与阅读审计.json",
+    "old_source_UTF8_chars": 920695,
+    "proposed_additions": {
+      "source_UTF8_chars_basis": "Python universal-newline-normalized UTF8 text; original downloaded bytes preserved",
+      "source_UTF8_raw_decoded_characters": 937496,
+      "source_UTF8_newline_normalized_characters": 920695,
+      "primary_semantic_reading_source": "complete supplied PG HTML semantic blocks",
+      "full_UTF8_separately_re_read": false
+    },
+    "reason": "920695 and source manifest 937496 count different newline representations; no source replacement is required."
+  },
+  {
+    "id": "P22-QA-C15",
+    "kind": "primary_representation_reading_boundary",
+    "path": "全书综合与附录.md",
+    "old": "所读主源是PG29294完整HTML与UTF-8文本，",
+    "new": "所读主源是PG29294完整HTML的语义块；完整UTF-8下载原文亦保留并核对哈希，没有将两种表示各自全文重读。",
+    "reason": "The source manifest already explicitly says full_UTF8_separately_re_read=false; avoid an ambiguous claim that two representations were separately fully read."
+  },
+  {
+    "id": "P22-QA-C16",
+    "kind": "historical_pre_reading_artifact_boundary",
+    "path": "章节与阅读审计.json",
+    "proposed_additions": {
+      "historical_source_artifact_states": [
+        {
+          "artifact": "source/extraction-coverage-audit.json",
+          "preserved_stage_field": "all_original_source_read=false",
+          "interpretation": "Preparation-stage extraction record. Keep raw artifact bytes and SHA unchanged. Current complete semantic reading is recorded in newer chapter/nonchapter/independent QA records; this historical false is not a new unread section claim."
+        }
+      ]
+    },
+    "reason": "Retain the source folder original/derived historical bytes, while explaining its preparation-stage false flag explicitly."
+  },
+  {
+    "id": "P22-QA-C17",
+    "kind": "raw_HTML_residual_coverage_limit",
+    "path": "章节与阅读审计.json",
+    "proposed_additions": {
+      "raw_HTML_residual_review": {
+        "actually_read_raw_HTML_context_lines": [
+          390,
+          439
+        ],
+        "head_title_residual": {
+          "html_line": 78,
+          "text": "The Project Gutenberg eBook of The Railroad Question, by William Larrabee.",
+          "classification": "HTML document title metadata"
+        },
+        "body_residual": {
+          "html_lines": [
+            423,
+            426
+          ],
+          "text": "282",
+          "classification": "isolated bare number in PG body wrapper between complete preface paragraphs; origin/meaning not established without same-edition scan",
+          "read_actually": true,
+          "author_prose_missing": false
+        },
+        "original_source_bytes_not_changed": true,
+        "previous_extraction_orphan_count_zero_is_not_an_independent_certification": true
+      }
+    },
+    "reason": "Independent reconstruction finds two residual tokens outside the1826 semantic blocks: HTML title metadata and isolated body-wrapper282. The latter was actually read with entire preface context390–439; origin/meaning unresolved and TXT omits it. Preserve original HTML/TXT and old extraction ledger, do not repeat orphan_count=0 as current independent finding."
+  }
+]

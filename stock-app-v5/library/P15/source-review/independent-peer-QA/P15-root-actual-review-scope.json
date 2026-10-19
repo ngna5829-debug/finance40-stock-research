@@ -1,0 +1,21 @@
+{
+  "book_id": "P15",
+  "reviewer": "root",
+  "review_completed": true,
+  "all13declared_text_patches_read": true,
+  "all9rule_field_changes_read": true,
+  "all17new_full_raw_contexts_read": true,
+  "whole_updated_prompt_synthesis_explainer_read": true,
+  "all_complete_new_context_characters": 48694,
+  "complete_new_context_ids_actually_read": "P15-PEER-A01 through P15-PEER-A17, all full text, three untruncated batches",
+  "complete_rule_changes_actually_read": "All nine declared old/new semantic field values, seven affected rules",
+  "whole_explainer_actual_file": "work/book-experts-v5/index_team/P15/专家说明.md; unchanged candidate",
+  "whole_synthesis_actual_file": "work/book-experts-v5/practical_team/P15-corrected-draft-candidates/全书综合与前后置页.md",
+  "whole_prompt_actual_read": "complete old/new prompt in required-findings.json",
+  "peer_all14_original_chapters_dossiers_293notes_3embedded_appendices_30figures_front_license_globals_review_distinct": true,
+  "root_does_not_claim_a_third_entire14chapter_read": true,
+  "original_scan_obtained": false,
+  "every_original_glyph_verified": false,
+  "current_market_model_calls": 0,
+  "source_and_author_files_modified_before_merge": false
+}

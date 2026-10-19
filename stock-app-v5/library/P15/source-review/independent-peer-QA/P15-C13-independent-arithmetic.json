@@ -1,0 +1,162 @@
+{
+  "book_id": "P15",
+  "chapter": 13,
+  "method": "Fresh manually typed fullmortality/Canada/Germanvisiblevalues from actually read rawTXT; not historical or originalprinting verification",
+  "mortality": [
+    {
+      "year": "1851-60",
+      "town": 24.7,
+      "country": 19.9,
+      "printed_ratio": 124,
+      "fresh_ratio": 124.12060301507539,
+      "fresh_minus_printed": 0.12060301507538895
+    },
+    {
+      "year": "1861-70",
+      "town": 24.8,
+      "country": 19.7,
+      "printed_ratio": 126,
+      "fresh_ratio": 125.88832487309645,
+      "fresh_minus_printed": -0.11167512690354897
+    },
+    {
+      "year": "1871-80",
+      "town": 23.1,
+      "country": 19.0,
+      "printed_ratio": 122,
+      "fresh_ratio": 121.57894736842105,
+      "fresh_minus_printed": -0.4210526315789451
+    },
+    {
+      "year": "1881",
+      "town": 20.1,
+      "country": 16.9,
+      "printed_ratio": 119,
+      "fresh_ratio": 118.93491124260356,
+      "fresh_minus_printed": -0.06508875739643827
+    },
+    {
+      "year": "1882",
+      "town": 20.9,
+      "country": 17.3,
+      "printed_ratio": 121,
+      "fresh_ratio": 120.80924855491328,
+      "fresh_minus_printed": -0.19075144508671826
+    },
+    {
+      "year": "1883",
+      "town": 20.5,
+      "country": 17.9,
+      "printed_ratio": 115,
+      "fresh_ratio": 114.52513966480448,
+      "fresh_minus_printed": -0.4748603351955154
+    },
+    {
+      "year": "1884",
+      "town": 20.6,
+      "country": 17.7,
+      "printed_ratio": 117,
+      "fresh_ratio": 116.38418079096047,
+      "fresh_minus_printed": -0.6158192090395289
+    },
+    {
+      "year": "1885",
+      "town": 19.7,
+      "country": 17.8,
+      "printed_ratio": 111,
+      "fresh_ratio": 110.67415730337078,
+      "fresh_minus_printed": -0.3258426966292234
+    },
+    {
+      "year": "1886",
+      "town": 20.0,
+      "country": 18.0,
+      "printed_ratio": 111,
+      "fresh_ratio": 111.11111111111111,
+      "fresh_minus_printed": 0.11111111111111427
+    },
+    {
+      "year": "1887",
+      "town": 19.7,
+      "country": 17.2,
+      "printed_ratio": 115,
+      "fresh_ratio": 114.53488372093024,
+      "fresh_minus_printed": -0.46511627906976116
+    },
+    {
+      "year": "1888",
+      "town": 20.9,
+      "country": 17.4,
+      "printed_ratio": 114,
+      "fresh_ratio": 120.11494252873563,
+      "fresh_minus_printed": 6.114942528735625
+    },
+    {
+      "year": "1889",
+      "town": 19.3,
+      "country": 16.4,
+      "printed_ratio": 118,
+      "fresh_ratio": 117.68292682926831,
+      "fresh_minus_printed": -0.31707317073168895
+    },
+    {
+      "year": "1890",
+      "town": 20.9,
+      "country": 17.4,
+      "printed_ratio": 120,
+      "fresh_ratio": 120.11494252873563,
+      "fresh_minus_printed": 0.11494252873562516
+    }
+  ],
+  "Germany_rural": [
+    26219000,
+    26318000
+  ],
+  "Germany_rural_fresh_growth_pct": 0.3775887715015802,
+  "Germany_printed_growth_pct": 3,
+  "Canada_cities": [
+    [
+      12407,
+      15826,
+      21545,
+      26717,
+      56092
+    ],
+    [
+      14091,
+      26266,
+      31307,
+      35961,
+      96196
+    ],
+    [
+      19264,
+      31977,
+      44154,
+      48980,
+      181220
+    ]
+  ],
+  "fresh_sums": [
+    132587,
+    203821,
+    325595
+  ],
+  "printed_sums": [
+    132586,
+    203821,
+    325595
+  ],
+  "Paris_age_0_1_original": [
+    "230?",
+    "170?"
+  ],
+  "England1890_missingnationalrate": null,
+  "limits": [
+    "Do not repair originalsource values or declareoriginalprint/census wrong",
+    "Germanythresholdover categories not asserteddisjoint",
+    "Paris1886vsFrance1877-80differentyears",
+    "Crimescharged not convictions/harm or modern grouptrait",
+    "Fulloriginalprintscan unavailable"
+  ]
+}

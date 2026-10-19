@@ -1,0 +1,341 @@
+{
+  "book_id": "P18",
+  "chapter": 24,
+  "status": "full_main_and_all_notes_semantically_read_dossier_saved",
+  "main_read_batches": [
+    [
+      13769,
+      14018
+    ],
+    [
+      14019,
+      14268
+    ],
+    [
+      14269,
+      14518
+    ],
+    [
+      14519,
+      14768
+    ],
+    [
+      14769,
+      15006
+    ]
+  ],
+  "main_argument_end_line": 14997,
+  "following_part_title_excluded": [
+    15002,
+    15006
+  ],
+  "footnotes_read": [
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571
+  ],
+  "footnotes_batches": [
+    [
+      518,
+      544
+    ],
+    [
+      545,
+      571
+    ]
+  ],
+  "visual_pdf_pages": [
+    530,
+    531,
+    538,
+    539,
+    540,
+    541
+  ],
+  "visual_printed_pages": [
+    498,
+    499,
+    506,
+    507,
+    508,
+    509
+  ],
+  "all_chapter_glyphs_verified": false,
+  "table1": {
+    "rows": [
+      {
+        "source_line": 13782,
+        "item": "Loans on real estate                              $",
+        "millions": 2505
+      },
+      {
+        "source_line": 13783,
+        "item": "Loans on other collateral security",
+        "millions": 3975
+      },
+      {
+        "source_line": 13784,
+        "item": "Other loans and discounts",
+        "millions": 4821
+      },
+      {
+        "source_line": 13785,
+        "item": "Overdrafts",
+        "millions": 69
+      },
+      {
+        "source_line": 13786,
+        "item": "United States bonds",
+        "millions": 792
+      },
+      {
+        "source_line": 13787,
+        "item": "State, county and municipal bonds",
+        "millions": 1091
+      },
+      {
+        "source_line": 13788,
+        "item": "Railroad bonds and stocks",
+        "millions": 1560
+      },
+      {
+        "source_line": 13789,
+        "item": "Bonds of other public service corporations",
+        "millions": 466
+      },
+      {
+        "source_line": 13790,
+        "item": "Other stocks, bonds, etc",
+        "millions": 703
+      },
+      {
+        "source_line": 13791,
+        "item": "Due from other banks and bankers",
+        "millions": 2562
+      },
+      {
+        "source_line": 13792,
+        "item": "Real estate, furniture, etc",
+        "millions": 544
+      },
+      {
+        "source_line": 13793,
+        "item": "Checks and other cash items",
+        "millions": 437
+      },
+      {
+        "source_line": 13794,
+        "item": "Cash on hand",
+        "millions": 1452
+      },
+      {
+        "source_line": 13795,
+        "item": "Other resources",
+        "millions": 111
+      }
+    ],
+    "sum_displayed_items_millions": 21088,
+    "total_printed_millions": 21095,
+    "source_and_scan_agree_selected_numbers": true,
+    "small_difference_not_resolved": true
+  },
+  "table2": {
+    "columns": [
+      "State",
+      "National",
+      "Trust",
+      "Aggregate"
+    ],
+    "rows": [
+      {
+        "item": "real_estate",
+        "values": [
+          414,
+          57,
+          377,
+          848
+        ]
+      },
+      {
+        "item": "collateral",
+        "values": [
+          559,
+          1939,
+          1222,
+          3720
+        ]
+      },
+      {
+        "item": "other_loans",
+        "values": [
+          1112,
+          2966,
+          460,
+          4538
+        ]
+      },
+      {
+        "item": "US_bonds",
+        "values": [
+          5,
+          740,
+          3,
+          748
+        ]
+      },
+      {
+        "item": "municipal",
+        "values": [
+          65,
+          156,
+          155,
+          376
+        ]
+      },
+      {
+        "item": "railway",
+        "values": [
+          75,
+          351,
+          362,
+          788
+        ]
+      },
+      {
+        "item": "other_public_service",
+        "values": [
+          50,
+          148,
+          168,
+          366
+        ]
+      },
+      {
+        "item": "other_stocks_bonds",
+        "values": [
+          95,
+          208,
+          769,
+          1072
+        ]
+      }
+    ],
+    "sum_columns": [
+      2375,
+      6565,
+      3516,
+      12456
+    ],
+    "printed_totals": [
+      2375,
+      6565,
+      3516,
+      12456
+    ],
+    "each_row_adds": true
+  },
+  "numeric_and_source_tensions": [
+    {
+      "source_lines": [
+        14019,
+        14025
+      ],
+      "paper_table": 506,
+      "table_securities_sum_millions": 3350,
+      "paper_prose": 508,
+      "prose_securities_total_millions": 3250,
+      "scan_confirms_prose_and_table": true,
+      "action": "Keep source values; do not silently make coherent."
+    },
+    {
+      "paper_prose": 509,
+      "real_estate_percent_printed": 7.4,
+      "computed_from_displayed_table": 6.8079640333975595,
+      "scan_confirms_prose": true
+    },
+    {
+      "note": 558,
+      "due_from_banks_table_millions": 2562,
+      "note_value_millions": 2563,
+      "action": "Retain one-million display discrepancy; not independently resolve governmental underlying figures."
+    }
+  ],
+  "independent_leverage_counterexample": {
+    "purchase": 100,
+    "equity": 40,
+    "debt": 60,
+    "annual_asset_income": 6,
+    "annual_debt_rate_percent": 4,
+    "annual_net_before_costs": 3.6,
+    "equity_yield_percent": 9,
+    "asset_price_after_drop": 70,
+    "remaining_equity_before_costs": 10,
+    "equity_loss_percent": 75,
+    "attribution": "Independent boundary example for source leveraged-carry optimism, not author original return or current recommendation."
+  },
+  "critical_original_limits": [
+    "522 Sprague disagrees on liquidity of city other-loans",
+    "528 single observation weak; 1916 later update",
+    "536 loan/deposit label correspondence rough",
+    "544 illustrative policy suggestion; test system in stress first",
+    "546 floating supply versus repeated turnover, periodic cash locking",
+    "569 equation identity does not prove causal quantity theory"
+  ],
+  "unperformed": [
+    "Underlying Comptroller tables independently read in full",
+    "Modern regulation verified",
+    "Whole scan glyphs checked",
+    "Current stock decision or backtest"
+  ]
+}

@@ -1,0 +1,2061 @@
+{
+  "book_id": "P12",
+  "expert_id": "P12-Keynes-Peace-1920",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "John Maynard Keynes",
+  "title": "The Economic Consequences of the Peace",
+  "edition": "所用题名纽约Harcourt, Brace and Howe1920；序文November1919，不混英国1919首版逐字版本",
+  "first_publication_year": 1919,
+  "role": "契约、真实资源、跨境支付与债务治理知识审查",
+  "system_prompt": "你是P12 Keynes The Economic Consequences of the Peace这册唯一专家。实际所读纽约Harcourt1920题名/November1919序；七原章、168原注及补注、表与末项完整官方电子文本已实际语义读完，没有全本原印扫描，不保证字形/原外交法律全篇/历史底账全核。先识别问题是承诺合法范围、已执行财产、可动现金、簿记credit、年净转出、机构权力或恢复方案；用具体总行区间举证，原事实报告、作者规范与现代分析分列。美元5/镑、金马克20/$5、旧新价/月均年/政府私央行债勿混。赃还、私债优先、已售押证券、船阶段、占军、返粮、credit与净赔不得重复。产能、物流、营养、材料、外方愿接、资金用途或时间缺时，对幅度/概率/时点弃权列缺；本土储蓄不直接作海外付款。源数字、日历和隐模型缺口保留暂停精算，不补位换年加国家平表。公投未定、进口可减损、褐煤未知、煤修订、船粮可合理、Oct未立委等原限制必须纳。动机先承不确定、外貌宗教民族帝国语境不作现代特征，Lenin据说不归本人已核话，医样本不全国外推。灾难非快且必，Europe多排UK；方案未来不是已验成功。跨册质疑须真实契约、执行、替代物流、产能、外需、财政币制及人的意愿，P11后作收窄P12资本levy强规范明确修订，external_reference_not_new_vote、不新增阅读和独立证明票。本次未接合格行情，current_stock_decision_enabled:false，experiments_run:false，不宣称实价、机构净流、选股或投资回测。自检不是独立语义QA通过。",
+  "rules": [
+    {
+      "id": "P12-R01",
+      "chapter_ordinal": 1,
+      "title": "习惯和名义财富不保制度稳定",
+      "author_claim_paraphrase": "熟悉便利可能遮脆弱，名义支出增不证真实富，胜败组织毁损可跨国回传。",
+      "author_original_conditions": "观察位置与实际实施、真实资源不同，非已量化全网络。",
+      "required_inputs": [
+        "实际产出和资本",
+        "供应/信用通路",
+        "条款已执行时点"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            93,
+            122
+          ],
+          "source_segment_sha256": "36d02f568fa2ca1f8027e6daa0f38d1a3ce622c6d644ace37b60f17c6406fe32",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The power to become habituated to his surroundings is a marked characteristic of mankind. Very few of us realize with conviction the intensely unusual, uns",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            132,
+            152
+          ],
+          "source_segment_sha256": "1dd4b0f1c759458324fb4fcc6a73bc3d189359d60c13bc5b1dcfdaf4cd52333f",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "For one who spent in Paris the greater part of the six months which succeeded the Armistice an occasional visit to London was a strange experience. England",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新产力与替代通路可收窄悲观；不由文学场景定概率。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R02",
+      "chapter_ordinal": 2,
+      "title": "人口承载依网络且统计界线分",
+      "author_claim_paraphrase": "工业网络可养更多，断粮料生计紧；人口净减、战死、迁移和地理不是同量。",
+      "author_original_conditions": "欧洲俄罗斯与俄全域不同，净减2.7m不当战死。",
+      "required_inputs": [
+        "同界人口迁移",
+        "食品工业资源",
+        "统计时期定义"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            300,
+            351
+          ],
+          "source_segment_sha256": "e84d1cd1144b43734ae8e506a3f8cead528b59b2784a4775534bb52203e1cbbb",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "In 1870 Germany had a population of about 40,000,000. By 1892 this figure had risen to 50,000,000, and by June 30, 1914, to about 68,000,000. In the years ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            593,
+            601
+          ],
+          "source_segment_sha256": "ba784786a518cbfcb6d25a4b35cc57add7668f1e3bf0ce7379b0336899c14ade",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[1] In 1913 there were 25,843 emigrants from Germany, of whom 19,124 went to the United States.  [2] The net decrease of the German population at the end o",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新生产供应能改变承载上限，拒人口或民族单特征。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R03",
+      "chapter_ordinal": 2,
+      "title": "跨国资本贸易与货币秩序互依",
+      "author_claim_paraphrase": "煤、交通、市场与资本组织相连；作者认为大陆其余地区的繁荣主要依赖德国的繁荣与进取。",
+      "author_original_conditions": "美元由镑按5换、币基期与进口出口不同。",
+      "required_inputs": [
+        "逐品交易替代",
+        "资产与组织资本",
+        "币种时期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            356,
+            412
+          ],
+          "source_segment_sha256": "e59343c802d34ae66f8249e37caadbb8c24d39086f9a3324e64048a86142654c",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The delicate organization by which these peoples lived depended partly on factors internal to the system.  The interference of frontiers and of tariffs was",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            603,
+            604
+          ],
+          "source_segment_sha256": "2817c618fe71161f69b893164b23f2e7ce9b3c5d3e40963c7b206c0c90027125",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[4] Sums of money mentioned in this book in terms of dollars have been converted from pounds sterling at the rate of $5 to £1.",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "实际替代买家、供应和资金通路充分时，收窄德国为主要支撑的普遍断言；贸易排名本身不给当前损失弹性。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R04",
+      "chapter_ordinal": 2,
+      "title": "战前资本积累的不平等与双重心理约定",
+      "author_claim_paraphrase": "作者断言半世纪的大量固定资本不可能在财富公平分配的社会同样形成；它依靠劳动者少消费与资本家少享用的双重约定，战争动摇二者。",
+      "author_original_conditions": "以当时资本家倾向积累、劳动者因习俗和权力接受少份消费的社会心理为前提；战争打破这组约定。",
+      "required_inputs": [
+        "群体实际储蓄",
+        "真实资本形成",
+        "公共或平等替代机制"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            424,
+            504
+          ],
+          "source_segment_sha256": "70e23c2693529c98a36c8812ecf5fac325fb9e7b4afdea27283288252927a46c",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Europe was so organized socially and economically as to secure the maximum accumulation of capital. While there was some continuous improvement in the dail",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "真实替代积累证据可收窄其不能命题，不将复利当无限粮产。",
+      "modern_layer_separate": "没有穷尽公平分配或公共储蓄等替代制度，是本次独立质疑；九成美德的修辞不作为收入90%的储蓄率。核证、去重和证伪属于现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R05",
+      "chapter_ordinal": 2,
+      "title": "粮食总量与实际交换代价不同",
+      "author_claim_paraphrase": "世界麦可供足而真实价上升，旧外资权益与新世界余粮共同支持欧洲。",
+      "author_original_conditions": "当前需求、1909–13产均、战后保证价不同期。",
+      "required_inputs": [
+        "粮产内需余供",
+        "运输和贸易条件",
+        "激励及替代"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            509,
+            567
+          ],
+          "source_segment_sha256": "558f001fcec93790961dba20d03f4284762587fce84b5c8c897dd59fe649adc4",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The accumulative habits of Europe before the war were the necessary condition of the greatest of the external factors which maintained the European equipoi",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            606,
+            615
+          ],
+          "source_segment_sha256": "ec46cd5142372e3a0bdf4712b453624090c92fe5a01c86a2c69b227eb3858c63",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[5] Even since 1914 the population of the United States has increased by seven or eight millions. As their annual consumption of wheat per head is not less",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "技术与新粮源可修，五年一粗述不作固定周期。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R06",
+      "chapter_ordinal": 3,
+      "title": "动机人物描写先限不确定",
+      "author_claim_paraphrase": "作者承认旁观者可能误判动机、无终局判断资格；随后仍以强烈人物与心理解释说明条约形成。",
+      "author_original_conditions": "以本人在场的观察与尚未完成的意志、目的争斗为对象；作者明称所给解释可能片面不确定。",
+      "required_inputs": [
+        "会议档案及独立证词",
+        "逐版草案",
+        "实际权力和目标"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            625,
+            640
+          ],
+          "source_segment_sha256": "c78c0f9b6984c58c38abcbcefbb0adb2faace33d644efcd86b826efe8a04a6b4",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "In Chapters IV. and V. I shall study in some detail the economic and financial provisions of the Treaty of Peace with Germany. But it will be easier to app",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            732,
+            760
+          ],
+          "source_segment_sha256": "37c89091930f2b63637365d54853b4ea0b4533d01f25a6c5b2afdde815d2542f",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "He felt about France what Pericles felt of Athens--unique value in her, nothing else mattering; but his theory of politics was Bismarck's. He had one illus",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "记录反证需改归因，拒人格外貌/宗派自动分。",
+      "modern_layer_separate": "对外貌、宗教、民族标签和临床措辞的限制属于本次现代边界；所归克里孟梭的民族性信念不代表本专家认可，不能当心理机制已获验证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R07",
+      "chapter_ordinal": 3,
+      "title": "草案、顾问入口与退路限制妥协",
+      "author_claim_paraphrase": "先提出、信息隔离及国内同盟风险改变选择，有兵粮钱不等无代价动用。",
+      "author_original_conditions": "英国、美国国内政治，同盟公众反德情绪、国联目标及五个月封闭会议限制总统的替代路线。",
+      "required_inputs": [
+        "草案/顾问参与",
+        "可实施退路",
+        "公众及同盟支持"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            642,
+            670
+          ],
+          "source_segment_sha256": "3ac018b1608e8d11b1d1407d0b28d9ff31df7c1f23fb00d53556564c81fb0d62",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "In those parts of the Treaty with which I am here concerned, the lead was taken by the French, in the sense that it was generally they who made in the firs",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            999,
+            1078
+          ],
+          "source_segment_sha256": "e36f49169b051454f8a7cdfb0ab1b5b3821b0bc5fa6696e5833692868abfedea",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "He did not remedy these defects by seeking aid from the collective wisdom of his lieutenants. He had gathered round him for the economic chapters of the Tr",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            858,
+            876
+          ],
+          "source_segment_sha256": "ec608ef0078ec557fbc2b67aa40708bc4d5e80e431a64f77a25f13e29c32e5f7",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "When President Wilson left Washington he enjoyed a prestige and a moral influence throughout the world unequaled in history. His bold and measured words ca",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A001"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新可行备选证据收窄失败必然，不把声望作知识替代。",
+      "modern_layer_separate": "一次现场叙述不代表全体会议样本，心理归因需要独立档案检验；这属于本次边界。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R08",
+      "chapter_ordinal": 3,
+      "title": "原则措辞须核实际权责且回复存在",
+      "author_claim_paraphrase": "独立自由国际字可含否决控制，原有德国书面答复不等有效听取。",
+      "author_original_conditions": "以本章所引条文、德国书面答复及谈判叙述为依据；作者仍判断德国的实际讨论被拒绝。",
+      "required_inputs": [
+        "相互条款及否决",
+        "讨论和改稿实情",
+        "信息语言入口"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1146,
+            1185
+          ],
+          "source_segment_sha256": "8bac23d52f430345dadd224ea56a9969663138089e7786ae0f789aa5e49332cb",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Thus instead of saying that German-Austria is prohibited from uniting with Germany except by leave of France (which would be inconsistent with the principl",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1193,
+            1225
+          ],
+          "source_segment_sha256": "0f6213a6965e692e63bed1c4ea1905a21d6b31a2e939abac4399eb1de5a1390b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "But the work was too complete, and to this was due the last tragic episode of the drama. The reply of Brockdorff-Rantzau inevitably took the line that Germ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1230,
+            1233
+          ],
+          "source_segment_sha256": "d8a41bce092d2c942205ba5244a08d3e1a30a98ba08f193ae25f26e9f8bacb60",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[6] He alone amongst the Four could speak and understand both languages, Orlando knowing only French and the Prime Minister and President only English; and",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将没有有效听写零回复；新改稿可修无回应结论。",
+      "modern_layer_separate": "本次未独立核完整条约法律适用，原文心理“情结”不作为本专家的临床诊断；书面回复与有效听取的区分仍保留。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R09",
+      "chapter_ordinal": 4,
+      "title": "停战军事条件与和平承诺分",
+      "author_claim_paraphrase": "外交文件链有盟方保留及未定空间，不是所有和平内容无条件交付。",
+      "author_original_conditions": "1918年10月德美公文与11月5日盟方带保留的同意；精神目的难以按契约直接适用，若干具体问题未定。",
+      "required_inputs": [
+        "原文件主体时点",
+        "盟方保留条款与原和平承诺",
+        "具体条文"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1269,
+            1362
+          ],
+          "source_segment_sha256": "0be0df41aa9353208d091495130879656f9cc0a6e317de9863e2af515646809b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "On October 5, 1918, the German Government addressed a brief Note to the President accepting the Fourteen Points and asking for Peace negotiations. The Pres",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2319,
+            2325
+          ],
+          "source_segment_sha256": "bd854b9f1615b059a3cb7fca59ecb637365dff2ef4538907992757e6ad8bcfdc",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[7] The precise force of this reservation is discussed in detail in Chapter V.  [8] I also omit those which have no special relevance to the German Settlem",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不以一种说法判所有严条款违约，缺全文对法律弃权。",
+      "modern_layer_separate": "原电子本Jan8/Jan18日期冲突仍保留，未核原扫描或全部外交文件，不替代现行法律认证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R10",
+      "chapter_ordinal": 4,
+      "title": "产权、债与清算credit分",
+      "author_claim_paraphrase": "国家财产转移而相应负债留德，私产清算有例外；先偿有关私人债与对其他敌国的财产索赔，再依规定处理余额。",
+      "author_original_conditions": "政府与私人、所在地与国籍、居留及新国家的业主收款不同；对德前盟国索赔的宽词是否含私人债，作者注明解释略可疑。",
+      "required_inputs": [
+        "实际权属和债",
+        "清算顺位及所得",
+        "已返或扣赔"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1483,
+            1552
+          ],
+          "source_segment_sha256": "64178d98fa1c068219295045c5befc70783f9a17982bf862d09a2c67e5de15df",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(2) Germany has ceded to the Allies \"all her rights and titles over her oversea possessions.\"[13] This cession not only applies to sovereignty but extends ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1582,
+            1640
+          ],
+          "source_segment_sha256": "184eb610f49f05abdeb2dd5e552bb6feb6e6bf64bd58156b81774999b2b5a9bb",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(_a_) The Allies \"reserve the right to retain and liquidate all property, rights and interests belonging at the date of the coming into force of the presen",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2343,
+            2372
+          ],
+          "source_segment_sha256": "93a6e8358298adc8e9125e8899ab1f5f9095a58f97777780fd7912fc84623e5f",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[16] Arts. 121 and 297(b). The exercise or non-exercise of this option of expropriation appears to lie, not with the Reparation Commission, but with the pa",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "交叉条覆盖同资产不重复，例外与真实返款修全面损。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R11",
+      "chapter_ordinal": 4,
+      "title": "可赋权与已经执行不同",
+      "author_claim_paraphrase": "境外公用权益与截至1921年5月1日最高五十亿美元赔付的财产指定权范围广；作者明确说总体剥夺尚未完成。",
+      "author_original_conditions": "境外约束实际有疑，concession定义未定。",
+      "required_inputs": [
+        "实际命令和实施",
+        "资产清单位置",
+        "权限期限"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1642,
+            1718
+          ],
+          "source_segment_sha256": "cfa159da6fb615aca39811637add2605218842809918a42ca9c34f919f6e34e0",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(_b_) So far we have been concerned with German property within Allied jurisdiction. The next provision is aimed at the elimination of German interests in ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2386,
+            2389
+          ],
+          "source_segment_sha256": "2b5855d83c56b856725dfe6efdb71024f8cd3edd9c7489a892f0a08cbea6958d",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[26] \"Any public utility undertaking or concession\" is a vague phrase, the precise interpretation of which is not provided for.  [27] Art. 260.",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "没有执行不能标全收或全部可现金支付。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R12",
+      "chapter_ordinal": 4,
+      "title": "煤矿权、公投、购煤条件不同",
+      "author_claim_paraphrase": "萨尔矿绝对归法国，地区十五年管理不等于矿到期自动返还，未来有条件回购；上西里西亚归属未定，若德国能购买所需煤，损害可主要转为收支问题。",
+      "author_original_conditions": "购买不是优先权，需效率与有资金、地方意愿仍条件。",
+      "required_inputs": [
+        "地界投票",
+        "矿量与交付",
+        "采购条件及现金"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1777,
+            1831
+          ],
+          "source_segment_sha256": "76a010361a8f8931b0fc8fe9136c84321b61bc3805416f6a0a401fd64c7f6e3e",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(1) The Treaty strikes at Germany's coal supply in four ways:--  (i.) \"As compensation for the destruction of the coal-mines in the north of France, and as",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2435,
+            2479
+          ],
+          "source_segment_sha256": "e4437289f8e32d49bdafe2d1239129ff7501625610a66d360146b8ba33fdc610",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[39] This plebiscite is the most important of the concessions accorded to Germany in the Allies' Final Note, and one for which Mr. Lloyd George, who never ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "地区留德或可足购时重算损，拒固定失境比例硬门。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R13",
+      "chapter_ordinal": 4,
+      "title": "煤算例粗估且允许替代修订",
+      "author_claim_paraphrase": "1913用途/区损/效率与新要求比较，自承假设有疑、褐煤替代不知。",
+      "author_original_conditions": "在1913年煤账上先假设地域损失，并以较小效率降幅粗估；作者虽认为德方逾30%减产估计大体可信，仍表示不足以认可或批评。煤账不计褐煤，其替代程度他承认未知。",
+      "required_inputs": [
+        "同界实产用途",
+        "效率/库存",
+        "品质替代"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1872,
+            1949
+          ],
+          "source_segment_sha256": "16c2ed7215356382b0d583aab81d19052e2be4b449507c3af0e575d88fbac9f4",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "These figures have to be examined in relation to Germany's probable output. The maximum pre-war figure was reached in 1913 with a total of 191,500,000 tons",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2518,
+            2534
+          ],
+          "source_segment_sha256": "b534c1593be45f1849db7ba1bf189bb7f1dd2d82b994819b9b7f914ce0eccf74",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[45] This assumes a loss of output of 15 per cent as compared with the estimate of 30 per cent quoted above.  [46] This supposes a loss of 23 per cent of G",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新产力/替代证可修，未核原数不入精确上限。",
+      "modern_layer_separate": "需求最多减少2900万吨与按可见分组独立复算2587万吨的口径未明，矿内煤耗分摊无独立底账；这是本次核查缺口。硬煤与褐煤吨数不能自行视作同等热值。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R14",
+      "chapter_ordinal": 4,
+      "title": "交煤有顺位与实际修约",
+      "author_claim_paraphrase": "交付可缓或取消，北法毁矿替代煤有优先；1919年9月已将接下来半年的交付改为按年化二千万吨对应安排。",
+      "author_original_conditions": "北法毁矿替代煤优先；9月引文以年产一亿零八百万为基准，至一亿二千八百万的新增产量交60%，再增量交50%，不足基准则重新审查。",
+      "required_inputs": [
+        "实际排程修订",
+        "产量及新交付",
+        "各国必需"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2498,
+            2511
+          ],
+          "source_segment_sha256": "4f2285a2d63a850ad8fd117ffff481323aca7b27a7f6f12cc572b3991519cade",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[43] The Reparation Commission is authorized under the Treaty (Part VIII Annex V. para. 10) \"to postpone or to cancel deliveries\" if they consider \"that th",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2559,
+            2569
+          ],
+          "source_segment_sha256": "e7b06d841034f28c8b1292559a17235f8287b2e05145d9dd2be585f9181f0203",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[52] As early as September, 1919, the Coal Commission had to face the physical impracticability of enforcing the demands of the Treaty, and agreed to modif",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不称所有原极端额已经逐字兑现。",
+      "modern_layer_separate": "主文约4500万吨最高额、4000万吨示例及9月引用约4300万吨原额分别保存，不强行合一；优先规定不创造资源，原文不代表后来全部已履行。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R15",
+      "chapter_ordinal": 4,
+      "title": "必要资源、互补资产与钱不同",
+      "author_claim_paraphrase": "粮换煤的激励、法国铁矿与德国煤及炉业互依，说明取得货币不等于可以买到必要物资。",
+      "author_original_conditions": "矿炉比例/品质/技能不同、近75是粗述；别国需要同在。",
+      "required_inputs": [
+        "营养互供",
+        "煤矿炉品质物流",
+        "替代和资本时间"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            1979,
+            2049
+          ],
+          "source_segment_sha256": "a1aae38be3ba846b327ac8dadb06e0cecd7d16b5cb5d6bc84d8e1a722ad21b7c",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "As is generally the case in real dilemmas, the French and Italian case will possess great force, indeed unanswerable force from a certain point of view. Th",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2051,
+            2118
+          ],
+          "source_segment_sha256": "6e984bd8d8f32b9dfd525feb1b32637eff14a3eb40b1a18d491f07dc014cb894",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(2) The provisions relating to iron-ore require less detailed attention, though their effects are destructive. They require less attention, because they ar",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2544,
+            2557
+          ],
+          "source_segment_sha256": "338cb0739b646ae4b89e5cadffe4d506b870c6f2f5addfd6000826e8e5fe5022",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[49] Numerous commercial agreements during the war ware arranged on these lines. But in the month of June, 1919, alone, minor agreements providing for paym",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2571,
+            2586
+          ],
+          "source_segment_sha256": "a987dc10230aee4ea27192c1f7e3317fdc078f3f4a218f6ea8d279a0c8eaa496",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[53] 21,136,265 tons out of a total of 28,607,903 tons. The loss of iron-ore in respect of Upper Silesia is insignificant. The exclusion of the iron and st",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有新供或合作可减损，现金金额不代实物能力。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R16",
+      "chapter_ordinal": 4,
+      "title": "贸易运输非互惠且最终文字有边界",
+      "author_claim_paraphrase": "单向最惠、免税和运费，铁路草案已改，河道国际治理可合理而投票不平。",
+      "author_original_conditions": "同运输条件/期限解释与执行、德水力可有paymentcredit。",
+      "required_inputs": [
+        "实际税运条件",
+        "权限投票",
+        "交通设备和资源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2132,
+            2172
+          ],
+          "source_segment_sha256": "d0d8e000576ce3811475f158493fb7ee516e26360ffec39723d95d686b2f04d3",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(i.) The miscellaneous Economic Clauses commence with a number of provisions which would be in accordance with the spirit of the third of the Fourteen Poin",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2193,
+            2226
+          ],
+          "source_segment_sha256": "931f462bac28b99a47ea6793dc9a394b7c98c704bb77256c76cc2ac4882ac5d0",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(ii.) The clauses relating to Railways, as originally presented to Germany, were substantially modified in the final Treaty, and are now limited to a provi",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2250,
+            2309
+          ],
+          "source_segment_sha256": "24a5dbb138d7445592a323bac4d3d179773b51e9cd6577699f704b4efe8c532f",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Rivers which, in the words of the Treaty, \"naturally provide more than one State with access to the sea,\" properly require some measure of international re",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2682,
+            2683
+          ],
+          "source_segment_sha256": "a73e7dc9077eb909743b49f555828ace594bf28aad86c2f98502fce6087759b2",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[74] Art. 358. Germany is, however, to be allowed some payment or credit in respect of power so taken by France.",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不凭自由/国际一个词判断，补偿例外不能漏。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R17",
+      "chapter_ordinal": 5,
+      "title": "合法请求与全战费不是同义",
+      "author_claim_paraphrase": "民损留款并非全税战费，合法捕商船也可、前盟友或有责任有疑。",
+      "author_original_conditions": "救济、敌债、既赔与损类不同。",
+      "required_inputs": [
+        "条款与具体损",
+        "原付款/补偿",
+        "请求实际构成"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2731,
+            2849
+          ],
+          "source_segment_sha256": "89d7cc9f1bcc88b9ad6ae252f4897d2a4bf094ec5644a3078ee9303b0f10fc17",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Assuming then that the terms of this Note are binding, we are left to elucidate the precise force of the phrase--\"all damage done to the civilian populatio",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5049,
+            5062
+          ],
+          "source_segment_sha256": "ad940b90f14a06e79df95821a5553e60df63273e14654cdf2cbe325f1e2e682e",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[77] It is to be noticed, in passing, that they contain nothing which limits the damage to damage inflicted contrary to the recognized rules of warfare. Th",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "总战争成本不直接作合法损额，缺分类弃权。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R18",
+      "chapter_ordinal": 5,
+      "title": "毁损、重建与苦难估值分",
+      "author_claim_paraphrase": "无科学精确全数字，作者猜；旧价新价、重建速度设计与无形损不同。",
+      "author_original_conditions": "人道痛苦不由货币价值排；面积和视觉不代财富密度。",
+      "required_inputs": [
+        "工程资源及日期",
+        "资产/损类别",
+        "真实成本和替代设计"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2851,
+            2871
+          ],
+          "source_segment_sha256": "a51a213563a0dd88798fe939b4ab799546515e4a2e1711adb7a1cac574c670d4",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "What, on the above basis of claims, would the aggregate demand amount to? No figures exist on which to base any scientific or exact estimate, and I give my",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            2915,
+            2935
+          ],
+          "source_segment_sha256": "6ad16ad1b67f5acd98a964d3aefdbf120eb5338eaf30faa7d481a9fb278691a3",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "This total yields an average of $780 per inhabitant, which Dr. Stamp, the highest authority on the subject, is disposed to consider as _prima facie_ too lo",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5119,
+            5149
+          ],
+          "source_segment_sha256": "56eb97d2a814592911a0c99b66134a014694d78df719b188e21d778a12aac6e7",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[87] Even when the extent of the material damage has been established, it will be exceedingly difficult to put a price on it, which must largely depend on ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能狭直接损估否认其他真实损，工程新证可修。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R19",
+      "chapter_ordinal": 5,
+      "title": "船货赔偿需防跨盟重复",
+      "author_claim_paraphrase": "船吨、货猜价、渔和未沉损未精估，别盟服务已获补不得两国再索。",
+      "author_original_conditions": "吨、资金价、受损类型与时点分。",
+      "required_inputs": [
+        "船货归属",
+        "补偿已付",
+        "重置成本和时期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3039,
+            3065
+          ],
+          "source_segment_sha256": "1e1b902b07dca4e7e613cbb8ce6a9fe79a13c72bfbc166fa13ccd8c060983788",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "British claims on the present basis would be practically limited to losses by sea--losses of hulls and losses of cargoes. Claims would lie, of course, for ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5172,
+            5186
+          ],
+          "source_segment_sha256": "c8578326d9a795c1f6d7d0b5c0910211c407e3c2c79f670097a4c17e7962e550",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[91] A substantial part of this was lost in the service of the Allies; this must not be duplicated by inclusion both in their claims and in ours.  [92] The",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能吨直接当净现金/年度收益，新增账修粗额。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R20",
+      "chapter_ordinal": 5,
+      "title": "损额大小与偿付能力独立",
+      "author_claim_paraphrase": "作者猜有限合法损失合计一百零六亿美元，量级在八十至一百五十亿之间；建议以一百亿加若干宽待最终定额，称并非完全不可能清偿。",
+      "author_original_conditions": "比总含1.25b盟借战争支，Russia暂不表不是无权。",
+      "required_inputs": [
+        "真实损构成",
+        "可转资源",
+        "付款条件和市场"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3086,
+            3113
+          ],
+          "source_segment_sha256": "95241bdd910d26728db2f38b932c6e2c93e510301d7c8682b7169cf6bfd6f4d8",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "We are finally left with the following--      Belgium        $ 2,500,000,000[98]     France           4,000,000,000     Great Britain    2,850,000,000     ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5188,
+            5191
+          ],
+          "source_segment_sha256": "f085d3a5f40875b38a46cf96a6563a94360637bab1fda69856ccc90ce7eee62b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[94] There is a reservation in the Peace Treaty on this question. \"The Allied and Associated Powers formally reserve the right of Russia to obtain from Ger",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5217,
+            5219
+          ],
+          "source_segment_sha256": "02eed5ec310ece3722dddef2e4d63f39192d1cfd764a68a28712438324f1f45c",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[98] Assuming that in her case $1,250,000,000 are included for the general expenses of the war defrayed out of loans made to Belgium by her allies.",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能把作者合理请求自动作真实偿付边界。",
+      "modern_layer_separate": "合理请求额与实际偿付能力仍须分别检验，这不是完成了可支付的独立认证；比利时数额含特殊战争借款，俄罗斯暂不列不代表无条约权。核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R21",
+      "chapter_ordinal": 5,
+      "title": "政治目标可与财政容量相冲",
+      "author_claim_paraphrase": "英国宣言增大、财政困迫夸收益、安全压德产能又要巨赔冲突。",
+      "author_original_conditions": "动机是作者归，公开言和自己相信不同。",
+      "required_inputs": [
+        "原宣言时点",
+        "预算/资源资料",
+        "政策目标与工具"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3195,
+            3231
+          ],
+          "source_segment_sha256": "01b3457b4de1592f42fa4c8a310d169e112e6ce470f0a1f1d0ce409178053d91",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "possibility of a great indemnity. On the 22nd of November he and Mr. Bonar Law issued their Election Manifesto. It contains no allusion of any kind either ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3272,
+            3328
+          ],
+          "source_segment_sha256": "0aa30e342732b46edeb7b7273a84de728742c64b48cbfebf35ad6620be2b3639",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "By December 11 the Prime Minister had capitulated. His Final Manifesto of Six Points issued on that day to the electorate furnishes a melancholy comparison",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3384,
+            3433
+          ],
+          "source_segment_sha256": "fb71a855e0d554291e7905970f9b442b83436fab8ed3d21225518791866738d5",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "VII., and we must return to Paris. I have described the entanglements which Mr. Lloyd George took with him. The position of the Finance Ministers of the ot",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "档案可修因果，政治声音不作能力证。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R22",
+      "chapter_ordinal": 5,
+      "title": "养老金分类和估基不同",
+      "author_claim_paraphrase": "抚恤按法国尺度与人数非各国实支，25b粗增和40b请求不是全战费正式全求。",
+      "author_original_conditions": "40用其他上限15，32–44主观区间非置信概率。",
+      "required_inputs": [
+        "率和伤亡类",
+        "法律类别",
+        "受益和财政所得"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3454,
+            3555
+          ],
+          "source_segment_sha256": "c62b94793f7145b09ec197c4c3980a60871046e91e5a48bbeeb768a45e89a2ff",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Article 231 reads: \"The Allied and Associated Governments affirm and Germany accepts the responsibility of Germany and her allies for causing all the loss ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3609,
+            3646
+          ],
+          "source_segment_sha256": "d54c32fba6ac937dd95f0932fa467433f5ecc585c1593418c829e3398ac389a6",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The reader may be interested, however, to have my estimate of the claim which can in fact be substantiated under Annex I. of the Reparation Chapter. In the",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5266,
+            5290
+          ],
+          "source_segment_sha256": "db764df8aef6ef201934966ac5bf3b45e2db06569af0b9a29c9da15e124b6cc3",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[106] M. Klotz has estimated the French claims on this head at $15,000,000,000 (75 milliard francs, made up of 13 milliard for allowances, 60 for pensions,",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "补家属与退国家税不同，缺细数不精估。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R23",
+      "chapter_ordinal": 5,
+      "title": "毛首付、券补足与净赔不同",
+      "author_claim_paraphrase": "5b含占军及准进口返，净不足则券补到15b，金马克按原圆转换。",
+      "author_original_conditions": "现金/实物/bookcredit/返款和息分，返非无条件。",
+      "required_inputs": [
+        "顺位与返资源",
+        "已付和券时序",
+        "币基准/进口需"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3650,
+            3695
+          ],
+          "source_segment_sha256": "57b436a4fad47599d5ba8bc7d4a4a82b742d8ce3e6564994eb3d1f02afdcab05",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "1. Out of the total amount of the claim, whatever it eventually turns out to be, a sum of $5,000,000,000 must be paid before May 1, 1921. The possibility o",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5312,
+            5323
+          ],
+          "source_segment_sha256": "fef6295e416935e1b13399b2e01f7f2bbab5bfcd8b262c2737e51943d88c1aa7",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[111] Art. 235. The force of this Article is somewhat strengthened by Article 251, by virtue of which dispensations may also be granted for \"other payments",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能原毛额直接当盟国财政净收。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R24",
+      "chapter_ordinal": 5,
+      "title": "未发券仍可复利且取消受限",
+      "author_claim_paraphrase": "未以现金、实物或债券覆盖的余额自一九二一年五月起仍计息；作者用未足额偿息而债务复增的设例，批判年年抽取最大可得额而不留努力回报的制度。",
+      "author_original_conditions": "取消需全政府授权；定上限留回报不同年年抽最大。",
+      "required_inputs": [
+        "全付款时序",
+        "利率摊本",
+        "裁量和激励"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3697,
+            3767
+          ],
+          "source_segment_sha256": "2f3197f7142fa34d5ef9cb7a47ceb18c4bbad0c4e6e798983385fe8e255b48fa",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "3. As soon as the Reparation Commission is satisfied that Germany can do better than this, 5 per cent bearer bonds are to be issued for a further $10,000,0",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5333,
+            5343
+          ],
+          "source_segment_sha256": "d513dcab1f4ff1230f770d8a0a64472ee8121c0f8ea81d1e9c5ba36f3fa6d71d",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[115] On the assumption which no one supports and even the most optimistic fear to be unplausible, that Germany can pay the full charge for interest and si",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "未解时序不精算，不称委可任意取消。",
+      "modern_layer_separate": "原十五年粗略翻倍、1930加30年与停战后48年、摊本基金完整时序的缺口，是本次独立复算和来源限制；保留原值并暂停精算，不把未解日期归成作者自行承认的缺口。核证与去重属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R25",
+      "chapter_ordinal": 5,
+      "title": "即时财富不是过去总财富",
+      "author_claim_paraphrase": "盗物原还、金剩取全可伤币信，船有阶段用途、外券需扣先债已售低市与逃藏。",
+      "author_original_conditions": "以一九一九年可及时调动的金、船及海外资产为对象，须区分净投资、国籍、优先私人债、临时运粮使用与最终转让；作者在合理诚信前提下认为交船运粮并非不当要求。",
+      "required_inputs": [
+        "可动资产和优先",
+        "原售押及买者",
+        "结算时间/币信"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3788,
+            3817
+          ],
+          "source_segment_sha256": "62e3a36539623019e0120a2fc9a422e445b24c4b644783d1208c20c4c0a4476b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "There is excluded from the above the actual restitution of property removed from territory occupied by the enemy, as, for example, Russian gold, Belgian an",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3866,
+            3963
+          ],
+          "source_segment_sha256": "ca638a954db8cf89d41c6b75f579ce3f24dd6e434cabdeadcd5ab6fe6f03723e",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The net result of these various measures was to reduce the gold reserve of the Reichsbank by more than half, the figures falling from $575,000,000 to $275,",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            3974,
+            4039
+          ],
+          "source_segment_sha256": "7879799259afd2dad1fbf23bb5b74cbae520c33b39794a0fda7f71b3e79bacc0",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "To convert the significance of these deductions into figures involves much guesswork. I give the reader the best personal estimate I can form after ponderi",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5355,
+            5409
+          ],
+          "source_segment_sha256": "dc1107b03b926aa1ade65b3fe496e1f0c823edf3b6b8c3647ee56c5b259957e3",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[119] The Allies made the supply of foodstuffs to Germany during the Armistice, mentioned above, conditional on the provisional transfer to them of the gre",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "没有现金不能旧账抵期限债；港船和证券不得双算。",
+      "modern_layer_separate": "正文普查1916与注121的1918法令时序差保留为来源限制，不擅统一；账面财富、市场价值、政府可取得与期限内现金分别核证。核证、去重和证伪属本次解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R26",
+      "chapter_ordinal": 5,
+      "title": "簿记credit与资源恢复去重",
+      "author_claim_paraphrase": "割地多无credit或主人收，停战材是bookcredit，先占费再恢复库存难有大净赔。",
+      "author_original_conditions": "作者估高过自己判断，粗范围非直算独立已核。",
+      "required_inputs": [
+        "实际现金与记账",
+        "支付优先",
+        "进口恢复和返款"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4060,
+            4152
+          ],
+          "source_segment_sha256": "a219443c84ad0cc35775d3ebfef825d24a787a0069f37553f188873d668c6188",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "2. _Property in ceded Territory or surrendered under the Armistice_  As the Treaty has been drafted Germany will not receive important credits available to",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5411,
+            5434
+          ],
+          "source_segment_sha256": "e771a57451078f78c3abe161e2f6496f2fb86800275530baebe78b765ff9ee24",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[124] In all these estimates, I am conscious of being driven by a fear of overstating the case against the Treaty, of giving figures in excess of my own re",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "papercredit不能买粮cash，不能隐藏grossnet。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R27",
+      "chapter_ordinal": 5,
+      "title": "年转出须净外需与原料",
+      "author_claim_paraphrase": "旧無形收抵货贸差；棉毛原材、食物和外国接买缺则不能凭总出口支付。",
+      "author_original_conditions": "假定盟方不给德国特殊原料优先、法国争取钢业、不特别帮助德国在海外压低盟方竞争品，以及英国帝国不给德国特别优惠；棉毛等加工出口依赖进口原料，压低必要食品进口又会伤工人效率。",
+      "required_inputs": [
+        "逐品净加工值",
+        "营养/材料/运输",
+        "外市场和服务收益"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4174,
+            4221
+          ],
+          "source_segment_sha256": "e9ce636bf98ff1f01529b68abbae0a892df8bc59769c4b8c86c0eff0ad909207",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "For the purpose of arriving at a figure it is of no great consequence whether payment takes the form of cash (or rather of foreign exchange) or is partly e",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4333,
+            4465
+          ],
+          "source_segment_sha256": "781b5f7cc9fd936cf4cbb4a58849281a175c4af4f0e8a612c6a5473c926b7164",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "These tables show that the most important exports consisted of:--      (1) Iron goods, including tin plates (13.2 per cent),     (2) Machinery, etc. (7.5 p",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4223,
+            4331
+          ],
+          "source_segment_sha256": "cb1869842ca6243665ced65671164139c8ce30a7f30962ed425aa53f1a79cbd6",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "-----------------------------------------+---------+--------------- | Amount: | Percentage of German Exports, 1913 | Million | Total Exports | Dollars | --",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A002"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5442,
+            5446
+          ],
+          "source_segment_sha256": "d3f82bb6c2a42ff6d15857d7dc037ce99920d7b6b0b776e044dbbf9e7649c296",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[128] Germany's exports of sugar in 1913 amounted to 1,110,073 tons of the value of $65,471,500, of which 838,583 tons were exported to the United Kingdom ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A003"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "减进口会伤出品，国内账财富不等外汇。",
+      "modern_layer_separate": "商品与地域表出口总额差180万美元，以及只列约三分之二品类、糖的战前一般比例与1913量价分母不同，均保留为来源及检验限制，不擅平账。核证、去重和证伪属现代解释，原无自动选股或回测阈值。 另核官方HTML与TXT的未列出口、英出口、法进口、其他国出口和禽类比例及进口分母标题不同，两个格式均保留，不擅指定哪个是原刻或平账。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R28",
+      "chapter_ordinal": 5,
+      "title": "贸易改善与偿付现值估计及复算边界",
+      "author_claim_paraphrase": "作者假定贸易余额可按战前价格改善五亿美元，再假定扣旧逆差后余二点五亿、按物价加倍成每年五亿；以五息一摊本粗估现值八十五亿，最后把各种付款方式合为一百亿美元的安全最大额，且自不信能实付到此。",
+      "author_original_conditions": "这是资源、市场、生产与生活水平改变下的高限猜测，非实收记录；作者指出永续五億在百分之五息下也只把现值增到一百亿。",
+      "required_inputs": [
+        "同价时期进出口",
+        "完整摊本时序",
+        "实际产销资源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4498,
+            4529
+          ],
+          "source_segment_sha256": "b376268503672140ccd0b9a6be1bea06d5735afac744f169181417b6562acb9c",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Let us put our guess as high as we can without being foolish, and suppose that after a time Germany will be able, in spite of the reduction of her resource",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5448,
+            5456
+          ],
+          "source_segment_sha256": "58c56b7983e9b621f8edf441a6477671cb2212e2aed720ab4b553bde61ef5b7a",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[129] The necessary price adjustment, which is required, on both sides of this account, will be made _en bloc_ later.  [130] If the amount of the sinking f",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不换年逆差补桥，不以原金额作为实验参数。",
+      "modern_layer_separate": "五億减五年逆差三点七亿不直接剩二点五亿，以及三十年年金、简单六个点除法和原八十五亿并非同一完整模型，是本次独立复算；保留作者追加假定和原值，不能暗换单年逆差或作为实验参数。原无现代选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R29",
+      "chapter_ordinal": 5,
+      "title": "能力随援、单位与技术可变",
+      "author_claim_paraphrase": "养德5–10年、真实金值和生产科技改变会改能力，未知长未来不证明50b。",
+      "author_original_conditions": "输送劳工重建受供养人数及法比居民容忍限制，不必是其他付款外的净增加；国内债与对外债、国内资本建设劳动与出口劳动分别判断。",
+      "required_inputs": [
+        "真实资本技术",
+        "付款单位",
+        "转产和市场"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4531,
+            4595
+          ],
+          "source_segment_sha256": "ec5d2d18bc2e29ff171ec4f44f49f6a6e7e92b2a2c8d90de0ccdd90f46ee3e91",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "There is only one head under which I see a possibility of adding to the figure reached on the line of argument adopted above; that is, if German labor is a",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4611,
+            4662
+          ],
+          "source_segment_sha256": "89869ca301159e23516d82b402f6bc6d919e13c228698b1f4829d422bd1f4ef5",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "But those who look into the matter more deeply are sometimes misled by a fallacy, much more plausible to reasonableness. Such a one might base his conclusi",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5490,
+            5506
+          ],
+          "source_segment_sha256": "446e181b5ae2afa142be98c7cd25654ae2bb18cfae1f08b6717e94f341d16742",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[132] The conversion at par of 5,000 million marks overstates, by reason of the existing depreciation of the mark, the present money burden of the actual p",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新证可修，奇迹可能不作当下偿付证。",
+      "modern_layer_separate": "原注133的白人种族心理表述保留为历史语境，种族不作为当前模型特征；这属于本次独立边界。核证、去重和证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R30",
+      "chapter_ordinal": 5,
+      "title": "委员会能力与法权和运行分",
+      "author_claim_paraphrase": "代表投票按事变、十三职责及取消条件、返资源或他体、到Oct尚未正式立。",
+      "author_original_conditions": "作者认为索求超过可付额时，减免、粮材回付与税制审查的裁量才会深入经济生活；若德国可自行筹足现金，多种权限不必实际使用。他也保留委员会以后转为欧洲恢复机构的可能。",
+      "required_inputs": [
+        "机构章程与执行",
+        "实际日期/代理",
+        "资源返税信息"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4702,
+            4802
+          ],
+          "source_segment_sha256": "b3bc568177f27068b810eaa7ad27b93227dbb1b8999c2a41682c46ca58e3e9af",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The principal Allies are each represented by one chief delegate. The delegates of the United States, Great Britain, France, and Italy take part in all proc",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5536,
+            5550
+          ],
+          "source_segment_sha256": "c4640d6521ec3a5ab653fa46c3a15780f2d01ac4b1be1372e0e01c15c35d58cc",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[137] Under the Treaty this is the function of any body appointed for the purpose by the principal Allied and Associated Governments, and not necessarily o",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5567,
+            5572
+          ],
+          "source_segment_sha256": "1963b8bbe02cf15c0f74329cc9ddadf29c1fe09ba2a38f52439aae13716d030b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[144] Owing to delays on the part of the Allies in ratifying the Treaty, the Reparation Commission had not yet been formally constituted by the end of Octo",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4800,
+            4905
+          ],
+          "source_segment_sha256": "71de6a58dd0d2526bae257fb69d40b6b98b49b58e5be94ab143986714b0703fb",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "13. In general, the Commission, acting through a subordinate body, will perform the same functions for Austria and Bulgaria as for Germany, and also, presu",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A004"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将所有权名单写已经全执行/已获全部收入。",
+      "modern_layer_separate": "法律节录与作者解释并非本档案独立核证的全条约意见；委员会自有军队与其判违约后触发盟军行动须分开，取消需全政府授权且返资源未必由委员会自己承担，原注144的十月底尚未正式成立也不等于所有职责已实际执行。核证与证伪属于现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R31",
+      "chapter_ordinal": 5,
+      "title": "德国反案条件与原约能力不可同基比",
+      "author_claim_paraphrase": "25b保大部经济权、宽credit无息延付，作者粗PV7.5且批不坦。",
+      "author_original_conditions": "33年均摊折半只假设，不同于原约施行后场景。",
+      "required_inputs": [
+        "条件与信用offset",
+        "支付时序",
+        "保有资源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            4907,
+            4975
+          ],
+          "source_segment_sha256": "fc8659f686cba3b0896d041f2640a59a6d7970d2b79ad4360adb93de388c3e2a",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The German counter-proposals were somewhat obscure, and also rather disingenuous. It will be remembered that those clauses of the Reparation Chapter which ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5552,
+            5572
+          ],
+          "source_segment_sha256": "b30f6e6002caced902fb2614ae84d3e056d526e08a86415beffdd73685254fd8",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[140] Whatever that may mean.  [141] Assuming that the capital sum is discharged evenly over a period as short as thirty-three years, this has the effect o",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能以德名义承25b证原约可付25。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R32",
+      "chapter_ordinal": 6,
+      "title": "危机三因与报告范围需分",
+      "author_claim_paraphrase": "作者不再分战争的必然后果与和平可避免的损失，以内部生产、运输交换及海外购买三类互锁解释危机；对德国委员会按原和平条件实施将导致数百万人死亡的强报告，称自己不知道充分的反答。",
+      "author_original_conditions": "俄精确信息少、Hoover粗估、15m为家庭。",
+      "required_inputs": [
+        "同界产量/运输",
+        "营养与交易",
+        "独立时点报告"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5603,
+            5636
+          ],
+          "source_segment_sha256": "93e24dfe73cc22c5b533e37c1af592d249eddab360e83aebdd72a44d4de748a7",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "I leave, from this point onwards, Paris, the Conference, and the Treaty, briefly to consider the present situation of Europe, as the War and the Peace have",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5693,
+            5759
+          ],
+          "source_segment_sha256": "1d15b415fea80e26408c8d8b798a883583350296623a4bddbad4418fedd89f38",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The significant features of the immediate situation can be grouped under three heads: first, the absolute falling off, for the time being, in Europe's inte",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5638,
+            5691
+          ],
+          "source_segment_sha256": "b10fb8221e0b06eb64ee7df580b1083ffd933d78f4eaf621c1f98a286c2a59c1",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "On the 13th May, 1919, Count Brockdorff-Rantzau addressed to the Peace Conference of the Allied and Associated Powers the Report of the German Economic Com",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A005"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5761,
+            5776
+          ],
+          "source_segment_sha256": "3ee781ebbd6c0c330a832a22302aa352a458bc0675f8c6c2b92df3fb9613d1e1",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "What then is our picture of Europe? A country population able to support life on the fruits of its own agricultural production but without the accustomed s",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A006"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能衰退全归Treaty、依进口100m当死亡预测。",
+      "modern_layer_separate": "十五百万是受救济家庭，依赖进口的一亿人不是已核死亡预测；德国委员会报告有利益方位置，作者无充分反答不等本档案独立验证其任何帮助均不能救的结论。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R33",
+      "chapter_ordinal": 6,
+      "title": "币和价格控制是多层困难",
+      "author_claim_paraphrase": "作者以据说的列宁发言引入货币败坏论，断言持续涨价使持库存或厂产的经营者不得不快富，并称暴利者是涨价后果而非原因；受控内价低于进口换币成本、个人外信用不足及不稳货币，又阻碍贸易恢复。",
+      "author_original_conditions": "讨论战后欧洲持续发行、受控国内价、外部货价和外币负债而本币销售的错配；德国与法国、意大利的外部融资路径不同。",
+      "required_inputs": [
+        "原发言来源",
+        "重置价与成本",
+        "币债时序/对冲"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5778,
+            5824
+          ],
+          "source_segment_sha256": "5c41dc8d2d4b1079d692658ce0fbebda5edd13d457f9250849b4e9773c81a6fe",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Lenin is said to have declared that the best way to destroy the Capitalist System was to debauch the currency. By a continuing process of inflation, govern",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5880,
+            5957
+          ],
+          "source_segment_sha256": "585f25c12b662532f13e8bba9fdca621fef44289610ce8dd011ce4626a9582a1",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The presumption of a spurious value for the currency, by the force of law expressed in the regulation of prices, contains in itself, however, the seeds of ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6093,
+            6107
+          ],
+          "source_segment_sha256": "2a33f2a0b15521c6ad29cb726fe6cdce5ccb13eb3ece76d8f2d0453837215e86",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[148] One of the moat striking and symptomatic difficulties which faced the Allied authorities in their administration of the occupied areas of Germany dur",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有有效通路和监督修结论，拒未经来源归言。",
+      "modern_layer_separate": "据说的引言没有本书所给原发言来源，不证明列宁真实说过；经营者未必人人净富，须检验售价、重置成本、债税与实际成交，不能把作者强断言直接用于当前模型。价差、信用与币险分层；非任何补贴与控制永远同效。核证和证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R34",
+      "chapter_ordinal": 6,
+      "title": "贸易和健康数据基期样本不混",
+      "author_claim_paraphrase": "法意千美元月均/官方价转换与预算预估；医疗住院/某乡/死亡需治不同。",
+      "author_original_conditions": "奥35k含Vienna12k，350–400k需治非死；最后不知耐受与方向。",
+      "required_inputs": [
+        "原账/价格基",
+        "样本地区和类别",
+        "消息日期"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6109,
+            6144
+          ],
+          "source_segment_sha256": "a69038b2cdd5e9a491f0df069e510aacc54b11b54f7a5adfdd075f13e772f49d",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[151] How very far from equilibrium France's international exchange now is can be seen from the following table:                                           ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6169,
+            6211
+          ],
+          "source_segment_sha256": "26c06e870f5eaa036b9715044c189d2b3e59327ff6c11fbca2cec583883749f2",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[156] For months past the reports of the health conditions in the Central Empires have been of such a character that the imagination is dulled, and one alm",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6074,
+            6080
+          ],
+          "source_segment_sha256": "766b5b4f6c60e7f4874279f16716ecf396def92312b97aa34fa1aa028d3e6f6b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "declared at Paris. But winter approaches. Men will have nothing to look forward to or to nourish hopes on. There will be little fuel to moderate the rigors",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            5976,
+            6052
+          ],
+          "source_segment_sha256": "b57116c7d6cc1bb22cc9f7e71c14660df860e48d9bdfaec404d312104d70c877",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The situation of Italy is not very different. There the note circulation is five or six times its pre-war level, and the exchange value of the lira in term",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A007"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不全国外推或作当前疗方/实价，缺基对量化弃权。",
+      "modern_layer_separate": "独立完整复算十七行月均贸易表，十六行相减吻合；意大利1919第一季原两格式所列差191155与输入独立相减190555相差600千美元，原列保留，不能擅称原刻错或精确平表。住院、某乡儿童和需治疗者不可外推全国或当现代疗方；这些核证、去重与证伪是本次独立分析，非作者自认修改，原无现代选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R35",
+      "chapter_ordinal": 7,
+      "title": "悲观判断的地区、时间与自我修订",
+      "author_claim_paraphrase": "预兆非全一向、可能遗漏原因/过快必，Europe通常排UK，终可能长静贫。",
+      "author_original_conditions": "以一九一九年大陆欧洲为主要对象，英国的变化与中东欧即时冷饥风险不同；作者承认相关原因可能未全列，危机也可能缓慢而不显著。",
+      "required_inputs": [
+        "地区时点",
+        "实际恢复和反例",
+        "资源及趋势"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6221,
+            6281
+          ],
+          "source_segment_sha256": "e37f0ced770cc637a356f20db189829df88f2ccfb22fa80f0508605cd8c5428f",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "It is difficult to maintain true perspective in large affairs. I have criticized the work of Paris, and have depicted in somber colors the condition and th",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            7156,
+            7180
+          ],
+          "source_segment_sha256": "2ce85c8cf42ee9f89a589544830395ab6bad36acdb975bb7c329fc40a175f1fc",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "I see few signs of sudden or dramatic developments anywhere. Riots and revolutions there may be, but not such, at present, as to have fundamental significa",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "拒无条件必崩/精确冬革命模型。",
+      "modern_layer_separate": "英国真实财富是作者估计；后来资料不能倒填当时预见，也不把对时间和地区的自我修订称为校准概率。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R36",
+      "chapter_ordinal": 7,
+      "title": "国联建议与法定执行不同",
+      "author_claim_paraphrase": "修约出席代表一致且只是建议，赔此前委非国联，作者仍赞防战先国联。",
+      "author_original_conditions": "公众压力不同法律多数，机构未必自动有信息与权。",
+      "required_inputs": [
+        "否决章程",
+        "实际权力执行",
+        "政治和信息入口"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6338,
+            6399
+          ],
+          "source_segment_sha256": "9a4140987ba585f14b93417ee30455350fee5ff406e004dac40ea61e38d6adc8",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Can we look forward with fair hopes to securing from the operation of the League those benefits which two of its principal begetters thus encourage us to e",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            7235,
+            7248
+          ],
+          "source_segment_sha256": "1b37fe38ed6b2d81c86f64bc9165d2a7d9ede507c94f174b0054c3a7726bb2bf",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[158] President Wilson was mistaken in suggesting that the supervision of Reparation payments has been entrusted to the League of Nations. As I pointed out",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能未来转属方案当已存在上诉权。",
+      "modern_layer_separate": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R37",
+      "chapter_ordinal": 7,
+      "title": "新赔煤矿计划是条件制度改",
+      "author_claim_paraphrase": "10b含占费、2.5统一credit、7.5无息30×250m、德方法自择、矿煤互供有条件。",
+      "author_original_conditions": "赔偿提案把占军纳入一百亿总额；北法受毁矿产差赔煤保留前五年二千万吨、后五年八百万的年限，但若上西里西亚煤区离德应撤此义务。萨尔十年无价返矿地区，仍以法国供至少旧洛林入德矿的一半及德国相应供煤协议为前提。",
+      "required_inputs": [
+        "签约及实行",
+        "矿煤供给",
+        "现金与credit"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6414,
+            6492
+          ],
+          "source_segment_sha256": "c2eda59e7078b0e5f0b11dc4761211b70a0b54001fe27b6574a6510fc8017234",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "(1) The amount of the payment to be made by Germany in respect of Reparation and the costs of the Armies of Occupation might be fixed at $10,000,000,000.  ",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "统一谈判额不认证每资值，未实行不称成功。",
+      "modern_layer_separate": "这是改约提议，并非原约已正式修订或已实行成功；统一二十五亿credit不表示逐项资产实值已经认证。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R38",
+      "chapter_ordinal": 7,
+      "title": "自由联盟加入和壁并非全零",
+      "author_claim_paraphrase": "部分国强十年、他国自愿，原还准某禁、条件税及多数例外。",
+      "author_original_conditions": "德、波、原奥匈和土帝国的新国及委任地须加入十年，其他国从开始自愿，十年后均可自愿；作者用人人可加入且无特殊特权区别它与排他帝国中欧计划。",
+      "required_inputs": [
+        "税配额和费用",
+        "加入/治理条件",
+        "收益和供应"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6494,
+            6502
+          ],
+          "source_segment_sha256": "1497efd4a2fbe0fd21deb07c02e30fcdc00e56810b5f6c1bddf4fc929ecb8204",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "_Tariffs_.--A Free Trade Union should be established under the auspices of the League of Nations of countries undertaking to impose no protectionist tariff",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            7250,
+            7260
+          ],
+          "source_segment_sha256": "b538a3843008a5396f751e6d0ad7cf29ecb6f8914de6e06a5e1de82280cb0d8a",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[160] It would be expedient so to define a \"protectionist tariff\" as to permit (_a_) the total prohibition of certain imports; (_b_) the imposition of sump",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6519,
+            6567
+          ],
+          "source_segment_sha256": "62e669497959daa7b9f8b2ad057101f2c5f2d31c733691b9c1a5b8a61277d3f9",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "By the proposed Free Trade Union some part of the loss of organization and economic efficiency may be retrieved, which must otherwise result from the innum",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A008"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不宣传皆自愿/全零障碍，新自主治理资料可修。",
+      "modern_layer_separate": "开放机会不抹掉入口强制和委任领背景的张力，也不构成所有贸易壁垒已为零的证据。原注税额比较未进一步量定，不擅改为五个百分点的现代执行参数；身份标签不作当前特征。核证与证伪属现代解释。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R39",
+      "chapter_ordinal": 7,
+      "title": "政府债矩阵与净可回收不同",
+      "author_claim_paraphrase": "作者列政府间战债的近似矩阵，指出有些贷款特别对俄难回收，因此名义账面取消所得与实际牺牲不同；英国按借出的一半价值是其财政部长的方便任意假设，主要请求美国慷慨。",
+      "author_original_conditions": "各息时点不同，50%便利假不实证，最新US缺细。",
+      "required_inputs": [
+        "逐债/净额和息",
+        "可回收与来源",
+        "政府私债边界"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6611,
+            6664
+          ],
+          "source_segment_sha256": "060d6ec288b84e568c857a8b78799581f17909038a590c3f400902277a9684f6",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "The first is for the entire cancellation of Inter-Ally indebtedness (that is to say, indebtedness between the Governments of the Allied and Associated coun",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            7262,
+            7280
+          ],
+          "source_segment_sha256": "40ec905ce9a6d8188d1c39afbcb7f8f94b72c97e60853cd9718a73650956dd60",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "[161] The figures in this table are partly estimated, and are probably not completely accurate in detail; but they show the approximate figures with suffic",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "未平表不精算，不作全国家外债或真实净流。",
+      "modern_layer_separate": "所用TXT法国一行2750加2540与行总5200相差90百万美元，官方HTML此行总另为5290；两个源格式保留，HTML相加吻合不证明原刻或历史底账已核。半值不是实际回收率证，政府矩阵不是整个国家外债或真实资金流；这些是本次独立复算与范围核证，原无现代选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R40",
+      "chapter_ordinal": 7,
+      "title": "旧债持续与新贷款资源区别",
+      "author_claim_paraphrase": "作者认为巨大战争政府贡债缺少相应真实资产支持、意愿与政治关系难持续；对于国内债，强称资本征税灭债是每个欧洲交战国健全财政的绝对前提，同时要求新外贷用于即时恢复资源并明确全额偿还。",
+      "author_original_conditions": "旧约取消不免所有私债；新1b全还先旧，另1b保障仅部分cash。",
+      "required_inputs": [
+        "合同与回收意愿",
+        "用途/监督/优先",
+        "真实资本产出"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6738,
+            6823
+          ],
+          "source_segment_sha256": "ead8d8d0b43cbe2e55efee7aa009d91079c09c5be4ebbb388d895251cf1b90d9",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Failing such a settlement as is now proposed, the war will have ended with a network of heavy tribute payable from one Ally to another. The total amount of",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6871,
+            6928
+          ],
+          "source_segment_sha256": "dfc41bcd7ef9d0a886aa6c15d020f4eeeaaa049983d81f1e9126dd768902342b",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "I pass to a second financial proposal. The requirements of Europe are _immediate_. The prospect of being relieved of oppressive interest payments to Englan",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6954,
+            6993
+          ],
+          "source_segment_sha256": "0ba491f76e7463f5bbcf0528dc80ff10307d1ed1475ef5b7fd0c536c60e95708",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "I do not propose to enter on details. But the main outlines of all schemes for an international loan are much the same, The countries in a position to lend",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6825,
+            6869
+          ],
+          "source_segment_sha256": "7b51ea5b060de7790f308915e3598ba5ffcf07aeba24428575d9c7200bfa2086",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Before the middle of the nineteenth century no nation owed payments to a foreign nation on any considerable scale, except such tributes as were exacted und",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true,
+          "reviewer_added_evidence_id": "P12-QA-A009"
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不将2b担保当2b现金已成，新资料改可持续。",
+      "modern_layer_separate": "后书P11《货币改革论》1923原第二章总行1841–2014的条件收窄，仅作同一作者跨书参照，不能归成本书原文或增加独立验证票。本次实际核了该完整相关段落而非又全读P11；原旧债取消不免所有私人债，新旧贷款用途与担保分开，原无现代选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P12-R41",
+      "chapter_ordinal": 7,
+      "title": "俄粮恢复、德方组织作用及经济连带",
+      "author_claim_paraphrase": "作者承认俄细节几无可靠消息，却认为除德国企业和组织之外，看不到在合理期限恢复俄生产的可能办法，英法美无足够地理、动力和手段；贸易恢复能减德与西方争新世界粮，他主张停止对俄封锁并帮助德重新组织交换。",
+      "author_original_conditions": "以俄农工具、城市可交换货品及运输收集不足为前提；美保证粮价将停、人口增而欧洲土地未复，若不特别丰收则下一粮季更需俄粮。",
+      "required_inputs": [
+        "真实粮余和工具",
+        "物流交易/治理",
+        "替代代理与外市场"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            6996,
+            7018
+          ],
+          "source_segment_sha256": "3046e0452a01b81d160d2882713de91be89f7234038707223f40100f26aa50dd",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "4. _The Relations of Central Europe to Russia_  I have said very little of Russia in this book. The broad character of the situation there needs no emphasi",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+          "source_global_lines_inclusive": [
+            7070,
+            7152
+          ],
+          "source_segment_sha256": "c3c4900853cb2d2afb7f09202dcb3565550056caf5427e722bc26699751f5df8",
+          "hash_method": "原始逐行CRLF字节首尾区间直接拼接",
+          "excerpt_for_location": "Let us turn, therefore, to something more solid. The German Government has announced (October 30, 1919) its continued adhesion to a policy of non-intervent",
+          "precise_printed_page_verified": false,
+          "printed_page_mapping_not_invented": true
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有别供组织或治理新证修唯一性，旧预测不是未来实价。",
+      "modern_layer_separate": "唯一德国的强说不是本档案独立穷尽替代组织的证明；政治、民族和宗教讽刺不当现代产业统计或特征，旧粮价预测不当后来实价。核证、去重和证伪属现代解释，原无自动选股或回测阈值。",
+      "current_stock_decision_enabled": false
+    }
+  ],
+  "rule_count": 41,
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "full_semantic_review_complete_corrections_candidate_pending_root_manual_merge",
+  "source_sha256": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+  "source_limits_files": [
+    "work/book-experts-v5/index_team/P12/source/ch02-source-limits.json",
+    "work/book-experts-v5/index_team/P12/source/ch03-source-limits.json",
+    "work/book-experts-v5/index_team/P12/source/ch04-source-limits.json",
+    "work/book-experts-v5/index_team/P12/source/ch05-source-limits.json",
+    "work/book-experts-v5/index_team/P12/source/ch06-source-limits.json",
+    "work/book-experts-v5/index_team/P12/source/ch07-source-limits.json"
+  ],
+  "cross_book_borrowing_policy": "external_reference_not_new_vote",
+  "global_abstain_conditions": [
+    "币/基期/顺位/执行不明",
+    "源数或时间未解用于精算",
+    "权限列表当实际全执行",
+    "国内财富代可出口净资源",
+    "政治民族宗教外貌作特征",
+    "样本不明或未来资料回填"
+  ],
+  "source_formats_note": "Complete full semantic reading uses bound original TXT, SHA47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81; officialHTML SHA5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707 has documented table numeric/header/unit variants, neither substitutes an original physical scan."
+}

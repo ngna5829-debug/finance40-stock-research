@@ -1,0 +1,61 @@
+{
+  "book_id": "P19",
+  "actual_original_images_reviewed": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    11,
+    12,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410
+  ],
+  "all_low_OCR_pages_classified": true,
+  "low_OCR_pages": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    12,
+    406,
+    407,
+    409,
+    410
+  ],
+  "classification": {
+    "1": "front binding",
+    "2": "library bookplate",
+    "3": "blank",
+    "4": "digitization notice (text read)",
+    "5": "half title",
+    "6": "same-author Good and Bad Trade advertisement, not another work counted",
+    "7": "full1919 title page visually read",
+    "8": "verso library marks/punch, no missing book正文",
+    "9": "prefacev fully read",
+    "10": "prefacevi fully read",
+    "11": "original contentsvii fully read and imagechecked, VI=86 confirmed",
+    "12": "blank",
+    "406": "printer colophon read, not a missing original chapter",
+    "407": "blank",
+    "408": "library due-date slip, no original book正文",
+    "409": "library barcode/backpocket",
+    "410": "back binding"
+  },
+  "complete_text_glyphs_visually_verified": false,
+  "source_images": [
+    "pdf007.png",
+    "pdf011.png",
+    "pdf405.png",
+    "outer-and-low-OCR.png"
+  ],
+  "note": "Outer/library pages classified visually; no claim exact transcription of every stamp. PDF405 final index page393 confirmed. Preface/contents full extracted text read; page11 numeric omission86 visually supplied only in plan, raw OCR preserved."
+}

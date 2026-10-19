@@ -1,0 +1,998 @@
+{
+  "book_id": "P20",
+  "original_book_sections": 3,
+  "original_chapter_count": 31,
+  "volumes_not_separate_book_slots": true,
+  "edition": "Second edition, revised and continued to1904; March1902 original revision preface",
+  "locator_basis": "Primary500page scan: PDF page = printed page +20 (paper1=PDF21); no all-glyph visual claim",
+  "chapters": [
+    {
+      "chapter": 1,
+      "original_book": "I",
+      "original_chapter": 1,
+      "title": "Money a Commodity",
+      "printed_start": 1,
+      "printed_end": 15,
+      "pdf_start": 21,
+      "pdf_end": 35,
+      "source_file": "source/ch01.txt",
+      "source_sha256": "8893434bedb194f79de37739c6447945817b1c334e79507ff9a4f2609dfbc73e",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2742,
+      "dossier_sha256": "18dfb478bdcdeb88890f7f00f81e259627230bbb8e822924e3b32d6d0c86eb82",
+      "actual_full_source_read_batches_pdf": [
+        [
+          21,
+          27
+        ],
+        [
+          28,
+          35
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:34:41.442227+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 2,
+      "original_book": "I",
+      "original_chapter": 2,
+      "title": "Coinage",
+      "printed_start": 16,
+      "printed_end": 29,
+      "pdf_start": 36,
+      "pdf_end": 49,
+      "source_file": "source/ch02.txt",
+      "source_sha256": "7ecb9920032d2c7d0a2be2a6232cb6ef8b08651e5b9e87b94d20053543aef468",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2610,
+      "dossier_sha256": "e14f8997237a1dcda7eedbcdc9aa0b9713d4c1f4c1a2c8bfaad5be88a2d30da1",
+      "actual_full_source_read_batches_pdf": [
+        [
+          36,
+          42
+        ],
+        [
+          43,
+          49
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:40:17.971946+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 3,
+      "original_book": "I",
+      "original_chapter": 3,
+      "title": "Legal Tender",
+      "printed_start": 30,
+      "printed_end": 40,
+      "pdf_start": 50,
+      "pdf_end": 60,
+      "source_file": "source/ch03.txt",
+      "source_sha256": "d7633c890e82018632bb9ddcb24c24f57c8c632fda797c6bc8ea0a6117a855b1",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2433,
+      "dossier_sha256": "dd27b4ba4f9167e626d4640c3a3f043704662b08429690b523ad26c51932a7d6",
+      "actual_full_source_read_batches_pdf": [
+        [
+          50,
+          60
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:42:32.604307+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 4,
+      "original_book": "I",
+      "original_chapter": 4,
+      "title": "Gold as a Metal",
+      "printed_start": 41,
+      "printed_end": 48,
+      "pdf_start": 61,
+      "pdf_end": 68,
+      "source_file": "source/ch04.txt",
+      "source_sha256": "496e003522ccc8600393f56c2c14def89047fb3726c36ae65176fbdf3afe6885",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2382,
+      "dossier_sha256": "634d70a6c9420f969678f806aea7eccaeb24b253580f494efff627d2f631f898",
+      "actual_full_source_read_batches_pdf": [
+        [
+          61,
+          68
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:45:04.021070+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 5,
+      "original_book": "I",
+      "original_chapter": 5,
+      "title": "Gold Production",
+      "printed_start": 49,
+      "printed_end": 59,
+      "pdf_start": 69,
+      "pdf_end": 79,
+      "source_file": "source/ch05.txt",
+      "source_sha256": "a1c7bd0a57a40b18af372649aa091790d070048c02990fb5ec9f8e36c6ff49c7",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2552,
+      "dossier_sha256": "72efb1197e3be44174909d22e3e71448572160277714c52b52d0acca853cf551",
+      "actual_full_source_read_batches_pdf": [
+        [
+          69,
+          79
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:48:37.280642+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "supplementary_source_files": [
+        {
+          "file": "source/ch05-visual-supplement.txt",
+          "sha256": "232e7640c49fe13f0476c2eb10129274a1c7e8cd961c4a00e52e2cb9e0e9f0b7"
+        },
+        {
+          "file": "source-review/ch05-tables.json",
+          "sha256": "84f1b2125ce2240e353259fb661f8e41a055227426396e25c6e511a469f59b17"
+        }
+      ],
+      "all_original_visual_major_gap_pages_read": [
+        70,
+        74
+      ]
+    },
+    {
+      "chapter": 6,
+      "original_book": "I",
+      "original_chapter": 6,
+      "title": "The Gold Standard",
+      "printed_start": 60,
+      "printed_end": 77,
+      "pdf_start": 80,
+      "pdf_end": 97,
+      "source_file": "source/ch06.txt",
+      "source_sha256": "1d1d8f8a658a9643a6f1cf05d3596bf384549688f3e757397c0d93f8edc96050",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2930,
+      "dossier_sha256": "f33f8f1de4287a1e32cf7e080696ce509ed0436fa690dd462c973467228a259f",
+      "actual_full_source_read_batches_pdf": [
+        [
+          80,
+          88
+        ],
+        [
+          89,
+          97
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:53:48.219276+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 7,
+      "original_book": "I",
+      "original_chapter": 7,
+      "title": "The Latin Monetary Union",
+      "printed_start": 78,
+      "printed_end": 87,
+      "pdf_start": 98,
+      "pdf_end": 107,
+      "source_file": "source/ch07.txt",
+      "source_sha256": "da84ef6e9679d1d07425382a298761b3772b8d7386824d4d8b155628e2c8b609",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2465,
+      "dossier_sha256": "2e1c977027445a6e099d1d95a5fa08c07244842b962a1e38eead519a642304f2",
+      "actual_full_source_read_batches_pdf": [
+        [
+          98,
+          107
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:56:25.407331+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 8,
+      "original_book": "I",
+      "original_chapter": 8,
+      "title": "International Monetary Conferences",
+      "printed_start": 88,
+      "printed_end": 102,
+      "pdf_start": 108,
+      "pdf_end": 122,
+      "source_file": "source/ch08.txt",
+      "source_sha256": "bc25846dcf493dcd5ca0db46e4a994b72e8f9d6b068c97b5c8da01602b2d3e5b",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2774,
+      "dossier_sha256": "db5da5679237dae60837e66c2218068333d1915f3e921e12f8c800dbd903498a",
+      "actual_full_source_read_batches_pdf": [
+        [
+          108,
+          115
+        ],
+        [
+          116,
+          122
+        ]
+      ],
+      "completed_utc": "2026-10-12T17:59:15.427787+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 9,
+      "original_book": "II",
+      "original_chapter": 1,
+      "title": "Colonial Bills of Credit",
+      "printed_start": 103,
+      "printed_end": 114,
+      "pdf_start": 123,
+      "pdf_end": 134,
+      "source_file": "source/ch09.txt",
+      "source_sha256": "b4b243bb24de2a353057c85abc38dd47383ae916f3baa86561aab96c22f31438",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2605,
+      "dossier_sha256": "012934f25a64a6df03340a7ea8458fad8b7038b1b53a8d0f0d3e6beb60e3dc2a",
+      "actual_full_source_read_batches_pdf": [
+        [
+          123,
+          134
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:02:12.949362+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 10,
+      "original_book": "II",
+      "original_chapter": 2,
+      "title": "Revolutionary Bills of Credit",
+      "printed_start": 115,
+      "printed_end": 129,
+      "pdf_start": 135,
+      "pdf_end": 149,
+      "source_file": "source/ch10.txt",
+      "source_sha256": "9203b744aa2dcc4839dcde36f52d39102a2d5699930fe3f4be7ad68ae51a6205",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2744,
+      "dossier_sha256": "c7faa997c3474e79e9d99df976ee83fce9752459d926b9ffb68b340d7667a78b",
+      "actual_full_source_read_batches_pdf": [
+        [
+          135,
+          142
+        ],
+        [
+          143,
+          149
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:05:13.922933+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 11,
+      "original_book": "II",
+      "original_chapter": 3,
+      "title": "The Greenbacks",
+      "printed_start": 130,
+      "printed_end": 163,
+      "pdf_start": 150,
+      "pdf_end": 183,
+      "source_file": "source/ch11.txt",
+      "source_sha256": "5689e0e3da0362ef6c1dbb00216a62b0fa8d6d22ab691376e36e3899f9656423",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3530,
+      "dossier_sha256": "c251a751b4810a9a01f2fb703721ed560482d1c3e1fc8cd0e950925269359426",
+      "actual_full_source_read_batches_pdf": [
+        [
+          150,
+          156
+        ],
+        [
+          157,
+          163
+        ],
+        [
+          164,
+          170
+        ],
+        [
+          171,
+          177
+        ],
+        [
+          178,
+          183
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:12:07.934031+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "supplementary_source_files": [
+        {
+          "file": "source/ch11-visual-supplement.txt",
+          "sha256": "859993a6bb023b0efe14dfcc0bd7abfc5b252916949309d9637be8a2395ed48a"
+        },
+        {
+          "file": "ch11-source-notes.json",
+          "sha256": "a03d3137c9e16123f35aaf46726d9c478dfcf881a34eeb26436c037d61c7346f"
+        }
+      ],
+      "all_original_visual_major_gap_pages_read": [
+        168
+      ]
+    },
+    {
+      "chapter": 12,
+      "original_book": "II",
+      "original_chapter": 4,
+      "title": "Confederate Currency",
+      "printed_start": 164,
+      "printed_end": 173,
+      "pdf_start": 184,
+      "pdf_end": 193,
+      "source_file": "source/ch12.txt",
+      "source_sha256": "7d6607514f2ea263e4fd1458b9c1e5600e9943f44d33f079f5467aaf0696c01d",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2599,
+      "dossier_sha256": "d704e721227c59bf626fdf828fc66dd31d02e396fdbcd05fb7444e08e475aeb0",
+      "actual_full_source_read_batches_pdf": [
+        [
+          184,
+          193
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:15:30.606891+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 13,
+      "original_book": "II",
+      "original_chapter": 5,
+      "title": "After the War",
+      "printed_start": 174,
+      "printed_end": 190,
+      "pdf_start": 194,
+      "pdf_end": 210,
+      "source_file": "source/ch13.txt",
+      "source_sha256": "006110fe292b35f89bfaed93ded9c9ffb54b8648d9fdc78cade97525a678bf82",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2798,
+      "dossier_sha256": "dd3df02f21539792651bdcc8971943906a6c426d864bad73aff90d895c2b6adb",
+      "actual_full_source_read_batches_pdf": [
+        [
+          194,
+          202
+        ],
+        [
+          203,
+          210
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:19:15.041345+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 14,
+      "original_book": "II",
+      "original_chapter": 6,
+      "title": "Silver Dollars and the Panic of1893",
+      "printed_start": 191,
+      "printed_end": 216,
+      "pdf_start": 211,
+      "pdf_end": 236,
+      "source_file": "source/ch14.txt",
+      "source_sha256": "8ea4d0548ba1c044496f9fce99fcf5152b859966c0c971beb5c45f620a1e70cc",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3039,
+      "dossier_sha256": "4e1dd0bb6b64b3fcb51bc83f535ae1997c964656a0a8206673dd297cd4305216",
+      "actual_full_source_read_batches_pdf": [
+        [
+          211,
+          217
+        ],
+        [
+          218,
+          224
+        ],
+        [
+          225,
+          230
+        ],
+        [
+          231,
+          236
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:24:46.900979+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 15,
+      "original_book": "III",
+      "original_chapter": 1,
+      "title": "Functions of a Bank",
+      "printed_start": 217,
+      "printed_end": 228,
+      "pdf_start": 237,
+      "pdf_end": 248,
+      "source_file": "source/ch15.txt",
+      "source_sha256": "7692be1950893bb3a4299ca84bdec47a46b87f7af13cfd17225565a444ed658a",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2890,
+      "dossier_sha256": "7fa4ce6b1c5e75a220f476279b0e0cb53ef0c6b04267912552cc27b72d03e026",
+      "actual_full_source_read_batches_pdf": [
+        [
+          237,
+          248
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:33:46.756001+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 16,
+      "original_book": "III",
+      "original_chapter": 2,
+      "title": "A Bank Statement",
+      "printed_start": 229,
+      "printed_end": 239,
+      "pdf_start": 249,
+      "pdf_end": 259,
+      "source_file": "source/ch16.txt",
+      "source_sha256": "c348c5f49391139423f3309757d7039b974151922353d1b82f4d514f02a00f11",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2821,
+      "dossier_sha256": "1d0116be3065a7d8e86ba16b3ab734b16d204168fdcaa9c6512b9996960a9726",
+      "actual_full_source_read_batches_pdf": [
+        [
+          249,
+          259
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:36:04.015360+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 17,
+      "original_book": "III",
+      "original_chapter": 3,
+      "title": "The Clearing-House System",
+      "printed_start": 240,
+      "printed_end": 255,
+      "pdf_start": 260,
+      "pdf_end": 275,
+      "source_file": "source/ch17.txt",
+      "source_sha256": "d21ffc6a9a387864574eac6f87b75be67cffe4c6d18597a12f9bb7f011ef88f6",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2696,
+      "dossier_sha256": "a0274a11f6f1013e726a8fa593ee360c75a41506c49b74479cbd9b56bf69d99b",
+      "actual_full_source_read_batches_pdf": [
+        [
+          260,
+          267
+        ],
+        [
+          268,
+          275
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:39:52.526349+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "supplementary_source_files": [
+        {
+          "file": "source-review/ch17/proof-sheet-1901-09-10.csv",
+          "sha256": "c05c62af2105fa917d0cf3cbc5887e87a8f34271b106ed167e36bc2507bcfa2d"
+        },
+        {
+          "file": "source-review/ch17/table-visual-review.json",
+          "sha256": "51715df5ef774e3bc0e78e4782d71553c80b611d9cda90f6586ccd18a8f2dfc6"
+        }
+      ],
+      "all_original_visual_major_gap_pages_read": [
+        264,
+        265
+      ]
+    },
+    {
+      "chapter": 18,
+      "original_book": "III",
+      "original_chapter": 4,
+      "title": "Colonial Banking",
+      "printed_start": 256,
+      "printed_end": 267,
+      "pdf_start": 276,
+      "pdf_end": 287,
+      "source_file": "source/ch18.txt",
+      "source_sha256": "9b6e152ef4e92f201357e19ff7b842ec5dcffa836ae26525e481026b3eecb59d",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2797,
+      "dossier_sha256": "a12663640b629bb63e6242e52161fd0f8c1f20a2ddddbf0871a524f08249a877",
+      "actual_full_source_read_batches_pdf": [
+        [
+          276,
+          287
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:42:03.938889+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 19,
+      "original_book": "III",
+      "original_chapter": 5,
+      "title": "Early American Banks",
+      "printed_start": 268,
+      "printed_end": 277,
+      "pdf_start": 288,
+      "pdf_end": 297,
+      "source_file": "source/ch19.txt",
+      "source_sha256": "04d6a7b2d5933080fca1f34283dff4f6c26e4051eec63dfdd2fbdee7a500f927",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2745,
+      "dossier_sha256": "0ddc4fd7ec8d339d225bdb34893693cf7bb0fab5652534925a36f9b414d2c423",
+      "actual_full_source_read_batches_pdf": [
+        [
+          288,
+          297
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:44:05.839443+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 20,
+      "original_book": "III",
+      "original_chapter": 6,
+      "title": "First Bank of the United States",
+      "printed_start": 278,
+      "printed_end": 290,
+      "pdf_start": 298,
+      "pdf_end": 310,
+      "source_file": "source/ch20.txt",
+      "source_sha256": "28c706619d2de231fdaea09b016bf3686f2284b3f520e2956b1ebdd3a231b402",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2751,
+      "dossier_sha256": "bcb87ff0e292b4f441e33d478439a131b8d3cf41efed84fabae68abf3ecc9a60",
+      "actual_full_source_read_batches_pdf": [
+        [
+          298,
+          310
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:46:22.675970+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 21,
+      "original_book": "III",
+      "original_chapter": 7,
+      "title": "Second Bank of the United States",
+      "printed_start": 291,
+      "printed_end": 299,
+      "pdf_start": 311,
+      "pdf_end": 319,
+      "source_file": "source/ch21.txt",
+      "source_sha256": "101f7181c0117eec1a9b45418d46be9a966832718fdc7a5f50b692853a9bac01",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2699,
+      "dossier_sha256": "0e347675087f6abe2239064f19f73e28b193ed7e3b3e31f0efb77000e7d33499",
+      "actual_full_source_read_batches_pdf": [
+        [
+          311,
+          319
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:48:38.679391+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 22,
+      "original_book": "III",
+      "original_chapter": 8,
+      "title": "The Bank War",
+      "printed_start": 300,
+      "printed_end": 314,
+      "pdf_start": 320,
+      "pdf_end": 334,
+      "source_file": "source/ch22.txt",
+      "source_sha256": "9b974bdb9c5e90544a1a9543b8c904ac065bad4a29835a656ae976eaca57602a",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2657,
+      "dossier_sha256": "ab007cfc2d5b79d5223e1bd8f256303b94e928046065f4386544579516e0c933",
+      "actual_full_source_read_batches_pdf": [
+        [
+          320,
+          327
+        ],
+        [
+          328,
+          334
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:50:58.504242+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 23,
+      "original_book": "III",
+      "original_chapter": 9,
+      "title": "The Suffolk Bank System",
+      "printed_start": 315,
+      "printed_end": 326,
+      "pdf_start": 335,
+      "pdf_end": 346,
+      "source_file": "source/ch23.txt",
+      "source_sha256": "ead61a021ad3f2545a5e34e74505a3eb8cfa34d082730f65abb698e6b4aad663",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2752,
+      "dossier_sha256": "22052218a6d436eecc4e11c3058a950439e35f43a9db7406a6ff0b8900c5f869",
+      "actual_full_source_read_batches_pdf": [
+        [
+          335,
+          346
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:53:25.045439+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 24,
+      "original_book": "III",
+      "original_chapter": 10,
+      "title": "The Safety Fund System",
+      "printed_start": 327,
+      "printed_end": 334,
+      "pdf_start": 347,
+      "pdf_end": 354,
+      "source_file": "source/ch24.txt",
+      "source_sha256": "7f7c6260149e6ad8af970b50549069a77bab1eb10a9dbd9b5d04be4fe190db63",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2568,
+      "dossier_sha256": "bd833f10217bf472368e0173008220442eb70a8da2cf4af36131ee28d3d96f4a",
+      "actual_full_source_read_batches_pdf": [
+        [
+          347,
+          354
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:55:46.611599+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 25,
+      "original_book": "III",
+      "original_chapter": 11,
+      "title": "The Free Bank System",
+      "printed_start": 335,
+      "printed_end": 345,
+      "pdf_start": 355,
+      "pdf_end": 365,
+      "source_file": "source/ch25.txt",
+      "source_sha256": "943867458f0a37f24a3860c87e94c4359147e26f2beae9fbf7579c43fb8a22a8",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2760,
+      "dossier_sha256": "4ee7403f560e34f9def8dbab50a2a0c091ce2e695ad51195f6d92c34f03b583e",
+      "actual_full_source_read_batches_pdf": [
+        [
+          355,
+          365
+        ]
+      ],
+      "completed_utc": "2026-10-12T18:58:15.040226+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 26,
+      "original_book": "III",
+      "original_chapter": 12,
+      "title": "Chaos of Banking in the XIX Century",
+      "printed_start": 346,
+      "printed_end": 356,
+      "pdf_start": 366,
+      "pdf_end": 376,
+      "source_file": "source/ch26.txt",
+      "source_sha256": "f64b01d80599e8315b21bb2c9fd91ba4bdae54da196060be739057e443631483",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2750,
+      "dossier_sha256": "0230ce029fb48559e6a57b7d742722fbb802572a5804cd9166b7598a65132081",
+      "actual_full_source_read_batches_pdf": [
+        [
+          366,
+          376
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:00:51.325918+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 27,
+      "original_book": "III",
+      "original_chapter": 13,
+      "title": "Some Notable Banks",
+      "printed_start": 357,
+      "printed_end": 371,
+      "pdf_start": 377,
+      "pdf_end": 391,
+      "source_file": "source/ch27.txt",
+      "source_sha256": "942a2b9b11217c677b8a427b34f310d2df7fb05d4485c8078582b41736d3fd29",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2640,
+      "dossier_sha256": "39a9c4827464b7094fdc0950e98d9579410aa1d93de5fa3da44544cd393965a5",
+      "actual_full_source_read_batches_pdf": [
+        [
+          377,
+          384
+        ],
+        [
+          385,
+          391
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:03:41.086396+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    },
+    {
+      "chapter": 28,
+      "original_book": "III",
+      "original_chapter": 14,
+      "title": "The National Bank System",
+      "printed_start": 372,
+      "printed_end": 384,
+      "pdf_start": 392,
+      "pdf_end": 404,
+      "source_file": "source/ch28.txt",
+      "source_sha256": "8748f023d11f823f71a2acad8680a94323a13c95c13c995d8aa4a5028ee2c92e",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2716,
+      "dossier_sha256": "7c6aa4bc1388290a91869c02b8558fd212c0a706db04783832e3e24f6edf05df",
+      "actual_full_source_read_batches_pdf": [
+        [
+          392,
+          398
+        ],
+        [
+          399,
+          404
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:07:16.121738+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "supplementary_source_files": [
+        {
+          "file": "source-review/ch28/national-banks-1901-resources.csv",
+          "sha256": "7c4ab355eadf708f90346842ccc21bd5f71c4465ed3dce9540d0181088a6dfc5"
+        },
+        {
+          "file": "source-review/ch28/national-banks-1901-liabilities.csv",
+          "sha256": "61599370859707ea193fd35da26cff32b1cab55f7ee4e240afbb82f0cb52ce03"
+        },
+        {
+          "file": "source-review/ch28/table-visual-review.json",
+          "sha256": "c82dcd4632744a81092f07d8df61a1ba283134e7e69e27923911c62e1e0b44f0"
+        }
+      ],
+      "all_original_visual_major_gap_pages_read": [
+        403
+      ]
+    },
+    {
+      "chapter": 29,
+      "original_book": "III",
+      "original_chapter": 15,
+      "title": "Foreign Banking Systems",
+      "printed_start": 385,
+      "printed_end": 416,
+      "pdf_start": 405,
+      "pdf_end": 436,
+      "source_file": "source/ch29.txt",
+      "source_sha256": "a3d5bfc5ac4209977a3f8117004237645e41bb06e0c1d80d4fc2f3c5ed33b019",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 4323,
+      "dossier_sha256": "b301e4ecb9f2c14fe992b7b5f4c84427614bd6f572a6f82db1e81725b38f68e9",
+      "actual_full_source_read_batches_pdf": [
+        [
+          405,
+          412
+        ],
+        [
+          413,
+          420
+        ],
+        [
+          421,
+          428
+        ],
+        [
+          429,
+          436
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:12:57.081943+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "supplementary_source_files": [
+        {
+          "file": "source/ch29-visual-supplement.txt",
+          "sha256": "a1ac41541d22a996104807f2fd23f9467cec2d4c96695cd4b167c6155eac2308"
+        },
+        {
+          "file": "source-review/ch29/tables-review.json",
+          "sha256": "a4922de8025e9cbd2b6276940014d0a0aaea4eed179f48ada8ce9b773f4f2916"
+        }
+      ],
+      "all_original_visual_major_gap_pages_read": [
+        430
+      ]
+    },
+    {
+      "chapter": 30,
+      "original_book": "III",
+      "original_chapter": 16,
+      "title": "Present Problems",
+      "printed_start": 417,
+      "printed_end": 431,
+      "pdf_start": 437,
+      "pdf_end": 451,
+      "source_file": "source/ch30.txt",
+      "source_sha256": "9fb656b9b63b7f41e6a297caabb34936c536d544eba8678683ea582ec6b3de68",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3368,
+      "dossier_sha256": "04ee1be6ebfcffd3a5f31d94671cd7437c6af0508903d6c951d62d7eaf22e5e9",
+      "actual_full_source_read_batches_pdf": [
+        [
+          437,
+          444
+        ],
+        [
+          445,
+          451
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:16:39.316804+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked.",
+      "all_original_visual_major_gap_pages_read": [
+        439
+      ]
+    },
+    {
+      "chapter": 31,
+      "original_book": "III",
+      "original_chapter": 17,
+      "title": "Conclusion",
+      "printed_start": 432,
+      "printed_end": 438,
+      "pdf_start": 452,
+      "pdf_end": 458,
+      "source_file": "source/ch31.txt",
+      "source_sha256": "2bed594286900c41ad20da0664863f3b6af086205dcaaad39041e6c25b969085",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2370,
+      "dossier_sha256": "40e18a7ebce1a953cb81d0166b2774d7f5280e05a5e4b87441bc3a0b9057774e",
+      "actual_full_source_read_batches_pdf": [
+        [
+          452,
+          458
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:24:08.524165+00:00",
+      "read_method": "All main text, inline notes, original recapitulation and authorities sequentially read; only specified original images visually checked."
+    }
+  ],
+  "appendices": [
+    {
+      "name": "A",
+      "printed_start": 439,
+      "printed_end": 441,
+      "pdf_start": 459,
+      "pdf_end": 461,
+      "all_text_read": true,
+      "source_file": "source/appendix-A.txt",
+      "source_sha256": "c53f763e58473fb397c47f7aafecfd67749f8490805de5642c319e6647e40c56"
+    },
+    {
+      "name": "B",
+      "printed_start": 442,
+      "printed_end": 452,
+      "pdf_start": 462,
+      "pdf_end": 472,
+      "all_text_read": true,
+      "source_file": "source/appendix-B.txt",
+      "source_sha256": "65092b3a3e96ce94e1bb09fd4ee97e3a2c5c0dc2d655b368fa53a27490352438"
+    },
+    {
+      "name": "C",
+      "printed_start": 453,
+      "printed_end": 458,
+      "pdf_start": 473,
+      "pdf_end": 478,
+      "all_text_read": true,
+      "source_file": "source/appendix-C.txt",
+      "source_sha256": "3917c8f40c45b538c92b9a9874349073bd91e7e139b9062c0bc158d2b3beb639"
+    },
+    {
+      "name": "D",
+      "printed_start": 459,
+      "printed_end": 462,
+      "pdf_start": 479,
+      "pdf_end": 482,
+      "all_text_read": true,
+      "source_file": "source/appendix-D.txt",
+      "source_sha256": "5bc618cd6c7767568211731af5ff045452b38c0148f135a633fdf25f4a8002ba"
+    }
+  ],
+  "bibliography": [
+    463,
+    470
+  ],
+  "index": [
+    471,
+    476
+  ],
+  "body_han_total": 86506,
+  "min_chapter_body_han": 2370,
+  "chapter_body_han": {
+    "1": 2742,
+    "2": 2610,
+    "3": 2433,
+    "4": 2382,
+    "5": 2552,
+    "6": 2930,
+    "7": 2465,
+    "8": 2774,
+    "9": 2605,
+    "10": 2744,
+    "11": 3530,
+    "12": 2599,
+    "13": 2798,
+    "14": 3039,
+    "15": 2890,
+    "16": 2821,
+    "17": 2696,
+    "18": 2797,
+    "19": 2745,
+    "20": 2751,
+    "21": 2699,
+    "22": 2657,
+    "23": 2752,
+    "24": 2568,
+    "25": 2760,
+    "26": 2750,
+    "27": 2640,
+    "28": 2716,
+    "29": 4323,
+    "30": 3368,
+    "31": 2370
+  },
+  "independent_semantic_QA": "passed_with_source_limits"
+}

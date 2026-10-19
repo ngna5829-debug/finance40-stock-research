@@ -1,0 +1,672 @@
+{
+  "book_id": "P35",
+  "status": "full_original_semantic_peer_review_complete_required_corrections_pending_not_accepted",
+  "qualified_pass": false,
+  "required_findings": [
+    {
+      "id": "P35-QA-A01",
+      "status": "all55_rules_actually_read_complete_CRLF_contexts_required",
+      "scope": "sourceglobalcoordinates/completecontexts/quotevoices",
+      "finding": "Attachrawfull-original file toglobal line coordinates; keep oldchapter andphrase navigation clearlyseparate; addfull exact originalparagraphs/continuousunit context afterallactualsemanticreads."
+    },
+    {
+      "id": "P35-QA-A02",
+      "status": "historical_stage_header_pending_final_resolution",
+      "file": "ch01.md",
+      "old": "序言亦全文读，仍有二十二原章及附录未读，不能说整本完成。",
+      "candidate_new": "历史写作阶段记录：当时序言已读、余二十二章及附录尚未读，未宣称整本完成；当前覆盖以整本阅读审计为准。",
+      "reason": "Originalauthorstagehistorical outsidebody shouldnotassertcurrentwholebookunreadafteractualcompletion;notasinglesourcefoldercheckasproof."
+    },
+    {
+      "id": "P35-QA-A03",
+      "status": "required_rate_unit_clarification",
+      "patches": [
+        {
+          "rule_id": "P35-R03",
+          "field": "author_meaning",
+          "old": "二百存金可变千或二千资金，二厘半付存户四厘贷出的一厘半尚需费用；deposit与current提款条件不同。",
+          "candidate_new": "作者设想二百英镑存金可成为一千或二千可贷资金；付存者百分之二点五、贷出百分之四，两者利差一点五个百分点还须付费用。deposit与current account的提款条件不同。"
+        },
+        {
+          "file": "ch02.md",
+          "old": "转贷百分之四，利差一点五，质问如何负担经营费用。",
+          "candidate_new": "转贷百分之四，利差一点五个百分点，质问如何负担经营费用。"
+        }
+      ],
+      "reason": "Sourceper-cent rates2.5/4andtheir1.5percentage-pointspread notambiguoustraditionalChinese厘. Do notaddunstatedrateperiodastheauthor."
+    },
+    {
+      "id": "P35-QA-A04",
+      "status": "required_amount_correction",
+      "file": "ch03.md",
+      "old": "前者包含三万stock置于公共机关",
+      "candidate_new": "前者注明有三万五千英镑的Stock置于公共机关",
+      "source_file": "source/chapters/ch03.txt",
+      "original_PDF_page_actually_viewed": 48,
+      "printed_page": 24,
+      "reason": "OriginaldigitalsourceandoriginalPDF48bothshow£35,000(Stock), not£30,000. Do notchangeoriginalsourceoraddthisearmarkedstockagain toassetaggregate."
+    },
+    {
+      "id": "P35-QA-A05",
+      "status": "required_wording_correction",
+      "rule_id": "P35-R08",
+      "field": "author_meaning",
+      "old": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠词誉而银行索担保。",
+      "candidate_new": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠顾客的承诺与声誉，而银行索取担保。",
+      "reason": "Originalsimplymywordandmyreputation;词誉unclearwording, notnewfactualcontent."
+    },
+    {
+      "id": "P35-QA-A06",
+      "status": "required_author_stance_and_causal_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R11",
+          "field": "counterexample_or_limit",
+          "old": "原书希望修改规则不等于现在可排除loan deposits。",
+          "candidate_new": "作者仅提出立法可能，并明说未主张它可行、必要或明智；不能据此排除当前已成立的loan deposits支付责任。"
+        },
+        {
+          "rule_id": "P35-R12",
+          "field": "author_meaning",
+          "old": "作者归部分小行失败于人和坏财富；法币不限金，银行经营有不免投机部分，担保较可防金融原因但非全。",
+          "candidate_new": "作者将一些小银行倒闭归因于在坏财富上投机；商业银行可依法定票据而非必须黄金支付，银行经营不可避免有一定投机，担保虽提供保护，却不能保证有良好担保的借款者到期偿付。"
+        }
+      ],
+      "reason": "Chapter5explicitlynotadvocatingpracticalnecessarywisefreeze;somefailuresbadwealthgamblingnotanunsupportedpersonalcausaltag. Preserveauthorowncontradictionautomaticredeemableversusuncertainmaturity."
+    },
+    {
+      "id": "P35-QA-A07",
+      "status": "historical_stage_header_pending_final_resolution",
+      "file": "ch05.md",
+      "old": "全文仍未完成。",
+      "candidate_new": "历史写作阶段当时尚未读完全书；当前覆盖以整本阅读审计为准。",
+      "reason": "Outsidebodyoldstageonly,notrewriteauthororiginalorbody."
+    },
+    {
+      "id": "P35-QA-A08",
+      "status": "required_cross_reference_precision",
+      "file": "ch06.md",
+      "old": "本章依赖上一章未解释清楚的price口径",
+      "candidate_new": "本章依赖第三章未解释清楚的price口径",
+      "reason": "Billbrokerpriceambiguityoccursch3bankbalancesheet,notch5; followfaithfulargumentwithoutpretendingthirdchapterisprevious."
+    },
+    {
+      "id": "P35-QA-A09",
+      "status": "required_denominator_vs_gold_flow_correction",
+      "rule_id": "P35-R18",
+      "field": "author_meaning",
+      "old": "作者述各行催loan收回金，报表更好，借户在行间或央行取，比例依各行惯例、无法律统一线。",
+      "candidate_new": "作者述月末、半年末及年末停止放贷并催回贷款，通过减少总存款提高准备比例，即使未增加一枚金币；借款者转寻他行或更贵的央行，惯常比例由各行自定，作者说当时无法律强制。",
+      "reason": "Explicitoriginalnotasovereignaddedreserveratiocanrise;repaymentnotnecessarilynewgoldinflow. Differentiate shrinkingdenominator andcashalreadyreceived."
+    },
+    {
+      "id": "P35-QA-A10",
+      "status": "required_percent_unit_clarification",
+      "file": "ch08.md",
+      "old": "以合计pure和loan存款十五作为法币准备",
+      "candidate_new": "以合计pure和loan存款的百分之十五作为法币准备",
+      "reason": "Originalfifteenpercentratio,notunlabelledmoneyamount; maintainhypotheticalnotactualrecommendedthreshold."
+    },
+    {
+      "id": "P35-QA-A11",
+      "status": "required_author_strong_claim_preservation",
+      "rule_id": "P35-R21",
+      "field": "author_meaning",
+      "old": "票据经纪平常不去较贵央行，其他行拒时央行通常可贷，央行率调借量、汇价、金流。",
+      "candidate_new": "作者说票据经纪平常不愿去费用更高、期限更短的央行；当其他来源枯竭，央行总能且愿意以一定价格放贷。该价格按请求、准备、汇兑及一般金融条件调节，用于限借、调整汇兑、引金与补准备。",
+      "reason": "Originalalwaysableandwillingatpriceisstrongauthorclaim; do notquietlysoften tousually. Conditionalaccess/highercost/later14evidence belongsindependentlimitswithactualcrosssource."
+    },
+    {
+      "id": "P35-QA-A12",
+      "status": "required_full_currency_amount",
+      "file": "ch09.md",
+      "old": "第三章完整数是六百六十七镑十四先令八便士",
+      "candidate_new": "第三章完整数是五百九十九万六千六百六十七镑十四先令八便士",
+      "reason": "Printed/table£5996667 14s8d rounds£5996668, not£667;missingprefixmustnotmasqueradefullamount."
+    },
+    {
+      "id": "P35-QA-A13",
+      "status": "required_author_counterfactual_precision",
+      "rule_id": "P35-R23",
+      "field": "author_meaning",
+      "old": "升率旨增本地收益吸外资/金，不必然成功，海外条件也决定；国内贸易受罚，若有别法币可少借外钱。",
+      "candidate_new": "升率旨在提高本地收益、吸引外国资金或黄金，但不必然成功，国外条件也起作用；频繁变动融资价格会惩罚国内贸易，作者设想以其他法定货币补充准备可能避免这种代价。",
+      "reason": "OriginalIfreplenishotherlegaltenderitmightobviateit follows tradepenalty/depression, notexplicitforeignborrowingreduction."
+    },
+    {
+      "id": "P35-QA-A14",
+      "status": "required_proposal_voice_and_rescue_qualification",
+      "patches": [
+        {
+          "rule_id": "P35-R25",
+          "field": "author_meaning",
+          "old": "生产消费才能形成富，支票体系适财富；notes非全金基础，若都兑需额外金卖政府证券但panic难卖。",
+          "candidate_new": "作者说生产与消费相互作用才能形成财富，支票系统应与财富同步。央行票并非全由黄金背书；他转述有人建议卖证券或把政府欠债转为债券再卖，以补全部兑金所需，但指出恐慌时难以卖券换金，自己又认为全提的需要太遥远。"
+        },
+        {
+          "rule_id": "P35-R26",
+          "field": "author_meaning",
+          "old": "作者称panic非自动、心理病，过去暂停或可暂停银行法及供币解除，国家应帮复杂机器。",
+          "candidate_new": "作者称恐慌并非自动而是心理之病，过去实际或潜在停止银行法限制、让央行能向有偿付能力者按价提供足量法定货币，曾平息恐慌；国家应帮助受到传染的健康者。"
+        }
+      ],
+      "reason": "Do notsilentlyendorsequotedproposal orremovesolvent/healthy/atpriceconditions. Modernliquiditysupportallinstitutionsnotauthoredhere."
+    },
+    {
+      "id": "P35-QA-A15",
+      "status": "required_plain_wording_clarification",
+      "file": "ch13.md",
+      "old": "金融专家应钢化保留对方限定",
+      "candidate_new": "金融专家应完整保留对方的限定",
+      "reason": "Opaque钢化literalwordunnecessary; preservesfairaccountofCole goodbills/exceptpanic/timequalification notaltersoriginalmeaning."
+    },
+    {
+      "id": "P35-QA-A16",
+      "status": "required_negation_qualification_and_war_source_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R32",
+          "field": "author_meaning",
+          "old": "贷款增需及金供应慢可升价，5%有时长期，原书重复杂条件，涨价改变需求与生产。",
+          "candidate_new": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高且持续的利息及频繁变动可能损害贸易，但未给高、久或频繁的固定阈值。"
+        },
+        {
+          "rule_id": "P35-R34",
+          "field": "author_meaning",
+          "old": "Cole最小失调也可央行帮，但央行只借认可财富，持续goodbills扩贷又会更高价护储，战时大规模贴现另有政府措施。",
+          "candidate_new": "作者以央行更窄的资产准入、合格票据数量有限及提息限制贷款反驳无限供给；战时大规模贴现停偿令前票据同时伴有南非等地和纽约黄金流入，准备比例仍低于通常。他又问悬法及财政票是否属于Cole的不可枯竭定义。"
+        }
+      ],
+      "reason": "Preservenot5bad/2goodnegation; withinchapter14warparagraph statesconcurrentgoldflows andgovernmentmeasurequestions, notinventactualmeasureasprovenparagraphfact."
+    },
+    {
+      "id": "P35-QA-A17",
+      "status": "required_thirty_thirtyone_direction",
+      "rule_id": "P35-R35",
+      "field": "author_meaning",
+      "old": "JohnBull讽刺15/20/30/40乃至80/90每百，可能30安全31不安全，只能靠经验无法算绝保。",
+      "candidate_new": "作者用John Bull讽刺按每百十五、二十、三十或四十便可算出安心的想法；又假设八成九成也未必救得了银行，可能三成准备时会倒，而三成一原本可避免灾难。他认为没有可计算的永久避恐慌线，只能继续依经验。",
+      "reason": "Originalmightgounderwith30when31wouldavert, notoppositedirection. Dossiercorrect; preservehypotheticalnotthreshold/statistics.",
+      "patches": [
+        {
+          "file": "全书综合与附录.md",
+          "old": "三十或安全而三十一也许不安全只是反证",
+          "candidate_new": "三成准备可能遭灾，而三成一或本可避免，是作者假设而非安全线"
+        }
+      ]
+    },
+    {
+      "id": "P35-QA-A18",
+      "status": "required_ten_percent_rate_unit",
+      "patches": [
+        {
+          "file": "ch16.md",
+          "old": "率骤十息也没panic",
+          "candidate_new": "利率骤升至百分之十也没panic"
+        },
+        {
+          "rule_id": "P35-R37",
+          "field": "author_meaning",
+          "old": "作者说大规模倒闭失业panic预言未实现，十息低储仍平；伟大头脑安抚，海军条件可能改变。",
+          "candidate_new": "作者说大规模倒闭、失业与恐慌的预言未实现，利率骤升至百分之十、准备很低时仍未发生恐慌；他将安抚归于伟大心智，并承认海军条件若改变，境况可能不同。"
+        },
+        {
+          "file": "ch22.md",
+          "old": "十息发行条件是原文假设句",
+          "candidate_new": "先升至百分之十利率才可发行的条件是原文假设句"
+        },
+        {
+          "file": "ch22.md",
+          "old": "央行迅速升至十息",
+          "candidate_new": "央行利率迅速升至百分之十"
+        },
+        {
+          "file": "ch22.md",
+          "old": "此处十息是旧危机记述",
+          "candidate_new": "此处百分之十是旧危机利率记述"
+        },
+        {
+          "file": "ch22.md",
+          "old": "若法律须先十息才发应急币",
+          "candidate_new": "若法律须先将利率升至百分之十才发应急币"
+        },
+        {
+          "rule_id": "P35-R51",
+          "field": "author_meaning",
+          "old": "作者赞moratorium并逐解除复杂，唯一疑十息，若法律须十息先发币则应改；存户少需暂停而贸易需，小票机器应用不滥。",
+          "candidate_new": "作者赞同暂停偿付及后续逐步解除复杂性的措施，唯一质疑的是央行迅速将利率升至百分之十；他假设若法律要求先升到百分之十才可发应急币，就应修改这一限制。存户很少需借暂停保护，贸易却有需要；小额纸票机制应保留使用，不应滥用。"
+        }
+      ],
+      "reason": "Originalrate10per cent, notunclear十息. Historicalauthorstatementneitherverifiedratepolicycurrentlynorforecastprobability."
+    },
+    {
+      "id": "P35-QA-A19",
+      "status": "required_normative_condition_and_quoted_name_clarity",
+      "patches": [
+        {
+          "rule_id": "P35-R39",
+          "field": "author_meaning",
+          "old": "国家无故意外危机应国家银行共担，公众过投机应银行救则不公平；高储可持坏财富是讽刺金率唯一标准。",
+          "candidate_new": "作者主张，未料到且并非国家自身愚行造成的危机，应由国家与银行共同承担；若危机由公众过度投机造成，要求银行挽救其自招后果并不公平。高金准备搭配坏资产仍满足唯金标准，是其讽刺反证。"
+        },
+        {
+          "file": "ch17.md",
+          "old": "施uster爵士说",
+          "candidate_new": "Felix Schuster爵士说"
+        }
+      ],
+      "reason": "Originalsurprise/noownfolly normativegate notcauseless; originalquotednamedFelixSchuster, hybrid施usteropaqueandnotoriginalname."
+    },
+    {
+      "id": "P35-QA-A20",
+      "status": "required_employment_and_reserve_carrier_precision",
+      "patches": [
+        {
+          "file": "ch18.md",
+          "old": "战争以来金与资本过多，就业仍低失业",
+          "candidate_new": "作者称战争以来金与资本过多，而失业较低"
+        },
+        {
+          "rule_id": "P35-R42",
+          "field": "author_meaning",
+          "old": "比例需责任基数，停贷转央行扩loan；原说高比例难同时保，除停商业/足量金流/法币替代。",
+          "candidate_new": "准备比例必须有对应负债，商业银行停贷会把借者推向央行、增加中央贷款责任；作者说现制下两层高金准备比例难同时维持，除非停缓商业或黄金流入跟上负债。他另提出可发行法定纸票补供，并明确不能随意生产黄金。"
+        }
+      ],
+      "reason": "Originalunemploymentlow notemploymentlow; distinguishhighgoldratio proposedlegalpaperpaymentcapacitynotphysicalgoldcreation."
+    },
+    {
+      "id": "P35-QA-A21",
+      "status": "required_resolved_original_word_provenance",
+      "file": "ch23.md",
+      "old": "并保留转录或原书指代待核",
+      "candidate_new": "并保留原书指代疑点：本次已核原图，原印与电子转录均写exports",
+      "reason": "PDF243paper219originalactualseen payforexports;notremaininguncertaintyorpossiblePGtranscriptionerror. Intendedreferentstillambiguouswithoutsilentoriginalrewrite."
+    },
+    {
+      "id": "P35-QA-A22",
+      "status": "required_appendix_carrier_and_report_date_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R54",
+          "field": "author_meaning",
+          "old": "附录选1914June24正常表供比IX异常表，纸coin组成准备，并列47⅛%。",
+          "candidate_new": "附录选一九一四年六月二十四日的正常周报，与第九章异常周报对照；准备由票钞及金银硬币组成，附录列出百分之四十七又八分之一。"
+        },
+        {
+          "rule_id": "P35-R55",
+          "field": "author_meaning",
+          "old": "Wall转引MorningPost Feb23议会Chamberlain和LloydGeorge：纸代内部金但非artificialinflation，金应聚且危机用，未来6/12月压力可能升，金够可预见危机是信念。",
+          "candidate_new": "Wall通过《Morning Post》的报告，转引二月二十三日议会讨论中Chamberlain与Lloyd George的意见：以纸币替代内部用金须响应真实需要而非人为膨胀；应集中较大黄金准备，并在紧急时使用。未来六或十二个月压力可能增加，黄金足以应付可预见危机是Lloyd George表达的信念。"
+        }
+      ],
+      "reason": "Carrier票钞加coinnotopaque纸coin; February23datesdiscussionnotexplicitnewspaperpublication. Quotedbeliefnotlaworverifiedfutureoutcome."
+    },
+    {
+      "id": "P35-QA-A23",
+      "status": "required_current_vs_historical_review_state",
+      "patches": [
+        {
+          "file": "全书综合与附录.md",
+          "old": "独立语义QA仍待安排。",
+          "candidate_new": "独立整本语义复核已完成，必要更正及最终验收尚待合入和确认。"
+        },
+        {
+          "file": "全书综合与附录.md",
+          "old": "独立QA未开展，本体状态coverage_qualified_independent_QA_pending；",
+          "candidate_new": "历史写作阶段尚未开展独立QA；本次已完成整本语义复核，必要更正及最终验收待合入和确认，当前状态以审计为准；"
+        },
+        {
+          "file": "专家说明.md",
+          "old": "独立语义复核待安排。",
+          "candidate_new": "独立整本语义复核已完成，必要更正及最终确认尚待完成。"
+        }
+      ],
+      "reason": "Completedactualindependentwholebookread notclaimnotbegun; beforemerged/finalclosedmustnotclaimqualifiedpass. Authorhistoricalcheckpointskeptseparate."
+    },
+    {
+      "id": "P35-QA-A24",
+      "status": "required_raw_original_complete_contexts_and_voice_partition",
+      "scope": "All55rules rawprecise originalCRLFcontexts, wholechapters/extras and quotedspeakerroles",
+      "reason": "OldnormalizedglobalTXTcoordinatesattachedtochapterfile retainedonlynavigation. Fullsourceactuallyread beforeproofmapping; primaryvoices Cole/Tritton, anonymousmanager, Schuster, unnamednewspaper, Withers, Austen/Lloyd viaMorningPost, authorrewrite/fiction and tables separated; notadditionalwholebooksread or externalrecordsverified."
+    },
+    {
+      "id": "P35-QA-A25",
+      "status": "required_crosschapter_policy_prompt_precision",
+      "scope": "expert aggregate prompt and internal tension wording",
+      "reason": "Explicitlyseparatech17war+oneyearacceptancecover fromch21peace+oneyearOREmergencyPowersActexpiryearliersecuritieslenderadvance. Normativelocationminorpointch23 comparedactualearlier19/22logistics notfalse后章 chronologicalclaim."
+    }
+  ],
+  "exact_rule_field_changes": [
+    {
+      "rule_id": "P35-R03",
+      "field": "author_meaning",
+      "old": "二百存金可变千或二千资金，二厘半付存户四厘贷出的一厘半尚需费用；deposit与current提款条件不同。",
+      "new": "作者设想二百英镑存金可成为一千或二千可贷资金；付存者百分之二点五、贷出百分之四，两者利差一点五个百分点还须付费用。deposit与current account的提款条件不同。"
+    },
+    {
+      "rule_id": "P35-R08",
+      "field": "author_meaning",
+      "old": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠词誉而银行索担保。",
+      "new": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠顾客的承诺与声誉，而银行索取担保。"
+    },
+    {
+      "rule_id": "P35-R11",
+      "field": "counterexample_or_limit",
+      "old": "原书希望修改规则不等于现在可排除loan deposits。",
+      "new": "作者仅提出立法可能，并明说未主张它可行、必要或明智；不能据此排除当前已成立的loan deposits支付责任。"
+    },
+    {
+      "rule_id": "P35-R12",
+      "field": "author_meaning",
+      "old": "作者归部分小行失败于人和坏财富；法币不限金，银行经营有不免投机部分，担保较可防金融原因但非全。",
+      "new": "作者将一些小银行倒闭归因于在坏财富上投机；商业银行可依法定票据而非必须黄金支付，银行经营不可避免有一定投机，担保虽提供保护，却不能保证有良好担保的借款者到期偿付。"
+    },
+    {
+      "rule_id": "P35-R18",
+      "field": "author_meaning",
+      "old": "作者述各行催loan收回金，报表更好，借户在行间或央行取，比例依各行惯例、无法律统一线。",
+      "new": "作者述月末、半年末及年末停止放贷并催回贷款，通过减少总存款提高准备比例，即使未增加一枚金币；借款者转寻他行或更贵的央行，惯常比例由各行自定，作者说当时无法律强制。"
+    },
+    {
+      "rule_id": "P35-R21",
+      "field": "author_meaning",
+      "old": "票据经纪平常不去较贵央行，其他行拒时央行通常可贷，央行率调借量、汇价、金流。",
+      "new": "作者说票据经纪平常不愿去费用更高、期限更短的央行；当其他来源枯竭，央行总能且愿意以一定价格放贷。该价格按请求、准备、汇兑及一般金融条件调节，用于限借、调整汇兑、引金与补准备。"
+    },
+    {
+      "rule_id": "P35-R23",
+      "field": "author_meaning",
+      "old": "升率旨增本地收益吸外资/金，不必然成功，海外条件也决定；国内贸易受罚，若有别法币可少借外钱。",
+      "new": "升率旨在提高本地收益、吸引外国资金或黄金，但不必然成功，国外条件也起作用；频繁变动融资价格会惩罚国内贸易，作者设想以其他法定货币补充准备可能避免这种代价。"
+    },
+    {
+      "rule_id": "P35-R25",
+      "field": "author_meaning",
+      "old": "生产消费才能形成富，支票体系适财富；notes非全金基础，若都兑需额外金卖政府证券但panic难卖。",
+      "new": "作者说生产与消费相互作用才能形成财富，支票系统应与财富同步。央行票并非全由黄金背书；他转述有人建议卖证券或把政府欠债转为债券再卖，以补全部兑金所需，但指出恐慌时难以卖券换金，自己又认为全提的需要太遥远。"
+    },
+    {
+      "rule_id": "P35-R26",
+      "field": "author_meaning",
+      "old": "作者称panic非自动、心理病，过去暂停或可暂停银行法及供币解除，国家应帮复杂机器。",
+      "new": "作者称恐慌并非自动而是心理之病，过去实际或潜在停止银行法限制、让央行能向有偿付能力者按价提供足量法定货币，曾平息恐慌；国家应帮助受到传染的健康者。"
+    },
+    {
+      "rule_id": "P35-R32",
+      "field": "author_meaning",
+      "old": "贷款增需及金供应慢可升价，5%有时长期，原书重复杂条件，涨价改变需求与生产。",
+      "new": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高且持续的利息及频繁变动可能损害贸易，但未给高、久或频繁的固定阈值。"
+    },
+    {
+      "rule_id": "P35-R34",
+      "field": "author_meaning",
+      "old": "Cole最小失调也可央行帮，但央行只借认可财富，持续goodbills扩贷又会更高价护储，战时大规模贴现另有政府措施。",
+      "new": "作者以央行更窄的资产准入、合格票据数量有限及提息限制贷款反驳无限供给；战时大规模贴现停偿令前票据同时伴有南非等地和纽约黄金流入，准备比例仍低于通常。他又问悬法及财政票是否属于Cole的不可枯竭定义。"
+    },
+    {
+      "rule_id": "P35-R35",
+      "field": "author_meaning",
+      "old": "JohnBull讽刺15/20/30/40乃至80/90每百，可能30安全31不安全，只能靠经验无法算绝保。",
+      "new": "作者用John Bull讽刺按每百十五、二十、三十或四十便可算出安心的想法；又假设八成九成也未必救得了银行，可能三成准备时会倒，而三成一原本可避免灾难。他认为没有可计算的永久避恐慌线，只能继续依经验。"
+    },
+    {
+      "rule_id": "P35-R37",
+      "field": "author_meaning",
+      "old": "作者说大规模倒闭失业panic预言未实现，十息低储仍平；伟大头脑安抚，海军条件可能改变。",
+      "new": "作者说大规模倒闭、失业与恐慌的预言未实现，利率骤升至百分之十、准备很低时仍未发生恐慌；他将安抚归于伟大心智，并承认海军条件若改变，境况可能不同。"
+    },
+    {
+      "rule_id": "P35-R51",
+      "field": "author_meaning",
+      "old": "作者赞moratorium并逐解除复杂，唯一疑十息，若法律须十息先发币则应改；存户少需暂停而贸易需，小票机器应用不滥。",
+      "new": "作者赞同暂停偿付及后续逐步解除复杂性的措施，唯一质疑的是央行迅速将利率升至百分之十；他假设若法律要求先升到百分之十才可发应急币，就应修改这一限制。存户很少需借暂停保护，贸易却有需要；小额纸票机制应保留使用，不应滥用。"
+    },
+    {
+      "rule_id": "P35-R39",
+      "field": "author_meaning",
+      "old": "国家无故意外危机应国家银行共担，公众过投机应银行救则不公平；高储可持坏财富是讽刺金率唯一标准。",
+      "new": "作者主张，未料到且并非国家自身愚行造成的危机，应由国家与银行共同承担；若危机由公众过度投机造成，要求银行挽救其自招后果并不公平。高金准备搭配坏资产仍满足唯金标准，是其讽刺反证。"
+    },
+    {
+      "rule_id": "P35-R42",
+      "field": "author_meaning",
+      "old": "比例需责任基数，停贷转央行扩loan；原说高比例难同时保，除停商业/足量金流/法币替代。",
+      "new": "准备比例必须有对应负债，商业银行停贷会把借者推向央行、增加中央贷款责任；作者说现制下两层高金准备比例难同时维持，除非停缓商业或黄金流入跟上负债。他另提出可发行法定纸票补供，并明确不能随意生产黄金。"
+    },
+    {
+      "rule_id": "P35-R54",
+      "field": "author_meaning",
+      "old": "附录选1914June24正常表供比IX异常表，纸coin组成准备，并列47⅛%。",
+      "new": "附录选一九一四年六月二十四日的正常周报，与第九章异常周报对照；准备由票钞及金银硬币组成，附录列出百分之四十七又八分之一。"
+    },
+    {
+      "rule_id": "P35-R55",
+      "field": "author_meaning",
+      "old": "Wall转引MorningPost Feb23议会Chamberlain和LloydGeorge：纸代内部金但非artificialinflation，金应聚且危机用，未来6/12月压力可能升，金够可预见危机是信念。",
+      "new": "Wall通过《Morning Post》的报告，转引二月二十三日议会讨论中Chamberlain与Lloyd George的意见：以纸币替代内部用金须响应真实需要而非人为膨胀；应集中较大黄金准备，并在紧急时使用。未来六或十二个月压力可能增加，黄金足以应付可预见危机是Lloyd George表达的信念。"
+    }
+  ],
+  "exact_expert_nonrule_field_changes": [
+    {
+      "field": "callable_system_prompt_zh",
+      "old": "你是Wall1915这一部完整著作的知识审核视角，不是作者本人。先分货币/法币/账户债权/现金/社会信心，再核财富质量、权利、市场可售性、期限、地点、政府授权及已用资源。总存款不等可贷cash，纯存残数不等源已追踪，最优券票也可关市汇路冻；央行一般贷受合格票/价格/资源限制。升率吸金非必然，海外账金非已到伦敦。各类应急政策角色、资格、承兑及未清日期、战争或和平终点及另一法失效较先均不得删。50/60%建议、60%特垫款、JohnBull反证数不是现代阈值。作者拒创造credit又承认loan增余额，原民族道德/心理病/主权绝保强句分列为历史立场，不作人群评级或当前保证。未解数字不计算实验，未知资源法律角色即弃权。引用具体规则页段及后章修订，分原作者主张和现代独立分析，不编资金、回测、校准概率、真正调用或人格。所有系统市况/数据/资源硬门保留，不能下单。",
+      "new": "你是Wall1915这一部完整著作的知识审核视角，不是作者本人。先分货币/法币/账户债权/现金/社会信心，再核财富质量、权利、市场可售性、期限、地点、政府授权及已用资源。总存款不等可贷cash，纯存残数不等源已追踪，最优券票也可关市汇路冻；央行一般贷受合格票/价格/资源限制。升率吸金非必然，海外账金非已到伦敦。各类应急政策的角色、资格和日期须分别保留：第十七章客户cover未到的承兑垫款至战争结束后一年；第二十一章证券贷款者垫款以七月二十九日未清贷款为条件，至和平结束后一年或法院紧急权力法失效，两者先到，且期间不追加margin。50/60%建议、60%特垫款、JohnBull反证数不是现代阈值。作者拒创造credit又承认loan增余额，原民族道德/心理病/主权绝保强句分列为历史立场，不作人群评级或当前保证。未解数字不计算实验，未知资源法律角色即弃权。引用具体规则页段及后章修订，分原作者主张和现代独立分析，不编资金、回测、校准概率、真正调用或人格。所有系统市况/数据/资源硬门保留，不能下单。"
+    },
+    {
+      "field": "internal_tensions_zh",
+      "old": [
+        "拒银行创造信用但承认每贷增账户余额、纯存可源以前贷款。",
+        "法币永久绝对价值与原章征服改法、本国法律及购买力条件。",
+        "资产优质可液化与关市/汇路冻结最佳财富。",
+        "中央总愿贷与后章好票/成本/资源容量条件。",
+        "准备比率非充分安全与后个人五六成建议无校准。",
+        "唯信心治心理panic与真实纸票/政府担保/延期资金实际贡献。",
+        "升息吸金的机制与明确国外条件不必然。",
+        "重道德文明复兴与银行主要依财富、好担保坏人可贷。",
+        "政府责任强保证、邮政绝保与国家资源/权利/期限未知。",
+        "资产入央行海外账与实际到伦敦支付能力不同。",
+        "批Bagehot先储后用，阶段不同可非同刻矛盾。",
+        "强乐观无长期疲弱与自认不能估净损和恢复期。",
+        "国家信用票和同国债不构成独立风险两份保障。",
+        "规范集中准备地点次要与后章地点/物流可用性具体限制。"
+      ],
+      "new": [
+        "拒银行创造信用但承认每贷增账户余额、纯存可源以前贷款。",
+        "法币永久绝对价值与原章征服改法、本国法律及购买力条件。",
+        "资产优质可液化与关市/汇路冻结最佳财富。",
+        "中央总愿贷与后章好票/成本/资源容量条件。",
+        "准备比率非充分安全与后个人五六成建议无校准。",
+        "唯信心治心理panic与真实纸票/政府担保/延期资金实际贡献。",
+        "升息吸金的机制与明确国外条件不必然。",
+        "重道德文明复兴与银行主要依财富、好担保坏人可贷。",
+        "政府责任强保证、邮政绝保与国家资源/权利/期限未知。",
+        "资产入央行海外账与实际到伦敦支付能力不同。",
+        "批Bagehot先储后用，阶段不同可非同刻矛盾。",
+        "强乐观无长期疲弱与自认不能估净损和恢复期。",
+        "国家信用票和同国债不构成独立风险两份保障。",
+        "规范集中准备地点次要，与第十九、二十二章地点及物流可用性的实际限制并列。"
+      ]
+    }
+  ],
+  "draft_exact_patches": [
+    {
+      "finding_id": "P35-QA-A02",
+      "file": "ch01.md",
+      "old": "序言亦全文读，仍有二十二原章及附录未读，不能说整本完成。",
+      "new": "历史写作阶段记录：当时序言已读、余二十二章及附录尚未读，未宣称整本完成；当前覆盖以整本阅读审计为准。"
+    },
+    {
+      "finding_id": "P35-QA-A03",
+      "file": "ch02.md",
+      "old": "转贷百分之四，利差一点五，质问如何负担经营费用。",
+      "new": "转贷百分之四，利差一点五个百分点，质问如何负担经营费用。"
+    },
+    {
+      "finding_id": "P35-QA-A04",
+      "file": "ch03.md",
+      "old": "前者包含三万stock置于公共机关",
+      "new": "前者注明有三万五千英镑的Stock置于公共机关"
+    },
+    {
+      "finding_id": "P35-QA-A07",
+      "file": "ch05.md",
+      "old": "全文仍未完成。",
+      "new": "历史写作阶段当时尚未读完全书；当前覆盖以整本阅读审计为准。"
+    },
+    {
+      "finding_id": "P35-QA-A08",
+      "file": "ch06.md",
+      "old": "本章依赖上一章未解释清楚的price口径",
+      "new": "本章依赖第三章未解释清楚的price口径"
+    },
+    {
+      "finding_id": "P35-QA-A10",
+      "file": "ch08.md",
+      "old": "以合计pure和loan存款十五作为法币准备",
+      "new": "以合计pure和loan存款的百分之十五作为法币准备"
+    },
+    {
+      "finding_id": "P35-QA-A12",
+      "file": "ch09.md",
+      "old": "第三章完整数是六百六十七镑十四先令八便士",
+      "new": "第三章完整数是五百九十九万六千六百六十七镑十四先令八便士"
+    },
+    {
+      "finding_id": "P35-QA-A15",
+      "file": "ch13.md",
+      "old": "金融专家应钢化保留对方限定",
+      "new": "金融专家应完整保留对方的限定"
+    },
+    {
+      "finding_id": "P35-QA-A17",
+      "file": "全书综合与附录.md",
+      "old": "三十或安全而三十一也许不安全只是反证",
+      "new": "三成准备可能遭灾，而三成一或本可避免，是作者假设而非安全线"
+    },
+    {
+      "finding_id": "P35-QA-A18",
+      "file": "ch16.md",
+      "old": "率骤十息也没panic",
+      "new": "利率骤升至百分之十也没panic"
+    },
+    {
+      "finding_id": "P35-QA-A18",
+      "file": "ch22.md",
+      "old": "十息发行条件是原文假设句",
+      "new": "先升至百分之十利率才可发行的条件是原文假设句"
+    },
+    {
+      "finding_id": "P35-QA-A18",
+      "file": "ch22.md",
+      "old": "央行迅速升至十息",
+      "new": "央行利率迅速升至百分之十"
+    },
+    {
+      "finding_id": "P35-QA-A18",
+      "file": "ch22.md",
+      "old": "此处十息是旧危机记述",
+      "new": "此处百分之十是旧危机利率记述"
+    },
+    {
+      "finding_id": "P35-QA-A18",
+      "file": "ch22.md",
+      "old": "若法律须先十息才发应急币",
+      "new": "若法律须先将利率升至百分之十才发应急币"
+    },
+    {
+      "finding_id": "P35-QA-A19",
+      "file": "ch17.md",
+      "old": "施uster爵士说",
+      "new": "Felix Schuster爵士说"
+    },
+    {
+      "finding_id": "P35-QA-A20",
+      "file": "ch18.md",
+      "old": "战争以来金与资本过多，就业仍低失业",
+      "new": "作者称战争以来金与资本过多，而失业较低"
+    },
+    {
+      "finding_id": "P35-QA-A21",
+      "file": "ch23.md",
+      "old": "并保留转录或原书指代待核",
+      "new": "并保留原书指代疑点：本次已核原图，原印与电子转录均写exports"
+    },
+    {
+      "finding_id": "P35-QA-A23",
+      "file": "全书综合与附录.md",
+      "old": "独立语义QA仍待安排。",
+      "new": "独立整本语义复核已完成，必要更正及最终验收尚待合入和确认。"
+    },
+    {
+      "finding_id": "P35-QA-A23",
+      "file": "全书综合与附录.md",
+      "old": "独立QA未开展，本体状态coverage_qualified_independent_QA_pending；",
+      "new": "历史写作阶段尚未开展独立QA；本次已完成整本语义复核，必要更正及最终验收待合入和确认，当前状态以审计为准；"
+    },
+    {
+      "finding_id": "P35-QA-A23",
+      "file": "专家说明.md",
+      "old": "独立语义复核待安排。",
+      "new": "独立整本语义复核已完成，必要更正及最终确认尚待完成。"
+    }
+  ],
+  "candidate_expert_file": "work/book-experts-v5/value_team/peer-QA/P35-expert-candidate.json",
+  "candidate_expert_sha256": "d492da3a5c4b2dc9e3e6c23e16a29873e843f5aea8dc2a55ed63973a4797dc19",
+  "strict_counts_before_corrections": [
+    2844,
+    2568,
+    2557,
+    2557,
+    2425,
+    2471,
+    2338,
+    2515,
+    2173,
+    2376,
+    2418,
+    2421,
+    2411,
+    2392,
+    2159,
+    2236,
+    2453,
+    2080,
+    2374,
+    2162,
+    2154,
+    2240,
+    2343
+  ],
+  "strict_counts_after_corrections": [
+    2844,
+    2572,
+    2563,
+    2557,
+    2425,
+    2471,
+    2338,
+    2519,
+    2181,
+    2376,
+    2418,
+    2421,
+    2412,
+    2392,
+    2159,
+    2241,
+    2452,
+    2082,
+    2374,
+    2162,
+    2154,
+    2255,
+    2355
+  ],
+  "strict_total_Han_after_corrections": 54723,
+  "minimum_Han_after_corrections": 2082,
+  "precise_complete_original_context_count": 520,
+  "whole_continuous_original_context_links": 65,
+  "canonical_or_author_modified": false,
+  "completed_utc": "2026-10-13T17:39:57.103110+00:00"
+}

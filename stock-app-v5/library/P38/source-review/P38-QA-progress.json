@@ -1,0 +1,1809 @@
+{
+  "book_id": "P38",
+  "reviewer": "practical_books independentofrootauthor",
+  "status": "full_review_complete_candidates_pending_root_merge",
+  "started_utc": "2026-10-12T23:38:17.612523+00:00",
+  "canonical": "outputs/book-experts-v5/P38",
+  "review_time_hashes": {
+    "source-acquisition-status.json": "b586e692917ad124dd31589ef7395c0ab27c02fc902263d45cc0ab29933282b4",
+    "ch18-table-arithmetic.json": "7cdf48c2512c4545a77acc2e1d8465106405f740f2581114a8c21bdfb59db4e1",
+    "ch07-reading-audit.json": "3b0c022e6c54e9be8b3bbb57b6d4efab3f298987a372efcbb70df2a66a5abb78",
+    "ch17-reading-audit.json": "53a49674dd2de7139029f6c507b7256c4946f755756dea2dd1edde9e59a7442e",
+    "ch09-source-issues.json": "6cd75ee0de30abb9e93d08fccb390145d0525100e81b2237822ced355b50f9b3",
+    "loc-metadata.json": "293ed12c56cf8c45ca55b7540cea62e1b462858c2c5ebeb3eab2112726452a86",
+    "ch04-source-issues.json": "0b9576a1a9dd96c735242e2f2bf6880fc6a471aecacb2bb44b6e27e40733e177",
+    "ch10-table-arithmetic.json": "48472dc4790d0fadbd8548acb277be0c5b522839d17afccccc84d22808243518",
+    "ch06-table-arithmetic.json": "8a331d8eaa80dec397d648a6afc7a7b9c74fc0c7609ab66b61eafbeaa21e567e",
+    "ch14-source-issues.json": "ae4a0a988fa13f2070695c43441941e76ff4d71bfe1730fe8a783608aebacd74",
+    "ch19-source-issues.json": "b48caf4bf48c7397816c420c30f1dc0aa8ead100a74b9bc9264ee99ca3cb5cc2",
+    "original.txt": "b8e06790fdcacafbfca96805389b235277960e8540387ac2e1f7dce420960e9e",
+    "ch17-source-issues.json": "8659418447434f3c59fde8e67a859009c0175d64b111c18bbfc9688428e1332e",
+    "ch20-table-arithmetic.json": "63561d20d1ad4ef3a669f0f6db6d4e30a00713c571be2f8949004c0f88104b26",
+    "ch07-source-issues.json": "ab178e80ab5cc83de7cd85278a93acf4c3efea4fa1a191a471cc74c7a5aefb4b",
+    "ch14-reading-audit.json": "310865e3cd5aeb5010c1b00a93c7c591facc8a3c8704657d014c549c43145c42",
+    "ch19-reading-audit.json": "6944eaaeef3161833019b178b08ec1d16f620d2ecf45b1e900510453c9d1f2a3",
+    "ch12-table-arithmetic.json": "89f41e31298ba7fc2f3e9e06c95ca62bc2ee64c4fa78fe314b512a5678c30a6c",
+    "ch04-table-arithmetic.json": "0297921ced4fd0b6c61e8bf5eeda18ced7a0663222ed387f4fa2504ae8cdc4ec",
+    "ch09-reading-audit.json": "a5c9f8f0a591548f06de4d1ccf58c326393dccbefedcdb459b19eb3b942c5e89",
+    "ch04-reading-audit.json": "235cbb498598e600e6321feedf828e856af18376c8256c4d2cdfa4fa4a91c46a",
+    "ch14-table-arithmetic.json": "f7628ffc0bfc1abd0b6c867065cbaa428a1b1040197e11ce874cdcbce0b8a018",
+    "ch12-reading-audit.json": "1146401d9644a0e195571a6ab1d08f6a3bea09c99c2cb2d940d4fe50c9618ce1",
+    "self-validation.json": "80cd5ff70b7472716514df3499384da039e695981c0bf691294e7f41aa758a9e",
+    "ch05.md": "66ab9a2f05109337b03e6ede77bc5bb1386d013fbbb4c71dcf80a3b3cd017b35",
+    "ch15.md": "0ddb1626be527107a5b867b5a37bdcc432dbdeca9008651d338547ff31c50cbd",
+    "ch02-reading-audit.json": "e5b8125113440132c6ea250d36b58a7e3d9a276fa7ef29a6e1411dc974d2137b",
+    "ch01.md": "d4593ab523bb50e497f5be238b0048ace34cb0ccb0462dcc67ad231f9b84a5fa",
+    "ch11-source-issues.json": "2307e9b8e63a5d5b8dc9c598121b58bf55ad18a4af3f7e218e478b3c6b6139e6",
+    "ch11.md": "2582d6ccd361a8cb3a4adf479caf293ce7be74104a28c495cfdfab464b572510",
+    "source-fragments.json": "a86731f2f47a2fb1a29bb516f59537ccd0e06507e39b8da0eb2f9426d8b54a15",
+    "ch01-source-issues.json": "df599b3eef907a79d35c51addf87e5c504c411fff6ff40d33fe9ee29608868cf",
+    "index.txt": "d7131f5f59719dff7f048b242ee28768015c0984b1458f0a4963802cca74bb76",
+    "ch02-source-issues.json": "2a12f07f7aeff12a9105f4b55b5c0987ba5e9c48cfbf3792a032e659f0b6d6c7",
+    "ch16-table-arithmetic.json": "af81cfdb757daaa5d55c73214413582ee5d08c4333acef5a4fd3c3884f0d5569",
+    "ch10.md": "f1e20b5c697a6919980affc8bca076dedb5979ff16d6318142219ccc110034df",
+    "ch12-source-issues.json": "0928954af2feae184ed159466f03ad9cf2ef278a5c0105606465c23aecb2ba78",
+    "ch01-reading-audit.json": "3fe03a13ba79cdc672dceb22be732df2edc347d786d1618abcb6f2d3a8fa682a",
+    "ch04.md": "719c071b7662f1eb121db413228a7991715723b6ec973dbbd75b2745560defc4",
+    "ch14.md": "47b397d9c1e5b92e619e8272028c5d15cee5eaf9aef6842100192ea2d165d3d6",
+    "ch08-table-arithmetic.json": "80be40836103ff6183a6630d2df6480ebab26d6c70ee0f925e8ab8d2101b8d12",
+    "ch20.md": "f207078da352215292d7e4dc574823e01503293ff31fcdccea63ebb43cf1c852",
+    "ch11-reading-audit.json": "d8c06c5d90506ec448b6b234094cd2c173304eb66a13cdaa9684e48f68ed6082",
+    "ch07-table-arithmetic.json": "da76ebf10ad97dabbc94e9ee5f9c797f34d4349f5c2bf1cd757999ab7abe32ac",
+    "expert-definition.json": "b4b4f7f39b52f9a995e3b57429483be25260878b1da43df4b70affe27615068f",
+    "ch03.md": "8510a7b7b664b0aeba1a5e49b674d7f7bacab5aed821e3ec1f8a56ee302d53f6",
+    "ch13-source-issues.json": "0d762e3249ce8747cfb78e6cce31b2b0842ae8edf6cd79df4a7c1fb3e0e7862f",
+    "ch11-table-arithmetic.json": "c06f2d5b38e92445082d0ae26772785f4b93bd38d02242401bfb08ba9f44c4a6",
+    "official-current-books.json": "122a7b58174184305f56c8c5c86c995abd6060bc1920fae9a3cec195c07fcf18",
+    "ch13.md": "7f2535a61af5f9adcb3ba6ebd0f3582ea05b01ffb3bcf977d6aea1819765f22c",
+    "ch03-source-issues.json": "ac24c8039c67809b8f1d7cb1ca2502e1a2f12c6f16198d6fd34208d02172b03c",
+    "ch20-reading-audit.json": "c1f0f6e8293aca4d1f595426838a98f3c61065e8c9563a5403e605929a2af8cb",
+    "ch19-table-arithmetic.json": "62e5961848346f1d5937d2f1584bb2c3842474f57493b59e61241306f888874c",
+    "ch10-reading-audit.json": "39a6510bf12627213e5fd9e22c4c101b56487ae4beadc758df1aa8340ca19c01",
+    "ch07.md": "82847e7ddd6614736a1b5af47111f8eab0d94ca33bb7445af2d42d527000980a",
+    "ch17.md": "a364adabdf9943ae768cc5147523ac74b6e80e292ba0f88c905dd3620c1503cb",
+    "ch20-source-issues.json": "5b3b70fa2408be2960e16d5e52054f93236015cd43f7b0af97ca0cf7e9c06a34",
+    "ch03-reading-audit.json": "305d56564c38c577615247b752d18036c4ebea4ff8059ea24b7ec572f1b4226b",
+    "ch06.md": "548504db1f45eaa603c2eb9b45b1e4c69d2b2609dc14b67b78893f6d25e2698a",
+    "ch13-reading-audit.json": "78444e71b4c249f3d6b28a3142d536e3b49d71de0fd89ca609baf5ea7503ae3b",
+    "index-reading-audit.json": "8faf927e0f3b957f9256c3bd76f99ec00c2349df6cacc75fdbe0e1f770d48187",
+    "全书逐章深读.md": "d29dda07c9303523079720bcd517a52c4d9467bd547b6480cb9528672b9c78fd",
+    "ch16.md": "811636c31944326ea36d1f9b633cba4956b3704bb116c3174cd277f34adfca1b",
+    "ch05-table-arithmetic.json": "31745f59b935539a6fddec2f71579f3aacfde5d967cc0d1d0b929ca930883689",
+    "ch13-table-arithmetic.json": "3e0296b192444010f02fb55ee4342ad6f7659725c6a69e26381251fc228a549f",
+    "ch02.md": "30faeef3c1ffeb5d69c1930c3e17b4f2ac5a64985a189b07c4e0433a4ff52c88",
+    "official-book-api.json": "122a7b58174184305f56c8c5c86c995abd6060bc1920fae9a3cec195c07fcf18",
+    "ch12.md": "e0eafd30523874bcc5da1eaaafdcf3ee992043979abf48ea442bfdfafa74b922",
+    "source-index.txt": "92b546cbd1324975a0353a4bf25b0acfed289a4e8acbf5b0688fc37eae3edc1c",
+    "ch10-source-issues.json": "6cc1cd26f97117d3115f9220dace4a1e088c393c196328930d2d4f8a607070d4",
+    "ch09.md": "1220336777b8f89a9e5e7c186687aa8998889b7862867561103b14bc7c609cd3",
+    "ch06-source-issues.json": "9e57ab10d51f8ff02a504f1d77e10026552d5268cb17ddfff21181dd94293340",
+    "ch16-source-issues.json": "348bd65b241f4a35fab5d46f8bf50115c5b2de0a7e908e86f6eebd376760f713",
+    "ch19.md": "8de1057786fe3280b9e1996f2a5ba47e30a4f54a88034c63167f11b158a1bcb7",
+    "source-pages.json": "acebcddefa3b9ad6635a3728ff37e2ddb8be7c36b46a10643e73174541e01449",
+    "ch03-table-arithmetic.json": "7637ce6ce04b177911864b1ffbeabe2d2f047fefca4a3130145106eb5353fe24",
+    "ch15-table-arithmetic.json": "457475d7bbb2d5d7355d68131907fb27ec203f9d34d6fe34208c41f8d7d7ba3f",
+    "ch08-reading-audit.json": "49e915f48d01c7548db4f1662a94829ce9668f8f6ca3ed64b39ad10333070e4a",
+    "ch05-reading-audit.json": "7e39670f6250fbe9c519fd20a236be3f001d67e75c5199b148225e8ba12b56f2",
+    "ch15-reading-audit.json": "76a10480ab01c99d53344574e4b74b2fcc0f2defc3faf34a062d89861a527407",
+    "ch18-reading-audit.json": "c1f0910b61640aa43bf32c4e2eced5c41ce9ce71909d5499915b5efae6d5b6fe",
+    "front-matter.txt": "c14e6a0975ee01ba30e36cb444ebd797c392f28ace59e72c3cb362fbc4083924",
+    "ch16-reading-audit.json": "a75e2702cd8d45301256135fc49d8191156ea354967093e824d5ef12578d0268",
+    "ch06-reading-audit.json": "ca718389395e5da46ef0c7f59098ccae3f08150da75bfddb7a020f2e68e7d892",
+    "ch09-table-arithmetic.json": "2bf2f39ca803a90851e5970637e7576d703c09719a6c69118374f0e06c79a3d5",
+    "original-2022-CCBY.pdf": "8c0b537a3a66a60f4b3039392728254fc938e36c4baf635d4707928336bf04b9",
+    "ch15-source-issues.json": "641f19c97690d36ea1e211363dd2e128c0890d921da34f8842d7d0f646319701",
+    "ch08.md": "1d24c8befad0e9df6514865a67f25e8bf23d677e0377bc54d749a4df2618861f",
+    "ch18-source-issues.json": "fd1c1ce62669dcf5fcc714f9b448b4d62e85338e2341a71c0b2db8f66bb46f01",
+    "reading-audit.json": "e3a54098b99123b3e2708b7e2911107560dd12136417ec9b9f045f7a067d51ca",
+    "source-plan.json": "30b8da5ccc46880059365e7134d44cc68c233556d75cedca0b7a5562b479d7f8",
+    "专家说明.md": "4bc32f10bd0d86c0322bbd34ad6ccd66044519c26c2b3af53748db476c01c70c",
+    "ch08-source-issues.json": "53b6eac9c45a3b63da37850e0c9f04d75d80f3f08e53bfb759efd21ff3077e37",
+    "ch01-table-arithmetic.json": "0f4681bfbca37b69ee56f317fee0c198a8593823514e696a529a9e9fcadc0d6a",
+    "ch05-source-issues.json": "bd3d6e3bb6e12162a04afa98033b7ad2fe8e3426d21ca983be974f9c5e849664",
+    "ch17-table-arithmetic.json": "5da2dd3eb8ec3a600ad848ca0a0329f1373efe5965b0816b94df4eded1320941",
+    "ch18.md": "aba450777d514122178044640332d66d36801fbf078146f16661ef38dd513c8e",
+    "全书综合与附录.md": "006870b816c465d57a791a7153837dcb3dbb360efa8a438b7a9126d1e76321c0",
+    "chapters/ch05.md": "66ab9a2f05109337b03e6ede77bc5bb1386d013fbbb4c71dcf80a3b3cd017b35",
+    "chapters/ch15.md": "0ddb1626be527107a5b867b5a37bdcc432dbdeca9008651d338547ff31c50cbd",
+    "chapters/ch01.md": "d4593ab523bb50e497f5be238b0048ace34cb0ccb0462dcc67ad231f9b84a5fa",
+    "chapters/ch11.md": "2582d6ccd361a8cb3a4adf479caf293ce7be74104a28c495cfdfab464b572510",
+    "chapters/ch10.md": "f1e20b5c697a6919980affc8bca076dedb5979ff16d6318142219ccc110034df",
+    "chapters/ch04.md": "719c071b7662f1eb121db413228a7991715723b6ec973dbbd75b2745560defc4",
+    "chapters/ch14.md": "47b397d9c1e5b92e619e8272028c5d15cee5eaf9aef6842100192ea2d165d3d6",
+    "chapters/ch20.md": "f207078da352215292d7e4dc574823e01503293ff31fcdccea63ebb43cf1c852",
+    "chapters/ch03.md": "8510a7b7b664b0aeba1a5e49b674d7f7bacab5aed821e3ec1f8a56ee302d53f6",
+    "chapters/ch13.md": "7f2535a61af5f9adcb3ba6ebd0f3582ea05b01ffb3bcf977d6aea1819765f22c",
+    "chapters/ch07.md": "82847e7ddd6614736a1b5af47111f8eab0d94ca33bb7445af2d42d527000980a",
+    "chapters/ch17.md": "a364adabdf9943ae768cc5147523ac74b6e80e292ba0f88c905dd3620c1503cb",
+    "chapters/ch06.md": "548504db1f45eaa603c2eb9b45b1e4c69d2b2609dc14b67b78893f6d25e2698a",
+    "chapters/ch16.md": "811636c31944326ea36d1f9b633cba4956b3704bb116c3174cd277f34adfca1b",
+    "chapters/ch02.md": "30faeef3c1ffeb5d69c1930c3e17b4f2ac5a64985a189b07c4e0433a4ff52c88",
+    "chapters/ch12.md": "e0eafd30523874bcc5da1eaaafdcf3ee992043979abf48ea442bfdfafa74b922",
+    "chapters/ch09.md": "1220336777b8f89a9e5e7c186687aa8998889b7862867561103b14bc7c609cd3",
+    "chapters/ch19.md": "8de1057786fe3280b9e1996f2a5ba47e30a4f54a88034c63167f11b158a1bcb7",
+    "chapters/ch08.md": "1d24c8befad0e9df6514865a67f25e8bf23d677e0377bc54d749a4df2618861f",
+    "chapters/ch18.md": "aba450777d514122178044640332d66d36801fbf078146f16661ef38dd513c8e",
+    "source-chapters/ch20.txt": "3a9a459e6e400f8ad948ca07399041ffe8b0fc567ca53f3e91fa5c5bc16d17e0",
+    "source-chapters/ch08.txt": "8ea0815324b31d43b1aa9a9557e030de93c21a0571fe6119c8e74b6332c0701d",
+    "source-chapters/ch09.txt": "2dc954ea2a8c18810d8ec555f555eda30b05509f4c0e7d4468eaeafc8169b44a",
+    "source-chapters/ch19.txt": "0c5a44b45953b3b086ac4f058e0164a29347e7f23440ca12502699a3d2042e20",
+    "source-chapters/ch18.txt": "4218621f06cbab7c41f289d197c90277cb89c4a1a7422cf7a11c87ddf31308b8",
+    "source-chapters/ch16.txt": "c582ad6176eb0551e74ed76f952471ca9a6f98a35c593677918d2f235dcd6bf0",
+    "source-chapters/ch02.txt": "23e82bf6f59ac11afc89bf66d9d7438c8280debe99772deb54f714c359afabe5",
+    "source-chapters/ch03.txt": "eae5fda61855b552aebcc3427a308c33fa686e1820b2c82d628be7ea2175a2f2",
+    "source-chapters/ch17.txt": "1c15205865555e4569ff7f254bce831c06e981777926e80d241fff8a79f2428f",
+    "source-chapters/ch01.txt": "93cb684dd34b65aa1f37099ccdf48b1229bf79a3a38e6ba6cd4672a373910653",
+    "source-chapters/ch15.txt": "a1caae0486a54c226e64691b443ff6ad20ccb3ceeb9b139dbcd143053b650023",
+    "source-chapters/ch14.txt": "ea29513015a1d92ebbc6f25b13b6a915cd7b326445e127ded5a1b648a3bd2d7f",
+    "source-chapters/ch04.txt": "05f3493ccf17d2045ee4b53e0e8ac26d5aea9b49af7318142490f0a52f062c34",
+    "source-chapters/ch10.txt": "97b87b38f98c8f7edc84dd03d70451c1b3a4af57c5171833d125ef37c25ce08a",
+    "source-chapters/ch11.txt": "c0d83eafece0e8208aaa444569da3d21cf4163251ac5cfa8844b7a5372fdd63f",
+    "source-chapters/ch05.txt": "6184605739ab277953e4925f789468dcf884d39cea156c67c3bccb49fc02523c",
+    "source-chapters/ch13.txt": "38758d7cf28667f4b505ae37843249e0a20b5b3572a7f3fa4864862e6e1f2d44",
+    "source-chapters/ch07.txt": "ae9ebf407c3fdf985edff3698d207b11fbef445f2f884cf1192edc3e6fe04369",
+    "source-chapters/ch06.txt": "a3613d6b55494ce4320bfdaef785b96ac799fc052dd4b8896ed119b34889f83b",
+    "source-chapters/ch12.txt": "21524e1a60edb905e6ce18a6858e150d0017e6460a1cc88c7f5398f52424dabe"
+  },
+  "chapters_reviewed": [
+    {
+      "chapter": 1,
+      "full_primary_source_chars": 100458,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          90000
+        ],
+        [
+          90000,
+          100458
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "body_han": 3748,
+      "whole_numeric_and_source_issues_JSON_read": true,
+      "all8sections_summary_glossary19MC9review4video_question_prompts_read": true,
+      "external4video_contents_watched": false,
+      "own_original_image_spotchecks": [
+        {
+          "pdf_page": 44,
+          "printed_page": 29,
+          "scope": "Wholepage incl monthly500text, allfirsthalfTable1.2rows, assumptions and earlysavingclaims"
+        },
+        {
+          "pdf_page": 45,
+          "printed_page": 30,
+          "scope": "Wholepage incl fullremainingTable1.2four values andeconomic/book/marketvalue distinction"
+        },
+        {
+          "pdf_page": 28,
+          "printed_page": 13,
+          "scope": "WholeRisk/ExpectedReturnfigure and five risk definitions, no calibrated riskprobability inferred"
+        },
+        {
+          "pdf_page": 37,
+          "printed_page": 22,
+          "scope": "WholeBroker/Dealermarketfigure andbroker/dealer/intermediaryprose; dated classification preserved"
+        }
+      ],
+      "independent_calculations_file": "P38-C01-independent-arithmetic.json",
+      "official_corrections_recheck_file": "P38-C01-external-corrections-recheck.json",
+      "semantic_result": "No material Chinese source misreading found; explicit historical/legal/timing/return assumptions preserved. Full expert rules not yet reviewed.",
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 2,
+      "full_primary_source_chars": 86869,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          86869
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "body_han": 3277,
+      "whole_source_issues_JSON_and_reading_audit_read": true,
+      "all6sections6footnotes_cases_summary_glossary20MC12review4video_questions_read": true,
+      "external4video_contents_watched": false,
+      "own_original_image_spotchecks": [
+        {
+          "pdf_page": 58,
+          "printed_page": 43,
+          "scope": "WholeTable2.1 all12cellsincludingblanks andscope/parentLLCexampleprose"
+        }
+      ],
+      "semantic_result": "No material Chinese misreading found. Privatecompany/shareholdercontradiction, LLC/LP/LLP/taxlimits, parent/subsidiary, governancewithoutguarantee, bonds/creditoridentity, ESGwithoutempiricalalpha and IRdisclosurevsnarrative faithfullyqualified.",
+      "independently_verified_primary_sources": [
+        {
+          "url": "https://www.irs.gov/publications/p3402",
+          "actual_scope": "Relevant219–230 and307–322 definitions/default/electedclassifications read;notallstateformationlaw"
+        },
+        {
+          "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-alert-beware-claims-sec-has-approved-offerings",
+          "actual_scope": "Wholemainalert86–114 actualread; filingnevermeritapproval"
+        },
+        {
+          "url": "https://www.sec.gov/files/form10-q.pdf",
+          "actual_scope": "GeneralInstructionA14–23 actualread;3quarters40/45days, notall10pagesread"
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 3,
+      "full_primary_source_chars": 78616,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          57000
+        ],
+        [
+          57000,
+          76000
+        ],
+        [
+          76000,
+          78616
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "six_sections15notes_summary_glossary12MC7review2problems4video_prompts_read": true,
+      "external_videos_and_FRED_data_exercises_performed": false,
+      "own_original_image_spotchecks": [
+        {
+          "pdf_page": 91,
+          "printed_page": 76,
+          "scope": "Demand1 toDemand2 withfixedSupply, captionactuallywrong;wholeprose"
+        },
+        {
+          "pdf_page": 100,
+          "printed_page": 85,
+          "scope": "All35datedrowsincl1854initialtrough/2020unfinished;all33complete3durationrows independentlyrecalculated"
+        },
+        {
+          "pdf_page": 102,
+          "printed_page": 87,
+          "scope": "Wholeactualrates/6percentnominal2percentinflationTV andapproxFisherformula"
+        },
+        {
+          "pdf_page": 105,
+          "printed_page": 90,
+          "scope": "WholeMXNreciprocalformulas20USDreceipts and3exposuredefinitions"
+        },
+        {
+          "pdf_page": 109,
+          "printed_page": 94,
+          "scope": "Wholeall6x4Table3.6values andscope/baserebasingprose"
+        }
+      ],
+      "independent_calculations_file": "P38-C03-independent-arithmetic.json",
+      "semantic_result": "Minor unit correction requested: inflation2percent is alevel, not2percentagepoints. OtherChinese substance faithful, historicaldefinitions/datarevisions andsourceerrors preserved.",
+      "findings": [
+        {
+          "id": "P38-QA-C03-N01",
+          "old": "电视因二个百分点通胀",
+          "requested": "电视因百分之二通胀",
+          "status": "root_corrected_and_independent_literal_recheck_verified"
+        }
+      ],
+      "official_external_correction_verification": [
+        {
+          "url": "https://www.bls.gov/ppi/overview.htm",
+          "scope": "MainoverviewData/Coverage/Uses170–222actuallyread, sellerreceived/outputdefinition supports independent correction"
+        },
+        {
+          "url": "https://www.nber.org/news/business-cycle-dating-committee-announcement-july-19-2021",
+          "scope": "Direct403notbypassed; officialprimarycachedsearch returned and actuallyread complete July19,2021 announcement, identifiesApr2020trough andMayexpansion. No fulllinkedarchive claim."
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "body_han_after_correction": 3446,
+      "corrected_draft_sha256": "83c8544fc89c2cacf384dae87e30175093c42424227882bbff0e79814150f20c"
+    },
+    {
+      "chapter": 4,
+      "full_primary_source_chars": 80593,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          80593
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all5sections10notes_cases_summary_glossary7MC10review5problems4video_prompts_read": true,
+      "external_video_McDonalds10K_WorldComreport_entire_read": false,
+      "own_original_image_spotchecks": [
+        {
+          "pdf_page": 120,
+          "printed_page": 105,
+          "scope": "Wholeaccountingequation/exercise indeedwrongsubtractdirection"
+        },
+        {
+          "pdf_page": 123,
+          "printed_page": 108,
+          "scope": "WholeactualFigure4.6cashflowheadingswrong, Aprilcashreceipt0inbody"
+        },
+        {
+          "pdf_page": 127,
+          "printed_page": 112,
+          "scope": "WholeAppleall12amounts units andthousandfactorerror;assetsclassificationprose"
+        },
+        {
+          "pdf_page": 134,
+          "printed_page": 119,
+          "scope": "WholeDDBall5years/residualfloor;cashnotrepaidbydepreciation"
+        },
+        {
+          "pdf_page": 135,
+          "printed_page": 120,
+          "scope": "AllTable4.2 formulas/Figure4.16comparison5years18amounts includingtotals"
+        }
+      ],
+      "independent_calculations_file": "P38-C04-independent-arithmetic.json",
+      "semantic_result": "No material Chinese misreading found; scope/tax/issuer/subjects, costvsmarket, revenuevsreceipt, purchasingvsconsumption, sourceerrors andexternalworkboundaries preserved.",
+      "official_external_correction_verification": [
+        {
+          "url": "https://www.irs.gov/publications/p538",
+          "actual_scope": "Relevant301–304,725–744,775–810actuallyread; tax cash/accrual options/conditions notallentitiesaccrual, notentire1580lines"
+        },
+        {
+          "url": "https://www.sec.gov/divisions/corpfin/internatl/foreign-private-issuers-overview.shtml",
+          "actual_scope": "138,189–190 relevantforeignprivateissuerIASB/USGAAP/reconciliation read; noteveryjurisdictionrules"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm",
+          "actual_scope": "CorrespondingPP&E12amounts1515–1521 andreportdates/unitheader read; entire10K notread"
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 5,
+      "full_primary_source_chars": 79094,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          57000
+        ],
+        [
+          57000,
+          76000
+        ],
+        [
+          76000,
+          79094
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all8sections_cases_summary_glossary8MC8review8problems4video_prompts_read": true,
+      "external_videos_latestissuerworkbooks_activities_performed": false,
+      "own_original_pages_actually_viewed": [
+        147,
+        148,
+        149,
+        158,
+        160,
+        162,
+        163,
+        165,
+        169,
+        170,
+        176,
+        177
+      ],
+      "independent_calculations_file": "P38-C05-independent-arithmetic.json",
+      "semantic_result": "Two false source-error attributions withdrawn; current original5000depreciation/99000OI/84000NI and5000growth correctly retained. Remaining actualEBITDA/OCF issues preserved. Expert rules still pending.",
+      "findings": [
+        {
+          "id": "P38-QA-C05-N01",
+          "source": "PDF170 printed155 originalDepreciation5000",
+          "current_dossier_wrong_read": "6000 -> falselyclaims sourceOI98000NI83000",
+          "requested": "Retainoriginal5000/99000/84000; retractfalseoriginal1000gap, preserveold dossier QAcorrectionrecord",
+          "status": "root_corrected_and_independent_literal_numeric_recheck_verified"
+        },
+        {
+          "id": "P38-QA-C05-N02",
+          "source": "PDF147 printed132 original5000(43000-38000)",
+          "current_dossier_wrong_claim": "original5500",
+          "requested": "Retractfalseoriginal5500error, keepactual5000",
+          "status": "root_corrected_and_independent_literal_numeric_recheck_verified"
+        }
+      ],
+      "chapter_corrections_closed": true,
+      "official_external_correction_verification": [
+        {
+          "url": "https://delcode.delaware.gov/title8/c001/sc05/index.html",
+          "actual_scope": "Section170(207–216)and154(90–94) actuallyread; surplus/netprofits conditions notuniversalaccountretainedearningsrule"
+        },
+        {
+          "url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures",
+          "actual_scope": "Question102.07(130–134) actuallyread; nonuniformFCF definition/mandatoryobligations disclosure, notentirelegalregulations"
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "body_han_after_correction": 3989,
+      "corrected_draft_sha256": "99764f304fa54d8d68fa5c7b0bd3f3d9d0d95aed55d85a55f84f1a9011941c67"
+    },
+    {
+      "chapter": 6,
+      "full_primary_source_chars": 66244,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          66244
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections2notes_cases_summary_glossary8MC11review10problems4video_prompts_read": true,
+      "external_videos_latestissuerdata_exercises_performed": false,
+      "own_original_page_spotchecks_actually_seen": [
+        184,
+        186,
+        190,
+        193,
+        195,
+        196,
+        198,
+        199,
+        200
+      ],
+      "independent_calculations_file": "P38-C06-independent-arithmetic.json",
+      "semantic_result": "No material Chinese chapter misreading found. One precise numerical-reading-record cellmisread found andrequestedfix; sourceotherDEformula/ROEscope/DuPont26.4conflicts actuallyverified.",
+      "findings": [
+        {
+          "id": "P38-QA-C06-N01",
+          "source": "PDF195 printed180 Figure6.7",
+          "field": "figure67_all_three_year_cells Depreciation twoYearsPrior",
+          "actual_original": 2000,
+          "original_dossier_JSON": 2750,
+          "original_table_totals_recomputed": [
+            34000,
+            27000
+          ],
+          "Chinese_chapter_not_incorrectly_quoting_that_cell": true,
+          "status": "root_corrected_and_independent_exact_cell_recheck_verified"
+        }
+      ],
+      "chapter_corrections_closed": true,
+      "official_external_verification": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465920121812/a20-35108_1ex99d1.htm",
+          "actual_scope": "Officialissuer2020announcement relevantEPS17.97nonGAAPperADS/2.25ordinary/10.48GAAP/8sharesADS footnote actuallyread via official cachedsearch; entirestatementnotread; consensusunverified"
+        },
+        {
+          "url": "https://blogs.cfainstitute.org/blog/2013/05/21/a-look-at-the-cash-conversion-cycle/",
+          "actual_scope": "Actualmain15–50written explanationCCC=DSO+DIO-DPOandOC=DSO+DIOread; embeddedAppleMacyfigure notindependentlyread. DIOprintedparentheses itself notusedwithoutalgebracheck."
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "corrected_arithmetic_sha256": "2eee1e81eaeeaf79f6f83b9c67bb88d7d9f6557c694ead7d650a9d1692a74b2b"
+    },
+    {
+      "chapter": 7,
+      "full_primary_source_chars": 90766,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          90766
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all4sections_originalnote_cases_summary_glossary5MC5review22problems4video_prompts_read": true,
+      "external_videos_downloadedworkbooks_actualoperations_performed": false,
+      "own_original_image_spotchecks_actually_seen": [
+        220,
+        221,
+        230,
+        232,
+        234,
+        241
+      ],
+      "independent_calculations_file": "P38-C07-independent-arithmetic.json",
+      "semantic_result": "Rate-level percentagepoint terminology corrections requested; major397.44wrongoriginalresult should be explicitinprose; neworiginal10000vs10million formula typo confirmed. Othercashsign/timing/hypotheticalrisk/Excel/Fisher/rule72 andscope qualification faithful.",
+      "findings": [
+        {
+          "id": "P38-QA-C07-U01",
+          "status": "root_corrected_and_independent_full_current_draft_record_recheck_verified",
+          "candidate_file": "P38-C07-rate-unit-correction-candidates.json"
+        },
+        {
+          "id": "P38-QA-C07-M01",
+          "status": "root_corrected_and_independent_full_current_draft_record_recheck_verified",
+          "actual": "Original397.44notmatching(1.0025)^1200;sourceissuealreadyrecords butprose omitswrongamount"
+        },
+        {
+          "id": "P38-QA-C07-S01",
+          "status": "root_corrected_and_independent_full_current_draft_record_recheck_verified",
+          "actual": "OriginalPDF234 firstannualformula10000*1.12=11200000, paragraphamount10million"
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "root_correction_received": true,
+      "final_literal_recheck_pending": false,
+      "updated_draft_sha256": "0a995b3c7e9b2a548b83902b8c50c25e475df1897e3dc42890817dca22f3f656",
+      "chapter_corrections_closed": true,
+      "body_han_after_correction": 3678,
+      "official_BLS_counterexample_recheck": {
+        "url": "https://www.bls.gov/opub/ted/2008/jan/wk2/art04.htm",
+        "actual_scope": "Entire main169–181actuallyread; Dec2007CPIU4.1percent annual; linkedchart/newsrelease notentireread"
+      }
+    },
+    {
+      "chapter": 8,
+      "full_primary_source_chars": 85350,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          57000
+        ],
+        [
+          57000,
+          76000
+        ],
+        [
+          76000,
+          85350
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_JSON_read": true,
+      "whole_original_numeric_fields_read_via_lossless_manual_projection_except_bulk_generated_rows": true,
+      "all1504_generated_rows_mechanically_verified": true,
+      "all5sections3notes_summary_glossary_CFA10MC10problems4video_prompts_read": true,
+      "external_videos_downloadedworkbooks_actualoperations_performed": false,
+      "own_whole_original_image_spotchecks_actually_seen": [
+        245,
+        247,
+        253,
+        256,
+        257,
+        258,
+        259,
+        262,
+        264,
+        270
+      ],
+      "independent_calculations_file": "P38-C08-independent-arithmetic.json",
+      "findings": [
+        {
+          "id": "P38-QA-C08-U01",
+          "candidate_file": "P38-C08-rate-unit-correction-candidates.json",
+          "status": "parent_correction_requested"
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "official_external_verification": [
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/does-requesting-my-credit-report-hurt-my-credit-score-en-1229/",
+          "scope": "Wholemain20–28actuallyread; weeklyonlineeach3/annualmail distinction; no scoring harm selfrequest"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/i-got-my-free-credit-reports-but-they-do-not-include-my-credit-scores-can-i-get-my-credit-score-for-free-too-en-6/",
+          "scope": "Wholemain20–38actuallyread; reports/scoring different, possiblefreecardissuer conditions"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/ask-cfpb/im-about-to-close-on-a-real-estate-purchase-transaction-with-a-mortgage-what-can-expect-in-the-mortgage-closing-process-en-1905/",
+          "scope": "Wholemain20–60actuallyread; deedownershipvscollateral/foreclosure distinct; linkedformsnotread"
+        },
+        {
+          "url": "https://studentaid.gov/manage-loans/repayment",
+          "scope": "DirectonlyJS shell, no bypass. Official cachedsearch WhenYouMustBeginPayments/LoansandGracePeriods paragraphsactuallyread incl6monthsubsidized/unsubsidized/ninePerkins/PLUSdeferment; notwhole allrepaymentpolicies"
+        }
+      ],
+      "rate_corrections_actual_current_changed_lines_fully_read": true,
+      "body_han_after_rate_correction": 3744,
+      "current_draft_sha256": "f92d1f1a8febf43bf6d20e7a0e3981a2acc331af6e49a6d1df5b6e482466394e",
+      "remaining_grammar_clarifications": "P38-post-rate-unit-grammar-clarifications.json"
+    },
+    {
+      "chapter": 9,
+      "full_primary_source_chars": 42803,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18500
+        ],
+        [
+          18500,
+          37000
+        ],
+        [
+          37000,
+          42803
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all2sections2notes_full_interview_summary_glossary_CFA7MC3review9problems4video_prompts_read": true,
+      "own_whole_original_image_spotchecks_actually_seen": [
+        281,
+        284,
+        285,
+        287,
+        289,
+        290,
+        292
+      ],
+      "independent_calculations_file": "P38-C09-independent-arithmetic.json",
+      "external_videos_and_workbooks_actual_operations": false,
+      "findings": [
+        {
+          "id": "P38-QA-C09-U01",
+          "candidate_file": "P38-C09-rate-unit-correction-candidates.json",
+          "status": "root_corrected_and_independent_changed_lines_full_recheck_verified_including4percent_grammar"
+        }
+      ],
+      "official_external_verification": [
+        {
+          "url": "https://support.microsoft.com/en-us/excel/functions/npv-function",
+          "actual_scope": "Whole functionmain127–175 actualread includingarguments/periodend/sequence/ignoredblank/timezero/examplenumbers; formulaimage notseparatelyrendered"
+        },
+        {
+          "url": "https://support.microsoft.com/en-gb/excel/functions/xnpv-function",
+          "actual_scope": "Whole functionmain120–164 actualread inclactualdates/365days/argumentconstraints/example; equationimage notseparatelyrendered"
+        }
+      ],
+      "original_every_glyph_reproofread": false,
+      "chapter_corrections_closed": true,
+      "body_han_after_correction": 2801,
+      "current_draft_sha256": "b10d43f8ec7159ec38e0a930e5f0a04348f272b28bc94fcf8c46c3cc7218fc39"
+    },
+    {
+      "chapter": 10,
+      "full_primary_source_chars": 90127,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          90127
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all5sections8notes_Enron_summary_glossary_CFA14MC5review11problems4video_prompts_read": true,
+      "own_original_whole_page_spotchecks_actually_seen": [
+        300,
+        302,
+        305,
+        309,
+        314,
+        315,
+        318,
+        323,
+        325,
+        327
+      ],
+      "independent_calculations_file": "P38-C10-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.treasurydirect.gov/marketable-securities/treasury-notes/",
+          "actual_scope": "Whole main33–58 currentissuance2/3/5/7/10,semiannual andconditions actuallyread; auctionsnotindependentlyread"
+        },
+        {
+          "url": "https://www.treasurydirect.gov/marketable-securities/treasury-bonds/",
+          "actual_scope": "Whole main33–65 current20/30years actuallyread; bondsnotUSsavingsbonds, noauctiontableclaims"
+        },
+        {
+          "url": "https://www.fca.org.uk/news/press-releases/end-libor",
+          "actual_scope": "Whole pressrelease258–299 inclpublicationOct1,2024/lastSept30/all35ceased, transition/governorquotes/notes actuallyread; linkedguidanceandvideosnotread"
+        },
+        {
+          "url": "https://www.nber.org/about-nber",
+          "actual_scope": "Directinternalerrornotbypassed; officialcachedsearch overview private/nonprofit/nonpartisan/1920 actuallyread; notentireNBERwebsite"
+        },
+        {
+          "url": "https://www.nber.org/research/business-cycle-dating/business-cycle-dating-procedure-frequently-asked-questions",
+          "actual_scope": "Officialcachedsearch full returned FAQquestions inclformal1978/nofixedtime and all12lagtable rows actuallyread; relatedpapersnotread"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/credit-ratings/about/understanding-credit-ratings?os=0",
+          "actual_scope": "Actualmain660–762 forwardlookingrelativeopinions/freepublishedmethods/quantitativequalitative/committees/issuerpays andconflict/nomerits read; generalmethodologydocumentsandAAAfaqafter790notentireread"
+        }
+      ],
+      "findings": [
+        {
+          "id": "P38-QA-C10-U01",
+          "candidate_file": "P38-C10-rate-unit-correction-candidates.json",
+          "status": "parent_correction_requested"
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 11,
+      "full_primary_source_chars": 87630,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          87630
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all5sections4notes_completecases_summary_glossary_CFA10MC10review10problems4video_prompts_read": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        339,
+        343,
+        344,
+        345,
+        346,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        360,
+        361
+      ],
+      "independent_calculations_file": "P38-C11-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.irs.gov/taxtopics/tc409",
+          "actual_scope": "Actualmain103–110capitalbasis/strictmorethan1year/exception/daycount read; noindividualtaxrate advice noralllinkedpublications"
+        },
+        {
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks",
+          "actual_scope": "Wholemain150–218actualread, preferredusuallynovotes/seniorcreditorsbeforepreferredbeforecommon; notembeddedfilm"
+        },
+        {
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx",
+          "actual_scope": "HeadingFeb1,2024 and176–178specificdividendparagraph actualread;0.50allA/B/payMar26,recordFeb22 andboardconditions; notentirefinancialannouncement"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000047/goog-20240425.htm",
+          "actual_scope": "Officialcachedissuer8KItem8.01entiredividendparagraph actuallyread;Apr25,2024approve0.20allA/B/C/payJun17,recordJun10 andboardconditions; entire8Knotclaimedread",
+          "replaces_broken_url": "https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf",
+          "broken_direct_URL_now_redirects_sitemap_cachedhistoricalPDFparagraph_also_returned": true
+        },
+        {
+          "url": "https://fasb.org/projects/current-projects/leases-398331",
+          "actual_scope": "DirectJSonly. Official cachedASU2016-02paragraph actuallyread, morethan12monthlesseeassetsliabilities/financeoperatingclassification; noentireASC842read"
+        }
+      ],
+      "findings": [
+        {
+          "id": "P38-QA-C11-U01",
+          "candidate_file": "P38-C11-rate-unit-correction-candidates.json",
+          "status": "pending_batch_author_merge_after_whole_book_review"
+        },
+        {
+          "id": "P38-QA-C11-L01",
+          "finding": "OfficialAlphabet2024historicalPDFURL now redirects to sitemap. EquivalentactualissuerSEC8Ksupportsidentity/fact. AddworkingprimaryURL toreader citation/sourceissue.",
+          "status": "pending_batch_author_merge"
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 12,
+      "full_primary_source_chars": 75231,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          57000
+        ],
+        [
+          57000,
+          75231
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all4sections21notes3bios_summary_glossary5MC21review4video_prompts_read": true,
+      "no_original_Problems_section": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        370,
+        372,
+        378,
+        379,
+        382,
+        383,
+        384,
+        386,
+        387,
+        388,
+        389
+      ],
+      "independent_calculations_file": "P38-C12-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.treasurydirect.gov/marketable-securities/tips/",
+          "actual_scope": "Whole main 33–90 actually read: fixed rate/variable dollar coupon, original principal floor at maturity, 5/10/30 years and tax boundary; not all linked regulations."
+        },
+        {
+          "url": "https://www.ecfr.gov/current/title-17/chapter-II/part-230/section-230.415",
+          "actual_scope": "Whole current Rule415 text103–145 actually read including a2 specified two-year amount scope, a5 three-year scope and renewals. All incorporated forms/regulations not read."
+        },
+        {
+          "url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm",
+          "actual_scope": "Main6–35 actually read, employment/prices/long-term rates, PCE2% and long rates expectations. Remaining transmission text and links not claimed all read."
+        },
+        {
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/over-counter-otc-securities",
+          "actual_scope": "Whole definition151–156 actually read: broker dealers/ATS quotes/current-information conditions; not all linked ATS rules."
+        },
+        {
+          "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-14",
+          "actual_scope": "Whole main81–171 actually read market/limit/stop/trailing/time instructions and staff-statement limits. Market/stop execution price not guaranteed; not chart image separately enlarged."
+        }
+      ],
+      "findings": [
+        "The92 original histogram labels omit1982; no outside fill/calibrated frequencies. Baa premium2.30vs2.27 original3bps preserved. Caption daily volume has missing unit/possible balance ambiguity. CPI1982–84base vs exact1984 not assumed. Correct arithmetic/geometric/period distinctions. Genuine percentage-point differences preserved. No material Chinese semantic correction identified in chapter12."
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 13,
+      "full_primary_source_chars": 84215,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          84215
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all7sections2notes_summary_glossary_CFA13MC5review7problems4video_prompts_read": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        399,
+        401,
+        403,
+        405,
+        406,
+        407,
+        409,
+        411,
+        412,
+        413,
+        417,
+        418,
+        419,
+        420,
+        423
+      ],
+      "independent_calculations_file": "P38-C13-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.stat.ethz.ch/R-manual/R-devel/library/stats/html/quantile.html",
+          "actual_scope": "Whole main6–88 all9algorithms/defaulttype7 and remainingexamples referencesactuallyread; noactualRexecution."
+        },
+        {
+          "url": "https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Exponential.html",
+          "actual_scope": "Whole documentationactuallyread rate reciprocal mean, density/CDF and examples; linkedpapersnotread."
+        },
+        {
+          "url": "https://www.bls.gov/regions/mid-atlantic/data/consumerpriceindexhistorical_us_table.htm",
+          "actual_scope": "Relevant header158–173/2016–2021monthly all12cells peryear actuallyread; Jan values verified; earlier2012–2015data notoncurrentpage notindependentlyverified."
+        },
+        {
+          "url": "https://www.stat.ethz.ch/R-manual/R-devel/library/base/html/table.html",
+          "actual_scope": "Whole134linedocumentation actuallyread counts/factors/NA controls/examples, notactualRexecution."
+        }
+      ],
+      "findings": [
+        "No chapter13 ratelevel/difference confusion identified. Historical CPI annual labels versus January data corroborated. Source prices observation time/unadjusted basis remains unknown. No conditionless probability follows from ranking/SD/shape."
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 14,
+      "full_primary_source_chars": 66936,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          66936
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections1note_summary_glossary11MC5review7problems4video_prompts_read": true,
+      "last_printed448_blank_authorbody_onlyheadersfooter": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        435,
+        438,
+        440,
+        444,
+        445,
+        447,
+        448,
+        449,
+        451,
+        452,
+        455,
+        456,
+        458,
+        459
+      ],
+      "independent_calculations_file": "P38-C14-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://stat.ethz.ch/R-manual/R-devel/library/stats/html/cor.test.html",
+          "actual_scope": "Whole95lines actuallyread Pearson conditions/dfn−2 and rank tests/ties/missing; no linkedpapers or actualRexecution."
+        },
+        {
+          "url": "https://www.stat.ethz.ch/R-manual/R-devel/library/stats/html/predict.lm.html",
+          "actual_scope": "Whole111line document actuallyread confidence/prediction, future variance default, rank deficiency/NA and examples; noactualRexecution."
+        }
+      ],
+      "findings": [
+        "No chapter14 percentagepoint/rate unit correction required. All table numerical derived records independently reconstructed. Original Nike beta source0.830681658 versus fromroundedprices0.8306819129 is tiny representation gap, not current beta proof. Primary source historical prices not externally revalidated."
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 15,
+      "full_primary_source_chars": 70833,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          70833
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all5sections9notes_summary_glossary_CFA11MC6review8problems4video_prompts_read": true,
+      "original_page478_runningheaderfooter_only": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        466,
+        468,
+        470,
+        471,
+        474,
+        478,
+        479,
+        480,
+        481,
+        483,
+        484,
+        485,
+        486,
+        490,
+        491
+      ],
+      "independent_calculations_file": "P38-C15-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/diversify-your-investments",
+          "actual_scope": "Whole main150–154 actuallyread diversification not market-loss guarantee; linkedassetallocation page notread."
+        },
+        {
+          "url": "https://web.stanford.edu/~wfsharpe/art/sr/sr.htm",
+          "actual_scope": "Primary author1994 article relevant12–85/247–258 actuallyread difference-return SD, timing/serial-correlation, historical-forward limits. Article contains formula images not separately rendered; no wholearticle/allglyph claim or wholebook count."
+        }
+      ],
+      "findings": [
+        "No material Chinese correction identified; correlation estimates from printed annual returns differ slightly from printed rounded author correlations, precise originals retained. Hidden monthly rows remain unknown; book images not equivalent complete spreadsheet. CAPM/ratio outputs are model-conditional, not guaranteed rewards or forecasting."
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 16,
+      "full_primary_source_chars": 68411,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          68411
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections3notes_summary_glossary_CFA10MC4review9problems4video_prompts_read": true,
+      "original_page506_runningheaderfooter_only": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        497,
+        500,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        511,
+        512,
+        513,
+        514,
+        515
+      ],
+      "independent_calculations_file": "P38-C16-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://support.microsoft.com/en-us/excel/functions/mirr-function",
+          "actual_scope": "Main121–164 actually read: finance/reinvest rates, both signs, retained zero/ignored blanks/order. Formula image not separately rendered."
+        },
+        {
+          "url": "https://support.microsoft.com/en-us/excel/functions/irr-function?nochrome=true",
+          "actual_scope": "Whole47 returned lines actually read: periodic unequal values, signs/order, retained zero/ignored blank, iteration/seed limitations. No actualExcel/linkedworkbook execution."
+        }
+      ],
+      "findings": [
+        {
+          "kind": "rate_level_not_percentage_point",
+          "file": "ch16.md",
+          "old": "原书一至二十个百分点的全部敏感性结果已逐项核算。",
+          "new": "原书从百分之一到百分之二十折现率的全部敏感性结果已逐项核算。",
+          "basis": "PDF513–515 printed498–500 shows discount rate levels1%..20%; cost10%to13% relative30% sentence remains unchanged."
+        },
+        {
+          "kind": "explicit_source_numeric_conflict",
+          "file": "ch16.md/ch16-source-issues.json",
+          "suggested_prose": "另需保留原书终值栏的一处数值冲突：纸页四九〇、PDF第五〇五页表16.10将合计写为31595.22美元；按同表六笔现金及百分之九的复投率，逐笔未舍入终值合计31589.2193498美元，六个已印到分的终值相加则为31589.23美元，两种口径都不能得到原合计。由此算得的修正内部收益率仍约百分之十二点〇〇四八，但不能把合计六美元的差距解释成分位舍入，原印数、复算数与规则适用边界应同时保存。",
+          "basis_pdf": 505,
+          "basis_printed": 490,
+          "original_terminal": 31595.22,
+          "fresh_terminal": 31589.219349800005,
+          "sum_displayed_terminal_cells": 31589.23
+        },
+        {
+          "kind": "metadata_precision",
+          "file": "ch16-source-issues.json",
+          "issue": "5yearinitial_vs6yearNPVcase",
+          "old": "sixpositive2835.625",
+          "new": "sixpositive2835.6193799064495 (rounded2835.62)"
+        },
+        {
+          "kind": "retract_false_source_error_flag",
+          "file": "ch16-table-arithmetic.json",
+          "field": "all12figures.164.nativeproseFigure14_4vsactual16_4_misref",
+          "old": true,
+          "new": false,
+          "basis": "Original native paragraph and actual PDF511 printed496 referenceFigure16.4; no original14.4 mistake established."
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 17,
+      "full_primary_source_chars": 79090,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          57000
+        ],
+        [
+          57000,
+          79090
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections2notes_summary_glossary_CFA13MC5review9problems4video_prompts_read": true,
+      "original_page534_runningheaderfooter_only": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        531,
+        532,
+        533,
+        534,
+        535,
+        537,
+        538,
+        539,
+        541,
+        542,
+        543
+      ],
+      "independent_calculations_file": "P38-C17-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.irs.gov/newsroom/questions-and-answers-about-the-limitation-on-the-deduction-for-business-interest-expense",
+          "actual_scope": "Whole main99–249 actually read FS2026-14 datedAug19: ATI/limitations/exceptions/carryforward/2025–2026 statutory changes; linked regulations/older factsheets notread. Current FAQ is general not controlling law for individual facts."
+        },
+        {
+          "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/convertible-securities",
+          "actual_scope": "Whole main151–169 actually read holder/company conversion, fixed/variable ratios and dilution; linked CDI/filings notread."
+        }
+      ],
+      "findings": [
+        "No material chapter prose correction found: draft correctly retains market-price inconsistency, WACC weights/formula error, Greene/AMW/new-equity typos, YTM versus coupon cash, taxshield PV distinction, MM assumptions and convertible terms.",
+        "PDF526 printed511 writes $13.26% as tax savings; fresh dollar savings13.2552 on source rounded63.12. Not a Chinese incorrect value; optional source-issue note."
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 18,
+      "full_primary_source_chars": 69913,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          69913
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections0numberednotes_summary_glossary_noCFA9MC6review5problems4video_prompts_read": true,
+      "original_page564_runningheaderfooter_only": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        562,
+        563,
+        564,
+        565,
+        566,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        577
+      ],
+      "independent_calculations_file": "P38-C18-independent-arithmetic.json",
+      "official_external_verification": [],
+      "external_reports_workbook_video_whole_read_claim": false,
+      "findings": [
+        {
+          "kind": "arithmetic_source_transcription",
+          "file": "ch18-table-arithmetic.json",
+          "field": "all23figures.183_IS_prior_current_allrows.salary[0]",
+          "old": 3300,
+          "new": 3000,
+          "basis_pdf": 552,
+          "basis_printed": 537,
+          "basis": "Actual Figure18.3 salary prior year clearly3000; Figure18.6 PDF555 also3000. This is dossier transcription mistake; original OI38000 then sums coherently."
+        },
+        {
+          "kind": "computed_cells_mislabeled_original",
+          "file": "ch18-table-arithmetic.json",
+          "field": "all5problems.4_5_bookprinted_allcells",
+          "remove_from_original_origin": [
+            "returns",
+            "net",
+            "cogs",
+            "margin"
+          ],
+          "retain_original_fields": [
+            "gross",
+            "oldpercentnotadjusted",
+            "blankremainingexpense/tax/NI_rows_read"
+          ],
+          "basis_pdf": 577,
+          "basis_printed": 562,
+          "basis": "Actual Problem4 source table rows Returns/Net/COGS/Margin are blank. Values418 etc are independently computed rounded solutions, not printed source cells. Preserve them only as explicitly independent calculations; no delete source evidence or falsely call source wrong."
+        },
+        {
+          "kind": "ratio_difference_clarity",
+          "file": "ch18.md",
+          "old": "这个区别会使增长预测相差一个百分点单位中的一整倍基数。",
+          "new": "相对一月的百分之二百一十一点一一与增长百分之一百一十一点一一相差一百个百分点；前者包含原基数，后者扣除了原基数。",
+          "basis": "19000/9000 versus(19000−9000)/9000; real percentage-point difference, not convert both to rate levels."
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 19,
+      "full_primary_source_chars": 86277,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          72000
+        ],
+        [
+          72000,
+          86277
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all6sections5notes_summary_glossary_noCFA12MC10review4video_prompts_read": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        592,
+        594,
+        597,
+        601,
+        602,
+        603,
+        608,
+        609,
+        610,
+        611,
+        612
+      ],
+      "independent_calculations_file": "P38-C19-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://storage.fasb.org/ASU%202015-11.pdf",
+          "actual_scope": "Returned0–383 actuallyread inclsummary/scope/measurement/transition andbeginotheramendments; notwhole37pagepublication/currentcompleteASC."
+        },
+        {
+          "url": "https://www.treasurydirect.gov/marketable-securities/treasury-bills/",
+          "actual_scope": "Wholemain33–61 actuallyread currentterm/auction/price/tax table; notlinkedregulations."
+        },
+        {
+          "url": "https://www.trade.gov/letter-credit",
+          "actual_scope": "Wholemain7–35 actuallyread exporter/importerbank roles/fees/compliance; linkedvideo notseen."
+        },
+        {
+          "url": "https://www.trade.gov/common-export-documents",
+          "actual_scope": "Wholemain7–63 actuallyread straight/order bill distinction, documents; linkedlaws/guides notwhole read."
+        }
+      ],
+      "findings": [
+        {
+          "kind": "cash_discount_not_retail_price_fraction",
+          "file": "ch19.md",
+          "old": "二折十天、三十天全额支付表示十天内付可少付百分之二",
+          "new": "付款条件“2/10、n/30”表示十天内付可少付百分之二，否则三十天内付全额",
+          "basis_printed": 576,
+          "basis": "2% discount, not中文二折(which ordinarily meanspay20% oforiginalprice). Existing subsequent math2/98 correct; keepallrates/figures."
+        },
+        {
+          "kind": "cash_discount_not_retail_price_fraction",
+          "file": "ch19.md",
+          "old": "四折十五天、四十五天全额付款，三百六十天简单年化机会成本百分之五十",
+          "new": "付款条件“4/15、n/45”表示十五天内付款可少付百分之四，否则四十五天内付全额；按三百六十天简单年化，机会成本为百分之五十",
+          "basis_printed": 596,
+          "basis": "4% discount not四折; APR.04/.96*360/(45−15)=.50 unchanged."
+        },
+        {
+          "kind": "rounding_not_integer",
+          "file": "ch19.md",
+          "old": "原书把中间周转率先取整",
+          "new": "原书把中间周转率先舍入到两位小数",
+          "basis_pdf": 588,
+          "basis_printed": 573,
+          "basis": "10.71/7.27/9.09 have two decimals, notinteger rounding."
+        }
+      ],
+      "original_every_glyph_reproofread": false
+    },
+    {
+      "chapter": 20,
+      "full_primary_source_chars": 70949,
+      "full_source_ranges_actually_read": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          36000
+        ],
+        [
+          36000,
+          54000
+        ],
+        [
+          54000,
+          70949
+        ]
+      ],
+      "whole_chinese_dossier_compared": true,
+      "whole_source_issues_and_arithmetic_JSON_read": true,
+      "all4sections9notes_CFA13MC6review3problems4video_prompts_read": true,
+      "own_original_wholepage_spotchecks_actually_seen": [
+        617,
+        619,
+        620,
+        621,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        635,
+        636
+      ],
+      "independent_calculations_file": "P38-C20-independent-arithmetic.json",
+      "official_external_verification": [
+        {
+          "url": "https://www.cmegroup.com/solutions/risk-management/financial-safeguards.html",
+          "actual_scope": "Wholemain26–109 actualread; no linked rulebooks/brochure."
+        },
+        {
+          "url": "https://www.fca.org.uk/news/press-releases/end-libor",
+          "actual_scope": "Wholemain258–299 actualread; no linked fullLIBORbooks."
+        },
+        {
+          "url": "https://www.newyorkfed.org/markets/reference-rates/sofr",
+          "actual_scope": "Main188–207 actuallyread: overnightTreasurycollateral,volumeweightedmedian,DVP andpublication; notlinkedmethodology/terms/API."
+        },
+        {
+          "url": "https://data.ecb.europa.eu/data/concepts/south-korean-won",
+          "actual_scope": "Officialsearchcached dimension KRW actualread; directpageerror; no current spotrateverified."
+        }
+      ],
+      "findings": [],
+      "original_every_glyph_reproofread": false
+    }
+  ],
+  "complete_full_source_read_chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "complete_dossier_comparison_chapter_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "all_precise_source_fragments_full_semantic_review_done": true,
+  "all_original_glyphs_reproofread": false,
+  "goal_tools_called": false,
+  "source_edition_boundary": "Obtained2022 completeOpenStax CC BY4.0PDF644wrapperpages/629bookpages; latest webversion notsilentlysubstituted",
+  "front_matter_full_text_ranges_actually_read": [
+    [
+      0,
+      15000
+    ],
+    [
+      15000,
+      30882
+    ]
+  ],
+  "front_matter_text_semantic_read_complete": true,
+  "updated_utc": "2026-10-13T13:28:03.788432+00:00",
+  "front_original_visual_spotchecks": [
+    {
+      "file": "P38-QA-images/pdf5.png",
+      "pdf_page": 5,
+      "scope": "Complete copyright2022/CC BY4.0 attribution and trademark reservation/digitalISBN page actuallyread"
+    },
+    {
+      "file": "P38-QA-images/pdf16.png",
+      "pdf_page": 16,
+      "printed_page": 1,
+      "scope": "Whole prefacepage includingremix/attribution/errata/version andart attribution actuallyread"
+    }
+  ],
+  "current_chapter": null,
+  "current_source_ranges_actually_read": [],
+  "current_full_source_semantic_read_complete": true,
+  "all60_rules_full_semantic_review_done": true,
+  "all60_rules_reviewed": true,
+  "rules_and_complete_associated_pages_actually_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+  ],
+  "index_full_text_actual_read_chars": 16980,
+  "synthesis_and_reader_expert_explanation_whole_read": true,
+  "rule_page_evidence_candidates_pending": {
+    "R04": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "R05": [
+      51,
+      52
+    ],
+    "R07": [
+      83,
+      84,
+      85,
+      87,
+      88
+    ],
+    "R08": [
+      90,
+      91
+    ],
+    "R09": [
+      77,
+      87
+    ],
+    "R10": [
+      105
+    ],
+    "R12": [
+      112,
+      113,
+      114
+    ],
+    "R16": [
+      183
+    ],
+    "R18": [
+      570,
+      571
+    ],
+    "R19": [
+      194
+    ],
+    "R23": [
+      241,
+      242,
+      243
+    ],
+    "R29": [
+      285
+    ]
+  },
+  "reader_explanation_han_count_stale": 75029,
+  "additional_precise_full_evidence_pages_reread_printed": [
+    41,
+    42,
+    43,
+    44,
+    51,
+    52,
+    77,
+    83,
+    84,
+    87,
+    88,
+    90,
+    105,
+    112,
+    113,
+    114,
+    183,
+    194,
+    241,
+    242,
+    285,
+    301,
+    362,
+    371,
+    385,
+    386,
+    387,
+    453,
+    466,
+    491,
+    492,
+    489,
+    536,
+    571,
+    581,
+    588,
+    608,
+    610,
+    613
+  ],
+  "index_original_visual_spotchecks_actually_seen": [
+    638,
+    639,
+    640,
+    641,
+    642,
+    643,
+    644
+  ]
+}

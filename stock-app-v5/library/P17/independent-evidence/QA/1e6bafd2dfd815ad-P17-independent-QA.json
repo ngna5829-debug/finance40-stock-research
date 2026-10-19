@@ -1,0 +1,724 @@
+{
+  "schema_version": "5.0",
+  "book_id": "P17",
+  "title": "Bankers and Credit",
+  "author": "Hartley Withers",
+  "edition_read": 1924,
+  "reviewer": "practical_team independent of value_team author",
+  "status": "pass_with_source_limits",
+  "review_finished_utc": "2026-10-12T15:00:39.490819+00:00",
+  "review_method": "Each of nine complete source chapters and Chinese dossiers actually read sequentially and compared; no sampled chapter substitute. Supporting synthesis/explanation and all37 rule definitions individually read. Mechanical counts/hash checks supplement semantic reading, not replace it.",
+  "coverage": {
+    "all9_source_and_dossier_full_semantic_comparisons": true,
+    "frontmatter_full_transcription_read": true,
+    "footnotes_in_chapters_read": true,
+    "all37_expert_rules_semantically_checked": true,
+    "supporting_synthesis_and_explanation_read": true,
+    "all_304_transcribed_pages_coverage_verified": true,
+    "whole316_scan_every_glyph_visually_read": false,
+    "selected_scan_pages_independently_viewed": [
+      36,
+      42,
+      43,
+      81,
+      84,
+      109,
+      134,
+      179,
+      181,
+      188,
+      235,
+      251,
+      315
+    ],
+    "all12_outside_transclusion_pages_contact_classified": true,
+    "no_hidden_author_financial_content_in_outside_pages_found": true,
+    "other_cited_works_read_complete": false,
+    "current_market_or_prediction_review_performed": false
+  },
+  "chapter_counts_han": [
+    3900,
+    3728,
+    3704,
+    3527,
+    3540,
+    3895,
+    3447,
+    3452,
+    3134
+  ],
+  "chapter_total_han": 32327,
+  "minimum_chapter_han": 3134,
+  "han_method": "Only text inside 正文 markers; U+3400–4DBF/U+4E00–9FFF; headers, page metadata, synthesis and JSON not counted.",
+  "chapter_reviews": [
+    {
+      "chapter": 1,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          22000
+        ],
+        [
+          22000,
+          44740
+        ]
+      ],
+      "source_sha256": "028ebb3a74e8a555086077de973a903999556b842d28ce1d15e15a9651a3ac07",
+      "dossier_sha256": "2f433b793a602193a88e5d5acd080d40e7d22b46a492bb723323a892b3f00a36",
+      "finding": "语义通过：黄金兑现限制与银行中心余额弹性并存；不把信用创造当真实商品或直接股票资金。混合报表限制、用途和英美现行制度边界均正确。原网络paidup64,348,650与扫描4,348,650区分，三表原图独立复核。",
+      "scan_images_independently_viewed": [
+        36,
+        42,
+        43
+      ],
+      "numbers": {
+        "corrected_paidup_capital": 4348650,
+        "bank_balance_total": 110429199,
+        "issue_total": 56908235,
+        "banking_total": 73817813
+      }
+    },
+    {
+      "chapter": 2,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          38000
+        ],
+        [
+          38000,
+          54389
+        ]
+      ],
+      "source_sha256": "f3c09079dce12314f70e964867381d955a8c19b8da50db7e983b88af3ac21faa",
+      "dossier_sha256": "1086f7890289492159ad87b3b41804de5fce2f60dfff9e260001957ac00e7546",
+      "finding": "语义通过：五种融资按真实支出减少/新增信用区别；税收理想与反事实限制、债权债务分配、来源比例无法猜、20%临时银行借券非总发行上限、纸面兑金与实际障碍、信用与票据相互作用都完整保留。五脚注已读，无引书全读虚报。",
+      "scan_images_independently_viewed": [
+        81,
+        84
+      ],
+      "numbers": {
+        "war_total_expenditure_GBP": 8656000000,
+        "war_total_revenue_GBP": 2220000000,
+        "assumed_peace_baseline_GBP": 850000000,
+        "net_war_ratio": 0.1755060210094799,
+        "currency_totals_million_GBP": [
+          168.3,
+          489.2,
+          320.9
+        ],
+        "tables_all_changes_match": true
+      }
+    },
+    {
+      "chapter": 3,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          17000
+        ],
+        [
+          17000,
+          34000
+        ],
+        [
+          34000,
+          47570
+        ]
+      ],
+      "source_sha256": "56ba1828c811552dff3309b9d0a200bdeb48e46fadcc8219cd1b9cc53364682a",
+      "dossier_sha256": "8a87aec1f8c265e0613455567da333c683b4c126e5f2feb389642f629b3662c2",
+      "finding": "语义通过：Holden/委员会/Withers分主体，票据无货和重复支持反例；binding三比一不是所有存款冲击；黄金出口自由预设被1919许可剥离，非报告等于实际；缓步减发/3%建议被怀疑，增资/长期锁定存款与日常信用区别都保持。",
+      "scan_images_independently_viewed": [
+        109,
+        134
+      ],
+      "unresolved_original_dates": {
+        "signed": "August18,1918 paper93",
+        "dated": "August15 paper118",
+        "not_silently_unified": true,
+        "original_report_not_independently_acquired": true
+      }
+    },
+    {
+      "chapter": 4,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          18000
+        ],
+        [
+          18000,
+          35563
+        ]
+      ],
+      "source_sha256": "b4b5f85bb10044153be30a7f51a806ce348ea5dc4733814642c72e62f3a94297",
+      "dossier_sha256": "e36e9e7ce71e9b4346f2ee7e50efa54566b6c7cb0c8e67f69a5b37702e5553a8",
+      "finding": "语义通过：重建实际费用与狂热分别，Gold外运运输保险约束和英美协议为反事实可能不实测，短票到期诱发WaysMeans准备、Funding贷自身银行期结构但不解真实回款；473m巧合不因果证明，5→6%与心理武器/后续信用滞后区别保持。",
+      "numbers": {
+        "funding_cash_GBP": 473000000,
+        "banks_subscription_GBP": 92000000,
+        "Treasury_currency_fiduciary_limit_GBP": 320000000
+      },
+      "all_original_scan_glyphs_read": false
+    },
+    {
+      "chapter": 5,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          19000
+        ],
+        [
+          19000,
+          37014
+        ]
+      ],
+      "source_sha256": "8b934b98f25cf0be53f646ab02bf722a389807836d54e812b3824b87df16d3fb",
+      "dossier_sha256": "c16ef14d2742c309c5e8ef00a50cb58b9a4ef13e99abf34ca6e846552f84fe9b",
+      "finding": "语义通过：资本出售非永久税收、财政暂借还收、作者稳定信用并靠增商品缓降价反对猛缩；Cannan/Pigou/Strong/Strauss/Hawtrey分主体。价格先跌但总贷升不排细分或反事实利率效应，作者心理例外与现代独立反证明确；消费罢买与中日抵制多因未伪唯一。",
+      "scan_images_independently_viewed": [
+        179,
+        181,
+        188
+      ],
+      "original_source_discrepancies_preserved": [
+        "Bank Board vs Bank of NewYork originalmisdescription",
+        "SeventySeventh original vs officialSixtySeventh",
+        "1913deposits1032million paper172 vs1033million paper65"
+      ],
+      "external_official_checks": [
+        {
+          "url": "https://www.newyorkfed.org/aboutthefed/BStrongbio.html",
+          "scope": "biography title/governor role only"
+        },
+        {
+          "url": "https://fraser.stlouisfed.org/title/agricultural-inquiry-959/volume-1-37516",
+          "scope": "official catalogue Congress identity only; full hearing notread"
+        }
+      ],
+      "external_checks_date": "2026-10-12"
+    },
+    {
+      "chapter": 6,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          17500
+        ],
+        [
+          17500,
+          35116
+        ]
+      ],
+      "source_sha256": "30c2218c60d40936c64571ccc9d3e0b779eb5486c76bd4ff2ee788280dba1f8a",
+      "dossier_sha256": "e024d750bb0d5a95a50c6f90f5b93cf54d8e93d15f2f7b51cf3bd82bfdb6a13a",
+      "finding": "语义通过：Kitson立场版本变化，Douglas经Kitson二手转述和Labour批评不冒全原方案；纸190–191无限发钞与10%股息是Withers讽刺推演非Douglas明文。煤必要vs充分、交换实物/福利、Soddy部分赞同/指数操作质疑、11000000故事缺来源、Isaac先后不因果边界保持。",
+      "independent_extra_works_claimed_read": false
+    },
+    {
+      "chapter": 7,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          23000
+        ],
+        [
+          23000,
+          46639
+        ]
+      ],
+      "source_sha256": "bb436a96a50b2c2d6735614d3cbe4ab7939e804995eb50b3be8a747a7dc90b89",
+      "dossier_sha256": "c76de306e067b328216d4db60d89513db87a35b368a737b0d3e19314cb20e56d",
+      "finding": "语义通过：1921Kitson早期表面利益不被1923后见强覆盖；汇率先工资/成本慢造成短优势，通胀停止条件、Dutch强币/船修及US锯反例保持。赔款A/B25亿C41亿与触发范围、26%出口估计和5%+1%原图一致。Dane隐性就业400万49%为引估非实测，第三国清算与政治/资源条件不冒保证。",
+      "scan_images_independently_viewed": [
+        235,
+        251
+      ],
+      "numbers": {
+        "A_B_GBP": 2500000000,
+        "C_GBP": 4100000000,
+        "nominal_GBP": 6600000000,
+        "annual_fixed_GBP": 100000000,
+        "export_share": 0.26,
+        "annual_estimated_extra_GBP": 50000000,
+        "invisible_unemployment_quoted": 4000000,
+        "officialdom_quoted_increase": 0.49
+      }
+    },
+    {
+      "chapter": 8,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          23000
+        ],
+        [
+          23000,
+          46359
+        ]
+      ],
+      "source_sha256": "5dd7becb2976d7bdb8411b53e6c99eaa513dc40b45b33eb5c2af78abf43466aa",
+      "dossier_sha256": "87fb696af8b8ba6938a7c6e9497fe66e1ee27b5b88b6dc6cf200dbf7b0a9d7a0",
+      "finding": "语义通过：数量与周转补条件，Soddy收钱销毁非再预算花、Fisher变金重两月1%为引用非实办且精确逆数另限，Hawtrey流量反方及Keynes长远较谨慎保留。平均稳不消个别兽皮羊毛风险，Lloyd新用途需变相对价；Addis原平价信誉vs生产过渡成本，作者缓增商品非猛砍币均保持。",
+      "independent_modern_thresholds_invented": false,
+      "no_current_stock_signal": true
+    },
+    {
+      "chapter": 9,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_ranges_chars": [
+        [
+          0,
+          22815
+        ]
+      ],
+      "source_sha256": "ddea50530b82377a2a6851d0db52ff8e861f7d7977a10053b320c3d252ba1cc3",
+      "dossier_sha256": "ab1a28e506971948af3286be3769eaceab7b89415546ae83a714bb1437defd1a",
+      "finding": "语义通过：八月前八章与延迟四月后补记信息集明确，Keynes新书inadequate研究不算完整另书；Barlow/Goodenough误传澄清不假100m政策执行；McKenna差场合观点、10%存款总量限、财政长债还短票可私人替换条件、Federation目标水平、Keynes审慎多指标与治理反方都忠实。",
+      "all_source_read_but_not_every_scan_glyph": true
+    }
+  ],
+  "rule_reviews": [
+    {
+      "rule_id": "P17-R01",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R02",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R03",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R04",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R05",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R06",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R07",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R08",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R09",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R10",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R11",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R12",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R13",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R14",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R15",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R16",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R17",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R18",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R19",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R20",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R21",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R22",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R23",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R24",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R25",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R26",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R27",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R28",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R29",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R30",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R31",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R32",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R33",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R34",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R35",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R36",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    },
+    {
+      "rule_id": "P17-R37",
+      "complete_semantic_rule_review": true,
+      "source_alignment": true,
+      "status": "pass",
+      "scope": "checked against all source chapters already read; native horizon, inputs, missing-data abstention and independent modern boundary preserved"
+    }
+  ],
+  "substantive_findings": {
+    "new_corrections_required": [],
+    "author_view_and_independent_analysis_separation": "passed; gold-standard advocacy, historical governing law, gradual-vs-drastic deflation, rates debate, satire and proposed mechanisms kept conditional and distinct",
+    "internal_tensions_preserved": [
+      "Gold backing and elastic central credit coexist; legal redeemability is not actual shipment.",
+      "Author criticizes inflation but recognizes transition/employment benefit and avoids violent opposite contraction.",
+      "Credit stock can grow while prices fall; Withers, Strong and Hawtrey causal explanations not flattened.",
+      "Stable average prices do not eliminate firm relative-price losses.",
+      "Old parity credibility conflicts with social transition cost; authors preference is not a calibrated optimum.",
+      "Front eight chapters August1923 information set and late postscript Keynes references remain distinct."
+    ],
+    "numeric_checks": "Original bank-account3tables, war finance ratio, wartime currency totals and reparations A/B/C arithmetic independently rechecked; cross-page 1032/1033m difference and date roles retained; no invented probability from cases.",
+    "five_round_challenge_definition": "A future knowledge-role procedure, not a claim of actual independent model execution."
+  },
+  "source_limits_retained": [
+    {
+      "topic": "Wikisource paper20 paid-up capital",
+      "raw": 64348650,
+      "scan_verified": 4348650,
+      "status": "existing correction independently verified; raw source retained"
+    },
+    {
+      "topic": "1913 deposits",
+      "original_two_values_million_GBP": [
+        1033,
+        1032
+      ],
+      "pages": [
+        65,
+        172
+      ],
+      "status": "both independently viewed; underlying statistical scope not resolved"
+    },
+    {
+      "topic": "Cunliffe date",
+      "signed_paper93": "August18,1918",
+      "dated_paper118": "August15,1918",
+      "status": "both scan observations retained; original committee report not independently obtained"
+    },
+    {
+      "topic": "Strong institution / Congressional numbering",
+      "original_description": "Board of NewYork / SeventySeventh",
+      "official_role_or_catalogue": "NewYorkFed governor / SixtySeventh",
+      "official_urls": [
+        "https://www.newyorkfed.org/aboutthefed/BStrongbio.html",
+        "https://fraser.stlouisfed.org/title/agricultural-inquiry-959/volume-1-37516"
+      ],
+      "check_date": "2026-10-12",
+      "scope": "only biography institution-role and official catalogue identity; not full hearing or all quantitative testimony"
+    },
+    {
+      "topic": "Other quoted books/claims",
+      "status": "not independently read as separate books; foreign competition anecdotes, hidden unemployment estimates and exact causal counterfactuals not externally verified"
+    },
+    {
+      "topic": "Transcription completeness",
+      "status": "304-page complete transcription read with selected original images; remaining scan glyphs not universal visual proofread"
+    }
+  ],
+  "mechanical_checks": {
+    "ch01_source_hash_matches_actual_read_checkpoint": true,
+    "ch01_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch01_han_matches_author_audit": true,
+    "ch02_source_hash_matches_actual_read_checkpoint": true,
+    "ch02_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch02_han_matches_author_audit": true,
+    "ch03_source_hash_matches_actual_read_checkpoint": true,
+    "ch03_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch03_han_matches_author_audit": true,
+    "ch04_source_hash_matches_actual_read_checkpoint": true,
+    "ch04_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch04_han_matches_author_audit": true,
+    "ch05_source_hash_matches_actual_read_checkpoint": true,
+    "ch05_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch05_han_matches_author_audit": true,
+    "ch06_source_hash_matches_actual_read_checkpoint": true,
+    "ch06_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch06_han_matches_author_audit": true,
+    "ch07_source_hash_matches_actual_read_checkpoint": true,
+    "ch07_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch07_han_matches_author_audit": true,
+    "ch08_source_hash_matches_actual_read_checkpoint": true,
+    "ch08_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch08_han_matches_author_audit": true,
+    "ch09_source_hash_matches_actual_read_checkpoint": true,
+    "ch09_dossier_hash_matches_actual_read_checkpoint": true,
+    "ch09_han_matches_author_audit": true,
+    "all_rule_page_id_url_print_pdf_mappings": true,
+    "all_original_294_numbered_pages_contiguous": true,
+    "all_304_front_and_body_pages_pdf7_310": true,
+    "all_page_text_hashes_match": true,
+    "all_original_chapters_at_least_2000_han": true,
+    "whole_original_chapter_sum_at_least_20000_han": true,
+    "all37_rule_ids_unique": true,
+    "one_book_one_expert": true,
+    "same_author_P16_explicitly_correlated": true,
+    "no_modern_live_prediction_execution_probability_claims": true
+  },
+  "mechanical_passed": 37,
+  "mechanical_failed": 0,
+  "artifact_hashes_at_review": {
+    "source/full-source.txt": "ace79569ceb8bfead4a0622cdbf797a3260ebd6c6637ff38e5e3d9ee349b5d05",
+    "source/pages.json": "ba95c2e3042eb11d7e267a88609abd191c901b0c07e8040f146fccf90d0ddcea",
+    "source/Bankers_and_Credit_1924.pdf": "2f33d3b64ef1f158eb6230255bdd1abb65517486cef92431c1db3f71a367ab35",
+    "专家定义.json": "95e3b83c2da1310bd4ea0ce1d4a5f2f8d9295dd7603f37037865362f9678f4c8",
+    "专家说明.md": "a9f46265c502957048245e2d9e16bde3cc148c4f0695752be554b575156dbd91",
+    "全书综合与附录.md": "e0bd09e1596fdf9e94daf6a9c8044e3011b6e98fde814c52b1e049edf649a88d",
+    "章节深读.md": "22b5c13b97e120365ae11f38e0f44dd32557273b260156d0038a02156c928ae3",
+    "章节与阅读审计.json": "16d9e87a626eca3c1ca466adaed46040565e2795a701c88baf94531014a59b68",
+    "validation.json": "1eef75a41a1bcb38cd0dcc9c7f3eafc1d5f893be5d851d237fad600a40bbcedc"
+  },
+  "chapter_hashes_at_review": [
+    {
+      "chapter": 1,
+      "source_sha256": "028ebb3a74e8a555086077de973a903999556b842d28ce1d15e15a9651a3ac07",
+      "dossier_sha256": "2f433b793a602193a88e5d5acd080d40e7d22b46a492bb723323a892b3f00a36",
+      "body_han": 3900
+    },
+    {
+      "chapter": 2,
+      "source_sha256": "f3c09079dce12314f70e964867381d955a8c19b8da50db7e983b88af3ac21faa",
+      "dossier_sha256": "1086f7890289492159ad87b3b41804de5fce2f60dfff9e260001957ac00e7546",
+      "body_han": 3728
+    },
+    {
+      "chapter": 3,
+      "source_sha256": "56ba1828c811552dff3309b9d0a200bdeb48e46fadcc8219cd1b9cc53364682a",
+      "dossier_sha256": "8a87aec1f8c265e0613455567da333c683b4c126e5f2feb389642f629b3662c2",
+      "body_han": 3704
+    },
+    {
+      "chapter": 4,
+      "source_sha256": "b4b5f85bb10044153be30a7f51a806ce348ea5dc4733814642c72e62f3a94297",
+      "dossier_sha256": "e36e9e7ce71e9b4346f2ee7e50efa54566b6c7cb0c8e67f69a5b37702e5553a8",
+      "body_han": 3527
+    },
+    {
+      "chapter": 5,
+      "source_sha256": "8b934b98f25cf0be53f646ab02bf722a389807836d54e812b3824b87df16d3fb",
+      "dossier_sha256": "c16ef14d2742c309c5e8ef00a50cb58b9a4ef13e99abf34ca6e846552f84fe9b",
+      "body_han": 3540
+    },
+    {
+      "chapter": 6,
+      "source_sha256": "30c2218c60d40936c64571ccc9d3e0b779eb5486c76bd4ff2ee788280dba1f8a",
+      "dossier_sha256": "e024d750bb0d5a95a50c6f90f5b93cf54d8e93d15f2f7b51cf3bd82bfdb6a13a",
+      "body_han": 3895
+    },
+    {
+      "chapter": 7,
+      "source_sha256": "bb436a96a50b2c2d6735614d3cbe4ab7939e804995eb50b3be8a747a7dc90b89",
+      "dossier_sha256": "c76de306e067b328216d4db60d89513db87a35b368a737b0d3e19314cb20e56d",
+      "body_han": 3447
+    },
+    {
+      "chapter": 8,
+      "source_sha256": "5dd7becb2976d7bdb8411b53e6c99eaa513dc40b45b33eb5c2af78abf43466aa",
+      "dossier_sha256": "87fb696af8b8ba6938a7c6e9497fe66e1ee27b5b88b6dc6cf200dbf7b0a9d7a0",
+      "body_han": 3452
+    },
+    {
+      "chapter": 9,
+      "source_sha256": "ddea50530b82377a2a6851d0db52ff8e861f7d7977a10053b320c3d252ba1cc3",
+      "dossier_sha256": "ab1a28e506971948af3286be3769eaceab7b89415546ae83a714bb1437defd1a",
+      "body_han": 3134
+    }
+  ],
+  "metadata_only_future_update_policy": "Hashes are this immutable review-time snapshot. Author may add this QA reference/status to expert/audit/validation; if original chapters or rule meanings change, new semantic check is required. Do not create reciprocal QA/audit hash cycles.",
+  "scope_conclusion": "Full source-transcription/dossier semantic QA passed with stated source limits; does not certify every scan glyph, author personality, current-market invocation, calibrated probabilities, or all40 books."
+}

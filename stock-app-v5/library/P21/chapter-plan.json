@@ -1,0 +1,835 @@
+{
+  "book_id": "P21",
+  "original_chapter_count": 26,
+  "edition": "Macmillan1908reprint, copyright1899; printerstatesMay1900/Aug1902/Sept1908",
+  "locator_basis": "PDF page = printed Arabic page +29 (printed1=PDF30), original Romanpreface/TOC separately",
+  "original_preface_pages_pdf": [
+    4,
+    11
+  ],
+  "original_analytical_contents_pages_pdf": [
+    12,
+    27
+  ],
+  "index_pages_pdf": [
+    472,
+    474
+  ],
+  "publisher_advertisement_pages_pdf": [
+    476,
+    477
+  ],
+  "original_TOC_all_text_read": true,
+  "boundaries_from_original_chapter_headers_and_TOC": true,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Issues That Depend on Distribution",
+      "pdf_start": 30,
+      "pdf_end": 38,
+      "printed_start": 1,
+      "printed_end": 9,
+      "source_file": "source/ch01.txt",
+      "source_sha256": "0693958171e73d44e7e91b2f1d0ef9976f618053704954d035ed8dc5f0d64b69",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "body_han": 2744,
+      "dossier_sha256": "7ff201e0819ee7d71466ae721fcc0fe311772c5771755b29748fd659079cf6b4",
+      "actual_full_source_read_batches_pdf": [
+        [
+          30,
+          38
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:48:47.160939+00:00",
+      "main_and_inline_footnotes_read": true,
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 2,
+      "title": "The Place of Distribution Within the Traditional Divisions of Economics",
+      "pdf_start": 39,
+      "pdf_end": 53,
+      "printed_start": 10,
+      "printed_end": 24,
+      "source_file": "source/ch02.txt",
+      "source_sha256": "5f97d378ab5180ec53448a97887461d9d7b24a4c08da9ecbca440d240586d99b",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2924,
+      "dossier_sha256": "b7aef08cd932ce8e3b6308e0234417257b96fa5d307c8fc25883023bc63e93c9",
+      "actual_full_source_read_batches_pdf": [
+        [
+          39,
+          46
+        ],
+        [
+          47,
+          53
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:48:47.169283+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 3,
+      "title": "The Place of Distribution Within the Natural Divisions of Economics",
+      "pdf_start": 54,
+      "pdf_end": 64,
+      "printed_start": 25,
+      "printed_end": 35,
+      "source_file": "source/ch03.txt",
+      "source_sha256": "c298cb593f80eb0607870cbeb8205e21a853d4f91729378577bb0c6d57f9beeb",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2530,
+      "dossier_sha256": "63a83333d56d2325c5bc23339a62a1d6232fe10224d2cc00dd94513689f06a72",
+      "actual_full_source_read_batches_pdf": [
+        [
+          54,
+          64
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:51:25.553288+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 4,
+      "title": "The Basis of Distribution in Universal Economic Laws",
+      "pdf_start": 65,
+      "pdf_end": 80,
+      "printed_start": 36,
+      "printed_end": 51,
+      "source_file": "source/ch04.txt",
+      "source_sha256": "38d481f2d6aed0a023bc026aa9dd3dac4c9d859957e207f9ddb5fdad4cc00e26",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3276,
+      "dossier_sha256": "42dba2fc2f5cb3251bfeb82f246b5209dccec4c1450d9310466748d96499adea",
+      "actual_full_source_read_batches_pdf": [
+        [
+          65,
+          72
+        ],
+        [
+          73,
+          76
+        ],
+        [
+          77,
+          80
+        ]
+      ],
+      "completed_utc": "2026-10-12T19:58:31.160666+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 5,
+      "title": "Actual Distribution the Result of Social Organization",
+      "pdf_start": 81,
+      "pdf_end": 90,
+      "printed_start": 52,
+      "printed_end": 61,
+      "source_file": "source/ch05.txt",
+      "source_sha256": "6c6ba2e517e5897a857811dda1553e3ac6465b41572f90a7cd64121167dbb125",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2847,
+      "dossier_sha256": "a2dea45b6bcf06edcc866c96f0cbd28faf67c036127b73f6fde12aee03b0eb2b",
+      "actual_full_source_read_batches_pdf": [
+        [
+          81,
+          85
+        ],
+        [
+          86,
+          90
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:00:30.456089+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 6,
+      "title": "Effects of Social Progress",
+      "pdf_start": 91,
+      "pdf_end": 105,
+      "printed_start": 62,
+      "printed_end": 76,
+      "source_file": "source/ch06.txt",
+      "source_sha256": "65756c1fa37b263696baeaf71b3014e7267ded738aad6bbc4a1786c0a1103c6a",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2938,
+      "dossier_sha256": "1ff94a1a76877f7dceb581b2465a377be8dd6c3e61e3bcfa1c8e62e85effa7b6",
+      "actual_full_source_read_batches_pdf": [
+        [
+          91,
+          98
+        ],
+        [
+          99,
+          105
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:02:15.242755+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 7,
+      "title": "Wages in a Static Social State the Specific Product of Labor",
+      "pdf_start": 106,
+      "pdf_end": 123,
+      "printed_start": 77,
+      "printed_end": 94,
+      "source_file": "source/ch07.txt",
+      "source_sha256": "8a31c459b7b0d0f394b33547ddb84bd8b77df5b50c1140d5e95bea086278b020",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2907,
+      "dossier_sha256": "0f92aa600012dcc46fd1e0a041a31ce9bd8ac5fb3c30b0812974cd57d1fcb25f",
+      "actual_full_source_read_batches_pdf": [
+        [
+          106,
+          111
+        ],
+        [
+          112,
+          117
+        ],
+        [
+          118,
+          123
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:04:47.579156+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 8,
+      "title": "How the Specific Product of Labor May Be Distinguished",
+      "pdf_start": 124,
+      "pdf_end": 144,
+      "printed_start": 95,
+      "printed_end": 115,
+      "source_file": "source/ch08.txt",
+      "source_sha256": "8acc03e87f525b26c03aca07377a69a66de6b27ed1e6d473a92992f1e6c8194b",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3180,
+      "dossier_sha256": "8c7a3be1b97ce1f93b3dc1d9003cfdf4cfebdd3b037f3997f2b0d9017540f49e",
+      "actual_full_source_read_batches_pdf": [
+        [
+          124,
+          130
+        ],
+        [
+          131,
+          137
+        ],
+        [
+          138,
+          144
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:07:05.145194+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 9,
+      "title": "Capital and Capital-Goods Contrasted",
+      "pdf_start": 145,
+      "pdf_end": 169,
+      "printed_start": 116,
+      "printed_end": 140,
+      "source_file": "source/ch09.txt",
+      "source_sha256": "1619339fb319923667002a65eb016e47fed08dcfca32a2415f0d63aacf69c033",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3340,
+      "dossier_sha256": "6c90746bfc2fe84012a3efa04ac3f2c2ce4f59907616480b504795af0e4e0194",
+      "actual_full_source_read_batches_pdf": [
+        [
+          145,
+          150
+        ],
+        [
+          151,
+          157
+        ],
+        [
+          158,
+          163
+        ],
+        [
+          164,
+          169
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:09:43.223969+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 10,
+      "title": "Kinds of Capital and of Capital-Goods",
+      "pdf_start": 170,
+      "pdf_end": 185,
+      "printed_start": 141,
+      "printed_end": 156,
+      "source_file": "source/ch10.txt",
+      "source_sha256": "67634fdcbb126c9212b0414952127da3bf0764be74806491b7872c4d2839d9f9",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2975,
+      "dossier_sha256": "1bfb5de12dfcb0000475f7d5e95161e8b9c376cbf20590b6119111d38bd8309c",
+      "actual_full_source_read_batches_pdf": [
+        [
+          170,
+          175
+        ],
+        [
+          176,
+          180
+        ],
+        [
+          181,
+          185
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:11:45.907713+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 11,
+      "title": "The Productivity of Social Labor Dependent on Its Quantitative Relation to Capital",
+      "pdf_start": 186,
+      "pdf_end": 201,
+      "printed_start": 157,
+      "printed_end": 172,
+      "source_file": "source/ch11.txt",
+      "source_sha256": "4010f30aace1de9631bb371b0c3a3477d300ad5493e7364749f67cfadaf1631f",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2796,
+      "dossier_sha256": "247e9151e04b1d9736af26c4a148999647f59510eb6911b4bee177b2c810daa3",
+      "actual_full_source_read_batches_pdf": [
+        [
+          186,
+          191
+        ],
+        [
+          192,
+          197
+        ],
+        [
+          198,
+          201
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:13:59.628939+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 12,
+      "title": "Final Productivity the Regulator of Both Wages and Interest",
+      "pdf_start": 202,
+      "pdf_end": 216,
+      "printed_start": 173,
+      "printed_end": 187,
+      "source_file": "source/ch12.txt",
+      "source_sha256": "1c139d5de276b484a8be2c9ccdfce88f718154e00617aa5eca25ba055aba3bc0",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2807,
+      "dossier_sha256": "e7a6c584357515a7e26d824b24b8be04035f81551f155fde483ce26880c8bfdb",
+      "actual_full_source_read_batches_pdf": [
+        [
+          202,
+          207
+        ],
+        [
+          208,
+          212
+        ],
+        [
+          213,
+          216
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:16:24.519931+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 13,
+      "title": "The Products of Labor and Capital, as Measured by the Formula for Rent",
+      "pdf_start": 217,
+      "pdf_end": 234,
+      "printed_start": 188,
+      "printed_end": 205,
+      "source_file": "source/ch13.txt",
+      "source_sha256": "0fc42cddf3f1d1cf722b293b448199639664c987fb05e401543dd8c9cb507ca4",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2899,
+      "dossier_sha256": "cf5d170bebaf9d4fb272a07895627045d76b87ff9ba7fbc32935b6607421886c",
+      "actual_full_source_read_batches_pdf": [
+        [
+          217,
+          222
+        ],
+        [
+          223,
+          228
+        ],
+        [
+          229,
+          234
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:19:16.331682+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 14,
+      "title": "The Earnings of Industrial Groups",
+      "pdf_start": 235,
+      "pdf_end": 247,
+      "printed_start": 206,
+      "printed_end": 218,
+      "source_file": "source/ch14.txt",
+      "source_sha256": "d4471a8bf3f545ebd9a4803be39d28935a59e9f4640da7a1bf384d5f07a2bf95",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2807,
+      "dossier_sha256": "b3fb86a3793dda419647d654bd482009feb10723c228e816bcf4edccd52fe124",
+      "actual_full_source_read_batches_pdf": [
+        [
+          235,
+          241
+        ],
+        [
+          242,
+          247
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:21:13.179057+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 15,
+      "title": "The Marginal Efficiency of Consumers’ Wealth the Basis of Group Distribution",
+      "pdf_start": 248,
+      "pdf_end": 259,
+      "printed_start": 219,
+      "printed_end": 230,
+      "source_file": "source/ch15.txt",
+      "source_sha256": "e109314b6af240fa321038a5b82b54ea4db1eba1b6f125a9daea027669b70c7a",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2763,
+      "dossier_sha256": "1722c1608cc2e0cbba3170274b100c132db2cadc9b9a559b14d60ed476511dda",
+      "actual_full_source_read_batches_pdf": [
+        [
+          248,
+          253
+        ],
+        [
+          254,
+          259
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:26:51.428345+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 16,
+      "title": "How the Marginal Efficiency of Consumers’ Wealth Is Measured",
+      "pdf_start": 260,
+      "pdf_end": 274,
+      "printed_start": 231,
+      "printed_end": 245,
+      "source_file": "source/ch16.txt",
+      "source_sha256": "528867697f3ab0737d267f5a53ef881df6bb279ccfceb3ef26db5d417af08b6d",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2832,
+      "dossier_sha256": "04512a6a336e1e5023e887445a72c37a0338db69bcb3bae1dae442faee63d154",
+      "actual_full_source_read_batches_pdf": [
+        [
+          260,
+          266
+        ],
+        [
+          267,
+          274
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:26:51.433408+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 17,
+      "title": "How the Efficiency of Final Increments of Producers’ Wealth Is Tested",
+      "pdf_start": 275,
+      "pdf_end": 293,
+      "printed_start": 246,
+      "printed_end": 264,
+      "source_file": "source/ch17.txt",
+      "source_sha256": "05f60900c2dffb49338aa8942ee3a53a8c7b451146887007bcc5c2b1095bb53b",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3036,
+      "dossier_sha256": "ef9257feadf9f703066518129e5a8c2ca95dd84b6b72e1e0a41f1ed5e54212dc",
+      "actual_full_source_read_batches_pdf": [
+        [
+          275,
+          280
+        ],
+        [
+          281,
+          287
+        ],
+        [
+          288,
+          293
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:29:25.503579+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 18,
+      "title": "The Growth of Capital by Qualitative Increments",
+      "pdf_start": 294,
+      "pdf_end": 304,
+      "printed_start": 265,
+      "printed_end": 275,
+      "source_file": "source/ch18.txt",
+      "source_sha256": "c19c1f99bfe442fcf880784e3ea315ae9d1fb397273cf1a5b30c10b13db407cd",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2808,
+      "dossier_sha256": "4b069314377e5f8eb036773e512284428dd7c3be32539b668c342ae2a45feade",
+      "actual_full_source_read_batches_pdf": [
+        [
+          294,
+          299
+        ],
+        [
+          300,
+          304
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:31:35.717328+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 19,
+      "title": "The Mode of Apportioning Labor and Capital Among the Industrial Groups",
+      "pdf_start": 305,
+      "pdf_end": 331,
+      "printed_start": 276,
+      "printed_end": 302,
+      "source_file": "source/ch19.txt",
+      "source_sha256": "d64d0c642e4bff764fd85ca7badb48d4092d40703d59eae78191b0eb8511ee71",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3194,
+      "dossier_sha256": "c8252538f5184259c0b86bc3d09d5a590c07b56a668442b86fc03007f80cf2ce",
+      "actual_full_source_read_batches_pdf": [
+        [
+          305,
+          311
+        ],
+        [
+          312,
+          318
+        ],
+        [
+          319,
+          325
+        ],
+        [
+          326,
+          331
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:34:35.411301+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 20,
+      "title": "Production and Consumption Synchronized by Rightly Apportioned Capital",
+      "pdf_start": 332,
+      "pdf_end": 347,
+      "printed_start": 303,
+      "printed_end": 318,
+      "source_file": "source/ch20.txt",
+      "source_sha256": "8b894daeb3e2df0aeb492e8e72cf85551c6d458a40561ae9228327d83ae1620d",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2869,
+      "dossier_sha256": "f97dd3907edb2a2120c5182a920a53812f79384895cbe7222ca1bc52bb838729",
+      "actual_full_source_read_batches_pdf": [
+        [
+          332,
+          337
+        ],
+        [
+          338,
+          342
+        ],
+        [
+          343,
+          347
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:37:23.962478+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 21,
+      "title": "The Theory of Economic Causation",
+      "pdf_start": 348,
+      "pdf_end": 362,
+      "printed_start": 319,
+      "printed_end": 333,
+      "source_file": "source/ch21.txt",
+      "source_sha256": "5997047631d0e388a926607ba24d5e4dc5a3df1d6f64351c8667d31ba3fda66f",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2560,
+      "dossier_sha256": "10610367bee7865f1c2a353946d073b858fae76516ead74dfdbaaa4d87b98bca",
+      "actual_full_source_read_batches_pdf": [
+        [
+          348,
+          353
+        ],
+        [
+          354,
+          358
+        ],
+        [
+          359,
+          362
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:40:25.445951+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 22,
+      "title": "The Law of Economic Causation Applied to the Products of Concrete Instruments",
+      "pdf_start": 363,
+      "pdf_end": 382,
+      "printed_start": 334,
+      "printed_end": 353,
+      "source_file": "source/ch22.txt",
+      "source_sha256": "29acd18469fd9a0c70e829f06b0344daa9dd9c867a93c166d182062a00e28997",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2789,
+      "dossier_sha256": "92f8829b8f7bef4c9ea00f49a77e0724c499540a7f16f4309c4dc8d820a579b1",
+      "actual_full_source_read_batches_pdf": [
+        [
+          363,
+          368
+        ],
+        [
+          369,
+          375
+        ],
+        [
+          376,
+          382
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:42:54.750395+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 23,
+      "title": "The Relation of All Rents to Value and Thus to Group Distribution",
+      "pdf_start": 383,
+      "pdf_end": 401,
+      "printed_start": 354,
+      "printed_end": 372,
+      "source_file": "source/ch23.txt",
+      "source_sha256": "80d763c113aefdb45bde8e3346692ca8d0d80aa3d467d6135e64c81fad199be8",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2815,
+      "dossier_sha256": "ca4b6b576c62a35f51dcb5fd444d8686a9787f719e0f1a3fce038285358c8de8",
+      "actual_full_source_read_batches_pdf": [
+        [
+          383,
+          388
+        ],
+        [
+          389,
+          395
+        ],
+        [
+          396,
+          401
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:45:16.705261+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 24,
+      "title": "The Unit for Measuring Industrial Agents and Their Products",
+      "pdf_start": 402,
+      "pdf_end": 427,
+      "printed_start": 373,
+      "printed_end": 398,
+      "source_file": "source/ch24.txt",
+      "source_sha256": "06b536f383cd5156a7ba0a2654f10c9372128be9eb2dc2bac8061dd7111a546d",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3302,
+      "dossier_sha256": "8a90e7bfb6caf0a93d11032a46e56d3ad71c6c3164fd001903b6ab2af1f288d3",
+      "actual_full_source_read_batches_pdf": [
+        [
+          402,
+          407
+        ],
+        [
+          408,
+          414
+        ],
+        [
+          415,
+          421
+        ],
+        [
+          422,
+          427
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:49:10.669361+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 25,
+      "title": "Static Standards in a Dynamic Society",
+      "pdf_start": 428,
+      "pdf_end": 459,
+      "printed_start": 399,
+      "printed_end": 430,
+      "source_file": "source/ch25.txt",
+      "source_sha256": "e64b8a5f408198c7ce9753ef8a1a3d2fd942ed82743b78c9117059cf107a094f",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 3272,
+      "dossier_sha256": "e16ffa50ad17d035152a882ad7980f169210d58fc6aa7c96d5ee1362b350e282",
+      "actual_full_source_read_batches_pdf": [
+        [
+          428,
+          433
+        ],
+        [
+          434,
+          440
+        ],
+        [
+          441,
+          447
+        ],
+        [
+          448,
+          453
+        ],
+        [
+          454,
+          459
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:52:20.023561+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    },
+    {
+      "chapter": 26,
+      "title": "Proximate Static Standards",
+      "pdf_start": 460,
+      "pdf_end": 471,
+      "printed_start": 431,
+      "printed_end": 442,
+      "source_file": "source/ch26.txt",
+      "source_sha256": "4c72e04e8362707f9bc26aa75696efc7cdf5f900823023a3fa5771351d50a704",
+      "main_marginal_analysis_and_inline_notes_read": true,
+      "dossier_complete": true,
+      "main_and_inline_footnotes_read": true,
+      "body_han": 2799,
+      "dossier_sha256": "2401d0bf7b5a54749e56db47f133c75aff4c90567b1f4cb996da4c82cc4c6cac",
+      "actual_full_source_read_batches_pdf": [
+        [
+          460,
+          465
+        ],
+        [
+          466,
+          471
+        ]
+      ],
+      "completed_utc": "2026-10-12T20:54:44.664115+00:00",
+      "read_method": "Alloriginalmain/marginalanalysis/inlinefootnotessemanticallyreadfromfacsimileOCR; selectedimagesonly, moderneditorintroexcluded"
+    }
+  ],
+  "body_han_total": 76009,
+  "min_chapter_body_han": 2530,
+  "chapter_body_han": {
+    "1": 2744,
+    "2": 2924,
+    "3": 2530,
+    "4": 3276,
+    "5": 2847,
+    "6": 2938,
+    "7": 2907,
+    "8": 3180,
+    "9": 3340,
+    "10": 2975,
+    "11": 2796,
+    "12": 2807,
+    "13": 2899,
+    "14": 2807,
+    "15": 2763,
+    "16": 2832,
+    "17": 3036,
+    "18": 2808,
+    "19": 3194,
+    "20": 2869,
+    "21": 2560,
+    "22": 2789,
+    "23": 2815,
+    "24": 3302,
+    "25": 3272,
+    "26": 2799
+  },
+  "independent_semantic_QA": "passed_with_source_limits"
+}

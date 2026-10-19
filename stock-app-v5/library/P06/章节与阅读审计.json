@@ -1,0 +1,958 @@
+{
+  "schema_version": "book-reading-audit-v5.1",
+  "book_id": "P06",
+  "title": "War-Time Financial Problems",
+  "author": "Hartley Withers",
+  "book_count": 1,
+  "expert_count": 1,
+  "source": {
+    "source_url": "https://www.gutenberg.org/cache/epub/13045/pg13045.txt",
+    "catalogue_url": "https://www.gutenberg.org/ebooks/13045",
+    "source_file": "work/book-experts-v5/index_team/P06/source/original.txt",
+    "source_bytes": 506755,
+    "source_sha256": "500b1349523a5fb402a61d88bab68b93211ff678a27ee54b65d26317aea2146b",
+    "source_line_count": 8476,
+    "rights": {
+      "status": "Public domain in the USA",
+      "official_evidence_url": "https://dev.gutenberg.org/ebooks/13045",
+      "license_retained": true,
+      "modern_translation_not_claimed": true
+    },
+    "first_year_evidence_url": "https://openlibrary.org/works/OL4763775W/War-Time_Financial_Problems",
+    "first_year_evidence_scope": "目录作品记录标1919，版次列表有Murray1919；电子版具体纸本仍待核，不拿2006重印当原版。",
+    "edition": "PG13045，2004发布/2024更新；电子文本无出版者版次页，作者前言June1919；具体印刷底本待核"
+  },
+  "original_chapter_count": 20,
+  "read_chapter_count": 20,
+  "chapter_count_meeting_minimum": 20,
+  "body_han_count": 52933,
+  "minimum_chapter_han": 2373,
+  "book_minimum_20000_met": true,
+  "semantic_source_reading_complete": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "literal_all_printed_words_verified": false,
+  "all_numeric_tables_verified": false,
+  "independent_qa_status": "passed_qualified",
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "completeness_qualification": "完整电子原文逐章语义阅读和原创深读已完成；并非扫描每字核实，具体纸本与数值仍有列明缺口。",
+  "read_coverage": {
+    "frontmatter": {
+      "source_lines_inclusive": [
+        1,
+        344
+      ],
+      "complete_semantic_reading": true,
+      "scope": "电子信息、作者作品广告与评论引文、Pope题词、作者完整前言、二十章及索引目录；未把广告书名计新书或本书事实证据。"
+    },
+    "chapter_lines": [
+      345,
+      8031
+    ],
+    "chapter_unique_lines": 7687,
+    "all_chapters_blocks_complete": true,
+    "index": {
+      "source_lines_inclusive": [
+        8032,
+        8125
+      ],
+      "complete_semantic_reading": true,
+      "original_page_numbers_retained": false,
+      "note": "94行全部阅读；条目末保留逗号但无原页码，不能当作纸页定位。"
+    },
+    "license": {
+      "source_lines_inclusive": [
+        8126,
+        8476
+      ],
+      "complete_reading": true,
+      "blocks": [
+        [
+          8126,
+          8250
+        ],
+        [
+          8251,
+          8476
+        ]
+      ],
+      "license_retained": true
+    },
+    "unique_total_lines": 8476,
+    "download_only_counted_as_read": false,
+    "independent_full_work_count": 1,
+    "articles_counted_as_separate_books": false
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Outlook for Capital",
+      "article_date": "1917-09",
+      "source_lines_inclusive": [
+        345,
+        687
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch01-original.txt",
+      "source_text_sha256": "c93812ecb087103da1b9f8f833f7df3c377946065e00b24d2ec782c2d0b6e6d4",
+      "original_word_count": 3785,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch01.md",
+      "han_body_count": 2805,
+      "draft_sha256": "c9f615f2b9e1b681693f8066a33bc01835fd25d796144395238864eeca5b03fd",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          343
+        ]
+      ],
+      "source_reading_method": "343行完整输出无截断，全部资本定义、战损、储蓄、利息购买力、资本税与发行欺诈/债务分配论读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 2,
+      "title": "London's Financial Position",
+      "article_date": "1917-10",
+      "source_lines_inclusive": [
+        688,
+        1130
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch02-original.txt",
+      "source_text_sha256": "eefb28bcf0e9c1a09ad49e8401edddaae20a09f6f95c4c5b8f8d8b81b2ca1e5f",
+      "original_word_count": 4393,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch02.md",
+      "han_body_count": 2803,
+      "draft_sha256": "13df12a91746cc43c4540931811f832ffd1ee071c1d4eacde9867856f0f1c958",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          220
+        ],
+        [
+          221,
+          443
+        ]
+      ],
+      "source_reading_method": "443行两块完整无截断；含德国译文赞许/批评、财政信用账链、相对纽约退后、竞争与外籍开放全部读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 3,
+      "title": "War Finance as It Might Have Been—I",
+      "article_date": "1917-11",
+      "source_lines_inclusive": [
+        1131,
+        1550
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch03-original.txt",
+      "source_text_sha256": "03091f543c28bb5c964710bc64fa32b84bcf74bafa6194d498bb20a8e4f03416",
+      "original_word_count": 4670,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch03.md",
+      "han_body_count": 2762,
+      "draft_sha256": "ef34f49639b801acebd85ea37afd7e14a79ecc54123e7ae199ed94cb5dcdac68",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ],
+        [
+          211,
+          420
+        ]
+      ],
+      "source_reading_method": "420行两块完整输出無截断，传闻、1914金融危机、资源转移、税与真实储蓄/信用借款、原脚注及社会分配全读。",
+      "literal_all_printed_words_verified": false,
+      "external_economist_footnote_source_independently_read": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 4,
+      "title": "War Finance as It Might Have Been—II",
+      "article_date": "1917-12",
+      "source_lines_inclusive": [
+        1551,
+        1906
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch04-original.txt",
+      "source_text_sha256": "916831d32709daa2409a0a51942dd99593f01695c78057f86cb176b144d6af19",
+      "original_word_count": 3967,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch04.md",
+      "han_body_count": 2762,
+      "draft_sha256": "cf24437ccd31ca4697163c981fbc28f175c54ff4b793f5e13f278075fe08f38f",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          356
+        ]
+      ],
+      "source_reading_method": "356行完整输出，无截断，全面税理想、家庭收入方案、强制贷款、行政人手与代际/外债边界全部读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 5,
+      "title": "A Levy on Capital",
+      "article_date": "1918-01",
+      "source_lines_inclusive": [
+        1907,
+        2239
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch05-original.txt",
+      "source_text_sha256": "70a4208051f019f7830d229a1c851e882330142ea353f35e5bc5f6877b97cac8",
+      "original_word_count": 3547,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch05.md",
+      "han_body_count": 2759,
+      "draft_sha256": "e8fa76c809837104d89affe992a940f1badb331321c64855725d67f9df6748b6",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          333
+        ]
+      ],
+      "source_reading_method": "333行完整输出，无截断，三个资本征收方案与报刊引用、财政大臣不确定话、现金/实物/注销、牺牲公平及未来生产论全读。",
+      "literal_all_printed_words_verified": false,
+      "quoted_newspaper_originals_independently_read": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 6,
+      "title": "Our Banking Machinery",
+      "article_date": "1918-02",
+      "source_lines_inclusive": [
+        2240,
+        2650
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch06-original.txt",
+      "source_text_sha256": "2f0a564e99660766c88d6cb646f5f28c220b5bf9e927e8d8198144587c97feed",
+      "original_word_count": 3785,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch06.md",
+      "han_body_count": 2504,
+      "draft_sha256": "de3b4d381d274f43e5964f86cf9b9735d339a8969d0904c1ed0cd0fbd46ba47f",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ],
+        [
+          211,
+          411
+        ]
+      ],
+      "source_reading_method": "411行两块完整输出，无截断，合并系列表、地方/国营质疑、1844法及Holden五原则、两部门与重构全部表项全读。",
+      "literal_all_printed_words_verified": false,
+      "unresolved_numeric_issues": [
+        "原76,076,000券减部内30,750,000应45,326,000，重构45,325,000。",
+        "57,626,000黄金加1,143,000金银应58,769,000，重构58,768,000。",
+        "两个差各1000可使重构两边仍平；未核取整或底本，不决定该改哪格。",
+        "19.6%和33.5%分母需排资本/Rest理解；重构现金包含原政府债列为Currency Notes，非新增实物金。"
+      ],
+      "all_numeric_tables_exactly_verified": false,
+      "historical_numeric_data_eligible_for_experiment": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 7,
+      "title": "The Companies Acts",
+      "article_date": "1918-03",
+      "source_lines_inclusive": [
+        2651,
+        3018
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch07-original.txt",
+      "source_text_sha256": "9893846ffd36e2b183c79c7c9cb3e3681a307792d99b8363bb5dd9de6502f18e",
+      "original_word_count": 3951,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch07.md",
+      "han_body_count": 2854,
+      "draft_sha256": "365899fdb298fb52dff44129c6e99d46f43f4095dbe4393cf29ad29dbf3fe5fb",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          368
+        ]
+      ],
+      "source_reading_method": "368行完整输出无截断，委员会范围、制度适配、盟友贷款可损/再贷付息、披露改革、教育与责任、暂时优先配给、外债及利润税全读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 8,
+      "title": "The Year's Balance-Sheet",
+      "article_date": "1918-04",
+      "source_lines_inclusive": [
+        3019,
+        3345
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch08-original.txt",
+      "source_text_sha256": "2dbba89c23100c19cc2d09b873965c0128d0589d1bc78b46f6a634252dc018e9",
+      "original_word_count": 3290,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch08.md",
+      "han_body_count": 2713,
+      "draft_sha256": "77f849110b06c04a2291dccf48f149d10a018b887461d3757d9ef652e3995688",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          327
+        ]
+      ],
+      "source_reading_method": "327行完整输出无截断，两张年度收入表、抄写者显式更正、购买力估计、资产回收/战费分母与政策/士兵公平论全读。",
+      "literal_all_printed_words_verified": false,
+      "source_transcriber_correction_visible": "第二收入表Sundry Loans原印加号已由PG抄写者改为减号，6,056,000比7,500,000少1,444,000；未视觉核原表。",
+      "all_numeric_tables_exactly_verified": false,
+      "historic_war_cost_and_deflator_estimates_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 9,
+      "title": "Comparative War Finance",
+      "article_date": "1918-05",
+      "source_lines_inclusive": [
+        3346,
+        3744
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch09-original.txt",
+      "source_text_sha256": "70a9905c803d4082f6c52d64c849e655a4eff4b99cbabbf075a255c88507d6bf",
+      "original_word_count": 4392,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch09.md",
+      "han_body_count": 2770,
+      "draft_sha256": "73d4d69a8631fba4b570b886002878b9e21a49a460a2702af3fb94e0b0a1de7e",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          200
+        ],
+        [
+          201,
+          399
+        ]
+      ],
+      "source_reading_method": "399行两块完整无截断，德英比较和机构范围、所有预算/实际/累计口径、美两报预测冲突、购买力与媒介替换、盟友面值扣减和未结支出全读。",
+      "literal_all_printed_words_verified": false,
+      "external_original_budget_and_newspapers_read": false,
+      "unresolved_quantitative_limits": [
+        "作者四月至少三分之一减值、五月约一半，缺新完整指数，不能编成真实月序列。",
+        "美国近800m为取整说法，细3886m美元粗按5兑1约777.2m，扣215m约562m，不以粗取整制造伪差错。",
+        "英国/德国未来负债收入及1919净债是预测与资产扣减假设，非回测真值。"
+      ],
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 10,
+      "title": "International Currency",
+      "article_date": "1918-06",
+      "source_lines_inclusive": [
+        3745,
+        4107
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch10-original.txt",
+      "source_text_sha256": "0a17889464fa7fac9c714794c0defb7092eebeb1d7ffb7ce138b1dca7385a4c9",
+      "original_word_count": 3941,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch10.md",
+      "han_body_count": 2558,
+      "draft_sha256": "32d3a95914a23c70ca04459e4c7082927fdca1cdbea566b29cae0cd5153ac898",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          363
+        ]
+      ],
+      "source_reading_method": "363行完整输出无截断，交换媒介、价值标准、数量论含速度条件、支票、战时中立国拒金、长期购买力、罗马说法怀疑及国际货币暂缓全读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 11,
+      "title": "Bonus Shares",
+      "article_date": "1918-07",
+      "source_lines_inclusive": [
+        4108,
+        4438
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch11-original.txt",
+      "source_text_sha256": "cc6f2b207cfffa4e834c3fa1e0e423721a63a39e03e9d74f3add685b24fba86a",
+      "original_word_count": 3602,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch11.md",
+      "han_body_count": 2470,
+      "draft_sha256": "64596b539d46ea1c4b3e1347b214caf6f263f9b7ddd812b9e31664a3d532c844",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          331
+        ]
+      ],
+      "source_reading_method": "331行完整输出无截断；储备转股算例、股价双解释、ABC/加拿大新股折价、美国普通股商誉与发起人激励及其欺诈例外均读。",
+      "literal_all_printed_words_verified": false,
+      "bonus_transaction_types_distinguished": 3,
+      "historic_price_and_dividend_examples_externally_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 12,
+      "title": "State Monopoly in Banking",
+      "article_date": "1918-08",
+      "source_lines_inclusive": [
+        4439,
+        4902
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch12-original.txt",
+      "source_text_sha256": "c9594170e80eac7b29c89d5de6b2f01a86a511d8175a9580c05a55af58cb5eb0",
+      "original_word_count": 4681,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch12.md",
+      "han_body_count": 2433,
+      "draft_sha256": "52e2fb61308815106e2133d6174587c7aa74781b6a221b54f6123582b7ad59d4",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          232
+        ],
+        [
+          233,
+          464
+        ]
+      ],
+      "source_reading_method": "464行两块完整无截断；Addis与Webb长引文、合并风险前后更新、现金/内部流转、德英薪酬责任、寡头协议、国有分工全案及反对/可行性认可全读。",
+      "literal_all_printed_words_verified": false,
+      "quoted_authors_not_merged_into_withers_claims": true,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 13,
+      "title": "Foreign Capital",
+      "article_date": "1918-09",
+      "source_lines_inclusive": [
+        4903,
+        5372
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch13-original.txt",
+      "source_text_sha256": "9a68f622f050b083ff1ae054635f9b8c1282b01ded9a7477a63835720c229e5f",
+      "original_word_count": 4951,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch13.md",
+      "han_body_count": 2573,
+      "draft_sha256": "bf864ea38820aa953b36175a3f151047b3791c8117797e35ab5116d2531dcdd9",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          235
+        ],
+        [
+          236,
+          470
+        ]
+      ],
+      "source_reading_method": "470行两块完整无截断，委员会支持及技术草案、全部披露a/b/c、航运20%备选、关键行业动态程序、少数保留及作者开放/产业基础观点全读。",
+      "literal_all_printed_words_verified": false,
+      "historical_committee_proposals_not_treated_as_enacted_law": true,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 14,
+      "title": "National Guilds",
+      "article_date": "1918-10",
+      "source_lines_inclusive": [
+        5373,
+        5719
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch14-original.txt",
+      "source_text_sha256": "f577f9a5dfc642c81bc026598578693f65fb1acd03a679f5591ad1f1ddd96359",
+      "original_word_count": 3703,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch14.md",
+      "han_body_count": 2426,
+      "draft_sha256": "23e81e89f3a2eaf1ee7327db581771cc8e974d0d491d205bfb32bdc7171294e3",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          347
+        ]
+      ],
+      "source_reading_method": "347行完整无截断；现制机会不公承认、Cole两套四点、工资/薪水批评、需求与进入协调、官员监督和原脚注全读。",
+      "literal_all_printed_words_verified": false,
+      "other_books_only_quoted_not_claimed_independently_read": true,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 15,
+      "title": "Post-War Finance",
+      "article_date": "1918-11",
+      "source_lines_inclusive": [
+        5720,
+        6081
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch15-original.txt",
+      "source_text_sha256": "a789540f8ca46886c7f7dc9d8b5d3e0a5361af993beb38694c226312abd4c998",
+      "original_word_count": 4033,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch15.md",
+      "han_body_count": 2639,
+      "draft_sha256": "09e393030eb81dcb7daf148b05b78fff27ad25333fea8465a8a8c52cae2f567d",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          362
+        ]
+      ],
+      "source_reading_method": "362行完整无截断；Hoare税Rente、全部100年强制无息/付款方案、资本税三反对与社会心理例外、内外债区分、两种家庭门槛及特殊个人税建议全读。",
+      "literal_all_printed_words_verified": false,
+      "tax_thresholds_in_article_not_merged": true,
+      "compulsory_loan_present_value_is_assumption_not_observed_price": true,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 16,
+      "title": "The Currency Report",
+      "article_date": "1918-12",
+      "source_lines_inclusive": [
+        6082,
+        6500
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch16-original.txt",
+      "source_text_sha256": "77afc0e9abf91cbf638773e08a4bd1e5aa03dd9dcae81787ab6fa1e2986948ef",
+      "original_word_count": 4284,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch16.md",
+      "han_body_count": 2658,
+      "draft_sha256": "78345e34eaeb47b933bd4b207b59836c60d0a393b604af21a11a22811a14ca42",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ],
+        [
+          211,
+          419
+        ]
+      ],
+      "source_reading_method": "419行两块完整无截断，报告全部转引/两张货币估计/地区与公众黄金脚注、旧控制链及非自动、恢复与过渡、央行协调缺口、美国延期建议全读。",
+      "literal_all_printed_words_verified": false,
+      "full_cunliffe_report_independently_read": false,
+      "all_numeric_tables_exactly_verified": false,
+      "unresolved_quantitative_limits": [
+        "1914黄金123m含公众，1918银行40m另说公众持金未知；不能同全范围认定下降83m。",
+        "1918表未列部分苏格兰爱尔兰票，脚注另约5m；辅币未列，不能当全部货币总量。",
+        "报告是其他原因共同推价，作者近乎翻倍成本属更强反事实，未核证。",
+        "150m黄金＋满意外汇一年是历史建议，非现代参数；新一期无金额度仍待定。"
+      ],
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 17,
+      "title": "Meeting the War Bill",
+      "article_date": "1919-01",
+      "source_lines_inclusive": [
+        6501,
+        6963
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch17-original.txt",
+      "source_text_sha256": "b05ffaf46280cc0233932096741e0d7213cb412875c9de24693d174476f470c6",
+      "original_word_count": 4876,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch17.md",
+      "han_body_count": 2423,
+      "draft_sha256": "1207bb7cca7d7eba2eb79c777fc0919923a20d2c6a10f218f7e05756441b2c84",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          232
+        ],
+        [
+          233,
+          463
+        ]
+      ],
+      "source_reading_method": "463行两块无截断全读；两表和全部脚注、盟友/资产估值、税净债算术冲突、赔偿范围/能力、三融资法、实体/外资损失与债务支付边界全读。",
+      "literal_all_printed_words_verified": false,
+      "all_numeric_tables_exactly_verified": false,
+      "unresolved_numeric_issues": [
+        {
+          "global_source_lines_inclusive": [
+            6633,
+            6639
+          ],
+          "issue": "原文2120减860写1350，实际1260；4142=5492-1350，重复错误不独立认证。",
+          "action": "不裁定哪个输入/结果需改，不默修；相关净战争税及净新增债额不进入精确实验。"
+        }
+      ],
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 18,
+      "title": "The Regulation of the Currency",
+      "article_date": "1919-02",
+      "source_lines_inclusive": [
+        6964,
+        7346
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch18-original.txt",
+      "source_text_sha256": "962267776e1c62c02a8e1bf2218119031d23bdaa938adab1e3a43c56e037509b",
+      "original_word_count": 4205,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch18.md",
+      "han_body_count": 2373,
+      "draft_sha256": "d78873cd78f3cf5095ed0ef2b95ae2b8b10635c395997adcc2fa2c0156ac8dda",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          383
+        ]
+      ],
+      "source_reading_method": "383行完整无截断，Macaulay长引、Goodenough、五原则复述、委员会实改/账户关系、比例绑定假设、Owen无恐慌保证及作者怀疑、票据续作与三储备/1914相反证词全读。",
+      "literal_all_printed_words_verified": false,
+      "historical_legal_convertibility_claims_not_independently_certified": true,
+      "unresolved_source_conflict": "Holden称1914股份银行支付金币缓和，Withers称多数不交金只给5镑券；未核同机构同日原记录，不裁定哪方错。",
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 19,
+      "title": "Tightening the Fetters of Finance",
+      "article_date": "1919-03",
+      "source_lines_inclusive": [
+        7347,
+        7771
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch19-original.txt",
+      "source_text_sha256": "550b895e7ce2699e6463ee277092d3034d534fd6fcb53e27c29769181e4092e2",
+      "original_word_count": 4101,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch19.md",
+      "han_body_count": 2813,
+      "draft_sha256": "40df5686f37435071a5c6688ff5447a792f54ee36aefd76299c777ac1b36fd1a",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ],
+        [
+          211,
+          425
+        ]
+      ],
+      "source_reading_method": "按顺序完整输出全部章文本，无输出截断；原论证、反方引述、法规版本/货币数量条件及脚注均已审读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    },
+    {
+      "chapter": 20,
+      "title": "Money or Goods?",
+      "article_date": "1918-12",
+      "source_lines_inclusive": [
+        7772,
+        8031
+      ],
+      "source_file": "work/book-experts-v5/index_team/P06/source/ch20-original.txt",
+      "source_text_sha256": "b3cc8acfbf1fecec444ed39d851837ff7c70126e1a4319ed537c0022bde52e7a",
+      "original_word_count": 2682,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P06/chapters/ch20.md",
+      "han_body_count": 2835,
+      "draft_sha256": "30eb53ec747daa239931d9374e44fe58c99c53ae2ddf832868dee3a45e1eae44",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          260
+        ]
+      ],
+      "source_reading_method": "按顺序完整输出全部章文本，无输出截断；原论证、反方引述、法规版本/货币数量条件及脚注均已审读。",
+      "literal_all_printed_words_verified": false,
+      "reading_blocks_cover_full_chapter": true,
+      "body_count_method": "仅正文开始/结束标记之间U+4E00–U+9FFF，不含标题/行证/数字/英文",
+      "minimum_2000_han_met": true,
+      "independent_qa_status": "passed_qualified"
+    }
+  ],
+  "source_gaps": [
+    {
+      "chapter": 1,
+      "scope": "储蓄与实际利率",
+      "gap": "历史年度储蓄额、战时倍数与票面利率为原文估算/例值；未独立核准购买力指数。"
+    },
+    {
+      "chapter": 2,
+      "scope": "地位与金流",
+      "gap": "金融实力及英国相对美国地位是作者条件判断；引述德国评论不构成中立全样本。"
+    },
+    {
+      "chapter": 3,
+      "scope": "战前准备",
+      "gap": "内阁或委员会商议预备金融方案被明确称传说；小额纸币避免延期偿付属反事实。"
+    },
+    {
+      "chapter": 4,
+      "scope": "融资与未来转移",
+      "gap": "国内收入转移说须按15/17篇的外债条件限制；正常收入、盟国回收为估计。"
+    },
+    {
+      "chapter": 5,
+      "scope": "资本税基",
+      "gap": "多方案财富总额和税率不同，不同作者与税基不可合并；政治可接受性无代表性调查。"
+    },
+    {
+      "chapter": 6,
+      "scope": "英格兰银行重组表",
+      "gap": "76076000−30750000=45326000，重组票据行为45325000；57626000+1143000=58769000，重组黄金行为58768000。各差1000，未裁定何项错。",
+      "raw_values_retained": true,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "chapter": 6,
+      "scope": "现金率",
+      "gap": "19.6/33.5采用指定负债分母；资本储备和换名旧政府债务不同于黄金。不能把比例增长当新真实准备。"
+    },
+    {
+      "chapter": 7,
+      "scope": "披露与立法",
+      "gap": "担忧将来立法，不等于已通过；作者仍赞成利润、供应商和账目披露。"
+    },
+    {
+      "chapter": 8,
+      "scope": "Sundry Loans表差额",
+      "gap": "电子转录者明确说原印本加号已改为减号；电子与印刷字面不完全相同，原图未逐格核。"
+    },
+    {
+      "chapter": 8,
+      "scope": "实际预算",
+      "gap": "名义转实际至少削减三分之一为作者估计，资产回收与战争纯支出均需假设。"
+    },
+    {
+      "chapter": 9,
+      "scope": "国际预算比较",
+      "gap": "财政年度、累计数、净战争费用、近似换算及未来预算不同口径；美国近八亿与精确美元换算不混算。"
+    },
+    {
+      "chapter": 9,
+      "scope": "购买力",
+      "gap": "约一半折减与第8篇至少三分之一没有相同完整指数说明，来源条件未解。"
+    },
+    {
+      "chapter": 10,
+      "scope": "数量论",
+      "gap": "必须保留信用、周转与供给条件，黄金购买力变化；无估计弹性或现代政策阈值。"
+    },
+    {
+      "chapter": 11,
+      "scope": "红股与市场反应",
+      "gap": "价格上涨观察未给事件样本；例价和名义股本分红率不是股价收益率或可执行利润。"
+    },
+    {
+      "chapter": 12,
+      "scope": "银行集中及国家银行",
+      "gap": "政府可能支持不等于法律担保；成本比较作者自认缺可比基础，协议与进入条件无完整样本。"
+    },
+    {
+      "chapter": 13,
+      "scope": "控制权与委员会",
+      "gap": "报告、建议与备选限制不能当已实施法律；注册名不能核实实益控制。"
+    },
+    {
+      "chapter": 14,
+      "scope": "行会社会主义",
+      "gap": "Cole等仅按原书引用阅读，未读其整书；政治和道德表述非已验证制度效果。"
+    },
+    {
+      "chapter": 15,
+      "scope": "税案及百年债",
+      "gap": "作者与Hoare家庭门槛不同；百年零息折现依赖5%全期假设，不能当现代真实估值。"
+    },
+    {
+      "chapter": 16,
+      "scope": "货币表",
+      "gap": "1914黄金行含银行和公众，1918一行只列银行；苏格兰爱尔兰等缺项脚注必须保留，不可自动完整比较。"
+    },
+    {
+      "chapter": 16,
+      "scope": "委员会报告",
+      "gap": "只读本书所引报告，未独立读Cd9182全文；恢复发行规则不是原样1844，也非今日法规。"
+    },
+    {
+      "chapter": 17,
+      "source_lines_inclusive": [
+        6633,
+        6639
+      ],
+      "scope": "税与净债算术",
+      "gap": "2120−860应为1260，原文本写1350，净债4142沿用1350续算。不能决定改原输入或原结果；不进入精确实验。",
+      "raw_values_retained": true,
+      "numeric_experiment_enabled": false
+    },
+    {
+      "chapter": 17,
+      "scope": "战后资产和赔款",
+      "gap": "资产回收、养老金资本化、价格跌半、外资产出售或质押均有不同预测条件；赔款意见非核准法律和实现收入。"
+    },
+    {
+      "chapter": 18,
+      "scope": "1914黄金支付",
+      "gap": "Holden与作者对银行付出黄金的叙述冲突，缺同银行同时间支付记录；保留未解。"
+    },
+    {
+      "chapter": 18,
+      "scope": "票据总量和恐慌",
+      "gap": "单票到期不保证全市场信用缩小；新制度不可能恐慌是被引述强主张，作者并未认可。"
+    },
+    {
+      "chapter": 19,
+      "scope": "发行法规修订",
+      "gap": "含追溯效力版本与随后去除承诺分开；未独立核准正式修订文本或实际执行。"
+    },
+    {
+      "chapter": 20,
+      "scope": "对手观点和时间",
+      "gap": "Kitson及前一篇仅引用范围可知；末篇写1918-12，不把1919后篇信息回填。"
+    },
+    {
+      "scope": "索引",
+      "source_lines_inclusive": [
+        8032,
+        8125
+      ],
+      "gap": "完整电子索引无纸页数字，不能伪造索引纸页定位。"
+    },
+    {
+      "scope": "具体印刷底本",
+      "gap": "前言June1919及目录首版年可查，但UTF-8电子文本无具体纸本版次页；未核所有印刷字形和表格。"
+    }
+  ],
+  "all_historical_numeric_experiments_disabled": true,
+  "expert_rules_count": 26,
+  "artifact_sha256": {
+    "work/book-experts-v5/index_team/P06/章节深读.md": "d389139a2d19dc79169cf7245f219d14cf7bcce31ad56cb8e55368df5f3f13ea",
+    "work/book-experts-v5/index_team/P06/全书综合与前后置页.md": "dd7a3a4261fa5174a17e4679d3831c8e5a0941025c0011a3038a6b93584c29c7",
+    "work/book-experts-v5/index_team/P06/专家定义.json": "487a55ccf51eaa9053833aff4ef6efd53f968fd8a1e22f899844d65e9ff2839a",
+    "work/book-experts-v5/index_team/P06/专家说明.md": "691a11e383e58f4a768a76372982747220b1bdafc5d82cf0fea47bfa3fa67e77",
+    "work/book-experts-v5/index_team/P06/source-metadata.json": "01d966d868e26ae1fde4fd4d41cc28a970fc5411dd795a5cc96cde57631a22b5"
+  },
+  "self_verification": {
+    "chapter_hashes_and_han_counts": "passed",
+    "chapter_source_hashes": "passed",
+    "each_chapter_actual_read_blocks_union_equals_full_source": "passed",
+    "all_original_chapter_ranges_union_equals345to8031": "passed",
+    "original_file_sha256": "passed",
+    "combined_contains_chapters_unchanged": "passed"
+  },
+  "independent_qa_required_before_final_acceptance": false,
+  "knowledge_ready": true,
+  "specific_retained_source_anchor_count": 51,
+  "source_anchor_hash_method": "exact raw UTF-8 CRLF bytes and their existing terminal newlines",
+  "chapter_revision_notes": [
+    {
+      "chapter": 16,
+      "type": "semantic_timing_correction",
+      "source_lines_inclusive": [
+        6434,
+        6444
+      ],
+      "correction": "until the reserve/exchange condition is reached, follow the reduction policy; do not wait until attainment before reducing uncovered notes"
+    },
+    {
+      "chapter": 17,
+      "type": "locator_only",
+      "old_range": [
+        6631,
+        6640
+      ],
+      "new_range": [
+        6642,
+        6652
+      ],
+      "counted_han_unchanged": true
+    }
+  ],
+  "root_attribution_clarifications_rules": [
+    "P06-R01",
+    "P06-R04",
+    "P06-R06",
+    "P06-R08",
+    "P06-R09",
+    "P06-R10",
+    "P06-R22"
+  ]
+}

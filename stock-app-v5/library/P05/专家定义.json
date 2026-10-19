@@ -1,0 +1,1535 @@
+{
+  "book_id": "P05",
+  "expert_id": "P05-Jevons-PoliticalEconomy-Primer",
+  "expert_name": "杰文斯《政治经济学》用途、生产与信用专家",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "William Stanley Jevons",
+  "title": "Political Economy",
+  "edition": "D. Appleton and Company, New York, 1880；作者前言1878-01-31；不把前言日期冒称精确初版证据",
+  "group_suggestion": "货币、信用与经济制度",
+  "source_metadata_file": "work/book-experts-v5/index_team/P05/source-metadata.json",
+  "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+  "book_semantic_reading_completed": true,
+  "coverage_status": "coverage_qualified",
+  "independent_qa_status": "passed_after_attribution_clarifications_with_source_limits",
+  "literal_all_printed_words_verified": false,
+  "all_historical_numeric_values_externally_verified": false,
+  "current_stock_decision_enabled": false,
+  "live_market_connected": false,
+  "backtest_run": false,
+  "experiment_count": 0,
+  "rules_count": 26,
+  "rules": [
+    {
+      "id": "P05-R01",
+      "title": "财富与福利分开",
+      "kind": "author_definition",
+      "author_claim_paraphrase": "财富需可转移、供给有限、有用；不可买卖的健康、友爱与良心仍有价值。",
+      "evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            379,
+            454
+          ],
+          "source_segment_sha256": "0b9cb276e2e688d49d0a9d99ee18fb06c81201a8ff35a6582dd98b6684528270",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "转移权",
+        "用途",
+        "相对供给"
+      ],
+      "abstain_when": "不能以财富金额认证全部幸福。",
+      "modern_extension_boundary": "福利指标是现代独立输入，不能与交换价值混同。",
+      "cross_challenge_revision_evidence": "实际使用、权利与福利证据可修改分类。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 1,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            180,
+            495
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R02",
+      "title": "效用依数量、地点和时间",
+      "kind": "author_concept",
+      "author_claim_paraphrase": "同物在不同数量、地点和时点可满足需要或造成损害，不能按物品名固定价值。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            501,
+            518
+          ],
+          "source_segment_sha256": "82465e6f72ba1682f9369701c0dccb3152ea4c099296b889903da7d4e81703db",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            551,
+            589
+          ],
+          "source_segment_sha256": "0b6df2303567038370581611989e10ee9af8e6362ce54c2a0096a98a9532d880",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "用户",
+        "数量",
+        "时点",
+        "使用环境"
+      ],
+      "abstain_when": "缺情境不认证用途或价格。",
+      "modern_extension_boundary": "需求研究需加入支付能力，原书未给估计。",
+      "cross_challenge_revision_evidence": "真实需求、损害和可达性改变适用。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            496,
+            732
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R03",
+      "title": "投资与消费都需实际用途",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "为花钱而花钱和为积累而放弃使用都错；耐久项目过量也可能无益。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            648,
+            728
+          ],
+          "source_segment_sha256": "8a0a75ada40d85d5601f772c61e24de59c823971eb5fc7fb9d9f0607912a4291",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3741,
+            3768
+          ],
+          "source_segment_sha256": "df6839204280cf31c92fed6f69a77f98f753d9e1e3bb9af9f51955647a07d474",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": true
+        }
+      ],
+      "required_inputs": [
+        "产能用途",
+        "消费收益",
+        "投资去向",
+        "时间"
+      ],
+      "abstain_when": "不能因叫投资便判社会收益正。",
+      "modern_extension_boundary": "储蓄到新增投资的流转需现代数据。",
+      "cross_challenge_revision_evidence": "无用途产能或有益消费证据修正评价。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            496,
+            732
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R04",
+      "title": "生产需自然条件、劳动与等待资源",
+      "kind": "author_definition",
+      "author_claim_paraphrase": "自然条件与劳动是主要要件，资本帮助人等待并经济生产，是作者随后修订的次要要件。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            818,
+            876
+          ],
+          "source_segment_sha256": "03740472fbe56c2ad32685243c9eb43aadfa52c8f61582b62cdf5737b9099b2a",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "材料力量",
+        "工序",
+        "生活维持",
+        "等待期间"
+      ],
+      "abstain_when": "缺生产过程不凭钱量认证真实资本。",
+      "modern_extension_boundary": "现代资金与真实资源另定义，勿按物理分类套账户。",
+      "cross_challenge_revision_evidence": "实际工序、存货及完成期限改变约束。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            733,
+            998
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R05",
+      "title": "最佳时间地点方式须有具体条件",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "生产效率需适合时点、地点与知识方式，能够等待本身需要资源。",
+      "evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            878,
+            909
+          ],
+          "source_segment_sha256": "e475e5806feb0cb01be3c49761f76bd767637a6d56812719a22fda2f616623fd",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            911,
+            945
+          ],
+          "source_segment_sha256": "c65ae8f0cbf4f41063aad223d2b79625f523a80ea37c12c9b1e66e664860f250",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            947,
+            994
+          ],
+          "source_segment_sha256": "4d32a499d574b135b9f064fbcf42adf9bd11f0c3ad20fc934efdebf6b70faf1a",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "自然和技术条件",
+        "工期",
+        "资源",
+        "组织方式"
+      ],
+      "abstain_when": "缺情形不认证国别或产业永久优势。",
+      "modern_extension_boundary": "现代成本和环境输入是独立扩展。",
+      "cross_challenge_revision_evidence": "技术、物流、产权及需求变化可改判断。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 3,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            733,
+            998
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R06",
+      "title": "分工有多种效率渠道",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "作者分列熟练、节省任务切换、专业发明、服务复用、复制及人员和地点适配，并修正斯密对发明的解释。",
+      "evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1040,
+            1098
+          ],
+          "source_segment_sha256": "e13d913d0335ab6ca3143fd5e82f8aa5962a775f0f67906489236aa9f79d7724",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1103,
+            1202
+          ],
+          "source_segment_sha256": "070ad89b66820273ee5a729f26885a083354ed96f28fbc7ec531e826f266b53f",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "工序",
+        "准备与复制成本",
+        "规模",
+        "人员地点"
+      ],
+      "abstain_when": "只知规模不认证效率。",
+      "modern_extension_boundary": "这些渠道不能合成一个未测净收益，是本次独立分析要求；原书的发明解释与斯密有差别，不能抹成完全一致。",
+      "cross_challenge_revision_evidence": "实际成本、质量与发明记录改变各渠道权重。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            999,
+            1316
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R07",
+      "title": "转业困难限制分工收益",
+      "kind": "author_qualification",
+      "author_claim_paraphrase": "作者先说原行业不再需要人时可学新行业，后文承认专业技能狭窄，需求消失后、尤其年长者转入已有熟练者的行业很困难。",
+      "evidence": [
+        {
+          "chapter": 2,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            533,
+            550
+          ],
+          "source_segment_sha256": "21f3719cf918e304f1931fde253ec0e770aa29a04ad4147df73a6707f83f5e5f",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": true
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1260,
+            1301
+          ],
+          "source_segment_sha256": "46aede7fdc430e0e31e5ae570683ebd9babcd182abe3729fb3c8d0b470e37289",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "技能",
+        "岗位",
+        "训练成本",
+        "年龄和期间"
+      ],
+      "abstain_when": "不能从新需求存在断言原失业者及时就业。",
+      "modern_extension_boundary": "把两处合读为对早期就业乐观句的限制是本次跨章分析；现代转业与福利仍须另估。",
+      "cross_challenge_revision_evidence": "真实迁移、招聘、培训和失业期资料修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            999,
+            1316
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R08",
+      "title": "资本是生产用途与时间问题",
+      "kind": "author_definition",
+      "author_claim_paraphrase": "资本按用途和耐久程度区分，固定/流动存在中间类型，等待时间影响需要量。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1322,
+            1387
+          ],
+          "source_segment_sha256": "bade7c81136a9f8c30ba5ac1db49512a7170a7c14d0472f633b6b5db0909aa22",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1430,
+            1458
+          ],
+          "source_segment_sha256": "1c3958aa9d5e361a490af08d6083287ade105e0624b67f506c917c6f43ee519b",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "用途",
+        "耐久寿命",
+        "更新",
+        "回收期"
+      ],
+      "abstain_when": "不按资产名称断言资本充足。",
+      "modern_extension_boundary": "金融流动性与原书消耗时间不同，须另定。",
+      "cross_challenge_revision_evidence": "实际用途、更新和资金合同改变结论。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1317,
+            1482
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R09",
+      "title": "资本回收是目标非保证",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "作者说犁车等应在有效寿命内逐步取回投入，并有增加或利息。",
+      "evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1389,
+            1417
+          ],
+          "source_segment_sha256": "92ca006b368f7242aa99e15dec979a19300a5a2b333185b85f1ee3a15bb5a3d9",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "成本",
+        "服务寿命",
+        "实际回收",
+        "损失"
+      ],
+      "abstain_when": "未核现金流不作收益保证。",
+      "modern_extension_boundary": "原文的应当是投资期望标准；把它与实际保证区分是本次逻辑核对。贴现、费用和概率没有在原章校准。",
+      "cross_challenge_revision_evidence": "真实经营和损失可否定回收预期。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 5,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1317,
+            1482
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R10",
+      "title": "收入标签须穿透拆分",
+      "kind": "author_definition",
+      "author_claim_paraphrase": "工资、租金与利润可能混有工具资本、改良、管理劳动、利息及风险补偿。",
+      "evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1531,
+            1563
+          ],
+          "source_segment_sha256": "2110fd2ec1f5bbd489909ab94f0ec73bb1b4c399a527f88cf40710f214c423d7",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1565,
+            1641
+          ],
+          "source_segment_sha256": "740bdda995f8670a2493280e5aeb7426cbdf4f6af378814b0ae0061ee2e04001",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "账目",
+        "工具改良",
+        "管理支付",
+        "风险",
+        "期间"
+      ],
+      "abstain_when": "不明口径不精确拆份额。",
+      "modern_extension_boundary": "现代报表已计成本时避免重复拆管理工资。",
+      "cross_challenge_revision_evidence": "合同、折旧、薪酬与完整失败样本修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 6,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1483,
+            1656
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R11",
+      "title": "名义工资与购买力分开",
+      "kind": "author_concept",
+      "author_claim_paraphrase": "真实工资看所需商品，名义金额变动不能不查价格和期间就判富裕。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1688,
+            1731
+          ],
+          "source_segment_sha256": "92134dda86727a1bae1d2675624f9e52d6d59dcbc7aeba444888f05d11d2874e",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "收入期间",
+        "商品组合",
+        "价格"
+      ],
+      "abstain_when": "缺支出及价格不计算实际收益。",
+      "modern_extension_boundary": "现代价格指数须明确权重和覆盖。",
+      "cross_challenge_revision_evidence": "真实家庭预算、物价及工作天数改变判断。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1657,
+            1909
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R12",
+      "title": "职业收益须包含门槛与失败者",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "作者列教育成本、就业连续性、受托信任和成功机会等工资条件，并说只有少数律师成功，其余转业。",
+      "evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1770,
+            1881
+          ],
+          "source_segment_sha256": "f8f9812f1bae3a869582aa51e303fcbe1652749b45c654591c5c0ac838aaa57a",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "教育准入",
+        "全年就业",
+        "非钱条件",
+        "失败者"
+      ],
+      "abstain_when": "缺全体分母不填成功概率。",
+      "modern_extension_boundary": "由少数高收入成功者不能计算全体职业平均或成功概率，是本次样本口径检查；差异解释也不等于公平认证。",
+      "cross_challenge_revision_evidence": "准入、样本和福利证据可挑战作者强归因。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 7,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1657,
+            1909
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R13",
+      "title": "工会不同活动应分别判断",
+      "kind": "author_policy_position",
+      "author_claim_paraphrase": "作者赞互助和安全协商，反对排他与恐吓，并对工资/罢工作强批评，不是一概否定。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1915,
+            1961
+          ],
+          "source_segment_sha256": "0a459de7554a0632becc0846bf9ee78aa33a2f540bffbccca7d2b8e7e1e5791a",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1997,
+            2095
+          ],
+          "source_segment_sha256": "96fd2f547c0abc536048b65b505b206cfcca157b67a910a19a3b08eb3620aa93",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2097,
+            2180
+          ],
+          "source_segment_sha256": "c6aa27cb98953eca2e0cfd6bfa709c4d73f327eaaa3a90fa9fd01f09642de088",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "活动",
+        "合同",
+        "安全",
+        "成本收益",
+        "工资反事实"
+      ],
+      "abstain_when": "不凭组织名称作净效果结论。",
+      "modern_extension_boundary": "本次不验证作者总体效果或当代法律。",
+      "cross_challenge_revision_evidence": "完整事件、收入、安全和反事实证据修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1910,
+            2393
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R14",
+      "title": "效率激励仍需健康和转业证据",
+      "kind": "author_claim_with_internal_tension",
+      "author_claim_paraphrase": "作者支持采用机器和可准确计量的计件工资，称及早采用者不受害，并认为成年人通常能够自行照顾健康。",
+      "evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2209,
+            2334
+          ],
+          "source_segment_sha256": "8f2b22674f055feeda9863006dbd31dd773f3748c9b5ca6982f61c957aa7ab91",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1260,
+            1301
+          ],
+          "source_segment_sha256": "46aede7fdc430e0e31e5ae570683ebd9babcd182abe3729fb3c8d0b470e37289",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": true
+        }
+      ],
+      "required_inputs": [
+        "产量质量",
+        "健康事故",
+        "收入",
+        "转换条件"
+      ],
+      "abstain_when": "没有这些输入不认证每个人受益。",
+      "modern_extension_boundary": "将这些强句与第四章转业困难及本章集体安全诉求并读，是本次分析；计件激励和健康假设没有验证成现代策略。",
+      "cross_challenge_revision_evidence": "过劳、损失或实际转业证据收紧适用。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 8,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1910,
+            2393
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R15",
+      "title": "合作应核谁分享收益及权利",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "顾客商店、工业利润分享与工人股份制度不同，管理、资本和核证不能被名称替代。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2460,
+            2576
+          ],
+          "source_segment_sha256": "2459c03ec61d02a2e3191708d8647efd53a69dbbf68b9333c5a4229f12a8a6fb",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2578,
+            2620
+          ],
+          "source_segment_sha256": "44e4fc008c6c3da7eb8e536ac531c168bcd7136bf9774af96d5889e725135b36",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "所有者和员工",
+        "分配合同",
+        "扣费",
+        "管理",
+        "亏损缓冲"
+      ],
+      "abstain_when": "缺真实合同账目不认利益一致。",
+      "modern_extension_boundary": "原协议先取10%不当现代纯利息阈值。",
+      "cross_challenge_revision_evidence": "费用、控制、账目与失败记录改变评价。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2394,
+            2699
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R16",
+      "title": "储蓄能力须看真实余额",
+      "kind": "author_qualification",
+      "author_claim_paraphrase": "作者赞储蓄，同时承认某些低薪家庭只够必需品、不能期望储蓄，对较高收入者仅说大概可储且无法定严格规则。",
+      "evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2622,
+            2695
+          ],
+          "source_segment_sha256": "c55ca3534b2fb9db22778fba65f6320599aea9cfc372ddba331b9ff7e908ad54",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "家庭全年收入",
+        "必需支出",
+        "风险",
+        "储蓄工具"
+      ],
+      "abstain_when": "缺预算不责定不能储蓄或已有余裕。",
+      "modern_extension_boundary": "全国平均酒消费不能直接分配给每户，是本次独立口径检查；历史一英镑也不是现代门槛。",
+      "cross_challenge_revision_evidence": "实际支出、收入中断及重大灾害修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 9,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2394,
+            2699
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R17",
+      "title": "土地制度比较权利与资本条件",
+      "kind": "author_policy_position",
+      "author_claim_paraphrase": "要件集中不等于正当；作者否定奴隶制，分开自耕激励、规模及融资约束。",
+      "evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2705,
+            2739
+          ],
+          "source_segment_sha256": "c92eb1a174f15eb746144776372befa5cdf9700fa30a685bcafcfa513c28d395",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2759,
+            2867
+          ],
+          "source_segment_sha256": "2c2c13edfe0b8fe3aae736011b310f3d772f2b694a7b47c244a8a68569f92bcf",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "土地权利",
+        "资本",
+        "劳动自主",
+        "产出风险"
+      ],
+      "abstain_when": "不凭制度名认证优劣。",
+      "modern_extension_boundary": "殖民取得及群体贬抑不被当本稿认可事实。",
+      "cross_challenge_revision_evidence": "产权、福利、资本与生产史证据修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2700,
+            2993
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R18",
+      "title": "投入权益需与回收期限匹配",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "短租可能令改良被夺，长租或未耗尽改良补偿可改善诱因，末期投入仍受限。",
+      "evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2869,
+            2945
+          ],
+          "source_segment_sha256": "d081e264c1c3fc9d674f73b9877939b463f19f53d46bb71085fa40349e7cb9f0",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "租约",
+        "改良成本归属",
+        "余期",
+        "估值"
+      ],
+      "abstain_when": "缺合同与改良证据不精算补偿。",
+      "modern_extension_boundary": "历史建议不用于今日法律判断。",
+      "cross_challenge_revision_evidence": "实际可执行权利和剩余用途修改预期。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 10,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2700,
+            2993
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R19",
+      "title": "交换比例、用途及市场调整分开",
+      "kind": "author_concept",
+      "author_claim_paraphrase": "作者说交易增加用途、交换价值为数量比例，并用市场议价及已卖必已买说明供需相等。",
+      "evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2999,
+            3017
+          ],
+          "source_segment_sha256": "87b3cdb9354f0bfc296ec4c4fb51d248b834ac15440cba5f4ec272349a9c8ec1",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3069,
+            3096
+          ],
+          "source_segment_sha256": "fcfae89b06965eb1d0d5f86ad5c3b42136fdb00996f0f39474850ce3e726ff51",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3134,
+            3163
+          ],
+          "source_segment_sha256": "c2b1c20996b9ab79541fbbeb2313634c00a390eb94c0f651c3ddf5a742dff2f6",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "品质单位",
+        "日期价格",
+        "供需意愿",
+        "市场条件"
+      ],
+      "abstain_when": "缺可比口径不认证价格关系。",
+      "modern_extension_boundary": "已成交数量恒等不能独自证明所有未成交意愿清空，是本次独立逻辑质疑。证券的未来权益仍需另定，本章没有股票估值模型。",
+      "cross_challenge_revision_evidence": "需求、信息、约束和成本证据修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2994,
+            3244
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R20",
+      "title": "劳动经供给与需要联系价值",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "投入很多不保证有价值；获取更多的劳动条件影响供给，再影响新增需要与交换。",
+      "evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3165,
+            3240
+          ],
+          "source_segment_sha256": "3a779853b2ee278a9ef4b3fae1b1f24946ec3392289957cd1f6a63c40c45e040",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "成本",
+        "产出量",
+        "实际需求",
+        "可取得供给"
+      ],
+      "abstain_when": "不能以历史投入抬升无人要物的价值。",
+      "modern_extension_boundary": "不冒称已驳倒所有其他价值理论。",
+      "cross_challenge_revision_evidence": "真实用途、供给和需求变化改变关系。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 11,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            2994,
+            3244
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R21",
+      "title": "货币材料、面额与兑付身份分开",
+      "kind": "author_concept",
+      "author_claim_paraphrase": "交换媒介与计价有便利，但材料价值、法定面额和兑换承诺不同。",
+      "evidence": [
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3271,
+            3343
+          ],
+          "source_segment_sha256": "5515bb0aeecdccc6b6ccd5806acc22ddbcf17668075902c8c5fa916e5f83d97a",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3345,
+            3374
+          ],
+          "source_segment_sha256": "f920a6bc9630b4ac49d02976cf08ab8b086f4185f3b249ba9ca00cbe40ad2f7c",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3401,
+            3450
+          ],
+          "source_segment_sha256": "130089a9e5367aca0202eb078d5e79c6956eb6c68b8b4acf4782a3fcec5293cd",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "制度",
+        "材料",
+        "接受",
+        "法律范围",
+        "兑付"
+      ],
+      "abstain_when": "缺制度不套古金币限额，缺兑付不保证券等现金。",
+      "modern_extension_boundary": "原书不可兑券不能直接等同现代法币。",
+      "cross_challenge_revision_evidence": "实际执行、购买力和制度证据修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 12,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3245,
+            3454
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R22",
+      "title": "信用安全需期限、担保和责任",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "作者说借贷可配置资源，银行依客户存提款交错而放贷，并警告抵押贷款可能无法迅速收回；票据兼涉信用、到期与追索。",
+      "evidence": [
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3460,
+            3483
+          ],
+          "source_segment_sha256": "0927a1204ff3dabd2523efa15715c04671251562d7e9bc485eb6738bbe7fb002",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3502,
+            3530
+          ],
+          "source_segment_sha256": "64103d04cf44e4ead396508d5f11b0590b15f682302fdda4209f7e0f5846ff51",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3559,
+            3623
+          ],
+          "source_segment_sha256": "d4b65b8cada418d0c01f56043d6f63988f71bbf2cc15285cca540b8526f22ab6",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3651,
+            3723
+          ],
+          "source_segment_sha256": "7b623c5c5885e421ac4eef9e2904d5a90e4df32f5f05bab8863a8cd2777ecde6",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": true
+        }
+      ],
+      "required_inputs": [
+        "合同日期",
+        "负债撤回",
+        "担保",
+        "客户结构",
+        "责任"
+      ],
+      "abstain_when": "本版票据末段有疑点，精确法律链弃权。",
+      "modern_extension_boundary": "普通交错收付不能被当成排除共同提款风险，需与第十四章危机同读，这是本次分析；好票据名称不是永久安全，原付款角色冲突仍须弃权。",
+      "cross_challenge_revision_evidence": "实际回款、损失、共同提款及底本核准修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 13,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3455,
+            3627
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R23",
+      "title": "泡沫链可分析，周期图不是定时器",
+      "kind": "author_mechanism_plus_unverified_hypothesis",
+      "author_claim_paraphrase": "作者描述信心、催缴、借款、利率、迫售和信用传染，提出近十年及太阳猜想并承认不规则。",
+      "evidence": [
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3651,
+            3723
+          ],
+          "source_segment_sha256": "7b623c5c5885e421ac4eef9e2904d5a90e4df32f5f05bab8863a8cd2777ecde6",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3741,
+            3768
+          ],
+          "source_segment_sha256": "df6839204280cf31c92fed6f69a77f98f753d9e1e3bb9af9f51955647a07d474",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3770,
+            3823
+          ],
+          "source_segment_sha256": "5d1d239a73cfa7f942aa3e205df2883e0355c34eff391eb7f29aa65b3c5fd313",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "项目承诺",
+        "借款",
+        "资金期限",
+        "需求",
+        "样本定义"
+      ],
+      "abstain_when": "缺机制输入不判阶段，月份/十年不触发决策。",
+      "modern_extension_boundary": "太阳、日历及逆势建议未经现代验证，原表不作训练真值。",
+      "cross_challenge_revision_evidence": "统一事件样本、当时可知数据及反例改变机制或周期权重。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 14,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3628,
+            3878
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R24",
+      "title": "政府管理要逐案权衡",
+      "kind": "author_policy_position",
+      "author_claim_paraphrase": "作者承认国家与服务不同，集中信息和网络可能省力，管理和退出成本可能抵消。",
+      "evidence": [
+        {
+          "chapter": 15,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3902,
+            3984
+          ],
+          "source_segment_sha256": "4c6ac5b3c2ec9d4788277ae582dd659276069de808284063f05b6d36b9b9b45b",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "服务范围",
+        "费用",
+        "质量",
+        "组织",
+        "退出"
+      ],
+      "abstain_when": "缺同口径比較不认证公私优劣。",
+      "modern_extension_boundary": "原时代国别评价不是现今事实。",
+      "cross_challenge_revision_evidence": "实际网络、服务及成本资料可改变结论。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 15,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3879,
+            3988
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R25",
+      "title": "税额不等于实际负担",
+      "kind": "author_argument",
+      "author_claim_paraphrase": "征税需看能力、确定、便利及额外损失，付款者与负担者可能不同且难识别。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            4019,
+            4144
+          ],
+          "source_segment_sha256": "9c1b3013c69311601979d73c19799a8c390f132d65ce6e2f86951795c77bd47f",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        }
+      ],
+      "required_inputs": [
+        "税基",
+        "实际转嫁",
+        "期限",
+        "收入",
+        "征收成本"
+      ],
+      "abstain_when": "缺完整口径不认证公平或给当代税务意见。",
+      "modern_extension_boundary": "历史税负与从价税反对未独立验证。",
+      "cross_challenge_revision_evidence": "真实负担、估值流程和执行费用修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 16,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3989,
+            4249
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    },
+    {
+      "id": "P05-R26",
+      "title": "贸易用途与金属调整需核支付条件",
+      "kind": "author_policy_position",
+      "author_claim_paraphrase": "作者反对保护关税与把金银积累当国家富裕，主张进口须以货物或金属支付，金属稀少可通过价格影响进出口。",
+      "evidence": [
+        {
+          "chapter": 16,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            4146,
+            4220
+          ],
+          "source_segment_sha256": "00d7949a714131e8f0367e6f427e3703a1f4bbbdff487798512ee61fb74a1a03",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": false
+        },
+        {
+          "chapter": 4,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            1260,
+            1301
+          ],
+          "source_segment_sha256": "46aede7fdc430e0e31e5ae570683ebd9babcd182abe3729fb3c8d0b470e37289",
+          "hash_method": "未经换行归一化的原始CRLF字节行区间，含指定两端行，保留末行换行",
+          "locator_precision": "独立审核后手选精确文本行片段；不是纸本逐页字形核验",
+          "external_reference_not_new_vote": true
+        }
+      ],
+      "required_inputs": [
+        "商品需求",
+        "资源",
+        "支付制度",
+        "账户口径",
+        "期间"
+      ],
+      "abstain_when": "缺跨期融资与调整资料不认证每期进口都增就业。",
+      "modern_extension_boundary": "这一商品/金属论证须与转业和信用限度并读，是本次跨章分析；现代跨期国际收支与就业判断是独立扩展，原书没有逐期账户模型。",
+      "cross_challenge_revision_evidence": "资本流、支付、成本、收入及压力证据修正。",
+      "empirical_validation_status": "未独立校准为现代投资规律",
+      "numeric_parameters_enabled": false,
+      "current_stock_decision_enabled": false,
+      "chapter_scope_evidence": [
+        {
+          "chapter": 16,
+          "source_file": "work/book-experts-v5/index_team/P05/source/original.txt",
+          "source_sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+          "lines_inclusive": [
+            3989,
+            4249
+          ],
+          "locator_precision": "完整原章范围；具体论证段见章节稿，不假称扫描页证"
+        }
+      ]
+    }
+  ],
+  "system_prompt": "你代表Jevons的Science Primers Political Economy这一本1880扉页版本，不是The Theory of Political Economy或作者全部思想。已完成十六原章及第1–100节、完整前言的取回文本语义审读，引用固定SHA文本的一基行号。把作者定义、政策主张、历史材料、未验证假说、未解来源问题与现代独立分析分别输出。先核用途、数量、转移、生产等待、权利、分配及支付条件；缺必要输入给具体弃权。保留第二章与第四章转业、第二章与信用恢复资金时滞、工会安全与计件健康等书内修订。作者慈善/殖民/原住民强归因明确归作者，不能把贬抑叙事认证为事实。第十四章十年图、月份和太阳热量猜想未成为已验模型；不做日历自动买卖或填成功概率。第十三章票据付款次序有待核问题，不能静默换人名或认证详细法律责任。古税制、币制及所有历史数字不作现今规则或精确参数。本次未接入合格行情输入，股票决策未启用，不输出买卖价、真实机构流或未运行回测。回应跨书质疑时比较相同对象、制度和时间，接受合同、需求、成本、现金流、失败者样本、福利与原始史料更新；共享危机案例和同作者意见不计独立验证。",
+  "required_common_inputs": [
+    "对象与来源日期、币种、单位、覆盖",
+    "实际用途及供给/需求条件",
+    "生产过程、资本形态及回收期间",
+    "权利、准入与真实合约",
+    "收益成本及失败样本",
+    "金融承诺、期限、担保与可兑现性"
+  ],
+  "output_contract": {
+    "fields": [
+      "结论条件",
+      "作者依据",
+      "已核输入",
+      "缺项与弃权",
+      "原书修订与冲突",
+      "跨书质疑及修正证据",
+      "现代扩展说明"
+    ],
+    "abstention_is_required_on_missing_necessary_inputs": true,
+    "source_conflicts_must_be_visible": true,
+    "stock_recommendation_disabled_for_this_archive": true
+  },
+  "unresolved_source_limits": [
+    "第十三章示例票据前后付款角色表述待底本核对",
+    "初版1878属书目记录核验，未扫描初版；实际扉页1880明确",
+    "全部历史数值没有逐项核原统计或扫描",
+    "太阳热量、月份、十年周期未验证",
+    "没有把原书税币法律当今日法"
+  ],
+  "cross_book_vote_policy": "外部参考不是本书新增规则票，重复历史案例不算独立实证。",
+  "final_qualified": true,
+  "precise_evidence_segment_count": 49,
+  "precise_unique_evidence_segments": 45
+}

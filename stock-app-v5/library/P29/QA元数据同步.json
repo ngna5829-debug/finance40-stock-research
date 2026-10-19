@@ -1,0 +1,32 @@
+{
+  "book_id": "P29",
+  "operation": "Post-QA status metadata reconciliation only; no new full semantic review claimed.",
+  "independent_QA_file": "work/book-experts-v5/value_team/P29-QA.json",
+  "independent_QA_SHA": "a9650ae6cfd11547240ac47dededb0fa45542282f3e4806afe43488c05181a28",
+  "QA_semantic_status": "pass_after_corrections_with_source_limits",
+  "old_hashes": {
+    "专家定义.json": "a049a984fc4ea44118dc1b9a65ee5c7d19659e59d24ac47973edbff3f4ba9542",
+    "专家说明.md": "d64bf335d1c8ab4e4bc33bdd61b3999586726301a450c128a1012bd3e248b398",
+    "全书综合与附录.md": "d9dedbb0260930a789adc06bcc56a0f4e683b8318662a777d14ecb6c939c22ea",
+    "章节与阅读审计.json": "441e40876365740485025631f3e5e57cea3cd7f589f23b74b675f92bbf8c99a3",
+    "validation.json": "e83befa5f68caec8a7ce44fd062866d189e0e78a99288d12556246eaf871b87b"
+  },
+  "current_hashes": {
+    "专家定义.json": "9728aa7b0e31a050694506982b0aa62bc3321c22217d7b49ff443f360ba54bdf",
+    "专家说明.md": "281dbc041e09f0b7b4e74bf3f4347a8d6e5599d1241496eaa13796896d5bfb8d",
+    "全书综合与附录.md": "6ac1403fbc8976d93bfba874da043e93a05b9d8fe76d6e48b87b7b3691e0c744",
+    "章节与阅读审计.json": "b8a532b7f7e121481c59424416cbaaa2477221336b005084cb642fd37be10461",
+    "validation.json": "43a5320980f92027a1579dae57a6f1bab4014574d8922fd4ad07d0d7ceeaeab7"
+  },
+  "rule_list_sha_before": "545d8cd44e09c7f09904dd13459b4bf4ac60c2f962119f4201fe1aad42ffb375",
+  "rule_list_sha_after": "545d8cd44e09c7f09904dd13459b4bf4ac60c2f962119f4201fe1aad42ffb375",
+  "all29_rules_unchanged": true,
+  "source_and11dossier_hashes_unchanged_and_match_peer_QA": true,
+  "changes": [
+    "expert knowledge_status only",
+    "expert explanation and synthesis QA status sentences only",
+    "validation/audit QA status and artifact references only"
+  ],
+  "dependency_note": "Peer QA artifact_hashes reflect review-time snapshot. Final reading audit references immutable peer QA hash. This record maps status-only current files without cyclic rehash.",
+  "updated_utc": "2026-10-12T14:04:28.117700+00:00"
+}

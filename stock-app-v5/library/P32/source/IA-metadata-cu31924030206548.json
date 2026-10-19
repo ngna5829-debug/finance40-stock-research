@@ -1,0 +1,255 @@
+{
+  "alternate_locations": {
+    "servers": [
+      {
+        "server": "dn710102.ca.archive.org",
+        "dir": "/0/items/cu31924030206548"
+      },
+      {
+        "server": "dn760004.eu.archive.org",
+        "dir": "/0/items/cu31924030206548"
+      }
+    ],
+    "workable": [
+      {
+        "server": "dn710102.ca.archive.org",
+        "dir": "/0/items/cu31924030206548"
+      },
+      {
+        "server": "dn760004.eu.archive.org",
+        "dir": "/0/items/cu31924030206548"
+      }
+    ]
+  },
+  "created": 1791822054,
+  "d1": "ia600708.us.archive.org",
+  "d2": "ia800708.us.archive.org",
+  "dir": "/2/items/cu31924030206548",
+  "files": [
+    {
+      "name": "__ia_thumb.jpg",
+      "source": "original",
+      "mtime": "1653666795",
+      "size": "15107",
+      "md5": "0c90acd370f0478fe31e30168284dbe6",
+      "crc32": "387c0198",
+      "sha1": "34fb860668b72128553d00d95bae6b44e958d52e",
+      "format": "Item Tile",
+      "rotation": "0"
+    },
+    {
+      "name": "cu31924030206548.djvu",
+      "source": "derivative",
+      "format": "DjVu",
+      "original": "cu31924030206548_djvu.xml",
+      "md5": "880393bb1b60395ce9a1fa7f1e1fd4b4",
+      "mtime": "1258322446",
+      "size": "5035201",
+      "crc32": "f5deb3ed",
+      "sha1": "847ac94bfc8ca01ea94a9260a2e0d955aa014cd7"
+    },
+    {
+      "name": "cu31924030206548.gif",
+      "source": "derivative",
+      "format": "Animated GIF",
+      "original": "cu31924030206548_jp2.zip",
+      "md5": "b8a2b4eb420ee6bbf576da42a6689fb2",
+      "mtime": "1258316044",
+      "size": "185082",
+      "crc32": "af4ec8a0",
+      "sha1": "ab33b94f746c5577d464f5c8d6f009619e4cf0d6"
+    },
+    {
+      "name": "cu31924030206548.pdf",
+      "source": "derivative",
+      "format": "Text PDF",
+      "original": "cu31924030206548_djvu.xml",
+      "md5": "6c6d3d7747b6a1355c7572d3697a97b7",
+      "mtime": "1258323582",
+      "size": "8020302",
+      "crc32": "a2ab030d",
+      "sha1": "c41888fee3531ae46184c605d6e2c16667364be6"
+    },
+    {
+      "name": "cu31924030206548_abbyy.gz",
+      "source": "derivative",
+      "format": "Abbyy GZ",
+      "original": "cu31924030206548_jp2.zip",
+      "md5": "59443092be0813b479dc642cda64f297",
+      "mtime": "1258321405",
+      "size": "9899617",
+      "crc32": "916c3795",
+      "sha1": "6ec6f5a2cf9c313280af76162bbf3670cff41d67"
+    },
+    {
+      "name": "cu31924030206548_archive.torrent",
+      "source": "metadata",
+      "btih": "6d32bcde671e116cb4b49805dff897b13fa8edf9",
+      "mtime": "1653666814",
+      "size": "18324",
+      "md5": "72e350ef9fd76b928095e9fc7ebe8383",
+      "crc32": "72cbd004",
+      "sha1": "cfa39ce541690ef0ec562d88e4e3b1ae02aeedf1",
+      "format": "Archive BitTorrent"
+    },
+    {
+      "name": "cu31924030206548_cubook.zip",
+      "source": "original",
+      "format": "Raw Cornell Book Zip",
+      "md5": "ef63b92a73fa69060fa1c767d4d15194",
+      "mtime": "1219740114",
+      "size": "188318668",
+      "crc32": "17b966fb",
+      "sha1": "fb1ba2d17860553dd3610a40ed1de77426e0d69e",
+      "filecount": "1939"
+    },
+    {
+      "name": "cu31924030206548_dc.xml",
+      "source": "original",
+      "md5": "f1b9bc768fbd43147d02645eb755c3bd",
+      "format": "Dublin Core",
+      "mtime": "1653666785",
+      "size": "1147",
+      "crc32": "04746f85",
+      "sha1": "00dece3482f89c4b4d42faafe16944f053787072"
+    },
+    {
+      "name": "cu31924030206548_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "cu31924030206548.djvu",
+      "md5": "d4cc4588b8d5f39b6e32fec78eb75f03",
+      "mtime": "1258323597",
+      "size": "673539",
+      "crc32": "4f3b506c",
+      "sha1": "178398aa69226270c3af18f316187176233fafc0"
+    },
+    {
+      "name": "cu31924030206548_djvu.xml",
+      "source": "derivative",
+      "format": "Djvu XML",
+      "original": "cu31924030206548_abbyy.gz",
+      "md5": "4378157f242ebd501a1e2a01e8fe9dee",
+      "mtime": "1258321714",
+      "size": "6022263",
+      "crc32": "14f6e67",
+      "sha1": "4210eeb1ee0222372cd0d738610ef5c2d55070f1"
+    },
+    {
+      "name": "cu31924030206548_files.xml",
+      "source": "original",
+      "format": "Metadata",
+      "md5": "7dfa2729d7ae77b866c9d3d7f3955338",
+      "summation": "md5"
+    },
+    {
+      "name": "cu31924030206548_jp2.zip",
+      "source": "derivative",
+      "format": "Single Page Processed JP2 ZIP",
+      "original": "cu31924030206548_cubook.zip",
+      "md5": "f04b07f4e475adddff2571ab8b4e8e35",
+      "mtime": "1258316020",
+      "size": "167122723",
+      "crc32": "d85de144",
+      "sha1": "317dbba759bcce4d75c35a330bb47c4d34ce62dd",
+      "filecount": "480"
+    },
+    {
+      "name": "cu31924030206548_marc.xml",
+      "source": "original",
+      "md5": "9adf98cd4e54ce1f6ed2e88b2c27f550",
+      "format": "MARC",
+      "mtime": "1186724218",
+      "size": "3667",
+      "crc32": "875ca630",
+      "sha1": "432f80b270628bfeffb3e4c0e03209f195f457c9"
+    },
+    {
+      "name": "cu31924030206548_meta.mrc",
+      "source": "original",
+      "md5": "1772cb5f4cc08ee43322d0980c87cb3d",
+      "format": "MARC Binary",
+      "mtime": "1186724216",
+      "size": "1030",
+      "crc32": "fdf15f5f",
+      "sha1": "6f5196ebc685c6b810277d1ec371f8a46bc8e8f3"
+    },
+    {
+      "name": "cu31924030206548_meta.xml",
+      "source": "original",
+      "format": "Metadata",
+      "mtime": "1781268219",
+      "size": "2272",
+      "md5": "06dc0cc70ffe325e4fd19db189e4f370",
+      "crc32": "e9ca84d1",
+      "sha1": "60033d5a596f7e936742b0482c65460ce522d2d0"
+    },
+    {
+      "name": "cu31924030206548_scandata.xml",
+      "source": "derivative",
+      "format": "Scandata",
+      "original": "cu31924030206548_djvu.xml",
+      "md5": "1b1ff08cb2039564d87fd3359dce0f82",
+      "mtime": "1258321728",
+      "size": "169939",
+      "crc32": "60dd24e5",
+      "sha1": "cf4d2c5ec161e10b3bc6cfe7fe8da38d2bb3f4d7"
+    }
+  ],
+  "files_count": 16,
+  "item_last_updated": 1781268219,
+  "item_size": 385488881,
+  "metadata": {
+    "mediatype": "texts",
+    "collection": [
+      "cornell",
+      "americana"
+    ],
+    "title": "The stock exchange from within",
+    "identifier": "cu31924030206548",
+    "uploader": "hank@archive.org",
+    "addeddate": "2009-11-05 01:18:23",
+    "identifier-access": "http://www.archive.org/details/cu31924030206548",
+    "identifier-ark": "ark:/13960/t0sq9fw8g",
+    "sponsor": "MSN",
+    "contributor": "Cornell University Library",
+    "description": [
+      "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+      "\"31st thousand. First printing, Jan., 1913 ... Fourth printing, Feb., 1914.\"",
+      "\"Appendix: The report of the Hughes Commission of 1909\": p.[413]-446",
+      "5 p.l., 3-446 p., 1 l., 447-459 p., 1 l. 19 cm"
+    ],
+    "camera": "EOS 1Ds MKII",
+    "lcamid": "123456",
+    "rcamid": "123456",
+    "operator": "nkoflanovich",
+    "scanner": "Kirtas APT 2400",
+    "ppi": "300",
+    "creator": "Van Antwerp, William C. (William Clarkson), 1867-1938",
+    "publisher": "Garden City, N.Y. : Doubleday, Page & Company",
+    "date": "1914",
+    "subject": [
+      "New York Stock Exchange",
+      "Stock exchanges"
+    ],
+    "language": "eng",
+    "imagecount": "480",
+    "bookplateleaf": "0003",
+    "ocr": "ABBYY FineReader 8.0",
+    "scandate": "20070810060420",
+    "foldoutcount": "0",
+    "repub_state": "4",
+    "publicdate": "2009-11-15 22:20:06",
+    "filesxml": "Wed Mar 17 12:08:42 UTC 2010",
+    "backup_location": "ia903604_12",
+    "openlibrary_edition": "OL24183546M",
+    "openlibrary_work": "OL255952W",
+    "oclc-id": "6267293"
+  },
+  "server": "ia800708.us.archive.org",
+  "uniq": 151070022,
+  "workable_servers": [
+    "ia800708.us.archive.org",
+    "ia600708.us.archive.org"
+  ]
+}

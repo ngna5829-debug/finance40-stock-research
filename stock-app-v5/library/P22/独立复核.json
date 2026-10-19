@@ -1,0 +1,404 @@
+{
+  "book_id": "P22",
+  "status": "passed_with_source_limits_final_status_hash_confirmation_recorded_separately",
+  "pending_final_peer_hash_confirmation": false,
+  "independent_peer_full_QA": "independent-review/P22-independent-QA.json",
+  "independent_peer_QA_SHA256": "c962a8e80313e14822a4ed3349bfe4b2b03b8bc1721dc11e33a07b9a57d25eb5",
+  "whole_source_chapters_dossiers_rules_semantic_reviewer": "index_books",
+  "root_review_scope": {
+    "book_id": "P22",
+    "reviewer": "root",
+    "role": "focused new evidence, related originals, rule semantics and global/metadata review; index_books is independent whole-book reader",
+    "completed_utc": "2026-10-13T16:22:58.578097+00:00",
+    "all27_added_evidence_occurrences_actually_read": true,
+    "new_distinct_complete_supplied_PG_blocks_actually_read": 26,
+    "added_block_ids": [
+      "P22-ch04-P0021",
+      "P22-ch04-P0042",
+      "P22-ch05-P0038",
+      "P22-ch05-P0039",
+      "P22-ch05-P0040",
+      "P22-ch05-P0063",
+      "P22-ch05-P0065",
+      "P22-ch05-P0069",
+      "P22-ch05-P0070",
+      "P22-ch05-P0071",
+      "P22-ch05-P0072",
+      "P22-ch07-P0018",
+      "P22-ch09-P0008",
+      "P22-ch10-P0140",
+      "P22-ch11-P0014",
+      "P22-ch11-P0015",
+      "P22-ch11-P0016",
+      "P22-ch09-P0065",
+      "P22-ch09-P0066",
+      "P22-ch07-P0019",
+      "P22-ch14-P0113",
+      "P22-ch14-P0166",
+      "P22-ch14-P0169",
+      "P22-ch14-P0170",
+      "P22-appendix-P0006",
+      "P22-appendix-P0007"
+    ],
+    "additional_complete_original_blocks_actually_read": [
+      "P22-ch05-P0062",
+      "P22-ch05-P0064",
+      "P22-ch05-P0066",
+      "P22-ch05-P0067",
+      "P22-ch05-P0068",
+      "P22-ch05-P0100",
+      "P22-ch05-P0101",
+      "P22-ch05-P0102",
+      "P22-ch05-P0103",
+      "P22-ch05-P0104",
+      "P22-ch05-P0105",
+      "P22-ch05-P0106",
+      "P22-ch11-P0053",
+      "P22-ch11-P0055",
+      "P22-ch11-P0056",
+      "P22-ch11-P0057",
+      "P22-ch11-P0065",
+      "P22-ch11-P0066"
+    ],
+    "all13_evidence_updated_rule_semantic_fields_actually_read": true,
+    "rule_ids": [
+      "P22-R11",
+      "P22-R13",
+      "P22-R14",
+      "P22-R16",
+      "P22-R23",
+      "P22-R28",
+      "P22-R36",
+      "P22-R37",
+      "P22-R40",
+      "P22-R48",
+      "P22-R54",
+      "P22-R57",
+      "P22-R58"
+    ],
+    "whole_candidate_synthesis_and_current_explainer_actually_read": true,
+    "all17_required_correction_groups_and_once_only_merge_script_reviewed": true,
+    "raw_original_HTML_preface_context_actually_read_lines": [
+      390,
+      439
+    ],
+    "isolated282_actual_read_and_origin_unresolved": true,
+    "original_cover_image_actually_viewed": "source/images/book.jpg",
+    "whole14original_source_and_dossiers_third_read_claimed": false,
+    "all276contexts_or60rules_third_semantic_read_claimed": false,
+    "separate_full_UTF8_third_read_claimed": false,
+    "all33tables_third_cell_read_claimed": false,
+    "same_edition_original_scan_obtained": false,
+    "all_original_print_glyphs_proofread": false,
+    "reading_boundary": "Entire supplied PG semantic blocks are distinguished from raw HTML line spans with adjacent tags. Historical extraction zero-orphan and pre-read false preserved separately, isolated282 not silently dropped. Mechanical byte/hash checks do not add semantic reading."
+  },
+  "required_corrections_merged": [
+    {
+      "id": "P22-QA-C01",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R11",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch04-P0021",
+        "P22-ch04-P0042"
+      ],
+      "reason": "美国不承认垄断与州排他安排并存的应用边界需两处原证，现四paragraph_evidence未含它们。"
+    },
+    {
+      "id": "P22-QA-C02",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R13",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch05-P0038",
+        "P22-ch05-P0039",
+        "P22-ch05-P0040"
+      ],
+      "reason": "原分类导语P0037没有三个标签，需同时列实际个人/地方/行业标签。"
+    },
+    {
+      "id": "P22-QA-C03",
+      "kind": "complete_contract_evidence_context",
+      "rule_id": "P22-R14",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch05-P0063",
+        "P22-ch05-P0065",
+        "P22-ch05-P0069",
+        "P22-ch05-P0070",
+        "P22-ch05-P0071"
+      ],
+      "reason": "保完整合同联合P0062–P0070及紧随解释，原片选P62/P64/P66–68不足表示合同全文，不虚称每条片段独自全合同。"
+    },
+    {
+      "id": "P22-QA-C04",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R16",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch05-P0072"
+      ],
+      "reason": "应用边界的纯成本强句/ICC非唯一张力需作者原P72和ICC第四规则双边原证。"
+    },
+    {
+      "id": "P22-QA-C05",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R23",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch07-P0018"
+      ],
+      "reason": "边界同时保长期成功和巨型失败，四十余公司方案三月失败的原证P0018须补，原四锚未含。"
+    },
+    {
+      "id": "P22-QA-C06",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R28",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch09-P0008"
+      ],
+      "reason": "规则应用边界保留原表单位/分母异常，现P7/P12/P14引用未含P8异常表，需表格原证。"
+    },
+    {
+      "id": "P22-QA-C07",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R36",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch10-P0140"
+      ],
+      "reason": "作者字段有法人授权限制，需补Kent特定授予/必要附带powers原段P0140，不只公众征用/补偿段。"
+    },
+    {
+      "id": "P22-QA-C08",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R37",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch11-P0014",
+        "P22-ch11-P0015",
+        "P22-ch11-P0016"
+      ],
+      "reason": "多次转授需McGregor每一轮原记录；原P6/P7/P10/P18不足展现具体连续转授。"
+    },
+    {
+      "id": "P22-QA-C09",
+      "kind": "crosschapter_numeric_evidence",
+      "rule_id": "P22-R40",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch09-P0065",
+        "P22-ch09-P0066"
+      ],
+      "reference_source_sections": [
+        "ch09",
+        "ch11"
+      ],
+      "reason": "应用边界明确前章数字差，应具前章gross表与net/mile段及ch11表双边原证，保两不同数字不选一。"
+    },
+    {
+      "id": "P22-QA-C10",
+      "kind": "crosschapter_tension_evidence",
+      "rule_id": "P22-R48",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch05-P0072",
+        "P22-ch07-P0019"
+      ],
+      "reference_source_sections": [
+        "ch05",
+        "ch07",
+        "ch13"
+      ],
+      "reason": "自定价格盈利推定与先前亏本运输张力，需保作者两处亏本原例的跨章原段，不仅当前P35/P37。"
+    },
+    {
+      "id": "P22-QA-C11",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R54",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch14-P0113"
+      ],
+      "reason": "Author field includes inspection service. P0112 only specifies director and bureaus; examination of reports, office/books entry and boarding trains are in P0113."
+    },
+    {
+      "id": "P22-QA-C12",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R57",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-ch14-P0166",
+        "P22-ch14-P0169",
+        "P22-ch14-P0170"
+      ],
+      "reason": "Safety appliances and the crime-story caution need direct equipment requirement, the P169 Hastings accident claim, and P170 block/continuous brake; current evidence only covers casualty table, rest and other aspects."
+    },
+    {
+      "id": "P22-QA-C13",
+      "kind": "complete_multi_claim_paragraph_evidence",
+      "rule_id": "P22-R58",
+      "existing_meaning_correct": true,
+      "needed_additional_PG_paragraph_ids": [
+        "P22-appendix-P0006",
+        "P22-appendix-P0007"
+      ],
+      "reason": "US/UK different reporting periods claim needs UK December31 1891 heading and specified source, not just the table beginning Mileage."
+    },
+    {
+      "id": "P22-QA-C14",
+      "kind": "source_character_count_basis_clarification",
+      "path": "章节与阅读审计.json",
+      "old_source_UTF8_chars": 920695,
+      "proposed_additions": {
+        "source_UTF8_chars_basis": "Python universal-newline-normalized UTF8 text; original downloaded bytes preserved",
+        "source_UTF8_raw_decoded_characters": 937496,
+        "source_UTF8_newline_normalized_characters": 920695,
+        "primary_semantic_reading_source": "complete supplied PG HTML semantic blocks",
+        "full_UTF8_separately_re_read": false
+      },
+      "reason": "920695 and source manifest 937496 count different newline representations; no source replacement is required."
+    },
+    {
+      "id": "P22-QA-C15",
+      "kind": "primary_representation_reading_boundary",
+      "path": "全书综合与附录.md",
+      "old": "所读主源是PG29294完整HTML与UTF-8文本，",
+      "new": "所读主源是PG29294完整HTML的语义块；完整UTF-8下载原文亦保留并核对哈希，没有将两种表示各自全文重读。",
+      "reason": "The source manifest already explicitly says full_UTF8_separately_re_read=false; avoid an ambiguous claim that two representations were separately fully read."
+    },
+    {
+      "id": "P22-QA-C16",
+      "kind": "historical_pre_reading_artifact_boundary",
+      "path": "章节与阅读审计.json",
+      "proposed_additions": {
+        "historical_source_artifact_states": [
+          {
+            "artifact": "source/extraction-coverage-audit.json",
+            "preserved_stage_field": "all_original_source_read=false",
+            "interpretation": "Preparation-stage extraction record. Keep raw artifact bytes and SHA unchanged. Current complete semantic reading is recorded in newer chapter/nonchapter/independent QA records; this historical false is not a new unread section claim."
+          }
+        ]
+      },
+      "reason": "Retain the source folder original/derived historical bytes, while explaining its preparation-stage false flag explicitly."
+    },
+    {
+      "id": "P22-QA-C17",
+      "kind": "raw_HTML_residual_coverage_limit",
+      "path": "章节与阅读审计.json",
+      "proposed_additions": {
+        "raw_HTML_residual_review": {
+          "actually_read_raw_HTML_context_lines": [
+            390,
+            439
+          ],
+          "head_title_residual": {
+            "html_line": 78,
+            "text": "The Project Gutenberg eBook of The Railroad Question, by William Larrabee.",
+            "classification": "HTML document title metadata"
+          },
+          "body_residual": {
+            "html_lines": [
+              423,
+              426
+            ],
+            "text": "282",
+            "classification": "isolated bare number in PG body wrapper between complete preface paragraphs; origin/meaning not established without same-edition scan",
+            "read_actually": true,
+            "author_prose_missing": false
+          },
+          "original_source_bytes_not_changed": true,
+          "previous_extraction_orphan_count_zero_is_not_an_independent_certification": true
+        }
+      },
+      "reason": "Independent reconstruction finds two residual tokens outside the1826 semantic blocks: HTML title metadata and isolated body-wrapper282. The latter was actually read with entire preface context390–439; origin/meaning unresolved and TXT omits it. Preserve original HTML/TXT and old extraction ledger, do not repeat orphan_count=0 as current independent finding."
+    }
+  ],
+  "strict_chapter_body_han": {
+    "1": 2630,
+    "2": 2450,
+    "3": 2337,
+    "4": 2313,
+    "5": 2469,
+    "6": 2466,
+    "7": 2339,
+    "8": 2271,
+    "9": 2474,
+    "10": 2911,
+    "11": 2270,
+    "12": 2327,
+    "13": 2348,
+    "14": 3512
+  },
+  "body_han_total": 35117,
+  "minimum_chapter_han": 2270,
+  "rule_count": 60,
+  "exact_semantic_paragraph_occurrences": 276,
+  "unique_semantic_paragraphs": 270,
+  "unabridged_reference_contexts": 60,
+  "source_PG_blocks": 1826,
+  "raw_HTML_residuals_explicitly_separate": true,
+  "original_and_preexisting_source_integrity": {
+    "source/source-manifest.json": "c3c48ef7a4636556a439b83bfd1fc17f722d2edb68243e5cf44766bc436d8ae3",
+    "source/downloaded.html": "8edaa8b9576a7766f1d1d65bfa0879b80f72abf344c10ef15ce7a0a30906cc99",
+    "source/ch08.txt": "f0bf0993fdc04962c20b02059e7d1372cdaae7ea2a141a5d13914e16bfc6259c",
+    "source/page-anchor-ledger.json": "c45cad0c03ab1c620be32bc5a078dddab6472668c2ea927656b5af5696288382",
+    "source/ch09.txt": "c060cad69067927b3208716ce3331188b910bf68a15a8f07bee1e1e948ce703a",
+    "source/PG-license.txt": "e777fbc21cecb981f2d68b41ea937ac5418e7d17d20661e99068ef4914e6ef65",
+    "source/index.txt": "48207f24218c310dcbeee72165abb28a36928243205207d2a60a0a8c0428df67",
+    "source/numeric-review-ch06.json": "ec31b96693b4891c4e43a8c65034ff162c49f854dccdba03aed627495f662362",
+    "source/page-evidence-ledger.json": "fc79c9c7418635e5fe60f251fe5937906c7234c3305aa49f0933a8656fb36377",
+    "source/source-internal-review.json": "af87e015a1f7f64fc5b3a10e93579f515cf5638194a7270dc23cb00e2a8de344",
+    "source/all-33-tables-transcribed.json": "471bea8bce3472091f0e951d999cba2c3e58a8e6940cf049d5e23a3987a6f2cc",
+    "source/paragraph-ledger.json": "33270bf62c4f7783258780f1a967815738bc6d039ed30ef2b407a009f453e9c3",
+    "source/nonchapter-reading-audit.json": "959d9ee109bff3a0acb4b80143d05e71fd3562bb8c89bd156e24814f9dfcc586",
+    "source/front.txt": "d74c5cd6c1229c31f14aa7387e63b01688c7b7405780e9f9e6ef8e489a60eb84",
+    "source/ch02.txt": "787b05b5de89a1bbae4be0e7ac5adf1b3b5dc6dcc4f09478a08b9ee719ca19bd",
+    "source/transcriber.txt": "7f38c42e5b7bf6210333f54284c42fe14f2bc61d3e5da73165038c32114b63c6",
+    "source/ch03.txt": "acaf438271b93d77867547ffba545fd4676614c98df03438b8e341caacb3b216",
+    "source/ch01.txt": "9596c2da42f8df400c8f19668d8b6b389b9589b179b5049c456e851f76377f10",
+    "source/appendix.txt": "6e733a24cfea415c6ea90c31ef6c5c2bcff68f0a39a58e83cd530462328dcd8b",
+    "source/full-source.txt": "bc1160888147798783d4210156d8cf9ed5e054dc31db7c7f582f4943804219c4",
+    "source/ch14.txt": "3c323f1f145062e5420946327697c7d04b4ce256c2467b319bc7465a177102f1",
+    "source/ch04.txt": "2584ed4d8969287f809891996604eb466b84e05962a8f7ad6b5d56fa5f31732a",
+    "source/ch10.txt": "2fb833188e40b04fa79183b2952cbcae686849089fbbafe53d8bbc0630c09a9e",
+    "source/extraction-coverage-audit.json": "95f7f054ec289f93125f362fd7c1ab8d3f64874ddea2d4c8a82969b43d488fe5",
+    "source/ch11.txt": "ffddd0447d3c5132e426169eeebe9db5a3ef4950c218a06d0102f6b4985381de",
+    "source/ch05.txt": "ece7c4ad995da674ac9148610727e96ab6276048d2f0e8dde16a9fcbe32f885e",
+    "source/ch13.txt": "a9f8515c53da2ec549903e89e99dfcf3b9eb000a5307511f082fb721e9c90c46",
+    "source/ch07.txt": "b4d9ec2a2cb2dce5a6c6de75132ad7621bdb38a3269967518a04e50ae7fa0c6d",
+    "source/numeric-review-ch02.json": "cc9600aa8479e3862efebdbe4b4ae7cce3f26162da118bbea114735ea6de3fe1",
+    "source/ch06.txt": "3991e76834ffbaac45a8125ac3c4520e90234af87f3c97cc738c5f720570d2e5",
+    "source/ch12.txt": "a5709f9bd2e3cc15806f1f10aac50d6adb281d8e8a613d76d9857c85b4fb1421",
+    "source/images/book.jpg": "20f2acfeb30bf87c05be04d0a55c1bb8f3625ea93aee4bb02176c9de37b4a177"
+  },
+  "chapter_integrity": {
+    "ch01.md": "a649f4df1e687de643446496fcb33ecfc754316f565a52707c623bdf5994f51b",
+    "ch02.md": "c1f2d9cab3a0ed20f0cdb9e652e4cb016c04b1a98cd05dce7e55f3c073620989",
+    "ch03.md": "375b6653c9dab64243489d7c28c93ecdc06013c8ca16929d44458b79a7a65a63",
+    "ch04.md": "5631056dd41ac352b585868fa9c55fee5acedec1fdcfe1441c32c25a96eb0819",
+    "ch05.md": "054793390a26b1acb1b980431a2876b66eab90d17d43af7c55f7faa74ac5e70d",
+    "ch06.md": "10dda43e9e568e335d91fa211636ad721f9ccd9be24b405d3e2202923b369be3",
+    "ch07.md": "ea8ae1c07c8f4b3aae585e3460e7a97e6cb81ece24f783120c3659ba61183989",
+    "ch08.md": "5380ccce37a0226ff5593dc95e4832bedfce8946e738be1e58b26d185c3e00b8",
+    "ch09.md": "ffaed51b5471d4e9a3e59451526c1aa0c835b3464e958b9332c59343897368b0",
+    "ch10.md": "b631db8365df662d9f227f5aea241e98cbcb9606db65a51c0729aa3fc195cd3b",
+    "ch11.md": "95c6774a05cf2a3fcbae0dcb37b9cab1d01cfb87d7050b7e89e137b39e7b5227",
+    "ch12.md": "6c03b87fe89a398641b57382035a30a3046590467a8d5f8bad5fbc0e13e1d10b",
+    "ch13.md": "45f9f3c0177b06d914d113d954b5c7c57db43bb9f732f43c733769f5982d1b05",
+    "ch14.md": "af24af56e29cdd7eb88a8d369d57153d50773a99df1e70f3827426924e1b36c8"
+  },
+  "expert_SHA256": "ced29d75bb8de61a39ff2a9f4324849c28065844bab1aa64a9917f789d2cd990",
+  "audit_SHA256": "47a300ce79c8e8805f90f927a6c3cabcc25304327845d54bb1e9e0c06a3bfc1b",
+  "all_original_scan_glyphs_verified": false,
+  "full_UTF8_separately_re_read": false,
+  "current_market_invocations": 0,
+  "backtest_executed": false,
+  "predictive_probability_calibrated": false,
+  "created_utc": "2026-10-13T16:23:02.785692+00:00",
+  "qualified_pass": true,
+  "content_confirmation": "independent-review/P22-merged-content-confirmation.json",
+  "final_status_hash_confirmation": "recorded_separately_after_peer_metadata_only_confirmation",
+  "updated_utc": "2026-10-13T16:28:59.256013+00:00"
+}

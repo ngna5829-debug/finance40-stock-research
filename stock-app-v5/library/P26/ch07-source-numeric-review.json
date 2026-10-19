@@ -1,0 +1,81 @@
+{
+  "book_id": "P26",
+  "chapter": 7,
+  "original_coin_footnote_visually_read": {
+    "silver_azen": 528.5,
+    "approx_Troy_grains": 392,
+    "American_standard_silver_dollars_printed_1_05_halfcent": 1.055,
+    "riksdaler_gulden1608_1622": 2.4,
+    "riksdaler_gulden_after1622": 2.5,
+    "stuyvers_per_gulden": 20,
+    "historical_approximations_not_independently_recalibrated": true
+  },
+  "ordinance1609": {
+    "deposit_min_gulden": 300,
+    "small_silver_max_percent": 3,
+    "bill_payment_threshold_gulden": 600,
+    "threshold1643_gulden": 300,
+    "commission_percent": 0.025,
+    "commission_fraction": 0.00025,
+    "outside_receiver_transfer_days_max": 3
+  },
+  "recepisse": {
+    "months": 6,
+    "renewal_percent": 0.125,
+    "renewal_fraction": 0.00125,
+    "no_redemption_and_no_renewal_causes_expiry": true,
+    "renewal_not_equated_to_current_contract": true
+  },
+  "market_support_agio_percent": {
+    "buy_when_falls_to": 4.25,
+    "sell_when_rises_to": 4.875,
+    "range_percentage_points": 0.625,
+    "fraction7over8_visually_confirmed": true,
+    "not_unconditional_redemption": true
+  },
+  "accounts_source_disagreement": {
+    "Smith": 2000,
+    "Mees_prefers_Oudermeulen": 5000
+  },
+  "annual_city_income_gulden": {
+    "1781": 266000,
+    "1784": 28000,
+    "1609_1796_stated_average": 65500,
+    "not_single_year_comparable_return_rate": true
+  },
+  "specie_estimates_gulden_not_exact_observations": [
+    300000000,
+    400000000,
+    800000000,
+    900000000,
+    60000000
+  ],
+  "Smith_estimate1775_gulden": 33000000,
+  "1795_report_city_debt_gulden_approx": 9250000,
+  "public_obligations_security_gulden": 8850000,
+  "difference_between_two_claim_amounts_not_wholebank_shortfall": 400000,
+  "1795_report_missing_total_bank_money_and_specie_not_invented": true,
+  "1760_expected_vs_actual_specie_gulden": {
+    "expected": 30000000,
+    "actual_barely": 10000000,
+    "approx_coverage": 0.3333333333333333,
+    "not_exact_all_futureyears": true
+  },
+  "Oudermeulen_hypothetical_1779": {
+    "existing_million": 25,
+    "pure_credit_added_million": 5,
+    "hypothetical_VOC_interest_percent": 3,
+    "not_actual_transaction_proven": true
+  },
+  "failure1791_vs_legal_closure1819_vs_final_settlement1820_distinguished": true,
+  "reconstruction_financing": {
+    "1791_authorized_million": 6,
+    "1795_1796_raised_million_range": [
+      7,
+      8
+    ],
+    "announced1802_citydebt_discharged_not_full_ledger_verified": true
+  },
+  "historical_legal_redemption_right_disputed_not_resolved_as_current_law": true,
+  "all_historical_inputs_not_current_stock_factors": true
+}

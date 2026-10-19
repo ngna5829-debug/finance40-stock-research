@@ -1,0 +1,52 @@
+{
+  "candidate": "work/book-experts-v5/practical_team/P38-post-rate-unit-grammar-clarifications.json",
+  "all7ChangesActuallyReviewedAndApplied": [
+    {
+      "chapter": 7,
+      "old": "原书千元百分之四三年、十年和五十年",
+      "new": "原书千元以年利率百分之四投资三年、十年和五十年",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 7,
+      "old": "百分之三四年对应",
+      "new": "年利率百分之三、四年对应",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 8,
+      "old": "投入一千、百分之七五年",
+      "new": "投入一千、年利率百分之七、五年",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 8,
+      "old": "二万五千五年百分之八的预付现值",
+      "new": "每年二万五千、五年、年利率百分之八的预付现值",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 8,
+      "old": "每年末三千、百分之四五年",
+      "new": "每年末三千、年利率百分之四、五年",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 8,
+      "old": "每年一万五千、年利率百分之八十年",
+      "new": "每年一万五千、年利率百分之八、十年",
+      "current_literal_found": true
+    },
+    {
+      "chapter": 8,
+      "old": "Savo四美元、百分之三、增长零点二",
+      "new": "Savo四美元、要求率百分之三、增长率百分之零点二",
+      "current_literal_found": true
+    }
+  ],
+  "sourceRatesPeriodsAndAllOriginalFilesUnchanged": true,
+  "chapter7Han": 3687,
+  "chapter8Han": 3762,
+  "bookHanAtCorrection": 75350,
+  "wholeIndependentQA": "still_in_progress"
+}

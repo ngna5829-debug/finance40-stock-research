@@ -1,0 +1,1494 @@
+{
+  "book_id": "P35",
+  "reviewer": "value_books independent peer",
+  "status": "full_original_semantic_peer_review_complete_required_corrections_pending_not_accepted",
+  "whole_book_semantic_review_complete": true,
+  "canonical_modified": false,
+  "original_all_glyphs_visually_collated": false,
+  "current_market_model_calls": 0,
+  "source_snapshot": {
+    "source/extras-plan.json": "b26275264cb510e863a20197c6a698a303eac90c28acb74e1e0159787acabec1",
+    "source/original.txt": "565cd66e9648f88bf99f05dfff4c08e130e4a040199c5bb04b207da5b4c35191",
+    "source/full-PG-license.txt": "5c9294041de4080a1a448e23119fa13bb69bbada42476bb914ff8ed30b616808",
+    "source/IA-metadata.json": "fbcb6783de3e215e33d0041da6293b4f131e3fdc8fcb4a613dc08b9a492eb002",
+    "source/frontmatter.txt": "2707fb2a48cf0745029417eda801d9b93f471e8f28e569a35f44ea38fc08614e",
+    "source/appendices-and-transcriber.txt": "30db5e03ac6cd2a2f0e29b51db95bba7d585c47d20cf10c8c190effbad76f418",
+    "source/original-1915.pdf": "902928b1d200c612da6918c9ef512b8411805617106ed93ee9344f406c3dc8b2",
+    "source/appendix-A.txt": "7fac88a6bba3ffe12542510a92c77f019d11b56f56cdf5838a89e6b2e76d2559",
+    "source/IA-search.json": "af81395e58d5f93eed02a8cfa539cceda7e3390144d0b6dcb1e1e3b6960f3a74",
+    "source/appendix-B.txt": "2aac1a37ed1ba4898e536ed1cc9ddc1937616c1f0fa4e90bb9b3bf44fef88794",
+    "source/scan-pages.json": "50bbc2cd39de3896584060eeace82784db10809c75b1fc6caa8d0103a3818a5d",
+    "source/original.html": "b5a6442a7939e759e63e562b4fbf511a9596296fea67b57c72b9239f87ec34e0",
+    "source/chapters/ch23.txt": "a0edcd6e2bc9c9c3ec2005989357c4a85b739a9355795fa4bd1fa10639bca0d2",
+    "source/chapters/ch22.txt": "724caa8bdee660a4f2272baea280964a1ed3891602b99cce2eaf58981c4a1422",
+    "source/chapters/ch20.txt": "f5bcb0f3e6230469d84933fe2f495269d05386b5d24c0489524c3e3200149dcf",
+    "source/chapters/ch08.txt": "c98f74957a34a05428106da870348f2fda2453f644d664e225be2f67481b7c9d",
+    "source/chapters/ch09.txt": "0e331f5495474930060e47e53ba12027a30ff1cd046c016f86a84216ce74cdfd",
+    "source/chapters/ch21.txt": "bd5f0cb690916aede9b4d12b3d6c715493e05c8432962e5feede2612ee3545c8",
+    "source/chapters/ch19.txt": "d1e9a35e6b16ff091ba21b6cd86d2da82aaf4ec8f14897b7218e3c831eaca39c",
+    "source/chapters/ch18.txt": "ad2edd825f70fd48bae8c282c5baef2eea4740d8756ffa0a1f07bf1b953634a5",
+    "source/chapters/ch16.txt": "3c78194a7efad9f44ce5cf09e81c58196febc60ec135e12b9b60777d03d62112",
+    "source/chapters/ch02.txt": "bfced6f0482e3f009c6b263e5e660d957708086c6c256f058508c62f4b8d82a2",
+    "source/chapters/ch03.txt": "3c89ec97b0a13550c7af781d7899e88e774dbcb9ff14423419297ec3e78de505",
+    "source/chapters/ch17.txt": "73b4738b4c33f2cbcb26ba1ade092465ab2d70737f6d7aaac1ba8ca44fee0d7a",
+    "source/chapters/ch01.txt": "81f04d2848cec7841a568cbf7e90895cef6802496b3b63a71081679e8b8342c8",
+    "source/chapters/ch15.txt": "44a200ec2989cc36d7729ae0791906d86e6f8ea879e48bbad86e112787732d68",
+    "source/chapters/ch14.txt": "09d707e68cf87b0b48c2e22f2520a50b76e3c8e2a6156639719fb7afe30f1716",
+    "source/chapters/ch04.txt": "26c908a375bc4c322e3dd14f705878de0ec9084d6ca3a96066ab3624d75688d5",
+    "source/chapters/ch10.txt": "aa80b0e885fa82fc23c58be93400b77097c9c6fca28369dd23509b4a703b40dc",
+    "source/chapters/ch11.txt": "364b7b529584f1adc8d315b66f867c9eacb21bf69282f93613600f99b02b8b64",
+    "source/chapters/ch05.txt": "0f1ab58e626c5c32e328280cb060cd07960bc8b6abb7607cc7cb12120c4541eb",
+    "source/chapters/ch13.txt": "65ac0fd78d78f5d5f499add2f2c137e2d9c603dd1b0be88bf01d044ec2c00004",
+    "source/chapters/ch07.txt": "2b0ee58905b4a73ffa3c1c8c2b3715814d24a5ef4cd0f69679d50a69a670d589",
+    "source/chapters/ch06.txt": "c79d506d55b11452820e011ccaa524999fde3a87b7522b90dd1fb9e3733268ab",
+    "source/chapters/ch12.txt": "cd9fcbc6fd0e9728d452799308d590a9664372dfea0cca2fcd33bc340889e30f"
+  },
+  "review_time_expert_sha256": "520adec2413974eaecc94841073188764dfd25ac133f3fd237bc3b4229cbd3fd",
+  "review_time_audit_sha256": "e23c77c0f93f1d197e3869b374bcf36b976a086dbb3f7886af75f6be19ac933a",
+  "reviewed_front_back": [
+    {
+      "file": "source/frontmatter.txt",
+      "character_ranges_actually_read": [
+        [
+          0,
+          10000
+        ],
+        [
+          10000,
+          18487
+        ]
+      ],
+      "actual_read_complete": true,
+      "sha256": "2707fb2a48cf0745029417eda801d9b93f471e8f28e569a35f44ea38fc08614e",
+      "notes": [
+        "Prefacecreditpreexistsbanking/wealthmobilization; banknotcreatecredit intrueconnotation claimnotdenialofloan-depositentry. Reserveproportionsnotabsolutegoldcounts;claimedjointstockandBOEproportionscannotbothhighwhilesimultaneouslending, notexternalproof.",
+        "Puredepositsvsloan-deposits segregatesborrowerobligations/callpower; noautomaticallnettableimmediatecash assumption. Panicpsychological remedyknowledge commonsense vsmechanicalfixedratio authorargumentnotmodernregulatedliquidityfact.",
+        "Entirepreface/23chaptercontents/PGfrontcreditsread. Feb1915publicationtime notpostwar outcome; compulsorycurrencyinflow/state-responsibility argument conditionalbanksoundnationalservices.",
+        "Durablewealthbest vs transient; confidencepsychologicalnationalgreatness contrastedtradable loanfundcredit, satirical1/1.5%confidence quotes notactualinterestcontracts.",
+        "Nofinancialpanic/goldraidsbutgreatestfinancialcrisis rhetoricnotclaimzerostress; governmentwisdom/nationaltraitsfuturevictoryoptimism authorsvoice notindependentcausalproof. PGrightsUSA scope only/1915book,2025digitalreleasedatenotbookyear."
+      ]
+    },
+    {
+      "file": "source/appendices-and-transcriber.txt",
+      "character_ranges_actually_read": [
+        [
+          0,
+          6582
+        ]
+      ],
+      "actual_read_complete": true,
+      "sha256": "30db5e03ac6cd2a2f0e29b51db95bba7d585c47d20cf10c8c190effbad76f418",
+      "notes": [
+        "Entirebothappendices/printer/transcriberremarksactuallyread. AppendixAJune24,1914normalreturnnotannualtimeseries; actualoriginalPDF245allnumericentriesread, 3sumsbalance, reserve47⅛possibleeighthpointapproxnotgivenalgorithm.",
+        "EntireAppendixBreportedChamberlain/LloydGeorgequotedviewsreadbothPGandoriginalPDF246–248; debateFeb23 notcertainnewspaperpublicationdate; MorningPostreportnotfullHansarddebateorcompleteMorningPostissue.",
+        "Bothwantlargecentralgoldreserve then emergencyUSE, true-notartificialpaperneed/safelimits, foreseeablecrisisconvictionnotallfutureguarantee; six/twelvemonthfuturetrade strainnotknownoutcome.",
+        "PrinterClowesLondonBeccles andfullPGtranscriberchangespunctuation/spelling/simpletypos/quotes/ditto rule allread. Noexternalbookswhole-readcounted."
+      ],
+      "actual_original_PDF_images_viewed": [
+        245,
+        246,
+        247,
+        248
+      ]
+    },
+    {
+      "file": "source/full-PG-license.txt",
+      "character_ranges_actually_read": [
+        [
+          0,
+          10000
+        ],
+        [
+          10000,
+          18464
+        ]
+      ],
+      "actual_read_complete": true,
+      "sha256": "5c9294041de4080a1a448e23119fa13bb69bbada42476bb914ff8ed30b616808",
+      "notes": [
+        "FullPGlicense/endmarker sections1A–F,2–5actualread;trademark/freeoriginalformat/fulllicense/off-USlaws/limiteddefectwarranty/mission/donation/materialtextnotbookbodycount. Noassertioncurrentinternationaluniversalcopyrightoractualdonation/communication."
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_file": "source/chapters/ch01.txt",
+      "source_characters": 15311,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          15311
+        ]
+      ],
+      "source_sha256": "81f04d2848cec7841a568cbf7e90895cef6802496b3b63a71081679e8b8342c8",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R01",
+        "P35-R02"
+      ],
+      "semantic_findings": [
+        "Original0–8000read only, notwholechapter. Moneydefinitionsdisagree laymanunitcurrencyvscommodityexchange; historicaliron/cattle/dearnessscarcity vs lifepreservation/ethics authorillustrative/generalizednoprovidedhistoricalrecords.",
+        "Customexchangevslegallytax/debtdischarge arbitraryratio;diamondnotlegalinstrument doesnotsettlecurrentconsensualpayment law. Twofunctions mediumexchange/standardvalue;claimscommunityproduce/commongoods market notphysicaluniformallocation.",
+        "Entire15311charssource/Chinese2844Han/2rules nowfullread; no mandatorycoremeaningmisinterpretation.",
+        "Product-contributiondistribution onlyhypothesis andpracticalnotjust/perfect explicitlypreserved; starvation/parasite judgment notfactualpersonclassification. Govtpermanentclaims vslegalchangeforeigncommodity conditionaltension saved notpurchasingpowerguarantee.",
+        "Rescuetickets butcher/baker thenreimbursement fromanotherfund notpapercreatesgoods/fundadequacy verified; watchvoluntarybarternotgeneraleverymerchantmandatoryacceptance.",
+        "Sovereignlegalformstamp/goldweight vscommodity/metal legal-nation-specific role, silver£2/bronze1shilling historicallimitnottoday; currentBOEprimarylegal-tender narrowdebtmeaning pageactuallyopenedfullmaincontent updatedFeb26,2025 confirmsmodernboundary butnotall1915statutes checked.",
+        "Outsidebodyheader22chaptersunread isoldauthorstagefile;finaldossiermustlabelhistoricalorresolveafterwholebook independentreview."
+      ],
+      "dossier_sha256": "9b28504597fe3550772be780ef44e1c652bca8995c58bda19fbf56e61227626d"
+    },
+    {
+      "chapter": 2,
+      "source_file": "source/chapters/ch02.txt",
+      "source_characters": 12128,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          12128
+        ]
+      ],
+      "source_sha256": "bfced6f0482e3f009c6b263e5e660d957708086c6c256f058508c62f4b8d82a2",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R03",
+        "P35-R04"
+      ],
+      "semantic_findings": [
+        "Onlyfirst8000originalcharsread, actualsourcecontinues;noentirechapterclaim. LombardStreetlendingnotabsolutetransfersameasapples, organismnophysicalspecificmarket.",
+        "200deposit2.5% vs4%borrowgross1.5pointspreadnotnetprofit;200goldto1000/2000loans nophysicalgoldmultiplication, credit/moneynamedispute. Potential10/20cashvs200demand/run illustratesmaturity/cashrisk.",
+        "100demand/100deposit-notice differentiatewithdrawalrights;borrowerrecall andcollateralConsolssale couldgetcash contingentnotprovedalwaysprompt.",
+        "Remainingsource8000–12128/wholeChinesechapter2dossier(countnotyetindependentlyrecomputed)/R03–04 nowfullread; no mandatorycorewealth-account conceptualmisreading found.",
+        "Loanbackedexistingwealth vsfinancialrequestcreation notphysicalgoldnew; authorabsolutebanksneverunsecured opinion notcurrentfact; mansionmightnotsell/losscancontradictinstantrealization/buyoutsalelegalclaim.",
+        "Chequesacceptedbanktrustnot intrinsicpaper/realcoinsproof, nolegaltender; contractualnoticevsneverinsistingreputationrisk explicitlyundeclareddata missing noforcedcash0.",
+        "PrimaryBOE2014publishedabstractactualopened/read only, notfullpdfpaper; matchesmodernbankdepositcreationvsintermediation/fixedmultiplicationboundary separatelynotWalltext.",
+        "R03厘 wordingambiguous andspreadpointunit shouldexplicit2.5%paid4%loan /1.5percentagepoints; chapterbody利差一点五 similarlyclarify. R04counterexamplefuture22notyetread bythispeer—mustcross-sourceafteractual22read."
+      ],
+      "dossier_sha256": "4e79d4df5e5bc5957f1db816b36f6bc64e6a44de993b8b0e656fdfd8c1cf3d01"
+    },
+    {
+      "chapter": 3,
+      "source_file": "source/chapters/ch03.txt",
+      "source_characters": 12605,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          12605
+        ]
+      ],
+      "source_sha256": "3c89ec97b0a13550c7af781d7899e88e774dbcb9ff14423419297ec3e78de505",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R05",
+        "P35-R06",
+        "P35-R07"
+      ],
+      "semantic_findings": [
+        "Only0–8000originalread, remainder/Chinese/rules not yetread. Allinitial£sd tablevisible digitalentriesread; cumulative/liability distinctions mustkeepauthorized30mvsissued3m/reservefund1.125m/investedreserve≠cash.",
+        "37.583m owedcurrent/deposit includesnewloandeposit; author explicitlyEveryloanmakesadditionaldeposit despitecreditsemanticdispute, notdenyingbankbookkeepingexpansion.",
+        "Cashinhand/BOE5.996mvs11.671maggregateincludingcalls,highestsecurities/acceptancescollateral/shortnoticeloans merelyexpectedrealizationnotinstantcashproven.",
+        "Billbrokersdiscountprice/banklowerprice wordingmustpreservewhatprintednotquietlyconvertprice todiscountrate beforecriticaloriginalimage; nofinalmeaningjudgment yet.",
+        "Entire12605sourcechars/wholeChinese/R05–07nowfullread; originalPDF47/48wholeimagesreadbothbanktablesall£sd cells and35000stockparenthesis; noexternalbankidentity/report-dateverified.",
+        "Requiredchapter3typo三万stock sourceandoriginalimage£35,000Stock=三万五千英镑, not30000. Mainnumericaltotals/cash-call/investment£sd arithmeticpreserved; authormispricingwording notquietlyrecastdiscountrate.",
+        "Largest16.218mover37.583mdeposit43.15% notliteral50%; best-qualityassets/claimsymmetrynotcashcurrentlyavailable. Oppositeacceptancesagainstclientsnotcompleteoffsetdifferentpayees/dates.",
+        "Author callsmostloan/similarassets leastliquidand riskbiggerpresumably withsize vs societalcapitalutility notnecessarysafe;customcurrencyvsgovtnoteslegal/partialconvertibilitylegislativerole andpaniclimits preserved.",
+        "R04/R06future22frozenassets caveatstillunread andmustconfirmwithactualoriginalbeforecrosslink."
+      ],
+      "dossier_sha256": "f76b8326f4fd550e83f4515dbd02ca31440b32a1547adb75b4e344f3cca6ac44",
+      "original_full_images_actually_viewed": [
+        47,
+        48
+      ]
+    },
+    {
+      "chapter": 4,
+      "source_file": "source/chapters/ch04.txt",
+      "source_characters": 13784,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          13784
+        ]
+      ],
+      "source_sha256": "26c908a375bc4c322e3dd14f705878de0ec9084d6ca3a96066ab3624d75688d5",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R08",
+        "P35-R09",
+        "P35-R10"
+      ],
+      "dossier_sha256": "fd5ac35e1a32af9804fa51c005cb33556a450734214701e6473f37b8553cbee8",
+      "semantic_findings": [
+        "Social/intellectual/moral/financial credit actual whole distinction preserves own judgment/ability/willingness and means—nottitleorpovertyautomaticcreditratings. Grocer relation unsecured promise vs collateral conversion is author definition debate notclaimmodernsecuredloan no risk.",
+        "200 Consols author wealthier assertion separated gross assets/deposit liability/netwealth, R09 accurately confines independent double-entry hypothesis ratherthan author claim.",
+        "100000/500000/44mout45m unverified author estimates, custom/habit/wartime currencyacceptance andBOEultimateEmpire safety author rhetoric cannot cancel asset/liquidity risk; lackindividualdailycalculation not lack causal reserves.",
+        "No required conceptual reinterpretation; R08词誉 is unclear typo, should承诺与声誉, source explicitwordandreputation."
+      ]
+    },
+    {
+      "chapter": 5,
+      "source_file": "source/chapters/ch05.txt",
+      "source_characters": 10598,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          10598
+        ]
+      ],
+      "source_sha256": "0f1ab58e626c5c32e328280cb060cd07960bc8b6abb7607cc7cb12120c4541eb",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R11",
+        "P35-R12"
+      ],
+      "dossier_sha256": "fccc2630773e4589a4d011fdc01e371fd278347671045268e5d8bcba905c951d",
+      "semantic_findings": [
+        "Pure/loan deposits source-distinction cannot delete laterthirdpartyclaim; 15%aggregateandhalfloan→30%pure purelyassumeddenominator, no newcash or observedpurepercentage.",
+        "Authorlegislaturepossible freeze/noticehint explicitlynotpracticable/necessary/wise claim; R11希望修改 overstatesauthorstance andmustcorrect.",
+        "Collateralautomaticredeemable assertion versus ownlatergoodsecuritynotassuredmaturity preserved; notes may satisfycommercialbanklegalpaymentsnotguaranteeBOEgoldsystem.",
+        "Somebadwealthspeculative smallbankfailures notallfailuresorverifiedbanklist. R12人和坏财富 unsupportedpersonalcausalattribution shouldfaithfullysomebadwealthspeculation anduncertainborrowerrepayment.",
+        "Strongmanagement/publicwisdom/navyarmynationalconfidence rhetorichistorical,onecrisisprophetswrongnotpredictiveproof. WholechapterChinesebody largelyfaithful andseparates counterarguments. Oldoutsidebody全文仍未完成 stage mustarchiveafterwholecompletion."
+      ]
+    },
+    {
+      "chapter": 6,
+      "source_file": "source/chapters/ch06.txt",
+      "source_characters": 12805,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          12805
+        ]
+      ],
+      "source_sha256": "c79d506d55b11452820e011ccaa524999fde3a87b7522b90dd1fb9e3733268ab",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R13",
+        "P35-R14"
+      ],
+      "dossier_sha256": "e5e7cc1512c432e7c865b317755ff9df1101fac249e73531c42c50a48807d121",
+      "semantic_findings": [
+        "Wealthsuperstructurevscreditrock metaphor considersassetbackingbutnoriskguarantee—legalpermanentwealth notconstantpurchasingpower, callrightnotcashalreadyreceived.",
+        "Muttoncashsaleversusloanpledge temporaldutyneq;BOErediscounthighercostnotunconditionalaccess. Highestgovernmentcolonialothersecurities authorunverifiedassertionsnotfullissuerlist.",
+        "Callplusloansplusbills=28705095£11s3d, residue8878141£17s8d, cash/residue67.544% approximate; Chinese precise numerics recalc correct. Sourceassetgroupdeductionnotactuallytracepuredeposits ortransferredloanorigin, sourcewordingstrongclaims separatelyqualified.",
+        "Mandatorycross-referencefix: ambiguousbillprice belongsChapter3 notpreviousChapter5. Draft本章依赖上一章未解释清楚的price口径 shouldpoint第三章.",
+        "R13laterchapter7acknowledgement andR14chapter22freeze stilltoverifyafterfulloriginalreading."
+      ]
+    },
+    {
+      "chapter": 7,
+      "source_file": "source/chapters/ch07.txt",
+      "source_characters": 11710,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          11710
+        ]
+      ],
+      "source_sha256": "2b0ee58905b4a73ffa3c1c8c2b3715814d24a5ef4cd0f69679d50a69a670d589",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R15",
+        "P35-R16"
+      ],
+      "dossier_sha256": "3168a45c1c2ce1718a36bada5c904b2ba1718d2d77d4718175a5a061bc749331",
+      "semantic_findings": [
+        "800mdeposits/6dpoundfortieth hypothetical nothistoricalverifieddataseries; same6dpassed repeatedlynomoneyquantity/netproductionguarantee; productiveprofitableuse explicitassumption.",
+        "Capitalwealthdefinitions/currencyicewaterconversion metaphor not allclaimsdue matchedcash. QuotedCole/Tritton notreadtheirwholeworksororiginalpapers.",
+        "Profit10percentbank2or3 denominatorcannotquietlychange topercentageofprofit; feecontractmaypaywhennoprofit. Rateincrease sometimesdepression notfixedcausalstocksignal.",
+        "Explicitpureprofitscanoriginallycomefromformerbankloans confirmsR13/R16crosschapter7; sameaggregatepureincrease/loandecreasedemandquestionnotfullyansweredhere. WholeChinese/rules faithfullypreservehypotheses andvoice; noadditionalmandatorymeaningfix."
+      ]
+    },
+    {
+      "chapter": 8,
+      "source_file": "source/chapters/ch08.txt",
+      "source_characters": 13972,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          13972
+        ]
+      ],
+      "source_sha256": "c98f74957a34a05428106da870348f2fda2453f644d664e225be2f67481b7c9d",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R17",
+        "P35-R18"
+      ],
+      "dossier_sha256": "06c5658ef99b27325ee3ade8c23540c803f8940b0d8099fe7dad3a358e7f1959",
+      "semantic_findings": [
+        "15percentassumedhabit mostlyBOEnotes notnewregulatoryrule, dynamiccash/liabilityratio notconstant target necessarily. Pureautomaticcashinflowloanoutflow ismodel assumption requiringpaymentclearing/ownership chain.",
+        "Sameaggregatedepositsdifferentmix/cashanswerschapter7potentialquestion, bankleveloutflownotwholeeconomygolddestruction;morepotentialwhenlessdemandnotallcheapcapitalprojectsafe.",
+        "Month/half/yearend authorcallloans totaldepositscontract;explicitnotoneadditionalsovereignreservecanraiseproportion. R18收回金误将缩分母改成增加黄金, mandatoryfaithfulcorrection.",
+        "Chinesedossiermostlyfaithful allfullread; earlyquoteassumed总存款十五 require百分之十五 clearunit; standalone15/25quantityhypothetical separatelycorrect22.727%/13.636%.",
+        "Comparing50mreservebankvs15m requiresdenominator; authornotrejectallratio. Publicmispsychology claimsnotactualsurvey,bank-specifichabitnotmodernlaw."
+      ]
+    },
+    {
+      "chapter": 9,
+      "source_file": "source/chapters/ch09.txt",
+      "source_characters": 10237,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          10237
+        ]
+      ],
+      "source_sha256": "0e331f5495474930060e47e53ba12027a30ff1cd046c016f86a84216ce74cdfd",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R19",
+        "P35-R20",
+        "P35-R21"
+      ],
+      "dossier_sha256": "8bb1b81edd6610c1fcb084e6a36c134a17afdec50b1991b02170b184b4e09a35",
+      "original_full_images_actually_viewed": [
+        107,
+        109
+      ],
+      "semantic_findings": [
+        "1915privateownership/statefunctionsnotmoderninstitutionownership; jointstockreserveandclearingBOEotherdepositsrequiresdedupbankversusissuerclaims.",
+        "Postwarmeansmonthsafteroutbreakoriginalnotafter1918, dateexactunidentified. Bothdepartmenttablefulloriginalimage107readallnumerics, originalgovt21324358notPG21824358, originalbalanced183072505 vsPG+500000; sourceversionspreserved.",
+        "PDF109original32⅛actualread, reserve52911577/twodeposits32.0701% orwith7daybills32.0638%, possibleeighth-pointroundingnotknownalgorithm; proofexactweeklyrecordstillabsent.",
+        "Bankrate minimumdiscountrate plushalfpercentagepointforsecuredloan nottimes0.5%. Sourcealwaysableandwilling atprice strongclaimmuststayauthor_meaning, R21通常softensauthorwithoutsource; modernqualifyingchapter14onlyindependentboundary."
+      ]
+    },
+    {
+      "chapter": 10,
+      "source_file": "source/chapters/ch10.txt",
+      "source_characters": 11968,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          11968
+        ]
+      ],
+      "source_sha256": "aa80b0e885fa82fc23c58be93400b77097c9c6fca28369dd23509b4a703b40dc",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R22",
+        "P35-R23"
+      ],
+      "dossier_sha256": "6731b129099b11557d2f44db24910254e4f6181be187c8810fa19c1d9b070979",
+      "semantic_findings": [
+        "Nationalsolefinalreservemeaningnotliteralallcountryphysicalgoldzero elsewhere; reserveownliabilities40–50 vsallbanks1–3or4percent estimateddifferentdenominatorsnotfullobservedseries.",
+        "Newcentralloanliabilities ratiofall evennonewithdrawn andnotalwaysratehike, taxPublic/Otheroffset quarterlyflowsnotnewnationalcash. Internaldrainversusforeign different expectedreturnconditions.",
+        "Gold77s9doz historicalstatutoryprice unverifiedmodernlaw/nopurityinthischapter;GermanRussianwarplanpresumptiveclaimnotverifiedintent. Ratepreanticipationandforeignconditions explicitlynohardcausallaw.",
+        "R23otherlegalcurrencycouldobviatepenalizedtrade/depression, notexplicitlyreduceforeignborrowing; faithfulfixrequired. Modernindependentchannelcannotbequietlyauthormeaning.",
+        "Ch09specificfullmoney数是六百六十七 omits5996000 beforepound-unit; savefull5996667£14s8dwording correction withroundingcontext. Chapters11standardounce/19overseasgolddifferentlocation stillunreadbythispeer."
+      ]
+    },
+    {
+      "chapter": 11,
+      "source_file": "source/chapters/ch11.txt",
+      "source_characters": 12471,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          12471
+        ]
+      ],
+      "source_sha256": "364b7b529584f1adc8d315b66f867c9eacb21bf69282f93613600f99b02b8b64",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R24",
+        "P35-R25",
+        "P35-R26"
+      ],
+      "dossier_sha256": "60355ef4e9f576c06cb56bc4ab8075f2e1d140dcaac51f35c1d48eee9adc7fc7",
+      "original_full_images_actually_viewed": [
+        127
+      ],
+      "semantic_findings": [
+        "1844preexistingissue rightsMay6date, lapseand2/3noteincreasevssecurities historicalauthorlawnotwholeexternalstatuteverification. StandardounceexplicitunitconfirmsR22laterreference77s9d=3£17s9d.",
+        "Consumptionproductionwealthdefinitionandperfectelasticpaper system authornormativeandstrongriskclaim nottimeseriesvalidated;desirablepaperusage notautomaticnetresourcecreation.",
+        "PDF127wholeimageactualreadcontainsoriginal7434000andtotal18450000; arithmetic11015100+7434000=18449100diff900, earlierIXtable7434900→18450000. Bothoriginalnumbers/wordingkeep, notsecondPGtypo.",
+        "Authorquotesotherproposal sellsecurities/govtdebtbonds tocoverallgoldredemption, rejectsfeasibleatpanic andpersonallyremote/dream fullredemptionfear. R25mustattributeproposalvoice notplainauthormethod.",
+        "Policyactualorpotentialsuspension andatprice/solvent/healthysubjects essential; R26国家应帮复杂机器 too broad dropshealthy-solventgate. Samechapterwarcrisisno panic strongauthordoesnotprovednoinitialfinancialstress."
+      ]
+    },
+    {
+      "chapter": 12,
+      "source_file": "source/chapters/ch12.txt",
+      "source_characters": 14892,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          14892
+        ]
+      ],
+      "source_sha256": "cd9fcbc6fd0e9728d452799308d590a9664372dfea0cca2fcd33bc340889e30f",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R27",
+        "P35-R28",
+        "P35-R29"
+      ],
+      "dossier_sha256": "635096946ad01a53f083816e9409a4120729eb8892dd9e7a9eed028a755b9d62",
+      "original_full_images_actually_viewed": [
+        138
+      ],
+      "semantic_findings": [
+        "Enduringdemandfoodairnotitemphysicallife, lawgoldpermanenceconditionalmineralexhaustionunverified; stateinterventiondutytoconvertfinestinvestmentsorqualifyingbills contingentnotalreadycash.",
+        "CallhighestversusshortnoticeStockExchangesecurityquality different andpledgeownership!=specificbankclaimtransfer; finestacceptancesreputationnotindividuallyvalidated. Veryshortrenewableloansnoexactdays/unconditionalrenewal.",
+        "PDF138wholetableall£sdnumericcellsactualread;Drpure8908141£17s8d andcall5644476£5s1d vsCr5674476£5s1d=30000offset difference, notnewverifiedaccount. Cracceptances3153328£7s8d vsDr£7s11d causesCrsum45141049£7s11d 3dshortofdeclared£8s2d; bothprintedandPGsame.",
+        "Authorcompetition/shareholderpressureplusnationalizeperhaps normativepossibilitynotprovenbest; banks1914differentdividend/depreciation policies andunnamedmanagerquote separateunverifiedexamples.",
+        "WholeChinese/R27–29 preserveconditionalcashability/sourceclassification/numbersandauthorproposal voice; noadditionalmandatorysemanticfix."
+      ]
+    },
+    {
+      "chapter": 13,
+      "source_file": "source/chapters/ch13.txt",
+      "source_characters": 14382,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          14382
+        ]
+      ],
+      "source_sha256": "65ac0fd78d78f5d5f499add2f2c137e2d9c603dd1b0be88bf01d044ec2c00004",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R30",
+        "P35-R31"
+      ],
+      "dossier_sha256": "f40f5a5761af7aeb3b4d592dc913e9409a5b380670de873b1d26249512498a31",
+      "semantic_findings": [
+        "EntireColequotedlongargumentactuallyread; exceptpanic/goodbills/temporarycentralrecourse/timeadjustment notunlimitedeverysubjectscope. Wall deliberatelyincludespanic andarguesdefinitioncannotalwayselasticwithexceptions, notColeforgotpanic.",
+        "Cashfundvsdepositfunddifferent; +loans→+depositswithout+cashdoesnotspellmagicrecommendation, 50percentreductionhypotheticalnotrealstatistic. Banksuncertainty/lawconstraints widerthanassumedratioalone.",
+        "Goldalone vsalreadylegalnotes historicaltexttension faithfullydisclosed notsilentlyconsistent; proposedreuseemergencycurrency notuniversalexistingpermission.",
+        "WholeChinese/R30–31 faithfullyseparatevoices/time/state; minoropaque钢化 wordshould完整 preservecounterpartyqualification, noaddedmeaningclaim."
+      ]
+    },
+    {
+      "chapter": 14,
+      "source_file": "source/chapters/ch14.txt",
+      "source_characters": 14436,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          14436
+        ]
+      ],
+      "source_sha256": "09d707e68cf87b0b48c2e22f2520a50b76e3c8e2a6156639719fb7afe30f1716",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R32",
+        "P35-R33",
+        "P35-R34"
+      ],
+      "dossier_sha256": "f383e85f60465368d6507447a5bb711d377177dc833f8c9d022527d4bf2f6972",
+      "semantic_findings": [
+        "Sourceexplicitlydenies5percentalwaysdetrimental/2percentbeneficial; veryhighparticularlyprolonged undefinednotnumeric5threshold. R32五%有时长期 invents5classification anddropsdenial, mustrestore.",
+        "Interestcost/generalpricesnotsimultaneous/monocausal, assumeduniformnominalwages authorunverified, possiblecapitalstabilityhelppricesandstrikesnotonlycause. Germanyconquest/SouthAfricanmineclosurehypotheticalnotactualevent.",
+        "Goodbillsquantity/qualification andhighercost restrictcentralaccess—confirmsR21later14boundary; sourcewarloanswithconcurrentSouthAfrican/NewYorkgoldinflow, suspension/Treasurynotesquestionsnotassertedparticulargovtmeasure here. R34source_scope14 mustfaithfullyseparate.",
+        "AllChinesechapter14/R33othermeaningsactualread, preservesauthorstrongpositionsandcounterexamples; noadditionalchapterbodyrequiredmeaningcorrection."
+      ]
+    },
+    {
+      "chapter": 15,
+      "source_file": "source/chapters/ch15.txt",
+      "source_characters": 13248,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          13248
+        ]
+      ],
+      "source_sha256": "44a200ec2989cc36d7729ae0791906d86e6f8ea879e48bbad86e112787732d68",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R35",
+        "P35-R36"
+      ],
+      "dossier_sha256": "537b182a59e2912c966d2420e8f7994ee0909aa7ea99a5a9b0ebd89c5b6f8a0f",
+      "semantic_findings": [
+        "JohnBullcaricature/panicpsychiatricmetaphor notrealpatientorbehaviorprotocol; reserve15/20/30/40 noauthorrecommendedthreshold. 80/90mightnotrescue;30mightfailwhere31avert original-direction. R35reverses30safe31unsafe requiredfix.",
+        "AuthorcritiquesBagehot highbeforepanicthenlendduring bycallingcontradiction; modernindependentbefore/during distinctioncarefullynotclaimourreadingotherbookhere. Bagehotwouldmodify/racepsychologyhigher authorcounterfactual notactualrevision/predictiveprobability.",
+        "Governmentissuednotesconditions/freebankingnormativeresponsibilitynotpresentlegalauthorityorfullrescueguarantee; reservequalityandfundinggatesremain. WholeChineseR36 goodscope noadditionalmandatorybodymeaningfix."
+      ]
+    },
+    {
+      "chapter": 16,
+      "source_file": "source/chapters/ch16.txt",
+      "source_characters": 8678,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          8678
+        ]
+      ],
+      "source_sha256": "3c78194a7efad9f44ce5cf09e81c58196febc60ec135e12b9b60777d03d62112",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R37",
+        "P35-R38"
+      ],
+      "dossier_sha256": "4254b9f976f997b5b549cbd3287b7517dbaae10bdd158053027a2decdc48128c",
+      "semantic_findings": [
+        "1914–Feb1915观察no predictedpanic/ruin/employmentclaim notwholewarvalidated; navycounterfactualnotactualdestruction, saviournotnameddo notguessidentity.",
+        "Governmentrealcurrency/backinganticipationrole meansspiritual-onlymetaphor limited byactuallegaltool; noactualcrowdclamourforgold,anticipatednotobservedrun; actualtemporarywithdrawalsexplicitsource preservednotzeroflow.",
+        "20×£5=100sovereignhypotheticalnominalequalitynotuse-case/redemptionidentity;policy10percentrate units needplaincorrection十息 to百分之十 inChinese/R37.",
+        "R37–38othermeanings/data/abstentionfaithful; noactualforecastfailurefrequencydatasetorpredictivecalibration."
+      ]
+    },
+    {
+      "chapter": 17,
+      "source_file": "source/chapters/ch17.txt",
+      "source_characters": 13503,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          13503
+        ]
+      ],
+      "source_sha256": "73b4738b4c33f2cbcb26ba1ade092465ab2d70737f6d7aaac1ba8ca44fee0d7a",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R39",
+        "P35-R40",
+        "P35-R41"
+      ],
+      "dossier_sha256": "18219d715a15c997dedb7b9d94204ea06bcfa66d57e9f2bfafabd35ed0546d00",
+      "semantic_findings": [
+        "Unexpectednationalcrisisnotownfollysharednationbankburden vscommunityoverspeculationselfinflicted notuniversaltaxpayerreimbursement; single-goldcriterionbadassetscounterexample satire notbadassetrecommendation.",
+        "Twoactionsapprovedpremoratoriumacceptedbills/noholderrecourse/governmentBOElossguarantee separatecover-unprovidedacceptancefunding tooneyeaafterwarclose, futuredateunknown; allqualifications preservednotblanketdepositinsurance.",
+        "350mwarloan/busywarprovisioncottonstress/StockExchangeclosures/highqualityscarcity andgoldinflow explain cheaploanwealthmix, actualreturnsunverified. Loan1to2%/discount1.5to1.75% economicotherequalcontext notfixedtradingthreshold.",
+        "Goldpermanentlygone denialauthorstrongfuture/FXwillturnclaim qualifiedindependentnoevidence/calibration; sea-discard/minesstop hypotheticals notinstructions. R39 phrase国家无故意外 shouldclarifyunexpectednotownfolly; name施uster typo completeFelixSchuster."
+      ]
+    },
+    {
+      "chapter": 18,
+      "source_file": "source/chapters/ch18.txt",
+      "source_characters": 7046,
+      "source_read_ranges": [
+        [
+          0,
+          7046
+        ]
+      ],
+      "source_sha256": "ad2edd825f70fd48bae8c282c5baef2eea4740d8756ffa0a1f07bf1b953634a5",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R42"
+      ],
+      "dossier_sha256": "b7345ecb303da835b31701a129684302ba57f88c45c32c524187aae35ba1562c",
+      "semantic_findings": [
+        "Correlativereservestoliabilityratios notmodernstockcorrelationcoefficient; hierarchicalbankdependency notclaimcommercialBOEdepositsautomaticallyshrinkwithcentralcashratio.",
+        "Highphysicalgoldratio/bothbanksimultaneous whileexpandingloan limitedgoldinflow/borrowershift assumptions, legalpaperalternativeinpaymentnotphysicalgoldcreation. R42shouldseparategoldratioversuspaperproposal rather thanexceptionmaintaininggoldratio.",
+        "Foreigncredits/liabilitiesoffsetunmatchedmaturity/currency/partiesnotallnettable;sourceunemploymentwaslow Chinese就业仍低失业unintelligibleandcouldreverse should失业较低.",
+        "Wholechapter/rulepreservesnormativeversuslaw/dynamicalrisk/actualdataabstention; no calibratedelasticity/fund/goldflowoutcome."
+      ]
+    },
+    {
+      "chapter": 19,
+      "source_file": "source/chapters/ch19.txt",
+      "source_characters": 15949,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          15949
+        ]
+      ],
+      "source_sha256": "d1e9a35e6b16ff091ba21b6cd86d2da82aaf4ec8f14897b7218e3c831eaca39c",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R43",
+        "P35-R44",
+        "P35-R45"
+      ],
+      "dossier_sha256": "e544491654ef2a4125283f07386e5d6d1d00b193c60bbc20e1cd3b7706ec37d2",
+      "semantic_findings": [
+        "Supplementarylegalcurrencymechanism notunlimitedproductiongoldpromise;currencyasfreegovernmentloan meansinterestfree notnolaterobligationorcost. Nationalhiddenassets notcashalreadyobtainable.",
+        "Initiallyconvertiblenoteswithoutgoldbacking distinguishedauthorpublicconfidenceandpracticalavailability; eveningnewspaperquotecontrastedauthorpublicnotfrightened unsupportedbothvoicesnotmasssurvey.",
+        "SouthAfrica/Australia/Ottawa creditedgoldnotphysicallyLondon confirmsR22later19location caveat, £1/10slowdenomination/militaryneedsboundlocalpaymentresource.",
+        "Amplenotsuperabundance limitednoimprovidentoverissue; retainmechanismwarafteroutcometooearlytodogmatize, proposed50/60percentgoldnotabsoluteclincalline. Govtcredit/Consolssameissuer extraassetnotindependentrisk source; futurecreditif andGermanydeteriorationunverifiednationalisticforecast.",
+        "AllChinese/R43–45 preservevoicing/conditions/noadditionalmandatorysemanticfix."
+      ]
+    },
+    {
+      "chapter": 20,
+      "source_file": "source/chapters/ch20.txt",
+      "source_characters": 11726,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          11726
+        ]
+      ],
+      "source_sha256": "f5bcb0f3e6230469d84933fe2f495269d05386b5d24c0489524c3e3200149dcf",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R46",
+        "P35-R47"
+      ],
+      "dossier_sha256": "80dfa89141ced9d367a009b656e7fcee1d22639aea9a3825745ed603939f8521",
+      "semantic_findings": [
+        "Purefaith/personmoralcreditversusmaterialbankwealthcredit strongauthorhistoricalgeneralization notactualallbanksloangates; kitesgenuinetrade no currentlegalclassification fromlabelalone.",
+        "FullWithersquotedparagraphandWallrewordingactualread, notWitherswholebookhere; civilisationreceiver metaphor notliteralreceivership; nationalmoralranking/waralliesvictory authorstance not ourcreditfeature.",
+        "Productiondestructionconsumption/overproduce coexistnotnetwarwealthpositive; authorexplicitcannotconfidentlyestimatefuturemonthsnetresiduallossorrepairtime qualifierspreserved againstlaterstrongrevivallines.",
+        "EconomicconfidencevsLombardcreditabundant conflictrefersdifferentobjects, no single interchangeableindicator; moralvictorynotmonetizeddebtsettlementasset. AllChinese/R46–47 faithfullybound;noadditionalrequiredmeaningcorrection."
+      ]
+    },
+    {
+      "chapter": 21,
+      "source_file": "source/chapters/ch21.txt",
+      "source_characters": 11860,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          11860
+        ]
+      ],
+      "source_sha256": "bd5f0cb690916aede9b4d12b3d6c715493e05c8432962e5feede2612ee3545c8",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R48",
+        "P35-R49"
+      ],
+      "dossier_sha256": "d9d94599fe400748760c8658521161106a875d77be9c95c17c22cf8481de4342",
+      "semantic_findings": [
+        "Confidenceovernight1.5/week1.75percent satire notrealtradedconfidenceproduct;StockExchangedepressiontradeboom notpermanentinversecausalpredictor, nationalgreatnessandanonymousenemyintent unverifiedauthorrhetoric.",
+        "1907USdishonestyimpossibleBritain strongbiasedclaim/Baring/Moroccoothersenumerated not independentlycheckedfullhistories; actualsalesidentitynotdeducedOHLCV.",
+        "60percentsecuritiesadvance to lenders ofoutstandingJuly29loans, notnewborrowerspermissiveLTV; repaymentuntilpeace+oneyearORexpiryCourtsEmergencyPowersActearlierandnomeantimefurthermargin preserveallconditions differentfromch17acceptancecover.",
+        "Minimumsecurityprices/reopeningrestrictions notmarketexecutability/freepricefloorwithunlimitedbuyers; author earlysuccessjudgmentfinaltwo/threeyearviewunknown. WholeChinese/R48–49faithful noadditionalmandatorymeaningfix."
+      ]
+    },
+    {
+      "chapter": 22,
+      "source_file": "source/chapters/ch22.txt",
+      "source_characters": 11877,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          11877
+        ]
+      ],
+      "source_sha256": "724caa8bdee660a4f2272baea280964a1ed3891602b99cce2eaf58981c4a1422",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R50",
+        "P35-R51"
+      ],
+      "dossier_sha256": "500a3a77df7ee4d4f3f279c01f564ee590664c9ab62d41b5c8ad782561650feb",
+      "semantic_findings": [
+        "Fullfrozenwealthepisode actual read nowconfirms earlierR04/R06/R12/R14/R25/R28 crossreferences:evenbestsecurities/bills andcall-repayabilityfailtemporarily whenmarketclearing/transportclosed; moralwillingnessnotpaymentchannel.",
+        "StockExchangeowes80mapprox collectivelynotoperatinglegalentityaccounts; frozenfunctionaldestcapital notrights extinguished. Embargorumor authorunlikelynotproofneitheractualabsence norenforcement;Germanfictitiousruninsinuationunverified.",
+        "NYgoldtoOttawanotLondon strengthensR22/R44location, sourceFrenchFXexception andnearinitialdeadlock noallforeignflow inference.",
+        "Actualmoratorium/notes/interventionsvsnoobservedmasspanic policy-assistedpathnotnointerventionexperiment. Priorhigherreservecounterfactualunobserved.",
+        "Rapid10percentBankratedoubt, firstraise10beforeissuingnotes IF notverifiedlaw; ten息 ambiguity mustextendunitpatchtochapter22andR51. WholeChinese/R50othermeaningfaithful; low use emergencycurrencynotzeroimportance/widestgoldneeds source."
+      ]
+    },
+    {
+      "chapter": 23,
+      "source_file": "source/chapters/ch23.txt",
+      "source_characters": 14322,
+      "source_read_ranges": [
+        [
+          0,
+          8000
+        ],
+        [
+          8000,
+          14322
+        ]
+      ],
+      "source_sha256": "a0edcd6e2bc9c9c3ec2005989357c4a85b739a9355795fa4bd1fa10639bca0d2",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "rule_ids_actually_read": [
+        "P35-R52",
+        "P35-R53"
+      ],
+      "dossier_sha256": "0e3a1b3a50cf9916c9eed9a555893426e74a1497f3f818e16740f4c5e0c4f6a2",
+      "original_full_images_actually_viewed": [
+        242,
+        243
+      ],
+      "semantic_findings": [
+        "Psychologypoliticaleconomy/legalevolution authorposition notproofmathematicsorscienceunnecessary; governmentonlysafety/pooling/statebankproposalsnotactualfundorlegalauthority.",
+        "PostOfficeSavingsBankgiantstatesafeabsolutesafeexceptnationseas rhetoricalunverifiednationalaccountposition notcurrentdepositinsurance; inflationisolatedhermitnoills strongclaimdoesnotremoveinternalcontractrisk.",
+        "WholeimagesPDF242/243actuallyreadincludesoriginalexportsatcapitalpaymentdescribingexcessimports;PGsameprintedexports originalmeaningpointnottranscriptionerror. Chinesedraft保留转录或原书指代待核 shouldnowexplicitoriginalsamewordwhilemeaningambiguityremains.",
+        "RussianroubledepreciationdifferentexportrouteblockadecausenotsameGermanypaperinflation;waraftermathburdenhopeunknowncannotturncompleted1918data. Allrules52–53faithfulauthor/independentboundaries."
+      ]
+    }
+  ],
+  "rules_reviewed": [
+    "P35-R01",
+    "P35-R02",
+    "P35-R03",
+    "P35-R04",
+    "P35-R05",
+    "P35-R06",
+    "P35-R07",
+    "P35-R08",
+    "P35-R09",
+    "P35-R10",
+    "P35-R11",
+    "P35-R12",
+    "P35-R13",
+    "P35-R14",
+    "P35-R15",
+    "P35-R16",
+    "P35-R17",
+    "P35-R18",
+    "P35-R19",
+    "P35-R20",
+    "P35-R21",
+    "P35-R22",
+    "P35-R23",
+    "P35-R24",
+    "P35-R25",
+    "P35-R26",
+    "P35-R27",
+    "P35-R28",
+    "P35-R29",
+    "P35-R30",
+    "P35-R31",
+    "P35-R32",
+    "P35-R33",
+    "P35-R34",
+    "P35-R35",
+    "P35-R36",
+    "P35-R37",
+    "P35-R38",
+    "P35-R39",
+    "P35-R40",
+    "P35-R41",
+    "P35-R42",
+    "P35-R43",
+    "P35-R44",
+    "P35-R45",
+    "P35-R46",
+    "P35-R47",
+    "P35-R48",
+    "P35-R49",
+    "P35-R50",
+    "P35-R51",
+    "P35-R52",
+    "P35-R53",
+    "P35-R54",
+    "P35-R55"
+  ],
+  "required_findings_candidates": [
+    {
+      "id": "P35-QA-A01",
+      "status": "all55_rules_actually_read_complete_CRLF_contexts_required",
+      "scope": "sourceglobalcoordinates/completecontexts/quotevoices",
+      "finding": "Attachrawfull-original file toglobal line coordinates; keep oldchapter andphrase navigation clearlyseparate; addfull exact originalparagraphs/continuousunit context afterallactualsemanticreads."
+    },
+    {
+      "id": "P35-QA-A02",
+      "status": "historical_stage_header_pending_final_resolution",
+      "file": "ch01.md",
+      "old": "序言亦全文读，仍有二十二原章及附录未读，不能说整本完成。",
+      "candidate_new": "历史写作阶段记录：当时序言已读、余二十二章及附录尚未读，未宣称整本完成；当前覆盖以整本阅读审计为准。",
+      "reason": "Originalauthorstagehistorical outsidebody shouldnotassertcurrentwholebookunreadafteractualcompletion;notasinglesourcefoldercheckasproof."
+    },
+    {
+      "id": "P35-QA-A03",
+      "status": "required_rate_unit_clarification",
+      "patches": [
+        {
+          "rule_id": "P35-R03",
+          "field": "author_meaning",
+          "old": "二百存金可变千或二千资金，二厘半付存户四厘贷出的一厘半尚需费用；deposit与current提款条件不同。",
+          "candidate_new": "作者设想二百英镑存金可成为一千或二千可贷资金；付存者百分之二点五、贷出百分之四，两者利差一点五个百分点还须付费用。deposit与current account的提款条件不同。"
+        },
+        {
+          "file": "ch02.md",
+          "old": "转贷百分之四，利差一点五，质问如何负担经营费用。",
+          "candidate_new": "转贷百分之四，利差一点五个百分点，质问如何负担经营费用。"
+        }
+      ],
+      "reason": "Sourceper-cent rates2.5/4andtheir1.5percentage-pointspread notambiguoustraditionalChinese厘. Do notaddunstatedrateperiodastheauthor."
+    },
+    {
+      "id": "P35-QA-A04",
+      "status": "required_amount_correction",
+      "file": "ch03.md",
+      "old": "前者包含三万stock置于公共机关",
+      "candidate_new": "前者注明有三万五千英镑的Stock置于公共机关",
+      "source_file": "source/chapters/ch03.txt",
+      "original_PDF_page_actually_viewed": 48,
+      "printed_page": 24,
+      "reason": "OriginaldigitalsourceandoriginalPDF48bothshow£35,000(Stock), not£30,000. Do notchangeoriginalsourceoraddthisearmarkedstockagain toassetaggregate."
+    },
+    {
+      "id": "P35-QA-A05",
+      "status": "required_wording_correction",
+      "rule_id": "P35-R08",
+      "field": "author_meaning",
+      "old": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠词誉而银行索担保。",
+      "candidate_new": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠顾客的承诺与声誉，而银行索取担保。",
+      "reason": "Originalsimplymywordandmyreputation;词誉unclearwording, notnewfactualcontent."
+    },
+    {
+      "id": "P35-QA-A06",
+      "status": "required_author_stance_and_causal_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R11",
+          "field": "counterexample_or_limit",
+          "old": "原书希望修改规则不等于现在可排除loan deposits。",
+          "candidate_new": "作者仅提出立法可能，并明说未主张它可行、必要或明智；不能据此排除当前已成立的loan deposits支付责任。"
+        },
+        {
+          "rule_id": "P35-R12",
+          "field": "author_meaning",
+          "old": "作者归部分小行失败于人和坏财富；法币不限金，银行经营有不免投机部分，担保较可防金融原因但非全。",
+          "candidate_new": "作者将一些小银行倒闭归因于在坏财富上投机；商业银行可依法定票据而非必须黄金支付，银行经营不可避免有一定投机，担保虽提供保护，却不能保证有良好担保的借款者到期偿付。"
+        }
+      ],
+      "reason": "Chapter5explicitlynotadvocatingpracticalnecessarywisefreeze;somefailuresbadwealthgamblingnotanunsupportedpersonalcausaltag. Preserveauthorowncontradictionautomaticredeemableversusuncertainmaturity."
+    },
+    {
+      "id": "P35-QA-A07",
+      "status": "historical_stage_header_pending_final_resolution",
+      "file": "ch05.md",
+      "old": "全文仍未完成。",
+      "candidate_new": "历史写作阶段当时尚未读完全书；当前覆盖以整本阅读审计为准。",
+      "reason": "Outsidebodyoldstageonly,notrewriteauthororiginalorbody."
+    },
+    {
+      "id": "P35-QA-A08",
+      "status": "required_cross_reference_precision",
+      "file": "ch06.md",
+      "old": "本章依赖上一章未解释清楚的price口径",
+      "candidate_new": "本章依赖第三章未解释清楚的price口径",
+      "reason": "Billbrokerpriceambiguityoccursch3bankbalancesheet,notch5; followfaithfulargumentwithoutpretendingthirdchapterisprevious."
+    },
+    {
+      "id": "P35-QA-A09",
+      "status": "required_denominator_vs_gold_flow_correction",
+      "rule_id": "P35-R18",
+      "field": "author_meaning",
+      "old": "作者述各行催loan收回金，报表更好，借户在行间或央行取，比例依各行惯例、无法律统一线。",
+      "candidate_new": "作者述月末、半年末及年末停止放贷并催回贷款，通过减少总存款提高准备比例，即使未增加一枚金币；借款者转寻他行或更贵的央行，惯常比例由各行自定，作者说当时无法律强制。",
+      "reason": "Explicitoriginalnotasovereignaddedreserveratiocanrise;repaymentnotnecessarilynewgoldinflow. Differentiate shrinkingdenominator andcashalreadyreceived."
+    },
+    {
+      "id": "P35-QA-A10",
+      "status": "required_percent_unit_clarification",
+      "file": "ch08.md",
+      "old": "以合计pure和loan存款十五作为法币准备",
+      "candidate_new": "以合计pure和loan存款的百分之十五作为法币准备",
+      "reason": "Originalfifteenpercentratio,notunlabelledmoneyamount; maintainhypotheticalnotactualrecommendedthreshold."
+    },
+    {
+      "id": "P35-QA-A11",
+      "status": "required_author_strong_claim_preservation",
+      "rule_id": "P35-R21",
+      "field": "author_meaning",
+      "old": "票据经纪平常不去较贵央行，其他行拒时央行通常可贷，央行率调借量、汇价、金流。",
+      "candidate_new": "作者说票据经纪平常不愿去费用更高、期限更短的央行；当其他来源枯竭，央行总能且愿意以一定价格放贷。该价格按请求、准备、汇兑及一般金融条件调节，用于限借、调整汇兑、引金与补准备。",
+      "reason": "Originalalwaysableandwillingatpriceisstrongauthorclaim; do notquietlysoften tousually. Conditionalaccess/highercost/later14evidence belongsindependentlimitswithactualcrosssource."
+    },
+    {
+      "id": "P35-QA-A12",
+      "status": "required_full_currency_amount",
+      "file": "ch09.md",
+      "old": "第三章完整数是六百六十七镑十四先令八便士",
+      "candidate_new": "第三章完整数是五百九十九万六千六百六十七镑十四先令八便士",
+      "reason": "Printed/table£5996667 14s8d rounds£5996668, not£667;missingprefixmustnotmasqueradefullamount."
+    },
+    {
+      "id": "P35-QA-A13",
+      "status": "required_author_counterfactual_precision",
+      "rule_id": "P35-R23",
+      "field": "author_meaning",
+      "old": "升率旨增本地收益吸外资/金，不必然成功，海外条件也决定；国内贸易受罚，若有别法币可少借外钱。",
+      "candidate_new": "升率旨在提高本地收益、吸引外国资金或黄金，但不必然成功，国外条件也起作用；频繁变动融资价格会惩罚国内贸易，作者设想以其他法定货币补充准备可能避免这种代价。",
+      "reason": "OriginalIfreplenishotherlegaltenderitmightobviateit follows tradepenalty/depression, notexplicitforeignborrowingreduction."
+    },
+    {
+      "id": "P35-QA-A14",
+      "status": "required_proposal_voice_and_rescue_qualification",
+      "patches": [
+        {
+          "rule_id": "P35-R25",
+          "field": "author_meaning",
+          "old": "生产消费才能形成富，支票体系适财富；notes非全金基础，若都兑需额外金卖政府证券但panic难卖。",
+          "candidate_new": "作者说生产与消费相互作用才能形成财富，支票系统应与财富同步。央行票并非全由黄金背书；他转述有人建议卖证券或把政府欠债转为债券再卖，以补全部兑金所需，但指出恐慌时难以卖券换金，自己又认为全提的需要太遥远。"
+        },
+        {
+          "rule_id": "P35-R26",
+          "field": "author_meaning",
+          "old": "作者称panic非自动、心理病，过去暂停或可暂停银行法及供币解除，国家应帮复杂机器。",
+          "candidate_new": "作者称恐慌并非自动而是心理之病，过去实际或潜在停止银行法限制、让央行能向有偿付能力者按价提供足量法定货币，曾平息恐慌；国家应帮助受到传染的健康者。"
+        }
+      ],
+      "reason": "Do notsilentlyendorsequotedproposal orremovesolvent/healthy/atpriceconditions. Modernliquiditysupportallinstitutionsnotauthoredhere."
+    },
+    {
+      "id": "P35-QA-A15",
+      "status": "required_plain_wording_clarification",
+      "file": "ch13.md",
+      "old": "金融专家应钢化保留对方限定",
+      "candidate_new": "金融专家应完整保留对方的限定",
+      "reason": "Opaque钢化literalwordunnecessary; preservesfairaccountofCole goodbills/exceptpanic/timequalification notaltersoriginalmeaning."
+    },
+    {
+      "id": "P35-QA-A16",
+      "status": "required_negation_qualification_and_war_source_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R32",
+          "field": "author_meaning",
+          "old": "贷款增需及金供应慢可升价，5%有时长期，原书重复杂条件，涨价改变需求与生产。",
+          "candidate_new": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高且持续的利息及频繁变动可能损害贸易，但未给高、久或频繁的固定阈值。"
+        },
+        {
+          "rule_id": "P35-R34",
+          "field": "author_meaning",
+          "old": "Cole最小失调也可央行帮，但央行只借认可财富，持续goodbills扩贷又会更高价护储，战时大规模贴现另有政府措施。",
+          "candidate_new": "作者以央行更窄的资产准入、合格票据数量有限及提息限制贷款反驳无限供给；战时大规模贴现停偿令前票据同时伴有南非等地和纽约黄金流入，准备比例仍低于通常。他又问悬法及财政票是否属于Cole的不可枯竭定义。"
+        }
+      ],
+      "reason": "Preservenot5bad/2goodnegation; withinchapter14warparagraph statesconcurrentgoldflows andgovernmentmeasurequestions, notinventactualmeasureasprovenparagraphfact."
+    },
+    {
+      "id": "P35-QA-A17",
+      "status": "required_thirty_thirtyone_direction",
+      "rule_id": "P35-R35",
+      "field": "author_meaning",
+      "old": "JohnBull讽刺15/20/30/40乃至80/90每百，可能30安全31不安全，只能靠经验无法算绝保。",
+      "candidate_new": "作者用John Bull讽刺按每百十五、二十、三十或四十便可算出安心的想法；又假设八成九成也未必救得了银行，可能三成准备时会倒，而三成一原本可避免灾难。他认为没有可计算的永久避恐慌线，只能继续依经验。",
+      "reason": "Originalmightgounderwith30when31wouldavert, notoppositedirection. Dossiercorrect; preservehypotheticalnotthreshold/statistics.",
+      "patches": [
+        {
+          "file": "全书综合与附录.md",
+          "old": "三十或安全而三十一也许不安全只是反证",
+          "candidate_new": "三成准备可能遭灾，而三成一或本可避免，是作者假设而非安全线"
+        }
+      ]
+    },
+    {
+      "id": "P35-QA-A18",
+      "status": "required_ten_percent_rate_unit",
+      "patches": [
+        {
+          "file": "ch16.md",
+          "old": "率骤十息也没panic",
+          "candidate_new": "利率骤升至百分之十也没panic"
+        },
+        {
+          "rule_id": "P35-R37",
+          "field": "author_meaning",
+          "old": "作者说大规模倒闭失业panic预言未实现，十息低储仍平；伟大头脑安抚，海军条件可能改变。",
+          "candidate_new": "作者说大规模倒闭、失业与恐慌的预言未实现，利率骤升至百分之十、准备很低时仍未发生恐慌；他将安抚归于伟大心智，并承认海军条件若改变，境况可能不同。"
+        },
+        {
+          "file": "ch22.md",
+          "old": "十息发行条件是原文假设句",
+          "candidate_new": "先升至百分之十利率才可发行的条件是原文假设句"
+        },
+        {
+          "file": "ch22.md",
+          "old": "央行迅速升至十息",
+          "candidate_new": "央行利率迅速升至百分之十"
+        },
+        {
+          "file": "ch22.md",
+          "old": "此处十息是旧危机记述",
+          "candidate_new": "此处百分之十是旧危机利率记述"
+        },
+        {
+          "file": "ch22.md",
+          "old": "若法律须先十息才发应急币",
+          "candidate_new": "若法律须先将利率升至百分之十才发应急币"
+        },
+        {
+          "rule_id": "P35-R51",
+          "field": "author_meaning",
+          "old": "作者赞moratorium并逐解除复杂，唯一疑十息，若法律须十息先发币则应改；存户少需暂停而贸易需，小票机器应用不滥。",
+          "candidate_new": "作者赞同暂停偿付及后续逐步解除复杂性的措施，唯一质疑的是央行迅速将利率升至百分之十；他假设若法律要求先升到百分之十才可发应急币，就应修改这一限制。存户很少需借暂停保护，贸易却有需要；小额纸票机制应保留使用，不应滥用。"
+        }
+      ],
+      "reason": "Originalrate10per cent, notunclear十息. Historicalauthorstatementneitherverifiedratepolicycurrentlynorforecastprobability."
+    },
+    {
+      "id": "P35-QA-A19",
+      "status": "required_normative_condition_and_quoted_name_clarity",
+      "patches": [
+        {
+          "rule_id": "P35-R39",
+          "field": "author_meaning",
+          "old": "国家无故意外危机应国家银行共担，公众过投机应银行救则不公平；高储可持坏财富是讽刺金率唯一标准。",
+          "candidate_new": "作者主张，未料到且并非国家自身愚行造成的危机，应由国家与银行共同承担；若危机由公众过度投机造成，要求银行挽救其自招后果并不公平。高金准备搭配坏资产仍满足唯金标准，是其讽刺反证。"
+        },
+        {
+          "file": "ch17.md",
+          "old": "施uster爵士说",
+          "candidate_new": "Felix Schuster爵士说"
+        }
+      ],
+      "reason": "Originalsurprise/noownfolly normativegate notcauseless; originalquotednamedFelixSchuster, hybrid施usteropaqueandnotoriginalname."
+    },
+    {
+      "id": "P35-QA-A20",
+      "status": "required_employment_and_reserve_carrier_precision",
+      "patches": [
+        {
+          "file": "ch18.md",
+          "old": "战争以来金与资本过多，就业仍低失业",
+          "candidate_new": "作者称战争以来金与资本过多，而失业较低"
+        },
+        {
+          "rule_id": "P35-R42",
+          "field": "author_meaning",
+          "old": "比例需责任基数，停贷转央行扩loan；原说高比例难同时保，除停商业/足量金流/法币替代。",
+          "candidate_new": "准备比例必须有对应负债，商业银行停贷会把借者推向央行、增加中央贷款责任；作者说现制下两层高金准备比例难同时维持，除非停缓商业或黄金流入跟上负债。他另提出可发行法定纸票补供，并明确不能随意生产黄金。"
+        }
+      ],
+      "reason": "Originalunemploymentlow notemploymentlow; distinguishhighgoldratio proposedlegalpaperpaymentcapacitynotphysicalgoldcreation."
+    },
+    {
+      "id": "P35-QA-A21",
+      "status": "required_resolved_original_word_provenance",
+      "file": "ch23.md",
+      "old": "并保留转录或原书指代待核",
+      "candidate_new": "并保留原书指代疑点：本次已核原图，原印与电子转录均写exports",
+      "reason": "PDF243paper219originalactualseen payforexports;notremaininguncertaintyorpossiblePGtranscriptionerror. Intendedreferentstillambiguouswithoutsilentoriginalrewrite."
+    },
+    {
+      "id": "P35-QA-A22",
+      "status": "required_appendix_carrier_and_report_date_precision",
+      "patches": [
+        {
+          "rule_id": "P35-R54",
+          "field": "author_meaning",
+          "old": "附录选1914June24正常表供比IX异常表，纸coin组成准备，并列47⅛%。",
+          "candidate_new": "附录选一九一四年六月二十四日的正常周报，与第九章异常周报对照；准备由票钞及金银硬币组成，附录列出百分之四十七又八分之一。"
+        },
+        {
+          "rule_id": "P35-R55",
+          "field": "author_meaning",
+          "old": "Wall转引MorningPost Feb23议会Chamberlain和LloydGeorge：纸代内部金但非artificialinflation，金应聚且危机用，未来6/12月压力可能升，金够可预见危机是信念。",
+          "candidate_new": "Wall通过《Morning Post》的报告，转引二月二十三日议会讨论中Chamberlain与Lloyd George的意见：以纸币替代内部用金须响应真实需要而非人为膨胀；应集中较大黄金准备，并在紧急时使用。未来六或十二个月压力可能增加，黄金足以应付可预见危机是Lloyd George表达的信念。"
+        }
+      ],
+      "reason": "Carrier票钞加coinnotopaque纸coin; February23datesdiscussionnotexplicitnewspaperpublication. Quotedbeliefnotlaworverifiedfutureoutcome."
+    },
+    {
+      "id": "P35-QA-A23",
+      "status": "required_current_vs_historical_review_state",
+      "patches": [
+        {
+          "file": "全书综合与附录.md",
+          "old": "独立语义QA仍待安排。",
+          "candidate_new": "独立整本语义复核已完成，必要更正及最终验收尚待合入和确认。"
+        },
+        {
+          "file": "全书综合与附录.md",
+          "old": "独立QA未开展，本体状态coverage_qualified_independent_QA_pending；",
+          "candidate_new": "历史写作阶段尚未开展独立QA；本次已完成整本语义复核，必要更正及最终验收待合入和确认，当前状态以审计为准；"
+        },
+        {
+          "file": "专家说明.md",
+          "old": "独立语义复核待安排。",
+          "candidate_new": "独立整本语义复核已完成，必要更正及最终确认尚待完成。"
+        }
+      ],
+      "reason": "Completedactualindependentwholebookread notclaimnotbegun; beforemerged/finalclosedmustnotclaimqualifiedpass. Authorhistoricalcheckpointskeptseparate."
+    },
+    {
+      "id": "P35-QA-A24",
+      "status": "required_raw_original_complete_contexts_and_voice_partition",
+      "scope": "All55rules rawprecise originalCRLFcontexts, wholechapters/extras and quotedspeakerroles",
+      "reason": "OldnormalizedglobalTXTcoordinatesattachedtochapterfile retainedonlynavigation. Fullsourceactuallyread beforeproofmapping; primaryvoices Cole/Tritton, anonymousmanager, Schuster, unnamednewspaper, Withers, Austen/Lloyd viaMorningPost, authorrewrite/fiction and tables separated; notadditionalwholebooksread or externalrecordsverified."
+    },
+    {
+      "id": "P35-QA-A25",
+      "status": "required_crosschapter_policy_prompt_precision",
+      "scope": "expert aggregate prompt and internal tension wording",
+      "reason": "Explicitlyseparatech17war+oneyearacceptancecover fromch21peace+oneyearOREmergencyPowersActexpiryearliersecuritieslenderadvance. Normativelocationminorpointch23 comparedactualearlier19/22logistics notfalse后章 chronologicalclaim."
+    }
+  ],
+  "next_unread_chapter": null,
+  "last_updated_utc": "2026-10-13T17:37:08.944984+00:00",
+  "physical_tail_original_images_actually_viewed": [
+    {
+      "PDF_page": 249,
+      "classification": "blank_no_author_content"
+    },
+    {
+      "PDF_page": 250,
+      "classification": "library_due_notice_and_stamps_not_author_text",
+      "visible_printed_notice_read": true,
+      "all_handwritten_stamp_glyphs_exactly_collated": false,
+      "notes": "25cinitialfine;50con4thday;$1on7thday. Libraryloanmarksnotfinancialbookdate."
+    },
+    {
+      "PDF_page": 251,
+      "classification": "library_pocket_accession_handmarks_not_author_content",
+      "all_handmarks_exactly_collated": false
+    },
+    {
+      "PDF_page": 252,
+      "classification": "plain_back_cover_no_author_text"
+    }
+  ],
+  "synthesis_explainer_wholeexpert_nonrule_fields_actually_read": true,
+  "all55_rule_non_source_semantic_fields_actually_read": true,
+  "original_full_source_line_coverage": [
+    {
+      "lines": [
+        1,
+        388
+      ],
+      "scope": "frontmatter"
+    },
+    {
+      "lines": [
+        389,
+        5603
+      ],
+      "scope": "all23originalchapters"
+    },
+    {
+      "lines": [
+        5604,
+        5740
+      ],
+      "scope": "bothappendices/printer/transcriber"
+    },
+    {
+      "lines": [
+        5741,
+        6091
+      ],
+      "scope": "wholelicense"
+    }
+  ],
+  "actual_original_full_PDF_images_viewed": [
+    6,
+    9,
+    31,
+    32,
+    40,
+    43,
+    47,
+    48,
+    49,
+    51,
+    70,
+    103,
+    107,
+    109,
+    110,
+    127,
+    129,
+    138,
+    158,
+    168,
+    169,
+    187,
+    223,
+    224,
+    242,
+    243,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252
+  ],
+  "all_lowOCR_pages_independently_rechecked_by_peer": false,
+  "all_external_historical_accounts_laws_quotes_books_verified": false,
+  "unmatched_visual_resolution": [
+    {
+      "paragraph_id": "P35-C01-P022",
+      "PDF_pages": [
+        31,
+        32
+      ],
+      "printed_pages": [
+        7,
+        8
+      ],
+      "notes": "Completefundpaymentparagraphcrossespage; actualbothfullimagesseen."
+    },
+    {
+      "paragraph_id": "P35-C02-P013",
+      "PDF_pages": [
+        40
+      ],
+      "printed_pages": [
+        16
+      ],
+      "notes": "2.5/4/1.5percent full spreadparagraphverified."
+    },
+    {
+      "paragraph_id": "P35-C02-P023",
+      "PDF_pages": [
+        43
+      ],
+      "printed_pages": [
+        19
+      ],
+      "notes": "Shortclaimneedswholechapterandlater22limits, actualimagephraseverified."
+    },
+    {
+      "paragraph_id": "P35-C03-P018",
+      "PDF_pages": [
+        49
+      ],
+      "printed_pages": [
+        25
+      ],
+      "notes": "Shortlinewithfollowingloans-createdepositscontextsamepage."
+    },
+    {
+      "paragraph_id": "P35-C09-P017",
+      "PDF_pages": [
+        107
+      ],
+      "printed_pages": [
+        83
+      ],
+      "notes": "FullIssueDepartmenttableallcellsread."
+    },
+    {
+      "paragraph_id": "P35-C09-P019",
+      "PDF_pages": [
+        107
+      ],
+      "printed_pages": [
+        83
+      ],
+      "notes": "FullBankingDepartmenttableallcellsread;original21324358vsPG21824358."
+    },
+    {
+      "paragraph_id": "P35-C17-P017",
+      "PDF_pages": [
+        187
+      ],
+      "printed_pages": [
+        163
+      ],
+      "notes": "ShortnormativewiseusephraseandfollowingSchuster/Wallmixedcontext."
+    },
+    {
+      "paragraph_id": "P35-C21-P019",
+      "PDF_pages": [
+        224
+      ],
+      "printed_pages": [
+        200
+      ],
+      "complete_policy_continuous_context_PDF_pages": [
+        223,
+        224
+      ],
+      "notes": "Successclaimshortline;actualpolicyqualificationslastparagraph223continues224."
+    },
+    {
+      "paragraph_id": "P35-A-P004",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "Openinghasno221footer;nominalpositionfromcontinuouspagination. Fulltableactualseen."
+    },
+    {
+      "paragraph_id": "P35-A-P006",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "FullBankingtableactualseen,notpaperfooterinvented."
+    },
+    {
+      "paragraph_id": "P35-A-P007",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "47⅛originalratevisible."
+    },
+    {
+      "paragraph_id": "P35-B-P004",
+      "PDF_pages": [
+        246
+      ],
+      "printed_pages_nominal": [
+        222
+      ],
+      "notes": "Openinghasno222footer;reportbridgeactualseen. Bothspeechesfull246–248read."
+    }
+  ],
+  "additional_critical_original_visual_checks": [
+    {
+      "PDF_pages": [
+        70
+      ],
+      "printed_pages": [
+        46
+      ],
+      "issue": "R11possiblelegislationexplicitnotpracticable/necessary/wise"
+    },
+    {
+      "PDF_pages": [
+        103
+      ],
+      "printed_pages": [
+        79
+      ],
+      "issue": "R18ratioincreaseswithnoadditionalsovereign;denominatornotnecessarilynewgold"
+    },
+    {
+      "PDF_pages": [
+        110
+      ],
+      "printed_pages": [
+        86
+      ],
+      "issue": "R21alwaysableandwillingatpriceactualstrongclaim"
+    },
+    {
+      "PDF_pages": [
+        129
+      ],
+      "printed_pages": [
+        105
+      ],
+      "issue": "R26solvent/atprice/healthyconditionsactualtext"
+    },
+    {
+      "PDF_pages": [
+        158
+      ],
+      "printed_pages": [
+        134
+      ],
+      "issue": "R32explicitnot5percentbad/2percentgoodrule"
+    },
+    {
+      "PDF_pages": [
+        168,
+        169
+      ],
+      "printed_pages": [
+        144,
+        145
+      ],
+      "issue": "R35/synthesisoriginal30fail31avertcrosspagecomplete;Bagehotbefore/duringquotedtemporalclaimalsoseen"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "book_id": "P26",
+  "chapter": 9,
+  "all3_tables_visually_read": true,
+  "1890_10_02_units_million_USD": {
+    "deposits": 1758.7,
+    "required_reserve": 353.7,
+    "reported_held_reserve": 478.2,
+    "specie": 195.9,
+    "other_lawful_money": 86.8,
+    "redemption_fund": 6.1,
+    "due_from_agents": 189.5,
+    "sum_displayed_components": 478.3,
+    "difference_sum_minus_total": 0.1,
+    "total_printed_plus_sign_retained_as_approximation": true,
+    "cash_on_site": 282.7,
+    "cash_on_site_shortfall_vs_required": 71,
+    "not_interbank_claims_counted_as_fresh_system_cash": true,
+    "redemption_fund_cash_at_treasury_not_immediate_on_site_cash": true,
+    "three_classes": [
+      {
+        "class": "New York City",
+        "required": 83.2,
+        "held": 92.5,
+        "specie": 78.4,
+        "legal_tender": 13.9,
+        "redemption_fund": 0.2,
+        "due_from_agents": null,
+        "due_from_agents_original": "dash",
+        "cash_on_site": 92.3,
+        "reserve_above_required": 9.3
+      },
+      {
+        "class": "Other reserve cities",
+        "required": 141.6,
+        "held": 160.2,
+        "specie": 63.2,
+        "legal_tender": 35.2,
+        "redemption_fund": 0.7,
+        "due_from_agents": 61,
+        "cash_on_site": 98.4,
+        "reserve_above_required": 18.6
+      },
+      {
+        "class": "Country",
+        "required": 128.9,
+        "held": 225.5,
+        "specie": 54.3,
+        "legal_tender": 37.7,
+        "redemption_fund": 5.2,
+        "due_from_agents": 128.5,
+        "cash_on_site": 92.0,
+        "reserve_above_required": 96.6
+      }
+    ]
+  },
+  "capital_surplus_plus_undivided_profit_ratio_NewYork": {
+    "1879": [
+      0.45,
+      0.37
+    ],
+    "1882": [
+      0.58,
+      0.51
+    ],
+    "1884": [
+      0.57,
+      0.53
+    ],
+    "1889": [
+      0.86,
+      0.68
+    ],
+    "order": [
+      "national",
+      "state"
+    ],
+    "original_decimal_rendering_retained_not_point45_percent": true,
+    "not_same_scope_as_national_surplus_only_series": true
+  },
+  "secured_notes_limit_fraction_market": 0.9,
+  "also_max_fraction_par": 0.9,
+  "government_liability_whole_note_amount_not_only5percent_fund": true,
+  "national_notes_not_private_legal_tender_in_original": true,
+  "reserve_rules_historical": {
+    "city_fraction": 0.25,
+    "country_fraction": 0.15,
+    "city_fraction_reserve_as_central_bank_deposit_max": 0.5,
+    "country_fraction_reserve_as_agent_deposit_max": 0.6,
+    "redemption_cash_fraction_notes": 0.05,
+    "notice_days": 30
+  },
+  "circulation_limits_million": {
+    "1863_1864": 300,
+    "1870_addition": 54,
+    "new_total": 354,
+    "1870_redistribution": 25,
+    "1874_redistribution_total_including25": 55,
+    "not_summed_to80": true,
+    "post1870_new_bank_cap": 0.5
+  },
+  "minimum_bonds1874_USD": 50000,
+  "supported_notes_USD": 45000,
+  "circulation_tax_fraction_per_annum": 0.01,
+  "state_notes_tax_fraction_after1866_july": 0.1,
+  "1883_quoted_incremental_profit_estimate": {
+    "notes_USD": 90000,
+    "profit_USD_max": 46,
+    "ratio_percent": 0.051111111111111114,
+    "external_comptroller_full_cost_model_not_read": true
+  },
+  "national_surplus_to_capital_percent": {
+    "1875_oct": 26.6,
+    "1878_dec": 25,
+    "1890_oct_approx": 33
+  },
+  "historical_dividend_percent_range": [
+    7.59,
+    10.58
+  ],
+  "not_current_stock_dividend_yield": true,
+  "note_circulation_USD": {
+    "1881_end_more_than": 325000000,
+    "1890_end_less_than": 123000000
+  },
+  "bond_yield_printed_2_and_1third_percent": 2.3333333333333335,
+  "native_OCR_wrong_fraction_not_used": true,
+  "1873_other_regions_above_required_author_probable_not_certain": true,
+  "all_parameters_historical_not_current_regulation": true
+}

@@ -1,0 +1,67 @@
+{
+  "book_id": "P38",
+  "chapter": 8,
+  "native_source_chars": 85350,
+  "source_sha256": "8ea0815324b31d43b1aa9a9557e030de93c21a0571fe6119c8e74b6332c0701d",
+  "printed_pages": [
+    227,
+    262
+  ],
+  "pdf_pages_one_based": [
+    242,
+    277
+  ],
+  "actual_text_read_ranges_chars": [
+    [
+      0,
+      31000
+    ],
+    [
+      30800,
+      61800
+    ],
+    [
+      61600,
+      85350
+    ]
+  ],
+  "truncated_lastoutput_recovered_complete_PDF275to277_fromchar80861": true,
+  "all5_sections_3_notes_summary_terms_CFA_10MC_10problems_4video_question_texts_read": true,
+  "no_review_questions_section_in_original": true,
+  "all36_page_contacts_all13_figures_all15tables_public_cells_visually_read": true,
+  "visual_files": [
+    "ch08-figures-1.jpg",
+    "ch08-figures-2.jpg",
+    "ch08-figures-3.jpg",
+    "ch08-figures-4.jpg",
+    "ch08-figures-5.jpg",
+    "ch08-figures-6.jpg",
+    "ch08-figures-7.jpg",
+    "ch08-figures-8.jpg",
+    "ch08-figures-9.jpg",
+    "ch08-critical-245.jpg",
+    "ch08-critical-247.jpg",
+    "ch08-critical-253.jpg",
+    "ch08-critical-256.jpg",
+    "ch08-critical-257.jpg",
+    "ch08-critical-258.jpg",
+    "ch08-critical-259.jpg"
+  ],
+  "hidden_Excelrows_in_original_seen": false,
+  "all36_auto_and240_mortgage_rows_independently_reconstructed_not_claimed_sourcevisible": true,
+  "literal_every_pdf_glyph_proofread": false,
+  "linked_videos_books_workbooks_calculator_manual_fullread": false,
+  "physicalExcel_TI_execution": false,
+  "mathematical_recomputation_done": true,
+  "summary_body_han": 3762,
+  "summary_sha256": "250f5d1bdcb03bc678cefe1e003f3186a11aba8e3d5256989401f573666fd711",
+  "semantic_full_chapter_reading_complete": true,
+  "entire20chapterbookcomplete": false,
+  "source_issues": "ch08-source-issues.json",
+  "arithmetic": "ch08-table-arithmetic.json",
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "250f5d1bdcb03bc678cefe1e003f3186a11aba8e3d5256989401f573666fd711",
+  "body_han": 3762,
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

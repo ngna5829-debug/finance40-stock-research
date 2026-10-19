@@ -1,0 +1,61 @@
+{
+  "book_id": "P36",
+  "title": "The Cycles of Speculation",
+  "author": "Thomas Gibson",
+  "year": 1907,
+  "publisher": "The Moody Corporation,35NassauStreet,NewYork",
+  "edition": "1907 complete independent MoodyCorporation book;7formal chapters, unnumberedVII topics not separate books",
+  "catalogue_URL": "https://www.gutenberg.org/ebooks/75687",
+  "verified_local_date": "2026-10-13",
+  "rights": "OfficialPG catalogue verified2026-10-13 PublicdomainUSA; fulllicensepreserved, no alljurisdictionsclaim",
+  "PDF_pages": 200,
+  "IA_imagecount": 204,
+  "original_PDF_MD5": "99436c74e485fc5e8e90e9f2644b72da",
+  "matches_IA_manifest_MD5": true,
+  "reading_status": "qualified_whole_original_digital_semantic_read_independent_QA_source_limits",
+  "original_every_scan_glyph_verified": false,
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "url": "https://www.gutenberg.org/cache/epub/75687/pg75687.txt",
+      "sha256": "f9ad6b320a4cb132d74dd5db3835c9e85031d1ec3d5135fc3cfa759a53217f8e",
+      "bytes": 253649,
+      "scope": "CompleteUTF8PGtext7chapters/bibliography/index/front/all6notes/fulllicense, actual sequential semantic reading"
+    },
+    {
+      "file": "source/original.html",
+      "url": "https://www.gutenberg.org/cache/epub/75687/pg75687-images.html",
+      "sha256": "4fe30e0a9d16d835e56a52f7684c5fd11f1656c1d77295a0d775d0dccce6845c",
+      "bytes": 325860,
+      "scope": "CompletePGHTML with printedpage anchors, preserved"
+    },
+    {
+      "file": "source/original-1907.pdf",
+      "url": "https://archive.org/download/cyclesofspeculat00gibsuoft/cyclesofspeculat00gibsuoft.pdf",
+      "sha256": "c2175a8868b6c19a27764121083114d3a98364be1d197f411a6bc0cd1f20f2f8",
+      "bytes": 8470090,
+      "scope": "Complete200pageRobartsIAoriginalscanmanifestMD5match, selectedvisualcollation"
+    }
+  ],
+  "scan_visual_audit": "source-review/scan-checkpoint.json",
+  "numeric_review": "numeric-review.json",
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "unresolved_gaps": [
+    "Not every original scanned glyph/page visually collated; other handwritten margins not completely deciphered",
+    "PG transcriber says a few silent typo corrections and illustration repositioning but no exhaustive change list",
+    "Shelf-code of non-author library pocket not fully deciphered; no unread author lowOCRcontent page found",
+    "Rail1901printedmean102.97vsrows106.975/spread29vs25.05;July1907narrativevs1901headers",
+    "Rightsprinted23300vsPG22300arithmetic;1.09⅝punctuationvs109⅝",
+    "Originalbankmultiple200/27000andmissing10m;actualcashsurpluscalculate not overwritten",
+    "Fixedcharges26vs26⅔;threecompositemidpoints1/16;1903dividendnotliteralunchanged",
+    "Wheatacreage9.710%vs38%;worldacreage inferredfromproduction withoutyield",
+    "Cottonoriginal1866-61vsPG1860-61;1900cropdatasets10/41568balesunexplained;normalreferenceunknown",
+    "Sixcycle37rowcalendarconventionmixed;1903Apr13to30author9vs17/18calendar",
+    "ChapterIV1901~61then1891–93order and ChapterVIA/Brole ambiguities original confirmed, not silently amended",
+    "QuotedHolt/Snyder/Smith/Burton/Conant/Moody/Pratt/Dow texts are only reproduced excerpts/opinions, no whole-read claim for their separate works",
+    "Underlyingdailyquotes/contractcosts/accounts/other magazine issues not fully available or independently verified",
+    "Publisher claims and recommended book summaries not independently certified or counted as other books",
+    "PG wording “in standard format” in wheat paragraph absent native PDF150/printed146; raw original files unchanged"
+  ],
+  "independent_root_QA": "独立复核.json"
+}

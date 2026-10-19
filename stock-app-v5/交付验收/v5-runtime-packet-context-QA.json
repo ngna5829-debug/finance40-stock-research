@@ -1,0 +1,4956 @@
+{
+  "audit": "Independent readonly static knowledge-packet and four-phase context bound audit",
+  "createdUTC": "2026-10-13T18:17:57.261816+00:00",
+  "runtimeSHA256": "b591ec99ddf22051275e0c7e28f122f816a3bc5bd8ec95c7be824d91bd65ef40",
+  "catalogueSHA256": "5c4d60126a453c248ca45614abe4fd4fb167830ee942f8de4edbeec21b5c0c3a",
+  "catalogueBooks": 40,
+  "rules": 1731,
+  "aliasesRemovedOnlyFromModelPacket": [
+    "authorMeaning",
+    "requiredInputs",
+    "authorConditions",
+    "nativeHorizon",
+    "abstainWhen",
+    "boundary",
+    "revisionEvidence"
+  ],
+  "aliasValuesExactlyReconstructibleFromOriginalSemanticFieldsChecks": 12117,
+  "aliasCoverageFailures": [],
+  "allRulesOriginalNonEvidenceSemanticFieldsAndCurrentSourceVoicesExact": true,
+  "noFullRawEvidenceOrWholeBookInEachPromptClaim": "Entire original non-evidence rule fields, expert prompt, call contract and chapter titles retained. Exact raw contexts and whole dossiers stay in hashed archive, not each model prompt.",
+  "originalAndNewPacketSizes": [
+    {
+      "bookId": "B37",
+      "rules": 20,
+      "oldPacketBytes": 30951,
+      "newPacketBytes": 22051,
+      "savedBytes": 8900
+    },
+    {
+      "bookId": "B38",
+      "rules": 28,
+      "oldPacketBytes": 37267,
+      "newPacketBytes": 24014,
+      "savedBytes": 13253
+    },
+    {
+      "bookId": "B40",
+      "rules": 30,
+      "oldPacketBytes": 49000,
+      "newPacketBytes": 34698,
+      "savedBytes": 14302
+    },
+    {
+      "bookId": "P04",
+      "rules": 26,
+      "oldPacketBytes": 45052,
+      "newPacketBytes": 31119,
+      "savedBytes": 13933
+    },
+    {
+      "bookId": "P05",
+      "rules": 26,
+      "oldPacketBytes": 40754,
+      "newPacketBytes": 27561,
+      "savedBytes": 13193
+    },
+    {
+      "bookId": "P06",
+      "rules": 26,
+      "oldPacketBytes": 47660,
+      "newPacketBytes": 33131,
+      "savedBytes": 14529
+    },
+    {
+      "bookId": "P07",
+      "rules": 32,
+      "oldPacketBytes": 58830,
+      "newPacketBytes": 39767,
+      "savedBytes": 19063
+    },
+    {
+      "bookId": "P08",
+      "rules": 32,
+      "oldPacketBytes": 61030,
+      "newPacketBytes": 41617,
+      "savedBytes": 19413
+    },
+    {
+      "bookId": "P09",
+      "rules": 31,
+      "oldPacketBytes": 56879,
+      "newPacketBytes": 38575,
+      "savedBytes": 18304
+    },
+    {
+      "bookId": "P10",
+      "rules": 35,
+      "oldPacketBytes": 54479,
+      "newPacketBytes": 35432,
+      "savedBytes": 19047
+    },
+    {
+      "bookId": "P11",
+      "rules": 41,
+      "oldPacketBytes": 65253,
+      "newPacketBytes": 42257,
+      "savedBytes": 22996
+    },
+    {
+      "bookId": "P12",
+      "rules": 41,
+      "oldPacketBytes": 79037,
+      "newPacketBytes": 49229,
+      "savedBytes": 29808
+    },
+    {
+      "bookId": "P13",
+      "rules": 35,
+      "oldPacketBytes": 56232,
+      "newPacketBytes": 36864,
+      "savedBytes": 19368
+    },
+    {
+      "bookId": "P14",
+      "rules": 62,
+      "oldPacketBytes": 135020,
+      "newPacketBytes": 88252,
+      "savedBytes": 46768
+    },
+    {
+      "bookId": "P15",
+      "rules": 50,
+      "oldPacketBytes": 80332,
+      "newPacketBytes": 54450,
+      "savedBytes": 25882
+    },
+    {
+      "bookId": "P16",
+      "rules": 32,
+      "oldPacketBytes": 41282,
+      "newPacketBytes": 27433,
+      "savedBytes": 13849
+    },
+    {
+      "bookId": "P17",
+      "rules": 37,
+      "oldPacketBytes": 52493,
+      "newPacketBytes": 33468,
+      "savedBytes": 19025
+    },
+    {
+      "bookId": "P18",
+      "rules": 49,
+      "oldPacketBytes": 68086,
+      "newPacketBytes": 43574,
+      "savedBytes": 24512
+    },
+    {
+      "bookId": "P19",
+      "rules": 51,
+      "oldPacketBytes": 105957,
+      "newPacketBytes": 67470,
+      "savedBytes": 38487
+    },
+    {
+      "bookId": "P20",
+      "rules": 74,
+      "oldPacketBytes": 116861,
+      "newPacketBytes": 77612,
+      "savedBytes": 39249
+    },
+    {
+      "bookId": "P21",
+      "rules": 52,
+      "oldPacketBytes": 83622,
+      "newPacketBytes": 55485,
+      "savedBytes": 28137
+    },
+    {
+      "bookId": "P22",
+      "rules": 60,
+      "oldPacketBytes": 99759,
+      "newPacketBytes": 66944,
+      "savedBytes": 32815
+    },
+    {
+      "bookId": "P23",
+      "rules": 73,
+      "oldPacketBytes": 117301,
+      "newPacketBytes": 77757,
+      "savedBytes": 39544
+    },
+    {
+      "bookId": "P24",
+      "rules": 62,
+      "oldPacketBytes": 83614,
+      "newPacketBytes": 56490,
+      "savedBytes": 27124
+    },
+    {
+      "bookId": "P25",
+      "rules": 48,
+      "oldPacketBytes": 76680,
+      "newPacketBytes": 50784,
+      "savedBytes": 25896
+    },
+    {
+      "bookId": "P26",
+      "rules": 60,
+      "oldPacketBytes": 65231,
+      "newPacketBytes": 47095,
+      "savedBytes": 18136
+    },
+    {
+      "bookId": "P27",
+      "rules": 72,
+      "oldPacketBytes": 86053,
+      "newPacketBytes": 58268,
+      "savedBytes": 27785
+    },
+    {
+      "bookId": "P28",
+      "rules": 16,
+      "oldPacketBytes": 25121,
+      "newPacketBytes": 16052,
+      "savedBytes": 9069
+    },
+    {
+      "bookId": "P29",
+      "rules": 29,
+      "oldPacketBytes": 45083,
+      "newPacketBytes": 30962,
+      "savedBytes": 14121
+    },
+    {
+      "bookId": "P30",
+      "rules": 34,
+      "oldPacketBytes": 69268,
+      "newPacketBytes": 50537,
+      "savedBytes": 18731
+    },
+    {
+      "bookId": "P31",
+      "rules": 40,
+      "oldPacketBytes": 71396,
+      "newPacketBytes": 52571,
+      "savedBytes": 18825
+    },
+    {
+      "bookId": "P32",
+      "rules": 52,
+      "oldPacketBytes": 114067,
+      "newPacketBytes": 86911,
+      "savedBytes": 27156
+    },
+    {
+      "bookId": "P33",
+      "rules": 39,
+      "oldPacketBytes": 84006,
+      "newPacketBytes": 58901,
+      "savedBytes": 25105
+    },
+    {
+      "bookId": "P34",
+      "rules": 50,
+      "oldPacketBytes": 92756,
+      "newPacketBytes": 63106,
+      "savedBytes": 29650
+    },
+    {
+      "bookId": "P35",
+      "rules": 55,
+      "oldPacketBytes": 112958,
+      "newPacketBytes": 79855,
+      "savedBytes": 33103
+    },
+    {
+      "bookId": "P36",
+      "rules": 57,
+      "oldPacketBytes": 131424,
+      "newPacketBytes": 94543,
+      "savedBytes": 36881
+    },
+    {
+      "bookId": "P37",
+      "rules": 40,
+      "oldPacketBytes": 83189,
+      "newPacketBytes": 59279,
+      "savedBytes": 23910
+    },
+    {
+      "bookId": "P38",
+      "rules": 60,
+      "oldPacketBytes": 58001,
+      "newPacketBytes": 39055,
+      "savedBytes": 18946
+    },
+    {
+      "bookId": "P39",
+      "rules": 46,
+      "oldPacketBytes": 41745,
+      "newPacketBytes": 27330,
+      "savedBytes": 14415
+    },
+    {
+      "bookId": "P40",
+      "rules": 28,
+      "oldPacketBytes": 22922,
+      "newPacketBytes": 15545,
+      "savedBytes": 7377
+    }
+  ],
+  "largestNewPacket": {
+    "bookId": "P36",
+    "rules": 57,
+    "oldPacketBytes": 131424,
+    "newPacketBytes": 94543,
+    "savedBytes": 36881
+  },
+  "frozenFactsSizingExample": {
+    "snapshotFile": "work/stock_app_v5/book-specific-real-input-snapshot.json",
+    "snapshotSHA256": "63153e13a9e042d8a0a11c8e2cc3b2ee279c1548f29143576425d692df436891",
+    "symbol": "AAPL",
+    "capturedAt": "2026-10-13T16:05:57.347838+00:00",
+    "frozenFactsUTF8Bytes": 7809,
+    "scope": "Actual saved input and pure frozen_facts transformation used for serialized-size measurement only; no model call or investment evaluation performed."
+  },
+  "guardMethod": {
+    "hardCap": 131072,
+    "modelMayHaveSmallerContext": true,
+    "formula": "sum UTF8 bytes of all system/user message content +1000 output allowance; compared to job.contextTokens=min(confirmed local context_length,131072). Conservative ceiling, not measured tokenizer counts. Full JSON user payload includes identity, phase, knowledge packet, frozen evidence and cross challenge.",
+    "recognizedTextFieldMaximum": {
+      "claimsPerAnswer": 3,
+      "claimTextPythonCharacters": 150,
+      "eachOtherListItems": 3,
+      "missingChallengesRevisionsEachTextCharacters": 150,
+      "longestValidStance": "conditional_research",
+      "UTF8ChineseExampleBytesPerCharacter": 3,
+      "maximumJSONEncodedBytesPerPythonCharacter": 6,
+      "controlCharacterExample": "U+0000 serializes as six ASCII bytes \\u0000"
+    },
+    "upperEnvelopeLimit": "Full schema-known fields only; separately maximize cited source-rule metadata and response rule ID sizes, which conservatively combines possibly different rule selections. Not an actual model response or a claimed exact feasible joint maximum."
+  },
+  "phaseBoundSummaries": [
+    {
+      "packetMode": "oldAliasesDuplicated",
+      "scenario": "minimal",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 144502,
+          "overCapCount": 2
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 15512,
+          "overCapCount": 0
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 145318,
+          "overCapCount": 2
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 16135,
+          "overCapCount": 0
+        }
+      }
+    },
+    {
+      "packetMode": "oldAliasesDuplicated",
+      "scenario": "Chinese150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 144502,
+          "overCapCount": 2
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 306229,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 173165,
+          "overCapCount": 8
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 329150,
+          "overCapCount": 4
+        }
+      }
+    },
+    {
+      "packetMode": "oldAliasesDuplicated",
+      "scenario": "controlCharacter150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 144502,
+          "overCapCount": 2
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 522229,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 200165,
+          "overCapCount": 20
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 566750,
+          "overCapCount": 4
+        }
+      }
+    },
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "minimal",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 15512,
+          "overCapCount": 0
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 104841,
+          "overCapCount": 0
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 16135,
+          "overCapCount": 0
+        }
+      }
+    },
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "Chinese150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 282418,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 132688,
+          "overCapCount": 1
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 305339,
+          "overCapCount": 4
+        }
+      }
+    },
+    {
+      "packetMode": "newFullSemanticFieldsOnly",
+      "scenario": "controlCharacter150",
+      "phases": {
+        "initial40": {
+          "calls": 40,
+          "maxGuardCeiling": 104025,
+          "overCapCount": 0
+        },
+        "fourChiefChallenges": {
+          "calls": 4,
+          "maxGuardCeiling": 498418,
+          "overCapCount": 4
+        },
+        "replies40": {
+          "calls": 40,
+          "maxGuardCeiling": 159688,
+          "overCapCount": 8
+        },
+        "fourChiefAdjudications": {
+          "calls": 4,
+          "maxGuardCeiling": 542939,
+          "overCapCount": 4
+        }
+      }
+    }
+  ],
+  "fullPhaseBounds": {
+    "oldAliasesDuplicated": {
+      "minimal": {
+        "scenario": "minimal",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": false,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 38864,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40433,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 45180,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46749,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 56913,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58482,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 52965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 48667,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50236,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 55573,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 57142,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 66743,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68312,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 68943,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 70512,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 64792,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 66361,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 62392,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63961,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 73166,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74735,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 86950,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88519,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 64145,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65714,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 142933,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 144502,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 88245,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89814,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 49195,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50764,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 60406,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 61975,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 75999,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77568,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 113870,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115439,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 124774,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126343,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 91535,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93104,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 107672,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 109241,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 125214,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126783,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 91527,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93096,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 84593,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 86162,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 73144,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74713,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 93966,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 95535,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 33034,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 34603,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 52996,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54565,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 77181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 78750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 79309,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 80878,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 121980,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123549,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 91919,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93488,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 100669,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 102238,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 120871,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 122440,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 139337,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 140906,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 91102,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92671,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 65914,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67483,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 49658,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51227,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 30835,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 32404,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13923,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15492,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13902,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15471,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13943,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15512,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13902,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15471,
+            "fits131072HardCap": true
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 39680,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 41249,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 45996,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 47565,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 57729,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 59298,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 53781,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 55350,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 49483,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51052,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 56389,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 57958,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 67559,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69128,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 69759,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 71328,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 65608,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67177,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 63208,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 64777,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 73982,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 75551,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 87766,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89335,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 64961,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 66530,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 143749,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 145318,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 89061,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 90630,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 50011,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51580,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 61222,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62791,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 76815,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 78384,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 114686,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 116255,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 125590,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 127159,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 92351,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93920,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 108488,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 110057,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 126030,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 127599,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 92343,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93912,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 85409,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 86978,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 73960,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 75529,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 94782,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96351,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 33850,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 35419,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 53812,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 55381,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 77997,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 79566,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 80125,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 81694,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 122796,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 124365,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 92735,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 94304,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 101485,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 103054,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 121687,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123256,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 140153,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 141722,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 91918,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93487,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 66730,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68299,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 50474,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 52043,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 31651,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 33220,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14546,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16115,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16094,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14566,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16135,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16094,
+            "fits131072HardCap": true
+          }
+        ]
+      },
+      "Chinese150": {
+        "scenario": "Chinese150",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": true,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 38864,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40433,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 45180,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46749,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 56913,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58482,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 52965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 48667,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50236,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 55573,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 57142,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 66743,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68312,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 68943,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 70512,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 64792,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 66361,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 62392,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63961,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 73166,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74735,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 86950,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88519,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 64145,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65714,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 142933,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 144502,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 88245,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89814,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 49195,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50764,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 60406,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 61975,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 75999,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77568,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 113870,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115439,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 124774,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126343,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 91535,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93104,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 107672,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 109241,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 125214,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126783,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 91527,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93096,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 84593,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 86162,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 73144,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74713,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 93966,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 95535,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 33034,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 34603,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 52996,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54565,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 77181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 78750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 79309,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 80878,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 121980,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123549,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 91919,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93488,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 100669,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 102238,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 120871,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 122440,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 139337,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 140906,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 91102,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92671,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 65914,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67483,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 49658,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51227,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 30835,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 32404,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 299876,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 301445,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 275920,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 277489,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 304660,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 306229,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 283380,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 284949,
+            "fits131072HardCap": false
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 67527,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69096,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 73843,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 75412,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 85678,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87247,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 81628,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 83197,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 77330,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 78899,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 84236,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 85805,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 95406,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96975,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 97606,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 99175,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 93455,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 95024,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 91055,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92624,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 101829,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 103398,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 115613,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 117182,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 92808,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 94377,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 171596,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 173165,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 116908,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 118477,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 77858,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 79427,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 89069,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 90638,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 104662,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 106231,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 142533,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 144102,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 153437,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 155006,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 120198,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 121767,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 136335,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 137904,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 153877,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 155446,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 120190,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 121759,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 113256,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 114825,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 101807,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 103376,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 122629,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 124198,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 61697,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63266,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 81659,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 83228,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 105844,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 107413,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 107972,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 109541,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 150643,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 152212,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 120582,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 122151,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 129332,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 130901,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 149534,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 151103,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 168000,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 169569,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 119765,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 121334,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 94577,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96146,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 78321,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 79890,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 59498,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 61067,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 322797,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 324366,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 298841,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 300410,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 327581,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 329150,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 306301,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 307870,
+            "fits131072HardCap": false
+          }
+        ]
+      },
+      "controlCharacter150": {
+        "scenario": "controlCharacter150",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": true,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 38864,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40433,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 45180,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46749,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 56913,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58482,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 52965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 48667,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50236,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 55573,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 57142,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 66743,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68312,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 68943,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 70512,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 64792,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 66361,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 62392,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63961,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 73166,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74735,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 86950,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88519,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 64145,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65714,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 142933,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 144502,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 88245,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89814,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 49195,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50764,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 60406,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 61975,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 75999,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77568,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 113870,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115439,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 124774,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126343,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 91535,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93104,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 107672,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 109241,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 125214,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126783,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 91527,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93096,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 84593,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 86162,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 73144,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 74713,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 93966,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 95535,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 33034,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 34603,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 52996,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54565,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 77181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 78750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 79309,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 80878,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 121980,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123549,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 91919,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93488,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 100669,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 102238,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 120871,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 122440,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 139337,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 140906,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 91102,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92671,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 65914,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67483,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 49658,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51227,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 30835,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 32404,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 515876,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 517445,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 491920,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 493489,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 520660,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 522229,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 499380,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 500949,
+            "fits131072HardCap": false
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 94527,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96096,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 100843,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 102412,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 112678,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 114247,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 108628,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 110197,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 104330,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 105899,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 111236,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 112805,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 122406,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123975,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 124606,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126175,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 120455,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 122024,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 118055,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 119624,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 128829,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 130398,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 142613,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 144182,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 119808,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 121377,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 198596,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 200165,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 143908,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 145477,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 104858,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 106427,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 116069,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 117638,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 131662,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 133231,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 169533,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 171102,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 180437,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 182006,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 147198,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 148767,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 163335,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 164904,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 180877,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 182446,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 147190,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 148759,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 140256,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 141825,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 128807,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 130376,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 149629,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 151198,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 88697,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 90266,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 108659,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 110228,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 132844,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 134413,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 134972,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 136541,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 177643,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 179212,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 147582,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 149151,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 156332,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 157901,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 176534,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 178103,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 195000,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 196569,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 146765,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 148334,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 121577,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123146,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 105321,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 106890,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 86498,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88067,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 560397,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 561966,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 536441,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 538010,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 565181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 566750,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 543901,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 545470,
+            "fits131072HardCap": false
+          }
+        ]
+      }
+    },
+    "newFullSemanticFieldsOnly": {
+      "minimal": {
+        "scenario": "minimal",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": false,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 29964,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 31533,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 31927,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 33496,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 42611,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44180,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 39032,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40601,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 35474,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37043,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 41044,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42613,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 47680,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 49249,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 49530,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51099,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 46488,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48057,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 43345,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44914,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 50170,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51739,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 57142,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58711,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 44777,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46346,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 96165,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97734,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 62363,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63932,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 35346,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36915,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 41381,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42950,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 51487,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 53056,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 75383,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76952,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 85525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87094,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 63398,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 64967,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 74857,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76426,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 85670,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87239,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 64403,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65972,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 58697,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60266,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 55008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 56577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 66181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 23965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 38875,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40444,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 58450,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60019,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 60484,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62053,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 94824,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96393,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 66814,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68383,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 71019,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 72588,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 87768,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89337,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 102456,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104025,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 67192,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68761,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 46968,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48537,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 35243,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36812,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 23458,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25027,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13923,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15492,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13902,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15471,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13943,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15512,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 13902,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 15471,
+            "fits131072HardCap": true
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 30780,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 32349,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 32743,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 34312,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 43427,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44996,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 39848,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 41417,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 36290,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37859,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 41860,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 43429,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 48496,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 50065,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 50346,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51915,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 47304,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48873,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 44161,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 45730,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 50986,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 52555,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 57958,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 59527,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 45593,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 47162,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 96981,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 98550,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 63179,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 64748,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 36162,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37731,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 42197,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 43766,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 52303,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 53872,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 76199,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77768,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 86341,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87910,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 64214,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65783,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 75673,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77242,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 86486,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88055,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 65219,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 66788,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 59513,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 61082,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 55824,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 57393,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 66997,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68566,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 24781,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 26350,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 39691,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 41260,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 59266,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60835,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 61300,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62869,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 95640,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97209,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 67630,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69199,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 71835,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 73404,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 88584,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 90153,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 103272,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104841,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 68008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 47784,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 49353,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 36059,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37628,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 24274,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25843,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14546,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16115,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16094,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14566,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16135,
+            "fits131072HardCap": true
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 0,
+            "userMessageUTF8Bytes": 14525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 16094,
+            "fits131072HardCap": true
+          }
+        ]
+      },
+      "Chinese150": {
+        "scenario": "Chinese150",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": true,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 29964,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 31533,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 31927,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 33496,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 42611,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44180,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 39032,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40601,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 35474,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37043,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 41044,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42613,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 47680,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 49249,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 49530,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51099,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 46488,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48057,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 43345,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44914,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 50170,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51739,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 57142,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58711,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 44777,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46346,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 96165,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97734,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 62363,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63932,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 35346,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36915,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 41381,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42950,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 51487,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 53056,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 75383,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76952,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 85525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87094,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 63398,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 64967,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 74857,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76426,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 85670,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87239,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 64403,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65972,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 58697,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60266,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 55008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 56577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 66181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 23965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 38875,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40444,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 58450,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60019,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 60484,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62053,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 94824,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96393,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 66814,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68383,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 71019,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 72588,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 87768,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89337,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 102456,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104025,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 67192,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68761,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 46968,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48537,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 35243,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36812,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 23458,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25027,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 278819,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 280388,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 262108,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 263677,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 280849,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 282418,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 266223,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 267792,
+            "fits131072HardCap": false
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 58627,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60196,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 60590,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62159,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 71376,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 72945,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 67695,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69264,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 64137,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65706,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 69707,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 71276,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 76343,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77912,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 78193,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 79762,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 75151,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76720,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 72008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 73577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 78833,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 80402,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 85805,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87374,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 73440,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 75009,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 124828,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 126397,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 91026,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92595,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 64009,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65578,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 70044,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 71613,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 80150,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 81719,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 104046,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 105615,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 114188,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115757,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 92061,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 93630,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 103520,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 105089,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 114333,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115902,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 93066,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 94635,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 87360,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88929,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 83671,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 85240,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 94844,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96413,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 52628,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 54197,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 67538,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 69107,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 87113,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 88682,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 89147,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 90716,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 123487,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 125056,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 95477,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97046,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 99682,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 101251,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 116431,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 118000,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 131119,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 132688,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 95855,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97424,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 75631,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 77200,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 63906,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65475,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 52121,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 53690,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 301740,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 303309,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 285029,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 286598,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 303770,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 305339,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 289144,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 290713,
+            "fits131072HardCap": false
+          }
+        ]
+      },
+      "controlCharacter150": {
+        "scenario": "controlCharacter150",
+        "sourceAndAnswerMaximaIndependentlyCombinedUpperEnvelope": true,
+        "initial40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 29964,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 31533,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 31927,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 33496,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 42611,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44180,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 39032,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40601,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 35474,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 37043,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 41044,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42613,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 47680,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 49249,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 49530,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51099,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 46488,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48057,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 43345,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 44914,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 50170,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 51739,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 57142,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 58711,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 44777,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 46346,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 96165,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 97734,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 62363,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 63932,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 35346,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36915,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 41381,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 42950,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 51487,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 53056,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 75383,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76952,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 85525,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87094,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 63398,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 64967,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 74857,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 76426,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 85670,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87239,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 64403,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 65972,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 58697,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60266,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 55008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 56577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 66181,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 67750,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 23965,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25534,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 38875,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 40444,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 58450,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 60019,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 60484,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 62053,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 94824,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96393,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 66814,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68383,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 71019,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 72588,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 87768,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89337,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 102456,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104025,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 67192,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 68761,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 46968,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 48537,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 35243,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 36812,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 23458,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 25027,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefChallenges": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "citedRuleUpperCount": 33,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 494819,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 496388,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 478108,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 479677,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "citedRuleUpperCount": 39,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 496849,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 498418,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "citedRuleUpperCount": 24,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 482223,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 483792,
+            "fits131072HardCap": false
+          }
+        ],
+        "replies40": [
+          {
+            "bookId": "B37",
+            "userMessageUTF8Bytes": 85627,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 87196,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B38",
+            "userMessageUTF8Bytes": 87590,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 89159,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "B40",
+            "userMessageUTF8Bytes": 98376,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 99945,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P04",
+            "userMessageUTF8Bytes": 94695,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96264,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P05",
+            "userMessageUTF8Bytes": 91137,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92706,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P06",
+            "userMessageUTF8Bytes": 96707,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 98276,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P07",
+            "userMessageUTF8Bytes": 103343,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104912,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P08",
+            "userMessageUTF8Bytes": 105193,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 106762,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P09",
+            "userMessageUTF8Bytes": 102151,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 103720,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P10",
+            "userMessageUTF8Bytes": 99008,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 100577,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P11",
+            "userMessageUTF8Bytes": 105833,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 107402,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P12",
+            "userMessageUTF8Bytes": 112805,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 114374,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P13",
+            "userMessageUTF8Bytes": 100440,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 102009,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P14",
+            "userMessageUTF8Bytes": 151828,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 153397,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P15",
+            "userMessageUTF8Bytes": 118026,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 119595,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P16",
+            "userMessageUTF8Bytes": 91009,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92578,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P17",
+            "userMessageUTF8Bytes": 97044,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 98613,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P18",
+            "userMessageUTF8Bytes": 107150,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 108719,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P19",
+            "userMessageUTF8Bytes": 131046,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 132615,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P20",
+            "userMessageUTF8Bytes": 141188,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 142757,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P21",
+            "userMessageUTF8Bytes": 119061,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 120630,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P22",
+            "userMessageUTF8Bytes": 130520,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 132089,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P23",
+            "userMessageUTF8Bytes": 141333,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 142902,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P24",
+            "userMessageUTF8Bytes": 120066,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 121635,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P25",
+            "userMessageUTF8Bytes": 114360,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115929,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P26",
+            "userMessageUTF8Bytes": 110671,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 112240,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P27",
+            "userMessageUTF8Bytes": 121844,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 123413,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P28",
+            "userMessageUTF8Bytes": 79628,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 81197,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P29",
+            "userMessageUTF8Bytes": 94538,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 96107,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P30",
+            "userMessageUTF8Bytes": 114113,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 115682,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P31",
+            "userMessageUTF8Bytes": 116147,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 117716,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P32",
+            "userMessageUTF8Bytes": 150487,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 152056,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P33",
+            "userMessageUTF8Bytes": 122477,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 124046,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P34",
+            "userMessageUTF8Bytes": 126682,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 128251,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P35",
+            "userMessageUTF8Bytes": 143431,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 145000,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P36",
+            "userMessageUTF8Bytes": 158119,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 159688,
+            "fits131072HardCap": false
+          },
+          {
+            "bookId": "P37",
+            "userMessageUTF8Bytes": 122855,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 124424,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P38",
+            "userMessageUTF8Bytes": 102631,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 104200,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P39",
+            "userMessageUTF8Bytes": 90906,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 92475,
+            "fits131072HardCap": true
+          },
+          {
+            "bookId": "P40",
+            "userMessageUTF8Bytes": 79121,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 80690,
+            "fits131072HardCap": true
+          }
+        ],
+        "fourChiefAdjudications": [
+          {
+            "group": "交易结构与行为",
+            "memberBooks": 11,
+            "selectedRuleCount": 33,
+            "userMessageUTF8Bytes": 539340,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 540909,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "企业经济与竞争",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 522629,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 524198,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "信用货币与流动性",
+            "memberBooks": 13,
+            "selectedRuleCount": 39,
+            "userMessageUTF8Bytes": 541370,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 542939,
+            "fits131072HardCap": false
+          },
+          {
+            "group": "储蓄财政与制度",
+            "memberBooks": 8,
+            "selectedRuleCount": 24,
+            "userMessageUTF8Bytes": 526744,
+            "systemMessageUTF8Bytes": 569,
+            "outputTokenAllowance": 1000,
+            "conservativeByteAsTokenCeiling": 528313,
+            "fits131072HardCap": false
+          }
+        ]
+      }
+    }
+  },
+  "runtimeDependencies": {
+    "callAllowedRuleIds": [
+      66
+    ],
+    "chiefInitialSelection": [
+      132
+    ],
+    "chiefReplySelection": [
+      142
+    ],
+    "chiefRuleSelection": [
+      133,
+      143
+    ],
+    "capCheckBeforeHTTP": [
+      74
+    ],
+    "unusedPacketAliases": "No run()/call()/chief selector reads removed alias fields. Selection/allowed citation checks use id only; models get meaning/conditions under originalSemanticFields.",
+    "runtimeCatalogueAliasesMustRemain": [
+      "app.js:103 archive display",
+      "book-engine.js:27 input requirements",
+      "book-engine.js:34 explanation/bindings"
+    ],
+    "testSchemaRequiresUpdate": "Root reports FIELDS and B40 archive assertion updated; independent static audit does not claim rerunning those16tests or88mockcalls."
+  },
+  "remainingBoundaries": [
+    "Knowledge-packet-only size does not guarantee complete prompt fits. Frozen facts and prior answers must be included at every call.",
+    "Chief phases include all40 initial/revised answers plus group member cited rules; at most3 claims per member allows up to33/24/39/24 cited rules, not just3 per group.",
+    "Current validate_answer preserves entire claim dictionaries after checking rule_id and text. Unrecognized extra claim fields are not length-bounded by the recognized schema, so these numeric maxima are not a universal hard upper bound for every accepted response. Transport read is separately capped at4,000,000 bytes; per-call context rejection remains necessary.",
+    "A smaller local model context, larger dated facts, aggregate chief answers, HTTP/model failure or output rejection can prevent all88 completions. Overflow must abstain beforeHTTP, with truncate:false and shift:false unchanged.",
+    "No model trained, invoked, tested for market accuracy, or validated prediction probability in this audit. 88 denotes intended orchestration count and mocked test structure, not88 successful real calls."
+  ],
+  "modelFunctionsExecuted": {
+    "run": 0,
+    "call": 0,
+    "request": 0,
+    "start": 0,
+    "models": 0
+  },
+  "noHTTPOrNetworkUsed": true,
+  "noApplicationOrCanonicalFilesEdited": true,
+  "onlyNewAuditReportWritten": true
+}

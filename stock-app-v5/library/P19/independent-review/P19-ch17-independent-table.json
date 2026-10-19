@@ -1,0 +1,134 @@
+{
+  "book_id": "P19",
+  "original_pdf_page_actually_viewed": 293,
+  "printed_page": 281,
+  "table_header_TowerPound_TroyOz": 11.25,
+  "TroyGrainsPerOz": 480,
+  "TowerGrains": 5400,
+  "table_fields": [
+    "year",
+    "TowerPoundValuePence",
+    "PennyGrossGrains",
+    "PrintedAdjacentReductionPct"
+  ],
+  "hand_transcribed_rows": [
+    [
+      "Original",
+      240,
+      22.5,
+      null
+    ],
+    [
+      1299,
+      243,
+      22.22222222222222,
+      1.25
+    ],
+    [
+      1343,
+      266,
+      20.3,
+      8.666666666666666
+    ],
+    [
+      1346,
+      270,
+      20,
+      1.5
+    ],
+    [
+      1351,
+      300,
+      18,
+      10
+    ],
+    [
+      1411,
+      360,
+      15,
+      16.666666666666668
+    ],
+    [
+      1464,
+      450,
+      12,
+      20
+    ],
+    [
+      1526,
+      506.25,
+      10.666666666666666,
+      11.11111111111111
+    ]
+  ],
+  "displayed_recompute": [
+    {
+      "year": "Original",
+      "grainsFromTowerValue": 22.5,
+      "printedGross": 22.5,
+      "adjacentReductionPct": null,
+      "originalPct": null
+    },
+    {
+      "year": 1299,
+      "grainsFromTowerValue": 22.22222222222222,
+      "printedGross": 22.22222222222222,
+      "adjacentReductionPct": 1.2345679012345734,
+      "originalPct": 1.25
+    },
+    {
+      "year": 1343,
+      "grainsFromTowerValue": 20.30075187969925,
+      "printedGross": 20.3,
+      "adjacentReductionPct": 8.649999999999991,
+      "originalPct": 8.666666666666666
+    },
+    {
+      "year": 1346,
+      "grainsFromTowerValue": 20.0,
+      "printedGross": 20,
+      "adjacentReductionPct": 1.4778325123152691,
+      "originalPct": 1.5
+    },
+    {
+      "year": 1351,
+      "grainsFromTowerValue": 18.0,
+      "printedGross": 18,
+      "adjacentReductionPct": 9.999999999999998,
+      "originalPct": 10
+    },
+    {
+      "year": 1411,
+      "grainsFromTowerValue": 15.0,
+      "printedGross": 15,
+      "adjacentReductionPct": 16.666666666666664,
+      "originalPct": 16.666666666666668
+    },
+    {
+      "year": 1464,
+      "grainsFromTowerValue": 12.0,
+      "printedGross": 12,
+      "adjacentReductionPct": 19.999999999999996,
+      "originalPct": 20
+    },
+    {
+      "year": 1526,
+      "grainsFromTowerValue": 10.666666666666666,
+      "printedGross": 10.666666666666666,
+      "adjacentReductionPct": 11.111111111111116,
+      "originalPct": 11.11111111111111
+    }
+  ],
+  "additional_display_math": {
+    "120grains_thirdPure": 40.0,
+    "80grains_halfPure": 40.0,
+    "80grains_quarterPure": 20.0,
+    "old10twoThird_to8Reduction": 25.0
+  },
+  "limits": [
+    "All8table rows actuallyread butunderlyingmintrecords notallverified",
+    "Weights totalalloy, notpuresilver; noautomaticmoderninvestmentconversion",
+    "Rounded20.3/8twoThirdpercentage approximate; do notrewriteoriginalrawOCR",
+    "originalTower11¼ vsOCRiiiozs damage retained"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "book_id": "P30",
+  "intro_PDF18_verified": [
+    "cash200",
+    "nominal5000",
+    "5% movement loss250",
+    "50 below available cash"
+  ],
+  "intro_PDF28_verified": "Source explicitly includes bonafide investor in corresponding-loss argument; retained as disputed author assertion not silent softened",
+  "ch01_scans_verified": [
+    30,
+    31,
+    33,
+    34,
+    35,
+    42,
+    43
+  ],
+  "ch01_numeric_table": {
+    "initial_nominal": 5000,
+    "initial_price_per100": 50,
+    "initial_cash": 2500,
+    "commission_each": 6.25,
+    "first_price": 50.5,
+    "first_value": 2525,
+    "first_net_before_new_carry": 18.75,
+    "further_quote_point_rise": 0.25,
+    "relapse_quote_points": 0.625,
+    "ending_price": 50.125,
+    "ending_value": 2506.25,
+    "carry_15days_as_printed": 6.225,
+    "total_two_commissions_and_carry": 18.725,
+    "ending_profit": -12.475,
+    "printed_loss_old_currency": "12 pounds 9 shillings 6 pence",
+    "displayed_peak_profit_in_source": "18 pounds 15 shillings; exact peak minus all shown charges would differ by6pence, do not silently repair",
+    "OCR_corrections": {
+      "PDF34": {
+        "relapse": "5/8 not OCR-garbled fraction",
+        "sale_price": "50 1/8",
+        "sale_amount": "2506 5s not OCR2500 5s"
+      }
+    }
+  },
+  "source_pdf_SHA": "7ce315b564eceb36a5fd6240ec0e42088d196c792d44b63be8aff0479a58b31b",
+  "all_15_chapters_read": false,
+  "reviewed_utc": "2026-10-12T11:40:48.431959+00:00",
+  "source_identity_explicit": "Superseded Oxford theorystockexch01crumgoog; PDF numbers here refer only to Oxford. Corresponding Cornell full text reread, not silently equated PDF numbers.",
+  "historical_stage_note": "all_15_chapters_read false below is stage snapshot at review date, superseded by final chapter plan/audit"
+}

@@ -1,0 +1,1194 @@
+{
+  "book_id": "P12",
+  "full_review_complete": true,
+  "root_merge_pending": true,
+  "findings": [
+    {
+      "rule": "P12-R03",
+      "kind": "separate_original_strong_network_claim_from_modern_elasticity_test",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "煤交通、市场及资本组织相连，历史最大客户不直接给现损失弹性。",
+          "new": "煤、交通、市场与资本组织相连；作者认为大陆其余地区的繁荣主要依赖德国的繁荣与进取。"
+        },
+        "evidence_that_would_revise_or_narrow": {
+          "old": "有替代买卖和资金通路时修唯一中心结论。",
+          "new": "实际替代买家、供应和资金通路充分时，收窄德国为主要支撑的普遍断言；贸易排名本身不给当前损失弹性。"
+        }
+      },
+      "basis_global_lines": [
+        356,
+        412
+      ],
+      "reason": "Current original-author field places modern historical-rank/noncurrent-loss-elasticity critique under original claim; original says mainly depended, not sole unique center. Retain strong source meaning and move modern challenge to revision field."
+    },
+    {
+      "rule": "P12-R04",
+      "kind": "retain_equitable_distribution_impossibility_claim_and_separate_modern_critique",
+      "field_edits": {
+        "title": {
+          "old": "积累的社会心理非自然必要定理",
+          "new": "战前资本积累的不平等与双重心理约定"
+        },
+        "author_claim_paraphrase": {
+          "old": "作者把不平等与少消费阶层资本形成相联，双约定随战争变。",
+          "new": "作者断言半世纪的大量固定资本不可能在财富公平分配的社会同样形成；它依靠劳动者少消费与资本家少享用的双重约定，战争动摇二者。"
+        },
+        "author_original_conditions": {
+          "old": "强说平等不能积累没有穷尽其他制度；9/10美德非90%储蓄率。",
+          "new": "以当时资本家倾向积累、劳动者因习俗和权力接受少份消费的社会心理为前提；战争打破这组约定。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "没有穷尽公平分配或公共储蓄等替代制度，是本次独立质疑；九成美德的修辞不作为收入90%的储蓄率。核证、去重和证伪属于现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "basis_global_lines": [
+        424,
+        504
+      ],
+      "reason": "Dossier correctly preserves original strong could-never/equitable claim; current compact expert claim weakens it to an association, while original_conditions includes reviewer criticism. Restore source assertion without endorsing it; criticism remains independent layer and falsification field."
+    },
+    {
+      "rule": "P12-R06",
+      "kind": "separate_actual_original_scope_from_reviewer_modern_boundaries",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者承旁观者会错，外貌宗教民族与戏剧是语境，非机制已证。",
+          "new": "作者承认旁观者可能误判动机、无终局判断资格；随后仍以强烈人物与心理解释说明条约形成。"
+        },
+        "author_original_conditions": {
+          "old": "Clemenceau所信国民性不是本专家认可。",
+          "new": "以本人在场的观察与尚未完成的意志、目的争斗为对象；作者明称所给解释可能片面不确定。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "对外貌、宗教、民族标签和临床措辞的限制属于本次现代边界；所归克里孟梭的民族性信念不代表本专家认可，不能当心理机制已获验证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R07",
+      "kind": "separate_actual_original_scope_from_reviewer_modern_boundaries",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "一次场景非全部样本，作者归心态未独立核。",
+          "new": "英国、美国国内政治，同盟公众反德情绪、国联目标及五个月封闭会议限制总统的替代路线。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "一次现场叙述不代表全体会议样本，心理归因需要独立档案检验；这属于本次边界。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R08",
+      "kind": "separate_actual_original_scope_from_reviewer_modern_boundaries",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "条约节录非独立全法律认证，心理情结非临床诊断。",
+          "new": "以本章所引条文、德国书面答复及谈判叙述为依据；作者仍判断德国的实际讨论被拒绝。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "本次未独立核完整条约法律适用，原文心理“情结”不作为本专家的临床诊断；书面回复与有效听取的区分仍保留。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R07",
+      "kind": "actual_military_food_and_financial_power_direct_evidence",
+      "add_global_lines_inclusive": [
+        858,
+        876
+      ],
+      "exact_paragraph_boundaries_confirmed": true,
+      "reason": "Existing formal evidence has French drafting and costly alternatives but omits original US military/food/financial power premise named in the original-author rule claim."
+    },
+    {
+      "rule": "P12-R09",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "Jan8/18源冲突保留；精神与具体条款不同。",
+          "new": "1918年10月德美公文与11月5日盟方带保留的同意；精神目的难以按契约直接适用，若干具体问题未定。"
+        },
+        "required_inputs": {
+          "old": [
+            "原文件主体时点",
+            "留款与原约",
+            "具体条文"
+          ],
+          "new": [
+            "原文件主体时点",
+            "盟方保留条款与原和平承诺",
+            "具体条文"
+          ]
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "原电子本Jan8/Jan18日期冲突仍保留，未核原扫描或全部外交文件，不替代现行法律认证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R10",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "国家财产移但负债留、私产有例外、先偿私人及别敌债后余额用途不同。",
+          "new": "国家财产转移而相应负债留德，私产清算有例外；先偿有关私人债与对其他敌国的财产索赔，再依规定处理余额。"
+        },
+        "author_original_conditions": {
+          "old": "政府/私人、所在地/国籍、居留及新国款归主人不同。",
+          "new": "政府与私人、所在地与国籍、居留及新国家的业主收款不同；对德前盟国索赔的宽词是否含私人债，作者注明解释略可疑。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R11",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "海外公用权益与早5b资产选权范围广，作者明剥夺尚未全完成。",
+          "new": "境外公用权益与截至1921年5月1日最高五十亿美元赔付的财产指定权范围广；作者明确说总体剥夺尚未完成。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R12",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "萨尔矿绝对归与十五年管理/回购不同，Silesia未定，进口可使损变收支。",
+          "new": "萨尔矿绝对归法国，地区十五年管理不等于矿到期自动返还，未来有条件回购；上西里西亚归属未定，若德国能购买所需煤，损害可主要转为收支问题。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R13",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "29需求减与可见25.87、矿用分摊未解，硬煤吨非褐煤热值。",
+          "new": "在1913年煤账上先假设地域损失，并以较小效率降幅粗估；作者虽认为德方逾30%减产估计大体可信，仍表示不足以认可或批评。煤账不计褐煤，其替代程度他承认未知。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "需求最多减少2900万吨与按可见分组独立复算2587万吨的口径未明，矿内煤耗分摊无独立底账；这是本次核查缺口。硬煤与褐煤吨数不能自行视作同等热值。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R14",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "可缓取消，北法毁矿优先，Sept1919已有新半年额度。",
+          "new": "交付可缓或取消，北法毁矿替代煤有优先；1919年9月已将接下来半年的交付改为按年化二千万吨对应安排。"
+        },
+        "author_original_conditions": {
+          "old": "最大45/例40/修文43不同阶段，优先不能造资源。",
+          "new": "北法毁矿替代煤优先；9月引文以年产一亿零八百万为基准，至一亿二千八百万的新增产量交60%，再增量交50%，不足基准则重新审查。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "主文约4500万吨最高额、4000万吨示例及9月引用约4300万吨原额分别保存，不强行合一；优先规定不创造资源，原文不代表后来全部已履行。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R15",
+      "kind": "source_quantity_scope_or_original_modern_layer_precision",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "粮换煤激励和法国铁需德煤炉有依赖，票能拿不等必要物能买。",
+          "new": "粮换煤的激励、法国铁矿与德国煤及炉业互依，说明取得货币不等于可以买到必要物资。"
+        }
+      },
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "chapter": 4,
+      "file": "chapters/ch04.md",
+      "kind": "industrial_undertaking_loss_and_coal_demand_recalculation_separated",
+      "old": "注四十六用工业需求少二三、其他少十三。按给的工业七千八百万和其他六千一百万分组，少约二千五百八十七万，不直接等主文最大二千九百万；",
+      "new": "注四十六假设德国工业事业损失百分之二十三、其他需要减少百分之十三。若把这两率分别用于给出的工业煤需七千八百万和其他煤需六千一百万，独立复算会少约二千五百八十七万，不直接等主文最大二千九百万；",
+      "basis_global_lines": [
+        2518,
+        2523
+      ],
+      "reason": "Source says loss23%industrial undertaking and diminution13%other requirements; do not silently assert measured coal demand dropped23%, or leave bare二三/十三 ambiguous. 25.87 is an independent conditional group calculation, not exact source total29."
+    },
+    {
+      "chapter": 4,
+      "file": "chapters/ch04.md",
+      "kind": "minority_not_decimal_translation",
+      "old": "多瑙未正式定但小数",
+      "new": "多瑙未正式定，作者估计德国仍将占少数",
+      "basis_global_lines": [
+        2273,
+        2284
+      ],
+      "reason": "Original apparently in a small minority refers to Germany representation, not a decimal number; keep not-yet-definite and apparently qualification."
+    },
+    {
+      "chapter": 5,
+      "file": "chapters/ch05.md",
+      "kind": "gold_special_purpose_amount_unambiguous",
+      "old": "特别取二五千万、五千万或一亿或可",
+      "new": "特别取二千五百万、五千万或一亿美元或可",
+      "basis_global_lines": [
+        3870,
+        3887
+      ],
+      "reason": "Source amounts are $25m, $50m, $100m, not an ambiguous 二五千万 unit."
+    },
+    {
+      "chapter": 5,
+      "file": "chapters/ch05.md",
+      "kind": "shipping_unit_price_and_total_value_separated",
+      "old": "商船估四百万总吨每吨一百五十六亿",
+      "new": "商船估四百万总吨，按每总吨一百五十美元估值为六亿美元",
+      "basis_global_lines": [
+        3889,
+        3897
+      ],
+      "reason": "Separate 4million gross tons ×$150/gross ton =$600million; do not let unpunctuated Chinese combine price and total."
+    },
+    {
+      "rule": "P12-R20",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "10.6b及8–15b是合法损量级猜，10b建议加宽待并未已验能付。",
+          "new": "作者猜有限合法损失合计一百零六亿美元，量级在八十至一百五十亿之间；建议以一百亿加若干宽待最终定额，称并非完全不可能清偿。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "合理请求额与实际偿付能力仍须分别检验，这不是完成了可支付的独立认证；比利时数额含特殊战争借款，俄罗斯暂不列不代表无条约权。核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R24",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "余额从1921计息，原粗双及1930+30/1918+48、摊本基金有缺。",
+          "new": "未以现金、实物或债券覆盖的余额自一九二一年五月起仍计息；作者用未足额偿息而债务复增的设例，批判年年抽取最大可得额而不留努力回报的制度。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "原十五年粗略翻倍、1930加30年与停战后48年、摊本基金完整时序的缺口，是本次独立复算和来源限制；保留原值并暂停精算，不把未解日期归成作者自行承认的缺口。核证与去重属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R25",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "普查1916/法令1918冲突、净投/国籍分，船换粮可合理。",
+          "new": "以一九一九年可及时调动的金、船及海外资产为对象，须区分净投资、国籍、优先私人债、临时运粮使用与最终转让；作者在合理诚信前提下认为交船运粮并非不当要求。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "正文普查1916与注121的1918法令时序差保留为来源限制，不擅统一；账面财富、市场价值、政府可取得与期限内现金分别核证。核证、去重和证伪属本次解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R27",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "商品/地域表总差1.8m；只列2/3品，价格/糖基期限保。",
+          "new": "假定盟方不给德国特殊原料优先、法国争取钢业、不特别帮助德国在海外压低盟方竞争品，以及英国帝国不给德国特别优惠；棉毛等加工出口依赖进口原料，压低必要食品进口又会伤工人效率。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "商品与地域表出口总额差180万美元，以及只列约三分之二品类、糖的战前一般比例与1913量价分母不同，均保留为来源及检验限制，不擅平账。核证、去重和证伪属现代解释，原无自动选股或回测阈值。 另核官方HTML与TXT的未列出口、英出口、法进口、其他国出口和禽类比例及进口分母标题不同，两个格式均保留，不擅指定哪个是原刻或平账。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R28",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "title": {
+          "old": "关键贸易现值桥缺口暂停",
+          "new": "贸易改善与偿付现值估计及复算边界"
+        },
+        "author_claim_paraphrase": {
+          "old": "改善500m减370m不直接余250m，翻价及5息1摊本PV不同完整模型未列。",
+          "new": "作者假定贸易余额可按战前价格改善五亿美元，再假定扣旧逆差后余二点五亿、按物价加倍成每年五亿；以五息一摊本粗估现值八十五亿，最后把各种付款方式合为一百亿美元的安全最大额，且自不信能实付到此。"
+        },
+        "author_original_conditions": {
+          "old": "10b作者safe最大仍自不信实能全付，粗PV非精算。",
+          "new": "这是资源、市场、生产与生活水平改变下的高限猜测，非实收记录；作者指出永续五億在百分之五息下也只把现值增到一百亿。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "五億减五年逆差三点七亿不直接剩二点五亿，以及三十年年金、简单六个点除法和原八十五亿并非同一完整模型，是本次独立复算；保留作者追加假定和原值，不能暗换单年逆差或作为实验参数。原无现代选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R29",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "输出劳工非与国内同工双算；内债分配与外债转资源分，种族不作特征。",
+          "new": "输送劳工重建受供养人数及法比居民容忍限制，不必是其他付款外的净增加；国内债与对外债、国内资本建设劳动与出口劳动分别判断。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "原注133的白人种族心理表述保留为历史语境，种族不作为当前模型特征；这属于本次独立边界。核证、去重和证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R30",
+      "kind": "separate_source_author_meaning_and_actual_conditions_from_independent_review_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "法律节录非全条约独证，委员武力触发与自己军不同。",
+          "new": "作者认为索求超过可付额时，减免、粮材回付与税制审查的裁量才会深入经济生活；若德国可自行筹足现金，多种权限不必实际使用。他也保留委员会以后转为欧洲恢复机构的可能。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "法律节录与作者解释并非本档案独立核证的全条约意见；委员会自有军队与其判违约后触发盟军行动须分开，取消需全政府授权且返资源未必由委员会自己承担，原注144的十月底尚未正式成立也不等于所有职责已实际执行。核证与证伪属于现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R27",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        4223,
+        4331
+      ],
+      "reason": "Full commodity tables needed to document underlying export/import amounts and distinguish regional total; original figures retained."
+    },
+    {
+      "rule": "P12-R27",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5442,
+        5446
+      ],
+      "reason": "Full note128 supplies 1913 sugar volume/value versus general prewar proportion, not a silent correction."
+    },
+    {
+      "rule": "P12-R30",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        4803,
+        4905
+      ],
+      "reason": "Whole actual discretion/German and Allied replies/reoccupation critique and possible League transformation context, missing from old administrative duty evidence."
+    },
+    {
+      "rule": "P12-R32",
+      "kind": "restore_source_strong_assertion_and_separate_independent_scope_limits",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "本章合战争和平不再分因，产力/运输/海外购买互锁，家庭/依赖者不是死数。",
+          "new": "作者不再分战争的必然后果与和平可避免的损失，以内部生产、运输交换及海外购买三类互锁解释危机；对德国委员会按原和平条件实施将导致数百万人死亡的强报告，称自己不知道充分的反答。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "十五百万是受救济家庭，依赖进口的一亿人不是已核死亡预测；德国委员会报告有利益方位置，作者无充分反答不等本档案独立验证其任何帮助均不能救的结论。核证与证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R33",
+      "kind": "restore_source_strong_assertion_and_separate_independent_scope_limits",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "Lenin句据说未核，库存风利非人人净富；低内价不能买国外料，外币债有未来币险。",
+          "new": "作者以据说的列宁发言引入货币败坏论，断言持续涨价使持库存或厂产的经营者不得不快富，并称暴利者是涨价后果而非原因；受控内价低于进口换币成本、个人外信用不足及不稳货币，又阻碍贸易恢复。"
+        },
+        "author_original_conditions": {
+          "old": "价差/信用/币险三障分，非所有控制补贴皆必坏。",
+          "new": "讨论战后欧洲持续发行、受控国内价、外部货价和外币负债而本币销售的错配；德国与法国、意大利的外部融资路径不同。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "据说的引言没有本书所给原发言来源，不证明列宁真实说过；经营者未必人人净富，须检验售价、重置成本、债税与实际成交，不能把作者强断言直接用于当前模型。价差、信用与币险分层；非任何补贴与控制永远同效。核证和证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R32",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5638,
+        5691
+      ],
+      "reason": "Complete interested-party mortality report and author no-adequate-answer response, not a modern independently verified death model."
+    },
+    {
+      "rule": "P12-R32",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5761,
+        5776
+      ],
+      "reason": "Complete town/country incentive loop and Hoover100million import-dependent population, not mortality."
+    },
+    {
+      "rule": "P12-R34",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5980,
+        6052
+      ],
+      "reason": "Complete actual French/Italian/German budget estimates and contextual clauses supporting existing budget claim, not only the monthly trade footnotes."
+    },
+    {
+      "chapter": 7,
+      "file": "chapters/ch07.md",
+      "kind": "tariff_five_percent_not_unproved_percentage_point_definition",
+      "old": "比国内对应消费税多不逾五个点",
+      "new": "依原注措辞，关税不得比同类国内产品相应消费税超出百分之五以上",
+      "basis_global_lines": [
+        7250,
+        7260
+      ],
+      "reason": "Retain original comparison wording without an invented percentage-point denominator; original program lists four heads, seven is chapter count, not remedy-head count."
+    },
+    {
+      "chapter": 7,
+      "file": "chapters/ch07.md",
+      "kind": "four_policy_heads_not_seven",
+      "old": "不能以七条纲领当即时选股规则",
+      "new": "不能以这四项补救纲领当即时选股规则",
+      "basis_global_lines": [
+        6301,
+        6311
+      ],
+      "reason": "Retain original comparison wording without an invented percentage-point denominator; original program lists four heads, seven is chapter count, not remedy-head count."
+    },
+    {
+      "rule": "P12-R35",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "title": {
+          "old": "悲观概率地区时间有自修",
+          "new": "悲观判断的地区、时间与自我修订"
+        },
+        "author_original_conditions": {
+          "old": "英国真实财富是作者估，未来新资料不能回填旧决策。",
+          "new": "以一九一九年大陆欧洲为主要对象，英国的变化与中东欧即时冷饥风险不同；作者承认相关原因可能未全列，危机也可能缓慢而不显著。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "英国真实财富是作者估计；后来资料不能倒填当时预见，也不把对时间和地区的自我修订称为校准概率。核证与证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R37",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "不是原约正式已改，Saar无偿返与France供矿条件分。",
+          "new": "赔偿提案把占军纳入一百亿总额；北法受毁矿产差赔煤保留前五年二千万吨、后五年八百万的年限，但若上西里西亚煤区离德应撤此义务。萨尔十年无价返矿地区，仍以法国供至少旧洛林入德矿的一半及德国相应供煤协议为前提。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "这是改约提议，并非原约已正式修订或已实行成功；统一二十五亿credit不表示逐项资产实值已经认证。核证与证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R38",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "开放机会/入口强制与帝国背景不同，不作身份特征。",
+          "new": "德、波、原奥匈和土帝国的新国及委任地须加入十年，其他国从开始自愿，十年后均可自愿；作者用人人可加入且无特殊特权区别它与排他帝国中欧计划。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "开放机会不抹掉入口强制和委任领背景的张力，也不构成所有贸易壁垒已为零的证据。原注税额比较未进一步量定，不擅改为五个百分点的现代执行参数；身份标签不作当前特征。核证与证伪属现代解释。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R39",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "表部分估排市场/央行债，法国行差90m保，坏俄贷与半值假改纸净额。",
+          "new": "作者列政府间战债的近似矩阵，指出有些贷款特别对俄难回收，因此名义账面取消所得与实际牺牲不同；英国按借出的一半价值是其财政部长的方便任意假设，主要请求美国慷慨。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "所用TXT法国一行2750加2540与行总5200相差90百万美元，官方HTML此行总另为5290；两个源格式保留，HTML相加吻合不证明原刻或历史底账已核。半值不是实际回收率证，政府矩阵不是整个国家外债或真实资金流；这些是本次独立复算与范围核证，原无现代选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R40",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "旧贡债有意愿政治束、1919资本levy强规范后P11可收窄，新贷须恢复生产。",
+          "new": "作者认为巨大战争政府贡债缺少相应真实资产支持、意愿与政治关系难持续；对于国内债，强称资本征税灭债是每个欧洲交战国健全财政的绝对前提，同时要求新外贷用于即时恢复资源并明确全额偿还。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "后书P11《货币改革论》1923原第二章总行1841–2014的条件收窄，仅作同一作者跨书参照，不能归成本书原文或增加独立验证票。本次实际核了该完整相关段落而非又全读P11；原旧债取消不免所有私人债，新旧贷款用途与担保分开，原无现代选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R41",
+      "kind": "actual_book_author_claims_and_conditions_separate_from_later_books_and_review_findings",
+      "field_edits": {
+        "title": {
+          "old": "俄粮恢复的代理唯一性待证",
+          "new": "俄粮恢复、德方组织作用及经济连带"
+        },
+        "author_claim_paraphrase": {
+          "old": "俄细节少、工具城市品和运输是启动链，德唯一代理强说及封锁批评是当时观点。",
+          "new": "作者承认俄细节几无可靠消息，却认为除德国企业和组织之外，看不到在合理期限恢复俄生产的可能办法，英法美无足够地理、动力和手段；贸易恢复能减德与西方争新世界粮，他主张停止对俄封锁并帮助德重新组织交换。"
+        },
+        "author_original_conditions": {
+          "old": "政治民族宗教讽刺不当现代产业事实或特征。",
+          "new": "以俄农工具、城市可交换货品及运输收集不足为前提；美保证粮价将停、人口增而欧洲土地未复，若不特别丰收则下一粮季更需俄粮。"
+        },
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "唯一德国的强说不是本档案独立穷尽替代组织的证明；政治、民族和宗教讽刺不当现代产业统计或特征，旧粮价预测不当后来实价。核证、去重和证伪属现代解释，原无自动选股或回测阈值。"
+        }
+      },
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R38",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        6532,
+        6553
+      ],
+      "reason": "Actual free-entry/no-special-privilege versus MittelEuropa defense and conditions of alternative membership, supporting restored original condition."
+    },
+    {
+      "rule": "P12-R40",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        6825,
+        6868
+      ],
+      "reason": "Full real-asset private-capital versus government-tribute argument and author disbelief that tributes last more than few years, beyond old evidence ending levy sentence."
+    },
+    {
+      "chapter": 5,
+      "file": "chapters/ch05.md",
+      "kind": "TXT_HTML_table_variants_preserved_not_silent_numeric_repair",
+      "old": "逐品和百分比有取整、未列品合约三分之一，不由单项小证明总无用。",
+      "new": "逐品和百分比有取整、未列品合约三分之一，不由单项小证明总无用。独立整表对照还发现，同一官方HTML未列出口写八百二十九点六九而TXT为八百二十九点六〇；地域表英国出口三百五十九点六五对TXT三百五十九点五五，法国进口一百四十六点六五对一百四十六点〇五，其他国出口八百点二〇对八百九十点二〇，单位均为百万美元。HTML进口表把百分比分母标题写成总出口，禽类比例写〇点六而TXT为〇点五。两格式原字节全部保留，未获原扫描，不能选择看似较合理的一格去认证原刻或原账，也不能平掉两表的差。",
+      "basis_global_lines": [
+        4216,
+        4331,
+        4409,
+        4452
+      ],
+      "reason": "All18HTML table forms independently read in full; 6 differing numeric cells/headers and amount-group sums differ from provided TXT; identify formats rather than declare either original printed/correct."
+    },
+    {
+      "chapter": 6,
+      "file": "chapters/ch06.md",
+      "kind": "Italian_monthly_gap_original_value_vs_independent_subtraction",
+      "old": "最后两月平均仍非半年总。",
+      "new": "最后两月平均仍非半年总。第一季原TXT和HTML均列进口二十二万九千二百四十、出口三万八千六百八十五、差十九万一千一百五十五，单位是千美元；独立相减实得十九万零五百五十五，相差六百千美元。保留原列，不替换任何输入或输出，未知属于原印、转录还是未说明的口径，不说三国所有月表都已精确平衡。",
+      "basis_global_lines": [
+        6127,
+        6140
+      ],
+      "reason": "Independent complete17monthly-row subtraction found16matching and ItalyJan–Mar1919reported191155 vscomputed190555. Both acquired formats share value; no original ledger or image proof."
+    },
+    {
+      "chapter": 7,
+      "file": "chapters/ch07.md",
+      "kind": "France_government_debt_total_TXT_vs_HTML_distinction",
+      "old": "法行美二千七百五十加英二千五百四十为五千二百九十，原总却五千二百少九十。按原列总正合一万九千九百二十五、按原行总合一万九千八百三十五，源差保留不改，不能宣称矩阵已精确平衡。",
+      "new": "法行美二千七百五十加英二千五百四十为五千二百九十，所用TXT行总却五千二百少九十；同一官方HTML行总另写五千二百九十。按TXT原列总正合一万九千九百二十五、按其行总合一万九千八百三十五；HTML此行及总和符合可见相加，但没有原印扫描或底账，不能据此认定哪格式忠于原刻。两个文件、两组原列值都保留，不把一次相加吻合宣称历史矩阵已经外核。",
+      "basis_global_lines": [
+        6619,
+        6646
+      ],
+      "reason": "HTMLtable15France5290 vsTXT5200; arithmetic correspondence is not original-print proof; no silent source normalization."
+    },
+    {
+      "file": "专家说明.md",
+      "kind": "remove_unsupported_not_yet_operating_central_bank",
+      "old": "未来央行和委员会尚未正式运行",
+      "new": "赔偿委员会在正文所述十月底尚未正式成立",
+      "basis_global_lines": [
+        5567,
+        5572
+      ],
+      "reason": "Original note144 discusses ReparationCommission pending formal constitution, not a future centralbank. Reichsbank/BankFrance were explicitly operating in source; do not imply all centralbank institutions unestablished."
+    },
+    {
+      "rule": "P12-R34",
+      "kind": "independent_monthly_numeric_gap_and_sample_scope_not_author_self_correction",
+      "field_edits": {
+        "modern_layer_separate": {
+          "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+          "new": "独立完整复算十七行月均贸易表，十六行相减吻合；意大利1919第一季原两格式所列差191155与输入独立相减190555相差600千美元，原列保留，不能擅称原刻错或精确平表。住院、某乡儿童和需治疗者不可外推全国或当现代疗方；这些核证、去重与证伪是本次独立分析，非作者自认修改，原无现代选股或回测阈值。"
+        }
+      },
+      "basis_global_lines": [
+        6127,
+        6140,
+        6169,
+        6211
+      ],
+      "reason": "Source itself gives raw reported values; modern independent numerical and sample limits must remain attributed to review."
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "kind": "new_dual_format_limit_and_complete_table_numeric_review_note",
+      "old": "原值保留，不选择改输入、输出或日期让模型看似全平。",
+      "new": "原值保留，不选择改输入、输出或日期让模型看似全平。独立复核完整十八个HTML表结构，其中十二个数值表、另六个目录诗句或宣言排版，不是十八份数值底账。与TXT逐项对照时发现HTML法国盟债行总5290而TXT5200，其他贸易金额、进口分母标题、禽类比例和比利时财富表误列tons也有转录格式差；没有原扫描，不选择哪个格式替原输入。法国、意大利、英国十七行月均进出口，十六行相减吻合；意大利1919第一季两格式同列差191155千美元，独立相减为190555，差600千美元。表数、原列及独立复算另档全保，不认证原印错误责任或真实原账。",
+      "reason": "New full18HTML table evidence and17row independent arithmetic supplement original source-limits; not silently rewriting original numbers."
+    },
+    {
+      "chapter": 5,
+      "file": "chapters/ch05.md",
+      "kind": "cumulative_percentage_is_independent_table_interpretation",
+      "old": "第二组七点一一七亿旁列六七点二为累计比例",
+      "new": "第二组七点一一七亿旁列六七点二看来是累计比例",
+      "basis_global_lines": [
+        4238,
+        4265
+      ],
+      "reason": "711.70/2524.15isnot67.2%; combined1694.55/2524.15isabout67.13%. Preserve the likely cumulative interpretation as independent reading, not an explicitly explained source label or exact balance."
+    }
+  ],
+  "status": "full_semantic_source_dossier_and_rules_review_complete_candidates_pending_manual_merge",
+  "exact_rule_field_edits": [
+    {
+      "rule": "P12-R03",
+      "field": "author_claim_paraphrase",
+      "old": "煤交通、市场及资本组织相连，历史最大客户不直接给现损失弹性。",
+      "new": "煤、交通、市场与资本组织相连；作者认为大陆其余地区的繁荣主要依赖德国的繁荣与进取。",
+      "reason": "Current original-author field places modern historical-rank/noncurrent-loss-elasticity critique under original claim; original says mainly depended, not sole unique center. Retain strong source meaning and move modern challenge to revision field."
+    },
+    {
+      "rule": "P12-R03",
+      "field": "evidence_that_would_revise_or_narrow",
+      "old": "有替代买卖和资金通路时修唯一中心结论。",
+      "new": "实际替代买家、供应和资金通路充分时，收窄德国为主要支撑的普遍断言；贸易排名本身不给当前损失弹性。",
+      "reason": "Current original-author field places modern historical-rank/noncurrent-loss-elasticity critique under original claim; original says mainly depended, not sole unique center. Retain strong source meaning and move modern challenge to revision field."
+    },
+    {
+      "rule": "P12-R04",
+      "field": "title",
+      "old": "积累的社会心理非自然必要定理",
+      "new": "战前资本积累的不平等与双重心理约定",
+      "reason": "Dossier correctly preserves original strong could-never/equitable claim; current compact expert claim weakens it to an association, while original_conditions includes reviewer criticism. Restore source assertion without endorsing it; criticism remains independent layer and falsification field."
+    },
+    {
+      "rule": "P12-R04",
+      "field": "author_claim_paraphrase",
+      "old": "作者把不平等与少消费阶层资本形成相联，双约定随战争变。",
+      "new": "作者断言半世纪的大量固定资本不可能在财富公平分配的社会同样形成；它依靠劳动者少消费与资本家少享用的双重约定，战争动摇二者。",
+      "reason": "Dossier correctly preserves original strong could-never/equitable claim; current compact expert claim weakens it to an association, while original_conditions includes reviewer criticism. Restore source assertion without endorsing it; criticism remains independent layer and falsification field."
+    },
+    {
+      "rule": "P12-R04",
+      "field": "author_original_conditions",
+      "old": "强说平等不能积累没有穷尽其他制度；9/10美德非90%储蓄率。",
+      "new": "以当时资本家倾向积累、劳动者因习俗和权力接受少份消费的社会心理为前提；战争打破这组约定。",
+      "reason": "Dossier correctly preserves original strong could-never/equitable claim; current compact expert claim weakens it to an association, while original_conditions includes reviewer criticism. Restore source assertion without endorsing it; criticism remains independent layer and falsification field."
+    },
+    {
+      "rule": "P12-R04",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "没有穷尽公平分配或公共储蓄等替代制度，是本次独立质疑；九成美德的修辞不作为收入90%的储蓄率。核证、去重和证伪属于现代解释，原无自动选股或回测阈值。",
+      "reason": "Dossier correctly preserves original strong could-never/equitable claim; current compact expert claim weakens it to an association, while original_conditions includes reviewer criticism. Restore source assertion without endorsing it; criticism remains independent layer and falsification field."
+    },
+    {
+      "rule": "P12-R06",
+      "field": "author_claim_paraphrase",
+      "old": "作者承旁观者会错，外貌宗教民族与戏剧是语境，非机制已证。",
+      "new": "作者承认旁观者可能误判动机、无终局判断资格；随后仍以强烈人物与心理解释说明条约形成。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R06",
+      "field": "author_original_conditions",
+      "old": "Clemenceau所信国民性不是本专家认可。",
+      "new": "以本人在场的观察与尚未完成的意志、目的争斗为对象；作者明称所给解释可能片面不确定。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R06",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "对外貌、宗教、民族标签和临床措辞的限制属于本次现代边界；所归克里孟梭的民族性信念不代表本专家认可，不能当心理机制已获验证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R07",
+      "field": "author_original_conditions",
+      "old": "一次场景非全部样本，作者归心态未独立核。",
+      "new": "英国、美国国内政治，同盟公众反德情绪、国联目标及五个月封闭会议限制总统的替代路线。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R07",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "一次现场叙述不代表全体会议样本，心理归因需要独立档案检验；这属于本次边界。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R08",
+      "field": "author_original_conditions",
+      "old": "条约节录非独立全法律认证，心理情结非临床诊断。",
+      "new": "以本章所引条文、德国书面答复及谈判叙述为依据；作者仍判断德国的实际讨论被拒绝。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R08",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "本次未独立核完整条约法律适用，原文心理“情结”不作为本专家的临床诊断；书面回复与有效听取的区分仍保留。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Keep original narrative and actual historical conditions in original-author fields; one-scene sampling, clinical/ethnic feature prohibitions and incomplete modern legal verification are this review constraints, not statements the author made under these labels."
+    },
+    {
+      "rule": "P12-R09",
+      "field": "author_original_conditions",
+      "old": "Jan8/18源冲突保留；精神与具体条款不同。",
+      "new": "1918年10月德美公文与11月5日盟方带保留的同意；精神目的难以按契约直接适用，若干具体问题未定。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R09",
+      "field": "required_inputs",
+      "old": [
+        "原文件主体时点",
+        "留款与原约",
+        "具体条文"
+      ],
+      "new": [
+        "原文件主体时点",
+        "盟方保留条款与原和平承诺",
+        "具体条文"
+      ],
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R09",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "原电子本Jan8/Jan18日期冲突仍保留，未核原扫描或全部外交文件，不替代现行法律认证。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R10",
+      "field": "author_claim_paraphrase",
+      "old": "国家财产移但负债留、私产有例外、先偿私人及别敌债后余额用途不同。",
+      "new": "国家财产转移而相应负债留德，私产清算有例外；先偿有关私人债与对其他敌国的财产索赔，再依规定处理余额。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R10",
+      "field": "author_original_conditions",
+      "old": "政府/私人、所在地/国籍、居留及新国款归主人不同。",
+      "new": "政府与私人、所在地与国籍、居留及新国家的业主收款不同；对德前盟国索赔的宽词是否含私人债，作者注明解释略可疑。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R11",
+      "field": "author_claim_paraphrase",
+      "old": "海外公用权益与早5b资产选权范围广，作者明剥夺尚未全完成。",
+      "new": "境外公用权益与截至1921年5月1日最高五十亿美元赔付的财产指定权范围广；作者明确说总体剥夺尚未完成。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R12",
+      "field": "author_claim_paraphrase",
+      "old": "萨尔矿绝对归与十五年管理/回购不同，Silesia未定，进口可使损变收支。",
+      "new": "萨尔矿绝对归法国，地区十五年管理不等于矿到期自动返还，未来有条件回购；上西里西亚归属未定，若德国能购买所需煤，损害可主要转为收支问题。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R13",
+      "field": "author_original_conditions",
+      "old": "29需求减与可见25.87、矿用分摊未解，硬煤吨非褐煤热值。",
+      "new": "在1913年煤账上先假设地域损失，并以较小效率降幅粗估；作者虽认为德方逾30%减产估计大体可信，仍表示不足以认可或批评。煤账不计褐煤，其替代程度他承认未知。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R13",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "需求最多减少2900万吨与按可见分组独立复算2587万吨的口径未明，矿内煤耗分摊无独立底账；这是本次核查缺口。硬煤与褐煤吨数不能自行视作同等热值。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R14",
+      "field": "author_claim_paraphrase",
+      "old": "可缓取消，北法毁矿优先，Sept1919已有新半年额度。",
+      "new": "交付可缓或取消，北法毁矿替代煤有优先；1919年9月已将接下来半年的交付改为按年化二千万吨对应安排。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R14",
+      "field": "author_original_conditions",
+      "old": "最大45/例40/修文43不同阶段，优先不能造资源。",
+      "new": "北法毁矿替代煤优先；9月引文以年产一亿零八百万为基准，至一亿二千八百万的新增产量交60%，再增量交50%，不足基准则重新审查。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R14",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "主文约4500万吨最高额、4000万吨示例及9月引用约4300万吨原额分别保存，不强行合一；优先规定不创造资源，原文不代表后来全部已履行。核证、去重和证伪属于本次现代解释；原无自动选股或回测阈值。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R15",
+      "field": "author_claim_paraphrase",
+      "old": "粮换煤激励和法国铁需德煤炉有依赖，票能拿不等必要物能买。",
+      "new": "粮换煤的激励、法国铁矿与德国煤及炉业互依，说明取得货币不等于可以买到必要物资。",
+      "reason": "Preserve actual original quantities, conditional status and specific territorial/claim/payment scope; move reviewer arithmetic and source-verification limitations out of original-author conditions."
+    },
+    {
+      "rule": "P12-R20",
+      "field": "author_claim_paraphrase",
+      "old": "10.6b及8–15b是合法损量级猜，10b建议加宽待并未已验能付。",
+      "new": "作者猜有限合法损失合计一百零六亿美元，量级在八十至一百五十亿之间；建议以一百亿加若干宽待最终定额，称并非完全不可能清偿。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R20",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "合理请求额与实际偿付能力仍须分别检验，这不是完成了可支付的独立认证；比利时数额含特殊战争借款，俄罗斯暂不列不代表无条约权。核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R24",
+      "field": "author_claim_paraphrase",
+      "old": "余额从1921计息，原粗双及1930+30/1918+48、摊本基金有缺。",
+      "new": "未以现金、实物或债券覆盖的余额自一九二一年五月起仍计息；作者用未足额偿息而债务复增的设例，批判年年抽取最大可得额而不留努力回报的制度。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R24",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "原十五年粗略翻倍、1930加30年与停战后48年、摊本基金完整时序的缺口，是本次独立复算和来源限制；保留原值并暂停精算，不把未解日期归成作者自行承认的缺口。核证与去重属现代解释，原无自动选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R25",
+      "field": "author_original_conditions",
+      "old": "普查1916/法令1918冲突、净投/国籍分，船换粮可合理。",
+      "new": "以一九一九年可及时调动的金、船及海外资产为对象，须区分净投资、国籍、优先私人债、临时运粮使用与最终转让；作者在合理诚信前提下认为交船运粮并非不当要求。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R25",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "正文普查1916与注121的1918法令时序差保留为来源限制，不擅统一；账面财富、市场价值、政府可取得与期限内现金分别核证。核证、去重和证伪属本次解释，原无自动选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R27",
+      "field": "author_original_conditions",
+      "old": "商品/地域表总差1.8m；只列2/3品，价格/糖基期限保。",
+      "new": "假定盟方不给德国特殊原料优先、法国争取钢业、不特别帮助德国在海外压低盟方竞争品，以及英国帝国不给德国特别优惠；棉毛等加工出口依赖进口原料，压低必要食品进口又会伤工人效率。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R27",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "商品与地域表出口总额差180万美元，以及只列约三分之二品类、糖的战前一般比例与1913量价分母不同，均保留为来源及检验限制，不擅平账。核证、去重和证伪属现代解释，原无自动选股或回测阈值。 另核官方HTML与TXT的未列出口、英出口、法进口、其他国出口和禽类比例及进口分母标题不同，两个格式均保留，不擅指定哪个是原刻或平账。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R28",
+      "field": "title",
+      "old": "关键贸易现值桥缺口暂停",
+      "new": "贸易改善与偿付现值估计及复算边界",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R28",
+      "field": "author_claim_paraphrase",
+      "old": "改善500m减370m不直接余250m，翻价及5息1摊本PV不同完整模型未列。",
+      "new": "作者假定贸易余额可按战前价格改善五亿美元，再假定扣旧逆差后余二点五亿、按物价加倍成每年五亿；以五息一摊本粗估现值八十五亿，最后把各种付款方式合为一百亿美元的安全最大额，且自不信能实付到此。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R28",
+      "field": "author_original_conditions",
+      "old": "10b作者safe最大仍自不信实能全付，粗PV非精算。",
+      "new": "这是资源、市场、生产与生活水平改变下的高限猜测，非实收记录；作者指出永续五億在百分之五息下也只把现值增到一百亿。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R28",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "五億减五年逆差三点七亿不直接剩二点五亿，以及三十年年金、简单六个点除法和原八十五亿并非同一完整模型，是本次独立复算；保留作者追加假定和原值，不能暗换单年逆差或作为实验参数。原无现代选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R29",
+      "field": "author_original_conditions",
+      "old": "输出劳工非与国内同工双算；内债分配与外债转资源分，种族不作特征。",
+      "new": "输送劳工重建受供养人数及法比居民容忍限制，不必是其他付款外的净增加；国内债与对外债、国内资本建设劳动与出口劳动分别判断。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R29",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "原注133的白人种族心理表述保留为历史语境，种族不作为当前模型特征；这属于本次独立边界。核证、去重和证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R30",
+      "field": "author_original_conditions",
+      "old": "法律节录非全条约独证，委员武力触发与自己军不同。",
+      "new": "作者认为索求超过可付额时，减免、粮材回付与税制审查的裁量才会深入经济生活；若德国可自行筹足现金，多种权限不必实际使用。他也保留委员会以后转为欧洲恢复机构的可能。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R30",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "法律节录与作者解释并非本档案独立核证的全条约意见；委员会自有军队与其判违约后触发盟军行动须分开，取消需全政府授权且返资源未必由委员会自己承担，原注144的十月底尚未正式成立也不等于所有职责已实际执行。核证与证伪属于现代解释，原无自动选股或回测阈值。",
+      "reason": "Restore full actual source assertion and its conditions without weakening or endorsing it; independent arithmetic, legal/source/glyph and modern feature limits belong to separate review layer."
+    },
+    {
+      "rule": "P12-R32",
+      "field": "author_claim_paraphrase",
+      "old": "本章合战争和平不再分因，产力/运输/海外购买互锁，家庭/依赖者不是死数。",
+      "new": "作者不再分战争的必然后果与和平可避免的损失，以内部生产、运输交换及海外购买三类互锁解释危机；对德国委员会按原和平条件实施将导致数百万人死亡的强报告，称自己不知道充分的反答。",
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R32",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "十五百万是受救济家庭，依赖进口的一亿人不是已核死亡预测；德国委员会报告有利益方位置，作者无充分反答不等本档案独立验证其任何帮助均不能救的结论。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R33",
+      "field": "author_claim_paraphrase",
+      "old": "Lenin句据说未核，库存风利非人人净富；低内价不能买国外料，外币债有未来币险。",
+      "new": "作者以据说的列宁发言引入货币败坏论，断言持续涨价使持库存或厂产的经营者不得不快富，并称暴利者是涨价后果而非原因；受控内价低于进口换币成本、个人外信用不足及不稳货币，又阻碍贸易恢复。",
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R33",
+      "field": "author_original_conditions",
+      "old": "价差/信用/币险三障分，非所有控制补贴皆必坏。",
+      "new": "讨论战后欧洲持续发行、受控国内价、外部货价和外币负债而本币销售的错配；德国与法国、意大利的外部融资路径不同。",
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R33",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "据说的引言没有本书所给原发言来源，不证明列宁真实说过；经营者未必人人净富，须检验售价、重置成本、债税与实际成交，不能把作者强断言直接用于当前模型。价差、信用与币险分层；非任何补贴与控制永远同效。核证和证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Dossier keeps original strong condition-bound assertions; compact expert currently blends reader critique into author paraphrase. Keep attribution, uncertainty and modern restrictions separate."
+    },
+    {
+      "rule": "P12-R35",
+      "field": "title",
+      "old": "悲观概率地区时间有自修",
+      "new": "悲观判断的地区、时间与自我修订",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R35",
+      "field": "author_original_conditions",
+      "old": "英国真实财富是作者估，未来新资料不能回填旧决策。",
+      "new": "以一九一九年大陆欧洲为主要对象，英国的变化与中东欧即时冷饥风险不同；作者承认相关原因可能未全列，危机也可能缓慢而不显著。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R35",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "英国真实财富是作者估计；后来资料不能倒填当时预见，也不把对时间和地区的自我修订称为校准概率。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R37",
+      "field": "author_original_conditions",
+      "old": "不是原约正式已改，Saar无偿返与France供矿条件分。",
+      "new": "赔偿提案把占军纳入一百亿总额；北法受毁矿产差赔煤保留前五年二千万吨、后五年八百万的年限，但若上西里西亚煤区离德应撤此义务。萨尔十年无价返矿地区，仍以法国供至少旧洛林入德矿的一半及德国相应供煤协议为前提。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R37",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "这是改约提议，并非原约已正式修订或已实行成功；统一二十五亿credit不表示逐项资产实值已经认证。核证与证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R38",
+      "field": "author_original_conditions",
+      "old": "开放机会/入口强制与帝国背景不同，不作身份特征。",
+      "new": "德、波、原奥匈和土帝国的新国及委任地须加入十年，其他国从开始自愿，十年后均可自愿；作者用人人可加入且无特殊特权区别它与排他帝国中欧计划。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R38",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "开放机会不抹掉入口强制和委任领背景的张力，也不构成所有贸易壁垒已为零的证据。原注税额比较未进一步量定，不擅改为五个百分点的现代执行参数；身份标签不作当前特征。核证与证伪属现代解释。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R39",
+      "field": "author_claim_paraphrase",
+      "old": "表部分估排市场/央行债，法国行差90m保，坏俄贷与半值假改纸净额。",
+      "new": "作者列政府间战债的近似矩阵，指出有些贷款特别对俄难回收，因此名义账面取消所得与实际牺牲不同；英国按借出的一半价值是其财政部长的方便任意假设，主要请求美国慷慨。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R39",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "所用TXT法国一行2750加2540与行总5200相差90百万美元，官方HTML此行总另为5290；两个源格式保留，HTML相加吻合不证明原刻或历史底账已核。半值不是实际回收率证，政府矩阵不是整个国家外债或真实资金流；这些是本次独立复算与范围核证，原无现代选股或回测阈值。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R40",
+      "field": "author_claim_paraphrase",
+      "old": "旧贡债有意愿政治束、1919资本levy强规范后P11可收窄，新贷须恢复生产。",
+      "new": "作者认为巨大战争政府贡债缺少相应真实资产支持、意愿与政治关系难持续；对于国内债，强称资本征税灭债是每个欧洲交战国健全财政的绝对前提，同时要求新外贷用于即时恢复资源并明确全额偿还。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R40",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "后书P11《货币改革论》1923原第二章总行1841–2014的条件收窄，仅作同一作者跨书参照，不能归成本书原文或增加独立验证票。本次实际核了该完整相关段落而非又全读P11；原旧债取消不免所有私人债，新旧贷款用途与担保分开，原无现代选股或回测阈值。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R41",
+      "field": "title",
+      "old": "俄粮恢复的代理唯一性待证",
+      "new": "俄粮恢复、德方组织作用及经济连带",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R41",
+      "field": "author_claim_paraphrase",
+      "old": "俄细节少、工具城市品和运输是启动链，德唯一代理强说及封锁批评是当时观点。",
+      "new": "作者承认俄细节几无可靠消息，却认为除德国企业和组织之外，看不到在合理期限恢复俄生产的可能办法，英法美无足够地理、动力和手段；贸易恢复能减德与西方争新世界粮，他主张停止对俄封锁并帮助德重新组织交换。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R41",
+      "field": "author_original_conditions",
+      "old": "政治民族宗教讽刺不当现代产业事实或特征。",
+      "new": "以俄农工具、城市可交换货品及运输收集不足为前提；美保证粮价将停、人口增而欧洲土地未复，若不特别丰收则下一粮季更需俄粮。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R41",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "唯一德国的强说不是本档案独立穷尽替代组织的证明；政治、民族和宗教讽刺不当现代产业统计或特征，旧粮价预测不当后来实价。核证、去重和证伪属现代解释，原无自动选股或回测阈值。",
+      "reason": "Preserve original source strong clauses and real contingent assumptions; separate source-number arithmetic and later author/book or current applicability critique, rather than putting them in original-author fields."
+    },
+    {
+      "rule": "P12-R34",
+      "field": "modern_layer_separate",
+      "old": "核证、去重和证伪属于本次解释；原无现代自动选股或回测阈值。",
+      "new": "独立完整复算十七行月均贸易表，十六行相减吻合；意大利1919第一季原两格式所列差191155与输入独立相减190555相差600千美元，原列保留，不能擅称原刻错或精确平表。住院、某乡儿童和需治疗者不可外推全国或当现代疗方；这些核证、去重与证伪是本次独立分析，非作者自认修改，原无现代选股或回测阈值。",
+      "reason": "Source itself gives raw reported values; modern independent numerical and sample limits must remain attributed to review."
+    }
+  ],
+  "source_anchor_additions_file": "P12-source-anchor-additions.json",
+  "candidate_expert_file": "P12-corrected-expert-candidate.json",
+  "candidate_draft_files": {
+    "chapters/ch04.md": "607c6b02b45edf7f4dbfb7ed09ffd9233768a9412c05ac6b44ce131a0449e72c",
+    "chapters/ch05.md": "e22240dc09659a0b60e75b9e11605f5c6269b049cff80d2ccd94cfed89497fba",
+    "chapters/ch06.md": "cf659c2e2068e6db90eae0577d4d3a0d27711babd130ca97c3ef3f35c2ca7ac3",
+    "chapters/ch07.md": "e66109384158027d8633120b549c53f215fdca46fe133a061537e64c1f292193",
+    "专家说明.md": "ad542e3a592dc8b1d92079010be91b3781244e1b5e5e34af51445b924e5afe99",
+    "全书综合与前后置页.md": "50911fcef85cc1d41f39c9c823a495212ce443eb0c49d51e8ec003187ed64a5f"
+  },
+  "candidate_readable_count_metadata_patches": [
+    {
+      "file": "全书综合与前后置页.md",
+      "old": "七原章正文29,009汉字，依次2,769、3,254、3,382、5,187、6,612、3,609、4,196，最低2,769。",
+      "new": "七原章正文29,429汉字，依次2,769、3,254、3,382、5,225、6,800、3,722、4,277，最低2,769。",
+      "kind": "candidate_body_count_metadata_not_source_semantics"
+    },
+    {
+      "file": "专家说明.md",
+      "old": "正文29,009汉字",
+      "new": "正文29,429汉字",
+      "kind": "candidate_body_count_metadata_not_source_semantics"
+    }
+  ],
+  "old_total_han": 29009,
+  "candidate_chapter_han_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "candidate_total_han": 29429,
+  "candidate_minimum_han": 2769,
+  "numeric_and_dual_format_review_file": "P12-independent-table-and-number-review.json",
+  "all_original_source_and_author_artifacts_unchanged": true,
+  "old97_raw_evidence_preserved": true,
+  "added_full_original_contexts": 9,
+  "candidate_total_evidence_segments": 106,
+  "no_final_qualified_before_root_merge": true,
+  "withdrawn_before_submission": "R36 planned added6401–6412 was not its League recommendation; precise original6386–6399 already entirely in old6338–6399 evidence, so no extra R36 anchor. No missing source support claimed."
+}

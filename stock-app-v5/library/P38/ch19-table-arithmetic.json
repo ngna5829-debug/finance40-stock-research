@@ -1,0 +1,968 @@
+{
+  "all10figures": {
+    "191_cover": true,
+    "192_temporary_permanent_graph_schematic_noactualpointseries": true,
+    "193_original_graph_days": [
+      36.5,
+      54.7,
+      34,
+      57.2
+    ],
+    "194_original_comparison_bars_andaxes_read": true,
+    "195_Target_note_all8cells_millions": {
+      "cash": [
+        307,
+        326
+      ],
+      "shortinvestments": [
+        7644,
+        1810
+      ],
+      "thirdpartycardreceivables": [
+        560,
+        441
+      ],
+      "total": [
+        8511,
+        2577
+      ],
+      "dates": [
+        "2021-01-30",
+        "2020-02-01"
+      ],
+      "originalnote_settlementfive_days_orless_vsprose1to2or24to72hours": true,
+      "originalmaturity_three_month_orless_at_purchase_note": true,
+      "funds_access_nosignificantrestrictions_taxpenalty_note_read": true
+    },
+    "196_Foodinia_all14rows": [
+      [
+        "Arithmio",
+        15000,
+        0,
+        0,
+        0,
+        15000
+      ],
+      [
+        "Bakely Inc.",
+        0,
+        16000,
+        5000,
+        4000,
+        25000
+      ],
+      [
+        "Bakeville",
+        30000,
+        0,
+        0,
+        0,
+        30000
+      ],
+      [
+        "Boxfully",
+        0,
+        27000,
+        0,
+        0,
+        27000
+      ],
+      [
+        "City Shop",
+        5000,
+        0,
+        0,
+        0,
+        5000
+      ],
+      [
+        "Deskmeter",
+        0,
+        5000,
+        0,
+        0,
+        5000
+      ],
+      [
+        "Flavorica",
+        6000,
+        0,
+        0,
+        0,
+        6000
+      ],
+      [
+        "Merchain",
+        7000,
+        0,
+        0,
+        0,
+        7000
+      ],
+      [
+        "Mshops",
+        8500,
+        0,
+        0,
+        0,
+        8500
+      ],
+      [
+        "Next Des",
+        0,
+        0,
+        12000,
+        0,
+        12000
+      ],
+      [
+        "Pichets",
+        0,
+        0,
+        0,
+        5000,
+        5000
+      ],
+      [
+        "Shopahoo",
+        19000,
+        0,
+        0,
+        0,
+        19000
+      ],
+      [
+        "SportsBuzz Ltd",
+        2000,
+        1500,
+        0,
+        0,
+        3500
+      ],
+      [
+        "Weary USA",
+        21000,
+        0,
+        0,
+        0,
+        21000
+      ]
+    ],
+    "196_column_totals_independent": [
+      113500,
+      49500,
+      17000,
+      9000,
+      189000
+    ],
+    "196_pastdue_total": 75500,
+    "196_ageheaders_notdue30to60_61to90_over90_1to29pastdue_notseparate": true,
+    "197_all12_sales_collections": [
+      [
+        460000,
+        500000,
+        600000,
+        540000,
+        486000,
+        534600,
+        580000,
+        667000,
+        653000,
+        640000,
+        576000,
+        460000
+      ],
+      [
+        400000,
+        460300,
+        513000,
+        568000,
+        518700,
+        491130,
+        532828,
+        587880,
+        645810,
+        637390,
+        611850,
+        538680
+      ]
+    ],
+    "198_all12_purchases_payments": [
+      [
+        225000,
+        270000,
+        243000,
+        219000,
+        241000,
+        260000,
+        300000,
+        293000,
+        288000,
+        259000,
+        207000,
+        200000
+      ],
+      [
+        190000,
+        225000,
+        270000,
+        243000,
+        219000,
+        241000,
+        260000,
+        300000,
+        293000,
+        288000,
+        259000,
+        207000
+      ]
+    ],
+    "199_all12_eachoperatingline": {
+      "wages": [
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000,
+        200000
+      ],
+      "payrolltax": [
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000,
+        20000
+      ],
+      "advertising": [
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        60000,
+        60000,
+        55000,
+        50000,
+        50000
+      ],
+      "repair": [
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000,
+        12000
+      ],
+      "rent": [
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000,
+        3000
+      ],
+      "shipping": [
+        5520,
+        6000,
+        7200,
+        6480,
+        5832,
+        6415,
+        6960,
+        8004,
+        7836,
+        7680,
+        6912,
+        5520
+      ],
+      "utilities": [
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500,
+        1500
+      ],
+      "insurance": [
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050,
+        2050
+      ],
+      "supplies": [
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400,
+        400
+      ],
+      "taxes": [
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000,
+        7000
+      ],
+      "total": [
+        301470,
+        301950,
+        303150,
+        302430,
+        301782,
+        302365,
+        302910,
+        313954,
+        313786,
+        308630,
+        302862,
+        301470
+      ]
+    },
+    "1910_all12cashrows": {
+      "begin": [
+        350000,
+        258530,
+        191880,
+        131730,
+        154300,
+        152218,
+        99983,
+        69901,
+        50000,
+        89024,
+        129784,
+        179772
+      ],
+      "collections": [
+        400000,
+        460300,
+        513000,
+        568000,
+        518700,
+        491130,
+        532828,
+        587880,
+        645810,
+        637390,
+        611850,
+        538680
+      ],
+      "disbursement": [
+        491470,
+        526950,
+        573150,
+        545430,
+        520782,
+        543365,
+        562910,
+        613954,
+        606786,
+        596630,
+        561862,
+        508470
+      ],
+      "net": [
+        -91470,
+        -66650,
+        -60150,
+        22570,
+        -2082,
+        -52235,
+        -30082,
+        -26074,
+        39024,
+        40760,
+        49988,
+        30210
+      ],
+      "prelim": [
+        258530,
+        191880,
+        131730,
+        154300,
+        152218,
+        99983,
+        69901,
+        43827,
+        89024,
+        129784,
+        179772,
+        209982
+      ],
+      "minimum": [
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000
+      ],
+      "surplus": [
+        208530,
+        141880,
+        81730,
+        104300,
+        102218,
+        49983,
+        19901,
+        -6173,
+        39024,
+        79784,
+        129772,
+        159982
+      ],
+      "end": [
+        258530,
+        191880,
+        131730,
+        154300,
+        152218,
+        99983,
+        69901,
+        50000,
+        89024,
+        129784,
+        179772,
+        209982
+      ]
+    }
+  },
+  "all5tables": {
+    "191_all3NWCcases": "negative/zero/positive statements read;highNWCnotnecessarilycashandnotguaranteesettledebt",
+    "192_original_scenario_rows": [
+      [
+        36.5,
+        34.07
+      ],
+      [
+        54.75,
+        50.21
+      ],
+      [
+        34.07,
+        40.15
+      ],
+      [
+        57.18,
+        44.1
+      ]
+    ],
+    "193_all4cashalternatives_read": "Treasurybills3/6monthsnotexhaustive;GSEnotautomaticUSguarantee;CDinsuredconditions;CP270daysmaxnotallcasheq",
+    "194_allfeatures_AR_notes_read": "formalnotes can beshorttermnotonlybeyondyear;interestandcollateralspecificcontract",
+    "195_all7cashbudgetcomponents_andformulas_read": {
+      "begin": "priorending",
+      "collect": "salesbudgetcashnotrevenue",
+      "disburse": "purchasepayment+operatingcash",
+      "net": "collections-disbursement",
+      "prelim": "begin+net",
+      "minimum": "targetnotexpense",
+      "surplus": "prelim-minimum",
+      "source_reference19_9vsactual19_10_andcellsB2G7vsB7G7wrong": true
+    }
+  },
+  "basic_math": {
+    "grossWorkingCapital": [
+      100000,
+      250000,
+      330000,
+      425000,
+      1105000
+    ],
+    "cash_only100k_vsCL600k_need250kmore_after250ksecurities": true,
+    "NWCexample": 250000,
+    "currentratio": 2.0,
+    "quickratio_given_no_othernonquick": 1.5,
+    "cashratio_given": 1.1,
+    "scenario1_independent": {
+      "inventory_days": 36.5,
+      "receivable_days": 54.75,
+      "payable_days_proxyCOGS": 34.06666666666667,
+      "CCC": 57.18333333333333
+    },
+    "scenario2_independent": {
+      "inventory_days": 34.06666666666667,
+      "receivable_days": 50.1875,
+      "payable_days_proxyCOGS": 40.15,
+      "CCC": 44.104166666666664
+    },
+    "CCC_improvement_days": 13.079166666666666,
+    "source_scenario2_prose44_13_vsTable44_10_roundearlyARTurnover": true,
+    "operatingcycle_notCCC": [
+      91.25,
+      84.25416666666666
+    ],
+    "trade_invoice10500_discount2_payment": 10290,
+    "2_10_n30_APR360": 0.3673469387755103,
+    "2_10_n30_APR365": 0.37244897959183676,
+    "2_10_n30_EAR360": 0.4385688018002185,
+    "bank500k_compbalance50k_usable": 450000,
+    "effective_nominalcost_multiplier_ifnoninterestblocked": 1.1111111111111112,
+    "ageJune1_July15_excludinginvoice_day": 44,
+    "literal_source45_can_include_both_endpoints": true
+  },
+  "independent_budget_math": {
+    "all12_operating_line_sums": [
+      301470,
+      301950,
+      303150,
+      302430,
+      301782,
+      302365,
+      302910,
+      313954,
+      313786,
+      308630,
+      302862,
+      301470
+    ],
+    "all12_shipping_1_2pct_exact": [
+      5520.0,
+      6000.0,
+      7200.0,
+      6480.0,
+      5832.0,
+      6415.2,
+      6960.0,
+      8004.0,
+      7836.0,
+      7680.0,
+      6912.0,
+      5520.0
+    ],
+    "all12_cashdisbursement_from_purchases_plusop": [
+      491470,
+      526950,
+      573150,
+      545430,
+      520782,
+      543365,
+      562910,
+      613954,
+      606786,
+      596630,
+      561862,
+      508470
+    ],
+    "all12_net": [
+      -91470,
+      -66650,
+      -60150,
+      22570,
+      -2082,
+      -52235,
+      -30082,
+      -26074,
+      39024,
+      40760,
+      49988,
+      30210
+    ],
+    "all12_preliminary": [
+      258530,
+      191880,
+      131730,
+      154300,
+      152218,
+      99983,
+      69901,
+      43827,
+      89024,
+      129784,
+      179772,
+      209982
+    ],
+    "all12_minimum_gap": [
+      208530,
+      141880,
+      81730,
+      104300,
+      102218,
+      49983,
+      19901,
+      -6173,
+      39024,
+      79784,
+      129772,
+      159982
+    ],
+    "August_implied_financing_missingline": 6173,
+    "full12_internal_identity_residual": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      -6173,
+      0,
+      0,
+      0,
+      0
+    ],
+    "expected_August_only_residual_minus6173": true,
+    "end_without_august_financing_nointerest": 203809,
+    "end_with_financing_nointerest": 209982,
+    "repayment_interest_fee_availablefacility_notmodeled": true,
+    "collection_pattern_rawsalespriorARnotgiven_cannotrecreate_probabilitymix": true
+  },
+  "all12MC": {
+    "5_all13_accounts": [
+      [
+        "Property plant equipment",
+        500000
+      ],
+      [
+        "AP",
+        6000
+      ],
+      [
+        "Intangibles",
+        5000
+      ],
+      [
+        "Cash",
+        10000
+      ],
+      [
+        "marketable6monthorless",
+        30000
+      ],
+      [
+        "RE",
+        25000
+      ],
+      [
+        "interestpayable",
+        2000
+      ],
+      [
+        "notes24month",
+        10000
+      ],
+      [
+        "AR",
+        20000
+      ],
+      [
+        "notes6month",
+        20000
+      ],
+      [
+        "common",
+        45000
+      ],
+      [
+        "dividendpayable",
+        3000
+      ],
+      [
+        "inventory",
+        50000
+      ]
+    ],
+    "5_currentassets": 110000,
+    "5_currentliab": 31000,
+    "5_cashratio": 1.2903225806451613,
+    "8_Tbond2year_notcasheq_butCPclassification_termneeded": true,
+    "10_47days_noprovenliquidityfailure_use31industryconditional": true,
+    "11_stockoutlost30ksales_notallprofitloss30k": true,
+    "12_materials_WIP_finishedgoods_manufacturing": true
+  },
+  "all10review_questions": {
+    "1_cookieCCC": 13.25,
+    "2_all13_accounts": [
+      [
+        "Property plant equipment",
+        500000
+      ],
+      [
+        "AP",
+        6000
+      ],
+      [
+        "Intangibles",
+        5000
+      ],
+      [
+        "Cash",
+        10000
+      ],
+      [
+        "marketable6monthorless",
+        30000
+      ],
+      [
+        "RE",
+        25000
+      ],
+      [
+        "interestpayable",
+        2000
+      ],
+      [
+        "notes24month",
+        10000
+      ],
+      [
+        "AR",
+        20000
+      ],
+      [
+        "notes6month",
+        20000
+      ],
+      [
+        "common",
+        45000
+      ],
+      [
+        "dividendpayable",
+        3000
+      ],
+      [
+        "inventory",
+        50000
+      ]
+    ],
+    "2_NWC": 79000,
+    "3_all13_accounts": [
+      [
+        "Property plant equipment",
+        500000
+      ],
+      [
+        "AP",
+        9000
+      ],
+      [
+        "Intangibles",
+        5000
+      ],
+      [
+        "Cash",
+        12000
+      ],
+      [
+        "marketable6monthorless",
+        25000
+      ],
+      [
+        "RE",
+        25000
+      ],
+      [
+        "interestpayable",
+        2500
+      ],
+      [
+        "notes24month",
+        10000
+      ],
+      [
+        "AR",
+        25000
+      ],
+      [
+        "notes6month",
+        20000
+      ],
+      [
+        "common",
+        45000
+      ],
+      [
+        "dividendpayable",
+        3000
+      ],
+      [
+        "inventory",
+        55000
+      ]
+    ],
+    "3_currentassets": 117000,
+    "3_currentliab": 34500,
+    "3_currentratio": 3.391304347826087,
+    "3_quickratio": 1.7971014492753623,
+    "4_all4_originalturnovers_CCC": [
+      [
+        "Grocery",
+        14.6,
+        91.0,
+        16.0,
+        6.2
+      ],
+      [
+        "Building/construction",
+        2.0,
+        121.67,
+        16.0,
+        162.69
+      ],
+      [
+        "Restaurant",
+        150.0,
+        100.0,
+        36.0,
+        -4.06
+      ],
+      [
+        "Department",
+        2.78,
+        91.0,
+        3.0,
+        63.6
+      ]
+    ],
+    "4_all4_independent_periods_CCC": [
+      [
+        "Grocery",
+        25.0,
+        4.010989010989011,
+        22.8125,
+        6.198489010989011
+      ],
+      [
+        "Building/construction",
+        182.5,
+        2.999917810470946,
+        22.8125,
+        162.68741781047095
+      ],
+      [
+        "Restaurant",
+        2.433333333333333,
+        3.65,
+        10.13888888888889,
+        -4.055555555555556
+      ],
+      [
+        "Department",
+        131.29496402877697,
+        4.010989010989011,
+        121.66666666666667,
+        13.639286373099324
+      ]
+    ],
+    "4_Department_original63_60_vs13_6392859": true,
+    "5_4_15_n45_APR360": 0.5000000000000001,
+    "5_APR365": 0.5069444444444445,
+    "5_EAR360": 0.6320941327229255,
+    "6_5Cs_potential20kcredit_no_actualcustomerdata_notautoapprove": true,
+    "7_Aspiresale25k_cost10k_credit60": {
+      "sellerAR": 25000,
+      "sellerinventory": -10000,
+      "sellerSales": 25000,
+      "sellerCOGS": 10000,
+      "seller_profit15000beforeothercost": 15000,
+      "seller_cash_onMarch1": 0,
+      "buyerAP": 25000,
+      "buyerinventory": 25000,
+      "buyerCashOnMarch1": 0
+    },
+    "8_June": {
+      "begin": 90000,
+      "collections": 300000,
+      "payments": 350000,
+      "net": -50000,
+      "preliminary": 40000,
+      "minimum": 75000,
+      "deficit": -35000,
+      "required_financing_givenavailableLOC": 35000,
+      "end": 75000
+    },
+    "9_10_sales": [
+      120000,
+      130000,
+      140000
+    ],
+    "9_patterns_given": [
+      0.1,
+      0.5,
+      0.4
+    ],
+    "9_bad5pct_pattern_sum100_conflict": true,
+    "9_nominal_collections_withoutbaddebt": 127000,
+    "9_assume_pattern_shares_collectible95": 120650.0,
+    "9_assume_first2gross_last35pct": 121000.0,
+    "10_patterns_given": [
+      0.15,
+      0.55,
+      0.3
+    ],
+    "10_bad3pct_pattern_sum100_conflict": true,
+    "10_nominal_beforeloss": 128500,
+    "10_assume_pattern_shares_collectible97": 124645.0,
+    "10_assume_first2gross_last27pct": 124900.0,
+    "9_10_no_unique_answerwithoutbaddebtallocation_assumption": true
+  },
+  "all5numberednotes_and4videoquestions_read": true,
+  "video1_income_on_balance_sheet_misstatement": true,
+  "video4_16pcttradecost_vs9pctcreditcost_conditional_payearly50days": {
+    "simple360_net_difference_perfundedDollar": 0.009722222222222224,
+    "alternativebasis365": 0.009589041095890411,
+    "fees_creditconstraints_taxtermsunknown": true
+  },
+  "actual_externalExcelworkbook_andvideos_read": false
+}

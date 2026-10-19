@@ -1,0 +1,167 @@
+{
+  "book_id": "P33",
+  "review_type": "independentarithmeticplusselectedoriginalimagecollation; notfullhistoricalledgerorlawverification",
+  "cases": [
+    {
+      "case": "N01 basicdraft",
+      "author_original": "£100 at4.86=$486",
+      "independent_expression": "100*4.86",
+      "independent_result": "486.00",
+      "scope_or_limit": "Arithmeticmatches; paymentlegalrecourse notdetermined.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N02 loanillustrationapprox",
+      "author_original": "Londonloan$100000,draw£20000",
+      "independent_expression": "20000*4.86 / 20000*4.8665",
+      "independent_result": "['97200.00', '97330.0000']",
+      "scope_or_limit": "Originalillustrationusesapproximateunits; products97200/97330not100000. Do notsilentlycorrectoriginal or manufacturefees.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N03 loanstockturnover",
+      "author_original": "$250m average90days,year$1bn",
+      "independent_expression": "250000000*4",
+      "independent_result": "1000000000",
+      "scope_or_limit": "Authorapproximate4periodsimpleannualturnover; notnetnewcapital, exact365calendar notassumed.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N04 brokerpoint",
+      "author_original": "fivepointsperpound,£10000 earns$5",
+      "independent_expression": "10000*0.0005",
+      "independent_result": "5.0000",
+      "scope_or_limit": "Grosscommission, notreturnpercent; historicalpointunit.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N05 longdiscountdisplay",
+      "author_original": "$0.12+$4.38+$0.24=$4.74;4.85-.0474=4.8026",
+      "independent_expression": "0.12+4.38+0.24;4.85-0.0474",
+      "independent_result": "['4.74', '4.8026']",
+      "scope_or_limit": "Displayedroundedarithmeticmatches. Using360days givesdiscount4.385416666..., notexact4.38; 365gives4.325...; daycount/truncationunexplained.",
+      "original_PDF_pages_visualchecked": [
+        93
+      ]
+    },
+    {
+      "case": "N06 sterlingcommissioncoverage",
+      "author_original": "£100000+3/8%=£100375; textfuture£100000",
+      "independent_expression": "100000*0.00375",
+      "independent_result": "375.00000",
+      "scope_or_limit": "Fullpoundpaymentincludes375;mentioned100000futuremaynotcovercommission; do notclaimfullyhedgedwithoutcontract.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N07 currencyloaninterest",
+      "author_original": "$484000;90days6%=$7260",
+      "independent_expression": "484000*.06/4",
+      "independent_result": "7260.00",
+      "scope_or_limit": "Authorquarter-yearmethodmatches; noimpliedexact365-daycashfloworallinprofit.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N08 triangularcurrencygross",
+      "author_original": "FC25250/5.175=$4879.23;£1000*4.84=$4840",
+      "independent_expression": "25250/5.175-4840",
+      "independent_result": "39.227053140096618357487923",
+      "scope_or_limit": "Roundedgross39.23;commissions/timing/executionnotallincluded; illustrationnothistoricalexecutedquote.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N09 exportdisplaytotal",
+      "author_original": "$250000+100+20+390+125+83=250718",
+      "independent_expression": "250000+100+20+390+125+83",
+      "independent_result": "250718",
+      "scope_or_limit": "Printed115/PDF127verified. Roundedgrossweight13195.5*18.9459,rate4.8796*51380notexactshowninteger.",
+      "original_PDF_pages_visualchecked": [
+        127
+      ]
+    },
+    {
+      "case": "N10 originalexportprofitmismatch",
+      "author_original": "prior487.96=4.8796;next4.88versus4.8775;51380*.0025=$128.25",
+      "independent_expression": "51380*0.0025;51380*(4.88-4.8796)",
+      "independent_result": "['128.4500', '20.5520']",
+      "scope_or_limit": "128.45and20.552,notauthor128.25; original115-116confirmed. Ratecomparisonshiftsbaseline; preservedunresolvednotusedexactexperiment.",
+      "original_PDF_pages_visualchecked": [
+        127,
+        128
+      ]
+    },
+    {
+      "case": "N11 importroundedtotal",
+      "author_original": "£205795+320+102+9+26+343=206595;1000000/4.8404≈206595",
+      "independent_expression": "sum;1000000/4.8404",
+      "independent_result": "['206595', '206594.4963226179654574002149']",
+      "scope_or_limit": "Import118/PDF130confirmed; roundedsumexactbutconversion≈206594.496. Noexactzero-profitclaimbeyondauthorroundedillustration.",
+      "original_PDF_pages_visualchecked": [
+        130,
+        131
+      ]
+    },
+    {
+      "case": "N12 goldtriangular",
+      "author_original": "997567+450+1555+400+60+250+333=1000615;48500*106.3705/25.10",
+      "independent_expression": "sum;48500*106.3705/25.10",
+      "independent_result": "['1000615', '205536.6235059760956175298805']",
+      "scope_or_limit": "Rounded£205536vs205536.6235; calculateprincipleonly. PDF134-135theoryvisuallyread,originalnumeric tablePDF133notvisuallychecked; primaryPGtablefullyread.",
+      "original_PDF_pages_visualchecked": [
+        134,
+        135
+      ]
+    },
+    {
+      "case": "N13 goldtablefootnote",
+      "author_original": "1913exports77762622imports69194025;negativecolumn[1]excessofexports",
+      "independent_expression": "69194025-77762622",
+      "independent_result": "-8568597",
+      "scope_or_limit": "Fourrowsareexportexcess;1911importexcess51097360. Allfivefootnoteandrowsfullread, noexternaltradeledgerverification.",
+      "original_PDF_pages_visualchecked": []
+    },
+    {
+      "case": "N14 securityrollapprox",
+      "author_original": "£50000*4.86=243000;newlongat4.83=£50310",
+      "independent_expression": "243000/4.83",
+      "independent_result": "50310.55900621118012422360248",
+      "scope_or_limit": "50310.559...;original135/PDF147sameintegerapprox. Notfullinterestannualization.",
+      "original_PDF_pages_visualchecked": [
+        147
+      ]
+    },
+    {
+      "case": "N15 creditcommissionannual",
+      "author_original": "3/8percent90days,4periods=1.5percent",
+      "independent_expression": "0.00375*4",
+      "independent_result": "0.01500",
+      "scope_or_limit": "Fee-onlysimpleannualizationnotallinfinancing. Actualoriginallastsentence1-2%perannumconfirmed;PGcutafterper.",
+      "original_PDF_pages_visualchecked": [
+        172
+      ]
+    },
+    {
+      "case": "N16 samplesdifferent",
+      "author_original": "chapterIXcreditimage£600credit1301, followingnarrative£1000",
+      "independent_expression": "Noequalization",
+      "independent_result": "differentexamples",
+      "scope_or_limit": "ImageauthorizationlastJanuary1910!=fourmonthsSIGHTmaturity. Ten-dayruleonlybaileeexample. Handwritingpartlyuncertain.",
+      "original_PDF_pages_visualchecked": [
+        154,
+        161,
+        162
+      ]
+    },
+    {
+      "case": "N17 terminologyunresolved",
+      "author_original": "3.5%a dayforcurrency;unexpectedbankrateincrease/reduction",
+      "independent_expression": "Noannualizationorforceddirection",
+      "independent_result": "unresolvedoriginalwording",
+      "scope_or_limit": "Printed65/PDF77identical; chapterIIIotherwayforeignrateeffect is differentcontext; preserveclearvolatilitynarrowclaim.",
+      "original_PDF_pages_visualchecked": [
+        77
+      ]
+    }
+  ],
+  "all_unresolved_precision_closed_for_experiments": true,
+  "author_numbers_preserved": true
+}

@@ -1,0 +1,412 @@
+{
+  "book_id": "P31",
+  "title": "Honest Money",
+  "year": 1895,
+  "reading_status": "qualified_complete_original_semantic_read_with_independent_QA_and_source_limits",
+  "complete_original_digital_text_read": true,
+  "all_original_scan_glyphs_verified": false,
+  "source_manifest": {
+    "catalogue_url": "https://www.gutenberg.org/ebooks/46499",
+    "text_url": "https://www.gutenberg.org/cache/epub/46499/pg46499.txt",
+    "html_url": "https://www.gutenberg.org/cache/epub/46499/pg46499-images.html",
+    "retrieved_utc": "2026-10-12T15:15:28.428469+00:00",
+    "edition": "Macmillan New York and London1895, actual title and original scan confirmed",
+    "rights": "PG catalogue public domain in USA; IA original-scan item US NOT_IN_COPYRIGHT; no blanket worldwide claim",
+    "original_chapter_count": 11,
+    "all_original_chapters_full_semantic_read": true,
+    "frontmatter_index_graph_captions_transcriber_notes_full_PG_license_read": true,
+    "extra_scan_advertisements_available_OCR_full_read": true,
+    "sources": [
+      {
+        "file": "source/original.txt",
+        "bytes": 225873,
+        "sha256": "ca3df72fe6d045657347e3b5823b2ee3efcdbe37bde65de8f090a61dea56efec",
+        "url": "https://www.gutenberg.org/cache/epub/46499/pg46499.txt"
+      },
+      {
+        "file": "source/original.html",
+        "bytes": 269589,
+        "sha256": "1095e1e6d2f653e7b784136a49b7215d370f99f1ca2eaa5f043225fec558a3d3",
+        "url": "https://www.gutenberg.org/cache/epub/46499/pg46499-images.html"
+      },
+      {
+        "file": "source/original-1895.pdf",
+        "bytes": 8663025,
+        "sha256": "367e9b1ae72c4c6ac4c6cf865460c110fc502b29aa837b55d72186d637904584",
+        "url": "https://archive.org/download/honestmoney00fond/honestmoney00fond.pdf"
+      }
+    ],
+    "PDF_pages": 236,
+    "IA_metadata_imagecount": 240,
+    "original_scan_glyphs_all_verified": false,
+    "selected_visual_audit": "source-review/scan-reading-audit.json",
+    "coverage_status": "full_digital_semantic_reading_and_selected_scan_collation_qualified",
+    "printed_body_mapping": "printed1–209 to PDF+16; printed204/PDF220blank; author conclusion ends203",
+    "unresolved_source_limits": [
+      "Not all236scanpages word-by-word visually collated.",
+      "PG index says not fully checked; entire index read but not all index references independently proved.",
+      "Plate1 and2 full images viewed; points not all digitized; original historical source series not all acquired.",
+      "Historical statutes and all quoted works not independently read or confirmed.",
+      "PG any clay is confirmed original any day at paper165/PDF181; raw preserved.",
+      "Universally paper37, silver subtraction paper94, silver bullion paper126 and0.6%paper153 preserved with separate qualifications."
+    ]
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "roman": "I",
+      "title": "Value and the Standard of Value",
+      "source_file": "source/chapters/ch01.txt",
+      "source_characters": 18242,
+      "source_sha256": "196a435885c3b499ecd60b3f114f21907eb310689697e5955828f133cf3dc5f8",
+      "original_txt_line_start": 229,
+      "original_txt_line_end": 580,
+      "printed_page_start": 1,
+      "printed_page_end": 20,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          18242
+        ]
+      ],
+      "dossier_file": "ch01.md",
+      "body_han": 2909,
+      "dossier_sha256": "beeac9babcd8d7dec23536584f326414bad43b2cc5a58c069ebf64047bc8358e",
+      "pdf_page_start": 17,
+      "pdf_page_end": 36
+    },
+    {
+      "chapter": 2,
+      "roman": "II",
+      "title": "Money",
+      "source_file": "source/chapters/ch02.txt",
+      "source_characters": 27497,
+      "source_sha256": "d52026e154753affdb9619d3445ac2a1663c7a5f9506829b5ae3f82d073db83a",
+      "original_txt_line_start": 581,
+      "original_txt_line_end": 1108,
+      "printed_page_start": 21,
+      "printed_page_end": 50,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          27497
+        ]
+      ],
+      "dossier_file": "ch02.md",
+      "body_han": 2918,
+      "dossier_sha256": "f03a77c107b97215ad04284685724fa2c4548727bcbc15699b677755f218f0f9",
+      "pdf_page_start": 37,
+      "pdf_page_end": 66
+    },
+    {
+      "chapter": 3,
+      "roman": "III",
+      "title": "Existing Monetary Systems",
+      "source_file": "source/chapters/ch03.txt",
+      "source_characters": 27633,
+      "source_sha256": "862887e84963c8b5988eaff0ee695248256f46cbe145fba5c9c084a220a43df1",
+      "original_txt_line_start": 1109,
+      "original_txt_line_end": 1609,
+      "printed_page_start": 51,
+      "printed_page_end": 80,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          27633
+        ]
+      ],
+      "dossier_file": "ch03.md",
+      "body_han": 2728,
+      "dossier_sha256": "37c8d62b04480894a03dcdc6eef488e683ce11f28795be7fc4276ceddac6f135",
+      "pdf_page_start": 67,
+      "pdf_page_end": 96
+    },
+    {
+      "chapter": 4,
+      "roman": "IV",
+      "title": "Stability of Gold and Silver Values",
+      "source_file": "source/chapters/ch04.txt",
+      "source_characters": 15987,
+      "source_sha256": "35352ebf0cf10b1e2f1e65238cbe02d0c2090bd39aa17f1cbf673a3ccf06f18c",
+      "original_txt_line_start": 1610,
+      "original_txt_line_end": 1900,
+      "printed_page_start": 81,
+      "printed_page_end": 97,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          15987
+        ]
+      ],
+      "dossier_file": "ch04.md",
+      "body_han": 2644,
+      "dossier_sha256": "6b9243e31b32e318dc7f3caca9de887fc674c02b5f8f84f6f81e790945f66ea6",
+      "Plate1_Plate2_public_source_images_viewed": [
+        "source/i223.jpg",
+        "source/i222.jpg"
+      ],
+      "pdf_page_start": 97,
+      "pdf_page_end": 113
+    },
+    {
+      "chapter": 5,
+      "roman": "V",
+      "title": "Criticism of Some Gold-Standard Arguments",
+      "source_file": "source/chapters/ch05.txt",
+      "source_characters": 12864,
+      "source_sha256": "cb1c62d8b01d4eb0c123d0c6ec17ee5e415ef11272c2f041938124c5bca1beee",
+      "original_txt_line_start": 1901,
+      "original_txt_line_end": 2143,
+      "printed_page_start": 98,
+      "printed_page_end": 111,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          12864
+        ]
+      ],
+      "dossier_file": "ch05.md",
+      "body_han": 2721,
+      "dossier_sha256": "531993b9f47f08991306f0becd958872d943bc6b748750c8ca8a0ec038ea9fd1",
+      "pdf_page_start": 114,
+      "pdf_page_end": 127
+    },
+    {
+      "chapter": 6,
+      "roman": "VI",
+      "title": "Foreign Commerce",
+      "source_file": "source/chapters/ch06.txt",
+      "source_characters": 12138,
+      "source_sha256": "7b751aff5b3f4bc9211e664ac91eef89822a4843abc2fc68a12ffd5a1a9bc223",
+      "original_txt_line_start": 2144,
+      "original_txt_line_end": 2355,
+      "printed_page_start": 112,
+      "printed_page_end": 124,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          12138
+        ]
+      ],
+      "dossier_file": "ch06.md",
+      "body_han": 2560,
+      "dossier_sha256": "522b3c88f1676d8c716c414b7cc1b658645bcf0b917403820527256662dd5679",
+      "pdf_page_start": 128,
+      "pdf_page_end": 140
+    },
+    {
+      "chapter": 7,
+      "roman": "VII",
+      "title": "Money in the United States",
+      "source_file": "source/chapters/ch07.txt",
+      "source_characters": 10481,
+      "source_sha256": "fef2988d0b38a72f78246bdc53e665a295c1c4a4dd496ceb940af108e64c6b55",
+      "original_txt_line_start": 2356,
+      "original_txt_line_end": 2551,
+      "printed_page_start": 125,
+      "printed_page_end": 136,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          10481
+        ]
+      ],
+      "dossier_file": "ch07.md",
+      "body_han": 2707,
+      "dossier_sha256": "f6820aeb6b74e5f374ba186b1d62a3202882400defe28cff1b204106daae0732",
+      "pdf_page_start": 141,
+      "pdf_page_end": 152
+    },
+    {
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "Some Proposed Changes in Our Money System",
+      "source_file": "source/chapters/ch08.txt",
+      "source_characters": 12803,
+      "source_sha256": "e8c07158f75e79be87cf774824e9d3acc714f861f81de393424be6d168d7e7e3",
+      "original_txt_line_start": 2552,
+      "original_txt_line_end": 2780,
+      "printed_page_start": 137,
+      "printed_page_end": 150,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          12803
+        ]
+      ],
+      "dossier_file": "ch08.md",
+      "body_han": 2671,
+      "dossier_sha256": "8a2167da004858319b96d79e060d239b000051f3013d88286fb96a54f8b00259",
+      "pdf_page_start": 153,
+      "pdf_page_end": 166
+    },
+    {
+      "chapter": 9,
+      "roman": "IX",
+      "title": "A New Monetary System",
+      "source_file": "source/chapters/ch09.txt",
+      "source_characters": 28215,
+      "source_sha256": "997a3853a3d87b5daed98f128582e788b03e9f498b095265947bb8a7ea6f1f18",
+      "original_txt_line_start": 2781,
+      "original_txt_line_end": 3275,
+      "printed_page_start": 151,
+      "printed_page_end": 180,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          28215
+        ]
+      ],
+      "dossier_file": "ch09.md",
+      "body_han": 3147,
+      "dossier_sha256": "ca7c489f8f65260ca13668ea4b745c9966a9eb2b1135cb53c40d1ce17a2532b7",
+      "pdf_page_start": 167,
+      "pdf_page_end": 196
+    },
+    {
+      "chapter": 10,
+      "roman": "X",
+      "title": "Merits and Objections Considered",
+      "source_file": "source/chapters/ch10.txt",
+      "source_characters": 13980,
+      "source_sha256": "9a1d94b715533bf411f00b521803b5c9ba754ab65faa680e8f3978cd662b08aa",
+      "original_txt_line_start": 3276,
+      "original_txt_line_end": 3529,
+      "printed_page_start": 181,
+      "printed_page_end": 195,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          13980
+        ]
+      ],
+      "dossier_file": "ch10.md",
+      "body_han": 2724,
+      "dossier_sha256": "f9721614dbb2c31b57b5a27fa999b4cd09405831b3d16bfae86959f59931400e",
+      "pdf_page_start": 197,
+      "pdf_page_end": 211
+    },
+    {
+      "chapter": 11,
+      "roman": "XI",
+      "title": "Conclusion",
+      "source_file": "source/chapters/ch11.txt",
+      "source_characters": 7165,
+      "source_sha256": "29097c64fa0eb8436433af60df75690f67eef1755ef7eb0778c54415ceba90c5",
+      "original_txt_line_start": 3530,
+      "original_txt_line_end": 3660,
+      "printed_page_start": 196,
+      "printed_page_end": 204,
+      "complete_source_semantic_read": true,
+      "dossier_written": true,
+      "source_read_character_ranges": [
+        [
+          0,
+          7165
+        ]
+      ],
+      "dossier_file": "ch11.md",
+      "body_han": 2802,
+      "dossier_sha256": "2a964bb51697c68b9c86e25f3d05812bc413ff267d94c29c041587b23dc6dbfa",
+      "pdf_page_start": 212,
+      "pdf_page_end": 220
+    }
+  ],
+  "body_han_counts": [
+    2909,
+    2918,
+    2728,
+    2644,
+    2721,
+    2560,
+    2707,
+    2671,
+    3147,
+    2724,
+    2802
+  ],
+  "body_han_total": 30531,
+  "all_chapters_full_original_semantic_read": true,
+  "frontmatter_title_preface_contents_read": true,
+  "index_full_read_but_all_crossreferences_not_independently_validated": true,
+  "all_graph_captions_and_transcriber_notes_read": true,
+  "entire_PG_license_read": true,
+  "all_extra_publisher_ads_available_OCR_read": true,
+  "scan_visual_review": "source-review/scan-reading-audit.json",
+  "arithmetic_review": "chapter04-arithmetic.json",
+  "paragraph_ledger": "source-paragraph-ledger.json",
+  "rules_count": 40,
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "unresolved_gaps": [
+    "Not all236scanpages word-by-word visually collated.",
+    "PG index says not fully checked; entire index read but not all index references independently proved.",
+    "Plate1 and2 full images viewed; points not all digitized; original historical source series not all acquired.",
+    "Historical statutes and all quoted works not independently read or confirmed.",
+    "PG any clay is confirmed original any day at paper165/PDF181; raw preserved.",
+    "Universally paper37, silver subtraction paper94, silver bullion paper126 and0.6%paper153 preserved with separate qualifications."
+  ],
+  "chapter11_file_recovery": {
+    "issue": "During prepackaging verification ch11.md contained misplaced chapter-plan JSON, not chapter prose.",
+    "resolution": "Restored by rereading all original ch11 source and writing full original Chinese analysis; no stale count reused.",
+    "source_semantic_read": true,
+    "current_body_han": 2798
+  },
+  "current_stock_decisions_executed": false,
+  "completed_utc": "2026-10-12T16:11:17.504800+00:00",
+  "artifacts_sha256": {
+    "专家定义.json": "34f8d4eb9f1ca19900b582791f975e9dfe95d4837289e86237eebbcfde14bcf7",
+    "专家说明.md": "8c6c1624e42ca24de37f5c3707f5cd85392aa1e8907843447cde45c22f144701",
+    "章节深读.md": "527a5c6d8007621dbd3947f55e63ed44e8d6e721b0c35841a663802efa2a5839",
+    "全书综合与附录.md": "e943518469c3538ff78eae773193ff686471b36e3e51d8563c5601369de21a4c",
+    "validation.json": "34296dd87314b47d8d065f2a2a89a5de4163d927858f88f10a3b85f643e65922",
+    "source-paragraph-ledger.json": "cf9627703a431942107d890dfa2641ab01578927e4f8c953424a1a53ba1bb3df",
+    "chapter04-arithmetic.json": "bafb6ae221beae1071a0ed4e428a9a9d7a0acd8520c55967975babffbf0b81a2",
+    "source-review/scan-reading-audit.json": "e806ffdf983d56b3efc3538df14a641f29ddace0dbfac22b90c5bd171ece73fb"
+  },
+  "minimum_chapter_han": 2560,
+  "precise_source_context_count": 109,
+  "independent_QA": {
+    "status": "passed_with_source_limits",
+    "reviewer": "value_books independent of practical_books author",
+    "file": "独立复核.json",
+    "all11_source_chapters_and_dossiers_reviewed": true,
+    "all40_rules_reviewed": true,
+    "precise_original_contexts": 109,
+    "complete_original_continuous_chapter_contexts_linked": true,
+    "every_original_scan_glyph_proofread": false,
+    "pending_final_peer_hash_confirmation": false,
+    "content_peer_confirmation": "source-review/independent-peer-QA/P31-final-confirmation.json"
+  }
+}

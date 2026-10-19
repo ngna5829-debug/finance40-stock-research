@@ -1,0 +1,279 @@
+{
+  "book_id": "P23",
+  "issues": [
+    {
+      "id": "N01",
+      "pdf": 104,
+      "printed": 80,
+      "status": "confirmed_in_original_selected_image",
+      "original_reading": "exclusive copper mining right renewed1691, lasted until State takeover about1670",
+      "issue": "原文续准年份后于接管年份；原图确为1691/1670，不猜修正",
+      "image": "source-review/pdf104.png",
+      "author_text_preserved": true,
+      "expert_action": "do_not_build_precise_chronology_from_this_sentence_without_external_primary_verification"
+    },
+    {
+      "id": "N02",
+      "pdf": 137,
+      "printed": 113,
+      "status": "all_table_cells_selected_original_read_independent_sums_disagree",
+      "issue": "1832–35逐项海煤和与印合计不一致；详表另存，不猜修复哪个单元",
+      "arithmetic": "source-review/pdf137-table-arithmetic.json",
+      "author_text_preserved": true
+    },
+    {
+      "id": "N03",
+      "pdf": [
+        146,
+        147
+      ],
+      "printed": [
+        122,
+        123
+      ],
+      "status": "confirmed_original_images",
+      "issue": "1836April叙述969500与表959500；65‰配额62367.5对应959500非969500",
+      "images": [
+        "source-review/april-basis-146.png",
+        "source-review/april-basis-147.png"
+      ],
+      "author_text_preserved": true,
+      "independent_arithmetic": {
+        "969500_times_0_065": 63017.5,
+        "959500_times_0_065": 62367.5,
+        "8227_5_minus_1265": 6962.5
+      }
+    },
+    {
+      "id": "N04",
+      "pdf": [
+        274
+      ],
+      "printed_nominal": [
+        250
+      ],
+      "author_or_original_text": "正文细纱协会1898成立，招股注May6,1894",
+      "independent_review": "两日期原图确印；不猜同一文件阶段或改年",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N05",
+      "pdf": [
+        258,
+        283
+      ],
+      "printed_nominal": [
+        234,
+        259
+      ],
+      "author_or_original_text": "同一Distillers早年合并七公司/六公司",
+      "independent_review": "成员计数范围未说明；两提取叙述保存，非该两页全字形核",
+      "selected_original_confirmed": false,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N06",
+      "pdf": [
+        268,
+        269
+      ],
+      "printed_nominal": [
+        244,
+        245
+      ],
+      "author_or_original_text": "盐销售组织秋1906/后句arose1907",
+      "independent_review": "可能形成和报告时点不同，未靠推断统一日期",
+      "selected_original_confirmed": false,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N07",
+      "pdf": [
+        269
+      ],
+      "printed_nominal": [
+        245
+      ],
+      "author_or_original_text": "absence of contracts made it impossible then prices increased",
+      "independent_review": "原图确impossible，语意张力保留，不换possible作法律推论",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N08",
+      "pdf": [
+        233
+      ],
+      "printed_nominal": [
+        209
+      ],
+      "author_or_original_text": "1803–1831税纸从约£31,000,000 worth倍增",
+      "independent_review": "原图确币号，基础金额口径未外核；不改成磅并造重量增长",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N09",
+      "pdf": [
+        253
+      ],
+      "printed_nominal": [
+        229
+      ],
+      "author_or_original_text": "国内与出口表日期多不一致，源为1909Jan报告",
+      "independent_review": "不能非同步列作同日差价；表没明标价格年度，不补为1909",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N10",
+      "pdf": [
+        280
+      ],
+      "printed_nominal": [
+        256
+      ],
+      "author_or_original_text": "印花布年平均800000–1000000 yards及1000000–1200000",
+      "independent_review": "原图确字；规模真实性和原统计单位待查，不自行添零",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N11",
+      "pdf": [
+        323
+      ],
+      "printed_nominal": [
+        299
+      ],
+      "author_or_original_text": "生产单位能力超需求后monopoly tendency is checked",
+      "independent_review": "原图确checked；与旁边新增量阻碍进入论关系需厘清，不偷偷换反义",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N12",
+      "pdf": [
+        326
+      ],
+      "printed_nominal": [
+        302
+      ],
+      "author_or_original_text": "每份7，四份联合24；价31起每份增量跌2",
+      "independent_review": "假定演示非实测；固定变动费与连续最优量未完整给",
+      "selected_original_confirmed": true,
+      "independent_calculation": {
+        "given_joint_cost": 72,
+        "ten_at13_less72": 58,
+        "eleven_at11_less72": 49,
+        "twelve_at9_less72": 36,
+        "entrant_four_at7_less24": 4,
+        "entrant_four_at5_less24": -4
+      },
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N13",
+      "pdf": [
+        259,
+        352
+      ],
+      "printed_nominal": [
+        235,
+        328
+      ],
+      "author_or_original_text": "工业酒精正文引Appii，实际附录III",
+      "independent_review": "引号不随错索引；规则直接定位PDF352–355",
+      "selected_original_confirmed": false,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N14",
+      "pdf": [
+        356,
+        357
+      ],
+      "printed_nominal": [
+        332,
+        333
+      ],
+      "author_or_original_text": "索引机车255、UnitedAlkali268等",
+      "independent_review": "实际机车正文258、纯碱263；来源引用按PDF真实文本不用自动索引",
+      "selected_original_confirmed": false,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N15",
+      "pdf": [
+        228,
+        230
+      ],
+      "printed_nominal": [
+        204,
+        206
+      ],
+      "author_or_original_text": "美国镀锡板Trust1898和1897两表述",
+      "independent_review": "可能筹建与成立不同，书中未解释，不择一年冒称外核",
+      "selected_original_confirmed": false,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N16",
+      "pdf": [
+        271
+      ],
+      "printed_nominal": [
+        247
+      ],
+      "author_or_original_text": "纺织3/4及1/6语句与汇总表同页",
+      "independent_review": "十主要品类分母未清，不从本表强算；进出口旧窗不同",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    },
+    {
+      "id": "N17",
+      "pdf": [
+        305
+      ],
+      "printed_nominal": [
+        281
+      ],
+      "author_or_original_text": "盐优先股8又2/3 percent",
+      "independent_review": "原图分数补清，非OCR8½；报告股利不作市场价总回报",
+      "selected_original_confirmed": true,
+      "independent_calculation": null,
+      "original_preserved": true,
+      "resolution": "preserve; do not silently change original or claim historical numerical verification"
+    }
+  ],
+  "author_meaning_and_independent_review_separate": true,
+  "original_glyphs_verified_for_selected_issues_only": true,
+  "all_original_glyphs_verified": false,
+  "all_historical_numeric_values_independently_verified": false
+}

@@ -1,0 +1,55 @@
+{
+  "book_id": "P33",
+  "strict_counts": [
+    2399,
+    2398,
+    2478,
+    2176,
+    2332,
+    2688,
+    2478,
+    2169,
+    2585
+  ],
+  "body_han_total": 21703,
+  "minimum_body_han": 2169,
+  "all9chapters_atleast2000": true,
+  "total_atleast20000": true,
+  "source_slices_match_fullTXT": true,
+  "chapter_range_reads_contiguous": true,
+  "all9semanticread_claims_with_checkpoints": true,
+  "fullfrontmatter_andlicense_read": true,
+  "all9forms_andmissingending_visuallyread": true,
+  "all32publishercatalogue_availableOCR_read": true,
+  "rules_count": 39,
+  "all_support_phrases_unique_in_source_chapter": true,
+  "precise_OCR_support_anchor_count": 62,
+  "total_support_anchors": 65,
+  "unmatched_preciseOCR_anchors": [
+    {
+      "rule": 9,
+      "phrase": "there is literally never a time when several",
+      "chapter": 3
+    },
+    {
+      "rule": 20,
+      "phrase": "Cases very frequently occur, however",
+      "chapter": 6
+    },
+    {
+      "rule": 26,
+      "phrase": "the expected flood of exchange never materialized",
+      "chapter": 6
+    }
+  ],
+  "unmatched_not_guessed": true,
+  "one_book_one_expert": true,
+  "metadata_not_semanticQA_substitute": true,
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "current_prediction_calls": 0,
+  "precise_original_complete_contexts": 258,
+  "all_original_line_char_byte_SHA_evidence_checks": true,
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "final_expert_sha256": "eef0dd16d2a44d218b82181de82241b3ea8f62d8c52dc0185705d5ee53018ee6"
+}

@@ -1,0 +1,164 @@
+{
+  "book_id": "P09",
+  "status": "full_semantic_QA_complete_required_changes_pending_root_manual_merge",
+  "original_source_unchanged": true,
+  "author_artifacts_not_modified_by_reviewer": true,
+  "old_31_rule_meanings_and_abstention_conditions_preserved": true,
+  "six_chapter_edits": [
+    {
+      "chapter": 1,
+      "file": "chapters/ch01.md",
+      "kind": "profit_rate_level_unit",
+      "old": "他把十个百分点条件下合计年度销售额写成约一百二十六点二七镑。",
+      "new": "他把利润率为百分之十时的合计年度销售额写成约一百二十六点二七镑。",
+      "basis_global_lines": [
+        677,
+        692
+      ],
+      "reason": "10% is givenprofitrate level, notdifference10percentagepoints; model total126.27unchanged.",
+      "original_draft_sha256": "a9c629c3f1c66e5f7bd343e1df36397d4a618326cc601d72c5f3b1ea1a3b36ff"
+    },
+    {
+      "chapter": 14,
+      "file": "chapters/ch14.md",
+      "kind": "quotation_attribution_precision",
+      "old": "斯密原引文说，普通情形下可推住户立即且最后付全税；",
+      "new": "原文在引述斯密之后说，普通情形下可推住户立即且最后付全税；",
+      "basis_global_lines": [
+        4890,
+        4921
+      ],
+      "reason": "Electronic text closes Smith quotation at fashion; ordinary incidence statement follows outside quotation. Avoid attributing the unquoted sentence to Smith as a direct original quotation, while preserving proposition; no original scan acquired.",
+      "original_draft_sha256": "d630efc451fe12f436232c3ca9777c6752f508dd322899532d98bfbddf00895f"
+    },
+    {
+      "chapter": 27,
+      "file": "chapters/ch27.md",
+      "kind": "commissioner_minister_control_direction_precision",
+      "old": "专制政府下异议重，自由且立法明智时可让专门委员、独立部长控制、持券者随时要求兑现。",
+      "new": "专制政府下异议重，自由且立法明智时可由专门委员管理，委员完全独立于部长的控制，持券者可随时要求兑现。",
+      "basis_global_lines": [
+        8931,
+        8936
+      ],
+      "reason": "Author explicitly commissioners totally independent of ministerial control; current compressed Chinese can imply an independent minister controls the issuance.",
+      "original_draft_sha256": "351d83ce7b84b2a6b893897dd6629223162de05f2c6c91325a01d14fa33de936"
+    },
+    {
+      "chapter": 27,
+      "file": "chapters/ch27.md",
+      "kind": "seven_percent_annual_rate_unambiguous_unit",
+      "old": "银行同样发而贷政府七厘，每年七万税转给银行。",
+      "new": "银行同样发而以百分之七的年利率贷给政府，每年七万税转给银行。",
+      "basis_global_lines": [
+        8889,
+        8911
+      ],
+      "reason": "Source million ×7% per annum =70000. Chinese 七厘 is ambiguous across historic period conventions; spell annual7% explicitly, unchanged amounts.",
+      "original_draft_sha256": "351d83ce7b84b2a6b893897dd6629223162de05f2c6c91325a01d14fa33de936"
+    },
+    {
+      "chapter": 31,
+      "file": "chapters/ch31.md",
+      "kind": "Malthus_note59_term_substitution_direction",
+      "old": "对方说两处不慎将真实价格写成本；李嘉图认为那两处恰是正确意义，前处才误。",
+      "new": "对方说两处不慎用了“真实价格”，原应写“生产成本”；李嘉图认为那两处恰是正确意义，前处才误。",
+      "basis_global_lines": [
+        10970,
+        10978
+      ],
+      "reason": "Original Malthus says inadvertently used real price instead of cost of production, not cost instead of real price. Preserve Ricardo disagreement, do not reconcile authors.",
+      "original_draft_sha256": "b48fb3d848b50bdf308335cb5e64c0088a4150324571900f4f8cc0444f3c2d02"
+    },
+    {
+      "chapter": 31,
+      "file": "chapters/ch31.md",
+      "kind": "Malthus_annual_percentage_rate_and_last_two_hundred_million_scope",
+      "old": "马尔萨斯列一七九四至一八一三二十年粮平均约八十三先令、末十年九十二、末五年一百零八，近五亿实际借款平均五厘；若粮五十、其他价同比低，固定息真实负担可变七八九十厘。",
+      "new": "马尔萨斯列一七九四至一八一三二十年粮平均约八十三先令、末十年九十二、末五年一百零八，近五亿实际借款平均年利率约百分之五；若粮五十、其他价同比低，固定利息的真实负担相当于年利率百分之七、八、九，而最后两亿相当于百分之十。",
+      "basis_global_lines": [
+        10090,
+        10101
+      ],
+      "reason": "Spell source per-cent rate levels rather than historically variable Chinese 厘 notation; source ten-percent equivalent specifically last200million, not all500million; underlying historical figures remain unverified quotation.",
+      "original_draft_sha256": "b48fb3d848b50bdf308335cb5e64c0088a4150324571900f4f8cc0444f3c2d02"
+    }
+  ],
+  "four_candidate_draft_files": [
+    {
+      "chapter": 1,
+      "original_path": "work/book-experts-v5/index_team/P09/chapters/ch01.md",
+      "original_sha256": "a9c629c3f1c66e5f7bd343e1df36397d4a618326cc601d72c5f3b1ea1a3b36ff",
+      "candidate_path": "work/book-experts-v5/practical_team/P09-corrected-draft-candidates/ch01.md",
+      "candidate_sha256": "d8f27928587c27d96adbf772286b969824552c4caa860e13441798a91c0620d8",
+      "original_han": 3136,
+      "candidate_han": 3138
+    },
+    {
+      "chapter": 14,
+      "original_path": "work/book-experts-v5/index_team/P09/chapters/ch14.md",
+      "original_sha256": "d630efc451fe12f436232c3ca9777c6752f508dd322899532d98bfbddf00895f",
+      "candidate_path": "work/book-experts-v5/practical_team/P09-corrected-draft-candidates/ch14.md",
+      "candidate_sha256": "2633d4d66c6af14f778461d2478e3a6720d96e5989509b0656de700bf34447d0",
+      "original_han": 2263,
+      "candidate_han": 2267
+    },
+    {
+      "chapter": 27,
+      "original_path": "work/book-experts-v5/index_team/P09/chapters/ch27.md",
+      "original_sha256": "351d83ce7b84b2a6b893897dd6629223162de05f2c6c91325a01d14fa33de936",
+      "candidate_path": "work/book-experts-v5/practical_team/P09-corrected-draft-candidates/ch27.md",
+      "candidate_sha256": "c7919d2294a55fd8e21305d1b1cdebcfa84ed39c0265cbd9b86b22ae587a467c",
+      "original_han": 2745,
+      "candidate_han": 2762
+    },
+    {
+      "chapter": 31,
+      "original_path": "work/book-experts-v5/index_team/P09/chapters/ch31.md",
+      "original_sha256": "b48fb3d848b50bdf308335cb5e64c0088a4150324571900f4f8cc0444f3c2d02",
+      "candidate_path": "work/book-experts-v5/practical_team/P09-corrected-draft-candidates/ch31.md",
+      "candidate_sha256": "bbd9650bc8f1d3ae5e587b8a851105920d33ab33bcf3a38ec52f9c966c5f6c75",
+      "original_han": 3079,
+      "candidate_han": 3109
+    }
+  ],
+  "precise_source_addition_file": "P09-source-anchor-additions.json",
+  "added_full_context_segments": 21,
+  "candidate_expert_file": "P09-corrected-expert-candidate.json",
+  "candidate_chapter_han_counts": [
+    3138,
+    2936,
+    2145,
+    2136,
+    2847,
+    2726,
+    3074,
+    2112,
+    2565,
+    2085,
+    2175,
+    2574,
+    2480,
+    2267,
+    2534,
+    3130,
+    2774,
+    2307,
+    2418,
+    2589,
+    2635,
+    2487,
+    2307,
+    2326,
+    2336,
+    2284,
+    2762,
+    2208,
+    2113,
+    2233,
+    3109
+  ],
+  "candidate_total_han": 77812,
+  "candidate_minimum_han": 2085,
+  "root_manual_merge_and_final_hash_review_still_required": true
+}

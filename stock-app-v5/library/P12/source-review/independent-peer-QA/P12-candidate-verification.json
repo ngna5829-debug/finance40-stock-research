@@ -1,0 +1,67 @@
+{
+  "book_id": "P12",
+  "candidate_not_merged": true,
+  "nine_added_full_context_checks": [
+    {
+      "id": "P12-QA-A001",
+      "rule": "P12-R07",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A002",
+      "rule": "P12-R27",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A003",
+      "rule": "P12-R27",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A004",
+      "rule": "P12-R30",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A005",
+      "rule": "P12-R32",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A006",
+      "rule": "P12-R32",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A007",
+      "rule": "P12-R34",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A008",
+      "rule": "P12-R38",
+      "all_line_byte_char_full_text_SHA_exact": true
+    },
+    {
+      "id": "P12-QA-A009",
+      "rule": "P12-R40",
+      "all_line_byte_char_full_text_SHA_exact": true
+    }
+  ],
+  "all_old97_exact_evidence_preserved": true,
+  "only_declared63_rule_semantic_field_changes": true,
+  "source_and_author_artifacts_all_unchanged": true,
+  "scan_history_execution_experiment_false_and_abstain_limits": true,
+  "all_checks_pass": true,
+  "candidate_body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "candidate_total": 29429,
+  "candidate_minimum": 2769
+}

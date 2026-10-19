@@ -1,0 +1,1289 @@
+{
+  "book_id": "P10",
+  "expert_id": "P10-Scott-Banking-1914",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "William Amasa Scott",
+  "title": "Banking",
+  "edition": "Chicago A. C. McClurg & Co., dated and copyright1914, Published April1914; original UK copyright notice retained",
+  "role": "商业付款、长期资金、银行信用和制度条件的知识审查",
+  "system_prompt": "你是P10 Scott Banking所标1914版这一册的唯一知识专家。六章、全部行内引注、书目索引及电子许可完整语义读；不能由书目声称被引作品全读，不能将Hamilton储蓄书误为B40股票书。每次先识别问题是商业付款、长期投资、损失吸收还是公众服务，区分真实回款、自偿、可卖转移、全国总现金与单行他行余额。用具体全文总行区间说明原意、原条件和书内后续限制，原观点、历史记录、现代解释分列。票据来源、回款期、续约、随需义务、兑现、担保、真实现金与对手付款、资本治理等缺时，对定量安全或归宿结论弃权并列缺口。源十比一顺序、minimum票期等不擅修，不将未核金额年金做实验。1913改革法已过但银行组织拟述，不能称原作者已证明运营无危机；旧法规不当现行法。解释反存款互保与赞成员互助要核谁监督和担损，不靠共同基金一词断同。本次未接行情，current_stock_decision_enabled:false，不宣称实时股价、真实机构净流或已运行实验。其他已读书的质疑要真实合同、信用/现金/控制资料才能修判断，external_reference_not_new_vote，不新增阅读本数。语义审读不保证原扫描每字或历史数全部准确。",
+  "rules": [
+    {
+      "id": "P10-R01",
+      "chapter_ordinal": 1,
+      "title": "功能组合不由名称决定",
+      "author_claim_paraphrase": "银行特性是公共业务中组合服务；单保管、付款、贷款或卖债不必单独使机构成为银行。",
+      "author_original_conditions": "按实际服务而非法定字面分类。",
+      "required_inputs": [
+        "实际业务组合",
+        "客户和付款工具"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            210,
+            261
+          ],
+          "source_segment_sha256": "d6b22950465f3e9d777b59ec849852c392bead8eeee08310eab7ac0fbe4e62bb",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_1. Services Performed by Banking Institutions_  From the point of view of their customers these services may be grouped under the following heads: Th",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 1
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "混业、非银行替代服务可改变名称分类，不能由银行称谓给安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R02",
+      "chapter_ordinal": 1,
+      "title": "分类三维相交",
+      "author_claim_paraphrase": "商业与投资主业、私人与注册法律形式、网络中心地位是不同维，常有混合业务。",
+      "author_original_conditions": "法和机构描述限1914原时代。",
+      "required_inputs": [
+        "章程及法时点",
+        "业务比例",
+        "同业关系"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            300,
+            337
+          ],
+          "source_segment_sha256": "0c67bd05b3114594ee49f9bb0553753703ee6a0952a06b6e4adc6dbfe28f71d4",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_3. Classification of Banking Institutions_  Banks differ from one another chiefly in the nature and degree of their specialization, in legal status, ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 1
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            374,
+            388
+          ],
+          "source_segment_sha256": "857d9c3b569ea996984ea7c375d1a8fdccc98ea691ad62a7ca92885ab8131815",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The nature of the banking business requires some kind of organization of the individual institutions in which certain ones will assume to a degree at ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 1
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "同一机构功能变化或多层关系使单标签不足。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R03",
+      "chapter_ordinal": 1,
+      "title": "交换媒介与真实资本分开",
+      "author_claim_paraphrase": "银行记账抵债创造交换媒介并分配外来币；储蓄合并投资需要别机构协作。",
+      "author_original_conditions": "账目创造不等真实物料创造。",
+      "required_inputs": [
+        "债权债务与抵销",
+        "储蓄来源及资本用途"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            264,
+            297
+          ],
+          "source_segment_sha256": "93c66ece83ebba2b845adc4b846aa3103076888a99e2de5b7d69b722f1dd4385",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_2. The Economic Functions of Banks_  Viewed from the standpoint of the nation rather than from that of individuals, the functions of banks may be des",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 1
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若把同一资产负债两面重复作资源，拒绝合计。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R04",
+      "chapter_ordinal": 2,
+      "title": "商业票据按来源而非外观",
+      "author_claim_paraphrase": "真正商业票是正常赊销采购链的一环，不因短期格式或经纪可卖就成立。",
+      "author_original_conditions": "真实交易和近期销售回款，非长期投资或通融消费。",
+      "required_inputs": [
+        "票据交易起因",
+        "买卖双方",
+        "实际资金用途"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            407,
+            449
+          ],
+          "source_segment_sha256": "3d7d03d773cc4da6cd4372463c2d5793e49cb16c6d8987ffe0cb3865eb598d8d",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "By commercial paper is meant the credit instruments or documents which the credit system now in general use throughout the commercial world regularly ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "无原交易或期待不断续借时不使用自偿结论。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R05",
+      "chapter_ordinal": 2,
+      "title": "贴现解决时点错配",
+      "author_claim_paraphrase": "未来债权可换当前现金或账户信用，先扣息与到期付息术语不同。",
+      "author_original_conditions": "时点、利息基数、对手可付清。",
+      "required_inputs": [
+        "到期日与付款日",
+        "实际所得与票面",
+        "贴息方式"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            452,
+            479
+          ],
+          "source_segment_sha256": "f23fe1f89c734604f2cb76119c18f1280de939fa6f00421748659d39cb73cf41",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_2. The Operation of Discount_  Every person in this chain of credit is confronted with the problem of paying his debts as they mature by the use of t",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "利率与风险、净额不同则不能机械等价。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R06",
+      "chapter_ordinal": 2,
+      "title": "账户与银行券是付款义务形式",
+      "author_claim_paraphrase": "贷款代收可贷账户；换券或支票是付款形式改变，不自动增双份购买力。",
+      "author_original_conditions": "发行者经营和监督正常、可兑付，账面与硬币不同。",
+      "required_inputs": [
+        "账户借贷项",
+        "券兑付和转换",
+        "银行资产/负债"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            482,
+            521
+          ],
+          "source_segment_sha256": "3b4c9cd8c214e8b7b388c4ae24e061021290c1b7d195796e45952ab7093b66d3",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_3. The Conduct of Checking Accounts_  A checking account is an ordinary book account on which are credited the cash deposited by a customer and the p",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            574,
+            610
+          ],
+          "source_segment_sha256": "1830467f65a9026ee2f71e167426cba609d900120337573c5080be067a9e27be",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "As an alternative for or a supplement to the conduct of checking accounts a commercial bank may issue its promissory notes payable to bearer on demand",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "券不受信任或兑付条件不符，停止正常流通判断。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R07",
+      "chapter_ordinal": 2,
+      "title": "净清算还需最后差额支付",
+      "author_claim_paraphrase": "各行支票交换净差，可以中央余额再贴付款；个体与整网时点不必同。",
+      "author_original_conditions": "正常票回款和清算网络。",
+      "required_inputs": [
+        "清算量净差",
+        "时点",
+        "中央账户可用性"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            643,
+            665
+          ],
+          "source_segment_sha256": "adddc81aba5008ddf35d6d46d833c27022ed0ea8684a89b5765201e909052166",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Checks drawn upon home banks are collected either through messengers who present the checks at the counters of the banks upon which they are drawn and",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            523,
+            548
+          ],
+          "source_segment_sha256": "bb46d57b1462684eb626fc66a368854d38ea49cf82bc64ea1da2029821735cc4",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "So long as the discounts are confined to commercial paper the bank's part in these transactions consists almost exclusively of bookkeeping between its",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "时点不同、对手不能付或信用链断时不能依购买销售相等保证安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R08",
+      "chapter_ordinal": 2,
+      "title": "异地余额与提款压力",
+      "author_claim_paraphrase": "对外购买馈赠多会耗往来余额，补票依赖别行余量；加息停贴可能迫售、甚至危机。",
+      "author_original_conditions": "同业实际可付款及外方有买者；通常调整非无限保证。",
+      "required_inputs": [
+        "外来销售购买馈赠",
+        "代理余额现金",
+        "授信与可售资产"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            697,
+            727
+          ],
+          "source_segment_sha256": "0442a9269d08a03a17258d525b4c0a97b259724389e1ef2127d76e4ecd269f54",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The accounts of a bank with its correspondents are a record of the transactions of its customers with the outside world, the checks they receive as a ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            789,
+            816
+          ],
+          "source_segment_sha256": "1e1e61fb37d5bb3df7d9031b9d831c6c51dc761e4fbf3053091482603df223e9",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "When the cash resources of the banks of a town approach the limit of safety and their balances with their correspondents fall to an ominously low poin",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "全体余量耗尽或任价不可售时不认加息总能恢复。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R09",
+      "chapter_ordinal": 2,
+      "title": "外汇的币种标准期限品质",
+      "author_claim_paraphrase": "平价与金点依金属标准及运费；电汇、即期、期票报价含时间与品质。",
+      "author_original_conditions": "原某日报价无日期、金属制度及真实费用。",
+      "required_inputs": [
+        "币重标准",
+        "报价时点与期限",
+        "运费利息和票质"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            834,
+            860
+          ],
+          "source_segment_sha256": "d145360d0966fd4e7a09cf61c8544c0d0b56326cdfdffb7086d5d60aadf295e2",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The translation of the language of values of one country into that of others thus involved requires the calculation of a so-called _par of exchange_. ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            862,
+            893
+          ],
+          "source_segment_sha256": "3300704b1738e0ed016fa7b9f614da2c66f602f8e2a53bbdbd01988cd63e5efd",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "In the conduct of the foreign exchanges several classes of bills are employed upon which the quotations differ, in part on account of differences in t",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 11
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "非金属兑付或期限不同不得按旧金点套利；不能填当前报价。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R10",
+      "chapter_ordinal": 3,
+      "title": "准备需要依经验与需求",
+      "author_claim_paraphrase": "现金支票习惯、客户、危机、清算和发券能力改变准备需求。",
+      "author_original_conditions": "不同人群时段，发券仍需兑换准备。",
+      "required_inputs": [
+        "提款历史及情形",
+        "清算方式",
+        "币源和发券权"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            914,
+            969
+          ],
+          "source_segment_sha256": "4d2667d2ebafd9bac6d33e5fccb88384becebff6773e57e230bfba3d303f432f",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The credit balances on checking accounts and the notes of commercial banks are payable on demand in the legal-tender money of the nation to which they",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "危机或特殊支付改变需量时固定常时比不足。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R11",
+      "chapter_ordinal": 3,
+      "title": "国家合并准备不重复算往来债",
+      "author_claim_paraphrase": "国内余额、再贴或售债只转现钱；外国工具真引金才增本国总备，分配通路仍关键。",
+      "author_original_conditions": "区分一行现金与全国合计。",
+      "required_inputs": [
+        "资产负债合并",
+        "国外付款能力",
+        "调配通路"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            998,
+            1015
+          ],
+          "source_segment_sha256": "5cf6375b7a3fc7706c821a1af69ac683ec80c1b643df781d0c2cf9262182e9c3",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "For the nation as a whole, the balances in other banks and the discountable commercial paper and bonds which a bank may count as a part of its reserve",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "同一币被多行报准备或外方不可付时拒合计。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R12",
+      "chapter_ordinal": 3,
+      "title": "信用资料不能用身家替代",
+      "author_claim_paraphrase": "辨票用途须客户频表、货运仓储保险单及信用部门，形式及富裕不足保证到期。",
+      "author_original_conditions": "实际来源调查，不把文件存在等于真伪已核。",
+      "required_inputs": [
+        "经营及债务表",
+        "交易单据核验",
+        "客户和行业资料"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1039,
+            1087
+          ],
+          "source_segment_sha256": "3bdb43af48291a03d9c650662b5f63400307ed567de30afca1a4b7c46f43bffa",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "To distinguish between commercial and investment paper is, therefore, one of the chief problems confronting commercial bankers. For its solution an ac",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "期限、用途或文件无法核时弃权自偿贷款分类。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R13",
+      "chapter_ordinal": 3,
+      "title": "账户服务与贷息调节",
+      "author_claim_paraphrase": "纯商业账户付息被作者认为成本还需补，储蓄另论；调贷息可影响信用量与准备。",
+      "author_original_conditions": "原规范分商业/储蓄，竞争及外资金可转。",
+      "required_inputs": [
+        "账户资金用途",
+        "实贷率及成本",
+        "资金流动渠道"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1095,
+            1137
+          ],
+          "source_segment_sha256": "167ec0577c3e04c3b788d51c4ee7084da9d9dd9ccbde1d1b610439cc60ad7b42",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Rates on deposits, though sometimes employed, have no place in commercial banking, since commercial deposits are only the credit balances resulting fr",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "法定与实率、现金回流不比时不认定方向幅度。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R14",
+      "chapter_ordinal": 3,
+      "title": "资本吸损与数字顺序未解",
+      "author_claim_paraphrase": "资本盈余和追加股东责任吸损并约束经理，但作者承认缺可靠规模原则。",
+      "author_original_conditions": "资本不是全库现金；ten to one词序不擅倒。",
+      "required_inputs": [
+        "实际资本盈余",
+        "损失与股东责任",
+        "义务口径"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1153,
+            1206
+          ],
+          "source_segment_sha256": "36bc8fb5de07c4913b5c7609273f79866e6f66421575adaa5bde3cf7c6c97cff",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "(_a_) _Capital and Surplus Requirements and Double Liability of Stockholders._--A very common, indeed, almost universal, legal requirement is that bef",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "暂停用原十比一作硬比率，缺原刻/同口径资料不定安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R15",
+      "chapter_ordinal": 3,
+      "title": "inflation为信用期限与强清算专义",
+      "author_claim_paraphrase": "投资长回款对应随需债，纸短期将压力转借者，强售可引价格和经营调整。",
+      "author_original_conditions": "技术历史词，不当CPI现指标或危机唯一原因。",
+      "required_inputs": [
+        "真实回款期限",
+        "提款债务",
+        "续期和抵押出售"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1208,
+            1262
+          ],
+          "source_segment_sha256": "43099335f2b88a80e954feaac91d6bdb868fb47ca20b993583df9b1fdc48c475",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "(_b_) _Inflation and Means of Protecting the Public against It._--The greatest abuse to which the business of commercial banking is subject, and again",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "销售信用或别因不同需重判；不可只按票名归危机。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R16",
+      "chapter_ordinal": 3,
+      "title": "自偿液化不同可卖转移",
+      "author_claim_paraphrase": "短期可续票不必自偿，上市债股卖只是投资转手，不消灭原债。",
+      "author_original_conditions": "真正商业过程正常结束，区别市场流动定义。",
+      "required_inputs": [
+        "基础资产回款",
+        "证券转手现金",
+        "真实债消灭"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1279,
+            1303
+          ],
+          "source_segment_sha256": "2223b6eda7aaed47b9ebfe8fbc3b794ee9c7b6de2df675bcbd3dfa791a0e5f80",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The purpose of these regulations is to confine the investments of banks to what are called liquid securities, but they fail to evince a proper concept",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "全系统同卖与单家售不同，不能上市即安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R17",
+      "chapter_ordinal": 3,
+      "title": "损失保护与防错配不同",
+      "author_claim_paraphrase": "优先权、券基金、特定抵押、限发各目的不同，保证持券损失不等防强清算。",
+      "author_original_conditions": "不同担保资产与债优先次序。",
+      "required_inputs": [
+        "资产期限",
+        "优先条款和基金",
+        "额度基数"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1361,
+            1416
+          ],
+          "source_segment_sha256": "fe775733965dffeb753c168781535b30cda4581e26f0559ad9cb98f8bbcbeff2",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The means of safeguarding note issues which have been incorporated into legislative enactments are the prior lien on assets, the safety fund, the requ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "长债担保仍长回款；将5%基金误当全部准备应拒。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R18",
+      "chapter_ordinal": 3,
+      "title": "互保存户的作者强反对须检验",
+      "author_claim_paraphrase": "作者赞免存户损目的，却忧其丢管理监督、助冒险；官检不能查每秘密合同。",
+      "author_original_conditions": "原机制与规范，并非全部现代保险实证。",
+      "required_inputs": [
+        "基金条款及风险分担",
+        "管理与储户反应",
+        "监管实际能力"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1441,
+            1475
+          ],
+          "source_segment_sha256": "f0517fe66bbdec8498bbe58793f50003fb6476d447d6fb0637ae4e8d2c85cbc7",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "A recent legislative experiment along quite a new line has been undertaken in this country in the form of laws providing for the mutual insurance of d",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "风险收费、所有者承担与实际约束证据可收窄其全部灾难断言。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R19",
+      "chapter_ordinal": 3,
+      "title": "地方独立与分支有双面",
+      "author_claim_paraphrase": "本地亲知和人才可强、资金隔离可弱；分支能调资本但总部少亲知、有能力未必供足。",
+      "author_original_conditions": "规模、地域需要、竞争与管理。",
+      "required_inputs": [
+        "分行服务和资本通路",
+        "信用调查质量",
+        "当地裁量"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1480,
+            1549
+          ],
+          "source_segment_sha256": "2f34d15f26eb1f5f309c38312f601b2cdaf8a765dc1b104fda9aba8294bdf400",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "From the point of view of adequacy and economy of service, two types of banking systems require attention; namely, that characterized by a large numbe",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 35
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不按大或小断安全，也不能用理论能扩展当已开足。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R20",
+      "chapter_ordinal": 4,
+      "title": "信用线预期不是续约保证",
+      "author_claim_paraphrase": "客户可把正常最大线作持续资本，但票到期续约不一定法律/道义绑定银行。",
+      "author_original_conditions": "借款用途与储蓄资本可投长期来源须分。",
+      "required_inputs": [
+        "授信合同与续约",
+        "现金流用途",
+        "负债提款"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1950,
+            1965
+          ],
+          "source_segment_sha256": "26f171ad031bfbe7b2360ff4ddac15a0eceae7ec73b185139c691a7b3833b919",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "(_b_) _Loan Operations._--In making loans, a typical method of procedure for a business man is to arrange with a bank for what is technically called a",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1981,
+            2018
+          ],
+          "source_segment_sha256": "bc2856c0d1b6ccbbaccba50804e22861db0f8bbe76369506f83d6a4f65351e5e",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The significance of the distinction between commercial and investment operations in the business of banking is not generally understood, and is conseq",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "全体投长且同时拒续时不能依少数可再贴经验。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R21",
+      "chapter_ordinal": 4,
+      "title": "国库收付和选择改变准备",
+      "author_claim_paraphrase": "独立国库收多支少移银行现金，选择存回和撤出不定，会影响预测与业务。",
+      "author_original_conditions": "旧制度及部长裁量时间，未当现行政策。",
+      "required_inputs": [
+        "政府收付存提日",
+        "担保及收款行",
+        "准备来源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            1793,
+            1804
+          ],
+          "source_segment_sha256": "921c0c28dda2f3928da755140e1561f5a780d863ded71df68157a26325eb37e3",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "In its operation, this independent treasury system affects the reserves of the banks and through them their discounts and the commerce of the country.",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2020,
+            2068
+          ],
+          "source_segment_sha256": "2733e878fb812935258992c3a659ab9a968aea0f577d9ac3bec47f74474c4add",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "(_c_) _Treasury Operations._--The operation of our independent treasury system produces arbitrary fluctuations in the reserves of the banks and preven",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "没有确切计划不能填预期资金已来；一行得到不等所有行同时得到。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R22",
+      "chapter_ordinal": 4,
+      "title": "准备聚call市场的系统调用风险",
+      "author_claim_paraphrase": "层层余额聚纽约，call贷平时便利，全体一起叫可迫证券售而无别行接，停付风险。",
+      "author_original_conditions": "同资产市场、兑付相关与可用现金。",
+      "required_inputs": [
+        "往来债权与call",
+        "共同调用量",
+        "证券可售和外方钱"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2098,
+            2147
+          ],
+          "source_segment_sha256": "498425db30d78848034b5c82adbd91bedbd290e95a1371c44da8e47a01badf3c",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The explanation of the devotion of the redeposited portion of the reserves to the operations of the New York Stock Exchange is to be found in the fact",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "用上市价或单行可卖作全网现金保证时拒绝；需实际承接方。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R23",
+      "chapter_ordinal": 4,
+      "title": "旧发券锚与1913改革预期区分",
+      "author_claim_paraphrase": "旧券受债价和新行决定，改革拟真实票回流、再贴与准备集中，尚非运行验证。",
+      "author_original_conditions": "1914原文语境、已过法与拟机构不同；资格及准备仍须核。",
+      "required_inputs": [
+        "制度时间",
+        "票资格与兑付",
+        "实际运行材料"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2170,
+            2205
+          ],
+          "source_segment_sha256": "67c85646893cddf32d335d987f69dcb640c45523f165c87a0ad8e1eaac1a20ff",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "(_e_) _Lack of Elasticity in the Currency._--The money of the United States consists of four main elements, gold and silver coin, United States notes,",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2224,
+            2277
+          ],
+          "source_segment_sha256": "2c13e6493a4c0817fc8c3b48d02ff9a08dda2bcb0ed24339231fe6a01e758bfb",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "For various reasons, the plan of the monetary commission did not meet with universal favor. It was condemned in particular by the Democratic party, wh",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 68
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不把改革预期当作者已证消危机，不把旧法做当前安全门。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R24",
+      "chapter_ordinal": 5,
+      "title": "承兑线的保证与客户备款",
+      "author_claim_paraphrase": "银行接受出票保证到期，客户应供款付费并担保，便远地贴现。",
+      "author_original_conditions": "真实交易、银行信用和客户义务。",
+      "required_inputs": [
+        "承兑合同与担保",
+        "到期资金",
+        "交易单据"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2322,
+            2344
+          ],
+          "source_segment_sha256": "a3ccf1220cee34b43a1feea78153fc25c9c0b42767e241cc2d66f6890c2a26c5",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Commercial and bankers' bills are widely used as credit instruments between buyers and sellers and between bankers and their customers. A common metho",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "缺交易或银行支付能力不能仅凭签名认安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R25",
+      "chapter_ordinal": 5,
+      "title": "英国发行和银行部及票期未解",
+      "author_claim_paraphrase": "发券与商业银行部、集中金和国际贴率调备分，minimum四或六月原字含混。",
+      "author_original_conditions": "特定金属支付与国际票市场，四月不能擅当最长准入。",
+      "required_inputs": [
+        "部门资产负债",
+        "外方金与票需求",
+        "原票期条款核证"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2364,
+            2405
+          ],
+          "source_segment_sha256": "bb167b3df9dff3d25c003074e5b8a1f1dd02482c3c1f8a7c841ffc6bc6272175",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The head office of the Bank of England is in London, and there are eleven branches, two in London and nine in the provinces. By a law passed in 1844, ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2448,
+            2504
+          ],
+          "source_segment_sha256": "b07adfd3eef74c465dde6cc0c40dd1785a018460e7bd8c4177ae909447aac866",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "In the operation of this machinery, the most noteworthy features are the reserve system, and the administration of the discount rate of the Bank of En",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "暂停有歧义期限数；外方无金或不信任则调率不保证备来。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R26",
+      "chapter_ordinal": 5,
+      "title": "法国真实票回流的条件",
+      "author_claim_paraphrase": "三月三签或二签担保，票换券到期回销可弹性，中央与其他行关系不同。",
+      "author_original_conditions": "真实交易正常付款、可兑现及发额未撞上限；近完美为作者评。",
+      "required_inputs": [
+        "签责与票起因",
+        "券额兑付",
+        "同业和客户入口"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2548,
+            2570
+          ],
+          "source_segment_sha256": "0358ee3832f98833338930c7155fa321d8ac29b53ed3347c6e480c3b90d84857",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Its discount operations are limited by law to bills maturing in not more than three months, and bearing the signatures of at least three solvent perso",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2636,
+            2659
+          ],
+          "source_segment_sha256": "19f5a37b8fa637d48c615989b4b6784af72cd8790ef5ac6e89eaf23c7878de74",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Gold and silver coin and the notes of the Bank of France constitute the hand-to-hand money of the country. The latter form the elastic element, and th",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不能把三签当欺诈已核、正常回流当危机必不发生。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R27",
+      "chapter_ordinal": 5,
+      "title": "德国弹性与税约束的权衡",
+      "author_claim_paraphrase": "商业票可发券，税过正常需会限商，但大行混投与外联系扰金备使税可能有用。",
+      "author_original_conditions": "现金比例、免税额、税年率不同分母。",
+      "required_inputs": [
+        "券基础与真实票",
+        "不同期额和准备",
+        "工业控制及外方现金"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2712,
+            2726
+          ],
+          "source_segment_sha256": "9b7f0c91aa04c252ce5ffe0a912ec120217f51d2217ee2fe53ee2d5ff547b3d6",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "It shares the right of note issue with four other banks, which, out of thirty-two that retained that privilege at the time the Imperial banking system",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2811,
+            2824
+          ],
+          "source_segment_sha256": "ddc82fda506395c30230c5c8d9bcc69d2817d041371f06f9582e455e1bc4be45",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "On account of its right to issue notes against commercial securities, the Imperial Bank has the power to meet the demands made upon it and to supply t",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "未核使用便不说限额全坏或发行越多越好。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R28",
+      "chapter_ordinal": 5,
+      "title": "加拿大互清、发行上限及协作限度",
+      "author_claim_paraphrase": "自券互清弹性但资本锚可不足；没有中央靠大行同业合作，平时互贴作者坦言未知。",
+      "author_original_conditions": "兑付基金/优先资产、实际资金和合作，病例不等未来保证。",
+      "required_inputs": [
+        "券回收和资本来源",
+        "国外准备可取",
+        "合作和失败处理档"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2951,
+            2975
+          ],
+          "source_segment_sha256": "195968aba703996f8f90b2321b92cdcfa3c29b7e62b5aa2f9dc659a72a126179",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Each bank pays out its notes freely to supply the cash demands of its customers, and receives from them on deposit, without hesitation or depreciation",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            2991,
+            3029
+          ],
+          "source_segment_sha256": "c83896bc0fe44970829920cf86cadebd254a5d76a77d92d8d50c80d630556a54",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The lack of a central bank and of a rediscount market is to a degree compensated by unity of action among the banks. This is the result not so much of",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 101
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "纽约call外方也紧、基金不足或互助不执行时原好处收窄。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R29",
+      "chapter_ordinal": 6,
+      "title": "储蓄能力、期限与投资配置",
+      "author_claim_paraphrase": "储蓄先有余量和意愿；通知提款/长期存可重安全收益配置长债，非随需商业款。",
+      "author_original_conditions": "实际余款与提款条件，不由账户名确定期限。",
+      "required_inputs": [
+        "储蓄来源",
+        "提款约定与行为",
+        "长期回款/安全"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3054,
+            3087
+          ],
+          "source_segment_sha256": "dd229db3b1935d9b7a2a64c659d6bec42823227984531b9eb52d80c266826a77",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Saving is an individual matter for which the essential conditions are the development of the instinct to make provision against uncertainties of futur",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3129,
+            3139
+          ],
+          "source_segment_sha256": "3d16a5adfaeb3d86e1a71fed23d5a0a44742f987af181942fcc0d60b9b52ec15",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "In the investment of the funds intrusted to savings banks, safety and as large returns as are consistent with it, rather than ease of liquidation, are",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "每日随需提或流动来源不稳时不能按储蓄名投入长资产。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R30",
+      "chapter_ordinal": 6,
+      "title": "信托便利与监管差额利益分别",
+      "author_claim_paraphrase": "多业务合并便公众，也可能因监管不平等获利；不先判断信托必主导。",
+      "author_original_conditions": "公平竞争及具体服务职能。",
+      "required_inputs": [
+        "受托责任",
+        "实际业务资金",
+        "适用规则与控制"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3193,
+            3217
+          ],
+          "source_segment_sha256": "484a44014917c3b6270dba3fb541f35d480732c3381fee0b7cc16b9a4b646a46",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Since they are still in the early stages of their development, the status of trust companies in the banking system of the United States is not yet def",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "缺公平可比样本不能将成功只归混合或专门化。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R31",
+      "chapter_ordinal": 6,
+      "title": "证券信息与监管裁量的作者倡议",
+      "author_claim_paraphrase": "专业债券机构需信息，防欺骗和不妨市场都有目标，作者偏行政裁量而承法律难完美。",
+      "author_original_conditions": "原历史法规范，不是现行合规承诺。",
+      "required_inputs": [
+        "发行者现金流和权利",
+        "卖者信息",
+        "监管对象及执行"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3243,
+            3276
+          ],
+          "source_segment_sha256": "1445312c802359fedd65805f0aa7d583349ed5edcecc82befa6af9b864ff0d2f",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Until recently there have been few attempts to regulate the operation of these institutions by law, but the fraudulent practices of some of them, and ",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "专业名或有监管不足保证；查实际误述和可得信息。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R32",
+      "chapter_ordinal": 6,
+      "title": "土地年金与抵押债的治理分母",
+      "author_claim_paraphrase": "互助抵押保证与股份地押股东目标不同，长期年金需真实合同，0.5%原缺本息分母。",
+      "author_original_conditions": "联合责任/估值与资本期限明示。",
+      "required_inputs": [
+        "地价估值/权责",
+        "年金本息期限",
+        "抵押债回款与资金来源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3287,
+            3324
+          ],
+          "source_segment_sha256": "0d4b2b2ce79ee7c205e43505f16fd59493aac3f9b65d2a3f9e71f1efe43149d9",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "In order to assist in the recuperation of his kingdom from the devastation caused by the Seven Years' War, Frederick caused the land owners of certain",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3361,
+            3386
+          ],
+          "source_segment_sha256": "aa70ae6506a87d8b47566f350bf6913a87b4a19ddacffc2c37174aacbba8fa3c",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Next to the Landschaften the most important intermediaries between capitalists and investors in real estate in Germany are the so-called Hypothekenakt",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不推200年贷款或万能担保；共同土地风险需另查。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R33",
+      "chapter_ordinal": 6,
+      "title": "合作信用需成员控制与真实资金",
+      "author_claim_paraphrase": "熟知小群、共同责任及控制可强信用，资金增后联合和外投又需新层证据。",
+      "author_original_conditions": "成员知用途、承担风险，小群与全国层不能混。",
+      "required_inputs": [
+        "会员投票与责任",
+        "贷款用途",
+        "资金和联合外投"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3421,
+            3451
+          ],
+          "source_segment_sha256": "97e87cafc0f83c327f6a7e69627f6ea9e386a2d0dd948b5f41734550ae766ff1",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "The principle of their organization is the association of a comparatively small group of neighbors, or of people who know one another well, or who may",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3483,
+            3514
+          ],
+          "source_segment_sha256": "12688c38a73fc85eec54c1c90b56e2a56ff381324e680a40e67e0700bf380c54",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "They differ from the Schulze-Delitzsch societies chiefly in the following particulars: They charge no initiation fees and do not rely to the same exte",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3525,
+            3550
+          ],
+          "source_segment_sha256": "a1062cd3938148775bdcf031b7782860ce5194065da2e304e3d915518d30c41d",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "At the outset the Raiffeisen societies had to rely chiefly on borrowing for the acquisition of the capital needed, but with time and success savings d",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "共灾、控制偏移、非会员或外投资料不明则收窄互知安全。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R34",
+      "chapter_ordinal": 6,
+      "title": "交易所服务与真实债回收不同",
+      "author_claim_paraphrase": "交易所通信报价、规则和结算拓市场与资本移动，必要投机与有害边界难划。",
+      "author_original_conditions": "证券转手不是全部公司新融资或基础债液化。",
+      "required_inputs": [
+        "交易主体与发行款",
+        "报价成交口径",
+        "项目实际回款"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3614,
+            3651
+          ],
+          "source_segment_sha256": "f760f33c8786e80488a7d7751253176f9d6d13d77b2c8051fc92583f5131d130",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "An essential part of the machinery of investment banking is the stock exchange. This is a place where the buyers and sellers of securities or their ag",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3667,
+            3682
+          ],
+          "source_segment_sha256": "bbc0f7bad27e12face515359701a7cab6b99d79e8fcde737b8be72069cd92eaf",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "Stock exchanges have suffered in reputation, and their real functions and merits have been obscured by the abuses to which they have been subjected. C",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "成交额不可充机构净流，新股与旧股成交区别须核。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P10-R35",
+      "chapter_ordinal": 6,
+      "title": "农村信用改革需当地条件和公共治理",
+      "author_claim_paraphrase": "作者倡合作、长押年金、公私支持，承农民分散、规模及执行腐败等移植困难。",
+      "author_original_conditions": "1914国情、借者与贷者目标、真实治理，不认可原殖民同化目的。",
+      "required_inputs": [
+        "农村余款及所需资金",
+        "地区社会和产权",
+        "公资风险/执行"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P10/source/original.txt",
+          "source_global_lines_inclusive": [
+            3685,
+            3766
+          ],
+          "source_segment_sha256": "f3289f14fcc019d6019009e784f89c183e03d9890bfe79928f5cea1e5dd5069f",
+          "hash_method": "原始逐行字节含CRLF直接拼接首尾区间",
+          "excerpt_for_location": "_6. Some Defects in Our Investment Banking Machinery_  A comparison of our investment banking machinery with that of European countries, especially Ge",
+          "precise_printed_page_verified": false,
+          "chapter_printed_start_from_original_contents": 136
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不同分布及制度不能照搬德国模式或用国民性打分。",
+      "modern_layer_separate": "必要资料与证伪问题是本次现代解释；不将原历史比率或制度称当前规则。",
+      "current_stock_decision_enabled": false
+    }
+  ],
+  "rule_count": 35,
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_sha256": "087167e8de3ce15dec570f81cd8eac46d641965876f480d45f712a2d515a3c93",
+  "global_abstain_conditions": [
+    "必要交易和现金资料缺",
+    "把票形式/短期限当自偿",
+    "把其他行余额重复算总现金",
+    "未核旧数/法/词义作当前硬门",
+    "旧某日报价充当前行情"
+  ],
+  "source_limits_files": [
+    "work/book-experts-v5/index_team/P10/source/ch03-source-limits.json",
+    "work/book-experts-v5/index_team/P10/source/ch05-source-limits.json",
+    "work/book-experts-v5/index_team/P10/source/ch06-source-limits.json"
+  ],
+  "independent_qa_file": "independent-QA.json",
+  "final_qualified": true
+}

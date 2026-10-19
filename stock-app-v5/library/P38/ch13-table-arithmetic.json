@@ -1,0 +1,819 @@
+{
+  "all16originaltables": {
+    "131": {
+      "original_maturities_week": [
+        4,
+        8,
+        13,
+        26,
+        52
+      ],
+      "original_billions": [
+        32.9,
+        38.4,
+        63.1,
+        59.6,
+        39.7
+      ],
+      "original_sum": 233.7,
+      "independent_mean": 46.739999999999995,
+      "independent_median": 39.7
+    },
+    "132": {
+      "original_all3_price_quantity_amount_rows": [
+        [
+          78,
+          200,
+          15600
+        ],
+        [
+          122,
+          300,
+          36600
+        ],
+        [
+          131,
+          500,
+          65500
+        ]
+      ],
+      "original_totals": [
+        1000,
+        117700
+      ],
+      "weighted_mean": 117.7
+    },
+    "133": {
+      "original_all10rows_x_diff_square": [
+        [
+          40,
+          -6,
+          36
+        ],
+        [
+          36,
+          -10,
+          100
+        ],
+        [
+          44,
+          -2,
+          4
+        ],
+        [
+          51,
+          5,
+          25
+        ],
+        [
+          54,
+          8,
+          64
+        ],
+        [
+          55,
+          9,
+          81
+        ],
+        [
+          39,
+          -7,
+          49
+        ],
+        [
+          47,
+          1,
+          1
+        ],
+        [
+          44,
+          -2,
+          4
+        ],
+        [
+          50,
+          4,
+          16
+        ]
+      ],
+      "original_sum_diff": 0,
+      "original_sum_squares": 380,
+      "original_s2_s": [
+        42.2,
+        6.5
+      ],
+      "independent_var": 42.22222222222222,
+      "independent_sd": 6.497862896539309,
+      "populationvar": 38
+    },
+    "134": {
+      "all15calculatorsteps_read": true,
+      "data_inputs": [
+        40,
+        36,
+        44,
+        51,
+        54,
+        55,
+        39,
+        47,
+        44,
+        50
+      ],
+      "original_n_mean_Sx": [
+        10,
+        46,
+        6.5
+      ],
+      "no_TI_execution": true
+    },
+    "135": {
+      "all20_original_portfolio_values_000": [
+        278,
+        318,
+        422,
+        577,
+        618,
+        735,
+        798,
+        864,
+        903,
+        944,
+        1052,
+        1099,
+        1132,
+        1180,
+        1279,
+        1365,
+        1471,
+        1572,
+        1787,
+        1905
+      ]
+    },
+    "136": {
+      "original_intervals": [
+        [
+          0,
+          299
+        ],
+        [
+          300,
+          599
+        ],
+        [
+          600,
+          899
+        ],
+        [
+          900,
+          1199
+        ],
+        [
+          1200,
+          1499
+        ],
+        [
+          1500,
+          1799
+        ],
+        [
+          1800,
+          2099
+        ]
+      ],
+      "original_counts": [
+        1,
+        3,
+        4,
+        6,
+        3,
+        2,
+        1
+      ],
+      "original_relative": [
+        0.05,
+        0.15,
+        0.2,
+        0.3,
+        0.15,
+        0.1,
+        0.05
+      ],
+      "independent_counts": [
+        1,
+        3,
+        4,
+        6,
+        3,
+        2,
+        1
+      ],
+      "text_highest300to599_wrong_vs_actual900to1199": true
+    },
+    "137": {
+      "all7_values_and_total": [
+        134000,
+        172000,
+        38000,
+        102000,
+        96000,
+        35700,
+        22500,
+        600200
+      ],
+      "independent_total": 600200
+    },
+    "138": {
+      "original_categoryvalues": [
+        306000,
+        236000,
+        58200
+      ],
+      "original_displayed_weights": [
+        0.51,
+        0.39,
+        0.1
+      ],
+      "independent_exact_weights": [
+        0.509830056647784,
+        0.39320226591136287,
+        0.09696767744085305
+      ],
+      "target_weights": [
+        0.4,
+        0.5,
+        0.1
+      ],
+      "exact_target_values": [
+        240080.0,
+        300100.0,
+        60020.0
+      ],
+      "sellstock_to_target": 65920.0,
+      "buybond_to_target": 64100.0,
+      "cash_add": 1820.0,
+      "fraction_of_currentstocktosell": 0.21542483660130718,
+      "if_sell10pct_stock_newweights": [
+        0.45884705098300566,
+        0.4441852715761413,
+        0.09696767744085305
+      ]
+    },
+    "139": {
+      "all5_original_return_probability_pairs_pct": [
+        [
+          12,
+          15
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          -5,
+          14
+        ],
+        [
+          -10,
+          11
+        ]
+      ],
+      "probability_sum": 1.0,
+      "expected_return": 0.022499999999999992,
+      "sample_era_and_actualUAL_historicalvalidation_notprovided": true
+    },
+    "1310": {
+      "original_categoryvalues": [
+        306000,
+        236000,
+        58200
+      ],
+      "original_displayed_weights": [
+        0.51,
+        0.39,
+        0.1
+      ],
+      "original_historical_return_pct": [
+        13,
+        4,
+        2.5
+      ],
+      "original_expectedreturn_pct": 8.44,
+      "using_roundedweights": 0.0844,
+      "using_exactweights": 0.08443018993668776,
+      "allocationweights_not_eventprobabilities": true
+    },
+    "1311": {
+      "original_all3_age_usercount_proportion_rows": [
+        [
+          "13–25",
+          65082280,
+          45
+        ],
+        [
+          "26–44",
+          53300200,
+          36
+        ],
+        [
+          "45–64",
+          27885100,
+          19
+        ]
+      ],
+      "independent_countsum": 146267580,
+      "exact_percent": [
+        44.49535570356739,
+        36.44020089756049,
+        19.064443398872122
+      ],
+      "population_has_onlythese_agebins_notallages": true
+    },
+    "1312": {
+      "original_years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "original_all10_CPI": [
+        226.65,
+        230.28,
+        233.91,
+        233.7,
+        236.91,
+        242.84,
+        247.87,
+        251.71,
+        257.97,
+        261.58
+      ],
+      "label_annual_but_2016to2021_near_January_monthly_BLS": true,
+      "primary_January_2016to2021": [
+        236.916,
+        242.839,
+        247.867,
+        251.712,
+        257.971,
+        261.582
+      ],
+      "original_truncate_vsround_2016_236_91_not236_92": true,
+      "not_silentlyreplace_series": true
+    },
+    "1313": {
+      "all13_original_date_SP_Nike_rows": [
+        [
+          "4/1/2020",
+          2912.43,
+          87.18
+        ],
+        [
+          "5/1/2020",
+          3044.31,
+          98.58
+        ],
+        [
+          "6/1/2020",
+          3100.29,
+          98.05
+        ],
+        [
+          "7/1/2020",
+          3271.12,
+          97.61
+        ],
+        [
+          "8/1/2020",
+          3500.31,
+          111.89
+        ],
+        [
+          "9/1/2020",
+          3363.0,
+          125.54
+        ],
+        [
+          "10/1/2020",
+          3269.96,
+          120.08
+        ],
+        [
+          "11/1/2020",
+          3621.63,
+          134.7
+        ],
+        [
+          "12/1/2020",
+          3756.07,
+          141.47
+        ],
+        [
+          "1/1/2021",
+          3714.24,
+          133.59
+        ],
+        [
+          "2/1/2021",
+          3811.15,
+          134.78
+        ],
+        [
+          "3/1/2021",
+          3943.34,
+          140.45
+        ],
+        [
+          "3/12/2021",
+          3943.34,
+          140.45
+        ]
+      ],
+      "lastrow_duplicates_pair_and_not12monthlyrows": true,
+      "exact_quotes_and_end_of_month_timing_not_externalverified": true,
+      "independent_levelcorrelation13": 0.928086877639941,
+      "independent_levelcorrelation_first12": 0.9226455071998384,
+      "not_beta_or_futureprediction_from_pricelevelcorr": true
+    },
+    "1314": {
+      "all3_date_price_shares_rows": [
+        [
+          "Jan17",
+          78,
+          200
+        ],
+        [
+          "Feb10",
+          122,
+          300
+        ],
+        [
+          "Mar23",
+          131,
+          500
+        ]
+      ],
+      "original_totalshares": 1000,
+      "Rweightedmean117_7_read": true
+    },
+    "1315": {
+      "all15_original_command_names": [
+        "mean",
+        "median",
+        "min",
+        "max",
+        "weighted.mean",
+        "sum",
+        "summary",
+        "sd",
+        "var",
+        "IQR",
+        "barplot",
+        "boxplot",
+        "hist",
+        "plot",
+        "freq"
+      ],
+      "freq_package_unspecified_inchapter_notassume_base_function": true,
+      "official_base_table_alternative_separatelynoted": true,
+      "actual_R_execution": false
+    },
+    "1316": {
+      "all5rows_pct": [
+        [
+          12,
+          15
+        ],
+        [
+          5,
+          35
+        ],
+        [
+          2,
+          25
+        ],
+        [
+          -5,
+          14
+        ],
+        [
+          -10,
+          11
+        ]
+      ],
+      "expectedreturn_independent": 0.022499999999999992
+    }
+  },
+  "all10figures": {
+    "131": "cover",
+    "132": {
+      "Excelage10mean46sd6_50_formulaimage_seen": true
+    },
+    "133": {
+      "normal_symmetricmean_modelgraphic": "X~N(mu,sigma) author notation",
+      "noempiricalfit_test": true
+    },
+    "134": {
+      "normalmean_and_minusplus3sigma_labelread": true
+    },
+    "135": {
+      "bargraph3agebins45_36_19_read": true
+    },
+    "136": {
+      "all100original_histogramvalues": [
+        60.0,
+        60.5,
+        61.0,
+        61.0,
+        61.5,
+        63.5,
+        63.5,
+        63.5,
+        64.0,
+        64.0,
+        64.0,
+        64.0,
+        64.0,
+        64.0,
+        64.0,
+        64.5,
+        64.5,
+        64.5,
+        64.5,
+        64.5,
+        64.5,
+        64.5,
+        64.5,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.0,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        66.5,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.0,
+        67.5,
+        67.5,
+        67.5,
+        67.5,
+        67.5,
+        67.5,
+        67.5,
+        68.0,
+        68.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.0,
+        69.5,
+        69.5,
+        69.5,
+        69.5,
+        69.5,
+        70.0,
+        70.0,
+        70.0,
+        70.0,
+        70.0,
+        70.0,
+        70.5,
+        70.5,
+        70.5,
+        71.0,
+        71.0,
+        71.0,
+        72.0,
+        72.0,
+        72.0,
+        72.5,
+        72.5,
+        73.0,
+        73.5,
+        74.0
+      ],
+      "original8relative": [
+        0.05,
+        0.03,
+        0.15,
+        0.4,
+        0.17,
+        0.12,
+        0.07,
+        0.01
+      ],
+      "independent8counts": [
+        5,
+        3,
+        15,
+        40,
+        17,
+        12,
+        7,
+        1
+      ],
+      "boundary59_95_to75_95_by2": [
+        59.95,
+        61.95,
+        63.95,
+        65.95,
+        67.95,
+        69.95,
+        71.95,
+        73.95,
+        75.95
+      ],
+      "all100valuesvisuallymatched": true,
+      "independent_count": 100
+    },
+    "137": {
+      "all10original_CPI_points_graphread": true,
+      "annual_label_conflicts_January_data": true
+    },
+    "138": {
+      "original_NikevsSPscatter_read": true,
+      "duplicated_pair_overplots_one_point": true,
+      "no_pricelevel_relation_causality_inferred": true
+    },
+    "139": {
+      "Excelinsert_scattericon_visuallyread": true,
+      "actualExcel_execution": false
+    },
+    "1310": {
+      "Rscatter_same_pairs_visuallyread": true,
+      "actualRexecution": false
+    }
+  },
+  "examples": {
+    "village50_salary_mean": 129400.0,
+    "village_salary_median": 30000,
+    "mode_prices20": {
+      "alloriginalvalues": [
+        50,
+        53,
+        59,
+        59,
+        63,
+        63,
+        72,
+        72,
+        72,
+        72,
+        72,
+        76,
+        78,
+        81,
+        83,
+        84,
+        84,
+        84,
+        90,
+        93
+      ],
+      "72count": 5
+    },
+    "CD5_return_pct": [
+      3.21,
+      2.79,
+      1.88,
+      1.42,
+      1.17
+    ],
+    "CD_equivalent_geometric_return": 0.02090983425332893,
+    "stockA_samplevar_sd": [
+      2.5,
+      1.5811388300841898
+    ],
+    "stockB_samplevar_sd": [
+      83.3,
+      9.126883367283709
+    ],
+    "variance_ifSD12_5": 156.25,
+    "SDifvar31_36": 5.6,
+    "mutualz": 2.0000000000000004,
+    "mutual11quartiles_excludingmedian": [
+      6.3,
+      7.2,
+      7.9
+    ],
+    "mutual11_Rtype7_quartiles": [
+      6.55,
+      7.7
+    ],
+    "portfolio13_excludingmedian_quartiles": [
+      308750.0,
+      488800,
+      649000.0
+    ],
+    "portfolio13_IQR": 340250.0,
+    "portfolio13_outlier_bounds": [
+      -201625.0,
+      1159375.0
+    ],
+    "portfolio13_type7_quartiles": [
+      387000.0,
+      639000.0
+    ],
+    "normal_salary_lt55000_mu60000_sd7500": 0.25249253754692297,
+    "normal_salary_gt75000": 0.02275013194817921,
+    "exponential_phone_mu0_75_original_solution_for1minute": 0.7364028618842733,
+    "exponential_phone_question2minute_correct": 0.9305165487771985,
+    "normal_1_2_3_sigma_areas": [
+      0.6826894921370859,
+      0.9544997361036416,
+      0.9973002039367398
+    ],
+    "midcap_1sigma_bounds": [
+      5.2,
+      12.600000000000001
+    ],
+    "midcap_2sigma_bounds": [
+      1.5,
+      16.3
+    ],
+    "Rsalary_original_values": [
+      40000,
+      50000,
+      75000,
+      92000
+    ],
+    "Rsalary_mean_median": [
+      64250,
+      62500.0
+    ],
+    "Rsalary_quant7_Q1Q3": [
+      47500.0,
+      79250.0
+    ],
+    "Rsalary_sdvar": [
+      23641.418457162563,
+      558916666.6666666
+    ],
+    "Rsequence_1to5_by0_5": [
+      1.0,
+      1.5,
+      2.0,
+      2.5,
+      3.0,
+      3.5,
+      4.0,
+      4.5,
+      5.0
+    ]
+  },
+  "all7problems": {
+    "1_weightedmean": 11.0,
+    "2_z": -2.0,
+    "3_percentile_not_identified_meanSDonly": "requires empiricalCDF orspecifieddistribution;normal notgiven inproblem3",
+    "3_if_additional_normalassumption_only": 0.02275013194817921,
+    "4_exponential_freewaitmorethan5_mu1_9": 0.07196474394172296,
+    "5_portfolio_mean": 0.08825,
+    "6_normal_given_bounds_minus3_8_plus24_8": 0.6826894921370859,
+    "7_R_program_expected_result": 0.022499999999999992,
+    "7_manual_R_program": "returns <- c(0.12,0.05,0.02,-0.05,-0.10)\nprob <- c(0.15,0.35,0.25,0.14,0.11)\nstopifnot(abs(sum(prob)-1)<1e-10)\nsum(returns*prob)",
+    "7_actualRexecution": false
+  },
+  "all13MC_5review_4videoquestiontexts_read": true,
+  "all2numberednotes_read": true,
+  "native_formula_symbols_omitted_but_PDFformulas_visuallyread": true
+}

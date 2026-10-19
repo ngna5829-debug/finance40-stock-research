@@ -1,0 +1,128 @@
+{
+  "book_id": "P09",
+  "chapter": 1,
+  "scope": "独立公式复算原作者假设算例，非历史实测或金融实验；尚无原图，不断定印刷/转录来源",
+  "annual_annuity_formula": "P*r/(1-(1+r)^(-n))",
+  "recomputed_rows": [
+    {
+      "principal": 20000,
+      "years": 100,
+      "annual_rate": 0.1,
+      "recomputed_annuity": 2000.1451419641337
+    },
+    {
+      "principal": 20000,
+      "years": 100,
+      "annual_rate": 0.05,
+      "recomputed_annuity": 1007.6627613902215
+    },
+    {
+      "principal": 20000,
+      "years": 100,
+      "annual_rate": 0.04,
+      "recomputed_annuity": 816.1600007543126
+    },
+    {
+      "principal": 20000,
+      "years": 100,
+      "annual_rate": 0.03,
+      "recomputed_annuity": 632.9333179697832
+    },
+    {
+      "principal": 20000,
+      "years": 10,
+      "annual_rate": 0.1,
+      "recomputed_annuity": 3254.9078976502306
+    },
+    {
+      "principal": 20000,
+      "years": 10,
+      "annual_rate": 0.05,
+      "recomputed_annuity": 2590.091499309132
+    },
+    {
+      "principal": 20000,
+      "years": 10,
+      "annual_rate": 0.04,
+      "recomputed_annuity": 2465.8188866027285
+    },
+    {
+      "principal": 20000,
+      "years": 10,
+      "annual_rate": 0.03,
+      "recomputed_annuity": 2344.61013210319
+    },
+    {
+      "principal": 20000,
+      "years": 3,
+      "annual_rate": 0.1,
+      "recomputed_annuity": 8042.296072507545
+    },
+    {
+      "principal": 20000,
+      "years": 3,
+      "annual_rate": 0.05,
+      "recomputed_annuity": 7344.171292624897
+    },
+    {
+      "principal": 20000,
+      "years": 3,
+      "annual_rate": 0.04,
+      "recomputed_annuity": 7206.970784213216
+    },
+    {
+      "principal": 20000,
+      "years": 3,
+      "annual_rate": 0.03,
+      "recomputed_annuity": 7070.607266491954
+    },
+    {
+      "principal": 20000,
+      "years": 1,
+      "annual_rate": 0.1,
+      "recomputed_annuity": 21999.999999999993
+    },
+    {
+      "principal": 20000,
+      "years": 1,
+      "annual_rate": 0.05,
+      "recomputed_annuity": 20999.999999999978
+    },
+    {
+      "principal": 20000,
+      "years": 1,
+      "annual_rate": 0.04,
+      "recomputed_annuity": 20799.999999999953
+    },
+    {
+      "principal": 20000,
+      "years": 1,
+      "annual_rate": 0.03,
+      "recomputed_annuity": 20600.00000000001
+    }
+  ],
+  "unresolved": [
+    {
+      "source_lines_inclusive": [
+        814,
+        826
+      ],
+      "source_lsd": "171 pounds 11 shillings 5 pence",
+      "source_decimal": "171.523",
+      "source_lsd_in_decimal": 171.57083333333335,
+      "difference_lsd_minus_source_decimal": 0.04783333333335804,
+      "action": "原两个数均保留，币制换算不一致；未有原图，不判断哪方来源错"
+    },
+    {
+      "source_lines_inclusive": [
+        918,
+        936
+      ],
+      "source_reduction_percent_for_three_years": 13,
+      "recomputed_from_source_8042_and_7070": 12.086545635414076,
+      "action": "原称13%与表中约12.09%不同；保留近似/算术缺口不擅改"
+    }
+  ],
+  "all_table_numbers_independently_verified": false,
+  "experiments_run": false
+}

@@ -1,0 +1,61 @@
+{
+  "book_id": "P25",
+  "primary": "source/full-source.txt",
+  "primary_SHA256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+  "status": "all_primary_published_text_and_PG_license_read_with_disclosed_digital_defect",
+  "continuous_reading_ledger": [
+    {
+      "range": [
+        1,
+        378
+      ],
+      "role": "PG标题题名、前言、目录及引文"
+    },
+    {
+      "range": [
+        379,
+        12088
+      ],
+      "role": "16原章全部正文与嵌入脚注，逐章已另存原文与稿"
+    },
+    {
+      "range": [
+        12089,
+        12590
+      ],
+      "role": "完整索引（前段无页码，后段部分保留页码，不补造）"
+    },
+    {
+      "range": [
+        12591,
+        12941
+      ],
+      "role": "结束标记、完整PG许可和机构说明"
+    }
+  ],
+  "all_primary_lines_semantically_read": true,
+  "selected_companion_text_PDF_pages": [
+    9,
+    37,
+    38,
+    39,
+    131,
+    298,
+    335
+  ],
+  "selected_companion_images_actually_viewed": [
+    9,
+    38,
+    39,
+    131,
+    335
+  ],
+  "whole_companion1875_scan_separately_read": false,
+  "same1892_scan_obtained": false,
+  "source_defect_and_recovery": "source-review/ch02-recovery-manifest.json",
+  "all_scan_glyphs_individually_verified": false,
+  "no_blank_or_image_page_classification_for_unread1875": true,
+  "method": "每次分段连续读取可提取主文字，章稿在全章读完后保存。最终规则另选择完整原段上下文，不用字数代替阅读；有一回证据预览输出截断的五处段已再次完整读取。",
+  "cross_edition_comparison_not_proof_of1892_original_words": true,
+  "completed_utc": "2026-10-13T02:03:19.508673+00:00"
+}

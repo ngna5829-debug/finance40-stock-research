@@ -1,0 +1,57 @@
+{
+  "book_id": "P38",
+  "chapter": 2,
+  "title": "Corporate Structure and Governance",
+  "pdf_pages_one_based": [
+    54,
+    81
+  ],
+  "printed_pages": [
+    39,
+    66
+  ],
+  "native_source_chars": 86869,
+  "source_sha256": "23e82bf6f59ac11afc89bf66d9d7438c8280debe99772deb54f714c359afabe5",
+  "actual_text_read_ranges_chars": [
+    [
+      0,
+      32000
+    ],
+    [
+      31800,
+      63800
+    ],
+    [
+      63600,
+      86869
+    ]
+  ],
+  "all6_sections_read": true,
+  "all6_footnotes_and_case_sources_read": true,
+  "summary_keyterms_CFA_note_20MC_12review_4video_questions_read": true,
+  "external_linked_sources_full_read": false,
+  "figures_all4_visually_read": true,
+  "figure_pdf_pages": [
+    54,
+    61,
+    68,
+    70
+  ],
+  "table21_all_cells_and_blanks_visually_read": true,
+  "table21_pdf_page": 58,
+  "visual_files": [
+    "ch02-figures-1.jpg",
+    "ch02-figures-2.jpg"
+  ],
+  "summary_body_han": 3277,
+  "summary_sha256": "30faeef3c1ffeb5d69c1930c3e17b4f2ac5a64985a189b07c4e0433a4ff52c88",
+  "semantic_full_chapter_reading_complete": true,
+  "literal_every_pdf_glyph_proofread": false,
+  "entire20chapter_book_complete": false,
+  "source_issues": "ch02-source-issues.json",
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "30faeef3c1ffeb5d69c1930c3e17b4f2ac5a64985a189b07c4e0433a4ff52c88",
+  "body_han": 3277,
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

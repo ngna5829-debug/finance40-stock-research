@@ -1,0 +1,104 @@
+[
+  {
+    "issue": "Beta nottotalvolatility",
+    "pages": [
+      432,
+      433,
+      434
+    ],
+    "original": "morevolatilemeansbeta>1,betabelow1implieslowertotalvolatility",
+    "independent": "beta=cov(stock,market)/varmarket=correlation*SD_ratio;totalvolatilitycanhigherwithbetabelow1;sourcefitvarianceandcorrelationstored"
+  },
+  {
+    "issue": "NikeextraMarchzero/decimalpercent",
+    "pages": [
+      418,
+      419,
+      433,
+      434
+    ],
+    "original": "13pricerowslastduplicate,12returnsincl0 extraMarch12;returnslabelpctbut.05isdecimal5pct",
+    "independent": "original12beta.830681658 vs11monthlyversioncalculated separately;datedaily/monthlyandadjustmentunverified;no currentbeta"
+  },
+  {
+    "issue": "Significance2sqrtn onlyapprox",
+    "page": 423,
+    "original": "2/sqrt(n)cutoff approx5pct,significantallowsmeaningfulprediction",
+    "independent": "Studentdfn−2 classicalconditions,thresholdsrecomputed;sampletesting doesnotproveforecastskill/causation"
+  },
+  {
+    "issue": "Adintercept9367vs9376typo/units",
+    "pages": [
+      430,
+      431,
+      435,
+      437
+    ],
+    "original": "calculator9376.7 followingprose9367.7;range49to153dollars vs000;PI13270.95dollars",
+    "independent": "actualfit9376.698881;49to153thousand;PIin000→about13.27to15.37million"
+  },
+  {
+    "issue": "RoundedDJ slope huge pointchange",
+    "page": 432,
+    "original": ".113output but.11equation gives2023.66",
+    "independent": "actualslope/intercept and32000predictionstored;rounding.003times32000material;notmodeluncertaintyband"
+  },
+  {
+    "issue": "Predictionequation missingcenter/Sxx",
+    "page": 436,
+    "original": "yhat = ± t se sqrt(1+1/n+(xp-xbar)^2/sx),sxdefinedstandarddeviation",
+    "independent": "correctlimits yhat±margin and denominatorSxx=sumdeviationssquared;ExcelDEVSQcorrect;unitsdimension wrong ifstandarddeviation"
+  },
+  {
+    "issue": "IndividualPI vsmeanCI parameter variance misdescription",
+    "pages": [
+      436,
+      437,
+      438
+    ],
+    "original": "singleexperimenthaslargerparameterestimatevariance;allregressionsthroughmeans",
+    "independent": "singlefutureobservation addsresidualvariation,parameteruncertaintysame;throughmeansforOLSwithintercept notallregressions;coverageassumptionsnotguarantee"
+  },
+  {
+    "issue": "Correlationdoesnotexclude nonlinearrelation/cause",
+    "pages": [
+      418,
+      420,
+      422,
+      423,
+      430
+    ],
+    "original": "noassociationwhenr0;advertisingslopeadditionalspendresultsrevenue",
+    "independent": "zeroPearsonneednotindependence/causality;holdingotherdrivers/designunknown cannotinterventioneffect"
+  },
+  {
+    "issue": "Regressionclassicalassumptions andmarketdata",
+    "pages": [
+      426,
+      427,
+      431,
+      432,
+      438
+    ],
+    "independent": "randomdesign/exogeneity,independenterror,homoscedasticconditionalnormalnotverifiedonserialpricelevels;significantfitcannotautobuy"
+  },
+  {
+    "issue": "Modelrange/extrapolationproblem6",
+    "pages": [
+      431,
+      435,
+      438,
+      446
+    ],
+    "original": "allowgivenrevenues750withsample229to307",
+    "independent": "formalalgebraonly,refusevalidatedforecastoutsideobservedrange;withinrangealsoneedsmodelstability"
+  },
+  {
+    "issue": "Videoexternalnotread/source1pageblankclassification",
+    "pages": [
+      447,
+      448
+    ],
+    "independent": "all4printedvideoquestionsread,notwatchedfullfilms;page448onlyrunningheader/footer noauthorbody skipped"
+  }
+]

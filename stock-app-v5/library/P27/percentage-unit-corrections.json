@@ -1,0 +1,59 @@
+{
+  "book_id": "P27",
+  "reason": "Peer whole-source review identified five percentage-level phrases incorrectly using percentage-point units; root reread exact original numerical passages and accepted level-percent corrections. Existing differential0.25pp/2pp unaffected.",
+  "changes": {
+    "资本收益五成与五个百分点": "资本收益五成与百分之五",
+    "八个百分点借款条件": "年利率百分之八的借款条件",
+    "人口九十七个百分点": "人口百分之九十七",
+    "资本五个百分点": "资本的百分之五",
+    "里程五个百分点": "里程的百分之五"
+  },
+  "files": [
+    {
+      "file": "ch16.md",
+      "old_sha256": "d9ab1517343d7b74afd158256d02e912bcc9463c82e39b21d69afbc2aeded8b6",
+      "new_sha256": "e3a4365d147b02ab93d2ae292b05fcd0eb1af9a1e580eab64a2164d08c5f804e",
+      "applied": [
+        "资本收益五成与五个百分点",
+        "八个百分点借款条件",
+        "人口九十七个百分点"
+      ]
+    },
+    {
+      "file": "全书逐章深读.md",
+      "old_sha256": "2002d21505a7fcc7ae51c12d3d4f31905f7763fcd813ceb539f8e40a97e613a5",
+      "new_sha256": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86",
+      "applied": [
+        "资本收益五成与五个百分点",
+        "八个百分点借款条件",
+        "人口九十七个百分点"
+      ]
+    },
+    {
+      "file": "全书综合与附录.md",
+      "old_sha256": "0f9cd8abcfe7fa630973166be7be603a88e7f3217fd954b70c9a6513b55d893e",
+      "new_sha256": "690f7955bdd7be5855efc43261ea5de352df446d9f3c2d6bd3b7d660ab79653f",
+      "applied": [
+        "资本五个百分点",
+        "里程五个百分点"
+      ]
+    }
+  ],
+  "chapter16_body_han": 3502,
+  "book_body_han_total": 43017,
+  "current_prediction_enabled": false,
+  "count_metadata_followup": [
+    {
+      "file": "全书综合与附录.md",
+      "before_sha256": "690f7955bdd7be5855efc43261ea5de352df446d9f3c2d6bd3b7d660ab79653f",
+      "after_sha256": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1",
+      "change": "BookHan43016→43017 and min/max2331—3501→2331—3502 only in generated summary statistics; original source unchanged"
+    },
+    {
+      "file": "专家说明.md",
+      "before_sha256": "3e66047f1e0252d181078afb57c37cade134ff70fc7a73aa0d0275f233f723e8",
+      "after_sha256": "e51396518dd4505a35acbe9217c011e1975f8d3fbb840abad3d23c1b23352b2c",
+      "change": "BookHan43016→43017 and min/max2331—3501→2331—3502 only in generated summary statistics; original source unchanged"
+    }
+  ]
+}

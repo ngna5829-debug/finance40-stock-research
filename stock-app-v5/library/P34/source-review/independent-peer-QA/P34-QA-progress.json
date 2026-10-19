@@ -1,0 +1,2397 @@
+{
+  "book_id": "P34",
+  "reviewer": "value_books independent peer",
+  "status": "full_independent_semantic_review_required_corrections_pending_not_accepted",
+  "whole_book_semantic_review_complete": true,
+  "canonical_modified": false,
+  "original_all_glyphs_visually_collated": false,
+  "current_market_model_calls": 0,
+  "review_time_expert_sha256": "254143a76d8863810a088bbbc5875f21562101f9fc0fa8f949660c33b27c4519",
+  "review_time_audit_sha256": "a5a916e801f8ba461164d98cb4b17691f0fe2e8f0b60a4e3312bbf66686d0ea4",
+  "source_snapshot": {
+    "source/original.txt": "9b783fb26167bc9875b79a264d0d21f4cebb0bd14353bec48c38d6fc3455dfe5",
+    "source/full-PG-license.txt": "218bf98e7e486531f1bb3d69beb4e28d28a7b248fcd224090c122bd590d2c5ca",
+    "source/IA-metadata.json": "125ff99698894dd3c219e1efef4288b446aebec58bbd15d97f58bbea2d8aaba3",
+    "source/frontmatter.txt": "6b26f55f4ef4b41e8cf053d7d97db66465b906955c20c0faa728db539b0bb88b",
+    "source/original-1922.pdf": "bebe64b52fa8e4f8b732438b34f9d9fcdd63b0d9599643c3408d0169afd62db5",
+    "source/IA-search.json": "2efee4c64b52c325b7975c817b7844b2c13ed3fe771fb376623f54f3a85841d6",
+    "source/scan-pages.json": "26523797f78c3b5f540c74aad1502eb95e13a9161d3d1c32807b77ec9404db6e",
+    "source/original.html": "4da16fc71d394b2231a47ec9d03e337075d56c08dd363ca29c495f5fd585d5c4",
+    "source/chapters/ch23.txt": "cc425dddb574177c4103789428424fad28cf94f8d576e176b7618de373f7a22b",
+    "source/chapters/ch22.txt": "dd20c4d816beff03f32919aadd783e40801e56452090d957c8eda3114aa4b636",
+    "source/chapters/ch20.txt": "dd89b3300e6943cd711c4688f55466aac2cc0de93627c045462423c0f41fc896",
+    "source/chapters/ch08.txt": "8df9115785bd09608aa1c918e5552bfb86a9d3226c0e46cc7458b263c81b4484",
+    "source/chapters/ch09.txt": "9df865e312216cc54e0cef33af02e4759cdcfc2e838da33271d3dea484f31c0a",
+    "source/chapters/ch21.txt": "64776f8de2ee252c608347b40759d4c23ed575226439eea5176077998f90caab",
+    "source/chapters/ch19.txt": "aaafe307ff69a2a8a80d0f787825da532e08040bec46735d401d54e609d2339b",
+    "source/chapters/ch25.txt": "5488f4cebd514eb81d5f50952a7d64a80587930dace5ed951c3cfccdbd953e1b",
+    "source/chapters/ch24.txt": "f4499dd2627ead8b056bb9eff67f1027e30ec79bb4a089e64135fab2fd1bcea7",
+    "source/chapters/ch18.txt": "a0fa9bf2d4f3adca70a084dbdf262b973fca77dc2cd70006dfcf97e1e5d8c1a6",
+    "source/chapters/ch26.txt": "d2ed6c404448df93a0c05bed58082a20e6e4492bdc210fe57825155a7590db5c",
+    "source/chapters/ch16.txt": "172ee351a920bf8d84128515402ef26c9fbb239935defd31ec00cc275dc759da",
+    "source/chapters/ch02.txt": "13e44305c14086e1fa21e16737d2f293d2c9b658165d2b1f7597599952a11a94",
+    "source/chapters/ch03.txt": "60b5a373f165059776f3d7957daa96718c1b788270c81233558cdb27cabd0969",
+    "source/chapters/ch17.txt": "e1b89667ac0036b9ccc0667839b0f652b78baa8306d9e9f9d23a4bb829f4a08e",
+    "source/chapters/ch01.txt": "c4ea1f4a18a1b5b32e1fa3049e0ff3e728000693f2c2089bcfaade829e5b9027",
+    "source/chapters/ch15.txt": "22049579e1ce530757763fa5ca256c2201647758dbea7a0ef970af5e5f814d5e",
+    "source/chapters/ch14.txt": "6d40b614bcd9f035ebb336cd48e4bcf15551bd5cee279e70a8fdb8b26c5c4db7",
+    "source/chapters/ch04.txt": "e583aa6f64706fcc18f4841444d7afb09d5dba0f638657a6f3668d4fcbb822df",
+    "source/chapters/ch10.txt": "e8f0d71417aedb191f5e5ea035362fcba0d5f124bbec6f9cb528d229c02f0e7b",
+    "source/chapters/ch11.txt": "6642d517d11bad48b347c1d26aaebbeb3710ca92219e98e6b13216cfc393eca0",
+    "source/chapters/ch05.txt": "8a503ea10090648211d892069d0000ddb63b30d911448d58ba0ad37d2a619d05",
+    "source/chapters/ch13.txt": "9e1ad0dc1ef6ad08b999582de8c1a2979fc76e39ea280d771092717d76b656cc",
+    "source/chapters/ch07.txt": "3ab8ae5cc109363ce038b952344b6be622a7c5172675c0b184e74b32249e90c0",
+    "source/chapters/ch06.txt": "b4712256349b8be067c24a0f2107d482932c9a5bc5546f7ef51c4894c16c091c",
+    "source/chapters/ch12.txt": "b353f08669a00ac1f0c95cb665a51351efce9f53662628a4d4daf93186d7a9ea"
+  },
+  "reviewed_front_back": [
+    {
+      "file": "source/frontmatter.txt",
+      "character_range": [
+        0,
+        3852
+      ],
+      "actual_read_complete": true,
+      "sha256": "6b26f55f4ef4b41e8cf053d7d97db66465b906955c20c0faa728db539b0bb88b",
+      "notes": [
+        "WrittenApril1922/publishedDecember1922;publisherexplicit notcopyrighted waiver separatePGfulllicense notyetread.",
+        "Allfiveparts/26originalchaptercontents/fronttranscriber says minor typos correctedwithoutnote, originalmirrordifferentcurrentIAbytes preserved notidentityclaim."
+      ],
+      "original_full_images_actually_viewed": [
+        5,
+        6
+      ]
+    },
+    {
+      "file": "source/full-PG-license.txt",
+      "character_range": [
+        0,
+        18460
+      ],
+      "actual_read_complete": true,
+      "sha256": "218bf98e7e486531f1bb3d69beb4e28d28a7b248fcd224090c122bd590d2c5ca",
+      "notes": [
+        "Entirelicense/internationalcopyrightscope/trademark/redistribution/defects/refund/warranty/mission/foundation/donation/generateddifferenteditionsparagraphactuallyread; notButleroriginaltheory."
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_file": "source/chapters/ch01.txt",
+      "source_characters": 1664,
+      "source_read_ranges": [
+        [
+          0,
+          1664
+        ]
+      ],
+      "source_sha256": "c4ea1f4a18a1b5b32e1fa3049e0ff3e728000693f2c2089bcfaade829e5b9027",
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "2784898581d7b9c1650266189222f6424a09a36111e7a9e45736e43eef4938bf",
+      "rule_ids_actually_read": [
+        "P34-R01"
+      ],
+      "semantic_findings": [
+        "No mandatory meaning change found.",
+        "Bookpurposeaddressedclients/highclaimalmostalllossavoidable andmarketinformation causesloss retainedasauthoropinion noindependentoutcomes; currentonebookperspective notmodelcalls/probability.",
+        "Firstchapter genuinelynoactualstockselectionexample/estimationequation; allChinese derivedtestquestions explicitlymodernindependent, no laterchaptersclaimedread now."
+      ]
+    },
+    {
+      "chapter": 2,
+      "source_file": "source/chapters/ch02.txt",
+      "source_characters": 3170,
+      "source_read_ranges": [
+        [
+          0,
+          3170
+        ]
+      ],
+      "source_sha256": "13e44305c14086e1fa21e16737d2f293d2c9b658165d2b1f7597599952a11a94",
+      "original_TXT_lines": [
+        193,
+        251
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ef83559120c7b6706bbf55b2d6daef8ef15f0a83b5c6f837e62738dce95f7272",
+      "rule_ids_actually_read": [
+        "P34-R02",
+        "P34-R03"
+      ],
+      "semantic_findings": [
+        "Entire source3170chars/draft/R02–03 read; no required semanticcorrection found.",
+        "Purpose-based fixedincomeinvestment/quickprofit speculation vsmarketprice uncertainty differentiated; incomefixed notpriceunchanging.",
+        "Safety trafficrelative-language evidence versusLibertyBonds80s absolutepriceincrease/neverfailratelaw andhold-capability removesloss strongauthorclaims faithfully retained; not softenedtoalready-proven modernsafeprofit.",
+        "Independent hypotheticalperpetual4payment/.08=50,.04=100 explicitly notauthor example/no sourcefuture interestpath guarantee or empiricaltradingcalibration.",
+        "Holdingability/cashflow/credit/currentcontract missing modern boundaries accurate; ratesareonepricecondition vsfuturepathpredict separate."
+      ]
+    },
+    {
+      "chapter": 3,
+      "source_file": "source/chapters/ch03.txt",
+      "source_characters": 4242,
+      "source_read_ranges": [
+        [
+          0,
+          4242
+        ]
+      ],
+      "source_sha256": "60b5a373f165059776f3d7957daa96718c1b788270c81233558cdb27cabd0969",
+      "original_TXT_lines": [
+        252,
+        342
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "99ab0401271e2942c70a5649b80b479d51b0e6b9ea59b24c94ffbe55ee629065",
+      "rule_ids_actually_read": [
+        "P34-R04",
+        "P34-R05",
+        "P34-R06"
+      ],
+      "semantic_findings": [
+        "All13 termgroups source4242chars/Chinese/R04–06 fullread; no substantive theory misreading found.",
+        "Bull/bear opinions vsactualown/owe longshort andmarketmovement independent dimensions; convenienceTrader broad notdaytraderprofession; speculatorwithoutreferenceearnings notlatermethodlogicalguarantee.",
+        "Investoradditionalprofitwithoutincreasedrisk/lambpublicloseall authorstrongclaims uncalibrated nofalseclientclassification.",
+        "NYSE100share vsConsolidated10share andoddlot±1/8USDpershare kept historical/usually; independent10share$.125=$1.25 singleleg scenario notfact/currentfee.",
+        "Pointdollarstock1USD vscentstock1cent vs cotton.01cent/lb;18.12+30*.01=18.42 not30%; reaction/rally notMAsignal. Floatinglikelysale behavior notregisteredfloat/OBVidentity.",
+        "Small word-clarification candidate: Chinese 被作者便宜地用于 should 为方便起见用于 for convenience, avoidcheapprice implication; originalterms unchanged."
+      ]
+    },
+    {
+      "chapter": 4,
+      "source_file": "source/chapters/ch04.txt",
+      "source_characters": 2787,
+      "source_read_ranges": [
+        [
+          0,
+          2787
+        ]
+      ],
+      "source_sha256": "e583aa6f64706fcc18f4841444d7afb09d5dba0f638657a6f3668d4fcbb822df",
+      "original_TXT_lines": [
+        343,
+        405
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "54c68c4b373c1f5743ff219ba4dd625e700d0a2c487f708ccfa47d19d0d88701",
+      "rule_ids_actually_read": [
+        "P34-R07",
+        "P34-R08"
+      ],
+      "semantic_findings": [
+        "Entireoriginal2787chars/Chinese/R07–08 actuallyread;includesPartTwo title afterauthorbody,notextraauthortheory.",
+        "Assetearningsfutureearnings pricecriterion andotherpriceforcessecondary notinventedweightedscore; certaineventualreversion conditionalfuturevaluenotfall hasnoarrivaldate; currentpotentialriskpremiumnotliteralformula.",
+        "Highaboveintrinsicrisk neverthelesssomebigprofitpossiblejustifiesrisk originalexplicitexception preserved; notdogmaticnogrowthrule.",
+        "AprilFoolPreferred/AmericanFireProtection story mayormaynottrue explicit, no fabricatedtrueDetroitexecution/law; professionalinformationbusiness exception accurately authorvoice vsindependent symmetric verification.",
+        "Header oldbodyendawaitingscan iswritingstage; actual currentplanbody17–19/PDF21–23, verifylastpageimage beforefinalnote correction ratherthanclaimallglyphs."
+      ],
+      "original_full_images_actually_viewed": [
+        23
+      ]
+    },
+    {
+      "chapter": 5,
+      "source_file": "source/chapters/ch05.txt",
+      "source_characters": 1689,
+      "source_read_ranges": [
+        [
+          0,
+          1689
+        ]
+      ],
+      "source_sha256": "8a503ea10090648211d892069d0000ddb63b30d911448d58ba0ad37d2a619d05",
+      "original_TXT_lines": [
+        406,
+        442
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ef0489e61b94c89d2f47125bcdc63f3234d423239a3deca2df0c738a6f8e9f94",
+      "rule_ids_actually_read": [
+        "P34-R09"
+      ],
+      "semantic_findings": [
+        "Entire source1689chars/draft/R09 fullread; no required semantic change.",
+        "NYSEusuallypreferred frequentexceptions notmodernpermanentwhite-list;sectorlistnotexhaustive; rail/utilities someNOTALL/manufacturingfew/otherselected respected.",
+        "1919utilities/gold unableincomeproportionalcostincrease followed1921conditionandpriceimprovement retainedseparate historicalclaims notverifiedmodernstockreturns ormechanicallylowmeanscheap.",
+        "EarlyApril1922recommendation vsDecemberpublication distinct; noactualcompanynames orrecords inventingportfolio;assetscurrentfutureearnings beforepriceforces accurate."
+      ]
+    },
+    {
+      "chapter": 6,
+      "source_file": "source/chapters/ch06.txt",
+      "source_characters": 3474,
+      "source_read_ranges": [
+        [
+          0,
+          3474
+        ]
+      ],
+      "source_sha256": "b4712256349b8be067c24a0f2107d482932c9a5bc5546f7ef51c4894c16c091c",
+      "original_TXT_lines": [
+        443,
+        510
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ad5cca58a426dc98eb28130b962338bda5aa06a1dd90f8b3f546fc948e20fb58",
+      "rule_ids_actually_read": [
+        "P34-R10",
+        "P34-R11"
+      ],
+      "semantic_findings": [
+        "Whole original3474chars/Chinese/R10–11 actualread; no required meaningcorrection found.",
+        "Promotionstocks originalnewcompanies nearlyallfail/extremelysmallsuccesses strongunprovedquantifier, honestfoundersvsfrauddistinguished; nameddefuncttwo-volumelist notavailable/nottwonewreadbooks.",
+        "Listedclassesalreadyoverpriced vsNYSElistedmanybad stocks+exceptions retained; mostpurchases notallsector, firstlistedusuallyhighestlaterdecline notuniversal activeadvertisingcontext.",
+        "Advertisingcanfailtomove orclientwaitstoolong,200–300%earlyprofit lateralmostsurelose strongclaims notfrequency; future repeatedwin/loseswords retainedopinions notnumbers.",
+        "R11 fulladvertisingparagraphs4andfailurefollowup includedoriginalsupportmeanscloseslate-newcases;fulltitle/batchnotcurrentrecommendation.",
+        "Conflictprofessionalinformationprovider exceptionch4 andbrokerhardsell cautionch6 preserved withsymmetricauthorserviceaudit, noactualconspiracydeducedfromprice."
+      ]
+    },
+    {
+      "chapter": 7,
+      "source_file": "source/chapters/ch07.txt",
+      "source_characters": 2571,
+      "source_read_ranges": [
+        [
+          0,
+          2571
+        ]
+      ],
+      "source_sha256": "3ab8ae5cc109363ce038b952344b6be622a7c5172675c0b184e74b32249e90c0",
+      "original_TXT_lines": [
+        511,
+        566
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "e34fe26661d30f0f771a1305888fff2c10860fe114c1ca99c893b71d65a04b79",
+      "rule_ids_actually_read": [
+        "P34-R12",
+        "P34-R13",
+        "P34-R14"
+      ],
+      "semantic_findings": [
+        "Entire source2571chars andChinese/R12–14 fullread; originalPDF34/p30 fullyseen confirmsmarginpausefootnoteandnoadditionalbuyadvice.",
+        "Cheap=pricebelowintrinsic notdrawdown/absolutecheap;1922NYSEgeneralbuywindowqualifiedselectivity andsomeperhapsnevervalue;weakbusiness/lowvolumeopportunities notproofrealaccumulation/identity.",
+        "April1922writtenopinion andApr25pausemarginbuying separated;footnote laterdecidedreaction notallcashclearout norlaternewbuyrecommendation.",
+        "RequiredR14correction:remove invented之后有回落又给买入时机;sourceonlyreportsreaction. R12restoreperhaps qualifier fornovalueforever bothauthor_meaning/counterexample. Chinesechapter alreadyaccuratelylimitsboth.",
+        "Authorlast6months1921 retrospectivegoodperiod notconfirmedcontemporaneoussignal/calibratedsuccess;macroconditionschange cannotrescuebadcompany;sourcechapterends31not32."
+      ],
+      "original_full_images_actually_viewed": [
+        34
+      ]
+    },
+    {
+      "chapter": 8,
+      "source_file": "source/chapters/ch08.txt",
+      "source_characters": 1112,
+      "source_read_ranges": [
+        [
+          0,
+          1112
+        ]
+      ],
+      "source_sha256": "8df9115785bd09608aa1c918e5552bfb86a9d3226c0e46cc7458b263c81b4484",
+      "original_TXT_lines": [
+        567,
+        594
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "c17be30f66750f44e473804ee3d330e944a2479f260305cfe4c8e9cd2659a384",
+      "rule_ids_actually_read": [
+        "P34-R15"
+      ],
+      "semantic_findings": [
+        "Entire1112charssource/Chinese/R15 supportsthreeparagraphs read. No mandatorycoretheorymisreading.",
+        "Marketmajorityovervalue notallpossiblyexists;likelydecline andsympatheticfairvaluedpricechange notcertaincrashorlossintrinsicvalue. Entirestopnewbuy sometimes notallpositionsell.",
+        "Seldomlongyearpause vsongoingopportunitysearch notforcecontinuouspositions/stopmaximumdeadline;technicalconditionexplicitcrossref14notmovingaverages/RSI.",
+        "Archiveobsoletechapterheaderrelated14尚须另读 aftercompletecrossread14; underlyingchapteronlynotdefinitiontrue. DifferenceApr25marginlimitedrestrictionvsallbuytemporarypause retained."
+      ]
+    },
+    {
+      "chapter": 9,
+      "source_file": "source/chapters/ch09.txt",
+      "source_characters": 2914,
+      "source_read_ranges": [
+        [
+          0,
+          2914
+        ]
+      ],
+      "source_sha256": "9df865e312216cc54e0cef33af02e4759cdcfc2e838da33271d3dea484f31c0a",
+      "original_TXT_lines": [
+        595,
+        658
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "718f9870d62dc33867514e2949cfacbc0175b8d425e3d413a5d0a0fc45b34ed4",
+      "rule_ids_actually_read": [
+        "P34-R16",
+        "P34-R17"
+      ],
+      "semantic_findings": [
+        "Entire2914charssource/Chinese/R16–17 fullread includingPartThreeheading; actualtheorycorrect.",
+        "Too-highprice relativetovalue/extremeoptimism generalrules, targetraisedfasterthanprices/USSteel1916around136 predicting1000 authorrememberednewspaper notindependentlyverifiedfullnews/timing/fees.",
+        "PeoplesGasbelow30in1920/byend1921double notexact30→60 fill; retainednotonlybecausealreadyprofitsell,utilityopportunity andalternativeinvestment canjustifyexit evenoriginalcontinuesrise.",
+        "Preservetoosoonvsbetterearlythanlate tension;conditionalintegration clearlyindependentnotauthorsformula. Sourcefactors/orderfirsttruth notallcashsellorcalibratedtops.",
+        "Chapter9stageheader末页待核 needsarchive afterselectedlastPDF41actualview; bodylater24notyetread wording needsfinal stagecontext."
+      ],
+      "original_full_images_actually_viewed": [
+        41
+      ]
+    },
+    {
+      "chapter": 10,
+      "source_file": "source/chapters/ch10.txt",
+      "source_characters": 1319,
+      "source_read_ranges": [
+        [
+          0,
+          1319
+        ]
+      ],
+      "source_sha256": "e8f0d71417aedb191f5e5ea035362fcba0d5f124bbec6f9cb528d229c02f0e7b",
+      "original_TXT_lines": [
+        659,
+        689
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "73cfe32d902aa7bcb573b3de99bee9201d5cb57c94e6dd29eae1c96e6443f31e",
+      "rule_ids_actually_read": [
+        "P34-R18"
+      ],
+      "semantic_findings": [
+        "Entire1319charssource/Chinese/R18twofullparagraphsupports actuallyread. No mandatorysemantic correction.",
+        "Ifalwaysknowingdirectioneasyfortune conditional,notclaimedactualeverytimepredictor;somepricechanges lawneverfails authorsstrongclaim preserved limitedsome notall.",
+        "20yearresearch/otherorganizationssimilarresults notindependenttrials ordata actuallyobtained. Author explicitwithholds fundamentalbusinesscycle statistics; noSMA/RSI/fixedwindow falselyattributed orprobabilitycalibration.",
+        "Correctdirectionnotexecutablenetprofit andindexnotindividualprofit independent counterexample clearlylabelled; crossch11time/pathlimit pendingourread butnotfilledbychapter10."
+      ]
+    },
+    {
+      "chapter": 11,
+      "source_file": "source/chapters/ch11.txt",
+      "source_characters": 3283,
+      "source_read_ranges": [
+        [
+          0,
+          3283
+        ]
+      ],
+      "source_sha256": "6642d517d11bad48b347c1d26aaebbeb3710ca92219e98e6b13216cfc393eca0",
+      "original_TXT_lines": [
+        690,
+        752
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "e4d9bde1074fbdf562c5b7c420bed0e790c06de24c697cf7488c14240e7386d9",
+      "rule_ids_actually_read": [
+        "P34-R19",
+        "P34-R20"
+      ],
+      "semantic_findings": [
+        "Entire3283charssource/Chinese/R19–20 allsevenfullsupports read; no mandatorytheorycorrection.",
+        "Majorcycle+minorchanges nearlyalwaysleadbusiness/suresteadyup authorsstrongclaims retained;1921August7months40representativestocks+20points neither20%nor40expertvotes;missingmembership/base/weights fees.",
+        "Original impossibleprecisehowlong/course notexactrepeat limitsch10neverfails some-laws; fourstatesnofixed20/200window.",
+        "Prosperity wiseallsells authorbroadstatement keptwithincontradictions notuniversalvalueproof; severeinitialbreak thenrallynotoldhigh requiresfutureobservationnotbackfillinitialdate.",
+        "Depressiontightmoney/failures/vsnextbanksaccumulation preserve withoutinvented stage reconciliation; actualinstitutionaccumulation needsownership/recordsnotOHLCV."
+      ]
+    },
+    {
+      "chapter": 12,
+      "source_file": "source/chapters/ch12.txt",
+      "source_characters": 1279,
+      "source_read_ranges": [
+        [
+          0,
+          1279
+        ]
+      ],
+      "source_sha256": "b353f08669a00ac1f0c95cb665a51351efce9f53662628a4d4daf93186d7a9ea",
+      "original_TXT_lines": [
+        753,
+        782
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "d8981fbf696063652787ea7ebada7148066ded0424018b31d7cccf739954506b",
+      "rule_ids_actually_read": [
+        "P34-R21"
+      ],
+      "semantic_findings": [
+        "Entire1279charssource/Chinese/R21threefullsupports read; no mandatorytheorymisreading.",
+        "Author necessaryplentymoney notsufficient; nearlyallbullmarketmargin purchases originalunverifieddenominator notmodernfact;brokerborrowingmechanismnotactualinstitutionflow.",
+        "1919FederalReserveBankpower tosomeextent pluscounterfactual/publicwelfare authorjudgments notexternalpolicycausalproof/preciseFedbody.",
+        "Depressionbankaccumulation/bullbeginabundance vspriorchaptertightmoney actualcontradiction preservednotautomaticreconciliation; reserveslow sellusually lacksratios/period/currentlaws.",
+        "PriceOHLC/CMFcannotreplacebankreserves/availableloans/roles/collateral data; policy/legal extrapolation refused."
+      ]
+    },
+    {
+      "chapter": 13,
+      "source_file": "source/chapters/ch13.txt",
+      "source_characters": 2136,
+      "source_read_ranges": [
+        [
+          0,
+          2136
+        ]
+      ],
+      "source_sha256": "9e1ad0dc1ef6ad08b999582de8c1a2979fc76e39ea280d771092717d76b656cc",
+      "original_TXT_lines": [
+        783,
+        826
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "31d8b2d5a8a1026957556891576e4acc3fc152a752713dc18db925552d51a99d",
+      "rule_ids_actually_read": [
+        "P34-R22",
+        "P34-R23"
+      ],
+      "semantic_findings": [
+        "Entire2136charssource/Chinese/R22–23 actuallyread; allfourparagraphsupports read.",
+        "Bullreaction pathcondition dependsfavorablebull background;newbuyvscoverdifferentroles cannotinferrealflow/identityfromOHLC; professionalshortbehavior notclientauthorization/verifiedreturns.",
+        "Principalmajormovement/minorinminorway authorrelative preference andmoremoneyminimumrisk uncalibrated;cheapexceptionamidhighothers vschapter8gate retained.",
+        "Extra dividend priceusuallyrises butauthorintrinsicvaluefalls, eventannouncing/payment/shareholdercash totals distinguished nofixedarbitrage orallannouncementsell.",
+        "RequiredChineseword股息increase not加息公告; R22author_meaningfirstterms利润兑现/传闻 absentchapter13 supports—checknext14beforefinalmulti-sourcejudgment."
+      ]
+    },
+    {
+      "chapter": 14,
+      "source_file": "source/chapters/ch14.txt",
+      "source_characters": 1479,
+      "source_read_ranges": [
+        [
+          0,
+          1479
+        ]
+      ],
+      "source_sha256": "6d40b614bcd9f035ebb336cd48e4bcf15551bd5cee279e70a8fdb8b26c5c4db7",
+      "original_TXT_lines": [
+        827,
+        864
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "541cbb2e188f30c0ebe09c998cb1b29ca4207f888029cee9abdd553cd9cbd79c",
+      "rule_ids_actually_read": [
+        "P34-R24",
+        "P34-R25"
+      ],
+      "semantic_findings": [
+        "Entire1479charssource/Chinese/R24–25 allsixsupports fullread; originalPDF55–56 bothcompleteimagesactuallyviewed, unmatchedstatic100/50paragraph straddles55–56confirmed.",
+        "Technical actualshortinterests/floating/stoporders notSMA/RSI; potentialpricedemandvsmatchedcompletedquantity distinguishes authorstatement.",
+        "All50supplybought beforehigherstaticexample originalbothpagesnotuniversalmodernquotationlaw; withdrawal independent counterexample notoriginalmechanism.",
+        "Cheapvalue100/50 notfixed50%threshold;heavyselfmargin vsleveraging finance interpretwith ch16needsactualreadnext; foundmistake earlyloss explicitfix ofunconditionalhold.",
+        "R25timeunknownexplicit source in11 plussoonerlaterhere shouldcrosslink11wholecontext ifassertingwhyfunds needed. R22profitrealization/rumornotfound13–14;read15nextbeforefalsesource judgement."
+      ],
+      "original_full_images_actually_viewed": [
+        55,
+        56
+      ]
+    },
+    {
+      "chapter": 15,
+      "source_file": "source/chapters/ch15.txt",
+      "source_characters": 5757,
+      "source_read_ranges": [
+        [
+          0,
+          5757
+        ]
+      ],
+      "source_sha256": "22049579e1ce530757763fa5ca256c2201647758dbea7a0ef970af5e5f814d5e",
+      "original_TXT_lines": [
+        865,
+        978
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "61a9ede89a4e90ec59b218b4827a92f10ce0fee61c4b2735af0de9e58daf1826",
+      "rule_ids_actually_read": [
+        "P34-R26",
+        "P34-R27",
+        "P34-R28"
+      ],
+      "semantic_findings": [
+        "Entire5757charssourceincludingPartFourtitle/Chinese/R26–28 all13substantivesupports read;99tokentruncatedChineseend subsequentlyrereadfrom当前边界全部至末marker. No mandatorycoremisattribution.",
+        "Internalnewsselective releaselegalbutmorallyreprehensible author1922 opinionnotcurrentlaw. Underrealvaluepoolforceup sometimesjustifiable exceptionretainedvsordinarypublicrobbing neitheruniformsupportnoruniformprohibition.",
+        "Fourperiodsclaimedonlyaccumulation formallynamed; ownmodernlabels/duration notfalselyattributed; eventstoryneedsactualparties/orders/goodbadnews noOHLC-onlyidentity.",
+        "One-manmine hypotheticalnotrealrecord/1–2dayhalfprice empiricalgate; unnamedoldoperatornotidentified. Honestpromotionfailurevsswindlepurpose separate; losscomparison authorunprovedsample.",
+        "SEC officialglossary modernboundary independentlyopenedandactualsubstantiveparagraphsread,URLhttps://www.investor.gov/introduction-investing/investing-basics/glossary/market-manipulation; nohistoricallegality/currentcase ruling.",
+        "R22profitrealization/rumor notchapter13/14/15 source—replacewithfaithful13 actualnewspaperprediction/letupbuying/bearselling insteadofinventedmechanism."
+      ]
+    },
+    {
+      "chapter": 16,
+      "source_file": "source/chapters/ch16.txt",
+      "source_characters": 2799,
+      "source_read_ranges": [
+        [
+          0,
+          2799
+        ]
+      ],
+      "source_sha256": "172ee351a920bf8d84128515402ef26c9fbb239935defd31ec00cc275dc759da",
+      "original_TXT_lines": [
+        979,
+        1033
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "aa663fc52c888101d062d286e00f35f8ee0739ea4eb11526db9b0efcb744c375",
+      "rule_ids_actually_read": [
+        "P34-R29",
+        "P34-R30"
+      ],
+      "semantic_findings": [
+        "Entire2799charssource/Chinese/R29–30 allsixsupportsfullread; original20/80condition and30–50/>=50/nofinancing properlyhistorical inChinese.",
+        "Wholecashpurchasebutoutsideborrow realfinancing; mortgageanalogy notidenticalcontract. Priceowesvsanydeclinemarginadditional rightstatedtwo triggersnotallguarantees;heavyselfmargin unequivocalowncashmore/smallerpurchases ifnotreadytopay.",
+        "R29lastclause抵押不获贷则经纪自筹 notsource:authorsaysshouldnotexpectbrokerfinancing, ifofferslooks bucket. R30按期派息 unprovided inthischapterfullparagraph andmustremovefromauthormeaning.",
+        "Independent100asset/80debt/20equity,90value→10equity50%loss;110→30equity50%gain;100/50/50to90→40equity20%loss arithmeticcorrect andclearlynotoriginalexamples/modernallowance.",
+        "Author verysmalllowpriceliberal-marginrisk/greatprofit preservedvsoccasionalneverfinance andcheapvalueerror; equitycashlabelnotnoborrow.",
+        "SECstaffeducationofficialcurrentprimaryopenedfullmaincontent;supportspossibilitymore-thaninvestmentloss andsalewithoutconsult/wait,staffguidancenotlaw; nofullcurrentrulesassertionsfromold20/80."
+      ],
+      "original_full_images_actually_viewed": [
+        66
+      ]
+    },
+    {
+      "chapter": 17,
+      "source_file": "source/chapters/ch17.txt",
+      "source_characters": 3153,
+      "source_read_ranges": [
+        [
+          0,
+          3153
+        ]
+      ],
+      "source_sha256": "e1b89667ac0036b9ccc0667839b0f652b78baa8306d9e9f9d23a4bb829f4a08e",
+      "original_TXT_lines": [
+        1034,
+        1096
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "11fd473286075c096c0df407a53112a2c1f4baca97e85c780e67cf46f79c49fa",
+      "rule_ids_actually_read": [
+        "P34-R31",
+        "P34-R32"
+      ],
+      "semantic_findings": [
+        "Entire3153charssource/Chinese/R31–32 allsevenfullsupports read; no substantivechaptermisinterpretation.",
+        "Shortsellowestock laterbuy needsimmediatedeliveryborrow;bank80vsbrokerlendfull value andrareinterestfreemoney oldstructure nottodayavailabilitypromise.",
+        "Brokerrequiresmarginatentryandpriceupraisescovercost;shortrevenueunfinishedprofit;onlybuyopportunitiesabsentshortorentirelyout branches neitherforcedshortnorforcedallcashbuy.",
+        "100%higherthanintrinsic=2xvaluenot100USD;mayfurthermanipulateup/corner forcedcoverwithinsolvencyexplicitauthorcounterexampleequilibriumvaluation≠timeprofitable.",
+        "Bigshorts futurebuycouldrisevs favorablegeneralconditions shortsforcepricedown bothpreserved;notreportingcurrentownship/borrow flow fromdailybars.",
+        "R32independentfield短兴趣 unnaturaltranslationofshortinterest should空头头寸;economicmeaningclearbuttermclarificationcandidate."
+      ]
+    },
+    {
+      "chapter": 18,
+      "source_file": "source/chapters/ch18.txt",
+      "source_characters": 2110,
+      "source_read_ranges": [
+        [
+          0,
+          2110
+        ]
+      ],
+      "source_sha256": "a0fa9bf2d4f3adca70a084dbdf262b973fca77dc2cd70006dfcf97e1e5d8c1a6",
+      "original_TXT_lines": [
+        1097,
+        1140
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "1f325355edb317e14b0fea523b45431d4512f85cf7763c4ac38ed6925616e4da",
+      "rule_ids_actually_read": [
+        "P34-R33"
+      ],
+      "semantic_findings": [
+        "Entire2110charssource/Chinese/R33 all4supports fullread; Chinesefaithfulasset/proxyandhistoricaltime.",
+        "Bucket noactualclientbuyorimmediateresale vspledgedrealclientstocks; modernexplicitdifferentcontracts/notautomatic fraud, counterpartyrepaymentnotdirectionguarantee.",
+        "Originalsource stocksAugust1921up no3pointreactionexceptfew, failuresbeganearly1922thenAprilover50; R33combinesasAug-to-writing50fail incorrectly shiftsfailureperiod;requiredfieldtimeclarification.",
+        "Continuousuphurtsbutcapitalizedoperatorscanweathernotguaranteedfail; names/fulldata/laws/glyphsnotallverified.",
+        "R33counterexampleexchange-memberconnection nothere; read19next ifactualsourcethereaddcrosscontext."
+      ],
+      "original_full_images_actually_viewed": [
+        74
+      ]
+    },
+    {
+      "chapter": 19,
+      "source_file": "source/chapters/ch19.txt",
+      "source_characters": 1581,
+      "source_read_ranges": [
+        [
+          0,
+          1581
+        ]
+      ],
+      "source_sha256": "aaafe307ff69a2a8a80d0f787825da532e08040bec46735d401d54e609d2339b",
+      "original_TXT_lines": [
+        1141,
+        1175
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ff4e58229e136aa5bf80b79117d54746668cbc0a784b711f7832979199289b62",
+      "rule_ids_actually_read": [
+        "P34-R34"
+      ],
+      "semantic_findings": [
+        "Entire1581charssource/Chinese/R34threesupportsfullread; corechaptergood.",
+        "MemberNYpreferredgreatprotectiondoesnotguarantee, occasionalfail/bucketconnections actualsourcehereSupportsR33counterexamplecross19soaddwholecontext+precise19P004later.",
+        "Anybrokerevenmemberneedresponsibilityreport fromBradstreet/Dunfriendbankchannels notoralfriendendorsement; actualcurrentreport/identity/financialrecordsnotobtained;no memberriskpercentagecalibrated.",
+        "Author offersnamesonrequestbutprefersnotrecommend pluscannotguaranteereliability: R34以免担保全对 introducescause notexplicitlystated;replaceandrelationship not inventedmotive.",
+        "Marginclientcreditcustodial risk distinctsecurityvalue/actualexecution; currentopenaccount/contracts/trades/calls none."
+      ]
+    },
+    {
+      "chapter": 20,
+      "source_file": "source/chapters/ch20.txt",
+      "source_characters": 1894,
+      "source_read_ranges": [
+        [
+          0,
+          1894
+        ]
+      ],
+      "source_sha256": "dd89b3300e6943cd711c4688f55466aac2cc0de93627c045462423c0f41fc896",
+      "original_TXT_lines": [
+        1176,
+        1215
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "c79647209162b8f7487cf1244255da89ae9b3b12ef6babe12662d4617f30e312",
+      "rule_ids_actually_read": [
+        "P34-R35",
+        "P34-R36"
+      ],
+      "semantic_findings": [
+        "Entire1894charssource/Chinese/R35–36fourfullsupportsactuallyread; chapterarithmetic/rights clear.",
+        "Callquantity100/97strike/thirtydays/$137.50premium/101conditional sale→4USDpersharegross400 minusfee262.50commissionunknown;98.375breakevenwithoutfees independentnotauthor/factualcurrenttrade;put93nootherfeeassumed.",
+        "Negotiablerightsnotfixeddeliveryobligation forbuyer; makerliability/currentexchangecontracts/expirationpriceunspecified cannotimportmoderndesign. Market2pointstablevslargermoving originalhistoricalnotuniversalstrike.",
+        "Professional sometimesexception vsoutofsightoutsidernotadvise, originalnearlyallbuyerlose authoropinion notmostcalibrated; R36authorfield目前多数亏是未证 mixesreviewassessmentandsoftensnearlyall—separatefaithfulauthorstrongclaimfromindependentmissing-sampleassessment.",
+        "Issuerterm-powernotautomaticprofit orfraud, shortcontracttime≠eventualvalueguarantee; norealnewprediction/backtest."
+      ],
+      "original_full_images_actually_viewed": [
+        77,
+        78
+      ]
+    },
+    {
+      "chapter": 21,
+      "source_file": "source/chapters/ch21.txt",
+      "source_characters": 3021,
+      "source_read_ranges": [
+        [
+          0,
+          3021
+        ]
+      ],
+      "source_sha256": "64776f8de2ee252c608347b40759d4c23ed575226439eea5176077998f90caab",
+      "original_TXT_lines": [
+        1216,
+        1280
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ebbcb1ca4367d851aaf13bf60b7de0ea1af024697c2bc1f23e84a84a30fb88c8",
+      "rule_ids_actually_read": [
+        "P34-R37",
+        "P34-R38"
+      ],
+      "semantic_findings": [
+        "Entire3021charssourceinclPartFivetitle/Chinese/R37–38sixfullsupportsread.",
+        "Defaultseldomstop/cheapfullorheavymargin no-danger/paperloss authorexplicitstrongclaim preserved—notactuallossgone/notanypermanentlyhold; cross14mistake andlater23switch candidatependingreading.",
+        "USSteel94/92manybelievedstops hypothetical notactualorders/manipulators/identity; ordertrigger cascade mechanismwithoutauthormodernMA/actualdaybarsproof.",
+        "Nearbulltop rarelyrecommendedtrailingstop risingpricesraiseorder,topunknowable;>100>=3points,<1002maycasespecific/exact100unspecified; unitsUSDpershare not%/universalATR.",
+        "Requiredbodyword第三十至五十个百分点 should百分之三十至五十自有资金比例; level vsdifference separate. Independent20quote2distance10%vs80quote2distance2.5%correct illustrationnotrecommendation.",
+        "Investor.govstoporderofficialsubstantiveparagraphsopened/read:activatemarketorder/shortfluctuation/executionmaydiff scopedmoderneducationnot1922author; limitedmaxloss guarantee excluded."
+      ],
+      "original_full_images_actually_viewed": [
+        80,
+        81
+      ]
+    },
+    {
+      "chapter": 22,
+      "source_file": "source/chapters/ch22.txt",
+      "source_characters": 5796,
+      "source_read_ranges": [
+        [
+          0,
+          5796
+        ]
+      ],
+      "source_sha256": "dd20c4d816beff03f32919aadd783e40801e56452090d957c8eda3114aa4b636",
+      "original_TXT_lines": [
+        1281,
+        1387
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "aacd7e085cae8617c2aca37c1f38d4da0e8dd8220477fbd50b00ed952ef14c8b",
+      "rule_ids_actually_read": [
+        "P34-R39",
+        "P34-R40"
+      ],
+      "semantic_findings": [
+        "Entire5796charssource/Chinese/R39–40ninefullsupports fullread; no mandatorysubstantivechaptererror.",
+        "Broadspeculationenterpriseinventor notjuststocks/USeconomicprogressauthoropinion notcausalverification; unknown95% failure authorexplicitnotcertification; said80%marginlosing unverifiednotpredictivemodelcalibration.",
+        "30dayseveralhundredpercentluckstory/tenpointmarginalgamblerallcapitaland1yearimmobility illustrativeunguidewindowsnotactualtrades or10%margin withoutprice;Opportunitycashlockup distinctpaperloss.",
+        "Retrospective surething neveractuallyriskless—availablethenfunds/knowledge/wholeloss records required;fairreturnusuallyrich authoroldsayingnotguarantee/performancehistory.",
+        "Seekadvisor supposedknow withnointerestbuy/sell notcoordinatedbookmodelvotes; ownauthorpaidserviceinterest notautomaticallyindependent.",
+        "R39机会过大 isawkwardtakingtoo-great-chances should过度冒险 terminologyclarification, coreeconomicreadingalreadyaccurate."
+      ],
+      "original_full_images_actually_viewed": [
+        89
+      ]
+    },
+    {
+      "chapter": 23,
+      "source_file": "source/chapters/ch23.txt",
+      "source_characters": 2780,
+      "source_read_ranges": [
+        [
+          0,
+          2780
+        ]
+      ],
+      "source_sha256": "cc425dddb574177c4103789428424fad28cf94f8d576e176b7618de373f7a22b",
+      "original_TXT_lines": [
+        1388,
+        1442
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "34476a842302027761d267b57a055822e89ec3db8ed9f94832e2579b3eb5e75b",
+      "rule_ids_actually_read": [
+        "P34-R41"
+      ],
+      "semantic_findings": [
+        "Entire2780charssource/Chinese/R41fivefullsupportparagraphsread; no mandatorysubstantivechaptererror.",
+        "Carefulalmostalwaysprofitsvsrecklesseventualallloss ifmethodunchanged authoridealtypesnotpersonality/denominator/modernprobability; liberalmarginowncashnothighleveraging.",
+        "Futureoldholdingmayriseor never, betternewopportunityjustifiessellloss; askwouldnewbuytodayyetcommissionscounterexamplecanholdwhilewouldnotbuy. Coreboundaryfaithful notmechanicalturnover.",
+        "Currentalternative samewindowcostrisk missingno fabricatedforecast; cannotreplacepoorsourcewithanotherpoorhot-tipforrevenge.",
+        "R37cross23 actualsourcepreciseP006/P007 future alternative shouldaddcontextalong14mistake;R16–17sourcesavailablefrom9 wholeopportunitypreviouslogicconsistent."
+      ]
+    },
+    {
+      "chapter": 24,
+      "source_file": "source/chapters/ch24.txt",
+      "source_characters": 4054,
+      "source_read_ranges": [
+        [
+          0,
+          4054
+        ]
+      ],
+      "source_sha256": "f4499dd2627ead8b056bb9eff67f1027e30ec79bb4a089e64135fab2fd1bcea7",
+      "original_TXT_lines": [
+        1443,
+        1526
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "cabd865c6217fcd06d5b1a9f3952e45d2accecb457c972c5e978eb3c13209e94",
+      "rule_ids_actually_read": [
+        "P34-R42",
+        "P34-R43"
+      ],
+      "semantic_findings": [
+        "Entire4054charssource/Chinese/R42–43all11substantiveparagraphsupports actuallyread; no mandatorycorecontent error.",
+        "Keenequotationnotexternalrecord, BabsonBusinessBarometers passageonlynotentireadditionalbook/readcount; cautiousnevermargin/nevershort/oftenout belongsBabsonquotedvoice notButlermethodunified.",
+        "2500over50y>1m >400xnot400pp,10000k/15000k/30000k/50000kfrom5000 StPaul/UP/NJ/NP possibleoutscomesandif6/8monthmovesdiagnosable condition,conservativeinvestorsexplicitavoidintermediate; fourthrowdateunstated notfilled1870.",
+        "Averagehigh/low vsperfectpeaks notautomaticallyno-lookahead; withoutoriginalfullmethod/transactions/fees/dividends nofaithfulbacktestpossible.",
+        "Butlerofcourselargermarginshortprofit extrapolation retainedwithpreviousfunding/shortsqueezelimits nottestedtool-superiority.",
+        "Smallfundportion risk vswholeobligations/lowercapitalmorecare/somecannot speculate allretained;verylongcarefulreturngreat authorbeliefnotcross-activitydataset."
+      ],
+      "original_full_images_actually_viewed": [
+        95,
+        96,
+        97
+      ]
+    },
+    {
+      "chapter": 25,
+      "source_file": "source/chapters/ch25.txt",
+      "source_characters": 9793,
+      "source_read_ranges": [
+        [
+          0,
+          9793
+        ]
+      ],
+      "source_sha256": "5488f4cebd514eb81d5f50952a7d64a80587930dace5ed951c3cfccdbd953e1b",
+      "original_TXT_lines": [
+        1527,
+        1694
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "8109e486647cfde6046a0af5a62cb641ba3fc167ddbb52b82941aaadcddf4264",
+      "rule_ids_actually_read": [
+        "P34-R44",
+        "P34-R45",
+        "P34-R46"
+      ],
+      "semantic_findings": [
+        "Entire9793charssource thenChinese/R44–46all13fullparagraphsupportsread in2boundedoutputs; no truncation/nochapterunfinished.",
+        "Butlernewsproductionclaim vsClewsquote expresseduncertaintyaboutcauses; somereliablebrokersandprice/quantitynewspaperstat stillacceptednotmediaallfalse orallreaderfraud.",
+        "Managerletter viaBabsonquotedwithinButler, SouthernPacific100purchasewhileinquiringgrain hypotheticalunverifiedanonymous narrative; wrongstill25commission,nopositivehalfprobabilitytwochoices. 99%letterspeakerestimation notindustrysurvey orButlersdataset.",
+        "1000USD10outrightvs100margin10%,12.5csharefees1.25/12.5eachside arithmeticgood,interestunknownmeansgrossx10notnetguarantee;R45未有调查 reviewassessmentshouldindependent field,Chinesethousand元/dollar feesclarifyUSD units.",
+        "Sevenorganizationlist explicitlynot7wholepublications/40expertsinvoked,year85–1000andmonthly10–25 historicalexpenses notfraudthresholds; ownauthorclaims cheapest serviceinterest notautomaticallyindependent.",
+        "Allsupportnavigation metadata labelsButler1922voice evenquotedBabson24P006–12/Clews25P005/manager25P007–10; exactevidencecandidate mustcorrectquotevoicedistinction notfalse authorship,rawsourceunchanged."
+      ]
+    },
+    {
+      "chapter": 26,
+      "source_file": "source/chapters/ch26.txt",
+      "source_characters": 7797,
+      "source_read_ranges": [
+        [
+          0,
+          7797
+        ]
+      ],
+      "source_sha256": "d2ed6c404448df93a0c05bed58082a20e6e4492bdc210fe57825155a7590db5c",
+      "original_TXT_lines": [
+        1695,
+        1850
+      ],
+      "full_original_source_actually_read": true,
+      "full_chinese_dossier_actually_read": true,
+      "dossier_sha256": "ae7bb8aea1704b0477b546e6f94ac1db30e48d3a1662396651a9227507a159a9",
+      "rule_ids_actually_read": [
+        "P34-R47",
+        "P34-R48",
+        "P34-R49",
+        "P34-R50"
+      ],
+      "semantic_findings": [
+        "Entire7797charssource/Chinese/R47–50all11fullsupports read incl16rowprice/tabletotals/sourcefootnote2 andPGENDnotauthor. Original digitalall26chapters nowread,license/remainingmetadata stillpendingnotwholefinalpass.",
+        "Feb14advisorysamplepricesactualFeb13andMar31closefractionsdropped; ownsampleallrisesnotoriginalrecommendationletter/actualexits/independenttrades; footnote2 explicitlyNOsaleadviceMar31, sixmonth>60%/120yearhypothetic.",
+        "16differencesallmatch4,5,12,4,19,3,8,10,8,3,13,6,7,8,4,1; totals1005/1120/115;10ea10050/gross1150,first10sum772*10*.3=2316,last6sum233*10*.5=1165,total3481<3500,debt6550,net32% implies1120 notactualunlistedfee/dividenddifference30verified.",
+        "1000*1.5^20=3325256.73>3m math true not20yearconservativeguarantee;50%easy/unique safe/almostinvariablymoney/subscriptionproof strongauthortheoryandcommercialproof faithfully keptnocalibration.",
+        "RequiredChinesech26Apr25line haswrongtrigger保证金买入过快 andinvented等待回落;originalmarketadvancingtoo rapidly→pausemarginbuying,THENreactionreported. CorrectsameR14scope;Apr25footnote linkmustbe7notonly26.",
+        "Year25/sixmo15/3mo10and>=twice-monthletters/unlimitedcorrespondence historicaloffer notactualagentcalls/personalityauthority; thesiswithcommercialbenefit equallychallenged. Thousand元fixcurrencyUSD sameas25."
+      ],
+      "original_full_images_actually_viewed": [
+        108,
+        109,
+        110
+      ]
+    }
+  ],
+  "rules_reviewed": [
+    "P34-R01",
+    "P34-R02",
+    "P34-R03",
+    "P34-R04",
+    "P34-R05",
+    "P34-R06",
+    "P34-R07",
+    "P34-R08",
+    "P34-R09",
+    "P34-R10",
+    "P34-R11",
+    "P34-R12",
+    "P34-R13",
+    "P34-R14",
+    "P34-R15",
+    "P34-R16",
+    "P34-R17",
+    "P34-R18",
+    "P34-R19",
+    "P34-R20",
+    "P34-R21",
+    "P34-R22",
+    "P34-R23",
+    "P34-R24",
+    "P34-R25",
+    "P34-R26",
+    "P34-R27",
+    "P34-R28",
+    "P34-R29",
+    "P34-R30",
+    "P34-R31",
+    "P34-R32",
+    "P34-R33",
+    "P34-R34",
+    "P34-R35",
+    "P34-R36",
+    "P34-R37",
+    "P34-R38",
+    "P34-R39",
+    "P34-R40",
+    "P34-R41",
+    "P34-R42",
+    "P34-R43",
+    "P34-R44",
+    "P34-R45",
+    "P34-R46",
+    "P34-R47",
+    "P34-R48",
+    "P34-R49",
+    "P34-R50"
+  ],
+  "required_findings_candidates": [
+    {
+      "id": "P34-QA-A01",
+      "status": "all50_rules_complete_raw_original_contexts_and_whole_discourse_linked",
+      "scope": "source global coordinate file and complete context evidence",
+      "finding": "Current supportwholeparagraph range and chapter range reference originalTXTgloballines but attachedtosubsetsourcefile;retainnavexplicitandaddexact originalrawline/char/byte/SHA andactualwholecontext afterallrule/source semanticreading."
+    },
+    {
+      "id": "P34-QA-A02",
+      "file": "ch03.md",
+      "status": "wording_clarification",
+      "old": "“交易者”被作者便宜地用于任何买卖股票的人。",
+      "candidate_new": "作者为方便起见，将“交易者”用于任何买卖股票的人。",
+      "reason": "Originalforconvenience isauthor terminologyconvention,notcheapcost; subsequentanalysisalreadycorrect."
+    },
+    {
+      "id": "P34-QA-A03",
+      "status": "archive_resolved_stage_header",
+      "file": "ch04.md",
+      "old": "章界至第五章印刷页23以前包含部标题，精确正文末页待同版扫描核对。",
+      "candidate_new": "本章数字源还包括后续第二部标题；原作者正文止于印刷页19/PDF23，本次独审已目视确认末页。",
+      "reason": "Oldwritingstage awaitinglastpage isnowresolved;PDF23/p19 fulloriginalseen andendsknownrumorparagraph. Noallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A04",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "candidate_new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。",
+      "reason": "Sourcefootnoteonlypausemarginbuying/reaction,doesnotstateanotherbuyopportunity/advice;sourcefullTXT559–562+PDF34footnoteactualimage."
+    },
+    {
+      "id": "P34-QA-A05",
+      "status": "required_qualifier_precision",
+      "rule_id": "P34-R12",
+      "fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+          "candidate_new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+        },
+        {
+          "field": "counterexample_or_limit",
+          "old": "原书明确NYSE也有永无价值之股。",
+          "candidate_new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+        }
+      ],
+      "reason": "Someperhapsnointrinsicvalueandneverwill originalmodalitymustpreserve;separateauthorstatesstocksnotbuyatanytime,strongclaimretainedinfullchapter. SourceTXT524–532."
+    },
+    {
+      "id": "P34-QA-A06",
+      "file": "ch13.md",
+      "status": "required_terminology_clarification",
+      "old": "“有时卖”与“所有加息公告都卖”相差很大。",
+      "candidate_new": "“有时卖”与“所有提高股息的公告都卖”相差很大。",
+      "reason": "Originaladvanceinitsdividendrate isdividendincrease,notmonetaryinterestratehike. Sameparagraphshouldnotshiftfromcompanydistributiontopolicy."
+    },
+    {
+      "id": "P34-QA-A07",
+      "status": "archive_resolved_stage_header",
+      "file": "ch09.md",
+      "old": "正文末页和后续空白/部标题页待扫描章界核准。",
+      "candidate_new": "原作者正文末页为印刷页三十七/PDF四十一，已在本次独审中核对原图；数字源另含第三部标题。",
+      "reason": "OriginalPDF41completeactuallyseenendsReadChapterXXIVnotextraauthorbody. Noallblankpagesorallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A08",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "candidate_new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。",
+      "reason": "Source13actualmechanismisexpectation/newspaperprediction/letupbuying notprofitrealizationorrumor,neither14/15providestheseasreactionmechanism. Preserve conditionalauthorclaim ratherthanreinterpret asindependent.",
+      "source_global_TXT_lines": [
+        788,
+        814
+      ]
+    },
+    {
+      "id": "P34-QA-A09",
+      "status": "required_semantic_corrections",
+      "rule_fields": [
+        {
+          "rule_id": "P34-R29",
+          "field": "author_meaning",
+          "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+          "candidate_new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。",
+          "source_global_TXT_lines": [
+            984,
+            1012
+          ],
+          "reason": "Lastclauseinventedbrokerfunding rule afterbankreject; originalinadmissiblecollateralwarnsnotexpectfinanceandbucket suspicion,notthenbrokerself-funds."
+        },
+        {
+          "rule_id": "P34-R30",
+          "field": "author_meaning",
+          "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+          "candidate_new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。",
+          "source_global_TXT_lines": [
+            1014,
+            1029
+          ],
+          "reason": "Originalclosingparagraphs donotmentionregularlypayingdividends. Do notaddissuerconditionasauthorstatement;preserveotherexplicitstronglowriskclaimandconditionalnofinancing."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A10",
+      "status": "terminology_clarification",
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "candidate_new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。",
+      "reason": "Shortinterest referstooutstandingshortpositionsnot短兴趣. Originalcovercaninfluencehigher/bearsconditionsalsoforceprice down.",
+      "additional_rule_fields": [
+        {
+          "rule_id": "P34-R39",
+          "field": "author_meaning",
+          "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+          "candidate_new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。",
+          "reason": "Takingtoo-great-chances meansrisk/excessiveadventure, notlargeopportunities; preservequotedproportions notownstatistics."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A11",
+      "status": "required_time_precision",
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "candidate_new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。",
+      "reason": "SourcepriceupbeginsAug1921 butbucketfailureperiodearly1922-toApril1922. Currentcombinationassignsfiftyfailurestodifferentwindow. SourcefullTXT1119–1128."
+    },
+    {
+      "id": "P34-QA-A12",
+      "status": "required_attribution_precision",
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "candidate_new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。",
+      "reason": "Originalseparateprefersnotrecommendandcannotguaranteestatements,notexplicit以免担保cause; preserveownknowledgeboundarynotinventauthorpurpose. GlobalTXT1159–1171."
+    },
+    {
+      "id": "P34-QA-A13",
+      "status": "required_author_voice_separation",
+      "rule_id": "P34-R36",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+          "candidate_new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+          "candidate_new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+        }
+      ],
+      "reason": "Nearlyall originalclaimnotjustmost;未证 ispeeranalysisnotauthoropinion. Keepclaimin authorvoice, missingdenominatorinindependentfield."
+    },
+    {
+      "id": "P34-QA-A14",
+      "status": "required_unit_clarification",
+      "file": "ch21.md",
+      "old": "第三十至五十个百分点只是历史自有资金建议",
+      "candidate_new": "百分之三十至五十只是历史自有资金比例建议",
+      "reason": "Margin30–50%levels not30–50percentage-pointchange. Originalchapter16relationpurchasepriceclear."
+    },
+    {
+      "id": "P34-QA-A15",
+      "status": "required_voice_and_unit_precision",
+      "patches": [
+        {
+          "rule_id": "P34-R45",
+          "field": "author_meaning",
+          "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+          "candidate_new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+        },
+        {
+          "rule_id": "P34-R45",
+          "field": "independent_analysis",
+          "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+          "candidate_new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+        },
+        {
+          "file": "ch25.md",
+          "old": "按每股十二点五美分计，一千元全款可以买约十股，买卖各一點二五；若作为一百股的百分之十保证金，则买卖各十二點五，还对借款余额付利息。",
+          "candidate_new": "按每股十二点五美分计，一千美元全款可以买约十股，买卖各收一点二五美元；若作为一百股的百分之十保证金，则买卖各收十二点五美元，还对借款余额付利息。"
+        }
+      ],
+      "reason": "Keepletterassertion/peerabsenceofverificationseparate; USD monetarydenominatornotambiguousChinese元. Exactsource1614–1649andwholeanonymousletter."
+    },
+    {
+      "id": "P34-QA-A16",
+      "status": "required_trigger_and_unit_correction",
+      "patches": [
+        {
+          "file": "ch26.md",
+          "old": "第七章四月二十五日脚注因保证金买入过快，改为暂停融资买入等待回落，形成同书不同观察日的修订。",
+          "candidate_new": "第七章脚注明记四月二十五日因市场上涨过快，建议客户暂缓保证金买入，随后才说市场出现明显回落，形成同书不同观察日的修订。"
+        },
+        {
+          "file": "ch26.md",
+          "old": "他设一千元、每年五成、全部再投二十年",
+          "candidate_new": "他设一千美元、每年五成、全部再投二十年"
+        }
+      ],
+      "reason": "Footnote1triggerismarketadvance notclientsmarginpurchasingpace; reactionreportedsubsequentlynotexplicitre-entrytarget. USDratherthanChineseambiguous元;rawsourceunaltered."
+    },
+    {
+      "id": "P34-QA-A17",
+      "status": "required_semantic_correction",
+      "file": "全书综合与附录.md",
+      "old": "稍后回落再次给机会。",
+      "candidate_new": "脚注只记其后出现明显回落，并未说再次发出买入建议。",
+      "reason": "Sameinventedre-entryopportunityasR14absentoriginalfootnote;originalPDF34actuallyseenfullfootnote."
+    },
+    {
+      "id": "P34-QA-A18",
+      "status": "archive_resolved_stage_record",
+      "patches": [
+        {
+          "file": "ch08.md",
+          "old": "相关第十四章尚须另读，不能据目录先填指标。",
+          "candidate_new": "其交叉引用的第十四章现已完整读核，技术指供求及相关义务，不凭现代指标替代。"
+        },
+        {
+          "file": "ch08.md",
+          "old": "所以本章专家此刻只能记录后文依赖。",
+          "candidate_new": "所以单读本章只能记录后文依赖；整本审核则须连接第十四章已经读核的真实供求定义。"
+        }
+      ],
+      "reason": "Wholebookactualchapter14nowread; preservehistoricalstageexternally notassertcurrentnotread. No originaltextrewrite."
+    },
+    {
+      "id": "P34-QA-A19",
+      "status": "required_quote_voice_precision",
+      "scope": "source_supports/precise_source_contexts source_voice",
+      "voice_map": {
+        "P34-C24-P006_to_P012": "Babson quoted by Butler1922; this passage only, wholeBabsonbooknotclaimedread",
+        "P34-C25-P005": "HenryClews quoted by Butler1922; this passage only",
+        "P34-C25-P007_to_P010": "Anonymouscustomers-roommanagerletter quoted by Babson and reproduced by Butler1922; narrativeunverified"
+      },
+      "reason": "ExistingButler1922label uniformonquotedrawparagraphs wronglycollapsesdirectvoice. Keepunderlyingwholebooksourceprovenance andallrawbytes unchanged."
+    },
+    {
+      "id": "P34-QA-A20",
+      "status": "required_count_method_precision",
+      "scope": "chapter-plan/audit/validation/expert/synthesis/explainer counts",
+      "author_method_total": 57771,
+      "strict_excluding_source_link_labels_total": 57758,
+      "minimum_chapter_strict": 2048,
+      "excluded_source_link_labels": [
+        {
+          "chapter": 15,
+          "label": "SEC市场操纵释义",
+          "Han": 6
+        },
+        {
+          "chapter": 16,
+          "label": "SEC保证金账户说明",
+          "Han": 7
+        }
+      ],
+      "reason": "Source-linklabelsarecitationmetadata ratherthanoriginalanalysisbody. All26remain>2000 andbook>20000;mergeaftersemanticcorrectionsmustrecomputeuniformlynotcarryoldnumbers."
+    },
+    {
+      "id": "P34-QA-A21",
+      "status": "required_author_reason_precision",
+      "rule_id": "P34-R25",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+          "candidate_new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+          "candidate_new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+        }
+      ],
+      "reason": "Chapter14doesnotexpress因为所需时间不能准确知 asreasonforheavymargin;chapter11unknownmajorcyclepathnotidenticalindividualvaluetime. Moveunprovidedarrivaldateassessmenttoindependentfieldandkeepchapter14faithful."
+    }
+  ],
+  "next_unread_chapter": 27,
+  "last_updated_utc": "2026-10-13T16:15:01.293534+00:00",
+  "synthesis_and_explainer_and_whole_expert_system_prompt_actually_read": true,
+  "numeric_review_and_all_validation_and_audit_metadata_examined": true,
+  "precise_raw_evidence_check_pending": false,
+  "precise_context_count": 171,
+  "exact_context_integrity": [
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R01",
+      "paragraph": "P34-C01-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R02",
+      "paragraph": "P34-C02-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R03",
+      "paragraph": "P34-C02-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R03",
+      "paragraph": "P34-C02-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R04",
+      "paragraph": "P34-C03-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R05",
+      "paragraph": "P34-C03-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R05",
+      "paragraph": "P34-C03-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R06",
+      "paragraph": "P34-C03-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R07",
+      "paragraph": "P34-C04-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R08",
+      "paragraph": "P34-C04-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R08",
+      "paragraph": "P34-C04-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R09",
+      "paragraph": "P34-C05-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R10",
+      "paragraph": "P34-C06-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R10",
+      "paragraph": "P34-C06-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R11",
+      "paragraph": "P34-C06-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R12",
+      "paragraph": "P34-C07-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R12",
+      "paragraph": "P34-C07-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C06-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R13",
+      "paragraph": "P34-C07-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R14",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C08-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R15",
+      "paragraph": "P34-C14-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R16",
+      "paragraph": "P34-C09-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R17",
+      "paragraph": "P34-C09-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R18",
+      "paragraph": "P34-C10-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R18",
+      "paragraph": "P34-C10-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R19",
+      "paragraph": "P34-C11-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C11-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R20",
+      "paragraph": "P34-C12-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C12-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R21",
+      "paragraph": "P34-C11-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R22",
+      "paragraph": "P34-C13-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R23",
+      "paragraph": "P34-C13-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R24",
+      "paragraph": "P34-C14-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C14-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C14-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C16-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R25",
+      "paragraph": "P34-C16-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R26",
+      "paragraph": "P34-C15-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R26",
+      "paragraph": "P34-C15-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R27",
+      "paragraph": "P34-C15-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R28",
+      "paragraph": "P34-C15-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R29",
+      "paragraph": "P34-C16-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C16-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C16-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R30",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R31",
+      "paragraph": "P34-C17-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R32",
+      "paragraph": "P34-C17-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C18-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R33",
+      "paragraph": "P34-C19-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R34",
+      "paragraph": "P34-C19-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R35",
+      "paragraph": "P34-C20-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R35",
+      "paragraph": "P34-C20-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R36",
+      "paragraph": "P34-C20-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R36",
+      "paragraph": "P34-C20-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C21-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C14-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C23-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R37",
+      "paragraph": "P34-C23-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R38",
+      "paragraph": "P34-C21-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R38",
+      "paragraph": "P34-C21-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R39",
+      "paragraph": "P34-C22-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R40",
+      "paragraph": "P34-C22-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R41",
+      "paragraph": "P34-C23-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R42",
+      "paragraph": "P34-C24-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R43",
+      "paragraph": "P34-C24-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R43",
+      "paragraph": "P34-C24-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P003",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R44",
+      "paragraph": "P34-C25-P006",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P007",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R45",
+      "paragraph": "P34-C25-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P013",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P014",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R46",
+      "paragraph": "P34-C25-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P004",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P005",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P008",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C26-P021",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R47",
+      "paragraph": "P34-C07-P009",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R48",
+      "paragraph": "P34-C26-P010",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R48",
+      "paragraph": "P34-C26-P011",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R49",
+      "paragraph": "P34-C26-P012",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P015",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P016",
+      "exact_line_char_byte_SHA_file_match": true
+    },
+    {
+      "rule": "P34-R50",
+      "paragraph": "P34-C26-P017",
+      "exact_line_char_byte_SHA_file_match": true
+    }
+  ],
+  "full_original_TXT_contiguous_line_coverage": [
+    [
+      "front",
+      1,
+      150
+    ],
+    [
+      "chapter1",
+      151,
+      192
+    ],
+    [
+      "chapter2",
+      193,
+      251
+    ],
+    [
+      "chapter3",
+      252,
+      342
+    ],
+    [
+      "chapter4",
+      343,
+      405
+    ],
+    [
+      "chapter5",
+      406,
+      442
+    ],
+    [
+      "chapter6",
+      443,
+      510
+    ],
+    [
+      "chapter7",
+      511,
+      566
+    ],
+    [
+      "chapter8",
+      567,
+      594
+    ],
+    [
+      "chapter9",
+      595,
+      658
+    ],
+    [
+      "chapter10",
+      659,
+      689
+    ],
+    [
+      "chapter11",
+      690,
+      752
+    ],
+    [
+      "chapter12",
+      753,
+      782
+    ],
+    [
+      "chapter13",
+      783,
+      826
+    ],
+    [
+      "chapter14",
+      827,
+      864
+    ],
+    [
+      "chapter15",
+      865,
+      978
+    ],
+    [
+      "chapter16",
+      979,
+      1033
+    ],
+    [
+      "chapter17",
+      1034,
+      1096
+    ],
+    [
+      "chapter18",
+      1097,
+      1140
+    ],
+    [
+      "chapter19",
+      1141,
+      1175
+    ],
+    [
+      "chapter20",
+      1176,
+      1215
+    ],
+    [
+      "chapter21",
+      1216,
+      1280
+    ],
+    [
+      "chapter22",
+      1281,
+      1387
+    ],
+    [
+      "chapter23",
+      1388,
+      1442
+    ],
+    [
+      "chapter24",
+      1443,
+      1526
+    ],
+    [
+      "chapter25",
+      1527,
+      1694
+    ],
+    [
+      "chapter26",
+      1695,
+      1850
+    ],
+    [
+      "PGlicense",
+      1851,
+      2201
+    ]
+  ],
+  "strict_body_han_counts_excluding_source_link_labels": [
+    2334,
+    2267,
+    2384,
+    2282,
+    2187,
+    2331,
+    2307,
+    2072,
+    2314,
+    2129,
+    2095,
+    2063,
+    2089,
+    2048,
+    2240,
+    2203,
+    2198,
+    2147,
+    2051,
+    2159,
+    2406,
+    2399,
+    2198,
+    2124,
+    2415,
+    2316
+  ],
+  "author_count_method_including_source_link_labels": [
+    2334,
+    2267,
+    2384,
+    2282,
+    2187,
+    2331,
+    2307,
+    2072,
+    2314,
+    2129,
+    2095,
+    2063,
+    2089,
+    2048,
+    2246,
+    2210,
+    2198,
+    2147,
+    2051,
+    2159,
+    2406,
+    2399,
+    2198,
+    2124,
+    2415,
+    2316
+  ],
+  "candidate_expert_sha256": "42caa15934c96b75fd20d07d519f18b4b9cafb9b8a0d0dab18e078bf1ef793ac",
+  "necessary_rule_field_changes": [
+    {
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "author_meaning",
+      "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+      "new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "counterexample_or_limit",
+      "old": "原书明确NYSE也有永无价值之股。",
+      "new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+    },
+    {
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。"
+    },
+    {
+      "rule_id": "P34-R29",
+      "field": "author_meaning",
+      "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+      "new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。"
+    },
+    {
+      "rule_id": "P34-R30",
+      "field": "author_meaning",
+      "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+      "new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。"
+    },
+    {
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。"
+    },
+    {
+      "rule_id": "P34-R39",
+      "field": "author_meaning",
+      "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+      "new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。"
+    },
+    {
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。"
+    },
+    {
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "author_meaning",
+      "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+      "new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "independent_analysis",
+      "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+      "new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "author_meaning",
+      "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+      "new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "independent_analysis",
+      "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+      "new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "author_meaning",
+      "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+      "new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "independent_analysis",
+      "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+      "new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+    }
+  ]
+}

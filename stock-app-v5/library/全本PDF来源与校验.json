@@ -1,0 +1,830 @@
+[
+  {
+    "bookId": "B37",
+    "file": "library/B37/全本.pdf",
+    "source": "outputs/book-experts-v2/sources/Wyckoff_1910_Studies_in_Tape_Reading.pdf",
+    "sha256": "9a4d2620cd38c58cb3d324fba109537a76ecc1ccad6f9c231233b17a2d0850df",
+    "bytes": 10154742,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "B38",
+    "file": "library/B38/全本.pdf",
+    "source": "outputs/book-experts-v2/sources/Wyckoff_1925_How_I_Trade_and_Invest_in_Stocks_and_Bonds.pdf",
+    "sha256": "02a22f9ce61945970e8c44fa1dd7005bbcd279dd8b8f4fbef66da9a52861038b",
+    "bytes": 3979561,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "B40",
+    "file": "library/B40/全本.pdf",
+    "source": "outputs/book-experts-v2/sources/Hamilton_1922_The_Stock_Market_Barometer.pdf",
+    "sha256": "d48cc871f96b2d1f2fbbac6b28dc9cae8a85df6d8d4fd8cd77238ea094c07ebc",
+    "bytes": 16197540,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P04",
+    "file": "library/P04/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P04/source/full-electronic-text-reflow.pdf",
+    "sha256": "3ad0678eba3b37d670698965b23b6511498d7a0e09bfe95b6cd134d833665646",
+    "bytes": 593934,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P04",
+      "pdf": "outputs/stock-app-v5/library/P04/source/full-electronic-text-reflow.pdf",
+      "pages": 144,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 143
+        }
+      ],
+      "bytes": 593934,
+      "sha256": "3ad0678eba3b37d670698965b23b6511498d7a0e09bfe95b6cd134d833665646",
+      "sourceSha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 469327,
+      "bodyDOMCharacters": 469569,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P05",
+    "file": "library/P05/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P05/source/full-electronic-text-reflow.pdf",
+    "sha256": "7f6674336e249fcaca4cfb40c15bceb4e52256dac1c7851c79410e8215d73af8",
+    "bytes": 416234,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P05",
+      "pdf": "outputs/stock-app-v5/library/P05/source/full-electronic-text-reflow.pdf",
+      "pages": 82,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 81
+        }
+      ],
+      "bytes": 416234,
+      "sha256": "7f6674336e249fcaca4cfb40c15bceb4e52256dac1c7851c79410e8215d73af8",
+      "sourceSha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 270537,
+      "bodyDOMCharacters": 270596,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P06",
+    "file": "library/P06/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P06/source/full-electronic-text-reflow.pdf",
+    "sha256": "7ad87749e66fbc79095aba5c38d477673494c0f3989570763979a3546480a44e",
+    "bytes": 619424,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P06",
+      "pdf": "outputs/stock-app-v5/library/P06/source/full-electronic-text-reflow.pdf",
+      "pages": 150,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 149
+        }
+      ],
+      "bytes": 619424,
+      "sha256": "7ad87749e66fbc79095aba5c38d477673494c0f3989570763979a3546480a44e",
+      "sourceSha256": "500b1349523a5fb402a61d88bab68b93211ff678a27ee54b65d26317aea2146b",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 497616,
+      "bodyDOMCharacters": 497919,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P07",
+    "file": "library/P07/全本.pdf",
+    "source": "work/book-experts-v5/index_team/P07/source/stockexchangesho00hirsrich.pdf",
+    "sha256": "d931a3126a36d7209d32b35d62dfcb9291a942004da28468c9081291bb3ab010",
+    "bytes": 11929389,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P08",
+    "file": "library/P08/全本.pdf",
+    "source": "work/book-experts-v5/index_team/P08/source/1904-full-work-repaired-library-scan.pdf",
+    "sha256": "60126690e56d24774e5b7701929de68c8e4355d77e2764a9b61676b6769bed0c",
+    "bytes": 25502172,
+    "kind": "repaired_same_edition_scan",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P09",
+    "file": "library/P09/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P09/source/full-electronic-text-reflow.pdf",
+    "sha256": "d694b9fc4c392e8c4aa12454940e016ae14d5a99f0b0ab164c045184afccb6ba",
+    "bytes": 767284,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P09",
+      "pdf": "outputs/stock-app-v5/library/P09/source/full-electronic-text-reflow.pdf",
+      "pages": 215,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 214
+        }
+      ],
+      "bytes": 767284,
+      "sha256": "d694b9fc4c392e8c4aa12454940e016ae14d5a99f0b0ab164c045184afccb6ba",
+      "sourceSha256": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 701327,
+      "bodyDOMCharacters": 702193,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P10",
+    "file": "library/P10/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P10/source/full-electronic-text-reflow.pdf",
+    "sha256": "f8a6b8b0fff8a786b5f45157acd2aa5ad65d5977c948b03ef7efc0e777cdb2fa",
+    "bytes": 391459,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P10",
+      "pdf": "outputs/stock-app-v5/library/P10/source/full-electronic-text-reflow.pdf",
+      "pages": 85,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 84
+        }
+      ],
+      "bytes": 391459,
+      "sha256": "f8a6b8b0fff8a786b5f45157acd2aa5ad65d5977c948b03ef7efc0e777cdb2fa",
+      "sourceSha256": "087167e8de3ce15dec570f81cd8eac46d641965876f480d45f712a2d515a3c93",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 242084,
+      "bodyDOMCharacters": 242378,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P11",
+    "file": "library/P11/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P11/source/full-electronic-text-reflow.pdf",
+    "sha256": "b28901ff39e13d4befcfee4d61c14fc4c73d81cbec3026eadcce3321435b08b3",
+    "bytes": 2160379,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P11",
+      "pdf": "outputs/stock-app-v5/library/P11/source/full-electronic-text-reflow.pdf",
+      "pages": 80,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 72
+        },
+        {
+          "kind": "license",
+          "pages": 7
+        }
+      ],
+      "bytes": 2160379,
+      "sha256": "b28901ff39e13d4befcfee4d61c14fc4c73d81cbec3026eadcce3321435b08b3",
+      "sourceSha256": "29e53b396821a5835a3507496fafeab2bebaa8ece8ae88ec203704536c5db7ef",
+      "licenseOriginalSourceSha256": "46150582067a213ff7eee0ff7745159bdc005a9056cb1603c7e26c9bf3c3cd8e",
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 4,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 1,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 331503,
+      "bodyDOMCharacters": 313862,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P12",
+    "file": "library/P12/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P12/source/full-electronic-text-reflow.pdf",
+    "sha256": "d5fe35374585832981fa457b25ce1c768801fe115d7b9283ff4acd6b99d8f56f",
+    "bytes": 1405718,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P12",
+      "pdf": "outputs/stock-app-v5/library/P12/source/full-electronic-text-reflow.pdf",
+      "pages": 79,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 78
+        }
+      ],
+      "bytes": 1405718,
+      "sha256": "d5fe35374585832981fa457b25ce1c768801fe115d7b9283ff4acd6b99d8f56f",
+      "sourceSha256": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 434835,
+      "bodyDOMCharacters": 436008,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P13",
+    "file": "library/P13/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P13/source/full-electronic-text-reflow.pdf",
+    "sha256": "3db5afda19b6c7790d1834ba1f3f9a8966954fc0c161fd0d63737cff8d160f98",
+    "bytes": 2113128,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P13",
+      "pdf": "outputs/stock-app-v5/library/P13/source/full-electronic-text-reflow.pdf",
+      "pages": 53,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 52
+        }
+      ],
+      "bytes": 2113128,
+      "sha256": "3db5afda19b6c7790d1834ba1f3f9a8966954fc0c161fd0d63737cff8d160f98",
+      "sourceSha256": "ca274958e6c2f1b44b220ab67cc91062b34af693094d944e058eaf67103f2282",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 19,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 201896,
+      "bodyDOMCharacters": 201666,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P14",
+    "file": "library/P14/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P14/source/full-electronic-text-reflow.pdf",
+    "sha256": "b862338b268d8ee3410d043886ecf3a5f59c5f67ff58970349bacb00b7c7777d",
+    "bytes": 1348300,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P14",
+      "pdf": "outputs/stock-app-v5/library/P14/source/full-electronic-text-reflow.pdf",
+      "pages": 99,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 98
+        }
+      ],
+      "bytes": 1348300,
+      "sha256": "b862338b268d8ee3410d043886ecf3a5f59c5f67ff58970349bacb00b7c7777d",
+      "sourceSha256": "21f803dd8dd0863ca59093e35cf8f202d6212c3d41cf9cf9285b1e7a6363b5ac",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 503432,
+      "bodyDOMCharacters": 506236,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P15",
+    "file": "library/P15/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P15/source/full-electronic-text-reflow.pdf",
+    "sha256": "fc357c376593087283e97a32e15fc8f17bc0a345698887162c36da2084022dcf",
+    "bytes": 5376336,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P15",
+      "pdf": "outputs/stock-app-v5/library/P15/source/full-electronic-text-reflow.pdf",
+      "pages": 174,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 173
+        }
+      ],
+      "bytes": 5376336,
+      "sha256": "fc357c376593087283e97a32e15fc8f17bc0a345698887162c36da2084022dcf",
+      "sourceSha256": "b08a5ccbed32a3666a8d7bbab9524a8b091f06505bf043e62a29ca5c7ac6f955",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 30,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 885294,
+      "bodyDOMCharacters": 888468,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P16",
+    "file": "library/P16/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P16/source/full-electronic-text-reflow.pdf",
+    "sha256": "e9d07a372afb35b71cf98cc2a7a34a2cf353187d2d4eecf6e7ba9f845501bfc9",
+    "bytes": 773939,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P16",
+      "pdf": "outputs/stock-app-v5/library/P16/source/full-electronic-text-reflow.pdf",
+      "pages": 40,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 39
+        }
+      ],
+      "bytes": 773939,
+      "sha256": "e9d07a372afb35b71cf98cc2a7a34a2cf353187d2d4eecf6e7ba9f845501bfc9",
+      "sourceSha256": "f970baa80d49c32e61af57231f957fea56d585b61cb1cc1de9e9eac08fb5ba24",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 223217,
+      "bodyDOMCharacters": 223642,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P17",
+    "file": "library/P17/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P17/source/Bankers_and_Credit_1924.pdf",
+    "sha256": "2f33d3b64ef1f158eb6230255bdd1abb65517486cef92431c1db3f71a367ab35",
+    "bytes": 93377039,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P18",
+    "file": "library/P18/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P18/source/Anderson_1917_The_Value_of_Money.pdf",
+    "sha256": "a84c88ac10aa9d12e274332a41e79ba7c25d9556bfa6d635b780af1ac5f76080",
+    "bytes": 14568462,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P19",
+    "file": "library/P19/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P19/source/Hawtrey_1919_Currency_and_Credit.pdf",
+    "sha256": "a940b4d9151f142943427de5ca981fb3033fa50159eeeaf1949f165e4e1d06f4",
+    "bytes": 27739115,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P20",
+    "file": "library/P20/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P20/source/White_1904_Money_and_Banking.pdf",
+    "sha256": "be12e7b529a4981db657d1519d3247dfdd2073116521bc6064cb846ff9e88325",
+    "bytes": 26648118,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P21",
+    "file": "library/P21/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P21/source/Clark_1908_Distribution_of_Wealth.pdf",
+    "sha256": "c2ea7b5111f693d8756e2daa367f368814795c65d2f90fcf2335733ef000a921",
+    "bytes": 23528350,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P22",
+    "file": "library/P22/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P22/source/full-electronic-text-reflow.pdf",
+    "sha256": "b6b44d06607f6734895e61c77a3e761dfd44a63de0905e315688a476df289c46",
+    "bytes": 2322233,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P22",
+      "pdf": "outputs/stock-app-v5/library/P22/source/full-electronic-text-reflow.pdf",
+      "pages": 161,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 160
+        }
+      ],
+      "bytes": 2322233,
+      "sha256": "b6b44d06607f6734895e61c77a3e761dfd44a63de0905e315688a476df289c46",
+      "sourceSha256": "8edaa8b9576a7766f1d1d65bfa0879b80f72abf344c10ef15ce7a0a30906cc99",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 1,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 888023,
+      "bodyDOMCharacters": 890533,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P23",
+    "file": "library/P23/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P23/source/1911-full-scan.pdf",
+    "sha256": "5d237c7d0e8e08df86a651a67f0818a117ada2ab4a9ac8dc3e8bd88335ef5e9c",
+    "bytes": 20505082,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P24",
+    "file": "library/P24/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P24/source/1875-same-edition-two-library-reading.pdf",
+    "sha256": "25bf8874f7b47c718f14e84292773fc0698fba314bd8950506775d2b58fe5496",
+    "bytes": 9891206,
+    "kind": "repaired_same_edition_scan",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P25",
+    "file": "library/P25/全本.pdf",
+    "source": "work/book-experts-v5/value_team/P25/source/1892-PG-primary-with-disclosed1875-supplement.pdf",
+    "sha256": "f1193acc22ccd83fcfe6da1a55624ecd1d75c012b04b21da4c1ff61745c09b29",
+    "bytes": 687968,
+    "kind": "primary1892_electronic_reflow_with_separate_disclosed1875_supplement",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P26",
+    "file": "library/P26/全本.pdf",
+    "source": "work/book-experts-v5/root_team/P26/source/original-1893.pdf",
+    "sha256": "e3e73996c52a2c4c0bc890a9738d288bf7a80ef384320d867e8ec1926fa6a912",
+    "bytes": 4437941,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P27",
+    "file": "library/P27/全本.pdf",
+    "source": "work/book-experts-v5/root_team/P27/source/original-scan-1890.pdf",
+    "sha256": "8fd5e60e04ef4b1a2ae485f8309facb37ecf10e164ac67b551f717051e0c97f4",
+    "bytes": 11458082,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P28",
+    "file": "library/P28/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P28/source/full-electronic-text-reflow.pdf",
+    "sha256": "7635d3e82f9f6975884eadd641b15ee236b5f67edd2a09fc1715f2abcb90eb05",
+    "bytes": 726389,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P28",
+      "pdf": "outputs/stock-app-v5/library/P28/source/full-electronic-text-reflow.pdf",
+      "pages": 29,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 28
+        }
+      ],
+      "bytes": 726389,
+      "sha256": "7635d3e82f9f6975884eadd641b15ee236b5f67edd2a09fc1715f2abcb90eb05",
+      "sourceSha256": "c651195586e3b9cc842575e23a31cc6bf6e64ee32cc4842419e1e6cf2182d631",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 2,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 148551,
+      "bodyDOMCharacters": 148655,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P29",
+    "file": "library/P29/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P29/source/full-electronic-text-reflow.pdf",
+    "sha256": "507e44c2ffc9a7b165cd21c8ed7448eead4ab609d5ab6575bfa1370c77437b56",
+    "bytes": 408716,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P29",
+      "pdf": "outputs/stock-app-v5/library/P29/source/full-electronic-text-reflow.pdf",
+      "pages": 130,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 129
+        }
+      ],
+      "bytes": 408716,
+      "sha256": "507e44c2ffc9a7b165cd21c8ed7448eead4ab609d5ab6575bfa1370c77437b56",
+      "sourceSha256": "defad25040b984a02c8c2da7449846e8aa0cee7f47bab0b6d235481a4bf70973",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg text re-typeset; line wrapping differs from original.",
+      "imagesLoadedForPrint": 0,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 228286,
+      "bodyDOMCharacters": 228339,
+      "visualLayoutReview": "actual_new_cover_first_middle_final_and_two_ledger_table_pages_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeNormalizedOfficialTXTInBodyPDF": true,
+      "tableFormatting": "Full official TXT retains130column rows in monospace A4landscape, no collapsed HTML table paragraphs"
+    }
+  },
+  {
+    "bookId": "P30",
+    "file": "library/P30/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P30/source/cu31924055332534.pdf",
+    "sha256": "d7c23891893b17ab18b7742608dea1dd2ace129326ced6b0fc8ee8f0f9350a45",
+    "bytes": 6285945,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P31",
+    "file": "library/P31/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P31/source/original-1895.pdf",
+    "sha256": "367e9b1ae72c4c6ac4c6cf865460c110fc502b29aa837b55d72186d637904584",
+    "bytes": 8663025,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P32",
+    "file": "library/P32/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P32/source/alternative-1914.pdf",
+    "sha256": "74d1e4c9172a4a0cccd27d984208afbdffc4fd02e0e34fe080f1d0fd569aaf84",
+    "bytes": 17173589,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P33",
+    "file": "library/P33/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P33/source/original-1915.pdf",
+    "sha256": "adadaed2550f1abf3d0e253c656f4d49604aa6743ca7465913b1a266ac4973f7",
+    "bytes": 10269112,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P34",
+    "file": "library/P34/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P34/source/original-1922.pdf",
+    "sha256": "bebe64b52fa8e4f8b732438b34f9d9fcdd63b0d9599643c3408d0169afd62db5",
+    "bytes": 4913962,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P35",
+    "file": "library/P35/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P35/source/original-1915.pdf",
+    "sha256": "902928b1d200c612da6918c9ef512b8411805617106ed93ee9344f406c3dc8b2",
+    "bytes": 11976030,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P36",
+    "file": "library/P36/全本.pdf",
+    "source": "work/book-experts-v5/practical_team/P36/source/original-1907.pdf",
+    "sha256": "c2175a8868b6c19a27764121083114d3a98364be1d197f411a6bc0cd1f20f2f8",
+    "bytes": 8470090,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P37",
+    "file": "library/P37/全本.pdf",
+    "source": "outputs/stock-app-v5/library/P37/source/full-electronic-text-reflow.pdf",
+    "sha256": "a613ee4a863856ab436430cbb5c4a6267587dbeefe72d7ffaf3c8da42eb9200d",
+    "bytes": 1686683,
+    "kind": "complete_electronic_source_reflow",
+    "conversionAudit": {
+      "bookId": "P37",
+      "pdf": "outputs/stock-app-v5/library/P37/source/full-electronic-text-reflow.pdf",
+      "pages": 46,
+      "parts": [
+        {
+          "kind": "cover",
+          "pages": 1
+        },
+        {
+          "kind": "body",
+          "pages": 45
+        }
+      ],
+      "bytes": 1686683,
+      "sha256": "a613ee4a863856ab436430cbb5c4a6267587dbeefe72d7ffaf3c8da42eb9200d",
+      "sourceSha256": "f143e589a5de0690e7c535db97b768b8d1f3373413e1b4ae452606651976be93",
+      "licenseOriginalSourceSha256": null,
+      "conversionKind": "Full official Project Gutenberg illustrated HTML re-typeset; electronic images and license retained.",
+      "imagesLoadedForPrint": 17,
+      "imagesHavePrintLayout": true,
+      "trimmedGeneratedTrailingLicenseBlankPages": 0,
+      "allSourceEndAndLicenseExtracted": true,
+      "extractedCharacters": 128282,
+      "bodyDOMCharacters": 128208,
+      "visualLayoutReview": "sampled_latest_four_pages_actually_viewed",
+      "allGlyphsReproofread": false,
+      "wholePDFReadingClaim": false,
+      "completeSourceCharacterInventoryDeficits": false,
+      "inventoryMethodLimit": "NFKC nonspace inventory equal or greater, not semantic/order/glyph/figure proof",
+      "printedPageLabelsRetained": "latest inside-body float fixes previously clipped page labels"
+    }
+  },
+  {
+    "bookId": "P38",
+    "file": "library/P38/全本.pdf",
+    "source": "work/book-experts-v5/root_team/P38/original-2022-CCBY.pdf",
+    "sha256": "8c0b537a3a66a60f4b3039392728254fc938e36c4baf635d4707928336bf04b9",
+    "bytes": 63302362,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P39",
+    "file": "library/P39/全本.pdf",
+    "source": "work/book-experts-v5/root_team/P39/original-1920.pdf",
+    "sha256": "128b3fcc95e3d6797bc2dea9270ea0addd4c093b0cdc97750cd191d8cf4df454",
+    "bytes": 11730336,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  },
+  {
+    "bookId": "P40",
+    "file": "library/P40/全本.pdf",
+    "source": "work/book-experts-v5/root_team/P40/original-scan-1912.pdf",
+    "sha256": "547fb35c605e33deb0d9f473a56e06729c6d5de7862fec98559381056e604d77",
+    "bytes": 5124660,
+    "kind": "published_full_scan_or_open_textbook_PDF",
+    "conversionAudit": null
+  }
+]

@@ -1,0 +1,232 @@
+{
+  "book_id": "P19",
+  "reviewer": "index_books",
+  "status": "passed_root_corrections_snapshot_with_source_limits_pending_status_only_sync",
+  "semantic_correction_acceptance": true,
+  "whole_prior_independent_reading_reused": true,
+  "not_second_full_book_reading": true,
+  "full21chapters_and_notes_and_drafts_and51rules_prior_semantic_review": true,
+  "current_changed_fields_and_documents_actually_compared": true,
+  "required13_groups": [
+    {
+      "id": "P19-QA-C01",
+      "correction": "全部51规则正确+12纸页映射，旧范围保留",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C02",
+      "correction": "R05工资与现金吸收纸20–23精确依据及292续行补齐",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C03",
+      "correction": "R10歉收收入/支出/余额条件作者归因及新增输入",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C04",
+      "correction": "R09全部国际支付含纸61，非单货物贸易",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C05",
+      "correction": "R20本地纸实际回收不再贷出与信用限制条件/输入",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C06",
+      "correction": "R18迟延现金回流纸125–126源段",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C07",
+      "correction": "R23固定债息剩余放大与短期融资逼售分开",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C08",
+      "correction": "纸147原½%每日与OCR1%差异原数字不覆盖",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C09",
+      "correction": "R26发行限制和准备冲突纸152–154补齐",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C10",
+      "correction": "第16章七月改八月，原表7行读核已记录",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C11",
+      "correction": "第18章11/12准确译十二分之十一",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C12",
+      "correction": "R42区分1780市场1/40、五年认购≤1/20及1790残余1/100",
+      "merged_and_verified": true
+    },
+    {
+      "id": "P19-QA-C13",
+      "correction": "184精确定位片段＋51完整未删上下文，全部坐标/哈希/连续性核验",
+      "merged_and_verified": true
+    }
+  ],
+  "prior_full_review_file": "work/book-experts-v5/index_team/peer-QA/P19-independent-QA.json",
+  "boundary_repair_file": "work/book-experts-v5/index_team/peer-QA/P19-boundary-and-continuous-context-QA.json",
+  "examined_canonical_book": "outputs/book-experts-v5/P19",
+  "expert_snapshot_sha256": "b20781c9d9d89727faa13422240063018ef426e545363822cd3d858c46a8d9d6",
+  "audit_snapshot_sha256": "9845d2f013510b918fc8c3646818209e095395c7bd360e0254d477d0743145ce",
+  "strict_body_han_total": 69203,
+  "minimum_chapter_body_han": 2656,
+  "chapter_recheck": [
+    {
+      "chapter": 1,
+      "strict_body_han": 2956,
+      "source_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+      "draft_sha256": "fbabebec5df1ff0cd956b0b953c5c2a171a722b9c88f8f7ae8cc0d797554a110"
+    },
+    {
+      "chapter": 2,
+      "strict_body_han": 3131,
+      "source_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+      "draft_sha256": "cc4dcc97555263f56cf581aaf06c3403b169e5a50882ddd2778b0737c1b04b51"
+    },
+    {
+      "chapter": 3,
+      "strict_body_han": 4068,
+      "source_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+      "draft_sha256": "cc78649bca30565716761e081b37f5c9e552390c88db9be2d7eb568989aaa8dc"
+    },
+    {
+      "chapter": 4,
+      "strict_body_han": 3335,
+      "source_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+      "draft_sha256": "b547d15d4687ab4db8750f8aedf1d07f841c4544db3e35271307c52da501f22c"
+    },
+    {
+      "chapter": 5,
+      "strict_body_han": 3067,
+      "source_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+      "draft_sha256": "91a59f9afac1be6870aed38cf1d97867f216ac3dffaadde7eb5216c7d07e64c9"
+    },
+    {
+      "chapter": 6,
+      "strict_body_han": 3160,
+      "source_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+      "draft_sha256": "edc915bcf046481bcbe2078052d24b3b1ebf9f95bdf141378f158672f830f242"
+    },
+    {
+      "chapter": 7,
+      "strict_body_han": 2656,
+      "source_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+      "draft_sha256": "087ef912cac98dedaf0388e79964a9cfdc9b13cd3bc462bbcf930b9052b43c93"
+    },
+    {
+      "chapter": 8,
+      "strict_body_han": 3385,
+      "source_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+      "draft_sha256": "723d0b4314d6bc0c994ce4df6252ec2ba2e4ab3152e549da14358790df95ee24"
+    },
+    {
+      "chapter": 9,
+      "strict_body_han": 4003,
+      "source_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+      "draft_sha256": "323895f6559937808605a44aff75e40528720b04fa8b1dcfdaac714094af0ca7"
+    },
+    {
+      "chapter": 10,
+      "strict_body_han": 3225,
+      "source_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+      "draft_sha256": "85949dc201ccc0de6abf2d68e4ab14ff870acabd16b188cb0347c99a3b6d2b0a"
+    },
+    {
+      "chapter": 11,
+      "strict_body_han": 3559,
+      "source_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+      "draft_sha256": "c1f039591579c987d83a54fee09a917b4d866c47144384d6005eeaa4026225cf"
+    },
+    {
+      "chapter": 12,
+      "strict_body_han": 3596,
+      "source_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+      "draft_sha256": "7c5f90e166cdcca5f7df2d0fd06bc640937164e23b23169f7e86d8f81f4c1092"
+    },
+    {
+      "chapter": 13,
+      "strict_body_han": 3023,
+      "source_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+      "draft_sha256": "d52650e34e9f4304a457293089478692a676fd30c9d3115d7a485594057a6470"
+    },
+    {
+      "chapter": 14,
+      "strict_body_han": 3184,
+      "source_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+      "draft_sha256": "dd81f92d66a73fc3c14b5093d1c80b1349b6d59a8d9991c1ce6827b35c052f8e"
+    },
+    {
+      "chapter": 15,
+      "strict_body_han": 3474,
+      "source_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+      "draft_sha256": "977b64bef016450ffbff6768976b6f13e8751549a496fe0c92deb2386d6297c1"
+    },
+    {
+      "chapter": 16,
+      "strict_body_han": 3477,
+      "source_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+      "draft_sha256": "e318e095c38d8322ceeb013151aebd015d6ac84e92becf0c48a1a6b1f5650ef7"
+    },
+    {
+      "chapter": 17,
+      "strict_body_han": 3312,
+      "source_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+      "draft_sha256": "a33886811828ea6377a452ac310aa795876805fa1af38f0d1334310abd003e54"
+    },
+    {
+      "chapter": 18,
+      "strict_body_han": 3139,
+      "source_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+      "draft_sha256": "8147f48f242f2db13fdc81bd9172979164747f309e333cbcdc073d36423b9027"
+    },
+    {
+      "chapter": 19,
+      "strict_body_han": 3385,
+      "source_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+      "draft_sha256": "a25efa63db145fb5ddc7b035696d1a1b62292b8010044094ccfbc1e5d0b5b9c1"
+    },
+    {
+      "chapter": 20,
+      "strict_body_han": 2939,
+      "source_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+      "draft_sha256": "f1c02643ab6ca359538c32057be388e247e9d6c55b778b928621e4e76a052e02"
+    },
+    {
+      "chapter": 21,
+      "strict_body_han": 3129,
+      "source_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+      "draft_sha256": "e56a5133e90a37610d0698e72209376f708efd6a2af321d7af4cf3134bd3b9cf"
+    }
+  ],
+  "rule_count": 51,
+  "exact_locator_count": 184,
+  "linked_full_context_count": 51,
+  "original_source_files_hash_matched": 28,
+  "mechanical_checks": 3156,
+  "all_original_source_unchanged": true,
+  "all_active51_context_links_portable": true,
+  "individual_locators_claimed_complete_natural_paragraphs": false,
+  "all_glyphs_visually_verified": false,
+  "all_external_history_laws_stats_verified": false,
+  "current_stock_decision_enabled": false,
+  "backtest_executed": false,
+  "predictive_probability_calibrated": false,
+  "metadata_followup": "Root may only synchronize passed status and current hashes; then peer final metadata hash recheck. No old finalizer and no source/meaning regeneration.",
+  "portable_audit_provenance_note": "Boundary-record all_missing_context_supplied_in values in copied boundary report retain candidate work paths. All active expert/anchor/context-record links are correctly book-relative. Label those record values as candidate provenance or map to source/evidence/unabridged for a portable audit.",
+  "created_utc": "2026-10-13T05:03:55.014500+00:00",
+  "canonical_status": "passed_with_source_limits",
+  "expert_final_sha256": "57e0b0c4d4a80ef359f84e0b423fbff35075c51d0fb678f889967a4426164515",
+  "status_only_sync_date": "2026-10-13T05:22:59.744751+00:00",
+  "portable_boundary_links_corrected": true
+}

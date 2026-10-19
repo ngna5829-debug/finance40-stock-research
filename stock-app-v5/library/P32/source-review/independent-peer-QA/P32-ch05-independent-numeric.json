@@ -1,0 +1,29 @@
+{
+  "book_id": "P32",
+  "chapter": 5,
+  "stock_turnover_original_values": {
+    "shares_sold": 31266208,
+    "shares_outstanding": 5084952,
+    "ratio_independently_calculated": 6.14877151249412,
+    "original_news_rounded_ratio": 6,
+    "period": "last year of quoted Dec7,1912 article,not newcurrentdata",
+    "not_new_issued_funding": true,
+    "repeatedownership_transfers_do_not_prove_false_trades_or_health": true
+  },
+  "bucketshop_example": {
+    "original_bid": 100,
+    "original_ask": 100.25,
+    "entry_buy": 100.25,
+    "later_bid": 98.25,
+    "later_ask": 98.5,
+    "entry_minus_later_bid_points": 2,
+    "old_bid_minus_later_bid_points": 1.75,
+    "pct_from_original_bid": 1.75,
+    "pct_from_entry_ask_to_exit_bid": 1.99501246882793,
+    "commission_numbers_not_given": true,
+    "3to4_not_calibrated_probability": true,
+    "never_apply_points_as_percent_at_otherprices": true
+  },
+  "original_values_not_modified": true,
+  "not_whole_historical_account_reconstruction": true
+}

@@ -1,0 +1,1948 @@
+{
+  "schema_version": "book-expert-public-domain-v5",
+  "book_id": "P27",
+  "expert_id": "P27-baker-market-structure",
+  "display_name": "市场结构、固定资本与监管证据专家",
+  "single_book_count": 1,
+  "author_attribution": "Charles Whiting Baker；PG1889电子本与取得1890题名/1889版权原扫描并读的同一作品提炼，不模拟本人身份",
+  "knowledge_source": "16原章、完整作者前言与目录、六末注、表图；被引文献及出版广告书名不当额外整本已读",
+  "knowledge_status": "independent_full_source_semantic_review_pass_after_corrections_with_source_limits",
+  "home_group": "价值、产业与治理",
+  "horizons": [
+    "产业进入、设施与契约期限",
+    "政策提议至实际执行的事件期限；需给当前分析日期"
+  ],
+  "required_inputs": [
+    "security_identity",
+    "decision_as_of",
+    "horizon",
+    "industry_and_geography",
+    "market_definition_and_real_substitutes",
+    "evidence_first_available_at",
+    "source_units_and_period",
+    "sources_and_known_gaps"
+  ],
+  "conditional_inputs": [
+    "成本中固定与增量成分及现金支出时点",
+    "价格、产量、购销及利润分母",
+    "资源质量、区位及运输条件",
+    "经营、设施、债券、股东及政府的实际权利",
+    "适用现行法律与执行阶段",
+    "融资/担保/基金/再融资条件",
+    "价格源与调整方式（若讨论股价）"
+  ],
+  "rules": [
+    {
+      "id": "P27-R01",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "组织名称及情感评价应与限制竞争的实际行为分别调查。",
+      "chapter": 1,
+      "source_fragment_ids": [
+        "P27-F01"
+      ],
+      "source_chapter_file": "source-chapters/ch01.txt",
+      "source_chapter_sha256": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+      "printed_pages": [
+        1,
+        2
+      ],
+      "source_chapter_printed_range": [
+        1,
+        6
+      ],
+      "boundary": "trust名称本身不证明垄断效果或违法状态。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R02",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "应先诊断作用机制与条件，再选择补救。",
+      "chapter": 1,
+      "source_fragment_ids": [
+        "P27-F02"
+      ],
+      "source_chapter_file": "source-chapters/ch01.txt",
+      "source_chapter_sha256": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+      "printed_pages": [
+        2,
+        3,
+        4
+      ],
+      "source_chapter_printed_range": [
+        1,
+        6
+      ],
+      "boundary": "外科比喻是方法声明，不是任何企业的实证证据。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R03",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "研究须兼顾组合发起者、消费者、雇主、工人与公众的站位。",
+      "chapter": 1,
+      "source_fragment_ids": [
+        "P27-F03"
+      ],
+      "source_chapter_file": "source-chapters/ch01.txt",
+      "source_chapter_sha256": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+      "printed_pages": [
+        5,
+        6
+      ],
+      "source_chapter_printed_range": [
+        1,
+        6
+      ],
+      "boundary": "倾听当事人说明不等于接受其全部主张。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R04",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者说明本书面向繁忙事务者，省略了可扩展为多卷的内容，并认为简短不必使结论失去价值。",
+      "chapter": 1,
+      "source_fragment_ids": [
+        "P27-F04"
+      ],
+      "source_chapter_file": "source-chapters/ch01.txt",
+      "source_chapter_sha256": "36f6d5c358acd922e3ac2253a89ca2b00a583c5d60e2426b6b59f337d4c730a3",
+      "printed_pages": [
+        5,
+        6
+      ],
+      "source_chapter_printed_range": [
+        1,
+        6
+      ],
+      "boundary": "原序承认统计及行业遗漏，不能声称全行业数据齐备。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：简短专著只能选择重要事实，完整读书不等于获得完整产业普查。"
+    },
+    {
+      "id": "P27-R05",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "亚麻籽油组合的发起者叙事展示推销、采购、厂房与融资的节约动机。",
+      "chapter": 2,
+      "source_fragment_ids": [
+        "P27-F05",
+        "P27-N1",
+        "P27-QAF01"
+      ],
+      "source_chapter_file": "source-chapters/ch02.txt",
+      "source_chapter_sha256": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+      "printed_pages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "source_chapter_printed_range": [
+        7,
+        25
+      ],
+      "boundary": "脚注明示虚构综合人物，不能当实际访谈或审计证词。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R06",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者以涨价和估计产量推消费者负担。",
+      "chapter": 2,
+      "source_fragment_ids": [
+        "P27-F06"
+      ],
+      "source_chapter_file": "source-chapters/ch02.txt",
+      "source_chapter_sha256": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+      "printed_pages": [
+        15,
+        16,
+        17
+      ],
+      "source_chapter_printed_range": [
+        7,
+        25
+      ],
+      "boundary": "38至52美分差14美分，却另用15美分乘三千万；保留420万与450万的原源冲突。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R07",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "规模节约、原料价格变化与控制价格可以同时影响利润。",
+      "chapter": 2,
+      "source_fragment_ids": [
+        "P27-F07"
+      ],
+      "source_chapter_file": "source-chapters/ch02.txt",
+      "source_chapter_sha256": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+      "printed_pages": [
+        21,
+        22,
+        23
+      ],
+      "source_chapter_printed_range": [
+        7,
+        25
+      ],
+      "boundary": "Standard所述降成本和公众节约为历史辩护主张，不能独自证明真实因果。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R08",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者反对Carnegie关于外部竞争必击破组合的乐观看法，并以大规模生产成本更低的论断预期托拉斯战胜独立制造商。",
+      "chapter": 2,
+      "source_fragment_ids": [
+        "P27-F08"
+      ],
+      "source_chapter_file": "source-chapters/ch02.txt",
+      "source_chapter_sha256": "60aaf4badf0ca1528c734519d4350b8cbaa37d4f68b4b1456ab6b908fd625fe2",
+      "printed_pages": [
+        24,
+        25
+      ],
+      "source_chapter_printed_range": [
+        7,
+        25
+      ],
+      "boundary": "作者和Carnegie的对立预测均须实际检验，不把最大厂必最便宜当定律。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：进入竞争能否瓦解组合取决于资金、工厂成本和既有规模优势。"
+    },
+    {
+      "id": "P27-R09",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者列纽约四种金属报价表，因铅价未显持续上涨而怀疑组织类型，并以锌价上升推测生产竞争受到限制。",
+      "chapter": 3,
+      "source_fragment_ids": [
+        "P27-F09"
+      ],
+      "source_chapter_file": "source-chapters/ch03.txt",
+      "source_chapter_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+      "printed_pages": [
+        28,
+        29
+      ],
+      "source_chapter_printed_range": [
+        26,
+        41
+      ],
+      "boundary": "表题1886至1888与实际1885至1889范围不同；锌快照均值并非自动等于全年均价。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：矿产品比较须保留全部年份、品种、缺数与计价单位。"
+    },
+    {
+      "id": "P27-R10",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "铜组合的收入推算依赖销量、价差、合同履行和资金条件。",
+      "chapter": 3,
+      "source_fragment_ids": [
+        "P27-F10",
+        "P27-N2"
+      ],
+      "source_chapter_file": "source-chapters/ch03.txt",
+      "source_chapter_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+      "printed_pages": [
+        30,
+        31,
+        32
+      ],
+      "source_chapter_printed_range": [
+        26,
+        41
+      ],
+      "boundary": "两美分乘四亿磅只是条件算式；末注补记组合已因产量与现金问题崩溃。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R11",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者列七家无烟煤铁路公司的产销量和收入，并描述其矿藏、运输与共同报价控制及名义废池后的实际不竞争。",
+      "chapter": 3,
+      "source_fragment_ids": [
+        "P27-F11",
+        "P27-N3"
+      ],
+      "source_chapter_file": "source-chapters/ch03.txt",
+      "source_chapter_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+      "printed_pages": [
+        33,
+        34,
+        35
+      ],
+      "source_chapter_printed_range": [
+        26,
+        41
+      ],
+      "boundary": "收入行和90,261,802与原表90,261,805差三美元，且部分数据估计；不得任意补行。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：煤铁路表可连接产量、运输与销售控制，但需逐行复算。"
+    },
+    {
+      "id": "P27-R12",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "控制资源不自动表示现价必不公，替代质量和运输条件必须区分。",
+      "chapter": 3,
+      "source_fragment_ids": [
+        "P27-F12"
+      ],
+      "source_chapter_file": "source-chapters/ch03.txt",
+      "source_chapter_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+      "printed_pages": [
+        35,
+        36,
+        37
+      ],
+      "source_chapter_printed_range": [
+        26,
+        41
+      ],
+      "boundary": "保留作者价格未必不公平的限定；不同煤种和地区不得当同一可替代商品。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R13",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "实际运输竞争需要同起终点的可替代路线，交汇站数量不能直接代替。",
+      "chapter": 4,
+      "source_fragment_ids": [
+        "P27-F13",
+        "P27-QAF02"
+      ],
+      "source_chapter_file": "source-chapters/ch04.txt",
+      "source_chapter_sha256": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+      "printed_pages": [
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "source_chapter_printed_range": [
+        42,
+        58
+      ],
+      "boundary": "百分之八的实际交汇比例与百分之十的上界、三千假设及共同所有权须保留口径。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R14",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "固定设施、闲置能力与增量成本会改变争夺新增流量的激励。",
+      "chapter": 4,
+      "source_fragment_ids": [
+        "P27-F14"
+      ],
+      "source_chapter_file": "source-chapters/ch04.txt",
+      "source_chapter_sha256": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+      "printed_pages": [
+        47,
+        48,
+        49
+      ],
+      "source_chapter_printed_range": [
+        42,
+        58
+      ],
+      "boundary": "低增量成本不等于所有新增业务净利润，也不能推出所有竞争必破产。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R15",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "共同费率可以面对成员暗中折让与背离的激励。",
+      "chapter": 4,
+      "source_fragment_ids": [
+        "P27-F15"
+      ],
+      "source_chapter_file": "source-chapters/ch04.txt",
+      "source_chapter_sha256": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+      "printed_pages": [
+        48,
+        49,
+        50
+      ],
+      "source_chapter_printed_range": [
+        42,
+        58
+      ],
+      "boundary": "行业参与者的历史说法和1888监管描述不是现代法律或完整对照研究。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R16",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "线路、关键通道、桥梁和电报网络的复制成本限制可行进入。",
+      "chapter": 4,
+      "source_fragment_ids": [
+        "P27-F16"
+      ],
+      "source_chapter_file": "source-chapters/ch04.txt",
+      "source_chapter_sha256": "83a147524e06010446c6f88b3d99ad0a55f208c494cfb47abf7ca2ccd939771d",
+      "printed_pages": [
+        56,
+        57,
+        58
+      ],
+      "source_chapter_printed_range": [
+        42,
+        58
+      ],
+      "boundary": "作者电报形成日期及所有竞争结果未独立全核；不得据旧叙述直接预测当前通信股。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R17",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者把城市街道设施视为必要而竞争有限，并描述公营供水与私企按最低用户费率竞得特许、保留城市未来收购选择的安排。",
+      "chapter": 5,
+      "source_fragment_ids": [
+        "P27-F17"
+      ],
+      "source_chapter_file": "source-chapters/ch05.txt",
+      "source_chapter_sha256": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+      "printed_pages": [
+        60,
+        61,
+        62
+      ],
+      "source_chapter_printed_range": [
+        59,
+        70
+      ],
+      "boundary": "作者的供水运营例外不能改成所有公共设施同一组织模式。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：城市供水、照明与交通需要区分所有权、运营权、特许期和收购选择。",
+      "cross_chapter_rule_refs": [
+        "P27-R67"
+      ]
+    },
+    {
+      "id": "P27-R18",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者列683家煤气公司价目和相应家数，认为整数报价显示竞争未把利润压缩到窄幅，并附产量收入及多地成本比较。",
+      "chapter": 5,
+      "source_fragment_ids": [
+        "P27-F18"
+      ],
+      "source_chapter_file": "source-chapters/ch05.txt",
+      "source_chapter_sha256": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+      "printed_pages": [
+        64,
+        65,
+        66
+      ],
+      "source_chapter_printed_range": [
+        59,
+        70
+      ],
+      "boundary": "相同报价不独自证明合谋，683家也不是全国全部企业完整样本。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：煤气价目表需要保留全部城市组、计数、未知价组及单位。"
+    },
+    {
+      "id": "P27-R19",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者用煤气公司总收入和总产量报告平均售价，随后比较制造、到气柜、送达消费者及不同国家的费用与价格。",
+      "chapter": 5,
+      "source_fragment_ids": [
+        "P27-F19"
+      ],
+      "source_chapter_file": "source-chapters/ch05.txt",
+      "source_chapter_sha256": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+      "printed_pages": [
+        64,
+        65,
+        66
+      ],
+      "source_chapter_printed_range": [
+        59,
+        70
+      ],
+      "boundary": "复算约1.76761美元每千立方英尺，与原书1.7671近似不同；制造、送达与零售价不得混用。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：销售收入除体积给平均价格，不等于单位净利润。"
+    },
+    {
+      "id": "P27-R20",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "便利设施会改变土地需求，地产稀缺和公众创造的区位收益需分别分析。",
+      "chapter": 5,
+      "source_fragment_ids": [
+        "P27-F20",
+        "P27-QAF03"
+      ],
+      "source_chapter_file": "source-chapters/ch05.txt",
+      "source_chapter_sha256": "f2ed8866b04a69b0172f3e850e3a99f78e028cbbf84a268dc6d77133d6d664fa",
+      "printed_pages": [
+        68,
+        69,
+        70
+      ],
+      "source_chapter_printed_range": [
+        59,
+        70
+      ],
+      "boundary": "百至十万美元为思想情景，既不是交易记录，也不说明一切农业土地均无竞争。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R21",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者说便利且廉价的铁路货运，加上邮政和快递，使乡村零售商面对城市直接供应的竞争，削弱旧交易渠道的力量。",
+      "chapter": 6,
+      "source_fragment_ids": [
+        "P27-F21",
+        "P27-QAF04"
+      ],
+      "source_chapter_file": "source-chapters/ch06.txt",
+      "source_chapter_sha256": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+      "printed_pages": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "source_chapter_printed_range": [
+        71,
+        86
+      ],
+      "boundary": "不得把一个行业集中推成整个经济竞争统一减弱；交通集中与其它交易渠道开放可同时发生，是第4与第6章合读后的现代综合，不冒称本段已测算集中效应。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：运输集中可以扩大消费者购买范围而削弱另一个行业的本地控制。",
+      "cross_chapter_rule_refs": [
+        "P27-R13",
+        "P27-R14",
+        "P27-R16"
+      ]
+    },
+    {
+      "id": "P27-R22",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者区分卖方竞争压价和买方竞争抬价，报告牛奶收购/售价及棉籽采购降价，并按约七十万吨推算超过二百万美元的采购差额。",
+      "chapter": 6,
+      "source_fragment_ids": [
+        "P27-F22"
+      ],
+      "source_chapter_file": "source-chapters/ch06.txt",
+      "source_chapter_sha256": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+      "printed_pages": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "source_chapter_printed_range": [
+        71,
+        86
+      ],
+      "boundary": "牛奶与棉籽价差估计、案件指控都不直接等于已审计净利润或既定违法。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：采购者力量和销售者力量可同时存在，买卖差价须拆解费用。"
+    },
+    {
+      "id": "P27-R23",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "临时囤积与组织性组合具有不同维持条件。",
+      "chapter": 6,
+      "source_fragment_ids": [
+        "P27-F23",
+        "P27-QAF05"
+      ],
+      "source_chapter_file": "source-chapters/ch06.txt",
+      "source_chapter_sha256": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+      "printed_pages": [
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "source_chapter_printed_range": [
+        71,
+        86
+      ],
+      "boundary": "永久是作者分类用语，不是寿命保证；小麦思想算式毛赚四十万还未扣费用。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R24",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "对进入者的投入品加价及局部压价可形成排除机制。",
+      "chapter": 6,
+      "source_fragment_ids": [
+        "P27-F24"
+      ],
+      "source_chapter_file": "source-chapters/ch06.txt",
+      "source_chapter_sha256": "83fb0b28346c775c2af45729029ab80747307e00d17442a24f17a2b5ef0d40c0",
+      "printed_pages": [
+        84,
+        85,
+        86
+      ],
+      "source_chapter_printed_range": [
+        71,
+        86
+      ],
+      "boundary": "历史所报行为是审查对象，不是专家执行排除策略的指令；同一案例跨章不加样本数。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R25",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者肯定专利奖励有益发明的目的，同时讨论设计知识、新颖性审查和大公司权利控制，另指控Bell封存改进及延长排他期。",
+      "chapter": 7,
+      "source_fragment_ids": [
+        "P27-F25",
+        "P27-QAF06"
+      ],
+      "source_chapter_file": "source-chapters/ch07.txt",
+      "source_chapter_sha256": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+      "printed_pages": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "source_chapter_printed_range": [
+        87,
+        101
+      ],
+      "boundary": "原书关于电话封存改进等指控并未取得完整判决独立证实。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：专利保护目标、法律有效性、技术优势与实际利用应分别核对。"
+    },
+    {
+      "id": "P27-R26",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "关税限制境外竞争，但不使所有受保护商品自动形成组合。",
+      "chapter": 7,
+      "source_fragment_ids": [
+        "P27-F26"
+      ],
+      "source_chapter_file": "source-chapters/ch07.txt",
+      "source_chapter_sha256": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+      "printed_pages": [
+        95,
+        96
+      ],
+      "source_chapter_printed_range": [
+        87,
+        101
+      ],
+      "boundary": "保留马铃薯反例及质量、运费、数量约束，援引当代关税须另查现行规则。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R27",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "全球联合和不受保护的产品限制单靠削减关税的补救范围。",
+      "chapter": 7,
+      "source_fragment_ids": [
+        "P27-F27"
+      ],
+      "source_chapter_file": "source-chapters/ch07.txt",
+      "source_chapter_sha256": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+      "printed_pages": [
+        99,
+        100,
+        101
+      ],
+      "source_chapter_printed_range": [
+        87,
+        101
+      ],
+      "boundary": "最后章节的强措辞不能覆盖本章国际铜、盐、钢及产品例外。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R28",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "公共融资与私营融资成本的假设用于比较制度条件。",
+      "chapter": 7,
+      "source_fragment_ids": [
+        "P27-F28",
+        "P27-QAF07"
+      ],
+      "source_chapter_file": "source-chapters/ch07.txt",
+      "source_chapter_sha256": "5a7bf5e44d672a02fa9d78bfcf954046e1cc87f950533fe26cb8fbaaac003ca7",
+      "printed_pages": [
+        100,
+        101
+      ],
+      "source_chapter_printed_range": [
+        87,
+        101
+      ],
+      "boundary": "百分之二至三与百分之五至七等旧情景不是当前利率、无风险保证或政府已实行项目。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R29",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者用合格铁路司机约三分之二联合的例子说明潜在议价力量，称其本可要求十美元日薪，却因没有采取极端手段而失败、约千人失职。",
+      "chapter": 8,
+      "source_fragment_ids": [
+        "P27-F29",
+        "P27-QAF08",
+        "P27-F32"
+      ],
+      "source_chapter_file": "source-chapters/ch08.txt",
+      "source_chapter_sha256": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+      "printed_pages": [
+        104,
+        105,
+        106,
+        107,
+        110,
+        111,
+        116,
+        117,
+        118
+      ],
+      "source_chapter_printed_range": [
+        102,
+        118
+      ],
+      "boundary": "1888铁路罢工中的十美元日薪是假设，不是实际工资获胜；作者记有失败及失业。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：技能稀缺和组织可能增强劳动议价，结果仍取决于替代与持续资金。"
+    },
+    {
+      "id": "P27-R30",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者以竞争日薪三美元、组合日薪五美元的砖工假设，论证额外工资通过建造费用、租金和减少建设及相关就业转给公众，并比作税。",
+      "chapter": 8,
+      "source_fragment_ids": [
+        "P27-F30"
+      ],
+      "source_chapter_file": "source-chapters/ch08.txt",
+      "source_chapter_sha256": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+      "printed_pages": [
+        105,
+        106,
+        107
+      ],
+      "source_chapter_printed_range": [
+        102,
+        118
+      ],
+      "boundary": "三至五美元示例的税是私人负担比喻，不能当法定税或已测净福利。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：工资提高、产出成本、价格传递与各参与者利益必须分开。"
+    },
+    {
+      "id": "P27-R31",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者认为工会互助保障减轻急迫出售劳动的压力，保护尊严，并推动机器安全、童工限制和工作卫生等改革；他也保留能力差异及组织失当的批评。",
+      "chapter": 8,
+      "source_fragment_ids": [
+        "P27-F31",
+        "P27-QAF08",
+        "P27-QAF09"
+      ],
+      "source_chapter_file": "source-chapters/ch08.txt",
+      "source_chapter_sha256": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+      "printed_pages": [
+        110,
+        111,
+        112,
+        113,
+        114
+      ],
+      "source_chapter_printed_range": [
+        102,
+        118
+      ],
+      "boundary": "不把旧生活改善等同于当前分配已公平，能力差异也须有实际证据。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：互助、保障、工时和尊严也是组织的作用。"
+    },
+    {
+      "id": "P27-R32",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "劳动供给的急迫性和雇主购买竞争不足会影响工资形成。",
+      "chapter": 8,
+      "source_fragment_ids": [
+        "P27-F32",
+        "P27-QAF08"
+      ],
+      "source_chapter_file": "source-chapters/ch08.txt",
+      "source_chapter_sha256": "adfb5b7c1d6dd9287282d1b27a0c9464bf1cf38f42b2aea517998ce0ed3b1676",
+      "printed_pages": [
+        110,
+        111,
+        116,
+        117,
+        118
+      ],
+      "source_chapter_printed_range": [
+        102,
+        118
+      ],
+      "boundary": "作者关于无技能者不能组织的强判断未现代验证，不用身份群体刻板印象作模型输入。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R33",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "职业人数表可描画作者的分类思路，不能替代所有权和收益登记。",
+      "chapter": 9,
+      "source_fragment_ids": [
+        "P27-F33",
+        "P27-N4",
+        "P27-QAF10"
+      ],
+      "source_chapter_file": "source-chapters/ch09.txt",
+      "source_chapter_sha256": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+      "printed_pages": [
+        119,
+        120,
+        121,
+        122
+      ],
+      "source_chapter_printed_range": [
+        119,
+        132
+      ],
+      "boundary": "制造贸易扣除类数后约401万，与另估所有者十万/百万不是同一精度。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R34",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者分别报告农场主、农业劳动者及含其他职业的农业总数，再比较可能受垄断影响与未垄断职业人数，并说明这不是一般贫富人数比较。",
+      "chapter": 9,
+      "source_fragment_ids": [
+        "P27-F34"
+      ],
+      "source_chapter_file": "source-chapters/ch09.txt",
+      "source_chapter_sha256": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+      "printed_pages": [
+        129,
+        130,
+        131
+      ],
+      "source_chapter_printed_range": [
+        119,
+        132
+      ],
+      "boundary": "农业合计与农场主加工人差120,672不能任意填类；比例不是净福利因果。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：不同就业表的行业范围与人员类别必须核实。"
+    },
+    {
+      "id": "P27-R35",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "采购协作与限制产品销售竞争是不同活动。",
+      "chapter": 9,
+      "source_fragment_ids": [
+        "P27-F35"
+      ],
+      "source_chapter_file": "source-chapters/ch09.txt",
+      "source_chapter_sha256": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+      "printed_pages": [
+        127,
+        128,
+        129
+      ],
+      "source_chapter_printed_range": [
+        119,
+        132
+      ],
+      "boundary": "作者所知少数农业联合并不证明历史仅存在这些实例。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R36",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者认为全球可贷财富供应广且容易转移，资本不可能被垄断；他把货币市场紧张排除于此资本竞争论，并预言百分之二贷款将如当时百分之四一样普遍。",
+      "chapter": 9,
+      "source_fragment_ids": [
+        "P27-F36"
+      ],
+      "source_chapter_file": "source-chapters/ch09.txt",
+      "source_chapter_sha256": "2b343ca304c02d609c876a4d89c0d789bb2c3869d7d5efc1fcf52608bc78e127",
+      "printed_pages": [
+        131,
+        132
+      ],
+      "source_chapter_printed_range": [
+        119,
+        132
+      ],
+      "boundary": "从未垄断、利率必下降等强预测未核，不可用作当前宏观硬阈值；全球可贷总量不等于个别借款人的实际可得性、抵押条件或信用价格，这是现代独立质疑，原作者未作此限定。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：全球资本竞争与具体借款人的实际可达融资不同。"
+    },
+    {
+      "id": "P27-R37",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者先归纳竞争定价、组合限制和稀缺优势造成的报酬差别，再从行业事实转向竞争原理，以研究一般补救；原始分工故事是其解释框架。",
+      "chapter": 10,
+      "source_fragment_ids": [
+        "P27-F37",
+        "P27-QAF11"
+      ],
+      "source_chapter_file": "source-chapters/ch10.txt",
+      "source_chapter_sha256": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+      "printed_pages": [
+        133,
+        134,
+        135,
+        136
+      ],
+      "source_chapter_printed_range": [
+        133,
+        144
+      ],
+      "boundary": "原始社会与性别叙事无完整实证，不用作人群或股票特征。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：竞争机制的理论分析需要区分生产、分配与政策价值。"
+    },
+    {
+      "id": "P27-R38",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "货币作为共同财富索取凭证是作者在排除货币理论问题后的比喻。",
+      "chapter": 10,
+      "source_fragment_ids": [
+        "P27-F38"
+      ],
+      "source_chapter_file": "source-chapters/ch10.txt",
+      "source_chapter_sha256": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+      "printed_pages": [
+        136,
+        137,
+        138,
+        139
+      ],
+      "source_chapter_printed_range": [
+        133,
+        144
+      ],
+      "boundary": "不能据此认定市场付款等于社会贡献或每笔销售提高福利。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R39",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者认为供需改变价格，价格又反向影响供需；较高职业回报吸引人转入，并以买卖双方竞争描述回复通常状态的机制。",
+      "chapter": 10,
+      "source_fragment_ids": [
+        "P27-F39",
+        "P27-QAF12"
+      ],
+      "source_chapter_file": "source-chapters/ch10.txt",
+      "source_chapter_sha256": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+      "printed_pages": [
+        138,
+        139,
+        140,
+        141
+      ],
+      "source_chapter_printed_range": [
+        133,
+        144
+      ],
+      "boundary": "原书没有估计日频系数，不输出自动均值回归或概率。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：供求和回报反馈提供方向性机制，需要时间、弹性和约束条件。"
+    },
+    {
+      "id": "P27-R40",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者以假设的管理者能力分布和管理者、熟练工、普通工的不同消费金额，说明服务供需与愿付价格决定报酬，并区分这与实际社会益处。",
+      "chapter": 10,
+      "source_fragment_ids": [
+        "P27-F40"
+      ],
+      "source_chapter_file": "source-chapters/ch10.txt",
+      "source_chapter_sha256": "12cac7cef765389d6b977f8b8eba06c42952b5c6167bf45a6cad3a373178708d",
+      "printed_pages": [
+        139,
+        140,
+        141
+      ],
+      "source_chapter_printed_range": [
+        133,
+        144
+      ],
+      "boundary": "五千分项及工人工资的年度天数未全给；价格收入不能直接测伦理价值。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：经理收入分解与个人消费比较是理论示例。"
+    },
+    {
+      "id": "P27-R41",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "竞争七法则表达作者的定性关系，并非精确数学函数。",
+      "chapter": 11,
+      "source_fragment_ids": [
+        "P27-F41"
+      ],
+      "source_chapter_file": "source-chapters/ch11.txt",
+      "source_chapter_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+      "printed_pages": [
+        151,
+        152
+      ],
+      "source_chapter_printed_range": [
+        145,
+        161
+      ],
+      "boundary": "单位数、强度、浪费和垄断的派生关系不是七份独立经验胜率。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R42",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "每单位资本及其中利息等固定支出会改变继续经营与价格战条件。",
+      "chapter": 11,
+      "source_fragment_ids": [
+        "P27-F42"
+      ],
+      "source_chapter_file": "source-chapters/ch11.txt",
+      "source_chapter_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+      "printed_pages": [
+        152,
+        153
+      ],
+      "source_chapter_printed_range": [
+        145,
+        161
+      ],
+      "boundary": "沉没资本不产生无限现金，不保证融资或所有行业同一结果。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R43",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "资源稀缺、质量和位置不平等可以形成有替代边界的市场力量。",
+      "chapter": 11,
+      "source_fragment_ids": [
+        "P27-F43",
+        "P27-F44"
+      ],
+      "source_chapter_file": "source-chapters/ch11.txt",
+      "source_chapter_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+      "printed_pages": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158
+      ],
+      "source_chapter_printed_range": [
+        145,
+        161
+      ],
+      "boundary": "相对成本优势不必等于唯一卖方或违法；道德权利与事实机制分开。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R44",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "实际竞争、潜在进入和特许权竞标发生在不同阶段。",
+      "chapter": 11,
+      "source_fragment_ids": [
+        "P27-F44",
+        "P27-QAF13"
+      ],
+      "source_chapter_file": "source-chapters/ch11.txt",
+      "source_chapter_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+      "printed_pages": [
+        157,
+        158
+      ],
+      "source_chapter_printed_range": [
+        145,
+        161
+      ],
+      "boundary": "最高特许出价不自动是最低消费者费率；原图是关系框架而非预测权重。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R45",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "分配、需求不足和生产调整之间有条件联系。",
+      "chapter": 12,
+      "source_fragment_ids": [
+        "P27-F45",
+        "P27-QAF14"
+      ],
+      "source_chapter_file": "source-chapters/ch12.txt",
+      "source_chapter_sha256": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf",
+      "printed_pages": [
+        163,
+        164,
+        172,
+        173
+      ],
+      "source_chapter_printed_range": [
+        162,
+        182
+      ],
+      "boundary": "作者不把所有萧条都归于同一原因；个人财富估计非全账本。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R46",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者引用Alexander批评铁路证券投机，认为小持有人受控制权不足及证券损失影响退出，财富趋于集中，并比较小储蓄者利息与大资本的较高收益。",
+      "chapter": 12,
+      "source_fragment_ids": [
+        "P27-F46",
+        "P27-N5",
+        "P27-QAF15"
+      ],
+      "source_chapter_file": "source-chapters/ch12.txt",
+      "source_chapter_sha256": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf",
+      "printed_pages": [
+        168,
+        169,
+        170
+      ],
+      "source_chapter_printed_range": [
+        162,
+        182
+      ],
+      "boundary": "作者关于所有巨富或小投资者的绝对措辞未全证实，不当现代一律禁投规则。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：股票财富、利息收入和投机行为的评价应保留对象和风险口径。"
+    },
+    {
+      "id": "P27-R47",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "重复线路成本可用于反事实资源用途比较。",
+      "chapter": 12,
+      "source_fragment_ids": [
+        "P27-F47"
+      ],
+      "source_chapter_file": "source-chapters/ch12.txt",
+      "source_chapter_sha256": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf",
+      "printed_pages": [
+        177,
+        178,
+        179
+      ],
+      "source_chapter_printed_range": [
+        162,
+        182
+      ],
+      "boundary": "资本的百分之五不等于里程的百分之五；住房、维修和就业是思想预算，不是已实施产出。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R48",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者报告纽约1886和1887罢工的直接现金成本，再推估全国年成本，并另叙购买力、投资风险和其它行业受到的间接影响。",
+      "chapter": 12,
+      "source_fragment_ids": [
+        "P27-F48"
+      ],
+      "source_chapter_file": "source-chapters/ch12.txt",
+      "source_chapter_sha256": "cc39435a8a0a1283298ac0449c2808f4cfefcc8f66b45083ab9595e2b33648cf",
+      "printed_pages": [
+        179,
+        180,
+        181
+      ],
+      "source_chapter_printed_range": [
+        162,
+        182
+      ],
+      "boundary": "地区与年份范围不同，外推未给完整方法，十倍危机损失不设成实际乘数。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：直接罢工现金损失与间接损失、全国外推须分开。"
+    },
+    {
+      "id": "P27-R49",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "道德与互助可以缓和冲突，作者仍要求现实制度约束。",
+      "chapter": 13,
+      "source_fragment_ids": [
+        "P27-F49"
+      ],
+      "source_chapter_file": "source-chapters/ch13.txt",
+      "source_chapter_sha256": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+      "printed_pages": [
+        188,
+        189
+      ],
+      "source_chapter_printed_range": [
+        183,
+        195
+      ],
+      "boundary": "宗教期望是作者规范观，不是已估计价格因果或群体特征。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R50",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "利润最大价格与最大公众便利价格可以不同。",
+      "chapter": 13,
+      "source_fragment_ids": [
+        "P27-F50"
+      ],
+      "source_chapter_file": "source-chapters/ch13.txt",
+      "source_chapter_sha256": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+      "printed_pages": [
+        183,
+        184,
+        185
+      ],
+      "source_chapter_printed_range": [
+        183,
+        195
+      ],
+      "boundary": "电车十与五美分是思想情景，未给真实弹性或利润函数。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R51",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者把高于竞争基准的工资、亏本维持就业、慈善、合作住房及公众对苛刻契约的批评，列作博爱减轻社会冲突的方式，也说这些作用仍不足。",
+      "chapter": 13,
+      "source_fragment_ids": [
+        "P27-F51"
+      ],
+      "source_chapter_file": "source-chapters/ch13.txt",
+      "source_chapter_sha256": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+      "printed_pages": [
+        190,
+        191,
+        192
+      ],
+      "source_chapter_printed_range": [
+        183,
+        195
+      ],
+      "boundary": "好名声或捐赠不独自证明合同、工资或价格公平。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：商业责任、慈善与成员团结不能相互抵销对外部人的影响。"
+    },
+    {
+      "id": "P27-R52",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "应检验行为和效果，并避免用人身与阶级攻击代替证据。",
+      "chapter": 13,
+      "source_fragment_ids": [
+        "P27-F52"
+      ],
+      "source_chapter_file": "source-chapters/ch13.txt",
+      "source_chapter_sha256": "55bb27ac4d003018848de42048890f88006afe83ba78e13b54ee35a16ee87a6f",
+      "printed_pages": [
+        194,
+        195
+      ],
+      "source_chapter_printed_range": [
+        183,
+        195
+      ],
+      "boundary": "理解组织动机不取消责任，作者对各类领导者的概括不作模型身份特征。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R53",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "纯个人主义与纯集体统筹是抽象极端，作者主张具体安排结合两者。",
+      "chapter": 14,
+      "source_fragment_ids": [
+        "P27-F53",
+        "P27-QAF16"
+      ],
+      "source_chapter_file": "source-chapters/ch14.txt",
+      "source_chapter_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+      "printed_pages": [
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "source_chapter_printed_range": [
+        196,
+        212
+      ],
+      "boundary": "不能把全部真实思想流派都归入其极端素描。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R54",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者认为新增一家对手会因激烈竞争和浪费而归并，至多暂时缓解；他也认为只靠旧式竞争协议无司法保护，不能长久制止集中。",
+      "chapter": 14,
+      "source_fragment_ids": [
+        "P27-F54",
+        "P27-QAF17"
+      ],
+      "source_chapter_file": "source-chapters/ch14.txt",
+      "source_chapter_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+      "printed_pages": [
+        204,
+        205,
+        206,
+        207,
+        208
+      ],
+      "source_chapter_printed_range": [
+        196,
+        212
+      ],
+      "boundary": "作者称所有进入与司法都终将无效，须与第十五章过渡期仍有用的说法并列。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：补救必须面对行业中可持续进入与竞争本身的约束。"
+    },
+    {
+      "id": "P27-R55",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者说间接缓和竞争的立法尚待验证，又称州际商务法禁联营及扩大竞争反而加速铁路集中，以此说明政策可能有反向后果。",
+      "chapter": 14,
+      "source_fragment_ids": [
+        "P27-F55"
+      ],
+      "source_chapter_file": "source-chapters/ch14.txt",
+      "source_chapter_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+      "printed_pages": [
+        208,
+        209
+      ],
+      "source_chapter_printed_range": [
+        196,
+        212
+      ],
+      "boundary": "重复同一个历史案例不是新增独立验证；旧法律状态不能替代现行法。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：作者以铁路法讨论间接减轻竞争压力的可能作用。"
+    },
+    {
+      "id": "P27-R56",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "公有、私人运营及直接监管的适用性要看服务、成本与管理条件。",
+      "chapter": 14,
+      "source_fragment_ids": [
+        "P27-F56",
+        "P27-QAF18"
+      ],
+      "source_chapter_file": "source-chapters/ch14.txt",
+      "source_chapter_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2",
+      "printed_pages": [
+        209,
+        210,
+        211,
+        212
+      ],
+      "source_chapter_printed_range": [
+        196,
+        212
+      ],
+      "boundary": "作者政府干预必总体有益的强信念未经全面对照检验。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R57",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者区分劳动成果的自然权利与自然资源/公共特许的公共原始权益，支持私人转让的便利，同时主张公共必要时可控制并顾及契约与业主权利。",
+      "chapter": 15,
+      "source_fragment_ids": [
+        "P27-F57",
+        "P27-QAF19"
+      ],
+      "source_chapter_file": "source-chapters/ch15.txt",
+      "source_chapter_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+      "printed_pages": [
+        215,
+        216,
+        217,
+        218
+      ],
+      "source_chapter_printed_range": [
+        213,
+        226
+      ],
+      "boundary": "政策正当性主张不等于现行司法结论或运营成功；方案保留补偿。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：自然资源、劳动成果、契约与公共控制的权利论证须分别定位。"
+    },
+    {
+      "id": "P27-R58",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "公共需要与私人权利冲突时，作者用补偿阐释公共项目。",
+      "chapter": 15,
+      "source_fragment_ids": [
+        "P27-F58"
+      ],
+      "source_chapter_file": "source-chapters/ch15.txt",
+      "source_chapter_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+      "printed_pages": [
+        218,
+        219
+      ],
+      "source_chapter_printed_range": [
+        213,
+        226
+      ],
+      "boundary": "Croton新增项目是设想，不是已发生数千户迁移。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R59",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者用假设地段总值七十亿美元、至少三百五十万业主及跨两世纪约二十人分享各地增值，论证农业地利益广泛分散、无需因不绝对平等而扰乱私营。",
+      "chapter": 15,
+      "source_fragment_ids": [
+        "P27-F59"
+      ],
+      "source_chapter_file": "source-chapters/ch15.txt",
+      "source_chapter_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+      "printed_pages": [
+        222,
+        223
+      ],
+      "source_chapter_printed_range": [
+        213,
+        226
+      ],
+      "boundary": "七十亿地块价值是假定；二十份推七千万人不是同年登记或再乘家庭系数。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：土地财富均分论证需要分别记录价值假设、业主与分割人数。"
+    },
+    {
+      "id": "P27-R60",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "司法与新增竞争者在过渡期仍可起作用，是作者后段保留的限定。",
+      "chapter": 15,
+      "source_fragment_ids": [
+        "P27-F60"
+      ],
+      "source_chapter_file": "source-chapters/ch15.txt",
+      "source_chapter_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+      "printed_pages": [
+        224,
+        225
+      ],
+      "source_chapter_printed_range": [
+        213,
+        226
+      ],
+      "boundary": "与前章近乎全无效的措辞有张力，不能硬编码反竞争与诉讼一律零作用。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R61",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "一般主张与实践方案的可错性不同，具体条件改变可能需调整制度。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F61"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        227,
+        228
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "全章方案没有被本书证明实施成功，不当已执行制度。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R62",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者建议政府持铁路设施法律名义、私企租营，按重建成本扣折旧收约3.25%租金，以3%二十五年担保债融资；溢价与0.25个百分点费用形成基金，到期再估值发债。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F62",
+        "P27-F63"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "3.25减3的四分之一个百分点并不消除政府担保责任，25年后仍需发新债。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：铁路租金、债息、基金及再融资基数须逐项核对。"
+    },
+    {
+      "id": "P27-R63",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者设三百万美元买路、收6%租金、付3%十年债息，断言期末租金超过债息的积累足以注销一百万债，再续剩余部分；他并未明示复投率或时点。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F63"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        230,
+        231,
+        232,
+        233
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "简单九十万小于目标百万；约103万需另假定每年末以3%复投；复投时点、利率、费用及违约的核查为现代独立分析，不是作者明示的计算条件。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：铁路虚增资本的十年偿还计算取决于差额复投与实际支出。"
+    },
+    {
+      "id": "P27-R64",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "费率调整包含一年与连续两年联合条件及尽责证据。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F64",
+        "P27-N6"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        233,
+        234,
+        235,
+        236,
+        237
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "9/8与8/7是两分支，后者另需证明浪费；股利基数非市场购股价格；相对商品运费并非一律相同物理成本，见完整末注六。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R65",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者预期三万英里公司的固定费率收入及股价稳定，称通过调价维护收入可使破产不可能，又承认方案细节仍会留下滥用漏洞。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F65"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        236,
+        237,
+        238
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "破产不可能是未检验的保证；基金耗尽、再融资和成本冲击都不能默认零；现金、需求、支付时点和再融资压力检查为现代独立分析；原作者的无破产断言仍准确保留为待质疑主张。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：集中公司被作者视为稳定，但风险需要现金与需求情景验证。"
+    },
+    {
+      "id": "P27-R66",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "矿业租赁须区分煤铁集中方案与铜锌铅短期低售价投标方案。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F66",
+        "P27-QAF20"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        238,
+        239,
+        240,
+        241
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "一个投标者必破组合、资源价值必涨都只是作者预期。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R67",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "市政公有与运营安排并非全同，供水有公营例外。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F67",
+        "P27-QAF21"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "小城最高租金投标和大城有条件费率调整不同，也不自动确保最低用户价格。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R68",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者设通勤每天往返十二美分降到每次三美分、年省十八或家庭二十五美元；又设Polis按五年证券均价购水务，以3%十年债、6%收入使债务减少超过三分之一。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F68"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        243,
+        244,
+        245
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "Polis是虚构例；30%简单差额与34.39%复投不同，通勤18美元隐含300天；上述复算、分母及工作日核查为现代独立分析，原作者未明示全部条件。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：市政收购债务偿还需确认购价、利率基数、工作日和积累假设。"
+    },
+    {
+      "id": "P27-R69",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "统一待遇与绝对价格水平是两类约束，潜在进入效果取决于进入成本。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F69",
+        "P27-QAF22"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "同价不证明低价；质量、运输与服务差异未全规定，不能直接照搬现代筛选。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    },
+    {
+      "id": "P27-R70",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "作者建议禁止虚增资本、限定一般公司两类证券、禁止公司互持证券，并要求组合公布年收入支出利润，让公众区分实际资本收益50%与5%及潜在自建供应。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F70",
+        "P27-QAF23"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        254,
+        255,
+        256
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "限制证券类别与交叉持有是旧建议，不是当前一律违法或排除标准。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "independent_analysis": "原规则的现代审核用途（不是作者明示原意）：公开资本、收入支出、层级与关联控制有助于检验收益基数。"
+    },
+    {
+      "id": "P27-R71",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "贸易限制合同的法律边界在作者选录判词中已部分修改。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F71",
+        "P27-QAF17"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        255,
+        256,
+        257
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "第十四章全无保护与此有张力；未读完整判决，不能认定当前合谋合法。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false,
+      "additional_chapter_sources": [
+        {
+          "chapter": 14,
+          "source_fragment_id": "P27-QAF17",
+          "printed_pages": [
+            207,
+            208
+          ],
+          "source_file": "source-chapters/ch14.txt",
+          "source_file_sha256": "e0aed14847a76a0ff1e134f330459a92fa1004cba869bd3aca81453f380e90f2"
+        }
+      ]
+    },
+    {
+      "id": "P27-R72",
+      "kind": "author_semantic_paraphrase_with_explicit_review_boundary",
+      "author_meaning": "工资持股与双向通知补偿方案同时包含雇主和劳动者义务。",
+      "chapter": 16,
+      "source_fragment_ids": [
+        "P27-F72"
+      ],
+      "source_chapter_file": "source-chapters/ch16.txt",
+      "source_chapter_sha256": "893248c78f7eeff1edc3bf853f0f3dbfd991c22347a2d4aa2562f63e9cde1618",
+      "printed_pages": [
+        260,
+        261,
+        262
+      ],
+      "source_chapter_printed_range": [
+        227,
+        263
+      ],
+      "boundary": "面值返还依赖付款能力，未给确切天数比例；就业与储蓄集中风险须另作现代检验。",
+      "missing_required_evidence_action": "abstain",
+      "historical_numbers_as_modern_parameters": false,
+      "predictive_validity_verified": false
+    }
+  ],
+  "abstain_conditions": [
+    "仅公司数而无真实替代路线及共同所有权",
+    "将作者设想/引文当已实施或已裁决事实",
+    "核心表格不闭合或分母不明",
+    "历史百分比直接作今日买卖或REGIME参数",
+    "同一历史故事被当多份独立证据",
+    "K线或成交量被称真实机构净流",
+    "分析对象、地区、单位或日期无法对应"
+  ],
+  "cross_challenge_questions": [
+    "利润来自成本节约、稀缺还是采购或销售控制，有什么反证？",
+    "消费者价格与生产者收益是否使用同范围、时间和质量？",
+    "公司数、交汇数和真实同起终点路线为何不同？",
+    "设施固定成本大，是否仍有现金和融资支付约束？",
+    "行业集中是否同时让另一个行业开放？",
+    "同一个铜组合或铁路故事是否已被其他书引用？",
+    "这是作者虚构、参与者辩护、审计账册还是判决结果？",
+    "政府在提议、立法、执行还是作者预测哪一阶段？",
+    "担保费差额足以覆盖管理、违约和再融资吗？",
+    "最高特许出价为何能推出最低用户费率？",
+    "跨章强说法是否被后段例外或更新削弱？",
+    "劳动工资、商品成本和社会净福利是否混为一值？"
+  ],
+  "system_prompt": "你依据Baker完整16章与作者前后材料的可审查档案审核市场结构和政策证据。先固定证券、可得日期、期限、地区、数量与价格单位。每项引用book/chapter/source_fragment_ids，并区分作者主张、手写数值复核、现代设计与当前数据。保留铜组合崩溃末注，虚构综合发起者身份，表差及未知值，竞争/司法在过渡期仍有用等跨章张力。区分效率与收益归属、实际与潜在竞争、最高投标与最低消费者费率、债券利息与市场购股收益。所有旧方案都需现行权利及实际执行证据；无风险/必破产/必涨等作者强断言不能直接授权。固定成本不等于无限现金，K线不是真实机构流量，同一案例多书引用不可增加独立样本数。跨挑战必须给替代解释、反证和修订痕迹，不能多数投票抹掉来源冲突。现代REGIME与风险层独立否决，缺少关键数据弃权；未运行实验不能输出已校准概率、训练或40模型实跑声明。",
+  "output_contract": [
+    "claim_id",
+    "book_rule_refs",
+    "source_fragment_ids",
+    "object_asof_horizon",
+    "author_meaning",
+    "current_observations_with_first_available_at",
+    "conditional_hypothesis",
+    "alternate_explanations",
+    "falsifiers",
+    "missing_inputs",
+    "revision_log",
+    "status_supported_partial_or_abstain"
+  ],
+  "predictive_probability": null,
+  "predictive_probabilities_calibrated": false,
+  "current_stock_direction_enabled": false,
+  "model_calls_executed": 0,
+  "modern_backtest_completed": false,
+  "risk_authority": "独立REGIME与风险层，需要当前有效市场数据",
+  "independent_candidate_metadata": {
+    "all16_primary_chapters_and_drafts_full_compared": true,
+    "whole_front_back6notes_license_and_synthesis_read": true,
+    "all72_rules_and78_old_attached_fragments_full_compared": true,
+    "original_expert_sha256": "60a3fa01d9a0712aac44b98a1ed869b9daba0c9663cf1943aedb64a7bef1a36b",
+    "candidate_not_canonical": false,
+    "parent_author_merge_pending": false,
+    "all_original_page_glyphs_independently_proofread": false,
+    "predictions_models_backtests_executed": 0,
+    "generated_at_utc": "2026-10-12T23:33:16.574252+00:00",
+    "modern_rule_audit_intent_retained_in_independent_analysis": true,
+    "root_all48_rule_changes_actually_read": true,
+    "root_all23_new_exact_source_spans_actually_read": true,
+    "root_5_critical_existing_source_spans_reread": true,
+    "boundary_punctuation_cleanup_semantics_unchanged": true,
+    "root_every_glyph_reproofread": false,
+    "final_independent_merge_recheck_passed": true,
+    "independent_QA_file": "independent-QA.json",
+    "independent_QA_sha256": "ab808f9c0e9033786e84232d7b4bcdb671352cf3ee42349b89a3f2eaad380ea7"
+  },
+  "goal_completion_status_sync": {
+    "final_status_authority_external": "work/stock_app_v5/goal-completion-status-sync-confirmation.json",
+    "scope": "Status-only closure from immutable actual prior semantic-review evidence; no new full source reading, author rule changes, all-glyph or model execution claim."
+  }
+}

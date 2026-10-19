@@ -1,0 +1,97 @@
+{
+  "book_id": "P38",
+  "chapter": 2,
+  "checked_utc": "2026-10-12T15:17:54.982066+00:00",
+  "original_source_preserved": true,
+  "issues": [
+    {
+      "id": "P38-C02-I01",
+      "printed_page": 40,
+      "status": "internally_inconsistent_scope",
+      "original": "Privatecompanies no shareholders; glossary later publicorprivatecorporation shares",
+      "handling": "Do notinfer noownershares from private/notlisted; resolveactuallegalentity"
+    },
+    {
+      "id": "P38-C02-I02",
+      "printed_page": 42,
+      "status": "LLC_name_tax_scope_and_LP_LLP_mixed",
+      "original": "Limited liability corporation; bothhybrids taxedpartnership; LLPgeneral/limitedpartnerparagraph",
+      "handling": "FormalLLC meansCompany; IRSpermits classification/electionalternatives; LP/LLPnotinterchangeable and statelawscope matters",
+      "primary_urls": [
+        "https://www.irs.gov/publications/p3402",
+        "https://www.sba.gov/counseling/launch-your-business/"
+      ]
+    },
+    {
+      "id": "P38-C02-I03",
+      "printed_pages": [
+        43,
+        44
+      ],
+      "status": "parent_subsidiary_identity",
+      "original": "AmazonLLC openingbox vs nextpage Amazon.comServicesLLC subsidiaryofAmazon.comInc",
+      "handling": "Keep qualifier, no subsidiary/issueridentitymix"
+    },
+    {
+      "id": "P38-C02-I04",
+      "printed_page": 45,
+      "status": "shareclass_terms_overgeneralized",
+      "original": "Allpreferred nonvotingfixedannualdividend; commonmanagementcontrol",
+      "handling": "Teachingoutline notallactual sharecharters; currentsecurityrights requireterms, no unconditionalvote/dividendrule"
+    },
+    {
+      "id": "P38-C02-I05",
+      "printed_page": 47,
+      "status": "filing_does_not_mean_SEC_approval",
+      "original": "SEC approveinitialsale securities",
+      "handling": "SEC explainsfilingisnotofferingapproval orassessmentinvestmentmerits",
+      "primary_url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/investor-alert-beware-claims-sec-has-approved-offerings"
+    },
+    {
+      "id": "P38-C02-I06",
+      "printed_page": 51,
+      "status": "counterparty_identity_mixed",
+      "original": "Investorsversuscreditors section callsbondholders investorsvscreditors",
+      "handling": "Riskshifting passage is equityholder/manager versuslender incentives; bondholders themselvesare creditors, notnewdistinctside"
+    },
+    {
+      "id": "P38-C02-I07",
+      "printed_pages": [
+        53,
+        54
+      ],
+      "status": "no_empirical_ESG_returnstudy_in_body",
+      "original": "SomebelievehighESGsuperior; eachfactor important; onlystartingpoint",
+      "handling": "No dataset/control/reportedreturn table; do notinventalpha orvalidatedequalweights"
+    },
+    {
+      "id": "P38-C02-I08",
+      "printed_pages": [
+        55,
+        61
+      ],
+      "status": "10Q_quarters_and_deadlines_overgeneralized",
+      "original": "All10Q45days eachquarter; glossaryquarterlyreportfourtimes yearly10Q",
+      "handling": "OfficialForm10Q GeneralInstructionA coversfirst3quarters;40daysaccelerated/largeaccelerated,45other; nofourthquarter10Q",
+      "primary_url": "https://www.sec.gov/files/form10-q.pdf"
+    },
+    {
+      "id": "P38-C02-I09",
+      "printed_pages": [
+        48,
+        49,
+        57
+      ],
+      "status": "roles_standards_and_jurisdiction_require_scope",
+      "original": "Auditcommitteedoesaudit; independentdefinition; broadinternationalboards/IFRS",
+      "handling": "Differentiateoversight/execution, formalindependencecurrentrules, accountingstandardsandregulators; sourceis notcompletelegaltest"
+    },
+    {
+      "id": "P38-C02-I10",
+      "printed_page": 65,
+      "status": "external_video_content_not_read",
+      "original": "LEARR videoquestionwithout expansioninbody",
+      "handling": "Allquestionwordsread; expansionnotinvented andlinkedvideosnotcountedasfullreading"
+    }
+  ]
+}

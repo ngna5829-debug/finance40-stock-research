@@ -1,0 +1,343 @@
+{
+  "figure62_repeated_ClearLake_BS_IS_cells": "Every imagecell checked against chapter5 stored originalnumbers; samefigured simplifiednotallpossibleaccounts",
+  "averageAR": 25000.0,
+  "credit100000_ART": 4.0,
+  "substituteall120000_netSales_ART": 4.8,
+  "figure63_allcells": {
+    "A_begin_end_credit": [
+      50000,
+      80000,
+      550000
+    ],
+    "B_begin_end_credit": [
+      60000,
+      90000,
+      460000
+    ],
+    "A_printed_ART": 8.46,
+    "B_printed_ART": 6.13,
+    "A_recalc": 8.461538461538462,
+    "B_recalc": 6.133333333333334
+  },
+  "dated_cycles": {
+    "inventoryReceipt": "June1",
+    "soldBy": "July15",
+    "collected": "August15",
+    "printed_OCdays": 45,
+    "printed_CashDays": 75,
+    "exclusive_date_diff_days": [
+      44,
+      75
+    ],
+    "payables_day_unknown": true,
+    "book_cycle_definitions_internallyconflicting": true
+  },
+  "avgAssets": 225000.0,
+  "assetTurnover": 0.5333333333333333,
+  "avgInventory": 37500.0,
+  "inventoryTurnover": 1.6,
+  "daysInventory_asprinted_endingbased": 243.33333333333331,
+  "daysInventory_averagebased": 228.125,
+  "both_formulas_not_same_series": true,
+  "liquidity_ratios": {
+    "current": 2.0,
+    "quick": 1.6,
+    "cash": 1.1,
+    "shorttermi20000_notautomaticallycashequivalent": true
+  },
+  "solvency_ratios": {
+    "totalL_A": 0.6,
+    "totalL_E_correct": 1.5,
+    "printed_DE_numerator150000plus50000_recalc": 2.0,
+    "printed_DE_result1_5_conflict": true,
+    "TIE": 21.5
+  },
+  "expansion_covenant": {
+    "A": 2400000,
+    "L": 600000,
+    "E": 1800000,
+    "equipment_need": 400000,
+    "maximum_L_E": 0.5,
+    "original_ratio": 0.3333333333333333,
+    "borrow_new_ratio": 0.5555555555555556,
+    "stock_new_ratio": 0.2727272727272727,
+    "book_borrow_0_55_isrounded_not_exact": true,
+    "actualcovenantforrealissuer_unknown": true
+  },
+  "weightedshares_fig66_allcells": {
+    "row1": [
+      600,
+      "3/12",
+      150
+    ],
+    "row2": [
+      1600,
+      "9/12",
+      1200
+    ],
+    "total": 1350,
+    "calculated": 1350.0
+  },
+  "EPS_cases": {
+    "NI_current35000_pref5000_common6000_shares8000": 3.75,
+    "NI_prior30000_pref3000_shares10550": 2.559241706161137,
+    "NI_two_prior27000_pref2500_shares11100": 2.2072072072072073,
+    "commonDividendnot_subtracted": true,
+    "issue_buyback_dates_weighted_required": true
+  },
+  "figure67_all_three_year_cells": [
+    {
+      "row": "netSales",
+      "current": 120000,
+      "prior": 100000,
+      "twoYearsPrior": 90000
+    },
+    {
+      "row": "COGS",
+      "current": 60000,
+      "prior": 50000,
+      "twoYearsPrior": 45000
+    },
+    {
+      "row": "grossProfit",
+      "current": 60000,
+      "prior": 50000,
+      "twoYearsPrior": 45000
+    },
+    {
+      "row": "rent",
+      "current": 5500,
+      "prior": 5000,
+      "twoYearsPrior": 5000
+    },
+    {
+      "row": "depreciation",
+      "current": 3600,
+      "prior": 2500,
+      "twoYearsPrior": 2000
+    },
+    {
+      "row": "salaries",
+      "current": 5400,
+      "prior": 3000,
+      "twoYearsPrior": 2750
+    },
+    {
+      "row": "utilities",
+      "current": 2500,
+      "prior": 1500,
+      "twoYearsPrior": 1250
+    },
+    {
+      "row": "operatingIncome",
+      "current": 43000,
+      "prior": 38000,
+      "twoYearsPrior": 34000
+    },
+    {
+      "row": "interest",
+      "current": 2000,
+      "prior": 3000,
+      "twoYearsPrior": 2000
+    },
+    {
+      "row": "tax",
+      "current": 6000,
+      "prior": 5000,
+      "twoYearsPrior": 5000
+    },
+    {
+      "row": "NI",
+      "current": 35000,
+      "prior": 30000,
+      "twoYearsPrior": 27000
+    },
+    {
+      "row": "weightedCommonShares",
+      "current": 8000,
+      "prior": 10550,
+      "twoYearsPrior": 11100
+    },
+    {
+      "row": "basicEPS",
+      "current": 3.75,
+      "prior": 2.56,
+      "twoYearsPrior": 2.21
+    },
+    {
+      "row": "commonDividends",
+      "current": 6000,
+      "prior": 4000,
+      "twoYearsPrior": 3500
+    },
+    {
+      "row": "preferredDividends",
+      "current": 5000,
+      "prior": 3000,
+      "twoYearsPrior": 2500
+    }
+  ],
+  "market_ratios": {
+    "price": 69.41,
+    "EPS": 3.75,
+    "PE": 18.509333333333334,
+    "totalE": 100000,
+    "preferredE": 20000,
+    "commonShares": 8000,
+    "bookPerShare": 10.0,
+    "priceBook": 6.941,
+    "bookVsPEcomparison_uniterror": true,
+    "higherPriceThanBook_notunconditionalovervaluation": true
+  },
+  "profit_ROA_ROE": {
+    "margin": 0.2916666666666667,
+    "ROA": 0.15555555555555556,
+    "ROE_wholeEquity_wholeNI": 0.3684210526315789,
+    "book_ROE_prefadjustedNItotalE": 0.3157894736842105,
+    "book_ROE_print32percent": true,
+    "commonavgE_notprovided": true,
+    "book_statementNI_afterprefdividends_wrong": true
+  },
+  "DuPont": {
+    "full_precision_components": [
+      0.2916666666666667,
+      0.5333333333333333,
+      2.3684210526315788
+    ],
+    "fullprecision_product": 0.3684210526315789,
+    "direct_wholeROE": 0.3684210526315789,
+    "roundedbookcomponents": [
+      0.29,
+      0.53,
+      2.37
+    ],
+    "rounded_product": 0.364269,
+    "book_product36_4percent": true,
+    "book_nextprose26_4percent_conflict": true,
+    "earlier32differentnumerator": true
+  },
+  "table61_all23rows": [
+    [
+      "Advertising",
+      2.93
+    ],
+    [
+      "Air Transportation",
+      -47.03
+    ],
+    [
+      "Computer Services",
+      13.5
+    ],
+    [
+      "Banking",
+      8.22
+    ],
+    [
+      "Financial Services nonbanking",
+      64.28
+    ],
+    [
+      "Food Processing",
+      10.12
+    ],
+    [
+      "Renewable Energy",
+      -20.59
+    ],
+    [
+      "Hospitals/Health Care Facilities",
+      70.64
+    ],
+    [
+      "Hotels/Gaming",
+      -30.4
+    ],
+    [
+      "Publishers",
+      -14.18
+    ],
+    [
+      "Recreational Products",
+      12.56
+    ],
+    [
+      "Real Estate general",
+      2.0
+    ],
+    [
+      "Retail parentheading",
+      0.0
+    ],
+    [
+      "Retail Automotive",
+      36.28
+    ],
+    [
+      "Retail Building Supply",
+      0.27
+    ],
+    [
+      "Retail General",
+      20.64
+    ],
+    [
+      "Retail Grocery",
+      30.63
+    ],
+    [
+      "Retail Online",
+      27.05
+    ],
+    [
+      "Rubber and Tires",
+      -26.69
+    ],
+    [
+      "Shoes",
+      23.7
+    ],
+    [
+      "Software systemsapplications",
+      28.09
+    ],
+    [
+      "Transportation",
+      21.47
+    ],
+    [
+      "Total Market Average",
+      8.25
+    ]
+  ],
+  "table61_year2020_notcurrent_regime": true,
+  "table61_parentRetail0_heading_notvalidautomaticcomparison": true,
+  "table61_aggregationweights_and_sample_unverified": true,
+  "primary_Alibaba_limited_fact_check": {
+    "book17_97_andconsensus14_33": "Booklabels genericEPS andwithoutGAAP/ADSscope",
+    "primary17_97": "Non-GAAP dilutedRMBperADS",
+    "primaryOrdinaryShare2_25": true,
+    "primaryGAAP10_48perADS": true,
+    "ADSordinaryratio": 8,
+    "announcement_date": "2020-11-05",
+    "quarterend": "2020-09-30",
+    "consensus14_33notinprimary_verified": false,
+    "entire_announcement_read": false,
+    "source_url": "https://www.businesswire.com/news/home/20201105005549/en/Alibaba-Group-Announces-September-Quarter-2020-Results"
+  },
+  "problem_results": {
+    "1_ART": 2.8,
+    "2_current": 1.1428571428571428,
+    "3_quick": 0.8571428571428571,
+    "4_cash_if_noadditionalcashequivalents": 0.42857142857142855,
+    "4_cash_if_10000STverifiedcashEquivalent": 0.5714285714285714,
+    "5_L_A": 1.6666666666666667,
+    "5_equity": -100000,
+    "6_L_E": 0.6666666666666666,
+    "7_TIE": 7.25,
+    "8_margin": 0.25,
+    "9_ROA": 0.23809523809523808,
+    "10_ROE": 0.2777777777777778
+  },
+  "no_prediction_or_live_financial_ratio_calibration": true
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "issue": "NWCpositive/negative_notuniversalcreditrule",
+    "pages": [
+      568,
+      569,
+      574
+    ],
+    "correct": "assetquality/maturity/businesstype/seasonality count;highNWCcouldidlecashorinventorynotnecessarilytoo littlecash;negativeCCCnotnegativeNWC"
+  },
+  {
+    "issue": "Currentassets_whichever_shorter_wrong",
+    "page": 591,
+    "correct": "normaloperatingcycleassetsmaycurrentevenbeyond12months;bookshorter mustnotuniversal classification;followissuerapplicableGAAP/IFRS",
+    "primary_search_evidence": "IAS1paragraph68searchindex publicexcerpt;directfullPDFredirectedIFRSsubscription no bypass orclaimwhole standardread"
+  },
+  {
+    "issue": "Quick_assets_prepaids_nonquick",
+    "pages": [
+      568,
+      569
+    ],
+    "correct": "bookCAminusinventory leavesprepaidsandothers;defineeligiblequickassets separately;cashratiomarketableincludecredit/market/liquidityrisk"
+  },
+  {
+    "issue": "OC_synonymous_CCCwrong",
+    "page": 591,
+    "correct": "OC=DIO+DSO;CCC=OC−DPO;positive/NWCdifferentdimensions"
+  },
+  {
+    "issue": "DPO_COGSproxyandaveragesseasonal",
+    "pages": [
+      570,
+      571,
+      573
+    ],
+    "correct": "supplierpurchasesmoreappropriatewhereinventorychanges;endpointsnotallmonthlyaverage;creditSalesnotalltotal;365/360/periodDaysconsistent"
+  },
+  {
+    "issue": "KSProunded44_13vs44_10",
+    "page": 573,
+    "correct": "fullinputsDSO50.1875not50.21;CCC44.1041667vsprose44.13;earlyturnoverround affectsresult"
+  },
+  {
+    "issue": "Tradecredit_noformalcontract/nointerestoversimplifies",
+    "pages": [
+      575,
+      576,
+      577
+    ],
+    "correct": "invoiceandcreditagreementtermsstillcontracts;cashdiscountforgoneopportunitycost/fees/covenants;creditor repaywordshoulddebtor"
+  },
+  {
+    "issue": "APR360vsEAR/daybasis",
+    "page": 577,
+    "correct": "2/10n30 36.7347% simple360,37.2449simple365;EARdifferent;fundingonlyextra20days onnet98not30daysface100"
+  },
+  {
+    "issue": "Lettercreditroles/BOLtitle",
+    "page": 576,
+    "correct": "buyerapplicant/exporterbeneficiarypresentscomplyingdocuments;notbuyerdraws;straightvsnegotiableBOLnotalltitle transferable",
+    "primary_urls": [
+      "https://www.trade.gov/letter-credit",
+      "https://www.trade.gov/common-export-documents"
+    ]
+  },
+  {
+    "issue": "Cashreturn/casheqclassification",
+    "pages": [
+      566,
+      578,
+      579,
+      591
+    ],
+    "correct": "currencyidlenotallinterestbankdeposits;cashalternativesrequirespurchase-term/value/liquidity;CP270day/CD/GSEnotautomaticcashorUSguarantee;stocksnomaturitynotcasheq",
+    "primary_url": "https://www.treasurydirect.gov/marketable-securities/treasury-bills/"
+  },
+  {
+    "issue": "Targetsettlement5daysvsprose1to2/24to72",
+    "page": 579,
+    "correct": "actualembeddednote fiveorless,all8cells/date/unitsread;individualpolicycreditcardsettlement notallmerchantpaymentunconditionalguarantee"
+  },
+  {
+    "issue": "Aginginvoice_days vsdayspastdue/gap",
+    "pages": [
+      581,
+      582
+    ],
+    "correct": "June1toJuly15elapsed44exclusive vs45inclusive;stateconvention;notduevs30to60leaves1to29pastduenotclassified explicitly;noallbaddebtprobabilitiesgivencannotinferallowance"
+  },
+  {
+    "issue": "Allowance_balance_notcurrentexpense",
+    "pages": [
+      581,
+      582,
+      590
+    ],
+    "correct": "requiredendingallowance minusexistingadjustedbalance sets expense;sourcegeneral statementnotexpenseequalsendingbalance always"
+  },
+  {
+    "issue": "Notes_receivable_onlybeyondyear wrongtable",
+    "pages": [
+      582,
+      583
+    ],
+    "correct": "textanytimeperiod inclshort;Table194 beyondyeargeneralization reject;noninterestnotespossible contract;securedrequiresactualcollateral"
+  },
+  {
+    "issue": "Inventoryvaluation_USGAAP_scope",
+    "page": 583,
+    "correct": "ASU2015-11nonLIFO/nonretail LCNRV vsLIFO/retailLCM,bookblanketLCMnotallGAAPinventory",
+    "primary_url": "https://storage.fasb.org/ASU%202015-11.pdf",
+    "actual_primary_read_lines": [
+      0,
+      383
+    ],
+    "primary_wholepaper_read": false
+  },
+  {
+    "issue": "Inventoryminimization_notzero_totalcost",
+    "pages": [
+      583,
+      584,
+      590
+    ],
+    "correct": "stockoutlostrevenue vslostmargin/customerimpact;purchase/carry/order/stockoutcombined;EOQ/JITnamednotderivationpresentnoneinvented"
+  },
+  {
+    "issue": "PPP/industryhistorical notcurrentavailablecredit",
+    "pages": [
+      574,
+      575
+    ],
+    "correct": "2020Walmart andCOVIDPPPbookcases notlivepolicy/eligibility/currentratios;actualcurrentprogramnotqueried"
+  },
+  {
+    "issue": "BudgetAugimplicit6173finance/costmissing",
+    "pages": [
+      588,
+      589
+    ],
+    "correct": "August43827beforetarget50000 ends50000 withoutseparateborrowingrow;implied6173notprovenLOCapproved norrepay/interest included;forecastsurplusnotprofit"
+  },
+  {
+    "issue": "Budget references/header/servicefirminventory",
+    "pages": [
+      585,
+      588
+    ],
+    "correct": "Table195saysusingFig199butcash1910;minimumB2G7wrongrange B7G7;some servicefirmsinventory need not universal noinventory"
+  },
+  {
+    "issue": "DepartmentCCC63_60wrong",
+    "pages": [
+      595,
+      596
+    ],
+    "correct": "all3given2.78/91/3 turns recompute13.6393days;allother3matchround;cannotanalyzefalse63.60asinput"
+  },
+  {
+    "issue": "Receipts100pctplusbaddebt5or3 ambiguity",
+    "page": 597,
+    "correct": "all3timingweights sum1 plusuncollectible5or3;collectiblepoolvsfinalmonthresidualallocation differentanswers stored;requiredefinitionbeforeforecast"
+  },
+  {
+    "issue": "Videoincome_statement/notbalance",
+    "page": 597,
+    "correct": "NIisperiodIS/feedsREnotbalance-sheetline cashestimate;cashbudgetdirectin/out vsprojectedSCFclassificationsnotidentical"
+  },
+  {
+    "issue": "quick_ratio_original_numerator_typo",
+    "printed_page": 569,
+    "pdf_page_one_based": 584,
+    "original_numerator": 1500500,
+    "given_inputs_independent_numerator": 1500000,
+    "denominator": 1000000,
+    "original_printed_answer": 1.5,
+    "draft_answer_was_already_correct": true,
+    "whole_original_image_actually_viewed_by_root_and_peer": true,
+    "original_not_overwritten": true
+  }
+]

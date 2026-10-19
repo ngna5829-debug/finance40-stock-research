@@ -1,0 +1,66 @@
+{
+  "book_id": "P38",
+  "chapter": 11,
+  "source_chars": 87630,
+  "source_sha256": "c0d83eafece0e8208aaa444569da3d21cf4163251ac5cfa8844b7a5372fdd63f",
+  "printed_pages": [
+    319,
+    352
+  ],
+  "pdf_pages_one_based": [
+    334,
+    367
+  ],
+  "actualnative_readranges": [
+    [
+      0,
+      31000
+    ],
+    [
+      30800,
+      61800
+    ],
+    [
+      61600,
+      87630
+    ]
+  ],
+  "all5sections_4numberednotes_fullcases_summary_terms_CFA_10MC_10review_10problems_4videoquestiontexts_read": true,
+  "all34pagecontacts_all12figures_all7tables_andallformulaimages_visuallyread": true,
+  "visual_files": [
+    "ch11-figures-1.jpg",
+    "ch11-figures-2.jpg",
+    "ch11-figures-3.jpg",
+    "ch11-figures-4.jpg",
+    "ch11-figures-5.jpg",
+    "ch11-figures-6.jpg",
+    "ch11-figures-7.jpg",
+    "ch11-figures-8.jpg",
+    "ch11-figures-9.jpg",
+    "ch11-critical-338.jpg",
+    "ch11-critical-344.jpg",
+    "ch11-critical-345.jpg",
+    "ch11-critical-346.jpg",
+    "ch11-critical-352.jpg",
+    "ch11-critical-353.jpg",
+    "ch11-critical-354.jpg",
+    "ch11-critical-355.jpg",
+    "ch11-critical-356.jpg",
+    "ch11-critical-357.jpg",
+    "ch11-critical-361.jpg"
+  ],
+  "externalvideos_workbooks_news_entirepapertext_read": false,
+  "literal_every_pdf_glyph_proofread": false,
+  "actualExcel_TIexecution": false,
+  "independent_mathematical_recompute": true,
+  "body_han": 4069,
+  "summary_sha256": "7bd339bca63bed635900835d6f0523d5d7dfc396ac50e771ecaec934d5673d74",
+  "sourceissues": "ch11-source-issues.json",
+  "arithmetic": "ch11-table-arithmetic.json",
+  "semantic_fullchapter_read_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "7bd339bca63bed635900835d6f0523d5d7dfc396ac50e771ecaec934d5673d74",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

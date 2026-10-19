@@ -1,0 +1,65 @@
+{
+  "book_id": "P23",
+  "snapshot_expert_sha256": "23d1ce489d3aa6c4d4f9f39f5995facdfa5116c5d72a5cc39805dcc153e8922c",
+  "snapshot_audit_sha256": "d44550f75f1eace0086f58dd598d3373dd20e39894cfe37e9ef603c43bcc3dc5",
+  "candidate_expert_file": "work/book-experts-v5/index_team/peer-QA/P23-candidate/专家定义.candidate.json",
+  "candidate_corrections": [
+    {
+      "id": "P23-QA-C01",
+      "kind": "complete_multi_claim_page_evidence",
+      "rule_id": "P23-R13",
+      "existing_meaning_correct": true,
+      "needed_additional_pdf_pages": [
+        74,
+        75
+      ],
+      "reason": "作者字段明确煤/锡/玻璃三类解除后进入，而旧源页76–77直接支持玻璃与强反事实；煤行会抑制与锡矿放开后的经营/雇工反例在74–75，需补而非靠整章范围冒充三个主张同证。"
+    },
+    {
+      "id": "P23-QA-C02",
+      "kind": "author_claim_strength_and_counterexample_boundary",
+      "rule_id": "P23-R25",
+      "field": "author_meaning",
+      "old_exact": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价，检查与仲裁不能消除分配争执。",
+      "new_exact": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价；检查和仲裁支持配额谈判，但成员对份额与价格差仍有相反利益。",
+      "reason": "PDF149先述相反利益又说仲裁在Durham/Londonderry/Hetton争议有显著效力；不能把有利益张力写成仲裁无法消除任何分配争执的普遍能力定理。保好坏矿利益冲突与仲裁具体有效例，不反过来声称保证消除全部冲突。",
+      "support_pdf_pages": [
+        148,
+        149,
+        150
+      ],
+      "whole_chapter_dossier_change_required": false
+    },
+    {
+      "id": "P23-QA-C03",
+      "kind": "new_selected_original_visual_evidence_not_original_file_replacement",
+      "scope": "PDF142 and169/source-internal issue metadata/QA",
+      "current_new_review_record": "P23-ch06-selected-visual-review.json",
+      "reason": "旧ch06阶段notes写169金额待图核与142年月可待核；本次已实际原图确认1782及13509/22pounds5shillings/300375。不改原数字或旧阶段原源，只把新增目视和复算差200.25的证据追加当前独审/来源限制记录。",
+      "same_edition_glyphs_for_these_specific_values_verified": true,
+      "all_other_glyphs_or_external_original_report_verified": false
+    },
+    {
+      "id": "P23-QA-C04",
+      "kind": "complete_multi_claim_page_evidence",
+      "rule_id": "P23-R71",
+      "existing_meaning_correct": true,
+      "needed_additional_pdf_pages": [
+        343
+      ],
+      "reason": "特定装船困难可提前发量并申诉的第21条在PDF343，原342/344只支持排除外销陆售、重量和超量处罚等；补完整主张证据，不改章稿与作者字段。"
+    }
+  ],
+  "all73rules_non_source_field_deltas": [
+    {
+      "rule_id": "P23-R25",
+      "field": "author_meaning",
+      "old": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价，检查与仲裁不能消除分配争执。",
+      "new": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价；检查和仲裁支持配额谈判，但成员对份额与价格差仍有相反利益。"
+    }
+  ],
+  "source_byte_changes_required": false,
+  "chapter_body_changes_required": false,
+  "precise_reference_count": 262,
+  "complete_contexts_count": 73
+}

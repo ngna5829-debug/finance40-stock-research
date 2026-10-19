@@ -1,0 +1,1462 @@
+{
+  "book_id": "P09",
+  "reviewer": "practical_books_independent_of_index_author",
+  "verified_utc": "2026-10-13T15:01:05.538799+00:00",
+  "status": "passed_merged_content_with_source_limits",
+  "authority_scope": "Final root manual merge content verification on top of completed whole independent semantic source/dossier/notes/front/back/rules review; no repeated semantic reading claimed for identical preserved files. Final status metadata closure still pending root.",
+  "checks": {
+    "root_expected_three_hashes": true,
+    "original_full_source_unchanged": true,
+    "all_original_source_files_unchanged": true,
+    "source_metadata_unchanged": true,
+    "all31_rule_and_all_evidence_core_fields_identical_to_reviewed_candidate": true,
+    "all31_chapters_checks_pass": true,
+    "strict_han_counts": true,
+    "six_required_edits_exactly_merged": true,
+    "all101_exact_source_checks": true,
+    "all_old80_preserved_core": true,
+    "false_boundaries_preserved": true,
+    "self_validation_current_hashes": true,
+    "original_immutable_peer_review_snapshot": true
+  },
+  "six_corrections": [
+    {
+      "chapter": 1,
+      "kind": "profit_rate_level_unit",
+      "new_exact_once": true,
+      "old_removed": true
+    },
+    {
+      "chapter": 14,
+      "kind": "quotation_attribution_precision",
+      "new_exact_once": true,
+      "old_removed": true
+    },
+    {
+      "chapter": 27,
+      "kind": "commissioner_minister_control_direction_precision",
+      "new_exact_once": true,
+      "old_removed": true
+    },
+    {
+      "chapter": 27,
+      "kind": "seven_percent_annual_rate_unambiguous_unit",
+      "new_exact_once": true,
+      "old_removed": true
+    },
+    {
+      "chapter": 31,
+      "kind": "Malthus_note59_term_substitution_direction",
+      "new_exact_once": true,
+      "old_removed": true
+    },
+    {
+      "chapter": 31,
+      "kind": "Malthus_annual_percentage_rate_and_last_two_hundred_million_scope",
+      "new_exact_once": true,
+      "old_removed": true
+    }
+  ],
+  "chapter_checks": [
+    {
+      "chapter": 1,
+      "strict_han": 3138,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 2,
+      "strict_han": 2936,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 3,
+      "strict_han": 2145,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 4,
+      "strict_han": 2136,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 5,
+      "strict_han": 2847,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 6,
+      "strict_han": 2726,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 7,
+      "strict_han": 3074,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 8,
+      "strict_han": 2112,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 9,
+      "strict_han": 2565,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 10,
+      "strict_han": 2085,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 11,
+      "strict_han": 2175,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 12,
+      "strict_han": 2574,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 13,
+      "strict_han": 2480,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 14,
+      "strict_han": 2267,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 15,
+      "strict_han": 2534,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 16,
+      "strict_han": 3130,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 17,
+      "strict_han": 2774,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 18,
+      "strict_han": 2307,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 19,
+      "strict_han": 2418,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 20,
+      "strict_han": 2589,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 21,
+      "strict_han": 2635,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 22,
+      "strict_han": 2487,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 23,
+      "strict_han": 2307,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 24,
+      "strict_han": 2326,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 25,
+      "strict_han": 2336,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 26,
+      "strict_han": 2284,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 27,
+      "strict_han": 2762,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 28,
+      "strict_han": 2208,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 29,
+      "strict_han": 2113,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 30,
+      "strict_han": 2233,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    },
+    {
+      "chapter": 31,
+      "strict_han": 3109,
+      "draft_matches_reviewed_candidate_or_old_unchanged": true,
+      "all_source_notes_original_hashes_preserved": true,
+      "whole_original_range_reconstruction": true,
+      "current_audit_hashes_counts": true,
+      "whole_chapter_in_combined": true
+    }
+  ],
+  "evidence_checks": [
+    {
+      "rule": "P09-R01",
+      "lines": [
+        233,
+        275
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R01",
+      "lines": [
+        535,
+        548
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R01",
+      "lines": [
+        277,
+        324
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A001",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R02",
+      "lines": [
+        1151,
+        1175
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R02",
+      "lines": [
+        1302,
+        1339
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R02",
+      "lines": [
+        1338,
+        1361
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A002",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R02",
+      "lines": [
+        1240,
+        1303
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A003",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R03",
+      "lines": [
+        1587,
+        1625
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R04",
+      "lines": [
+        1680,
+        1728
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R04",
+      "lines": [
+        1737,
+        1768
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R04",
+      "lines": [
+        1702,
+        1741
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A004",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R05",
+      "lines": [
+        1810,
+        1825
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R05",
+      "lines": [
+        1925,
+        1944
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R05",
+      "lines": [
+        1845,
+        1899
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A005",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R06",
+      "lines": [
+        2285,
+        2321
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R06",
+      "lines": [
+        2753,
+        2794
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R06",
+      "lines": [
+        2644,
+        2668
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A006",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R07",
+      "lines": [
+        2825,
+        2848
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R07",
+      "lines": [
+        3079,
+        3145
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R07",
+      "lines": [
+        2994,
+        3079
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A007",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R08",
+      "lines": [
+        3504,
+        3536
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R08",
+      "lines": [
+        3560,
+        3592
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R09",
+      "lines": [
+        3647,
+        3688
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R09",
+      "lines": [
+        3823,
+        3912
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R10",
+      "lines": [
+        4152,
+        4168
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R10",
+      "lines": [
+        4170,
+        4190
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R10",
+      "lines": [
+        4208,
+        4217
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R11",
+      "lines": [
+        4227,
+        4271
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R11",
+      "lines": [
+        4304,
+        4315
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R11",
+      "lines": [
+        4273,
+        4302
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A008",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R12",
+      "lines": [
+        4385,
+        4410
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R12",
+      "lines": [
+        4428,
+        4438
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R13",
+      "lines": [
+        4640,
+        4661
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R13",
+      "lines": [
+        4681,
+        4698
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R13",
+      "lines": [
+        4836,
+        4864
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R13",
+      "lines": [
+        4751,
+        4766
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A009",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R14",
+      "lines": [
+        4874,
+        4887
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R14",
+      "lines": [
+        4923,
+        4946
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R15",
+      "lines": [
+        5004,
+        5055
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R15",
+      "lines": [
+        5057,
+        5099
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R15",
+      "lines": [
+        5218,
+        5223
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R15",
+      "lines": [
+        5225,
+        5244
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A010",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R16",
+      "lines": [
+        5393,
+        5401
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R16",
+      "lines": [
+        5416,
+        5469
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R16",
+      "lines": [
+        5590,
+        5609
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R17",
+      "lines": [
+        6053,
+        6098
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R17",
+      "lines": [
+        6172,
+        6181
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R17",
+      "lines": [
+        6228,
+        6240
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R18",
+      "lines": [
+        6439,
+        6467
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R18",
+      "lines": [
+        6518,
+        6543
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R18",
+      "lines": [
+        10603,
+        10629
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R18",
+      "lines": [
+        6469,
+        6543
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A011",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R19",
+      "lines": [
+        6596,
+        6613
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R19",
+      "lines": [
+        6644,
+        6673
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R19",
+      "lines": [
+        6742,
+        6765
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R19",
+      "lines": [
+        6736,
+        6765
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A012",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R20",
+      "lines": [
+        6790,
+        6824
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R20",
+      "lines": [
+        6873,
+        6894
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R20",
+      "lines": [
+        6931,
+        6962
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R20",
+      "lines": [
+        6790,
+        6863
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A013",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        7305,
+        7341
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        7343,
+        7364
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        7366,
+        7399
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        10722,
+        10750
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        7122,
+        7159
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A014",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R21",
+      "lines": [
+        7207,
+        7221
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A015",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R22",
+      "lines": [
+        7409,
+        7450
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R22",
+      "lines": [
+        7491,
+        7504
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R22",
+      "lines": [
+        7716,
+        7768
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R23",
+      "lines": [
+        7931,
+        7964
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R23",
+      "lines": [
+        7995,
+        8022
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R23",
+      "lines": [
+        8061,
+        8076
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R23",
+      "lines": [
+        7974,
+        7993
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A016",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R24",
+      "lines": [
+        8128,
+        8159
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R24",
+      "lines": [
+        8207,
+        8238
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R24",
+      "lines": [
+        8295,
+        8314
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R25",
+      "lines": [
+        8415,
+        8444
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R25",
+      "lines": [
+        8469,
+        8493
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R25",
+      "lines": [
+        8550,
+        8563
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R26",
+      "lines": [
+        8656,
+        8695
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R26",
+      "lines": [
+        8732,
+        8749
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        8795,
+        8820
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        8874,
+        8911
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        9071,
+        9089
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        9183,
+        9206
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        8867,
+        8872
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A017",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R27",
+      "lines": [
+        9013,
+        9024
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A018",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R28",
+      "lines": [
+        9293,
+        9331
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R28",
+      "lines": [
+        9333,
+        9349
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R29",
+      "lines": [
+        9403,
+        9442
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R29",
+      "lines": [
+        9444,
+        9461
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R30",
+      "lines": [
+        9471,
+        9505
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R30",
+      "lines": [
+        9559,
+        9582
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        9637,
+        9658
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        9801,
+        9822
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10970,
+        10978
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10066,
+        10082
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10169,
+        10201
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10129,
+        10144
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A019",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10981,
+        10987
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A020",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    },
+    {
+      "rule": "P09-R31",
+      "lines": [
+        10999,
+        11003
+      ],
+      "source_hash_matches": true,
+      "portable_source_points_to_actual_file": true,
+      "exact_printed_page_verification_false": true,
+      "addition_id": "P09-QA-A021",
+      "addition_rule_and_range_match": true,
+      "full_raw_text_byte_char_hash_match": true,
+      "portable_evidence_full_raw_bytes_match": true
+    }
+  ],
+  "strict_body_han_total": 77812,
+  "minimum_chapter_body_han": 2085,
+  "rule_count": 31,
+  "evidence_count": 101,
+  "canonical_reviewed_hashes": {
+    "专家定义.json": "2b4c4749ec0667f55ee3999c037eaff6f3dddabd54122c502a2f448f5daee7ae",
+    "章节与阅读审计.json": "0e8174315fa011efc85f5571c137e991a9e61eb32556006911ffa3a338012749",
+    "独立复核.json": "24f361883e8a1e8d172b5c188f78c2d71a789abb2cccd1cf78c8c6574120f374",
+    "chapter-plan.json": "2b4647a42b20257c5f7b5240cec8845a800d9febfdf95145b85d9da0e5fef6a3",
+    "self-validation.json": "0df01c835ff6c2ac943e79978917c0df1f58119c7b7daaf4f3cdead4325198b4",
+    "章节深读.md": "e2f2ff40fe255cde9ba1089f53156d441ab1a5033534987278c9886832d844c5",
+    "全书综合与前后置页.md": "a7c6a7f928405d6fc31fec0b73f07fcd3443897d0b530eaecaaad340e574a56a",
+    "专家说明.md": "80ea379577592239fb91c787079ed92f76b06d5fa6080b81991700d1f542b9f2",
+    "source-metadata.json": "30c130d8852463f3df8759718e2907661bf7ae6a7c355066d249facd2d3a5f28",
+    "source/original.txt": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5"
+  },
+  "source_limits_retained": [
+    "No original 1817 scan acquired; no exact original printed/PDF paragraph page or complete glyph proofread",
+    "1817 first-edition text only; no 1821 Machinery chapter or cited entire books counted",
+    "Original numeric and wording conflicts preserved, no silent raw text correction or historical accuracy guarantee",
+    "No live stock decision, financial experiment, trained/calibrated probability, author personality or forty-book completion claim"
+  ],
+  "canonical_modified_by_reviewer": false,
+  "author_finalizer_run": false,
+  "goal_tools_called": false
+}

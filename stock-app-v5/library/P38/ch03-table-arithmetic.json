@@ -1,0 +1,723 @@
+{
+  "pizza": {
+    "prices": [
+      30,
+      25,
+      20,
+      15,
+      10,
+      5
+    ],
+    "table31_demand": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50
+    ],
+    "table32_new_demand": [
+      9,
+      19,
+      29,
+      39,
+      49,
+      59
+    ],
+    "table33_supply": [
+      60,
+      50,
+      40,
+      30,
+      20,
+      10
+    ],
+    "old_equilibrium": [
+      15,
+      30
+    ],
+    "surplus_at20": 20,
+    "shortage_at5": 40,
+    "demand_shift_at_each_price": 9,
+    "changed_supply_example_equilibrium": [
+      10,
+      40
+    ],
+    "decreased_demand_example_equilibrium": [
+      10,
+      20
+    ]
+  },
+  "sweatshirts": {
+    "table34_demand_prices": [
+      55,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5
+    ],
+    "table34_demand": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32,
+      36,
+      40
+    ],
+    "table34_supply_prices": [
+      55,
+      50,
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      null
+    ],
+    "table34_supply": [
+      45,
+      40,
+      35,
+      30,
+      25,
+      20,
+      15,
+      10,
+      5,
+      0,
+      null
+    ],
+    "table35_new_demand": [
+      18,
+      22,
+      26,
+      30,
+      34,
+      38,
+      42,
+      46,
+      50,
+      54,
+      58
+    ],
+    "demand_shift_at_each_price": 18,
+    "old_equilibrium": [
+      30,
+      20
+    ],
+    "new_equilibrium": [
+      40,
+      30
+    ],
+    "figure39_caption_error": "caption says supply increase; actual unchanged supply curve, Demand1→Demand2 with quantity supplied increase"
+  },
+  "figure316_all_original_dates_and_durations": {
+    "first_trough": "1854-12",
+    "complete_rows": [
+      {
+        "peak": "1857-06",
+        "trough": "1858-12",
+        "printed_contraction_expansion_cycle": [
+          18,
+          30,
+          48
+        ],
+        "recalculated": [
+          18,
+          30,
+          48
+        ],
+        "match": true
+      },
+      {
+        "peak": "1860-10",
+        "trough": "1861-06",
+        "printed_contraction_expansion_cycle": [
+          8,
+          22,
+          30
+        ],
+        "recalculated": [
+          8,
+          22,
+          30
+        ],
+        "match": true
+      },
+      {
+        "peak": "1865-04",
+        "trough": "1867-12",
+        "printed_contraction_expansion_cycle": [
+          32,
+          46,
+          78
+        ],
+        "recalculated": [
+          32,
+          46,
+          78
+        ],
+        "match": true
+      },
+      {
+        "peak": "1869-06",
+        "trough": "1870-12",
+        "printed_contraction_expansion_cycle": [
+          18,
+          18,
+          36
+        ],
+        "recalculated": [
+          18,
+          18,
+          36
+        ],
+        "match": true
+      },
+      {
+        "peak": "1873-10",
+        "trough": "1879-03",
+        "printed_contraction_expansion_cycle": [
+          65,
+          34,
+          99
+        ],
+        "recalculated": [
+          65,
+          34,
+          99
+        ],
+        "match": true
+      },
+      {
+        "peak": "1882-03",
+        "trough": "1885-05",
+        "printed_contraction_expansion_cycle": [
+          38,
+          36,
+          74
+        ],
+        "recalculated": [
+          38,
+          36,
+          74
+        ],
+        "match": true
+      },
+      {
+        "peak": "1887-03",
+        "trough": "1888-04",
+        "printed_contraction_expansion_cycle": [
+          13,
+          22,
+          35
+        ],
+        "recalculated": [
+          13,
+          22,
+          35
+        ],
+        "match": true
+      },
+      {
+        "peak": "1890-07",
+        "trough": "1891-05",
+        "printed_contraction_expansion_cycle": [
+          10,
+          27,
+          37
+        ],
+        "recalculated": [
+          10,
+          27,
+          37
+        ],
+        "match": true
+      },
+      {
+        "peak": "1893-01",
+        "trough": "1894-06",
+        "printed_contraction_expansion_cycle": [
+          17,
+          20,
+          37
+        ],
+        "recalculated": [
+          17,
+          20,
+          37
+        ],
+        "match": true
+      },
+      {
+        "peak": "1895-12",
+        "trough": "1897-06",
+        "printed_contraction_expansion_cycle": [
+          18,
+          18,
+          36
+        ],
+        "recalculated": [
+          18,
+          18,
+          36
+        ],
+        "match": true
+      },
+      {
+        "peak": "1899-06",
+        "trough": "1900-12",
+        "printed_contraction_expansion_cycle": [
+          18,
+          24,
+          42
+        ],
+        "recalculated": [
+          18,
+          24,
+          42
+        ],
+        "match": true
+      },
+      {
+        "peak": "1902-09",
+        "trough": "1904-08",
+        "printed_contraction_expansion_cycle": [
+          23,
+          21,
+          44
+        ],
+        "recalculated": [
+          23,
+          21,
+          44
+        ],
+        "match": true
+      },
+      {
+        "peak": "1907-05",
+        "trough": "1908-06",
+        "printed_contraction_expansion_cycle": [
+          13,
+          33,
+          46
+        ],
+        "recalculated": [
+          13,
+          33,
+          46
+        ],
+        "match": true
+      },
+      {
+        "peak": "1910-01",
+        "trough": "1912-01",
+        "printed_contraction_expansion_cycle": [
+          24,
+          19,
+          43
+        ],
+        "recalculated": [
+          24,
+          19,
+          43
+        ],
+        "match": true
+      },
+      {
+        "peak": "1913-01",
+        "trough": "1914-12",
+        "printed_contraction_expansion_cycle": [
+          23,
+          12,
+          35
+        ],
+        "recalculated": [
+          23,
+          12,
+          35
+        ],
+        "match": true
+      },
+      {
+        "peak": "1918-08",
+        "trough": "1919-03",
+        "printed_contraction_expansion_cycle": [
+          7,
+          44,
+          51
+        ],
+        "recalculated": [
+          7,
+          44,
+          51
+        ],
+        "match": true
+      },
+      {
+        "peak": "1920-01",
+        "trough": "1921-07",
+        "printed_contraction_expansion_cycle": [
+          18,
+          10,
+          28
+        ],
+        "recalculated": [
+          18,
+          10,
+          28
+        ],
+        "match": true
+      },
+      {
+        "peak": "1923-05",
+        "trough": "1924-07",
+        "printed_contraction_expansion_cycle": [
+          14,
+          22,
+          36
+        ],
+        "recalculated": [
+          14,
+          22,
+          36
+        ],
+        "match": true
+      },
+      {
+        "peak": "1926-10",
+        "trough": "1927-11",
+        "printed_contraction_expansion_cycle": [
+          13,
+          27,
+          40
+        ],
+        "recalculated": [
+          13,
+          27,
+          40
+        ],
+        "match": true
+      },
+      {
+        "peak": "1929-08",
+        "trough": "1933-03",
+        "printed_contraction_expansion_cycle": [
+          43,
+          21,
+          64
+        ],
+        "recalculated": [
+          43,
+          21,
+          64
+        ],
+        "match": true
+      },
+      {
+        "peak": "1937-05",
+        "trough": "1938-06",
+        "printed_contraction_expansion_cycle": [
+          13,
+          50,
+          63
+        ],
+        "recalculated": [
+          13,
+          50,
+          63
+        ],
+        "match": true
+      },
+      {
+        "peak": "1945-02",
+        "trough": "1945-10",
+        "printed_contraction_expansion_cycle": [
+          8,
+          80,
+          88
+        ],
+        "recalculated": [
+          8,
+          80,
+          88
+        ],
+        "match": true
+      },
+      {
+        "peak": "1948-11",
+        "trough": "1949-10",
+        "printed_contraction_expansion_cycle": [
+          11,
+          37,
+          48
+        ],
+        "recalculated": [
+          11,
+          37,
+          48
+        ],
+        "match": true
+      },
+      {
+        "peak": "1953-07",
+        "trough": "1954-05",
+        "printed_contraction_expansion_cycle": [
+          10,
+          45,
+          55
+        ],
+        "recalculated": [
+          10,
+          45,
+          55
+        ],
+        "match": true
+      },
+      {
+        "peak": "1957-08",
+        "trough": "1958-04",
+        "printed_contraction_expansion_cycle": [
+          8,
+          39,
+          47
+        ],
+        "recalculated": [
+          8,
+          39,
+          47
+        ],
+        "match": true
+      },
+      {
+        "peak": "1960-04",
+        "trough": "1961-02",
+        "printed_contraction_expansion_cycle": [
+          10,
+          24,
+          34
+        ],
+        "recalculated": [
+          10,
+          24,
+          34
+        ],
+        "match": true
+      },
+      {
+        "peak": "1969-12",
+        "trough": "1970-11",
+        "printed_contraction_expansion_cycle": [
+          11,
+          106,
+          117
+        ],
+        "recalculated": [
+          11,
+          106,
+          117
+        ],
+        "match": true
+      },
+      {
+        "peak": "1973-11",
+        "trough": "1975-03",
+        "printed_contraction_expansion_cycle": [
+          16,
+          36,
+          52
+        ],
+        "recalculated": [
+          16,
+          36,
+          52
+        ],
+        "match": true
+      },
+      {
+        "peak": "1980-01",
+        "trough": "1980-07",
+        "printed_contraction_expansion_cycle": [
+          6,
+          58,
+          64
+        ],
+        "recalculated": [
+          6,
+          58,
+          64
+        ],
+        "match": true
+      },
+      {
+        "peak": "1981-07",
+        "trough": "1982-11",
+        "printed_contraction_expansion_cycle": [
+          16,
+          12,
+          28
+        ],
+        "recalculated": [
+          16,
+          12,
+          28
+        ],
+        "match": true
+      },
+      {
+        "peak": "1990-07",
+        "trough": "1991-03",
+        "printed_contraction_expansion_cycle": [
+          8,
+          92,
+          100
+        ],
+        "recalculated": [
+          8,
+          92,
+          100
+        ],
+        "match": true
+      },
+      {
+        "peak": "2001-03",
+        "trough": "2001-11",
+        "printed_contraction_expansion_cycle": [
+          8,
+          120,
+          128
+        ],
+        "recalculated": [
+          8,
+          120,
+          128
+        ],
+        "match": true
+      },
+      {
+        "peak": "2007-12",
+        "trough": "2009-06",
+        "printed_contraction_expansion_cycle": [
+          18,
+          73,
+          91
+        ],
+        "recalculated": [
+          18,
+          73,
+          91
+        ],
+        "match": true
+      }
+    ],
+    "last_unfinished_row_as_printed": {
+      "peak": "2020-02",
+      "trough": null,
+      "printed_contraction": null,
+      "printed_expansion": 128,
+      "printed_cycle": null,
+      "recalculated_expansion": 128
+    },
+    "all_complete_rows_match": true,
+    "book_approx_means_not_future_schedule": {
+      "book_contraction_months": 17,
+      "book_expansion_months": 41,
+      "all_table_complete_contraction_mean": 17.454545454545453,
+      "all_table_expansion_mean_including2020": 41.35294117647059
+    },
+    "publication_update_conflict": "2021-07-19 NBER announcement already identifies Apr2020 trough; printed table still blank and prose ongoing recession"
+  },
+  "table36_columns": [
+    "year",
+    "US",
+    "Switzerland",
+    "Japan"
+  ],
+  "table36_all_cells": [
+    [
+      1970,
+      100,
+      100,
+      100
+    ],
+    [
+      1980,
+      212.3,
+      162.3,
+      232.5
+    ],
+    [
+      1990,
+      336.5,
+      226.4,
+      291.2
+    ],
+    [
+      2000,
+      443.5,
+      278.2,
+      322.1
+    ],
+    [
+      2010,
+      561.6,
+      304.3,
+      313.6
+    ],
+    [
+      2020,
+      666.6,
+      302.3,
+      331.8
+    ]
+  ],
+  "table36_1970to2020_cumulative_percent": [
+    566.6,
+    202.3,
+    231.8
+  ],
+  "japan_GDP_quarter_percent": 0.8960681155665284,
+  "nominal6_inflation2_real_approx": 4,
+  "nominal6_inflation2_real_exact_percent": 3.9215686274509887,
+  "nominal15_inflation12_exact_percent": 2.678571428571419,
+  "nominal6_inflation1_exact_percent": 4.950495049504955,
+  "MXN_USD_initial": [
+    0.0625,
+    16
+  ],
+  "MXN_USD_appreciated": [
+    0.08,
+    12.5
+  ],
+  "MXN_USD_depreciated": [
+    0.05,
+    20
+  ],
+  "peso_travel_cost_dollars": 625.0,
+  "two_dollar_receipts_in_pesos": [
+    320000,
+    400000
+  ],
+  "hotel_problem_dollars": 734.6938775510204,
+  "CPI_problem_inflation_percent": 5.000000000000004,
+  "won_review_quotes_KRW_per_USD": [
+    1020,
+    1150
+  ],
+  "won_review_conclusion": "KRW depreciated relativeUSD",
+  "all_computations_independent_analysis_not_claimed_original_extra_proof": true
+}

@@ -1,0 +1,49 @@
+{
+  "book_id": "P09",
+  "chapter_ordinal": 15,
+  "original_scan_obtained": false,
+  "original_source_unchanged": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "type": "money_mine_tax_condition_source_tension",
+      "earlier_lines_inclusive": [
+        5014,
+        5021
+      ],
+      "later_lines_inclusive": [
+        5225,
+        5244
+      ],
+      "resolution": "早段国内货币矿同税不涨价；末段电子原文在矿位于课税国条件后描述涨价，有条件表述张力。未取得原扫描，不擅添not或断言哪一方错，不用于确定分支"
+    },
+    {
+      "type": "approximation_or_truncation",
+      "source_lines_inclusive": [
+        5023,
+        5055
+      ],
+      "strict_deflated_1000": 909.090909090909,
+      "author_approximation": 910,
+      "resolution": "原910保留，只示意内部算术，不核准历史购买力"
+    },
+    {
+      "type": "approximation_or_truncation",
+      "source_lines_inclusive": [
+        5063,
+        5099
+      ],
+      "strict_post_tax_sales_ratio": 2.4285714285714284,
+      "author_ratio": 2.42,
+      "strict_fall_percent_from_4200_to_4000": 4.761904761904762,
+      "author_fall_percent": 4.75,
+      "resolution": "原数保留；模型比例不是行情或会计完整公式"
+    },
+    {
+      "type": "unverified_original_printed_crossreference",
+      "source_line": 5235,
+      "reference": "page 108",
+      "resolution": "未有原扫描排版及指向核证，不列为已核具体纸页证据"
+    }
+  ]
+}

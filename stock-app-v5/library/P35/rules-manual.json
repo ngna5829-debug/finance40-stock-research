@@ -1,0 +1,1489 @@
+[
+  {
+    "source_unit": 1,
+    "paragraph_numbers": [
+      16,
+      18,
+      26,
+      27,
+      30,
+      31,
+      34
+    ],
+    "title_zh": "货币、法币与国际支付分开",
+    "author_meaning": "交换媒介可有多种财富；法律规定特定本国法币权力，黄金也受法赋权。作者说法币绝对永久，又以被征服改法说明其地位可改，国际无同一法币。",
+    "independent_analysis": "法定名义权不保真实购买力及所有场所接受；本国与跨境支付分别核，不用旧法代现代权利。",
+    "required_inputs": [
+      "支付地",
+      "适用法律",
+      "合同",
+      "币种",
+      "名义和实际价值"
+    ],
+    "horizon": "实际支付日和司法辖区；原书无日线周期",
+    "counterexample_or_limit": "原章自己举改法取消英镑法币的条件。",
+    "abstain_when": "缺法律/合同而认任何纸或金均可强制清债。"
+  },
+  {
+    "source_unit": 1,
+    "paragraph_numbers": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "财富请求的票券类比不是完整兑付机制",
+    "author_meaning": "共同生产财富可由票券代表请求，救济券可由政府赋永久流通地位，金银铜纸代表国家财富份额。",
+    "independent_analysis": "是制度解释及类比，不足证明每票有独立足额资产或索取所有社会财富；须实际发行、可兑资格与资源。",
+    "required_inputs": [
+      "发行主体",
+      "票权",
+      "资源",
+      "兑付资格"
+    ],
+    "horizon": "票券有效期与实际付款",
+    "counterexample_or_limit": "救济基金一次结清与持续货币制度不同。",
+    "abstain_when": "仅总财富描述却要求足额支付认证。"
+  },
+  {
+    "source_unit": 2,
+    "paragraph_numbers": [
+      12,
+      13,
+      14,
+      15,
+      20,
+      21
+    ],
+    "title_zh": "存款利差与提款期限先核",
+    "author_meaning": "作者设想二百英镑存金可成为一千或二千可贷资金；付存者百分之二点五、贷出百分之四，两者利差一点五个百分点还须付费用。deposit与current account的提款条件不同。",
+    "independent_analysis": "原数是假例非已验乘数；利差不是净利，柜台金与请求负债分开，旧deposit狭义不强套所有现代存款。",
+    "required_inputs": [
+      "存款条款",
+      "到期",
+      "贷款现金流",
+      "全部费用",
+      "账户口径"
+    ],
+    "horizon": "实际提款和贷款期限",
+    "counterexample_or_limit": "同时提款可令银行现金不够。",
+    "abstain_when": "缺条款却称利差即利润或给固定十倍扩张。"
+  },
+  {
+    "source_unit": 2,
+    "paragraph_numbers": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "title_zh": "既存财富液化论有资产和市场前提",
+    "author_meaning": "作者拒无中生有，把抵押Consols或房屋支持的贷款视既存财富转为液体，健全依财富质量而非单看金。",
+    "independent_analysis": "净财富、账面新增债权债务和当期现金是不同对象；抵押不等于完全买断房屋，财富可售须验，现代货币创造另标独立观点。",
+    "required_inputs": [
+      "抵押权",
+      "价值",
+      "期限",
+      "市场买量",
+      "银行分录"
+    ],
+    "horizon": "借贷及变现时间",
+    "counterexample_or_limit": "后22章高品质财富冻结直接限制可换现金。",
+    "abstain_when": "只有资产名称，无权利或市场，就当已可兑现。"
+  },
+  {
+    "source_unit": 3,
+    "paragraph_numbers": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "title_zh": "一贷增存款与准备基金不能混",
+    "author_meaning": "贷款也记客户账户使存款增；issued资本及利润积累准备基金列负债侧，准备基金常投资好证券，acceptance有对项。",
+    "independent_analysis": "作者知道贷款形成账户余额，不将其拒创造credit误译为不承认此；留存准备基金不是全现金，承兑对项不自动无风险。",
+    "required_inputs": [
+      "完整分录",
+      "资本已缴",
+      "准备投资",
+      "承兑责任",
+      "账户归属"
+    ],
+    "horizon": "同日报表及到期",
+    "counterexample_or_limit": "对项有额相同仍可期限错位或客户不能提供款。",
+    "abstain_when": "缺报表/权利而重复加资本或抵消全部义务。"
+  },
+  {
+    "source_unit": 3,
+    "paragraph_numbers": [
+      23,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "title_zh": "现金、可召贷款和票据各有兑现条件",
+    "author_meaning": "柜台与央行余额可清算，call借给经纪及贴现机构，投资和最佳票据被视高财富，otherloan含多种担保。",
+    "independent_analysis": "可召不等于现有现金；原文rediscount较低price未充分解释利率/净款，不能默改单位；危机22章有无法召回例外。",
+    "required_inputs": [
+      "清算余额",
+      "付款日",
+      "借款人",
+      "票据背景",
+      "报价口径"
+    ],
+    "horizon": "通常经营及危机时两种可用性",
+    "counterexample_or_limit": "原3章price措辞有歧义，后章多种资产冻。",
+    "abstain_when": "将现金加call当同一即时金且无实际兑付。"
+  },
+  {
+    "source_unit": 3,
+    "paragraph_numbers": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "title_zh": "习惯货币与法定货币有权力差异",
+    "author_meaning": "支票由共同需要与习惯发展，银行票和财政一英镑/十先令是另一纸币，政府须考虑机器够应国需。",
+    "independent_analysis": "接受支票不证明它法币或各时同等变现；改革要求不等于所有纸已授权，交易媒介与法定义务分列。",
+    "required_inputs": [
+      "接受记录",
+      "发行授权",
+      "清算",
+      "支付地点"
+    ],
+    "horizon": "实际清算与政策生效日",
+    "counterexample_or_limit": "支票受惯例、信用及清算限制。",
+    "abstain_when": "只见纸媒介就认统一法定强制接受。"
+  },
+  {
+    "source_unit": 4,
+    "paragraph_numbers": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      11,
+      14,
+      15,
+      16,
+      17
+    ],
+    "title_zh": "愿意与能够支付及道德、财务信用分开",
+    "author_meaning": "social/intellectual/moral/financial的credit不同；有伦理名声未必财务可靠，商店赊账靠顾客的承诺与声誉，而银行索取担保。",
+    "independent_analysis": "头衔不认证财务，姓名国籍不代行为，承诺与资源不能互换；不把全部无抵押交易定为不道德。",
+    "required_inputs": [
+      "业务身份",
+      "支付能力",
+      "具体行为",
+      "担保",
+      "期限"
+    ],
+    "horizon": "具体债务到期和已知行为",
+    "counterexample_or_limit": "强品格与低收入或反向可以共存。",
+    "abstain_when": "只有名望/国籍/个人标签却给信用评分。"
+  },
+  {
+    "source_unit": 4,
+    "paragraph_numbers": [
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "二百Consols交换不等于净值增二百",
+    "author_meaning": "作者以雇主付款及抵押二百例说银行买入财富而非卖信用，称获得财富便更富。",
+    "independent_analysis": "总资产与负债同时变化可能不改变净资产，不把200抵押收益当200净利润；具体分录与权利需查。",
+    "required_inputs": [
+      "资产负债分录",
+      "抵押权",
+      "估值",
+      "净值"
+    ],
+    "horizon": "交易日与还款日",
+    "counterexample_or_limit": "更富一词不区分毛资产和净财富。",
+    "abstain_when": "要求认定利润或创建完整现代贷款模型却无账。"
+  },
+  {
+    "source_unit": 4,
+    "paragraph_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "title_zh": "信心由传统管理及国家力量支撑是作者观察",
+    "author_meaning": "作者不信公众逐算金比例，认为相信健全管理的习惯、国家力量更重要，救急票被自然接受。",
+    "independent_analysis": "不是完整群众调查；信管理也可有条件担心系统，无行为记录则不判概率，不宣称央行永不失付。",
+    "required_inputs": [
+      "公众行为",
+      "管理记录",
+      "政策",
+      "付款资源"
+    ],
+    "horizon": "当时观察及当前决策截止",
+    "counterexample_or_limit": "个人不知道比率不证明机构无需缓冲。",
+    "abstain_when": "只凭一句as safe asBank认无风险或群体全部态度。"
+  },
+  {
+    "source_unit": 5,
+    "paragraph_numbers": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "title_zh": "总存款与贷款形成存款分开审查",
+    "author_meaning": "公众请求含银行贷款账户，作者区分法律支付义务与液化财富，重资产性质，反只验15%金的假说。",
+    "independent_analysis": "15%是示例，不是原书推荐阈值；不能按其资产模型把公众已成立请求从应付责任直接删除。",
+    "required_inputs": [
+      "存款归属",
+      "贷款分录",
+      "法规",
+      "到期",
+      "资产质量"
+    ],
+    "horizon": "危机压力和到期支付",
+    "counterexample_or_limit": "作者仅提出立法可能，并明说未主张它可行、必要或明智；不能据此排除当前已成立的loan deposits支付责任。",
+    "abstain_when": "无合同/法规就把相关存款免付。"
+  },
+  {
+    "source_unit": 5,
+    "paragraph_numbers": [
+      18,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "title_zh": "资产选择重要但不可完全无经营风险",
+    "author_meaning": "作者将一些小银行倒闭归因于在坏财富上投机；商业银行可依法定票据而非必须黄金支付，银行经营不可避免有一定投机，担保虽提供保护，却不能保证有良好担保的借款者到期偿付。",
+    "independent_analysis": "不同法币实际接受与兑现另核，不由行业一般信心证某行个案安全；利润需要和风险都存在。",
+    "required_inputs": [
+      "真实资产",
+      "担保",
+      "法币条款",
+      "贷款结果",
+      "费用"
+    ],
+    "horizon": "资产持有与压力期限",
+    "counterexample_or_limit": "健全方法非100%安全且末22章有优质冻结。",
+    "abstain_when": "无具体资产/资源却按银行规模认安全。"
+  },
+  {
+    "source_unit": 6,
+    "paragraph_numbers": [
+      9,
+      10,
+      11,
+      14,
+      17,
+      18,
+      20,
+      21,
+      26,
+      27,
+      28,
+      29,
+      31,
+      32
+    ],
+    "title_zh": "纯存款残数只是模型待核",
+    "author_meaning": "现金call投资约18m，其他贷款相加并扣总存款，作者以约9m纯存款说明现金超六成、好资产更多。",
+    "independent_analysis": "算术可复核但扣贷款资产不证明所有余额起源；原£/s/d保持，绝非可用9m存款已追踪的事实。",
+    "required_inputs": [
+      "混合单位全表",
+      "账户历史",
+      "贷款资金转移",
+      "口径"
+    ],
+    "horizon": "同日全账和历史来源",
+    "counterexample_or_limit": "第7章承认pure可能是以前银行贷款所得利润。",
+    "abstain_when": "要按差额把纯存款全部识别或当准备安全证明。"
+  },
+  {
+    "source_unit": 6,
+    "paragraph_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "title_zh": "汇票被称国际币仍有合格和支付门",
+    "author_meaning": "票据对应交换财富、转贴为普通资金，作者将支票称国家币，汇票称国际币。",
+    "independent_analysis": "这是功能描述，不是国际法币；商品/票据真实性、签字、期限、汇路都需要，后22章停贴。",
+    "required_inputs": [
+      "基础贸易",
+      "签字信用",
+      "到期",
+      "运输清算",
+      "币种"
+    ],
+    "horizon": "票据剩余期限及可贴时点",
+    "counterexample_or_limit": "国际流通会被冻结，不比现金永远等价。",
+    "abstain_when": "无票据或实际交易仅宏观口号。"
+  },
+  {
+    "source_unit": 7,
+    "paragraph_numbers": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "title_zh": "贷款基金不等于总余额亦不等于已验财富总值",
+    "author_meaning": "作者说基金是国家财富的液化能力，国家借款也解冻资本，争银行与央行何种创造credit，转引Cole与Tritton不同意见。",
+    "independent_analysis": "多个概念需分，转引不算两位著作全读；纯存款与贷款源可能跨期关联，不用全社会财富直接代银行现金。",
+    "required_inputs": [
+      "国家及银行资产",
+      "责任归属",
+      "变现渠道",
+      "账户来源"
+    ],
+    "horizon": "当前可貸期限和政策时点",
+    "counterexample_or_limit": "无形请求可有财富支持但权利和估值未必准确。",
+    "abstain_when": "用全财富数直接保证每笔应付款。"
+  },
+  {
+    "source_unit": 7,
+    "paragraph_numbers": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "title_zh": "资金成本、收益分成与需求分开",
+    "author_meaning": "银行分享工商利润，升贷款价可慢贸易；萧条pure存款增长且loan存款降，同样总存款潜力较大。",
+    "independent_analysis": "服务收入未必每笔来自借户当期利润；资金丰裕不等于企业信心，低需求不等实际项目安全。",
+    "required_inputs": [
+      "净现金流",
+      "贷款费息",
+      "需求",
+      "账户来源",
+      "资产质量"
+    ],
+    "horizon": "经营阶段与实际借贷期限",
+    "counterexample_or_limit": "pure余额也可能来自旧loan利润，非独立外来金。",
+    "abstain_when": "缺资金来源/需求却按总存款大小排可贷量。"
+  },
+  {
+    "source_unit": 8,
+    "paragraph_numbers": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "title_zh": "准备习惯限制潜力，黄金自动增是模型条件",
+    "author_meaning": "原书假定惯常金/法币比例；繁荣贷款支金让比落，萧条纯存增让金增，潜力与总存款可反向。",
+    "independent_analysis": "15%假习惯非现行规则，纯存并不总是新金，分子分母须逐期同口径，不能套固定乘数。",
+    "required_inputs": [
+      "新金流",
+      "账户支付",
+      "负债",
+      "惯常管理政策"
+    ],
+    "horizon": "商业阶段和实际付款窗口",
+    "counterexample_or_limit": "资产贷款、内部清算及纯来源可使简模型失效。",
+    "abstain_when": "无实际金流，仅存款或日线量价称真实资金流。"
+  },
+  {
+    "source_unit": 8,
+    "paragraph_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "title_zh": "月末半年末整表与常态须区分",
+    "author_meaning": "作者述月末、半年末及年末停止放贷并催回贷款，通过减少总存款提高准备比例，即使未增加一枚金币；借款者转寻他行或更贵的央行，惯常比例由各行自定，作者说当时无法律强制。",
+    "independent_analysis": "历史季节做法不认证当前所有行；报表截面需配平常与转移记录，不能用一个漂亮日判断无风险。",
+    "required_inputs": [
+      "逐日余额",
+      "报表截止",
+      "贷款召回",
+      "跨行清算",
+      "制度"
+    ],
+    "horizon": "月末/半年/年末及邻近对照",
+    "counterexample_or_limit": "行间搬移不增加国家总金。",
+    "abstain_when": "缺周期资料或将旧无统一线作当前法律。"
+  },
+  {
+    "source_unit": 9,
+    "paragraph_numbers": [
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "title_zh": "央行特殊地位与国家所有权不同",
+    "author_meaning": "英格兰银行兼政府、个人及银行的银行，股份行存准备用于清算和保障，并非政府股东的国家银行。",
+    "independent_analysis": "身份是1915记述非当前所有权；商业行央行债权和中央底层金不要重复算，清算可用性须核。",
+    "required_inputs": [
+      "当时组织制度",
+      "清算账户",
+      "持有人",
+      "底层资源"
+    ],
+    "horizon": "1915制度；当前另核",
+    "counterexample_or_limit": "担央行角色不等国家股东或全部私人债由政府偿。",
+    "abstain_when": "用旧所有权/角色认证今组织和保险。"
+  },
+  {
+    "source_unit": 9,
+    "paragraph_numbers": [
+      17,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "title_zh": "发行部与银行部及原书表分开",
+    "author_meaning": "两部责任资产不同，银行准备主要notes少硬币，public与other存款分开，表展示中央财富。",
+    "independent_analysis": "PG政府证券21,824,358原扫描21,324,358差500k；原值才能闭表，raw保留。准备不是两部任意重复相加。",
+    "required_inputs": [
+      "两部完整表",
+      "纸票权利",
+      "部门对项",
+      "日期",
+      "原图"
+    ],
+    "horizon": "该次异常表，日期本章未明",
+    "counterexample_or_limit": "出版原表与PG有转录差，第11另900是书内差。",
+    "abstain_when": "缺确认数字或把异常表当当前/全金。"
+  },
+  {
+    "source_unit": 9,
+    "paragraph_numbers": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "title_zh": "最后融资与价格不是无限无条件供给",
+    "author_meaning": "作者说票据经纪平常不愿去费用更高、期限更短的央行；当其他来源枯竭，央行总能且愿意以一定价格放贷。该价格按请求、准备、汇兑及一般金融条件调节，用于限借、调整汇兑、引金与补准备。",
+    "independent_analysis": "第14章仅合格bills、数量期限价格受限；角色和资格不能省，利率不代表任何人都可无穷贷。",
+    "required_inputs": [
+      "合格票据",
+      "政策利率",
+      "需求",
+      "央行资源",
+      "到期"
+    ],
+    "horizon": "借款和危机时实际期限",
+    "counterexample_or_limit": "后14章央行goodbills贷多也升价护储。",
+    "abstain_when": "无资格和资源却保证alwaysableandwilling。"
+  },
+  {
+    "source_unit": 10,
+    "paragraph_numbers": [
+      3,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "title_zh": "中央储备与内外金流不混",
+    "author_meaning": "准备兼中央、全行、全国责任；常态高低、税缴与内用、外取不同，购金法价77s9d按当時制度。",
+    "independent_analysis": "40/30%是现象示例非风险门，法价单位后11明确standardounce；海外归属、运输和现金分开。",
+    "required_inputs": [
+      "准备责任",
+      "税期",
+      "内外金量",
+      "价格单位",
+      "实际购买"
+    ],
+    "horizon": "金流具体期间和报价单位",
+    "counterexample_or_limit": "第19海外记账金未运伦敦。",
+    "abstain_when": "缺币种/期间/地点却以ratio称真实外流。"
+  },
+  {
+    "source_unit": 10,
+    "paragraph_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "title_zh": "升息吸金取决于国外条件且有贸易成本",
+    "author_meaning": "升率旨在提高本地收益、吸引外国资金或黄金，但不必然成功，国外条件也起作用；频繁变动融资价格会惩罚国内贸易，作者设想以其他法定货币补充准备可能避免这种代价。",
+    "independent_analysis": "作者显式非必然不能删，不将利率单因变股市方向；利息与本金最后是实际财富责任。",
+    "required_inputs": [
+      "国际相对收益",
+      "支付限制",
+      "风险",
+      "金流",
+      "贸易融资"
+    ],
+    "horizon": "措施生效至实际流入；无固定天数",
+    "counterexample_or_limit": "外方缺能力/动机可能不来，金在内部转不等净外来。",
+    "abstain_when": "只有利率变化无外部条件却给资金因果。"
+  },
+  {
+    "source_unit": 11,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "title_zh": "法定信用票额度有旧日期资格",
+    "author_meaning": "作者围绕1844法写初14m债及证券额度、1844May6可发行者延续和放弃资格后增加规则。",
+    "independent_analysis": "是旧法历史叙述未全法逐条外核；额度任意不等当下违法或已废，当前不能强套。",
+    "required_inputs": [
+      "历史法原件",
+      "资格日期",
+      "发行量",
+      "实际政策"
+    ],
+    "horizon": "1844制度及后续变化；今日需再验证",
+    "counterexample_or_limit": "制度成长后来商业大变，原限未必适需要。",
+    "abstain_when": "按旧额度/资格为当代付款作保证。"
+  },
+  {
+    "source_unit": 11,
+    "paragraph_numbers": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "title_zh": "财富消费和note全部兑换条件分开",
+    "author_meaning": "作者说生产与消费相互作用才能形成财富，支票系统应与财富同步。央行票并非全由黄金背书；他转述有人建议卖证券或把政府欠债转为债券再卖，以补全部兑金所需，但指出恐慌时难以卖券换金，自己又认为全提的需要太遥远。",
+    "independent_analysis": "原文7,434,000与IX7,434,900差900，合计18,450,000并不由前文本加得，原扫描确认书内差；不得修平作实验。",
+    "required_inputs": [
+      "消费欲望",
+      "存量流量",
+      "发行部表",
+      "全兑需求",
+      "卖券市场"
+    ],
+    "horizon": "生产消费期与极端兑付时",
+    "counterexample_or_limit": "好财富仍可panic卖不出，第22实证叙事再限。",
+    "abstain_when": "缺资产买量或用未知数字计算当前安全率。"
+  },
+  {
+    "source_unit": 11,
+    "paragraph_numbers": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "title_zh": "心理panic也需要实际币供给",
+    "author_meaning": "作者称恐慌并非自动而是心理之病，过去实际或潜在停止银行法限制、让央行能向有偿付能力者按价提供足量法定货币，曾平息恐慌；国家应帮助受到传染的健康者。",
+    "independent_analysis": "病比喻非医学，安抚不可无物资承诺；政策可用与实际使用及最终偿付不同。",
+    "required_inputs": [
+      "真实公告",
+      "授权",
+      "资源",
+      "付款",
+      "行为"
+    ],
+    "horizon": "预警/实施/兑现时间分别",
+    "counterexample_or_limit": "不能从未panic推无初始压力。",
+    "abstain_when": "无实币或授权却编安抚保证。"
+  },
+  {
+    "source_unit": 12,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "title_zh": "财富等级以欲望持续不以物不坏",
+    "author_meaning": "财富有等级，食物空气因生活所需最永久，法律赋金特殊地位。",
+    "independent_analysis": "永久说需要持续，非每件食物不腐；稀有金或资产名不自动保证购买力和出售。",
+    "required_inputs": [
+      "需求",
+      "寿命",
+      "法定用途",
+      "供给",
+      "可售性"
+    ],
+    "horizon": "需求及持有期限",
+    "counterexample_or_limit": "食物消耗、金法赋权随制度变。",
+    "abstain_when": "只凭永久标签认证不会贬。"
+  },
+  {
+    "source_unit": 12,
+    "paragraph_numbers": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "title_zh": "优质证券与finest票据须按实际资格",
+    "author_meaning": "银行call/short、股票担保、投资、最好签字票等质量不同，作者信管理选择、拟即时政府液化更多券。",
+    "independent_analysis": "高class是待验证，未来政策不已实施，来源/担保权和真实可售性需查，第22冻结限制常态。",
+    "required_inputs": [
+      "签字身份",
+      "交易背景",
+      "期限",
+      "担保权",
+      "市场",
+      "政策授权"
+    ],
+    "horizon": "资产余期与当期可融资时点",
+    "counterexample_or_limit": "交易所关及汇路断可令最佳财富也无当前现金。",
+    "abstain_when": "仅日线/证券名称就认书中品质和央行资格。"
+  },
+  {
+    "source_unit": 12,
+    "paragraph_numbers": [
+      20,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "title_zh": "改表和统一目标仍有原始数字缺口",
+    "author_meaning": "作者拟把纯存及loan来源更清楚，反银行竞夸、政策相反，重安全与统一或国家组织。",
+    "independent_analysis": "修改表call两侧差30k、纯存增30k、acceptance两侧差3d，原图同PG，不当已能平账的精确披露；竞争批评非已证合并最佳。",
+    "required_inputs": [
+      "全原表",
+      "账户归属",
+      "数字口径",
+      "治理目标"
+    ],
+    "horizon": "账期及组织变革",
+    "counterexample_or_limit": "公布格式改革不自动完成来源追踪或消风险。",
+    "abstain_when": "要从未解表给精确预测/回测。"
+  },
+  {
+    "source_unit": 13,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "金约束下的借贷能力非总存款池",
+    "author_meaning": "银行有时拒贷/收贷有时钱过多，存款增loan已扩而金能力减，受法币供应约束，作者认为不完弹性。",
+    "independent_analysis": "资金可贷量与总余额不能同义，不让提议变更法变成已生效；无真实金流不称机构资金。",
+    "required_inputs": [
+      "负债和金",
+      "贷款资格",
+      "资金需求",
+      "法规",
+      "到期"
+    ],
+    "horizon": "具体融资期限及需求阶段",
+    "counterexample_or_limit": "政府供给与银行守法及资质共同限制。",
+    "abstain_when": "只有余额和价格却算可贷净量。"
+  },
+  {
+    "source_unit": 13,
+    "paragraph_numbers": [
+      25,
+      26,
+      27,
+      28
+    ],
+    "title_zh": "反方Cole明确排除panic与临时调整",
+    "author_meaning": "Cole称平常好bills可以央行atprice、panic除外，变化interest价、短时机器调整；Wall以危机恰最需要弹性反驳。",
+    "independent_analysis": "不得剪Cole例外造无条件无上限强论；两者评价范围不同，转引不算其论文完整读。",
+    "required_inputs": [
+      "讨论范围",
+      "合格bill",
+      "价和期限",
+      "panic条件"
+    ],
+    "horizon": "正常/调整/恐慌分层",
+    "counterexample_or_limit": "观察非panic限制不能直接证Cole自己的命题错。",
+    "abstain_when": "省例外后要求判对方所有观点已驳倒。"
+  },
+  {
+    "source_unit": 14,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      17
+    ],
+    "title_zh": "需求增会触及容量且价格变不证完全弹性",
+    "author_meaning": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高的利息会损害贸易，持续较久时尤其如此；频繁变动的利息较均匀或稍变更不利。原文没有高、久或频繁的固定阈值。",
+    "independent_analysis": "5%示例非坏制度门，价涨可能调需求但不单证明容量无限或政策必错，期限原文未定。",
+    "required_inputs": [
+      "贷款量",
+      "金量",
+      "利息",
+      "需求",
+      "合格资产"
+    ],
+    "horizon": "从需求出现到实际可贷，原无固定窗",
+    "counterexample_or_limit": "纯存本金与原loan来源跨期，单表不能证供给弹性。",
+    "abstain_when": "只价或均线却判断基金全弹性。"
+  },
+  {
+    "source_unit": 14,
+    "paragraph_numbers": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "title_zh": "利率和物价因果不凭单例",
+    "author_meaning": "作者反价格涨一律由金产加速，认为任性容量与高钱影响生产消费、主张更适财富供币。",
+    "independent_analysis": "作者某些强排他句也未实验验证；涨率不自动不赚、利率周期和通胀机制须实际时点口径。",
+    "required_inputs": [
+      "利率",
+      "生产消费",
+      "价格篮子",
+      "供金",
+      "信用政策"
+    ],
+    "horizon": "同口径经济期间",
+    "counterexample_or_limit": "未来征服取金是思想实验，非已发生。",
+    "abstain_when": "要单因解释今日物价/股票变化。"
+  },
+  {
+    "source_unit": 14,
+    "paragraph_numbers": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "央行最后贷款仍限定goodbills和资源",
+    "author_meaning": "作者以央行更窄的资产准入、合格票据数量有限及提息限制贷款反驳无限供给；战时大规模贴现停偿令前票据同时伴有南非等地和纽约黄金流入，准备比例仍低于通常。他又问悬法及财政票是否属于Cole的不可枯竭定义。",
+    "independent_analysis": "这是对IX等alwayslend的后章资格修订；把后来特措和常态资格分，制度利率不能被专家保证为无限容量。",
+    "required_inputs": [
+      "央行认可",
+      "真实bill",
+      "政策资源",
+      "已贷量",
+      "权限"
+    ],
+    "horizon": "当期与应急措施各自期限",
+    "counterexample_or_limit": "坏bill不因国家需要自动合格。",
+    "abstain_when": "缺资格/资源却许诺最后贷款必得。"
+  },
+  {
+    "source_unit": 15,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "title_zh": "安全金率无法包所有panic",
+    "author_meaning": "作者用John Bull讽刺按每百十五、二十、三十或四十便可算出安心的想法；又假设八成九成也未必救得了银行，可能三成准备时会倒，而三成一原本可避免灾难。他认为没有可计算的永久避恐慌线，只能继续依经验。",
+    "independent_analysis": "这些是反证数字非建议或统计阈值；不保所有风险≠准备全无效，心理不可当病人诊断。",
+    "required_inputs": [
+      "负债期限",
+      "现金",
+      "压力情境",
+      "付款记录"
+    ],
+    "horizon": "具体压力时段，不知未来panic日期",
+    "counterexample_or_limit": "现金更多可减部分压力但不是万能线。",
+    "abstain_when": "用虚构John概率或直接把30%写硬门。"
+  },
+  {
+    "source_unit": 15,
+    "paragraph_numbers": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "title_zh": "政府共同责任不取消事前准备",
+    "author_meaning": "作者批贷得广又储得多，重国家法赋权责任、财政票例，讽种子不敢播。",
+    "independent_analysis": "Bagehot原书未在这里全读，先积后用可非同时矛盾；政府应援是原作者规范不当现实无限保证。",
+    "required_inputs": [
+      "实际措施日期",
+      "授权",
+      "资源",
+      "事前与事中行动"
+    ],
+    "horizon": "危机前积累和危机中使用分开",
+    "counterexample_or_limit": "职责存在不等已拨全部需求或已执行。",
+    "abstain_when": "缺授权和资源就覆盖系统资金门。"
+  },
+  {
+    "source_unit": 16,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "title_zh": "救星与失败预言需实际证据",
+    "author_meaning": "作者说大规模倒闭、失业与恐慌的预言未实现，利率骤升至百分之十、准备很低时仍未发生恐慌；他将安抚归于伟大心智，并承认海军条件若改变，境况可能不同。",
+    "independent_analysis": "本章救星没具名不补身份，作者初观察非全战最终账；干预后没事不能证干预前无风险。",
+    "required_inputs": [
+      "预言原件",
+      "可用时点",
+      "政策",
+      "资产",
+      "行为结果"
+    ],
+    "horizon": "1914开战到1915写作截止",
+    "counterexample_or_limit": "带干预样本不同于无救助反事实。",
+    "abstain_when": "无样本报预言失败率或擅定人物。"
+  },
+  {
+    "source_unit": 16,
+    "paragraph_numbers": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "title_zh": "预计clamour与实际发生分开",
+    "author_meaning": "饥众比喻说明有粮及安抚，原明说未见群众clamour取金，只预计；二十5£票等100sovereigns，金有暂取又多来。",
+    "independent_analysis": "饥众是比，名义等不保所有用途兑付；不能删temporarywithdrawals/预期层，不从OHLCV造金量。",
+    "required_inputs": [
+      "可供资源",
+      "票权",
+      "实际取款",
+      "净金期间",
+      "调查"
+    ],
+    "horizon": "预期/发生/使用/兑现四阶段",
+    "counterexample_or_limit": "安慰须有真实兑现条件。",
+    "abstain_when": "只有情绪/收盘数据却认真实panic或外流。"
+  },
+  {
+    "source_unit": 17,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "title_zh": "意外国难与投机愚行救助责任分开",
+    "author_meaning": "作者主张，未料到且并非国家自身愚行造成的危机，应由国家与银行共同承担；若危机由公众过度投机造成，要求银行挽救其自招后果并不公平。高金准备搭配坏资产仍满足唯金标准，是其讽刺反证。",
+    "independent_analysis": "保规范不作普遍赔亏承诺，反语不当鼓励银行坏资产；具体责任仍需事实。",
+    "required_inputs": [
+      "危机起因",
+      "资产",
+      "角色",
+      "政策",
+      "责任条款"
+    ],
+    "horizon": "事件期及借款责任全期",
+    "counterexample_or_limit": "不是一切资产损失都应公款赔。",
+    "abstain_when": "缺起因/授权就判一切应兜底。"
+  },
+  {
+    "source_unit": 17,
+    "paragraph_numbers": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "title_zh": "批准旧承兑贴现无持票追索及期限保留",
+    "author_meaning": "政府保证央行贴现损失，票须moratorium前承兑且approved，无holderrecourse；后客户cover未到的承兑垫款至战争结束后一周年。",
+    "independent_analysis": "是两个具体措施不免所有人付款，后来年度收益未清，战争终日原时未知；无公告不认证法律细节或当代保护。",
+    "required_inputs": [
+      "原官方公告",
+      "bill资格",
+      "承兑日",
+      "角色",
+      "cover",
+      "到期"
+    ],
+    "horizon": "两种旧政策条件；战争结束+1年非固定已知日期",
+    "counterexample_or_limit": "approved与角色不明，可能不得利用。",
+    "abstain_when": "无资格/授权而许无限兑付/免还。"
+  },
+  {
+    "source_unit": 17,
+    "paragraph_numbers": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "title_zh": "丰金与优质需求少解释廉价并非悖论",
+    "author_meaning": "350m战争loan后金多钱便宜；高class券票少、军需忙棉业苦，金矿独立产出；主张金应用于换财富。",
+    "independent_analysis": "原金额/率/量未外核；金迟早返强句无期限，毁矿或丢海是反事实反语非处置指令，折现率上升净款降。",
+    "required_inputs": [
+      "金流",
+      "合格财富",
+      "需求",
+      "产业",
+      "报价单位"
+    ],
+    "horizon": "1914战时阶段与实际需求，未给未来反转期限",
+    "counterexample_or_limit": "能力多可与贷款需求少同存，贸易外部变化可破强句。",
+    "abstain_when": "报保证FX反转或把反语当销毁财富计划。"
+  },
+  {
+    "source_unit": 18,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "title_zh": "中央与各行共同依赖不当账户恒等",
+    "author_meaning": "准备比例必须有对应负债，商业银行停贷会把借者推向央行、增加中央贷款责任；作者说现制下两层高金准备比例难同时维持，除非停缓商业或黄金流入跟上负债。他另提出可发行法定纸票补供，并明确不能随意生产黄金。",
+    "independent_analysis": "商业行央行债权并不自动随央行ratio同比余额损减；汇总不重复底金，外债抵销须同到期可用。",
+    "required_inputs": [
+      "同日两层账",
+      "清算",
+      "真实金",
+      "到期",
+      "借款资格"
+    ],
+    "horizon": "压力窗口与协调行动期限",
+    "counterexample_or_limit": "高储同时可能性需初始条件，不推广绝无所有例外。",
+    "abstain_when": "无账户/流量仅单率而认证全系统容量。"
+  },
+  {
+    "source_unit": 19,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "title_zh": "补充法币机制是制度储备非金矿保障",
+    "author_meaning": "全国如企业应留应急机制，资产有升降，金生产有限；现制毁金需替代，法可给纸类似本国权力，财政票无息借款。",
+    "independent_analysis": "隐藏wealth非即时现金，企业国家类比不保证财富可支，free指无息非无义务，当前授权另核。",
+    "required_inputs": [
+      "政策授权",
+      "发行主体",
+      "资产",
+      "费用",
+      "兑现"
+    ],
+    "horizon": "未知危机预備及具体使用期",
+    "counterexample_or_limit": "当前依金与可改替代不同条件。",
+    "abstain_when": "总财富或纸材料即认为已可支付。"
+  },
+  {
+    "source_unit": 19,
+    "paragraph_numbers": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "财政小票需求、海外金地点与量限",
+    "author_meaning": "£1/10s适小币，初无金背却可用公众信；海外记央行金未运伦敦，军营需求大，ample不superabundance。",
+    "independent_analysis": "群众态度未全调查，三地资产与本地可交付不同，不能改成无上限币供；面额选择非唯一发行者必胜。",
+    "required_inputs": [
+      "发行/面额",
+      "公众接受",
+      "金存地",
+      "运输",
+      "需求",
+      "权限"
+    ],
+    "horizon": "开战应急期和小额支付期限",
+    "counterexample_or_limit": "账有金但无法及时交付，本地零钱仍少。",
+    "abstain_when": "缺地点与实际需求而认充足或无限发。"
+  },
+  {
+    "source_unit": 19,
+    "paragraph_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "title_zh": "保留机关与五六成金建议不等安全线",
+    "author_meaning": "不急撤票，国家credit/Consols部分保，作者说50或60%金足，保留有限数量不挥霍过发；未来信用提高是if。",
+    "independent_analysis": "数字是改革个人建议非校准线，国家票与债同风险非两份独立担保，战时国别未来未验证。",
+    "required_inputs": [
+      "发行上限",
+      "需求",
+      "资产权利",
+      "国家财力",
+      "市场深度"
+    ],
+    "horizon": "原战后提案，终战未知；未来资源另检",
+    "counterexample_or_limit": "主张充分而非过量，政府credit也会变化。",
+    "abstain_when": "拿50%硬门、两份同国风险当充分分散或预报国别未来。"
+  },
+  {
+    "source_unit": 20,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "title_zh": "经济信用与道德信用不同但作者跨层有张力",
+    "author_meaning": "银行依财富可贷坏人不贷穷好人，经济文明非道德文明；转引Withers战争产消危及credit，原以盟胜道德加强解释恢复。",
+    "independent_analysis": "道德胜利不当支付债的账资产，国家民族高低不作为特征；只引Withers一段不算全著已读。",
+    "required_inputs": [
+      "担保",
+      "现金",
+      "支付行为",
+      "生产",
+      "制度",
+      "作者语境"
+    ],
+    "horizon": "具体债务期及1915条件观点",
+    "counterexample_or_limit": "银行财富重心与道德基础信心是不同层，不合成同指标。",
+    "abstain_when": "个人国籍/名声代金融资料或称道德收益金额。"
+  },
+  {
+    "source_unit": 20,
+    "paragraph_numbers": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "title_zh": "战争创造与破坏共存不知净额期限",
+    "author_meaning": "軍需及其他production、消费一面增，毁一面续，作者坦言不能估数月后净损与修复时，再赞信心复兴。",
+    "independent_analysis": "流量不当净财富，总卖额不证净国富；强无长期疲惫须受未知净额限制，悲观/乐观都需证据。",
+    "required_inputs": [
+      "财富存量",
+      "消费产出",
+      "税债",
+      "日期",
+      "完整预测"
+    ],
+    "horizon": "月份净额原作者承认不可估，未来复苏无固定期限",
+    "counterexample_or_limit": "军人消费不证军費一定增社会净值。",
+    "abstain_when": "要净战收益/预测成功率/恒定复苏。"
+  },
+  {
+    "source_unit": 21,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "title_zh": "交易所与实体贸易不必同步",
+    "author_meaning": "以信心隔夜率反语分可贷credit；证券卖为贸易金可下价而商业旺，闲资也可经济差时推交易所，nationalgreatness与政府credit。",
+    "independent_analysis": "反语率非实际信心价；异步非永远反向，分红可持续未必证明全财富增，国别敌方压市意图无实证。",
+    "required_inputs": [
+      "行业贸易",
+      "证券成交",
+      "资金用途",
+      "财务",
+      "实际来源"
+    ],
+    "horizon": "同期贸易和证券观察及财务期间",
+    "counterexample_or_limit": "股跌不能单独推全社会停滞，反之亦然。",
+    "abstain_when": "日线替全国财富/敌方交易主体/伟大评分。"
+  },
+  {
+    "source_unit": 21,
+    "paragraph_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "title_zh": "60%垫款及价格限制是特殊保护非现代参数",
+    "author_meaning": "七月29未清交易所loan的贷款者持证券可央行借其价至60%，不追还至和平后一年或紧急法失效较先，无追加margin；最低价等限敌卖。",
+    "independent_analysis": "贷款者角色/资格/终止点保留，地板不当可执行价，估值日细则未有；两三年后更能评实际成功。",
+    "required_inputs": [
+      "原官方条款",
+      "借款角色",
+      "July29余额",
+      "证券估值",
+      "期限",
+      "限制",
+      "执行量"
+    ],
+    "horizon": "两终点先到；当前不启用历史融资比例",
+    "counterexample_or_limit": "第17战争后一年的另一安排不能混，地板可能无交易。",
+    "abstain_when": "无条件却宣称现六成融资保证或回测地板退出。"
+  },
+  {
+    "source_unit": 22,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "title_zh": "冻结财富与良好意愿不等现金",
+    "author_meaning": "关市freeze自有/担保证券约80mloan、票与汇路也冻，债户愿却不能寄，运输阻金；纽约金到Ottawa非伦敦。",
+    "independent_analysis": "功能似资本毁不表示产权全灭，交易所集体称不认运营法人债；embargo传闻原不信，德国动机未核。",
+    "required_inputs": [
+      "停市",
+      "抵押权",
+      "到期",
+      "货币位置",
+      "物流",
+      "真实清算"
+    ],
+    "horizon": "冻结起止及付款时点",
+    "counterexample_or_limit": "优质常态排序失效，不可旧收价模拟退出。",
+    "abstain_when": "资产好/付款愿意就保证即兑，或未核禁令作事实。"
+  },
+  {
+    "source_unit": 22,
+    "paragraph_numbers": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "title_zh": "政策平稳需区分观察与干预及对象",
+    "author_meaning": "作者赞同暂停偿付及后续逐步解除复杂性的措施，唯一质疑的是央行迅速将利率升至百分之十；他假设若法律要求先升到百分之十才可发应急币，就应修改这一限制。存户很少需借暂停保护，贸易却有需要；小额纸票机制应保留使用，不应滥用。",
+    "independent_analysis": "if十息法律未外核，受援平稳不证自有cash无需救，换票为金不是panic证明；难再来是未来判断。",
+    "required_inputs": [
+      "政策时间",
+      "授权",
+      "存户/贸易对象",
+      "实际兑付",
+      "行为"
+    ],
+    "horizon": "初危机到1915初评；未来未知",
+    "counterexample_or_limit": "anticipated挤兑、实际少兑与资源可用须分。",
+    "abstain_when": "没有实际行为就判panic，或受援史当无援试验。"
+  },
+  {
+    "source_unit": 23,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "title_zh": "制度可演变及国家职责不是无限可兑",
+    "author_meaning": "作者归制度心理、法赋金力，拒绝绝保比例，提少行合并乃至国家银行分支、央行储和共同pool，信政府可救。",
+    "independent_analysis": "国家特性非人格重建，规范应做不等资源已给，协调不增加底金、位置本书19又有条件，所有硬门保留。",
+    "required_inputs": [
+      "权限",
+      "财政资源",
+      "两层账",
+      "pool权利",
+      "治理",
+      "期限"
+    ],
+    "horizon": "改革提议与实际支付期分开",
+    "counterexample_or_limit": "不存在数保万能不让省所有缓冲。",
+    "abstain_when": "由作者保证国家而认证所有现实风险可消。"
+  },
+  {
+    "source_unit": 23,
+    "paragraph_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "title_zh": "主权储蓄、通胀与外贸因果须条件化",
+    "author_meaning": "作者邮储当national safe、除沉海绝保，封闭自给币膨胀无害；现实超进口付款、德国纸贬链；Russia另由出口航路封锁。",
+    "independent_analysis": "强命题非认证，封闭仍需内部契约审，PG/原印exports措辞同样歧义不默修；俄罗斯不同cause不能合并无限印币解释。",
+    "required_inputs": [
+      "当前法律",
+      "财政",
+      "币量价",
+      "国际契约",
+      "贸易物流",
+      "付款"
+    ],
+    "horizon": "作者1915语境；当前/未来需实际期",
+    "counterexample_or_limit": "未来paper贬未在当时结算，别国无同一模型。",
+    "abstain_when": "要绝保银行、现代通胀单因或无条件FX预测。"
+  },
+  {
+    "source_unit": "A",
+    "paragraph_numbers": [
+      2,
+      4,
+      6,
+      7
+    ],
+    "title_zh": "正常对照日与准备分母必须显示",
+    "author_meaning": "附录选一九一四年六月二十四日的正常周报，与第九章异常周报对照；准备由票钞及金银硬币组成，附录列出百分之四十七又八分之一。",
+    "independent_analysis": "全表各边80716327闭，reserve29675138/deposit62990125=47.11078%可近似47⅛但round方法未给；对照两日期非全年全序列。",
+    "required_inputs": [
+      "该日两部原表",
+      "reserve组成",
+      "分母责任",
+      "原始表时间"
+    ],
+    "horizon": "1914-06-24单日对照",
+    "counterexample_or_limit": "资本Rest不是同样公众可取负债；加bills分母另值。",
+    "abstain_when": "把47⅛当所有年度精确率/建议安全线或异常日期已知。"
+  },
+  {
+    "source_unit": "B",
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "附录政治赞同含真实需求、安全限和可预见边界",
+    "author_meaning": "Wall通过《Morning Post》的报告，转引二月二十三日议会讨论中Chamberlain与Lloyd George的意见：以纸币替代内部用金须响应真实需要而非人为膨胀；应集中较大黄金准备，并在紧急时使用。未来六或十二个月压力可能增加，黄金足以应付可预见危机是Lloyd George表达的信念。",
+    "independent_analysis": "不是无人主张储备、不是所有遥远危机可保，不算MorningPost全文或完整官方debate读；转引言论非政策权限或个人保证。",
+    "required_inputs": [
+      "原报告/公告",
+      "量与真实需求",
+      "财政资源",
+      "用途",
+      "期间"
+    ],
+    "horizon": "Feb23该次言论及6/12月预测，不确定未来",
+    "counterexample_or_limit": "safe limits无校准数，预见范围限内，支持不是无条件。",
+    "abstain_when": "将议会信念当已发行授权或无限安全。"
+  }
+]

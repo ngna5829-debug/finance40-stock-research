@@ -1,0 +1,725 @@
+{
+  "book_id": "P07",
+  "title": "The Stock Exchange: A Short Study of Investment and Speculation",
+  "author": "Francis W. Hirst",
+  "first_publication_year": 1911,
+  "edition": "纽约Henry Holt/伦敦Williams and Norgate版权1911文本；扫描副本后置广告含1913评论及战争后题材，实际印次不能仅按版权页定1911。原著首版1911据图书馆目录，具体扫描印次未知。",
+  "source_url": "https://archive.org/download/stockexchangesho00hirsrich/stockexchangesho00hirsrich_djvu.txt",
+  "catalogue_url": "https://archive.org/details/stockexchangesho00hirsrich",
+  "library_catalogue_url": "https://openlibrary.org/books/OL7069515M/The_stock_exchange",
+  "source_file": "work/book-experts-v5/index_team/P07/source/original.txt",
+  "source_bytes": 382183,
+  "source_sha256": "11164d33cc6441a6652941f0e97ac31143953c1e76169b014cbed5f55e920945",
+  "source_line_count": 9211,
+  "pdf_file": "work/book-experts-v5/index_team/P07/source/stockexchangesho00hirsrich.pdf",
+  "pdf_pages": 272,
+  "pdf_sha256": "d931a3126a36d7209d32b35d62dfcb9291a942004da28468c9081291bb3ab010",
+  "rights": {
+    "basis": "作品1911出版，美国最长出版期限95年已届满；公共图书馆扫描来自Internet Archive公开文件，无private/access-restricted标记；未声称全球逐法域核准。",
+    "explicit_ia_licenseurl": null,
+    "source_public_access_verified": true,
+    "pre_1931_work_verified": true,
+    "status": "Public domain in the USA",
+    "official_term_evidence_url": "https://www.copyright.gov/what-is-copyright/",
+    "term_evidence": "美国版权局当前页面说明美国1931年前出版作品保护届满；已目视扫描版权1911，但实际印次未知，不将版权年自动当印刷年。",
+    "scope_qualification": "1911原著的美国公版判断与未知较晚印次附带广告分别处理；未核准广告版权，不额外复制重分发广告内容；现代译本和全球各法域不在本次核准范围。"
+  },
+  "single_independent_work_count": 1,
+  "original_numbered_chapter_count": 9,
+  "unnumbered_introduction": {
+    "source_lines_inclusive": [
+      111,
+      438
+    ],
+    "pdf_pages_inclusive": [
+      11,
+      21
+    ],
+    "printed_pages": [
+      7,
+      17
+    ],
+    "complete_semantic_reading": true,
+    "reading_blocks_global_inclusive": [
+      [
+        1,
+        280
+      ],
+      [
+        281,
+        440
+      ]
+    ],
+    "chapter_draft_written": true,
+    "draft_file": "work/book-experts-v5/index_team/P07/chapters/introduction.md",
+    "han_body_count": 2216,
+    "draft_sha256": "12700fae5828b5625c9708fe4db3b895a4f33748a8840ad0e06986eab4f644e3"
+  },
+  "frontmatter": {
+    "source_lines_inclusive": [
+      1,
+      110
+    ],
+    "complete_semantic_reading": true,
+    "catalogue_pagination_OCR_gaps": "原目录转录I13/II40/VI iCi1以及IV漏页码；PDF9目视分别18/46/164及102，已记录不改原文。",
+    "copyright_year_visual_verified": true
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Early History of Banking and Stock-Jobbing",
+      "source_lines_inclusive": [
+        439,
+        1346
+      ],
+      "pdf_pages_inclusive": [
+        22,
+        49
+      ],
+      "printed_pages_nominal": [
+        18,
+        45
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch01-original.txt",
+      "source_text_sha256": "bf5fcc52c5c9e8c16efb258be0ce55d3d2d551870257371741769ae912b95fde",
+      "original_word_count": 5777,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [
+        [
+          439,
+          738
+        ],
+        [
+          578,
+          650
+        ],
+        [
+          739,
+          978
+        ],
+        [
+          979,
+          1188
+        ],
+        [
+          1189,
+          1346
+        ]
+      ],
+      "output_truncation_repair": "首块截断218 tokens，578–650补读覆盖被截部分；其余块无截断。",
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch01.md",
+      "han_body_count": 2704,
+      "draft_sha256": "e16767877da323161bf39bc2a77b3447a99aaca1ab47d7686c2d8fbd5d7f0316"
+    },
+    {
+      "chapter": 2,
+      "title": "The London Stock Exchange, 1800–1910",
+      "source_lines_inclusive": [
+        1347,
+        2345
+      ],
+      "pdf_pages_inclusive": [
+        50,
+        79
+      ],
+      "printed_pages_nominal": [
+        46,
+        75
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch02-original.txt",
+      "source_text_sha256": "017b591d98a2f1612ae2656c0efe52238d7d0dbf021eeff4b8a37d4dc4fb198a",
+      "original_word_count": 6320,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          999
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch02.md",
+      "han_body_count": 2835,
+      "draft_sha256": "83922862dffeaa76927709ccb0108f13aea4b55ec2417d4a62a46a79815ac531",
+      "source_reading_method": "四块全部章原文，无截断；PDF60/61/78目视补核年代段落、数表与报价。"
+    },
+    {
+      "chapter": 3,
+      "title": "London’s Foreign Market and the Foreign Bourses",
+      "source_lines_inclusive": [
+        2346,
+        3217
+      ],
+      "pdf_pages_inclusive": [
+        80,
+        105
+      ],
+      "printed_pages_nominal": [
+        76,
+        101
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch03-original.txt",
+      "source_text_sha256": "7ceb508206d014b5521dfd7e251c76622b7ff5754d8aacfb94be26eacf982000",
+      "original_word_count": 5235,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          220
+        ],
+        [
+          221,
+          440
+        ],
+        [
+          441,
+          660
+        ],
+        [
+          661,
+          872
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch03.md",
+      "han_body_count": 2958,
+      "draft_sha256": "2e8e67a11438d55c3e1cfc8dcfd536e07c849282fc4ec12dcf436b24b32a14f8",
+      "source_reading_method": "四块全文均无截断，包括十五行法国估算表、各交易所制度、Fiat拆股及中日案例。"
+    },
+    {
+      "chapter": 4,
+      "title": "Wall Street",
+      "source_lines_inclusive": [
+        3218,
+        4363
+      ],
+      "pdf_pages_inclusive": [
+        106,
+        140
+      ],
+      "printed_pages_nominal": [
+        102,
+        136
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch04-original.txt",
+      "source_text_sha256": "b64a01eefa19576bbd5b0d202443d16dad9e36df8aabfd2106d7eb8d75b5e8e0",
+      "original_word_count": 7431,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          230
+        ],
+        [
+          231,
+          460
+        ],
+        [
+          461,
+          690
+        ],
+        [
+          691,
+          920
+        ],
+        [
+          921,
+          1146
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch04.md",
+      "han_body_count": 2880,
+      "draft_sha256": "f230ed6762d45cd39e34685cba7f666337e7965c8cfc687fe29576a0480dbf78",
+      "source_reading_method": "五块全部原文无截断；三组机构历史与官方史料不同，六页关键数值/叙述原图复看。"
+    },
+    {
+      "chapter": 5,
+      "title": "Good Securities and the Art of Investment",
+      "source_lines_inclusive": [
+        4364,
+        5262
+      ],
+      "pdf_pages_inclusive": [
+        141,
+        167
+      ],
+      "printed_pages_nominal": [
+        137,
+        163
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch05-original.txt",
+      "source_text_sha256": "04e612747abaf3c0333c5b2c3ba0cf24b04958f5eddd6fda6e7877d5caf5761b",
+      "original_word_count": 5656,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          225
+        ],
+        [
+          226,
+          450
+        ],
+        [
+          451,
+          675
+        ],
+        [
+          676,
+          899
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch05.md",
+      "han_body_count": 2838,
+      "draft_sha256": "2cf749f8e9c1a1f4bc4d9db1a5b9690c3b22f59633129951d9e4fbdec3beba18",
+      "source_reading_method": "四块全部原文无截断，含Meade引述/B&O接管、各债与优先股权利、末段行业/时点条件；PDF164目视未低估措辞。"
+    },
+    {
+      "chapter": 6,
+      "title": "Speculative Securities and Modes of Speculation",
+      "source_lines_inclusive": [
+        5263,
+        6027
+      ],
+      "pdf_pages_inclusive": [
+        168,
+        190
+      ],
+      "printed_pages_nominal": [
+        164,
+        186
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch06-original.txt",
+      "source_text_sha256": "58716e6ae0cc77f4f1d86e584b16533be7950a00309f9b293c96a8e6521eba72",
+      "original_word_count": 5001,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          765
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch06.md",
+      "han_body_count": 2755,
+      "draft_sha256": "af01b18c38e030fceaed439a2d5c0f54983bb97232c85da2f33e4f34bd066f17",
+      "source_reading_method": "三块全部章全文无截断，含产金表、金价购买力、橡胶、投机定义、法律解释与完整结算/期权收尾。"
+    },
+    {
+      "chapter": 7,
+      "title": "Why the Prices of Securities Rise and Fall",
+      "source_lines_inclusive": [
+        6028,
+        6849
+      ],
+      "pdf_pages_inclusive": [
+        191,
+        215
+      ],
+      "printed_pages_nominal": [
+        187,
+        211
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch07-original.txt",
+      "source_text_sha256": "4974bac59b802d7ddbd08fbd34dade95ffce79ca1cc1f511af32f77e7b7cc3ef",
+      "original_word_count": 5343,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ],
+        [
+          211,
+          420
+        ],
+        [
+          421,
+          630
+        ],
+        [
+          631,
+          822
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch07.md",
+      "han_body_count": 2859,
+      "draft_sha256": "44634eb8a11e8ef5dfdea9d9f333a0a43b74305294f355fe01dcc1959ed1ff57",
+      "source_reading_method": "四块整章无截断，包括全部货币讨论、金与信用因果限定、供需/收入/期限、假设操纵与外部冲击边界、价格价值末论。"
+    },
+    {
+      "chapter": 8,
+      "title": "The Creation of New Debt and Capital",
+      "source_lines_inclusive": [
+        6850,
+        8094
+      ],
+      "pdf_pages_inclusive": [
+        216,
+        245
+      ],
+      "printed_pages_nominal": [
+        212,
+        241
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch08-original.txt",
+      "source_text_sha256": "4b3e623b19e581db062bff1e4ca9af673c710a03fa2fa9daf7609c9b31a45a10",
+      "original_word_count": 6342,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          1000
+        ],
+        [
+          1001,
+          1245
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch08.md",
+      "han_body_count": 3099,
+      "draft_sha256": "897cb52f6d051487076500d80aac2b848547a1597333a86b639ee5b907381dd0",
+      "source_reading_method": "五块全文无截断；两表整页原图补读所有行列及脚注，未转实验数据。"
+    },
+    {
+      "chapter": 9,
+      "title": "Cautions and Precautions",
+      "source_lines_inclusive": [
+        8095,
+        8454
+      ],
+      "pdf_pages_inclusive": [
+        246,
+        256
+      ],
+      "printed_pages_nominal": [
+        242,
+        252
+      ],
+      "source_file": "work/book-experts-v5/index_team/P07/source/ch09-original.txt",
+      "source_text_sha256": "144e388ef7dd6b58e6c5343ef3a50b9b9cdbf1df0329450d8dd870a4d0c33b10",
+      "original_word_count": 2292,
+      "complete_semantic_reading": true,
+      "reading_blocks_global_inclusive": [],
+      "output_truncation_repair": null,
+      "chapter_draft_written": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          180
+        ],
+        [
+          181,
+          360
+        ]
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P07/chapters/ch09.md",
+      "han_body_count": 2495,
+      "draft_sha256": "d494af094a4af38c1bbfc9ee4182f64c65c750f2ec941633a0616b80c3e7c482",
+      "source_reading_method": "两块章全文无截断，包括美国创业让步、保险/住宅、隐藏交易差价、分散、未缴足股、新闻三要求及长期复核。"
+    }
+  ],
+  "book_semantic_reading_completed": true,
+  "full_reading_completed": false,
+  "current_stock_decision_enabled": false,
+  "status": "semantic_artifacts_independently_qualified_with_source_limits",
+  "independent_qa_status": "passed_with_source_limits",
+  "literal_all_printed_words_verified": false,
+  "visual_no_or_sparse_ocr_pages": [
+    {
+      "pdf_page": 1,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf001.png",
+      "classification": "前封面含系列名与图书馆条码",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 2,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf002.png",
+      "classification": "大学图书馆藏书票，图案内文字；不是内容空页",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 3,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf003.png",
+      "classification": "扫描空白页",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 4,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf004.png",
+      "classification": "Internet Archive数字化说明2007/Microsoft；非作者正文",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 10,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf010.png",
+      "classification": "目录背面扫描空白页",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 269,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf269.png",
+      "classification": "扫描空白页",
+      "visually_reviewed": true
+    },
+    {
+      "pdf_page": 272,
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf272.png",
+      "classification": "后封面无正文",
+      "visually_reviewed": true
+    }
+  ],
+  "key_visual_review": [
+    {
+      "pdf_page": 8,
+      "scope": "版权页1911与Holt印刷信息",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf008.png"
+    },
+    {
+      "pdf_page": 9,
+      "scope": "完整9章目录及引言、术语表、书目页码",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf009.png"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 32,
+      "scope": "Sol名称重复在纸本中存在，不擅改Pro，分类解释待外部核准",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf036.png"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 38,
+      "scope": "南海股票二千价格纸本确写2000，非本次OCR错；历史正确性未独立核准",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf042.png"
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 56,
+      "scope": "1834–5早期铁路热潮与1844–5实际建设段落文字原图确认；时期不合并",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf060.png"
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 57,
+      "scope": "第一期外国方案48，OCR43识别错误；156+48=204。各三行原图可读，历史范围未另核准",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf061.png"
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 74,
+      "scope": "报价78又7/8–79，佣金1/8及£1 5 0、stamp2s、总£791 7s目视核准印刷值；非现代费率",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf078.png"
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 91,
+      "scope": "26 billion francs与6 or7 millions of municipal bonds原纸本写法确认；后者金额/债券数量不明确，不擅改billions",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf095.png"
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 97,
+      "scope": "Fiat25面值、2300、改10单位、750→80→34原印刷值核对；未核历史回报",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf101.png"
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 104,
+      "scope": "第一银行位于Wall Street、第二1816–1832原书确写；与官方史料有差异",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf108.png"
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 107,
+      "scope": "原书baker’sdozen/19世纪初树下起源，与NYSE官方1792/24名不同",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf111.png"
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 108,
+      "scope": "旧佣金1/32、新旧竞争1/4→1/8核原印刷分数",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf112.png"
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 119,
+      "scope": "农人2300存款及1300/1000分配核原印刷",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf123.png"
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 125,
+      "scope": "PacificMail保证金60%印刷确认，百分比分母未明确，不当作市值比例安全阈值",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf129.png"
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": 134,
+      "scope": "银团融资after1906确写，不改1896",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf138.png"
+    },
+    {
+      "pdf_page": 164,
+      "printed_page": 160,
+      "scope": "not undervalued原书确写，估值条件表达方向仍待解释；不得默改overvalued。",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf164.png"
+    },
+    {
+      "pdf_page": 224,
+      "printed_page": 220,
+      "scope": "完整用途表两年、30金额行、合计与前文21m续借阅读；补OCR漏行名，制造1910原图5086300非OCR6086300。全部历史来源未独立核。",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf224.png"
+    },
+    {
+      "pdf_page": 226,
+      "printed_page": 222,
+      "scope": "完整目的地表，包括1909合并5625900与1910独立国家；footnote未分列不是零，Sweden/Japan1910破折号保留。",
+      "image": "work/book-experts-v5/index_team/P07/source-review/pdf226.png"
+    }
+  ],
+  "completed_chapters": 9,
+  "chapter_body_han_total": 25423,
+  "introduction_han_count": 2216,
+  "external_fact_checks": [
+    {
+      "original_claim": "第一美国银行位于华尔街、第二银行1816–1832",
+      "book_pdf_page": 108,
+      "official_url": "https://www.federalreservehistory.org/essays/first-bank-of-the-us",
+      "second_official_url": "https://www.newyorkfed.org/aboutthefed/history_article",
+      "official_findings": "第一银行1791费城开业；第二联邦特许1836届满。总部、分支和政治阶段不可混用。",
+      "does_not_modify_original": true
+    },
+    {
+      "original_claim": "约13名交易者19世纪初在树下形成NYSE",
+      "book_pdf_page": 111,
+      "official_url": "https://www.nyse.com/history-of-nyse",
+      "official_findings": "官方将起源列为1792-05-17签约24名经纪。",
+      "does_not_modify_original": true
+    }
+  ],
+  "coverage_qualified": true,
+  "all_numeric_tables_verified": false,
+  "experiments_run": false,
+  "postmatter": {
+    "source_lines_inclusive": [
+      8455,
+      9211
+    ],
+    "complete_semantic_reading": true,
+    "reading_blocks_global_inclusive": [
+      [
+        8455,
+        8720
+      ],
+      [
+        8721,
+        8970
+      ],
+      [
+        8971,
+        9211
+      ]
+    ],
+    "scope": "完整术语表、12项书目及全部系列广告与借书印记；广告作品未当新增已读书。",
+    "glossary_lines": [
+      8455,
+      8599
+    ],
+    "bibliography_start_line": 8600,
+    "glossary_pdf_pages": [
+      257,
+      259
+    ],
+    "bibliography_pdf_pages": [
+      259,
+      260
+    ],
+    "original_index_present": false,
+    "original_appendix_present": false,
+    "literal_scan_each_word_verified": false,
+    "bibliography_lines": [
+      8600,
+      8684
+    ],
+    "advertising_and_library_marks_lines": [
+      8685,
+      9211
+    ]
+  },
+  "source_version_qualification": {
+    "copyright_year": 1911,
+    "scan_printing_year": "unknown",
+    "post_ad_evidence": "完整广告含Ancient Art and Ritual引1913年评论、ReconstructionandUnion1865–1912、Serbia战争后安排和Laski职衔等，后广告不能倒填正文写作时点。",
+    "copyright_year_not_printing_year": true
+  },
+  "rule_count": 32,
+  "rule_evidence_anchor_count": 44,
+  "line_page_mapping": {
+    "file": "work/book-experts-v5/index_team/P07/source/line-page-map.json",
+    "matched_nonempty_lines": 7758,
+    "source_nonempty_lines": 7758,
+    "all_nonempty_source_lines_exactly_mapped": true
+  },
+  "final_qualified": true,
+  "root_primary_historical_fact_review": {
+    "reviewer": "root",
+    "primary_urls": [
+      "https://www.federalreservehistory.org/essays/first-bank-of-the-us",
+      "https://www.federalreservehistory.org/essays/second-bank-of-the-us",
+      "https://www.nyse.com/history-of-nyse"
+    ],
+    "findings_paraphrase": "第一银行1791年12月12日在费城开业、纽约分行1792；第二1816获特许1817开业，1832续约否决与1836联邦特许届满不同；NYSE1792年5月17日24经纪协议，1817正式宪章组织，不同于原书约13名/19世纪初/1816叙述。",
+    "external_facts_not_other_whole_books_read": true,
+    "original_source_values_retained": true
+  }
+}

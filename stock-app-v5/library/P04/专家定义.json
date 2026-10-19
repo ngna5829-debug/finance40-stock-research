@@ -1,0 +1,1727 @@
+{
+  "book_id": "P04",
+  "expert_id": "P04-Bagehot-LombardStreet",
+  "expert_name": "白芝浩《伦巴第街》信用与储备分析专家",
+  "expert_count": 1,
+  "book_count": 1,
+  "group_suggestion": "货币、信用与金融制度",
+  "author": "Walter Bagehot",
+  "title": "Lombard Street: A Description of the Money Market",
+  "source_metadata_file": "work/book-experts-v5/index_team/P04/source-metadata.json",
+  "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+  "book_semantic_reading_completed": true,
+  "coverage_status": "coverage_qualified",
+  "independent_qa_status": "passed_after_required_corrections_with_source_limits",
+  "literal_all_printed_words_verified": false,
+  "all_numeric_tables_exactly_verified": false,
+  "source_base_printed_edition_confirmed": false,
+  "current_stock_decision_enabled": false,
+  "live_market_connected": false,
+  "backtest_run": false,
+  "experiment_count": 0,
+  "rules_count": 26,
+  "rules": [
+    {
+      "id": "P04-R01",
+      "title": "可借资金与总财富分开",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "商业融资便利来自可集中并及时借出的资金，不能由一国总财产直接推出。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            135,
+            157
+          ],
+          "source_excerpt_sha256": "bd3a17d5abdeeffeaa31bc8181aab6434c908bdaff5aafc7ea79c8450c7d2abb",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "商业融资便利来自可集中并及时借出的资金，不能由一国总财产直接推出。",
+          "chapter": 1,
+          "context_range": [
+            50,
+            465
+          ],
+          "match_phrase": "Concentration of money in banks"
+        }
+      ],
+      "required_inputs": [
+        "可借资金覆盖",
+        "资金调用时间",
+        "借款用途"
+      ],
+      "abstain_when": "若不能区分真实资产与可动用信用，只提出资料要求。",
+      "modern_extension_boundary": "现代金融账户应另行定义，不能把市值或交易量代替可借资金。",
+      "cross_challenge_revision_evidence": "真实资金去向和调用条件可修正判断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 1,
+          "lines_inclusive": [
+            50,
+            465
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R02",
+      "title": "杠杆利润必须同时说明融资责任",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "借入资金可能提高自有资本的利润比例，也使经营依赖外部资金和支付承诺。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            199,
+            225
+          ],
+          "source_excerpt_sha256": "192546e52bd67ef2b983fd7ba2b282260aea8274de495831382737f7b5814aa4",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "借入资金可能提高自有资本的利润比例，也使经营依赖外部资金和支付承诺。",
+          "chapter": 1,
+          "context_range": [
+            50,
+            465
+          ],
+          "match_phrase": "If a merchant have 50,000"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            382,
+            392
+          ],
+          "source_excerpt_sha256": "4a8d928670efc194e9e9a018ae1a4722a221ea13e259c3c23715e356d5bcf693",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "借入资金可能提高自有资本的利润比例，也使经营依赖外部资金和支付承诺。",
+          "chapter": 1,
+          "context_range": [
+            50,
+            465
+          ],
+          "match_phrase": "But in exact proportion to the power of this system"
+        }
+      ],
+      "required_inputs": [
+        "自有资本",
+        "借款金额及利率",
+        "经营利润分母",
+        "到期条款"
+      ],
+      "abstain_when": "原章算例是假设，不视为可重复回报。",
+      "modern_extension_boundary": "现代税费、损失和融资撤回风险须另列。",
+      "cross_challenge_revision_evidence": "实际融资成本和损失记录可推翻高杠杆更有利的印象。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 1,
+          "lines_inclusive": [
+            50,
+            465
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R03",
+      "title": "银行间存款不等于独立最终准备金",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "同一现金经重复存入与贷出支持更多负债，账面存款不能简单相加为最后支付资源。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            660,
+            678
+          ],
+          "source_excerpt_sha256": "1d60d7f3b013de43ffa112bca6269bdd4f133ba62a22e41f1133b69ccb3b8ddc",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "同一现金经重复存入与贷出支持更多负债，账面存款不能简单相加为最后支付资源。",
+          "chapter": 2,
+          "context_range": [
+            466,
+            1601
+          ],
+          "match_phrase": "Suppose, a favourable supposition"
+        }
+      ],
+      "required_inputs": [
+        "机构间资金链",
+        "现金持有人",
+        "重复债权",
+        "负债日期"
+      ],
+      "abstain_when": "找不到最后支付资源时弃权于量化安全结论。",
+      "modern_extension_boundary": "现代央行准备金、现金与可动用资产须按制度区分。",
+      "cross_challenge_revision_evidence": "独立未被占用且可立即支付的资源会改变资源估计。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 2,
+          "lines_inclusive": [
+            466,
+            1601
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R04",
+      "title": "个体可售资产与体系现金分开",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "一家银行平时可售公债，不保证所有银行共同急售时同样能取得现金。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            1308,
+            1320
+          ],
+          "source_excerpt_sha256": "9a4b472d970b2420405f271c90ead44e96b9f50b57876f23b6ef1cbd11aa61ef",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "一家银行平时可售公债，不保证所有银行共同急售时同样能取得现金。",
+          "chapter": 2,
+          "context_range": [
+            466,
+            1601
+          ],
+          "match_phrase": "The case is just the same if the banker wants to sell Consols"
+        }
+      ],
+      "required_inputs": [
+        "资产出售市场",
+        "潜在买方现金",
+        "共同压力情景",
+        "应急工具"
+      ],
+      "abstain_when": "没有共同压力下买方和融资来源证据，不能把证券全部计作现金。",
+      "modern_extension_boundary": "不同市场深度及央行操作框架改变可变现性。",
+      "cross_challenge_revision_evidence": "可靠压力交易记录可修正极端缺买方假设。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 2,
+          "lines_inclusive": [
+            466,
+            1601
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R05",
+      "title": "最终储备持有者的责任来自依赖结构",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "当市场依赖一家机构的最终现金，该机构的行为会决定体系支付，并承担超出普通银行的责任。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            1380,
+            1388
+          ],
+          "source_excerpt_sha256": "54310d023b9187a587f6c2cc9a33c90f80ed5ee79dc54896b8c72ae7f1818d83",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "当市场依赖一家机构的最终现金，该机构的行为会决定体系支付，并承担超出普通银行的责任。",
+          "chapter": 2,
+          "context_range": [
+            466,
+            1601
+          ],
+          "match_phrase": "The real reason has not been distinctly seen"
+        }
+      ],
+      "required_inputs": [
+        "最终储备集中度",
+        "其他机构依赖",
+        "可得支持条款"
+      ],
+      "abstain_when": "仅有政府账户或发钞资格不足以证明相同责任结构。",
+      "modern_extension_boundary": "现代职责须以法律和实际工具定义，不能照搬给所有上市银行。",
+      "cross_challenge_revision_evidence": "多中心实际独立支付能力会减弱单点依赖判断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 2,
+          "lines_inclusive": [
+            466,
+            1601
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R06",
+      "title": "制度历史不能冒充最优设计",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "伦敦体系由政府融资、银行特权和渐变习惯形成，其存在不是精心选择最优架构的证据。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2116,
+            2123
+          ],
+          "source_excerpt_sha256": "958da044fa39600f48fc6789b3d573c661843218c8d5dc0184f4de3884181cf4",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "伦敦体系由政府融资、银行特权和渐变习惯形成，其存在不是精心选择最优架构的证据。",
+          "chapter": 3,
+          "context_range": [
+            1602,
+            2127
+          ],
+          "match_phrase": "Thus our one reserve system of banking was not deliberately founded"
+        }
+      ],
+      "required_inputs": [
+        "制度沿革",
+        "特权和职责",
+        "当时选择约束"
+      ],
+      "abstain_when": "不按今日词义重写早期银行职能。",
+      "modern_extension_boundary": "现代制度比较属于独立研究。",
+      "cross_challenge_revision_evidence": "更完整史料可改变事件、动机和制度作用的归因。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 3,
+          "lines_inclusive": [
+            1602,
+            2127
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R07",
+      "title": "政府资金需要具体支付节奏",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "第四章要求财政部门承认其市场责任，安排收支以缓和恐慌；第十二章说明和平时政府账户可预测，而战争时这一性质反转。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2357,
+            2363
+          ],
+          "source_excerpt_sha256": "3fc53b6afc3796a14dd8df01374a01a146d5baa8d787570aa1479aab3ea212aa",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "财政责任和安排资金缓和恐慌。",
+          "chapter": 4,
+          "context_range": [
+            2128,
+            2376
+          ],
+          "match_phrase": "On the whole, therefore, the position of the Chancellor"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6339,
+            6369
+          ],
+          "source_excerpt_sha256": "cdd99faed8c10df6b85ef033bac1e54a771526053793af55627dab4dfb5404f6",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "和平时政府账户容易预测，战争支出分散使账户高度不确定；内部转账特征也影响现金需求。",
+          "chapter": 12,
+          "context_range": [
+            6293,
+            6865
+          ],
+          "match_phrase": "These are general truths as to all banks"
+        }
+      ],
+      "required_inputs": [
+        "财政收支日程",
+        "政府余额",
+        "战争或紧急支出",
+        "账户转移性质"
+      ],
+      "abstain_when": "资料不能区分内部记账与现金外付时不量化冲击。",
+      "modern_extension_boundary": "现代国库管理与央行账户制度需另定义。",
+      "cross_challenge_revision_evidence": "真实支付峰值和账户间转移记录可修正压力判断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 4,
+          "lines_inclusive": [
+            2128,
+            2376
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R08",
+      "title": "市场资金价格不是单一机构永久控制",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "领先银行影响边际利率，外部资金和借款需求仍限制较长期任意定价能力。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2413,
+            2420
+          ],
+          "source_excerpt_sha256": "f9540af7b141f95b503f5f05817f8bc7b020fbbb4253d96628e5427f57ec9e49",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "领先银行影响边际利率，外部资金和借款需求仍限制较长期任意定价能力。",
+          "chapter": 5,
+          "context_range": [
+            2377,
+            2559
+          ],
+          "match_phrase": "The reason is obvious. At all ordinary moments"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2432,
+            2441
+          ],
+          "source_excerpt_sha256": "cf72fd19441f5918f8f8f0429959e691df539037593d0d2cb9d98f684f92d9be",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "领先银行影响边际利率，外部资金和借款需求仍限制较长期任意定价能力。",
+          "chapter": 5,
+          "context_range": [
+            2377,
+            2559
+          ],
+          "match_phrase": "The notion that the Bank of England has a control"
+        }
+      ],
+      "required_inputs": [
+        "市场利率",
+        "合格借款需求",
+        "其他资金供给",
+        "期限"
+      ],
+      "abstain_when": "不能仅由政策报价认定全部成交资金成本。",
+      "modern_extension_boundary": "原书value of money在本章主要指资金利率，不等同购买力。",
+      "cross_challenge_revision_evidence": "实际成交和资金替代能力可修正边际定价作用。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 5,
+          "lines_inclusive": [
+            2377,
+            2559
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R09",
+      "title": "繁荣需要真实生产与信用条件共同解释",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "便宜粮食、生产扩张、资金及信用变化可共同推动兴旺，名义涨价并不等于等额新增真实财富。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2674,
+            2691
+          ],
+          "source_excerpt_sha256": "ef0fbcb228621d6eea8db04065a9498516c81d7c3bf840c4542510d84555792f",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "便宜粮食、生产扩张、资金及信用变化可共同推动兴旺，名义涨价并不等于等额新增真实财富。",
+          "chapter": 6,
+          "context_range": [
+            2560,
+            3365
+          ],
+          "match_phrase": "The most common, and by far the most important"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2734,
+            2742
+          ],
+          "source_excerpt_sha256": "da31dc9a27593b1333a224969b9ff3aabb1154b8a68f5c0e509b1c5cda8cbeb3",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "便宜粮食、生产扩张、资金及信用变化可共同推动兴旺，名义涨价并不等于等额新增真实财富。",
+          "chapter": 6,
+          "context_range": [
+            2560,
+            3365
+          ],
+          "match_phrase": "These two variable causes are causes of real prosperity"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            3174,
+            3204
+          ],
+          "source_excerpt_sha256": "55cd7657e4003ded933cd08e36c01cfeaacb41503086a989d3fba4cf9abf801a",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "便宜粮食、生产扩张、资金及信用变化可共同推动兴旺，名义涨价并不等于等额新增真实财富。",
+          "chapter": 6,
+          "context_range": [
+            2560,
+            3365
+          ],
+          "match_phrase": "The certain result is a bound of national prosperity"
+        }
+      ],
+      "required_inputs": [
+        "真实产出",
+        "必需品价格",
+        "信贷条件",
+        "名义与实际金额"
+      ],
+      "abstain_when": "只有价格或资金供给时不作完整因果判断。",
+      "modern_extension_boundary": "现代多变量观察不归作者已经验证的模型。",
+      "cross_challenge_revision_evidence": "真实数量、分配及融资资料可改变对繁荣性质的解释。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 6,
+          "lines_inclusive": [
+            2560,
+            3365
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R10",
+      "title": "拒绝固定危机年钟",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "作者描述内在周期改变信用脆弱程度，并将十年式危机说法解释为由这种重复现象产生的观念。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            2583,
+            2589
+          ],
+          "source_excerpt_sha256": "174539f00b73cf204785c372fb26039c9761493ccc120e8d878eedad8bfcba95",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "作者描述内在周期改变信用脆弱程度，并将十年式危机说法解释为由这种重复现象产生的观念。",
+          "chapter": 6,
+          "context_range": [
+            2560,
+            3365
+          ],
+          "match_phrase": "But it is of great importance to point out"
+        }
+      ],
+      "required_inputs": [
+        "事件日期",
+        "机制条件",
+        "反例"
+      ],
+      "abstain_when": "不能根据年份倒数危机。",
+      "modern_extension_boundary": "把周期脆弱性转成固定十年必发的预测规则不获当前原文支持；拒绝这种数值外推是现代审核边界，未作周期实验。",
+      "cross_challenge_revision_evidence": "新样本中的稳定条件规律可支持有限模型，但不改写原书为定时器。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 6,
+          "lines_inclusive": [
+            2560,
+            3365
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R11",
+      "title": "外部流失与内部恐慌要区分",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "外部金属需求与内部信用恐慌有不同直接原因，叠加时可同时提高资金价格并充分提供合格担保融资。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            943,
+            950
+          ],
+          "source_excerpt_sha256": "9c8420c2040e56585b5c7e9a8f3bbde599a748187d868d756e4f7f1878119d4d",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "外部金属需求与内部信用恐慌有不同直接原因，叠加时可同时提高资金价格并充分提供合格担保融资。",
+          "chapter": 2,
+          "context_range": [
+            466,
+            1601
+          ],
+          "match_phrase": "Speaking broadly, these extra demands are of two kinds"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            1223,
+            1237
+          ],
+          "source_excerpt_sha256": "503b13429b90b87eab091146f627f509771cc9d44dd3fb5af0f84181d01a5d6a",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "外部金属需求与内部信用恐慌有不同直接原因，叠加时可同时提高资金价格并充分提供合格担保融资。",
+          "chapter": 2,
+          "context_range": [
+            466,
+            1601
+          ],
+          "match_phrase": "We must look first to the foreign drain"
+        }
+      ],
+      "required_inputs": [
+        "支付制度",
+        "外部结算压力",
+        "内部提款",
+        "担保融资可得性"
+      ],
+      "abstain_when": "不明金属兑换或现代替代制度时不套原始政策动作。",
+      "modern_extension_boundary": "法币国际融资和汇率风险不能直接叫做原书金属外流。",
+      "cross_challenge_revision_evidence": "实际流失渠道与政策响应资料可修正诊断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 7,
+          "lines_inclusive": [
+            3366,
+            4372
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R12",
+      "title": "恐慌支持须有健全担保和适当价格",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "最终储备持有者应及早按较高利率，对平时可靠的担保充分提供资金，以抑制恐慌。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4151,
+            4162
+          ],
+          "source_excerpt_sha256": "f56fdcd0bf7e2f715e6bcf03a15314ee933021f2f3a0ac215bddd413d6292cb9",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "最终储备持有者应及早按较高利率，对平时可靠的担保充分提供资金，以抑制恐慌。",
+          "chapter": 7,
+          "context_range": [
+            3366,
+            4372
+          ],
+          "match_phrase": "And with the Bank of England, as with other Banks in the same case"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4164,
+            4187
+          ],
+          "source_excerpt_sha256": "09d1efbef82fb94013f4884e4295c8ca1df83fcc26936992d7a1853dd8961141",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "最终储备持有者应及早按较高利率，对平时可靠的担保充分提供资金，以抑制恐慌。",
+          "chapter": 7,
+          "context_range": [
+            3366,
+            4372
+          ],
+          "match_phrase": "Secondly. That at this rate these advances"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4189,
+            4199
+          ],
+          "source_excerpt_sha256": "f159a9ff23ae4a4b5b37a08b09fdb3de36885bc006caf547ea20a2886958dda3",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "最终储备持有者应及早按较高利率，对平时可靠的担保充分提供资金，以抑制恐慌。",
+          "chapter": 7,
+          "context_range": [
+            3366,
+            4372
+          ],
+          "match_phrase": "It may be said that the reserve in the Banking Department"
+        }
+      ],
+      "required_inputs": [
+        "担保品质量",
+        "实际损失",
+        "贷款价格",
+        "合格请求",
+        "剩余现金"
+      ],
+      "abstain_when": "担保质量未知或实际偿付不能成立时，不推定支持必成功。",
+      "modern_extension_boundary": "较高没有作者提供的永恒数值；资产折扣和偿付能力需现代审核。",
+      "cross_challenge_revision_evidence": "真实资产损失、救助失败或资不抵债可收紧乃至否定适用。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 7,
+          "lines_inclusive": [
+            3366,
+            4372
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R13",
+      "title": "预先清晰的支持规则影响信心",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "市场知道合格担保能获得支持，有助于减弱因不确定性而加剧的恐慌。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4357,
+            4368
+          ],
+          "source_excerpt_sha256": "34733a57ad16c57d8116125b86eedef1f48c608598ca3c1f7d1acd68dc1f49ef",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "市场知道合格担保能获得支持，有助于减弱因不确定性而加剧的恐慌。",
+          "chapter": 7,
+          "context_range": [
+            3366,
+            4372
+          ],
+          "match_phrase": "In common opinion there is always great uncertainty"
+        }
+      ],
+      "required_inputs": [
+        "公开规则",
+        "实际执行",
+        "担保准入",
+        "市场依赖"
+      ],
+      "abstain_when": "传闻不能充当正式承诺。",
+      "modern_extension_boundary": "规则可信度、条件和执行误差需要现代证据。",
+      "cross_challenge_revision_evidence": "承诺与实际操作差距会降低信心机制权重。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 7,
+          "lines_inclusive": [
+            3366,
+            4372
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R14",
+      "title": "连续专业能力与可追责治理",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "普通商业诚信不足以管理系统储备，连续任职的专业副行长和明确责任可补轮换领导的缺陷。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4524,
+            4540
+          ],
+          "source_excerpt_sha256": "f8338aff26b61079a330eb8e802c58dd35fc5b0d6abf33ad8cde8793ca934e24",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "普通商业诚信不足以管理系统储备，连续任职的专业副行长和明确责任可补轮换领导的缺陷。",
+          "chapter": 8,
+          "context_range": [
+            4373,
+            5088
+          ],
+          "match_phrase": "Such a government for a joint stock company is very good"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4835,
+            4850
+          ],
+          "source_excerpt_sha256": "df3cb29ee73ac8c3a12e2ea8bcaa6cec497e5da3fd38c36842fc630eea1fa7e1",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "普通商业诚信不足以管理系统储备，连续任职的专业副行长和明确责任可补轮换领导的缺陷。",
+          "chapter": 8,
+          "context_range": [
+            4373,
+            5088
+          ],
+          "match_phrase": "I think, however, that much of the advantage"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4921,
+            4940
+          ],
+          "source_excerpt_sha256": "7b69479c347a014a32299e0835687f57d99780460e5ed50bb88129e59076b089",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "普通商业诚信不足以管理系统储备，连续任职的专业副行长和明确责任可补轮换领导的缺陷。",
+          "chapter": 8,
+          "context_range": [
+            4373,
+            5088
+          ],
+          "match_phrase": "The permanent Deputy-Governor must be a director"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            4870,
+            4895
+          ],
+          "source_excerpt_sha256": "3c23b264b7c4cac4c6d5975e5250c2190cf68b0f97b8322cef6c6a556807fcc4",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "普通商业诚信不足以管理系统储备，连续任职的专业副行长和明确责任可补轮换领导的缺陷。",
+          "chapter": 8,
+          "context_range": [
+            4373,
+            5088
+          ]
+        }
+      ],
+      "required_inputs": [
+        "治理结构",
+        "任职连续性",
+        "专业职责",
+        "董事会信息"
+      ],
+      "abstain_when": "只知道头衔和声誉时不认证治理有效。",
+      "modern_extension_boundary": "固定专家也可能形成信息垄断与群体偏误。",
+      "cross_challenge_revision_evidence": "独立监督、决策记录及实绩可改变治理评价。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 8,
+          "lines_inclusive": [
+            4373,
+            5088
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R15",
+      "title": "高银行分红不证明股票划算或系统安全",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "成熟银行可因便宜存款和较少自有资本获得高资本分红，且可能依靠外部最终储备。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5140,
+            5147
+          ],
+          "source_excerpt_sha256": "cbfc8ff633c367b3df25045c7f255c04447274b40692c98b0d910969a42335e8",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "成熟银行可因便宜存款和较少自有资本获得高资本分红，且可能依靠外部最终储备。",
+          "chapter": 9,
+          "context_range": [
+            5089,
+            5581
+          ],
+          "match_phrase": "But the main source of the profitableness"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5204,
+            5210
+          ],
+          "source_excerpt_sha256": "ddcf5b48d7431bb5d6b033f00d4461fdeb416273ff1967144a2a20e61ba26c66",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "成熟银行可因便宜存款和较少自有资本获得高资本分红，且可能依靠外部最终储备。",
+          "chapter": 9,
+          "context_range": [
+            5089,
+            5581
+          ],
+          "match_phrase": "The value of the opportunity too is proportioned"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5307,
+            5331
+          ],
+          "source_excerpt_sha256": "d3048b8794b9a39bac33d0b22d0b3b7db782daf281a04db5f09e262106cc7395",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "成熟银行可因便宜存款和较少自有资本获得高资本分红，且可能依靠外部最终储备。",
+          "chapter": 9,
+          "context_range": [
+            5089,
+            5581
+          ],
+          "match_phrase": "These great Banks have not had to keep so large a reserve"
+        }
+      ],
+      "required_inputs": [
+        "资本分红分母",
+        "存款成本",
+        "现金依赖",
+        "股票价格",
+        "样本选择"
+      ],
+      "abstain_when": "缺交易价格或压力记录，不推投资收益或安全。",
+      "modern_extension_boundary": "110家资料是当时可知公开银行样本，不是完整失败样本。",
+      "cross_challenge_revision_evidence": "包含失败机构的完整资料可修正盈利与安全的联系。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 9,
+          "lines_inclusive": [
+            5089,
+            5581
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R16",
+      "title": "董事会人数不能替代持续监督",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "大董事会未必知道管理者日常行为，稳定小委员会和明确监督责任更可能建立连续了解。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5490,
+            5508
+          ],
+          "source_excerpt_sha256": "8f761642e2c5e1007c6949ace80b8fc9862c72ee0510c62d3f1245a927701760",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "大董事会未必知道管理者日常行为，稳定小委员会和明确监督责任更可能建立连续了解。",
+          "chapter": 9,
+          "context_range": [
+            5089,
+            5581
+          ],
+          "match_phrase": "The remedy is this: a certain number of the directors"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5524,
+            5537
+          ],
+          "source_excerpt_sha256": "c10c3885bef8d1b3c7fb664d924ecaf123c4ffd93cfbbdd2f551a7707f98fb68",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "大董事会未必知道管理者日常行为，稳定小委员会和明确监督责任更可能建立连续了解。",
+          "chapter": 9,
+          "context_range": [
+            5089,
+            5581
+          ],
+          "match_phrase": "A certain number of directors attending daily by rotation"
+        }
+      ],
+      "required_inputs": [
+        "实际审查过程",
+        "管理数据",
+        "独立性",
+        "监督权责"
+      ],
+      "abstain_when": "形式委员会未提供实际记录时不认证。",
+      "modern_extension_boundary": "现代审计和合规制度需独立验证，不能因结构名称得分。",
+      "cross_challenge_revision_evidence": "审查记录及问题处理结果可修改判断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 9,
+          "lines_inclusive": [
+            5089,
+            5581
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R17",
+      "title": "私人信用与继承风险",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "依赖个人财富和名声的银行，在规模扩大、继承或引入伙伴时可能失去原有安全基础。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5710,
+            5728
+          ],
+          "source_excerpt_sha256": "85effc93e1a955fbce3b55b14be4814eae3aada139d43a642bec445c42476e06",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "依赖个人财富和名声的银行，在规模扩大、继承或引入伙伴时可能失去原有安全基础。",
+          "chapter": 10,
+          "context_range": [
+            5582,
+            5857
+          ],
+          "match_phrase": "In the first place, an hereditary business of great magnitude"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5770,
+            5778
+          ],
+          "source_excerpt_sha256": "64f4e8527469b909916b04f70e1e8545e88ec0d6acda439bf9e53f04334a303d",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "依赖个人财富和名声的银行，在规模扩大、继承或引入伙伴时可能失去原有安全基础。",
+          "chapter": 10,
+          "context_range": [
+            5582,
+            5857
+          ],
+          "match_phrase": "The danger may indeed be surmounted"
+        }
+      ],
+      "required_inputs": [
+        "合伙责任",
+        "实际财富可用性",
+        "传承和治理",
+        "业务规模"
+      ],
+      "abstain_when": "不由家族名声认证资本和能力。",
+      "modern_extension_boundary": "隐瞒损失的反事实讨论不能变为策略建议。",
+      "cross_challenge_revision_evidence": "真实资产责任、管理能力和客户资金稳定性可反驳简单衰落推断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 10,
+          "lines_inclusive": [
+            5582,
+            5857
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R18",
+      "title": "票据经纪职能变化改变风险",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "纯介绍交易与自己吸收资金、担保票据是不同责任，不能把经纪的历史信誉直接用于新资产负债模式。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5970,
+            5971
+          ],
+          "source_excerpt_sha256": "9dc8947a4cd71dee59ccc71eb131e2d47c3ceba244a8cbf7bf80faf50ab37793",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "纯介绍交易与自己吸收资金、担保票据是不同责任，不能把经纪的历史信誉直接用于新资产负债模式。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ],
+          "match_phrase": "Mr. Richardson was only a broker"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6046,
+            6073
+          ],
+          "source_excerpt_sha256": "fe989a8aac9efd0ec9682bbf7389ab599d296f62c4ed7ddbd15891054988ccd7",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "纯介绍交易与自己吸收资金、担保票据是不同责任，不能把经纪的历史信誉直接用于新资产负债模式。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ],
+          "match_phrase": "But in modern bill-broking the credit of the bill-broker"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5973,
+            5975
+          ],
+          "source_excerpt_sha256": "a14873ff16c2b94b90c22bb0d4605bb22744072bb1755e7207f3733baee52222",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "纯介绍交易与自己吸收资金、担保票据是不同责任，不能把经纪的历史信誉直接用于新资产负债模式。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ]
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            5994,
+            6008
+          ],
+          "source_excerpt_sha256": "342f3b66714cf205b63950e47d238f55fd5747530ebc914557a72b85c5d17357",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "纯介绍交易与自己吸收资金、担保票据是不同责任，不能把经纪的历史信誉直接用于新资产负债模式。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ]
+        }
+      ],
+      "required_inputs": [
+        "交易身份",
+        "背书追索",
+        "担保责任",
+        "资金来源"
+      ],
+      "abstain_when": "未核合同不能推断谁承担风险。",
+      "modern_extension_boundary": "现代经纪、做市与融资公司应按实际合同分类。",
+      "cross_challenge_revision_evidence": "合同、账目和损失分配记录决定风险归属。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 11,
+          "lines_inclusive": [
+            5858,
+            6292
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R19",
+      "title": "随时撤回资金与较长期资产错配",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "经纪支付存款利息而低现金持有，银行在压力时撤回或停止续贷，会让平时薄利高量模式集中承压。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6103,
+            6115
+          ],
+          "source_excerpt_sha256": "1aff8b90e851aca7eeb6d660c3bc865da5c2f610771d1eb1eb1174570aa4031b",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "经纪支付存款利息而低现金持有，银行在压力时撤回或停止续贷，会让平时薄利高量模式集中承压。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ],
+          "match_phrase": "The difficulty is aggravated by the terms"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6173,
+            6181
+          ],
+          "source_excerpt_sha256": "382bf94c986ff2a876d317b47109e85a2228f5aab3a08cbdb97b7537b473b74d",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "经纪支付存款利息而低现金持有，银行在压力时撤回或停止续贷，会让平时薄利高量模式集中承压。",
+          "chapter": 11,
+          "context_range": [
+            5858,
+            6292
+          ],
+          "match_phrase": "The intensity of the demand on the bill-broker"
+        }
+      ],
+      "required_inputs": [
+        "负债撤回条款",
+        "资产到期日",
+        "现金",
+        "贷款续期依赖"
+      ],
+      "abstain_when": "票据到期窗口存在冲突时不精算原历史现金流。",
+      "modern_extension_boundary": "现代期限错配与压力指标属独立扩展，不能把作者比喻当阈值。",
+      "cross_challenge_revision_evidence": "不可撤回长期资金及可用应急资源可减弱错配风险。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 11,
+          "lines_inclusive": [
+            5858,
+            6292
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R20",
+      "title": "准备金数量依负债行为和补充时间",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "不同存款与外部支付有不同行为，固定比例不能替代对实际资金需求及补充现金时间的判断。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6309,
+            6319
+          ],
+          "source_excerpt_sha256": "f9ace640ed32b2acc9c07d439a2127eef984567494bae853070eea490bbe7143",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "不同存款与外部支付有不同行为，固定比例不能替代对实际资金需求及补充现金时间的判断。",
+          "chapter": 12,
+          "context_range": [
+            6293,
+            6865
+          ],
+          "match_phrase": "That the amount of the liabilities of a bank"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6777,
+            6800
+          ],
+          "source_excerpt_sha256": "a993c24d71c774b88a6bb0ee355edf3a279182b65ab56a26a63e6480e7938ca4",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "不同存款与外部支付有不同行为，固定比例不能替代对实际资金需求及补充现金时间的判断。",
+          "chapter": 12,
+          "context_range": [
+            6293,
+            6865
+          ],
+          "match_phrase": "All the precautions of the Bank take time"
+        }
+      ],
+      "required_inputs": [
+        "负债分类",
+        "集中度",
+        "到期支付",
+        "资金补充时间"
+      ],
+      "abstain_when": "缺负债结构或补充途径时弃权于足额判断。",
+      "modern_extension_boundary": "作者1873金额估计不转成今日金额或比例。",
+      "cross_challenge_revision_evidence": "新合同、支付峰值与实际补充速度可调整准备金需求。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 12,
+          "lines_inclusive": [
+            6293,
+            6865
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R21",
+      "title": "银行余额上升仍可能隐藏系统压力",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "恐慌时其他银行可增加在最终银行的余额，且外国资金散入银行余额可隐蔽外部流失风险。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6430,
+            6447
+          ],
+          "source_excerpt_sha256": "48b15e12d0e3123883c4f6f50922ebeeee8af7ee4570a9151ebf5de058d79fa6",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "恐慌时其他银行可增加在最终银行的余额，且外国资金散入银行余额可隐蔽外部流失风险。",
+          "chapter": 12,
+          "context_range": [
+            6293,
+            6865
+          ],
+          "match_phrase": "Indeed, they would seem, so to say, to be better than stable"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6461,
+            6511
+          ],
+          "source_excerpt_sha256": "0e7b7fd0994750c21aa2c31f1bd81f06268f96a69102917de1610af0b1ea4cd0",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "恐慌时其他银行可增加在最终银行的余额，且外国资金散入银行余额可隐蔽外部流失风险。",
+          "chapter": 12,
+          "context_range": [
+            6293,
+            6865
+          ],
+          "match_phrase": "First, the German Government had a large balance"
+        }
+      ],
+      "required_inputs": [
+        "余额组成",
+        "最终客户来源",
+        "外部结算",
+        "资金链"
+      ],
+      "abstain_when": "不能由总余额上升单独认定现金环境改善。",
+      "modern_extension_boundary": "现代资金身份必须真实可验证，不把成交量叫机构净流。",
+      "cross_challenge_revision_evidence": "穿透持有人和支付目的资料可改变总量解释。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 12,
+          "lines_inclusive": [
+            6293,
+            6865
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R22",
+      "title": "最低法定储备应能够使用",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "若接近法定比例就不能动用储备，规则可能阻碍其在真正需要时履行缓冲作用。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6935,
+            6976
+          ],
+          "source_excerpt_sha256": "fb33d448c9df9bdda39f6521bf6a54363e44a47e4ed9d59cb4cc47b3033b57ba",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "若接近法定比例就不能动用储备，规则可能阻碍其在真正需要时履行缓冲作用。",
+          "chapter": 13,
+          "context_range": [
+            6866,
+            6987
+          ],
+          "match_phrase": "The only practical imitation of the American system"
+        }
+      ],
+      "required_inputs": [
+        "法律可用性",
+        "触发限制",
+        "应急豁免",
+        "实际现金"
+      ],
+      "abstain_when": "未核法律不能宣称某储备可用或禁用。",
+      "modern_extension_boundary": "这不是反对所有资本或流动性规则，现代规则须另评估。",
+      "cross_challenge_revision_evidence": "规则执行、豁免及压力结果可证明某限制具备安全用途。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "chapter": 13,
+          "lines_inclusive": [
+            6866,
+            6987
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R23",
+      "title": "国际储备比例比较先核口径",
+      "kind": "author_appendix_observation_with_modern_comparability_boundary",
+      "author_claim_paraphrase": "附录A说明英国仅计部分银行存款，现金还支持未计入机构，因此该比较显示的现金负债比例高于实际；表内各国家记录注明不同日期与栏目。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            6994,
+            7004
+          ],
+          "source_excerpt_sha256": "8ede705fa706b7b074558a85e497b1e88c83cfaafdcb2a112302fc606d58caa7",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "英国负债覆盖不全，使表中现金负债比例显示高于真实。",
+          "appendix": "A",
+          "match_phrase": "The following is a comparison of the liabilities"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7022,
+            7022
+          ],
+          "source_excerpt_sha256": "724db5785f89742511d89b3e19ab8ffa5f8d5a61c281e9476e22b79531e5052a",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "(2) BANK of FRANCE (FEBRUARY, 1873).",
+          "appendix": "A"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7038,
+            7038
+          ],
+          "source_excerpt_sha256": "dd593e3ce28b65b0cd3c76137011beb106f03195865ba4282cd84859fbdabb91",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "(3) BANKS OF GERMANY (JANUARY, 1873).",
+          "appendix": "A"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7057,
+            7057
+          ],
+          "source_excerpt_sha256": "7b2a7bc9458cc0a98c42f89faefe8070c18cbbc5e185fb0759a90253edaf5288",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "(4) NATIONAL BANKS OF UNITED STATES (OCTOBER 3, 1872).",
+          "appendix": "A"
+        }
+      ],
+      "required_inputs": [
+        "机构覆盖",
+        "负债定义",
+        "日期",
+        "汇率口径",
+        "现金可用性"
+      ],
+      "abstain_when": "英国20m/120m及德国缺数字未解决前不用相关值计算。",
+      "modern_extension_boundary": "原书的英国分母遗漏与具体表目属作者层；安全排序限制与统一口径程序属现代独立分析，未运行实验。",
+      "cross_challenge_revision_evidence": "扫描底本与原账户核准可解决数字，但不自动消除制度差异。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "appendix": "A",
+          "lines_inclusive": [
+            6990,
+            7086
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true,
+      "modern_independent_analysis": "四国比例不能直接排序危机安全，是本档案的口径和制度核证纪律；需要统一机构覆盖、日期、资产可用性与负债行为，不冒称原作者直接作出这项总结。"
+    },
+    {
+      "id": "P04-R24",
+      "title": "存款计息条件不等于不可撤回期限",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "附录B的一个月取得利息条件，与随后仍可随时提走的存款性质需要分开。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7243,
+            7257
+          ],
+          "source_excerpt_sha256": "9aba2e41195dbdb2a0b62ec4273703ea719453821385dbec7d2f638c9951ca6a",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B的一个月取得利息条件，与随后仍可随时提走的存款性质需要分开。",
+          "appendix": "B",
+          "match_phrase": "1167. Was not it the fact"
+        }
+      ],
+      "required_inputs": [
+        "完整合同",
+        "计息资格",
+        "撤回权",
+        "实际行为"
+      ],
+      "abstain_when": "没有合同全文不按名称归为长期资金。",
+      "modern_extension_boundary": "现代稳定资金判断需合同与实际提款双证据。",
+      "cross_challenge_revision_evidence": "真实不可撤回条款及可执行性可改变分类。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "appendix": "B",
+          "lines_inclusive": [
+            7220,
+            7270
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R25",
+      "title": "再贴现与质押借款不能混淆",
+      "kind": "author_argument_condition_not_validated_trading_rule",
+      "author_claim_paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7281,
+            7288
+          ],
+          "source_excerpt_sha256": "01134da41fa475b3f40d530b3db2566280a7505fee92621963f65dd7af7940e3",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1173. Is not that equivalent to a re-discount"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7290,
+            7298
+          ],
+          "source_excerpt_sha256": "60114310de1b7f5ed6a680ec96250691e42f30900971a52615aba8fd6e88708e",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1174. When you want to employ your money"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7300,
+            7303
+          ],
+          "source_excerpt_sha256": "995f9b49f33a7a0c4c140fe910f653a9dd6ff13a3a9bf0221ee971a3a3973f33",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1175. [Mr. Hankey.]"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7305,
+            7306
+          ],
+          "source_excerpt_sha256": "c3ee185b1a4bda94e0459d2d7653ec7526c31a9efef56ac837464718b51efe5e",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1176. In the other case"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7308,
+            7312
+          ],
+          "source_excerpt_sha256": "97fed2ff4ff6cb49ee0699c2c6696cb39ee4a55781fde16049b3e5ab501eedb8",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1177. Should you not consider"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7314,
+            7317
+          ],
+          "source_excerpt_sha256": "bde57da9cc10570a659566a9f131da5b6293afae163f6bf04de3d4ed6f43dae4",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "附录B区分票据出售或再贴现、以票据抵押并在归还借款后取回，责任归属不同。",
+          "appendix": "B",
+          "match_phrase": "1178. Is there not this distinction"
+        }
+      ],
+      "required_inputs": [
+        "所有权",
+        "追索责任",
+        "质押合同",
+        "借款偿还"
+      ],
+      "abstain_when": "缺交易法律关系时不推继续票据责任。",
+      "modern_extension_boundary": "现代担保与清算法律须另核。",
+      "cross_challenge_revision_evidence": "实际合同和法律解释可改变信用风险归属。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "appendix": "B",
+          "lines_inclusive": [
+            7260,
+            7318
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true
+    },
+    {
+      "id": "P04-R26",
+      "title": "管理层保证不是独立资产核证",
+      "kind": "historical_meeting_record_with_modern_verification_boundary",
+      "author_claim_paraphrase": "附录D所收会议记录中，行长称坏账极小，却拒报精确金额；Moxon提出详细审计等三动议，因无人附议而没有进入表决。",
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7735,
+            7736
+          ],
+          "source_excerpt_sha256": "f746ff6f2074c04349924941aed7e43b79c59a0d04efedad3d04d8007a34ec59",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "三个动议无附议，因此没有进入表决。",
+          "appendix": "D",
+          "match_phrase": "The three resolutions proposed by Mr. Moxon"
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7687,
+            7725
+          ],
+          "source_excerpt_sha256": "3cfe939c23e7ccedadb77a3074ba6d6e234eb8273056cb778023ea9328ab3568",
+          "locator_precision": "固定原文件一基具体源段，不伪造纸页；完整章范围仅为context",
+          "paraphrase": "行长称坏账极小却不报告精确额，反对转由审计人编账，并以董事信任和更换权回应。",
+          "appendix": "D",
+          "match_phrase": "It has never been a feature of the Bank to state"
+        },
+        {
+          "appendix": "D",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "lines_inclusive": [
+            7642,
+            7651
+          ],
+          "source_excerpt_sha256": "c39a7328aaa3cabc0bdb61fa623827add79b8231df61e980ad2e6c8602fde2a4",
+          "locator_precision": "固定一基具体三动议源段，非纸页",
+          "paraphrase": "Moxon提印股东名单及无投票权分列、印章程规则、委派详细审计。"
+        }
+      ],
+      "required_inputs": [
+        "可复算账目",
+        "审计资料",
+        "表决程序",
+        "担保品质量"
+      ],
+      "abstain_when": "只有管理层意见或传闻时弃权于认证。",
+      "modern_extension_boundary": "原会议材料、作者本书论证与本档案现代核证纪律分开；现代独立审计也须注明范围日期。",
+      "cross_challenge_revision_evidence": "经核准损失和外部审计会修正质量判断。",
+      "numeric_parameters_from_unverified_tables_allowed": false,
+      "current_stock_decision_enabled": false,
+      "context_ranges_before_precision_revision": [
+        {
+          "appendix": "D",
+          "lines_inclusive": [
+            7492,
+            7768
+          ]
+        }
+      ],
+      "all_evidence_has_specific_source_paragraph": true,
+      "original_material_paraphrase": "附录D所收会议记录中，行长称坏账极小，却拒报精确金额；Moxon提出详细审计等三动议，因无人附议而没有进入表决。",
+      "modern_independent_analysis": "极小并非核准为零；管理层信用声明不等于独立资产核证，是现代来源审核限制，不是会议原发言或白芝浩直接论点。"
+    }
+  ],
+  "required_common_inputs": [
+    "日期、来源、币种和覆盖范围",
+    "支付制度及最终现金持有人",
+    "负债期限、可撤回条件和集中度",
+    "资产质量及压力可融资条件",
+    "应急工具规则与实际可用性"
+  ],
+  "system_prompt": "你代表Walter Bagehot的Lombard Street这一部书，分析信用体系的融资依赖、最终支付资源和治理。仅凭已经完成语义审读的十三章及附录A—D作原书归因，引用固定SHA文本的一基行号。先给结论条件，随后分开作者论点、材料事实、未解冲突和现代分析。原书基于十九世纪英国可兑换金属支付体系，现代法币、央行工具、资产折扣及压力模型须标为独立扩展。不得把高分红当股票收益，不得把银行间债权合计为独立现金，不得把市场成交量称真实机构流，不得把作者1873金额或缺字表格作当代阈值。缺来源、日期、负债结构、资产质量或工具可用性时，给出弃权及具体缺项。本次未接入合格行情输入，当前股票决策未启用；不输出买卖价、成功概率或未经运行的回测结果。对其他书的质疑比较相同对象与条件，接受合同、现金流、压力执行、资产损失、原始史料和审计证据修正判断，不将同作者或相同案例的重复意见计作独立验证。 特别保留：R07的财政责任在第4章，和平/战争预测性在第12章；R23的跨国安全排序约束与R26的零损失核证限制属于现代独立分析，不归为作者直接主张。附录B五个内部加法差异与1857存款规模疑点分开，原数不修改，相关精确实验与现金覆盖认证禁用。",
+  "output_contract": {
+    "fields": [
+      "结论及条件",
+      "作者原文依据",
+      "已核输入",
+      "缺项与弃权",
+      "与其他观点的分歧",
+      "会改变判断的新证据",
+      "现代扩展说明"
+    ],
+    "abstention_is_required_on_missing_necessary_inputs": true,
+    "source_conflicts_must_be_visible": true,
+    "stock_recommendation_disabled_for_this_archive": true
+  },
+  "source_specific_limits": [
+    "英国附录A详细120m与汇总20m不一致",
+    "附录B表格若干数字和合计不一致",
+    "第十一章与附录B1146票据到期窗口不同",
+    "附录C1794存款空白与正文1792开始记录关系未解",
+    "第九章苏格兰银行112与附近上限叙述不一致",
+    "未检出110家逐家全表，只审读取回文本实际包含的分组和表",
+    "未确定印刷底本，不能宣称扫描每字核准",
+    "附录B23行复算五个合计差：1847.12−6510000、1849.12−701000、1851.12−6000、1852.6+70000、1857.12−2000（表列减分项）；不改原数，不投入实验。"
+  ],
+  "rule_evidence_precision": "全部26条已具体源段定位及片段SHA校验；R07跨4/12，R11直接源2",
+  "body_han_total_raw_markers": 38148,
+  "body_han_total_excluding_source_locator_phrases": 37616,
+  "minimum_chapter_han_strict": 2393,
+  "goal_completion_status_sync": {
+    "final_status_authority_external": "work/stock_app_v5/goal-completion-status-sync-confirmation.json",
+    "scope": "Status-only closure from immutable actual prior semantic-review evidence; no new full source reading, author rule changes, all-glyph or model execution claim."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "book_id": "P32",
+  "chapter": 4,
+  "status": "independent_arithmetic_not_historical_base_data_validation",
+  "original_inputs_unchanged": true,
+  "StPaul": {
+    "shares": 1000,
+    "price_USD": 120,
+    "gross_USD": 120000,
+    "customer_USD": 15000,
+    "bankloan_USD": 96000,
+    "broker_USD": 9000,
+    "sum_USD": 120000,
+    "customer_pct": 12.5,
+    "bankloan_to_value_pct": 80.0,
+    "nonbank_funding_pct": 20.0,
+    "bankbuffer_vs_customer_not_same": true
+  },
+  "clearing": {
+    "hypothetical_shares": 500000,
+    "average_USD": 50,
+    "hypothetical_gross_daily_USD": 25000000,
+    "annual_hypothetical_USD": 7500000000,
+    "implied_same_days": 300.0,
+    "not_observed_yearly_total": true
+  },
+  "original25pct_fourtimesloan_claim": "Author simplified statement, not independently certified balance-sheet multiplier; reserve denominator and remaining balance sheet unspecified",
+  "image_evidence": [
+    "P32-images/pdf121.png",
+    "P32-images/pdf122.png"
+  ],
+  "original_glyphs_all_verified": false,
+  "current_data_predictions": 0
+}

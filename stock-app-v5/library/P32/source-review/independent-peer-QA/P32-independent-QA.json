@@ -1,0 +1,343 @@
+{
+  "book_id": "P32",
+  "status": "complete_independent_semantic_review_corrections_required_not_accepted",
+  "qualified_pass": false,
+  "reviewer": "value_books, independent of practical_books original author",
+  "review_time_expert_sha256": "b9daaa043208cf89f21fbfddc6d120ee866e8dba54472f28081cee1f8d068ed9",
+  "review_time_audit_sha256": "c8f959442323a223ff9d097727c01c75ab8a4f0dfc852ae4904aa0297359cbd2",
+  "all10original_chapters_and_dossiers_actually_read": true,
+  "all129original_footnotes_actually_read": true,
+  "all86483normalized_characters_Hughes_report_actually_read": true,
+  "whole_frontmatter_index_errata_transcriber_and_PG_license_read": true,
+  "all52rules_and_entire_expert_synthesis_explainer_audit_plan_validation_actually_read": true,
+  "strict_body_Han": {
+    "counts": [
+      3161,
+      3224,
+      2886,
+      3146,
+      3538,
+      3104,
+      2952,
+      3369,
+      3214,
+      2774
+    ],
+    "total": 31368,
+    "minimum": 2774,
+    "chapter_headers_source_metadata_appendix_synthesis_expert_notcounted": true
+  },
+  "precise_complete_original_contexts_count": 201,
+  "all201exact_raw_original_line_byte_character_sha_and_files_match": true,
+  "whole_continuous_original_units_linked_for_everyrule": true,
+  "complete_original_TXT_line_coverage": [
+    [
+      "front",
+      1,
+      133
+    ],
+    [
+      "chapter1",
+      134,
+      732
+    ],
+    [
+      "chapter2",
+      733,
+      1431
+    ],
+    [
+      "chapter3",
+      1432,
+      1934
+    ],
+    [
+      "chapter4",
+      1935,
+      2526
+    ],
+    [
+      "chapter5",
+      2527,
+      3509
+    ],
+    [
+      "chapter6",
+      3510,
+      4233
+    ],
+    [
+      "chapter7",
+      4234,
+      5089
+    ],
+    [
+      "chapter8",
+      5090,
+      6332
+    ],
+    [
+      "chapter9",
+      6333,
+      7478
+    ],
+    [
+      "chapter10",
+      7479,
+      8086
+    ],
+    [
+      "appendix",
+      8087,
+      9721
+    ],
+    [
+      "footnotes",
+      9722,
+      10629
+    ],
+    [
+      "index/transcriber",
+      10630,
+      11828
+    ],
+    [
+      "PGlicense",
+      11829,
+      12179
+    ]
+  ],
+  "actual_original_image_review_scope": [
+    7,
+    8,
+    26,
+    27,
+    {
+      "pdf_pages": [
+        98,
+        99,
+        100
+      ],
+      "printed_pages": [
+        86,
+        87,
+        88
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Read entire pages, borrow/collateral/return1%/N34firstandcontinuation andfollowingNapoleon; actual HTMLpageanchor error identified",
+      "files": [
+        "P32-images/pdf98.png",
+        "P32-images/pdf99.png",
+        "P32-images/pdf100.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        121,
+        122
+      ],
+      "printed_pages": [
+        109,
+        110
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Entirepage image read original25%reserve/fourmillionloan statement and completeStPaul120/15000/96000/9000/20%note",
+      "files": [
+        "P32-images/pdf121.png",
+        "P32-images/pdf122.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        211,
+        212,
+        213
+      ],
+      "printed_pages": [
+        199,
+        200,
+        201
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Read entirethreepage images including wholefootnote67/1837paragraphactual1857 andFrench1912Balkan counterfactual;no silentdatecorrection",
+      "files": [
+        "practical_team/P32/source-review/alternative-211.png",
+        "practical_team/P32/source-review/alternative-212.png",
+        "practical_team/P32/source-review/alternative-213.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        267
+      ],
+      "printed_pages": [
+        255
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Read wholeoriginalpage adequate margin/clientsecurities/unbusinesslikedealing/committee1913 andSection3or5partialtype unresolved",
+      "files": [
+        "practical_team/P32/source-review/alternative-267.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        303
+      ],
+      "printed_pages": [
+        291
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Actual complete alternate1914 page291image read afterprimaryCornellblank303; includes200/300willingratesnotactual loans andopeninggongs/tradingcrowd",
+      "files": [
+        "practical_team/P32/source-review/alt-lowtext-303.jpg"
+      ]
+    },
+    {
+      "pdf_pages": [
+        378
+      ],
+      "printed_pages": [
+        366
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Entirepage read bearer-rights reasoning and1910newcapitaltotal/threearea amounts + selectedcategoryfigures; sum+100difference preserved",
+      "files": [
+        "practical_team/P32/source-review/alternative-378.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        418,
+        419
+      ],
+      "printed_pages": [
+        406,
+        407
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Actual whole two page image read original155bn estimate/65+67+18 and everyFrance8/foreign3category; no silent changed data",
+      "files": [
+        "practical_team/P32/source-review/alternative-418.png",
+        "practical_team/P32/source-review/alternative-419.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        436,
+        437,
+        439,
+        450,
+        451
+      ],
+      "printed_pages": [
+        424,
+        425,
+        427,
+        438,
+        439
+      ],
+      "source": "source/alternative-1914.pdf",
+      "purpose": "Wholepages read preventivecriticism/conversionexception/listingfacts/disclosure/conditionalnonincorporation andwholemalformedfuture-deliveryprintparagraph",
+      "files": [
+        "P32-images/pdf436.png",
+        "P32-images/pdf437.png",
+        "P32-images/pdf439.png",
+        "P32-images/pdf450.png",
+        "P32-images/pdf451.png"
+      ]
+    },
+    {
+      "pdf_pages": [
+        459
+      ],
+      "printed_pages": [],
+      "source": "source/original-1914.pdf",
+      "purpose": "Actual allindexerrataoriginalsevenlines read;PGmergedomissionsconfirmed",
+      "files": [
+        "practical_team/P32/source-review/pdf-459.png"
+      ]
+    }
+  ],
+  "all_original_scan_glyphs_visually_collated": false,
+  "all_cited_external_statutes_reports_accounts_news_books_verified": false,
+  "all_index_crossreferences_verified": false,
+  "current_expert_calls": 0,
+  "backtest_executed": false,
+  "probabilities_calibrated": false,
+  "author_personality_recreated": false,
+  "canonical_and_author_original_modified": false,
+  "candidate_file": "work/book-experts-v5/value_team/peer-QA/P32-expert-candidate.json",
+  "candidate_sha256": "77f66201f2046fabaa27dec47866e16b07a16e4ccf24e67e5ac7e9177787d721",
+  "required_findings_file": "work/book-experts-v5/value_team/peer-QA/P32-required-findings.json",
+  "source_snapshot": {
+    "source/original.txt": "679d8ca8285251385bbd4693d97ae4822de866ffcf91813c74b42ecc03135248",
+    "source/alternative-all-pages.json": "884e0c818b8e519ab5d8e18e089355758c4d6d20e9dc0b5e66a8f34a75096cba",
+    "source/appendix-Hughes-report.txt": "3121260da9b4b2e33faff3fb9387e534aa913a79fee8ea8b902f13b6cc89c2c0",
+    "source/alternative-selected-pages.json": "c7f843286589cf21489e86cf3dd2bf160350946c4002eb0b85e665a5862b63d2",
+    "source/PG-license.txt": "61fffea19135c29dfbe1a37e27fb70a34a2678b8a12f6990d9a480cc5618b681",
+    "source/IA-metadata-cu31924030206548.json": "e5f1ced0bdb1b68d05eb5bd67e7284f61e240e3978f7be85b504b1217ef8285e",
+    "source/alternative-1914.pdf": "74d1e4c9172a4a0cccd27d984208afbdffc4fd02e0e34fe080f1d0fd569aaf84",
+    "source/footnotes.txt": "fc6a32375b5f20403194cc90b0779b083b35ac411973c8471ad087b626ec8276",
+    "source/IA-metadata-stockexchangefro0000wcva_r0n2.json": "a82fac23d831dbcaa48c9d083dbae76d9682e618d7f66192e62182d2e19c9533",
+    "source/index-and-transcriber.txt": "17d894caec05daa6f19c8a3e3c1f2738a798451830b23743ce700ade0e1e7ad3",
+    "source/original-1914.pdf": "2366f395357fd3164547aaa39e708f1af989f14e6af10ccf7cb3705e76e8a1e7",
+    "source/footnotes-ledger.json": "35dc90d50433305025927041e3d52b1dabe7e63b71f91eb5fa1a6109c883651c",
+    "source/IA-search.json": "c5f4c48940ee30f1675bbc42647b27de9ad5d0f6046b00dcddffcb6b96d46313",
+    "source/scan-pages.json": "d0c242a447fc2000a77a692234ae03c946cd37040c9618772b41cb4ef809f9c9",
+    "source/front-matter.txt": "b0dcafbc8ce4706bfde6979563702a409d39da9131801e0d054882acfd1e83f3",
+    "source/original.html": "291873a543ac331a12c38c8795a7dab5062d6e564ca08918f600857742c1b880",
+    "source/chapters/ch08.txt": "6d428270a66e409aa88b50104bffba177bb1c23a953d4b95736640fe11e82f30",
+    "source/chapters/ch09.txt": "b3504378c8fad5c3ff48ca6723cbff6f6d7a045cd34c46295a4fd723d14472f8",
+    "source/chapters/ch02.txt": "e0108d901089cc82fa72caef0fc59f7565ca41efa18c203e5e70bbe61641d206",
+    "source/chapters/ch03.txt": "dec8405723e303bbf9dff5cce07739cf2643a7aee0546eca293983b0833476ff",
+    "source/chapters/ch01.txt": "e8211336277f322431b44d533dde0fdfccd3bcef4a1f3e26f6e833c9e5c8657d",
+    "source/chapters/ch04.txt": "3970145eec9eac3bf93a173a8a0790572ce9d673f287aa585ef52fbce95ba51e",
+    "source/chapters/ch10.txt": "1dcc7848e87b0c9ef798f6038cdbaeabcb8abb5e5fe1e53adcf0829c9ab94cd4",
+    "source/chapters/ch05.txt": "d4f10c7ebac99cbfc57e36d7e2edff113e327e8365dc550e5d6c1456f54053da",
+    "source/chapters/ch07.txt": "689c1225095d18da6010647dca0133d0f8de5590b02e05a5a2a2bb278e484e6c",
+    "source/chapters/ch06.txt": "f2e793f7cadaa52eaa5b64f700bdd069e7ee86c61ff0908bc2955fde4a7703fe"
+  },
+  "completed_utc": "2026-10-13T14:42:38.745285+00:00",
+  "new_root_review_precision_correction": {
+    "id": "P32-settlement-condition-01",
+    "file": "ch09.md",
+    "old": "财产卖方所得股票六个月后才可特殊结算，但脚注规则一百五十明列重组、合并或没公开现金发行的例外，不能转成全部人一律六个月。",
+    "candidate_new": "正文把限制概述为本公司股票向公众提供后六个月才能挂牌；脚注规则一百五十更精确：卖产人获授记作全付或部分付款的股票或证券，须从公众认购同类股票或证券的特殊结算日期起满六个月，才可安排其交易的特殊结算日。脚注另说现有公司重组、合并，或没有向公众现金发行股份的情形不必适用；这不是无条件豁免，不能转成所有卖产股从任意起点一律六个月。",
+    "rule_id": "P32-R33",
+    "rule_fields": [
+      "author_basis_zh",
+      "author_meaning_zh"
+    ],
+    "previous_candidate_rule_meaning": "作者赞财产卖方所得股等待六个月，注109说明该特殊结算规则不必适用于重组、合并或没有向公众现金发行股份的情况。",
+    "new_candidate_rule_meaning": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+    "reason": "Note109 begins waitingclock atspecialsettlementdatefor publicsubscriberssameclass, notarbitrarylisting/issuancedate. Preservecoarserauthorbodysummary andquotedrule finercondition plusnotnecessarilyexception.",
+    "complete_source_evidence": [
+      "P32-9-P059",
+      "P32-F109-P001"
+    ],
+    "source_full_original_TXT_lines_body": [
+      7173,
+      7186
+    ],
+    "source_full_note_lines_half_open": [
+      10495,
+      10505
+    ],
+    "full_body_and_note_actually_reread_in_this_review": true
+  },
+  "current_required_finding_count": 26,
+  "post_merge_candidate_strict_counts": [
+    3161,
+    3224,
+    2886,
+    3145,
+    3538,
+    3104,
+    2952,
+    3369,
+    3316,
+    2779
+  ],
+  "post_merge_candidate_total_Han": 31474,
+  "last_updated_utc": "2026-10-13T15:16:50.605992+00:00"
+}

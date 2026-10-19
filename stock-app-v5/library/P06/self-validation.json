@@ -1,0 +1,19 @@
+{
+  "book_id": "P06",
+  "passed": true,
+  "scope": "source/length/anchor/integrity checks plus separately recorded completed human semantic QA",
+  "independent_semantic_qa_passed": true,
+  "rule_count": 26,
+  "precise_anchor_count": 51,
+  "han_total": 52933,
+  "minimum": 2373,
+  "chapter_count": 20,
+  "artifacts_sha256": {
+    "专家定义.json": "487a55ccf51eaa9053833aff4ef6efd53f968fd8a1e22f899844d65e9ff2839a",
+    "章节与阅读审计.json": "4a5450e3e73a7b6d1bad59aafa6259beac98b14fb1011118c514967e266f9fac",
+    "source-metadata.json": "01d966d868e26ae1fde4fd4d41cc28a970fc5411dd795a5cc96cde57631a22b5",
+    "章节深读.md": "d389139a2d19dc79169cf7245f219d14cf7bcce31ad56cb8e55368df5f3f13ea",
+    "全书综合与前后置页.md": "dd7a3a4261fa5174a17e4679d3831c8e5a0941025c0011a3038a6b93584c29c7",
+    "专家说明.md": "691a11e383e58f4a768a76372982747220b1bdafc5d82cf0fea47bfa3fa67e77"
+  }
+}

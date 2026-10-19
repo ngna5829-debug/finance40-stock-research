@@ -1,0 +1,34 @@
+{
+  "book_id": "P25",
+  "primary": "1892PG14418 transcription",
+  "comparison": "1875LondonMurray scan titlePDF9 actuallyviewed",
+  "same_primary1892scan_obtained": false,
+  "records": [
+    {
+      "pdf_page": 131,
+      "printed_page_actually_observed": 113,
+      "text_file": "source-review/1875-pdf131-selected-text.txt",
+      "text_sha256": "038e21cc3e537e88279fcd3a8bbbde73cb9edd4445cfaa7dd8ec29d98308b9ab",
+      "whole_extracted_page_text_read": true,
+      "whole_selected_original_image_actually_viewed": true,
+      "image_file": "source-review/1875-pdf131.png",
+      "image_SHA256": "145d84f1dd7cb2a920ddf2b882a736c910a9a2b536e2b915dbe65fab85b849c1",
+      "finding": "主转录20年后26年；1875对应原印两数也确实存在",
+      "all_glyphs_individually_collated": false
+    },
+    {
+      "pdf_page": 335,
+      "printed_page_actually_observed": 317,
+      "text_file": "source-review/1875-pdf335-selected-text.txt",
+      "text_sha256": "9cfe28e08ba71fb11aff14036ad88f26410c004580e3b08c8d02272f012d58c2",
+      "whole_extracted_page_text_read": true,
+      "whole_selected_original_image_actually_viewed": true,
+      "image_file": "source-review/1875-pdf335.png",
+      "image_SHA256": "79dc43d9585eb2461172c508898f1f45bc0606cb924bbc415ba321cc51a9ff4a",
+      "finding": "主转录Barrack60；1875对应原图印600。不同版本对应比较，不证明1892原印字形。",
+      "all_glyphs_individually_collated": false
+    }
+  ],
+  "original_primary_unchanged": true,
+  "whole1875scan_semantically_read": false
+}

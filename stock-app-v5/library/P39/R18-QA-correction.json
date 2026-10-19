@@ -1,0 +1,57 @@
+{
+  "book_id": "P39",
+  "rule": "P39-R18",
+  "correction": "作者明列的两种历史比例与对1903报表的独立资本/公众负债核算分开",
+  "requested_by": "practical_team whole-book independent QA",
+  "old_expert_sha256": "d9bc24f6b75ef9b2bf08511931aef50e4becce01ecf4eea3acff0415bdc27c5b",
+  "new_expert_sha256": "395e577d50dcf46ae3060ea02f8db5db011fa9d1840040eef814646b07cd2161",
+  "old_rule": {
+    "id": "P39-R18",
+    "kind": "source_book_semantic_paraphrase",
+    "chapter": 7,
+    "author_meaning": "准备比例应对相关公众负债计算，资本不是同样提款负债。",
+    "boundary": "全国存款与银行部负债两个分母不得混用。",
+    "evidence_match_phrase": "liabilities to the public",
+    "paragraph_ids": [
+      "P39-C07-P038"
+    ],
+    "source_fragment_sha256": [
+      "ac536c180bbe1a44e718cc355a2f3cb6466fcbfa0048527ae65e319584181f34"
+    ],
+    "printed_pages": [
+      73
+    ],
+    "pdf_pages_one_based": [
+      85
+    ],
+    "page_anchor_basis": "HTML inline printed-page marker",
+    "predictive_validity_verified": false,
+    "missing_required_evidence_action": "abstain"
+  },
+  "new_rule": {
+    "id": "P39-R18",
+    "kind": "source_book_semantic_paraphrase",
+    "chapter": 7,
+    "author_meaning": "作者比较普通股份行现金及央行余额/公众负债平均约15%，与英格兰银行现金/负债在此前十年平均50%；两者是不同报表比例。",
+    "boundary": "独立核算时须分开资本与公众提款负债；全国存款与银行部负债分母也不得混用。原书历史比例不作当前阈值。",
+    "evidence_match_phrase": "liabilities to the public",
+    "paragraph_ids": [
+      "P39-C07-P038"
+    ],
+    "source_fragment_sha256": [
+      "ac536c180bbe1a44e718cc355a2f3cb6466fcbfa0048527ae65e319584181f34"
+    ],
+    "printed_pages": [
+      73
+    ],
+    "pdf_pages_one_based": [
+      85
+    ],
+    "page_anchor_basis": "HTML inline printed-page marker",
+    "predictive_validity_verified": false,
+    "missing_required_evidence_action": "abstain",
+    "independent_analysis": "按1903示例银行部表，资本和Rest合计18,293,209英镑不是同样可提的公众存款；现金24,442,214/相关公众负债49,379,106=49.499%。这是独立重算，不是作者在该原段明列的公式。"
+  },
+  "chapter_dossiers_and_source_unchanged": true,
+  "utc": "2026-10-12T15:08:14.150559+00:00"
+}

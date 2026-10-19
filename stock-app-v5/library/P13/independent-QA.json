@@ -1,0 +1,109 @@
+{
+  "book_id": "P13",
+  "reviewer": "root_independent_of_index_team_author",
+  "status": "passed_with_source_limits",
+  "scope": "十二章全部手写档案及综合；35规则、61精确原文片段；37原注全文；18不同电子版图；原题名序目录及HTML额外前置与Colophon更正表",
+  "all12_dossiers_actually_read": true,
+  "synthesis_actually_read": true,
+  "all35_rules_and61_raw_source_segments_actually_read": true,
+  "all8_anchor_review_blocks_without_unrepaired_truncation": true,
+  "all37_original_endnotes_actual_raw_second_read": true,
+  "endnotes_source_ranges": [
+    [
+      2644,
+      2891
+    ],
+    [
+      2892,
+      3158
+    ]
+  ],
+  "original_front_source_lines_actually_read": [
+    1,
+    190
+  ],
+  "all18_distinct_official_electronic_images_actually_seen": true,
+  "image_instances": 19,
+  "extra_HTML_front_colophon_and_two_corrections_actual_read": true,
+  "entire_original_3519line_second_read_by_reviewer": false,
+  "author_team_full_continuous_reading_supported_by_records": true,
+  "source_sha256": "010e9f829af33dc6745a1177777f5b3c3c6707792d1953639d2d3cf78ee4cfaf",
+  "source_bytes": 202578,
+  "source_lines": 3519,
+  "chapter_body_han_counts": [
+    2228,
+    2449,
+    2262,
+    2598,
+    2642,
+    2946,
+    2235,
+    2452,
+    2573,
+    2405,
+    3233,
+    2827
+  ],
+  "body_han_total": 30850,
+  "min_chapter_body_han": 2228,
+  "rules": 35,
+  "source_anchor_count": 61,
+  "mechanical_checks": {
+    "raw_CRLF_source_unchanged": true,
+    "all_chapter_source_and_notes_hashes_match": true,
+    "all_summary_hashes_refreshed_and_combined_contains_every_full_chapter": true,
+    "all61_raw_fragment_hashes_match": true,
+    "original_reading_ranges_contiguous_all3519lines": true,
+    "12_original_chapters_one_work_and_han_thresholds": true
+  },
+  "independent_numeric_reviews": {
+    "Philadelphia_if_cubit_means_cubic_foot_10sqmi_15ft_003_per_cuft": 125452800.0,
+    "original128million_retained_as_approximation_with_unit_ambiguity": true,
+    "115paper_times105percent": 120.75,
+    "120paper_at125_per100gold": 96.0,
+    "120paper_at110_per100gold": 109.09090909090908,
+    "two10k_farms_plus_two10k_claims_gross": 40000,
+    "less_corresponding20k_debts_net": 20000,
+    "standard25_8grains_not_assumed_pure_gold": true,
+    "1860_1870_two_rates_no_tenor_identifier_or_causal_control": true
+  },
+  "semantic_review_findings": [
+    "孤立岛的用途/交换关系与价格不同；币金后来有用不冒普遍无价",
+    "易货协调成本与共同接受/检验制度完整；材料必要性为强命题，不删待反证边界",
+    "壳量增的名义价格与实比率不同；累计Texas发行不当时点存量；金供需并非永恒购买力",
+    "作者赞汇票、转账与可信兑金纸票，不能说全书反所有纸支付",
+    "威尼斯付息战争债、保管票与财政债不同；故事历史引文不当其他整本已经阅读",
+    "战争资源已用与保留足金票不同，工资传导/采购竞争/币期条件完整",
+    "115/120基准不同；匿名商人/两船成本/GoldSupplyDemand无刻度图不成回测样本",
+    "反强制接受与Tendilla围城强制后兑现的张力保留，未推普遍拒币原则",
+    "法院选择节录和作者JackCade讽刺分开，不当现代法或真实判词",
+    "实物/权利/对应债务净额完整，纸票销毁不证明所有债权法律消灭",
+    "黄金总能获取、长期利率不由货币量改变、任何纸币灾害强句有未验证限制",
+    "政治种族宗教外貌及精神状态讽刺不作现代特征；Zelie与Jevons外引共源不重复投票"
+  ],
+  "corrections_applied": [
+    {
+      "chapter": 3,
+      "scope": "正文外旧阶段头注明确原注1已在第四章和整本阶段读完",
+      "counted_body_unchanged": true
+    },
+    {
+      "scope": "第一、第三章早期draft_sha256残留已按现存全文同步，chapter_draft_sha256及其余章节同时核对",
+      "source_or_rule_semantics_unchanged": true
+    }
+  ],
+  "qualification_metadata_change": "只同步QA状态及提示末待审句、旧阶段头注和已核哈希；35规则及12章计数字正文实义不改",
+  "preserved_limits": [
+    "未取得整本1876英文原印扫描，不保证原印所有字形或精确纸页",
+    "电子图明确复用1919荷兰版，新封皮不是原版，微小标注未逐字全核",
+    "原历史文献/法院/银行归源未全部外部核证，引用不当独立全文已读",
+    "约数及单位歧义与百分比基准保留，不默修源数",
+    "未接当前合格行情，未做投资实验/真实资金流/回测或概率校准"
+  ],
+  "full_reading_completed_physical_scan": false,
+  "coverage_qualified": true,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "final_expert_sha256": "fcf08fbae1618574cfac551036068bc7b01cdebac9a2023ff8d4e080ce087209",
+  "final_audit_sha256": "a11a38dea115a2f77f6cf8aab197018417ac6aad2477909d1d5cdf9a32690847"
+}

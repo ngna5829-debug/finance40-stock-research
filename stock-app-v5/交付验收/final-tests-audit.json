@@ -1,0 +1,81 @@
+{
+  "actual_test_cases_passed": 42,
+  "tests": [
+    {
+      "file": "test-fundamentals.py",
+      "sha256": "994a9522ee6d1440a1856647554995d46a504d0573e09abd801a232a9b41404d",
+      "actual_passed": 12,
+      "cases": [
+        "test_one_actual_filing_period_and_receipt_not_first_publication",
+        "test_never_mix_another_accession_into_cash_flow",
+        "test_no_quarter_is_mislabeled_as_annual",
+        "test_future_filed_fact_rejected_even_when_period_has_ended",
+        "test_conflicting_same_context_values_remain_unknown",
+        "test_other_currency_not_converted_or_assumed_usd",
+        "test_zero_is_observed_and_nonpositive_denominators_do_not_produce_ratios",
+        "test_negative_capex_is_not_absed_into_a_fcf_claim",
+        "test_negative_prior_cash_has_absolute_change_but_no_growth_percent",
+        "test_current_security_identity_is_required",
+        "test_cik_hint_cannot_override_current_submissions_ticker",
+        "test_untrusted_endpoints_and_naive_receipt_time_rejected"
+      ],
+      "scope": "Synthetic correctness/HTTP contract tests, not market forecasts or actual model calls"
+    },
+    {
+      "file": "test-agents.py",
+      "sha256": "866c0d10bbd5b03988df5f06fc63e64e7267dd476623b3e965b1127c5d9a80b8",
+      "actual_passed": 16,
+      "cases": [
+        "test_every_actual_book_rule_clause_is_present_without_first_n_truncation",
+        "test_future_price_and_probability_or_unknown_rule_are_rejected_even_zero",
+        "test_unbounded_or_object_model_challenge_is_rejected",
+        "test_complete_88_call_sequence_has_40_isolated_initials_and_replies",
+        "test_context_overflow_records_abstention_and_makes_no_http_call",
+        "test_rejected_answer_not_counted_as_success",
+        "test_cancelled_job_starts_no_call",
+        "test_remote_response_stops_future_calls_and_keeps_billing_unknown",
+        "test_incomplete_duplicate_or_overlapping_books_cannot_start_model_work",
+        "test_cloud_alias_and_remote_show_are_blocked_before_inference",
+        "test_real_quote_and_bar_snapshot_remains_unmodified_and_missing_not_filled",
+        "test_future_or_unverifiable_records_do_not_reach_model",
+        "test_unknown_web_origin_or_rebinding_cannot_discover_models",
+        "test_model_run_requires_token_and_rejects_nonobject_json",
+        "test_full_source_gif_allowed_and_code_or_path_escape_denied",
+        "test_model_discovery_read_does_not_start_inference"
+      ],
+      "scope": "Synthetic correctness/HTTP contract tests, not market forecasts or actual model calls"
+    },
+    {
+      "file": "test-book-engine.js",
+      "sha256": "9c00834e1d7f2010dd82591902169f216f1392140bfce87bc7f259a56a48b709",
+      "actual_passed": 14,
+      "cases": [
+        "exactly40distinct books in four nonoverlapping groups",
+        "40 book definitions cannot inflate technical score or remove risk gates",
+        "missing and future original inputs keep book observations abstaining",
+        "corrupt or insufficient completed candles remain hard vetoes",
+        "distinct inspected mechanisms preserve all unbound original strategy conditions",
+        "unqualified books remain disabled regardless of complete dossier status",
+        "input knowledge and market data are immutable; repeated result is deterministic",
+        "universe wrapper uses same veto and ranking as modern baseline",
+        "explicit timezone, receipt and observation ordering cannot be bypassed",
+        "same-version annual observations expose reinvestment and current-liability cautions without score votes",
+        "different issuer, future receipt and invalid annual horizon disable annual observations",
+        "mixed currency or filing cannot silently enter cash calculations",
+        "zero income is preserved without infinite earnings ratios",
+        "four group challenges name another group and retain unresolved conditions"
+      ],
+      "scope": "Synthetic hard-gate and evidence invariants"
+    }
+  ],
+  "python_syntax": "13 Python files AST parsed before final packaging helper creation",
+  "app_javascript_syntax_check_passed": true,
+  "actual_model_calls": 0,
+  "mock_88_sequence_is_not_real_model_work": true,
+  "backtest_or_predictive_calibration_claimed": false,
+  "catalogue_books": 40,
+  "catalogue_qualified": 40,
+  "utc": "2026-10-13T18:20:26.675376+00:00",
+  "latest_runtime_sha256": "c46d52a629cf420a8b7f94272f5dd232c1a4b5ec582b7f67eee2e769b0a98fc5",
+  "claim_extra_prediction_or_unbounded_field_subcases_passed": true
+}

@@ -1,0 +1,121 @@
+{
+  "book_id": "P23",
+  "chapter": 6,
+  "primary_PDF_sha256": "5d237c7d0e8e08df86a651a67f0818a117ada2ab4a9ac8dc3e8bd88335ef5e9c",
+  "all_original_scan_glyphs_verified": false,
+  "selected_reviews": {
+    "original_visual_supplements_read": [
+      {
+        "file": "source-review/pdf137-visual-transcription.txt",
+        "sha256": "ef5fef5d7a54fe100df446a58701d593eb7b25e0e42efa642098a514128c14b3",
+        "complete_actually_read": true
+      },
+      {
+        "file": "source-review/pdf137-table-arithmetic.json",
+        "sha256": "8ade16e17236c9ce14a2a22b3ea62c6d25530ac23c11aedf4dbb4f8b4a442f8b",
+        "complete_actually_read": true
+      },
+      {
+        "file": "source-review/pdf183-visual-transcription.txt",
+        "sha256": "1cf39c8698927cdade8de54ac298cc698c605ae7ea7708eb977b747fc9ad8b71",
+        "complete_actually_read": true
+      }
+    ],
+    "PDF137_actual_review": {
+      "image_sha256": "231b7a8ec3458176bc3b40f19a9e7ac7e968c7fce29cb41ef2b16e5735c376ab",
+      "paper_page_visual": 113,
+      "all_table_cells_and_lost_prose_actually_viewed": true,
+      "years": [
+        1832,
+        1833,
+        1834,
+        1835
+      ],
+      "units": "tons",
+      "row_sums_vs_printed_totals_differ_original_numbers_retained": true,
+      "original_1834_Newcastle_cell_visually_confirmed": 774835,
+      "claimed_cartel_bracket_first5_rows": true,
+      "no_original1836report_full_read": true
+    },
+    "PDF183_actual_review": {
+      "image_sha256": "7d6be51d244bb6a16911d2ad337b328be1a756fba76a93a3c784b411bfbddea5",
+      "paper_visual": 159,
+      "all12cells_3totals_and_lost_prose_and_footnotes_read": true,
+      "original_Wear1836_cell_confirmed": 9,
+      "table_count_not_exact_producing_power_measure": true,
+      "exports1836to1842_623000to1411000_difference788000_roundabout800000_original": true
+    },
+    "PDF146147_actual_review": {
+      "image_files": {
+        "146": {
+          "file": "P23-pdf146.png",
+          "sha256": "bbf7e5c264b963ebf946b4d8d9b79949cb92b1ba28179a7f4f06c373e56bdcdd"
+        },
+        "147": {
+          "file": "P23-pdf147.png",
+          "sha256": "39328ad16f22fedc4352fc675b7e9f75e83cf271b87709d89b1bd1339efb806b"
+        }
+      },
+      "paper_visual": [
+        122,
+        123
+      ],
+      "whole_both_pages_and_tables_actually_viewed": true,
+      "1835basis4district_rows": [
+        939000,
+        585000,
+        160000,
+        68750
+      ],
+      "1835basis_sum": 1752750,
+      "1835annual768_per1000_equivalent_original76_and_four_fifths_percent": true,
+      "PDF1461836Tyne_prose_basis": 969500,
+      "PDF1471836Tyne_table_basis": 959500,
+      "1836monthly_issue_printed62367_and_half": true,
+      "source_basis_difference_preserved_not_silently_unified": true,
+      "actual_arithmetic_959500_times_65permille": 62367.5,
+      "actual_arithmetic_969500_times_65permille": 63017.5,
+      "printed_over_short_net_short": [
+        1265,
+        8227.5,
+        6962.5
+      ],
+      "actual_net_short_verified": true,
+      "quota_bookkeeping_basis_not_actual_output": true,
+      "original_1836report_separately_full_read": false
+    },
+    "PDF142169_actual_review": {
+      "image_files": {
+        "142": {
+          "file": "P23-pdf142.png",
+          "sha256": "dc52f26d43268fc3f36eebbfe4b8e291fee19e485bb7f79c95bbd1294f22c7ba"
+        },
+        "169": {
+          "file": "P23-pdf169.png",
+          "sha256": "61bbe9a4da6be20acf7b62b49a60bdc6cd84eb80d2d66c427043b73321de3d08"
+        }
+      },
+      "paper_visual": [
+        118,
+        145
+      ],
+      "both_whole_pages_actually_viewed": true,
+      "PDF142letter_date_original_visual": "24th Nov.1782",
+      "no_invented_date_correction": true,
+      "PDF169original_saving_values": {
+        "quantity_tons": 13509,
+        "rate_GBP": 22,
+        "additional_shillings": 5,
+        "reported_saving_GBP": 300375
+      },
+      "independent_flat_multiplication_GBP": 300575.25,
+      "independent_difference_GBP": 200.25,
+      "original_values_not_replaced_and_original_external_report_not_full_read": true
+    },
+    "additional_stage_notes_actually_read": {
+      "file": "source-review/ch06-reading-notes.md",
+      "sha256": "e94fa0da85e352f743be324d38e1a6e8ef688281102885af365426f5c77c572e",
+      "historical_unfinished_header_not_current_wholeQA_status": true
+    }
+  }
+}

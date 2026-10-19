@@ -1,0 +1,75 @@
+{
+  "book_id": "P15",
+  "original_source_unchanged": true,
+  "author_original_model_not_current_empirical_rule": true,
+  "precise_numerical_optimizer_not_enabled": true,
+  "not_investment_experiment": true,
+  "anchors": [
+    {
+      "phrase": "where the margin of profit bears",
+      "lines": [
+        6297,
+        6307
+      ],
+      "raw_crlf_segment_sha256": "3683af6e0b99fa6b5da167858a4981600bfc9feef8c147b2f68a58126cad2e8b"
+    },
+    {
+      "phrase": "six millions (limiting",
+      "lines": [
+        6301,
+        6311
+      ],
+      "raw_crlf_segment_sha256": "e0310db5be598bacab7599bdfd7b1f9ae346bcdf87737e573445a018c172d015"
+    },
+    {
+      "phrase": "B marks the millionth ton",
+      "lines": [
+        6277,
+        6287
+      ],
+      "raw_crlf_segment_sha256": "864f43976790680b61706955c8e8bf9bad32c4555b4e8778b96dd4e632a7b1c7"
+    },
+    {
+      "phrase": "Above this limit expenses",
+      "lines": [
+        6322,
+        6332
+      ],
+      "raw_crlf_segment_sha256": "159455812039b8027d89f16d677a70ccf5b422a12b521f8760e8c13a046a56ac"
+    },
+    {
+      "phrase": "statement, however, appears in contradiction",
+      "lines": [
+        6571,
+        6579
+      ],
+      "raw_crlf_segment_sha256": "cda7e8d7c987113707fe354e6315f0389169b3c2bfdbdfa5eb67ccbb0b5e8824"
+    }
+  ],
+  "limits": [
+    "B被定为百万，点序F应五百万，而文本又说F六百万、E五百万，后再以五/七百万举两同率；未原扫描，不默改",
+    "原文largest proportion利润/费用与largest absolute surplus被说成同义，通常不是；资本股本/费用分母未清",
+    "图面积被解释总销售额；单一售价所有单位同价时应Q*P(Q)，面积只有另给逐单位差价条件才可作收入；原模型未明确这个机制",
+    "费用曲线解释不明区分平均/边际/每阶段费用，不能无条件积分",
+    "作者先说价供依费用与需求关系，后说费用在下限以上不定价；固定Q需求价格与选择最优Q的作用要分",
+    "棉籽油四年跌幅八倍前五年为引述，原注145说同调查报告矛盾，不当已证数据",
+    "矿工国会Document4只读原书再引Lloyd节录，非整份国会报告已读",
+    "低价可符合垄断最大利益，不能全推实际价高于竞争"
+  ],
+  "modern_counterexample_for_ratio_not_absolute": {
+    "not_author_case": true,
+    "caseA": {
+      "revenue": 100,
+      "expense": 50,
+      "profit": 50,
+      "profit_over_expense": 1
+    },
+    "caseB": {
+      "revenue": 170,
+      "expense": 100,
+      "profit": 70,
+      "profit_over_expense": 0.7
+    },
+    "purpose": "只反证两目标无条件同义，非真实trust数据或投资策略"
+  }
+}

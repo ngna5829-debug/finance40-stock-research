@@ -1,0 +1,5605 @@
+{
+  "book_id": "P21",
+  "reviewer": "index_books",
+  "status": "complete_full_independent_semantic_QA_required_corrections_candidate_not_merged",
+  "independent_QA_pass": false,
+  "eligible_to_pass_after_required_corrections_and_final_recheck": true,
+  "actual_semantic_scope": {
+    "all26_original_chapter_sources": true,
+    "all26_dossiers": true,
+    "all52_rules_and_all_global_expert_fields": true,
+    "all_main_marginals_inline_footnotes": true,
+    "original_preface301lines": true,
+    "original_analytical_contents819lines": true,
+    "entire_index145lines": true,
+    "publisher_advertisements115lines": true,
+    "whole_synthesis_and_description": true,
+    "lowOCR_all5_pages_actually_classified_and_half_title28_read": true,
+    "no_original_appendix_listed": true,
+    "modern_editor_intro_not_original_and_not_counted": true,
+    "all_external_referenced_or_advertised_books_whole_read": false,
+    "all478scan_glyphs_visually_verified": false
+  },
+  "edition": "JohnBatesClark1899original/Macmillan1908reprint;478pagesprimaryfacsimile,modern2011reflowonlysupport",
+  "original_source_SHA256": {
+    "PDF": "c2ea7b5111f693d8756e2daa367f368814795c65d2f90fcf2335733ef000a921",
+    "full_OCR": "e07d51d3706ad9826ca255c29535c953c6e9fc395ea65c8c42a83bb002dfb2b6"
+  },
+  "all_section_source_records": [
+    {
+      "file": "source/ch01.txt",
+      "sha256": "0693958171e73d44e7e91b2f1d0ef9976f618053704954d035ed8dc5f0d64b69",
+      "lines": 406,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          406
+        ]
+      ]
+    },
+    {
+      "file": "source/ch02.txt",
+      "sha256": "5f97d378ab5180ec53448a97887461d9d7b24a4c08da9ecbca440d240586d99b",
+      "lines": 701,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          701
+        ]
+      ]
+    },
+    {
+      "file": "source/ch03.txt",
+      "sha256": "c298cb593f80eb0607870cbeb8205e21a853d4f91729378577bb0c6d57f9beeb",
+      "lines": 533,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          533
+        ]
+      ]
+    },
+    {
+      "file": "source/ch04.txt",
+      "sha256": "38d481f2d6aed0a023bc026aa9dd3dac4c9d859957e207f9ddb5fdad4cc00e26",
+      "lines": 735,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          735
+        ]
+      ]
+    },
+    {
+      "file": "source/ch05.txt",
+      "sha256": "6c6ba2e517e5897a857811dda1553e3ac6465b41572f90a7cd64121167dbb125",
+      "lines": 454,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          454
+        ]
+      ]
+    },
+    {
+      "file": "source/ch06.txt",
+      "sha256": "65756c1fa37b263696baeaf71b3014e7267ded738aad6bbc4a1786c0a1103c6a",
+      "lines": 679,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          679
+        ]
+      ]
+    },
+    {
+      "file": "source/ch07.txt",
+      "sha256": "8a31c459b7b0d0f394b33547ddb84bd8b77df5b50c1140d5e95bea086278b020",
+      "lines": 835,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          835
+        ]
+      ]
+    },
+    {
+      "file": "source/ch08.txt",
+      "sha256": "8acc03e87f525b26c03aca07377a69a66de6b27ed1e6d473a92992f1e6c8194b",
+      "lines": 930,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          930
+        ]
+      ]
+    },
+    {
+      "file": "source/ch09.txt",
+      "sha256": "1619339fb319923667002a65eb016e47fed08dcfca32a2415f0d63aacf69c033",
+      "lines": 1121,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1040
+        ],
+        [
+          1041,
+          1121
+        ]
+      ]
+    },
+    {
+      "file": "source/ch10.txt",
+      "sha256": "67634fdcbb126c9212b0414952127da3bf0764be74806491b7872c4d2839d9f9",
+      "lines": 689,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          689
+        ]
+      ]
+    },
+    {
+      "file": "source/ch11.txt",
+      "sha256": "4010f30aace1de9631bb371b0c3a3477d300ad5493e7364749f67cfadaf1631f",
+      "lines": 717,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          717
+        ]
+      ]
+    },
+    {
+      "file": "source/ch12.txt",
+      "sha256": "1c139d5de276b484a8be2c9ccdfce88f718154e00617aa5eca25ba055aba3bc0",
+      "lines": 663,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          663
+        ]
+      ]
+    },
+    {
+      "file": "source/ch13.txt",
+      "sha256": "0fc42cddf3f1d1cf722b293b448199639664c987fb05e401543dd8c9cb507ca4",
+      "lines": 810,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          765
+        ],
+        [
+          766,
+          810
+        ]
+      ]
+    },
+    {
+      "file": "source/ch14.txt",
+      "sha256": "d4471a8bf3f545ebd9a4803be39d28935a59e9f4640da7a1bf384d5f07a2bf95",
+      "lines": 590,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          590
+        ]
+      ]
+    },
+    {
+      "file": "source/ch15.txt",
+      "sha256": "e109314b6af240fa321038a5b82b54ea4db1eba1b6f125a9daea027669b70c7a",
+      "lines": 505,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          505
+        ]
+      ]
+    },
+    {
+      "file": "source/ch16.txt",
+      "sha256": "528867697f3ab0737d267f5a53ef881df6bb279ccfceb3ef26db5d417af08b6d",
+      "lines": 681,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          681
+        ]
+      ]
+    },
+    {
+      "file": "source/ch17.txt",
+      "sha256": "05f60900c2dffb49338aa8942ee3a53a8c7b451146887007bcc5c2b1095bb53b",
+      "lines": 826,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          765
+        ],
+        [
+          766,
+          826
+        ]
+      ]
+    },
+    {
+      "file": "source/ch18.txt",
+      "sha256": "c19c1f99bfe442fcf880784e3ea315ae9d1fb397273cf1a5b30c10b13db407cd",
+      "lines": 487,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          487
+        ]
+      ]
+    },
+    {
+      "file": "source/ch19.txt",
+      "sha256": "d64d0c642e4bff764fd85ca7badb48d4092d40703d59eae78191b0eb8511ee71",
+      "lines": 1177,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          765
+        ],
+        [
+          766,
+          1020
+        ],
+        [
+          1021,
+          1177
+        ]
+      ]
+    },
+    {
+      "file": "source/ch20.txt",
+      "sha256": "8b894daeb3e2df0aeb492e8e72cf85551c6d458a40561ae9228327d83ae1620d",
+      "lines": 675,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          675
+        ]
+      ]
+    },
+    {
+      "file": "source/ch21.txt",
+      "sha256": "5997047631d0e388a926607ba24d5e4dc5a3df1d6f64351c8667d31ba3fda66f",
+      "lines": 716,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          716
+        ]
+      ]
+    },
+    {
+      "file": "source/ch22.txt",
+      "sha256": "29acd18469fd9a0c70e829f06b0344daa9dd9c867a93c166d182062a00e28997",
+      "lines": 886,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          886
+        ]
+      ]
+    },
+    {
+      "file": "source/ch23.txt",
+      "sha256": "80d763c113aefdb45bde8e3346692ca8d0d80aa3d467d6135e64c81fad199be8",
+      "lines": 836,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          836
+        ]
+      ]
+    },
+    {
+      "file": "source/ch24.txt",
+      "sha256": "06b536f383cd5156a7ba0a2654f10c9372128be9eb2dc2bac8061dd7111a546d",
+      "lines": 1242,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          1000
+        ],
+        [
+          1001,
+          1242
+        ]
+      ]
+    },
+    {
+      "file": "source/ch25.txt",
+      "sha256": "e64b8a5f408198c7ce9753ef8a1a3d2fd942ed82743b78c9117059cf107a094f",
+      "lines": 1470,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          750
+        ],
+        [
+          751,
+          1000
+        ],
+        [
+          1001,
+          1250
+        ],
+        [
+          1251,
+          1470
+        ]
+      ]
+    },
+    {
+      "file": "source/ch26.txt",
+      "sha256": "4c72e04e8362707f9bc26aa75696efc7cdf5f900823023a3fa5771351d50a704",
+      "lines": 544,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          544
+        ]
+      ]
+    },
+    {
+      "file": "source/preface.txt",
+      "sha256": "eeb64a5e475a64e3f6f523b06704ab9e972a2133e199d0872a13d0ccfb1dd0d9",
+      "lines": 301,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          301
+        ]
+      ]
+    },
+    {
+      "file": "source/original-analytical-contents.txt",
+      "sha256": "675bfbb7f1cd5d3a2906c9a4148f64907b926bdae1cc4b6840a72dad6a23e5e4",
+      "lines": 819,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          515
+        ],
+        [
+          516,
+          819
+        ]
+      ]
+    },
+    {
+      "file": "source/index.txt",
+      "sha256": "4da4f24e812d2d20bc3e84270d3946cc37765234d606098edf21e337a31cc3fe",
+      "lines": 145,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          145
+        ]
+      ]
+    },
+    {
+      "file": "source/publisher-advertisements.txt",
+      "sha256": "bbf05fc6e63ed606715c42c8c7cf7737cf37a929f4a881df42b948d46dd3a323",
+      "lines": 115,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          115
+        ]
+      ]
+    }
+  ],
+  "all_dossier_records": [
+    {
+      "file": "ch01.md",
+      "original_sha256": "7ff201e0819ee7d71466ae721fcc0fe311772c5771755b29748fd659079cf6b4",
+      "original_body_han": 2744,
+      "candidate_body_han": 2744
+    },
+    {
+      "file": "ch02.md",
+      "original_sha256": "b7aef08cd932ce8e3b6308e0234417257b96fa5d307c8fc25883023bc63e93c9",
+      "original_body_han": 2924,
+      "candidate_body_han": 2924
+    },
+    {
+      "file": "ch03.md",
+      "original_sha256": "63a83333d56d2325c5bc23339a62a1d6232fe10224d2cc00dd94513689f06a72",
+      "original_body_han": 2530,
+      "candidate_body_han": 2530
+    },
+    {
+      "file": "ch04.md",
+      "original_sha256": "42dba2fc2f5cb3251bfeb82f246b5209dccec4c1450d9310466748d96499adea",
+      "original_body_han": 3276,
+      "candidate_body_han": 3276
+    },
+    {
+      "file": "ch05.md",
+      "original_sha256": "a2dea45b6bcf06edcc866c96f0cbd28faf67c036127b73f6fde12aee03b0eb2b",
+      "original_body_han": 2847,
+      "candidate_body_han": 2847
+    },
+    {
+      "file": "ch06.md",
+      "original_sha256": "1ff94a1a76877f7dceb581b2465a377be8dd6c3e61e3bcfa1c8e62e85effa7b6",
+      "original_body_han": 2938,
+      "candidate_body_han": 2938
+    },
+    {
+      "file": "ch07.md",
+      "original_sha256": "0f92aa600012dcc46fd1e0a041a31ce9bd8ac5fb3c30b0812974cd57d1fcb25f",
+      "original_body_han": 2907,
+      "candidate_body_han": 2907
+    },
+    {
+      "file": "ch08.md",
+      "original_sha256": "9c7318fd6d35c707f3c9061a45b82a44e00a3a398724c9dc78d93f962451c8e2",
+      "original_body_han": 3180,
+      "candidate_body_han": 3180
+    },
+    {
+      "file": "ch09.md",
+      "original_sha256": "dcf94f1789930d86ec35b2af62d9b9c92268649437a8736f7c7a0b6785f59a69",
+      "original_body_han": 3340,
+      "candidate_body_han": 3340
+    },
+    {
+      "file": "ch10.md",
+      "original_sha256": "ce77943febd116bafdc21eef9cfbb958ebb11c22adeeaa70a4336dc022404ef2",
+      "original_body_han": 2975,
+      "candidate_body_han": 2975
+    },
+    {
+      "file": "ch11.md",
+      "original_sha256": "b00dbb8899a9e4d7605b8d17baf4adb7a0af4a5cc749d51019a6fa5e87e8d0ea",
+      "original_body_han": 2796,
+      "candidate_body_han": 2796
+    },
+    {
+      "file": "ch12.md",
+      "original_sha256": "384731833cab22e88ca201cbff8afc2c5c795055b71a5a3fb7d1b8355569dfc8",
+      "original_body_han": 2807,
+      "candidate_body_han": 2807
+    },
+    {
+      "file": "ch13.md",
+      "original_sha256": "cf5d170bebaf9d4fb272a07895627045d76b87ff9ba7fbc32935b6607421886c",
+      "original_body_han": 2899,
+      "candidate_body_han": 2899
+    },
+    {
+      "file": "ch14.md",
+      "original_sha256": "67b87b5792fcad16dc9b0ff7d62f649ef276c1f1a7fc3878fa34b58576ed8bf6",
+      "original_body_han": 2807,
+      "candidate_body_han": 2807
+    },
+    {
+      "file": "ch15.md",
+      "original_sha256": "1e4744564c22d6af39e35df3418e4697dcb842ad1598487908ef91f85bd569b2",
+      "original_body_han": 2763,
+      "candidate_body_han": 2763
+    },
+    {
+      "file": "ch16.md",
+      "original_sha256": "32ce61f50f288ae2417f82c5ec4dc6ab065a20f92d1ac5245b66dc96dd302789",
+      "original_body_han": 2822,
+      "candidate_body_han": 2832
+    },
+    {
+      "file": "ch17.md",
+      "original_sha256": "b3f17e300192340f78cffb97dbe8e4d1f8ef6055df848d6847d1ed23767ee112",
+      "original_body_han": 3036,
+      "candidate_body_han": 3036
+    },
+    {
+      "file": "ch18.md",
+      "original_sha256": "52a39325db75d78a547d080669d2a96ad885bce5684e6fd1db9b971d2340e441",
+      "original_body_han": 2808,
+      "candidate_body_han": 2808
+    },
+    {
+      "file": "ch19.md",
+      "original_sha256": "8f7efd63de1856641e9a8462d9db2c0f210843281cc288f8f258834c07943210",
+      "original_body_han": 3194,
+      "candidate_body_han": 3194
+    },
+    {
+      "file": "ch20.md",
+      "original_sha256": "f97dd3907edb2a2120c5182a920a53812f79384895cbe7222ca1bc52bb838729",
+      "original_body_han": 2869,
+      "candidate_body_han": 2869
+    },
+    {
+      "file": "ch21.md",
+      "original_sha256": "75e56f745e31fb4469fb5866cc17be14ca57a6efdb5ab8576d8aafe29bd33ed4",
+      "original_body_han": 2560,
+      "candidate_body_han": 2560
+    },
+    {
+      "file": "ch22.md",
+      "original_sha256": "92f8829b8f7bef4c9ea00f49a77e0724c499540a7f16f4309c4dc8d820a579b1",
+      "original_body_han": 2789,
+      "candidate_body_han": 2789
+    },
+    {
+      "file": "ch23.md",
+      "original_sha256": "97a62c223c8bd9b97fc9c97125014dfc20682e5187ba582a624c7cc194dc0fbc",
+      "original_body_han": 2815,
+      "candidate_body_han": 2815
+    },
+    {
+      "file": "ch24.md",
+      "original_sha256": "8a5b91b3d1209a254b79f29e7482e94c112a3cdf710c92ae77183959cd505d67",
+      "original_body_han": 3302,
+      "candidate_body_han": 3302
+    },
+    {
+      "file": "ch25.md",
+      "original_sha256": "e16ffa50ad17d035152a882ad7980f169210d58fc6aa7c96d5ee1362b350e282",
+      "original_body_han": 3272,
+      "candidate_body_han": 3272
+    },
+    {
+      "file": "ch26.md",
+      "original_sha256": "2401d0bf7b5a54749e56db47f133c75aff4c90567b1f4cb996da4c82cc4c6cac",
+      "original_body_han": 2799,
+      "candidate_body_han": 2799
+    }
+  ],
+  "selected_original_PDF_pages_actually_visually_read": [
+    1,
+    2,
+    3,
+    16,
+    28,
+    29,
+    42,
+    44,
+    64,
+    85,
+    116,
+    117,
+    182,
+    199,
+    211,
+    223,
+    225,
+    230,
+    231,
+    232,
+    251,
+    252,
+    254,
+    261,
+    274,
+    294,
+    297,
+    327,
+    349,
+    355,
+    356,
+    357,
+    358,
+    359,
+    414,
+    416,
+    420,
+    427,
+    466,
+    474,
+    475,
+    478
+  ],
+  "lowOCR_classification": {
+    "actual_montage_viewed": true,
+    "classified_pdf_pages": [
+      1,
+      28,
+      29,
+      475,
+      478
+    ],
+    "classification": {
+      "1": "publisherornament_noverbalcontent",
+      "28": "half-title THE DISTRIBUTION OF WEALTH actually read",
+      "29": "visual_blank",
+      "475": "visual_blank_after_index",
+      "478": "visual_blank_after_advertisements"
+    },
+    "pending_original_noOCR_content": [],
+    "all_scan_glyphs_verified": false
+  },
+  "necessary_corrections": [
+    {
+      "id": "P21-QA-C01",
+      "severity": "necessary_original_ratio_precision",
+      "finding": "纸245十比一机会比被提炼为十有八九；保留原措辞，不归90%或校准概率。",
+      "source_file": "source/ch16.txt",
+      "source_local_lines_inclusive": [
+        641,
+        650
+      ],
+      "original_scan_actually_viewed": "index_team/peer-QA/P21-scan/pdf274.png"
+    },
+    {
+      "id": "P21-QA-C02",
+      "severity": "necessary_currency_disambiguation_without_body_rewrite",
+      "finding": "若干原dollars/cent/dime说明在章稿简译为元/角/分，阅读器独立展示章节需币种消歧；只在正文外加说明，不把原例或估计升级为已核报价。",
+      "affected_chapters": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "P21-QA-C03",
+      "severity": "necessary_precise_claim_evidence",
+      "finding": "保留52规则原整章范围为chapter_scope_evidence；131手选定位片段给行/字节/Unicode字符/SHA及52完整原章上下文，不冒称每个布局片段是完整自然段。"
+    }
+  ],
+  "strict_body_han_original": 75999,
+  "strict_body_han_candidate": 76009,
+  "candidate_min_chapter_han": 2530,
+  "strict_count_policy": "OnlyU4E00–9FFFinside正文markers; excludeheadinglines and（原文...）locators; synthesis/prompt/TOC/adsnotcounted",
+  "precise_anchor_file": "P21-exact-anchor-candidate.json",
+  "locator_fragment_count": 131,
+  "complete_context_count": 52,
+  "standalone_complete_natural_paragraphs_claimed": false,
+  "all_author_claims_actually_compared_with_whole_original_context_not_hashonly": true,
+  "preserved_real_original_limits": [
+    "withcapital87–88",
+    "unitofsocialcapital170",
+    "originalECDregion203",
+    "21dimesvs18selectednamedunits222–223",
+    "65/100billiondifferentunspecifiedtimes",
+    "largerdirection298",
+    "continuouscurveapproximation329–330",
+    "socialsacrificeunitnotempiricallymeasured",
+    "currentabstinenceto50yearsincomelinknotcalculable",
+    "competitioninextinguishablefutureclaimnotproven",
+    "historicalcivilizationhierarchynotmodernclassification"
+  ],
+  "source_limits": [
+    "478页未全字形视觉校勘",
+    "选图理论曲线未精确数字化，无经验数据及概率校准",
+    "原书引述与广告外书未因本次出现而算全文阅读",
+    "整章OCR全部读取及所列关键原图不保证全字符转录无误",
+    "原币种及修辞机会比不作现代报价/汇率/胜率",
+    "完整动态及实际政策/市场问题本卷未完成，当前股票决策不启用"
+  ],
+  "candidate_artifacts": {
+    "expert": "P21-expert-precise-candidate.json",
+    "corrections": "P21-required-corrections-candidate.json",
+    "dossiers_and_other_fields": "P21-candidates/",
+    "complete_contexts": "P21-unabridged-rule-contexts/"
+  },
+  "currency_original_locator_fragments": [
+    {
+      "chapter": 8,
+      "source_file": "source/ch08.txt",
+      "source_sha256": "8acc03e87f525b26c03aca07377a69a66de6b27ed1e6d473a92992f1e6c8194b",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            621,
+            625
+          ],
+          "source_segment_sha256": "577077c2c7861c9bf8e48c5bb02a2c4d216a6a00db6ddd746b070a67302e3585",
+          "excerpt": "be a steady flow of labor from the less productive to\nthe more productive area.       If in one occupation\nthe marginal men create what is worth a dollar and\na half a day, while elsewhere they create what is\nworth two dollars a day, the employers in this latter\n",
+          "unit_match_line": 623
+        },
+        {
+          "source_local_lines_inclusive": [
+            623,
+            627
+          ],
+          "source_segment_sha256": "cd5e327ce0f57fefe3c3d88859e0c2cb368429dcf64d1c4b54e3d42cfcb07d0d",
+          "excerpt": "the marginal men create what is worth a dollar and\na half a day, while elsewhere they create what is\nworth two dollars a day, the employers in this latter\nfield are interested in hiring men entirely from that\nfield in which the product and the pay are the lowest.\n",
+          "unit_match_line": 625
+        },
+        {
+          "source_local_lines_inclusive": [
+            818,
+            822
+          ],
+          "source_segment_sha256": "382292ed9d75619e3bc90ba28d830d278b4fdef8c359f8e24cac9a14d58e4643",
+          "excerpt": " A mill with its machines as they stand can take more\n laborm_ than are now employed in it; but if the m_ll\n is worth a million dollars, that amount of capital is\n capable of employing a much larger number of mar-\nginal workers than the mill can use as it stands.\n",
+          "unit_match_line": 820
+        },
+        {
+          "source_local_lines_inclusive": [
+            825,
+            829
+          ],
+          "source_segment_sha256": "8eee493b1f84346b74b7f609642d0e6c04b3ee3965f8621bd3486f413ea3edc7",
+          "excerpt": " States possesses can enable more men to work than               ment af-\n                                                         _       forded by\nare now working ; but sixty-five billion \"dollars          not   capital-\nconfined to these appliances, but free to invest them-           goods\n                                                                 trastedcon-\n",
+          "unit_match_line": 827
+        },
+        {
+          "source_local_lines_inclusive": [
+            892,
+            896
+          ],
+          "source_segment_sha256": "5104e3ff5d448c4600904473c73959136f87d303b7a0ca33f43862d60a34006e",
+          "excerpt": "          THE     SPECIFIC   PRODUCT        OF LABOR       115\n\nmen and a hundred million dollars' worth of capital,\nit might be that one thousand men could move freely\nfrom one to the other without any gain or loss in\n",
+          "unit_match_line": 894
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 9,
+      "source_file": "source/ch09.txt",
+      "source_sha256": "1619339fb319923667002a65eb016e47fed08dcfca32a2415f0d63aacf69c033",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            100,
+            104
+          ],
+          "source_segment_sha256": "2b217ca3e086f04ae453cbefaeebd7ad9413358c18aef8b3793a88c4ebd70b3a",
+          "excerpt": "bile,capital-\ngoodsnot so. goods are fi_r from being so. It is possible to take\n              a million dollars out of one industl 7 and put them\n              into another.      Under favorable conditions, it is pos-\n              sible to do this without waste.       It is, however, quite\n",
+          "unit_match_line": 102
+        },
+        {
+          "source_local_lines_inclusive": [
+            123,
+            127
+          ],
+          "source_segment_sha256": "bf8a6174a5d948e83b72c4965335082d5520714e593f67f78a7ee2b51320b6d2",
+          "excerpt": "ing capital if you ask a merchant, \"What is your capital,            will\nJnterms\nmoney.    of he  answer,   \"It is the hundred  thousand    dollars   that\n             I have invested in my shop ?\" It is because what he\n             means by the phrase,\"a hundred thousand dollars,\"\n",
+          "unit_match_line": 125
+        },
+        {
+          "source_local_lines_inclusive": [
+            125,
+            129
+          ],
+          "source_segment_sha256": "86c983c83307c38f5150c7a4ca6f291f11e8620b70bfd52f048dba74ea52bfd8",
+          "excerpt": "money.    of he  answer,   \"It is the hundred  thousand    dollars   that\n             I have invested in my shop ?\" It is because what he\n             means by the phrase,\"a hundred thousand dollars,\"\n\n\n",
+          "unit_match_line": 127
+        },
+        {
+          "source_local_lines_inclusive": [
+            148,
+            152
+          ],
+          "source_segment_sha256": "e0123ef518f3870947cedb35edb57940f97c009f5629cf2c475e6025b507f9f0",
+          "excerpt": "A value, an abstract quantum of productive wealth, a\npermanent     fund--that    is what the hundred thou-\nsand dollars in our illustration      really signify.    A\nvalue, a quantum of wealth, or a fund--if           one of\nthese be thought of apart from the concrete things\n",
+          "unit_match_line": 150
+        },
+        {
+          "source_local_lines_inclusive": [
+            155,
+            159
+          ],
+          "source_segment_sha256": "45075fe422b50459bfadedacbf9e753873e06c26faa4b9479ba83e1a3c26e7d7",
+          "excerpt": "it is not an abstraction,  but a material entity.      The\nbusiness man always thinks of his hundred thousand\ndollars as thus embodied, and he can tell readily\nenough what things embody it.          He knows that his\ninvestment     is concrete and material;      and yet he\n",
+          "unit_match_line": 157
+        },
+        {
+          "source_local_lines_inclusive": [
+            198,
+            202
+          ],
+          "source_segment_sha256": "d4463751495d8bc03a1e1f5f6f5026824a5af2e536dae60b4eacd1c835448e9c",
+          "excerpt": " bination. \"It lasts,\" as we say, and \"it moves from industry to\n industry\" ; but the tools do not last, and they do not change their\n places as working implements. The fund, the \"dollars,\" or the\n pure capital does these things. When one set of bodms perishes\n and another one replaces it, we say that capital continues, and yet\n",
+          "unit_match_line": 200
+        },
+        {
+          "source_local_lines_inclusive": [
+            325,
+            329
+          ],
+          "source_segment_sha256": "dd6309b139d57fa785f575d785d604a25419ecd6b165172f2313f68b3b68d233",
+          "excerpt": "scribable in terms of money, when they entered on the\nconsideration    of the problem of interest;      for five per\ncent of itself per annum is something that a building\ncannot earn, though the \"money\"             invested in the\nbuilding may do so.\n",
+          "unit_match_line": 327
+        },
+        {
+          "source_local_lines_inclusive": [
+            330,
+            334
+          ],
+          "source_segment_sha256": "31c741c090f2a96db6eaaa12e89cca05f89a6202b0f43452e5ebd65009969b61",
+          "excerpt": "    What, then, is interest?        Is it not a fraction of\nitself that a permanent         fund of wealth annually\nearns ? It is five dollars annually earned by a hundred\ndollars.    It is usually expressed in percentages;        and\npercentages imply that both the capital itself and its\n",
+          "unit_match_line": 332
+        },
+        {
+          "source_local_lines_inclusive": [
+            331,
+            335
+          ],
+          "source_segment_sha256": "ddd98ef655c3be92289d76b33bc7fd88428a6c13b1fd816d2d29467356f99b78",
+          "excerpt": "itself that a permanent         fund of wealth annually\nearns ? It is five dollars annually earned by a hundred\ndollars.    It is usually expressed in percentages;        and\npercentages imply that both the capital itself and its\nannual earnings       are described     in units of value.\n",
+          "unit_match_line": 333
+        },
+        {
+          "source_local_lines_inclusive": [
+            377,
+            381
+          ],
+          "source_segment_sha256": "a14efe3d0ef0905c01f9dd2d000ca9b6a2465efe95c611bdd3718a8c1752ebc1",
+          "excerpt": "of\nor interest,\n   earnings  Find how many dollars this fraction of the fund of\nof capital,  capital amounts to, and what you have is the absolute\n             amount of interest.      It is, again, the entire income\n",
+          "unit_match_line": 379
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 10,
+      "source_file": "source/ch10.txt",
+      "source_sha256": "67634fdcbb126c9212b0414952127da3bf0764be74806491b7872c4d2839d9f9",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            14,
+            18
+          ],
+          "source_segment_sha256": "849fc17ec1aec897372eafb444f931d7a92702aa33e0d60acfe85fc98886c2ff",
+          "excerpt": "thought and speech the terms are more frequently           ital.\nemployed in this way.     Thus, a merchant is said to\nhave fifty thousand dollars in fixed capital and two\nhundred thousand in circulating.     In scientific usage,\nhowever, these terms have been made to describe two\n",
+          "unit_match_line": 16
+        },
+        {
+          "source_local_lines_inclusive": [
+            267,
+            271
+          ],
+          "source_segment_sha256": "859b5d0e6897cbd4bc34857b2f5808e4914f6e4e4df751a3370d0f36514c2b42",
+          "excerpt": "\n   If a business man were to say, \"I have a circulat-\ning capital of fifty thousand dollars,\" he would mean\nthat the fifty thousand     dollars are in the shape of\ngoods that he is interested      in selling as quickly as\n",
+          "unit_match_line": 269
+        },
+        {
+          "source_local_lines_inclusive": [
+            268,
+            272
+          ],
+          "source_segment_sha256": "4a4ff6cf207834520d1e859a9df974f4eed80df5cf2827f6c29dddeb2e977b6d",
+          "excerpt": "   If a business man were to say, \"I have a circulat-\ning capital of fifty thousand dollars,\" he would mean\nthat the fifty thousand     dollars are in the shape of\ngoods that he is interested      in selling as quickly as\nhe can--finished     goods in his warehouse or unfin-\n",
+          "unit_match_line": 270
+        },
+        {
+          "source_local_lines_inclusive": [
+            283,
+            287
+          ],
+          "source_segment_sha256": "10e21d60cb58a8a9264bc5351bcf6d96dab60e8bcf16ab48fbe364990c67b403",
+          "excerpt": "the better it is for the owner.     The so-called \"nim-      _r_dku.ctiw\nble sixpence\"    is profitable.   If the man has a fixed\ncapital of fifty thousand dollars, this sum is in forms\nin which it will stay as long as the man can keep it\nthere.   The sooner the shoes in the factory arc fin-\n",
+          "unit_match_line": 285
+        },
+        {
+          "source_local_lines_inclusive": [
+            291,
+            295
+          ],
+          "source_segment_sha256": "159fc806ac2c55f74c6404729f37e3d554040258a8b12b651eb209ba05619a9e",
+          "excerpt": "gain by being nimble : it is the \"slow shillings\"   that\nare here the best.\n    Of the fixed capital of fifty thousand dollars some\nis, perhaps, invested in land, and this will never wear\nout; some is in buildings,      and these will wear out\n",
+          "unit_match_line": 293
+        },
+        {
+          "source_local_lines_inclusive": [
+            298,
+            302
+          ],
+          "source_segment_sha256": "6e2e90bf932a7ea33aee26ef502075f3bac79c839f647728c0aa1e704d336a93",
+          "excerpt": "them is, that it is not good for production       to have\nthem wear out at all.      This sum of fifty thousand\ndollars may be forced to change many of its forms of\ni_vestment;     but the change is unwelcome         to the\nowner, and he will put it off as long as he can.       He\n",
+          "unit_match_line": 300
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 11,
+      "source_file": "source/ch11.txt",
+      "source_sha256": "4010f30aace1de9631bb371b0c3a3477d300ad5493e7364749f67cfadaf1631f",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            110,
+            114
+          ],
+          "source_segment_sha256": "9762a69918493f6b86426bc400233d638ebff09728c7c47115480a9d969a8508",
+          "excerpt": "in connection with a given amount of capital causes\nthat capital to change its forms.        Where there is a\ncapital of five hundred dollars for each worker, that\nfund is in one set of forms; and where there is a\ncapital of a thousand    dollars per man, it is in a dif-\n",
+          "unit_match_line": 112
+        },
+        {
+          "source_local_lines_inclusive": [
+            112,
+            116
+          ],
+          "source_segment_sha256": "17c56052706da4fc8aca9f69edeaa0595d921f1cb48ba711875791556cb6c611",
+          "excerpt": "capital of five hundred dollars for each worker, that\nfund is in one set of forms; and where there is a\ncapital of a thousand    dollars per man, it is in a dif-\nferent set.    Now, the labor changes its forms in the\nsame way.       The men who are working with the\n",
+          "unit_match_line": 114
+        },
+        {
+          "source_local_lines_inclusive": [
+            142,
+            146
+          ],
+          "source_segment_sha256": "e2d007e69d4bc747c63718069494db0bf08b3dd0f69feebe9072302b31b5e1ef",
+          "excerpt": "              men, working for decade after decade, with neither\n              diminution nor increase, and with a capital of a mill-\n              ion dollars, sustaining    itself also without   deduc-\n              tmn or enlargement,     how large is the product that\n              a unit of labor will produce?        The answer to this\n",
+          "unit_match_line": 144
+        },
+        {
+          "source_local_lines_inclusive": [
+            653,
+            657
+          ],
+          "source_segment_sha256": "465918a95532061fb8486d9048d257b6810c32a0027dd538c327c3f3192a6879",
+          "excerpt": " scribed, and if their departure reduces the product of\n all industries    by a total amount that can be stated\n as two hundred dollars, then that is the product that\n can be attributed    solely to the work of the hundred\n  men.    If they are typical       men of equal working\n",
+          "unit_match_line": 655
+        },
+        {
+          "source_local_lines_inclusive": [
+            656,
+            660
+          ],
+          "source_segment_sha256": "90beba57792bfbefd569cd39633f0f1a834ad7e7831d0aaf0a7978fb94ad2df9",
+          "excerpt": " can be attributed    solely to the work of the hundred\n  men.    If they are typical       men of equal working\n powers, two dollars a day make one man's natural\n wages.\n    How ultra-imaginary       is such a test of the produc-\n",
+          "unit_match_line": 658
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 12,
+      "source_file": "source/ch12.txt",
+      "source_sha256": "1c139d5de276b484a8be2c9ccdfce88f718154e00617aa5eca25ba055aba3bc0",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            58,
+            62
+          ],
+          "source_segment_sha256": "f4c4b4a51138b96aa49b7cb2e17f6028923e05eae23912af3cccb207711faa66",
+          "excerpt": "             produce as much in one sub-group as in another.\n                 Give, now, to this isolated community        a hundred\n             million     dollars'   worth of capital,    and introduce\n             gradually a corresponding       force of workers.     Put a\n             thousand      laborers into the rich environment       that\n",
+          "unit_match_line": 60
+        },
+        {
+          "source_local_lines_inclusive": [
+            63,
+            67
+          ],
+          "source_segment_sha256": "7107d2a5bcd3a826584d819f366e2a40c3830aac19828737655a25ef274e8d70",
+          "excerpt": "           these conditions afford, and their product per capita\n           will be enormous.    Their work will be aided by cap-\n           ital to the extent of a hundred thousand dollars per\n           man.    This sum will take such forms as the workers\n            can best use, and a profusion of the available tools,\n",
+          "unit_match_line": 65
+        },
+        {
+          "source_local_lines_inclusive": [
+            97,
+            101
+          ],
+          "source_segment_sha256": "d7b3072ac7a58fed1008c9c0e693cd446071e9ea1855956c14a151acf2b6df37",
+          "excerpt": "man will be smaller than before.     This second incre-\nment of labor has at its disposal capital amoul,ting to\nonly half a hundred thousand       dollars per man; and\nthis it has taken from the men who were formerly\nu_ing it.    In using c,tpital, the new force of workers\n",
+          "unit_match_line": 99
+        },
+        {
+          "source_local_lines_inclusive": [
+            120,
+            124
+          ],
+          "source_segment_sha256": "24b67461078a277e57f940f06c741d8119750246a8536ff6fe7297445ca8e744",
+          "excerpt": "he brings into existence     less wealth than did one of\nthe first division of laborers.\n   All over the field the hundred million dollars has,\nas it were, stretched  itself out to meet the needs of\na double force of workers.     Of some kinds of tools\n",
+          "unit_match_line": 122
+        },
+        {
+          "source_local_lines_inclusive": [
+            184,
+            188
+          ],
+          "source_segment_sha256": "208348af460bbfd36f769970225adb061bb86a8338feac0fb907fbb4fa8be03d",
+          "excerpt": "tions is still great.  Continue to add to the force\ntill it numbers a hundred      thousand,   having still\nthe hundred million dollars' worth of capital, but in\nchanged form.     The workers are then about as well\nequipped as are those of the United States at the\n",
+          "unit_match_line": 186
+        },
+        {
+          "source_local_lines_inclusive": [
+            252,
+            256
+          ],
+          "source_segment_sha256": "581f4df9695660ee64ffe7fa5dae2c199e1861cb6a54548ae069f2ece00fe6f7",
+          "excerpt": "No unit of      Actually,   no unit is last in time.       The hundred\nlabor _nal\nin pmnt      thousand     men, with the hundred        million   dollars'\nof time.     worth of capital, work on year after year, and no one\n             division of a thousand      can be singled out as consti-\n",
+          "unit_match_line": 254
+        },
+        {
+          "source_local_lines_inclusive": [
+            536,
+            540
+          ],
+          "source_segment_sha256": "db45b48ea5282d4cdf34d5ab18e4933a6482c00ae3becb7818415a33b0504d2f",
+          "excerpt": "                Though he will probably not use the liberated time\n                for this particular purpose, whatever he does secure\n                by it represents an interest of five hundred per cent\n\n\n",
+          "unit_match_line": 538
+        },
+        {
+          "source_local_lines_inclusive": [
+            549,
+            553
+          ],
+          "source_segment_sha256": "6d3621cfec81b0b473f27f3aa725ae602a87b3140f306bcc81e1338e7597dff0",
+          "excerpt": "other things for his own use; but the fruit of the\nspare time that the second tool makes available is\nnow four hundred       per cent of the cost of the tool,\nas computed in terms of unaided labor.\n   Tools are, of course, employed in the order of\n",
+          "unit_match_line": 551
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 14,
+      "source_file": "source/ch14.txt",
+      "source_sha256": "d4471a8bf3f545ebd9a4803be39d28935a59e9f4640da7a1bf384d5f07a2bf95",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            277,
+            281
+          ],
+          "source_segment_sha256": "77d1fc66c7b9aeedae47ceb9edcf9de3fd798ef9ee77e148c3b5f9762c548892",
+          "excerpt": "\n           will still be less than that of any other.       The early\n           dollars feed, clothe and shelter the man, but the last\n           one finds it hard to do anything for him. A dollar,\n           as thus used, mean_ command of a quantity of con-\n",
+          "unit_match_line": 279
+        },
+        {
+          "source_local_lines_inclusive": [
+            278,
+            282
+          ],
+          "source_segment_sha256": "8d557f58658ddaf77a483d13afba076b65e9ebf76759d679008a98a617571935",
+          "excerpt": "           will still be less than that of any other.       The early\n           dollars feed, clothe and shelter the man, but the last\n           one finds it hard to do anything for him. A dollar,\n           as thus used, mean_ command of a quantity of con-\n           sumers' wealth indeterminate      in its form ; and wealth,\n",
+          "unit_match_line": 280
+        },
+        {
+          "source_local_lines_inclusive": [
+            321,
+            325
+          ],
+          "source_segment_sha256": "a7c9da537ed5fc6bac667d39f310a7e32b6443414ae8cc0e9df7c2b680c66190",
+          "excerpt": "\n\ndollars of the year's income, the man in the illustra-\ntion will buy some particular things that he did not\nhave before, and he will add quantitatively         to his\n",
+          "unit_match_line": 323
+        },
+        {
+          "source_local_lines_inclusive": [
+            326,
+            330
+          ],
+          "source_segment_sha256": "774e19d3b8c7ca278d5475f4d3114516dd2f5902ce5cd456566994aa9a8bfb26",
+          "excerpt": "supply of things of which he has already had a cer-\ntain amount.   If each distinct article on tile list costs\na dollar, they are all supposed to be of equal utility :\nbut their degrees of utility are, in fact, very unequal. Error\n                                                            cermng\n",
+          "unit_match_line": 328
+        },
+        {
+          "source_local_lines_inclusive": [
+            376,
+            380
+          ],
+          "source_segment_sha256": "45b1b53621437f21bcd171aec38090cdade678d72dead6070280f35be224e887",
+          "excerpt": "             thing there found does so. Something in the meat,\n             the prepared  vegetables, the pastry, etc., is bought\n             with the man's final dollars and constitutes his final\n             increment of food.\n                In pure theory, the statement of the vital fact of\n",
+          "unit_match_line": 378
+        },
+        {
+          "source_local_lines_inclusive": [
+            396,
+            400
+          ],
+          "source_segment_sha256": "52f0e9408b00595ec67032f6e5e1d263e285b20f2b7c50d9c3c69d51e7781e4a",
+          "excerpt": "             cheap article and afterward    improve it, he buys the\n             improved article at a single purchase.      The literal\n             effect of spending his last dollar consists in the sub-\n             stituting  of a good article for the cheap one, with\n             which he would have contented himself if his avail-\n",
+          "unit_match_line": 398
+        },
+        {
+          "source_local_lines_inclusive": [
+            413,
+            417
+          ],
+          "source_segment_sha256": "1a4169fb074baadb412475ad630b439b79e28729fbcc2c037464ca6457f2dd41",
+          "excerpt": "\nshelter that the building contains represents one of\nthe earliest increments. Some of the dollars that he\nhas spent are paid for shelter, some for comforts and\nconveniences, and some for the final elegances that\n",
+          "unit_match_line": 415
+        },
+        {
+          "source_local_lines_inclusive": [
+            429,
+            433
+          ],
+          "source_segment_sha256": "910d30b0243321c7b71d0004584814b2d165141ec1fe1b824a55c1e6ca572355",
+          "excerpt": "entire range of his consumption,   from the first incre-\nment to the last.   It contains nourishment    which is\nbought with what is logically the man's first dollar.\nIt also has qualities that are imparted to it at great\ncost. Skilled and expensive culinary labor has done\n",
+          "unit_match_line": 431
+        },
+        {
+          "source_local_lines_inclusive": [
+            433,
+            437
+          ],
+          "source_segment_sha256": "6e8cde15ac44f3ee9a98c6d86a644681d7deafbe4a48975b68df391d4e87201c",
+          "excerpt": "cost. Skilled and expensive culinary labor has done\nmuch for it; and it would not be precisely what it\nis, if it were not for the last dollars that are expended\nin securing     an accomplished    cook.    Simple as this\narticle is, it contains, in effect, a composite of qual-\n",
+          "unit_match_line": 435
+        },
+        {
+          "source_local_lines_inclusive": [
+            463,
+            467
+          ],
+          "source_segment_sha256": "72f7233c89d3b87502f5f22fd4a773b2fd8084b11dbecfbcd68b33a9410aa7bc",
+          "excerpt": "the year in the order of their importance, he could\nnot do it. Let him have, for example, a yearly in-\ncome of ten thousand dollars.    Give him this amount,\nin a series of sums of a thousand dollars each, and\nlet him try to buy with the first thousand dollars\n",
+          "unit_match_line": 465
+        },
+        {
+          "source_local_lines_inclusive": [
+            464,
+            468
+          ],
+          "source_segment_sha256": "8690ce717e79199c6014be54150332bb584cfdbeb604df5972cda0aa2e8dcfd2",
+          "excerpt": "not do it. Let him have, for example, a yearly in-\ncome of ten thousand dollars.    Give him this amount,\nin a series of sums of a thousand dollars each, and\nlet him try to buy with the first thousand dollars\nwhat is actually the first increment of consumers'\n",
+          "unit_match_line": 466
+        },
+        {
+          "source_local_lines_inclusive": [
+            465,
+            469
+          ],
+          "source_segment_sha256": "5ee46a1bca1ecd684abf475c35b99631b4300c25ca457a5e4c8d442c4f51a5da",
+          "excerpt": "come of ten thousand dollars.    Give him this amount,\nin a series of sums of a thousand dollars each, and\nlet him try to buy with the first thousand dollars\nwhat is actually the first increment of consumers'\nwealth for a man on a ten thousand dollar income.\n",
+          "unit_match_line": 467
+        },
+        {
+          "source_local_lines_inclusive": [
+            467,
+            471
+          ],
+          "source_segment_sha256": "3c6c895ee1cbb2bb6827c909af0925c5c2583e5a1aa94c8a19e872f40fcab546",
+          "excerpt": "let him try to buy with the first thousand dollars\nwhat is actually the first increment of consumers'\nwealth for a man on a ten thousand dollar income.\nWith the second of the units of income, let him try\nto buy what is actually the second increment of con-\n",
+          "unit_match_line": 469
+        },
+        {
+          "source_local_lines_inclusive": [
+            471,
+            475
+          ],
+          "source_segment_sha256": "e424d70c32630c9d16215054d81b023f1c2764d82a6f5130d64651485475355c",
+          "excerpt": "to buy what is actually the second increment of con-\nsumers' wealth for a man in his status ; and with the\nlast thousand  dollars let him try to buy what is\nthe true final increment   of consumers'   wealth for\nsuch a man.    How could he do it? With the first\n",
+          "unit_match_line": 473
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 15,
+      "source_file": "source/ch15.txt",
+      "source_sha256": "e109314b6af240fa321038a5b82b54ea4db1eba1b6f125a9daea027669b70c7a",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            18,
+            22
+          ],
+          "source_segment_sha256": "0407f4b343e224029a0cc367357c765860023941cf4b2adf698381e0fa1d2e06",
+          "excerpt": "this theory in its uncorrected       form were true, a man cansfor\n                                                            a great\nwould pay five hundred dollars or more for an over- markmg  of actual up\ncoat for which he actually gives fifty, and a thousand priceB.\ndollars for a watch for which he actually pays a hun-\n",
+          "unit_match_line": 20
+        },
+        {
+          "source_local_lines_inclusive": [
+            20,
+            24
+          ],
+          "source_segment_sha256": "dc8a18e2713b3f0c59b813c00495338b188be21a923351093a5c59610eee44d7",
+          "excerpt": "would pay five hundred dollars or more for an over- markmg  of actual up\ncoat for which he actually gives fifty, and a thousand priceB.\ndollars for a watch for which he actually pays a hun-\ndred.     A very rich man would give ten million\ndollars for a dwelling instead of one million, etc.\n",
+          "unit_match_line": 22
+        },
+        {
+          "source_local_lines_inclusive": [
+            22,
+            26
+          ],
+          "source_segment_sha256": "962d8f59bca099e1e04e4ed3c65cd2cae6887c41e81dedd392dba54cc63e4b4a",
+          "excerpt": "dollars for a watch for which he actually pays a hun-\ndred.     A very rich man would give ten million\ndollars for a dwelling instead of one million, etc.\nThe final utility theory of value, when it is thus\napplied to commodities in their entirety, gives results\n",
+          "unit_match_line": 24
+        },
+        {
+          "source_local_lines_inclusive": [
+            54,
+            58
+          ],
+          "source_segment_sha256": "5cbcf199e5541d32310356b21a5504dc5c32c993d28d95f31c96b7b2c97c27e8",
+          "excerpt": "             we have seen, the man adds the last increment to the\n             wealth that is embodied in his wardrobe, when he re-\n             places a coat that cost forty-five dollars with one that\n              costs fifty.  The last five dollars that are spent on the\n              coat are represented by some quality that this garment\n",
+          "unit_match_line": 56
+        },
+        {
+          "source_local_lines_inclusive": [
+            55,
+            59
+          ],
+          "source_segment_sha256": "28166c9e0debdec98b2fd189aca98fb3a919179df44624358b602cc1dc2cf51d",
+          "excerpt": "             wealth that is embodied in his wardrobe, when he re-\n             places a coat that cost forty-five dollars with one that\n              costs fifty.  The last five dollars that are spent on the\n              coat are represented by some quality that this garment\nModeo_       possesses.    It is a final utility in the coat; but the\n",
+          "unit_match_line": 57
+        },
+        {
+          "source_local_lines_inclusive": [
+            62,
+            66
+          ],
+          "source_segment_sha256": "fc337db93d6b98cf1c653adac10b48dc26e9840ece6f50368075a2bd77ac8bfa",
+          "excerpt": "utilitlea,   ity, even though it be the last one of its class that\n             the owner procures.       It is only what the man pays\n             the last five dollars for that acts directly in adjust-\n             ing the value of the coat; and what he gives the\n             forty-five dollars for consists of elements       that get\n",
+          "unit_match_line": 64
+        },
+        {
+          "source_local_lines_inclusive": [
+            64,
+            68
+          ],
+          "source_segment_sha256": "353647d85bb35c425cbcfe8725cea500099e664a154c6f3324c77d6ab22e929b",
+          "excerpt": "             the last five dollars for that acts directly in adjust-\n             ing the value of the coat; and what he gives the\n             forty-five dollars for consists of elements       that get\n             their value in another way, and a way that is not\n             directly connected     with this action.\n",
+          "unit_match_line": 66
+        },
+        {
+          "source_local_lines_inclusive": [
+            119,
+            123
+          ],
+          "source_segment_sha256": "6273eee91c15dd8d6c2dffe7ecce665315faaf2ca3ef37f4ef69312ebf16bed5",
+          "excerpt": "limit.   It tells why a man who has bought three\nunits of the commodity A, when the price of it was\na dollar, buys four units and no more, when the price\nfalls to ninety cents.    The purchaser, it shows, sim-\nply obeys the rule of getting the largest obtainable\n",
+          "unit_match_line": 121
+        },
+        {
+          "source_local_lines_inclusive": [
+            120,
+            124
+          ],
+          "source_segment_sha256": "d46ae9a40d808c8b147754fbb713393fdd008c0168fe6fa3173df25a6db99bb3",
+          "excerpt": "units of the commodity A, when the price of it was\na dollar, buys four units and no more, when the price\nfalls to ninety cents.    The purchaser, it shows, sim-\nply obeys the rule of getting the largest obtainable\nutility for each dime that he spends. 1\n",
+          "unit_match_line": 122
+        },
+        {
+          "source_local_lines_inclusive": [
+            122,
+            126
+          ],
+          "source_segment_sha256": "868a94da07f1c8f8655968aa97f6fae1cc11e6b489ba4c0648589e1aaadf6c52",
+          "excerpt": "falls to ninety cents.    The purchaser, it shows, sim-\nply obeys the rule of getting the largest obtainable\nutility for each dime that he spends. 1\n\n    1 The money that the man spends really represents some sacri-\n",
+          "unit_match_line": 124
+        },
+        {
+          "source_local_lines_inclusive": [
+            143,
+            147
+          ],
+          "source_segment_sha256": "f6143899957143335961138319f4fc59724be7ef42aa880f71ae8b73f49acbc1",
+          "excerpt": "               be preferred.    We may for convenience       define, as a\n               unit of each kind of goods whatsoever, what is offered\n               in the market for a dime.      The man will buy, with\n               the dimes that he can spend each day, a series of\n               things that arrange themse]ves     in the order of their\n",
+          "unit_match_line": 145
+        },
+        {
+          "source_local_lines_inclusive": [
+            144,
+            148
+          ],
+          "source_segment_sha256": "42871789963908a6e63ffb89d12594a69fd5bee0e9dff22f3db16fefff65239a",
+          "excerpt": "               unit of each kind of goods whatsoever, what is offered\n               in the market for a dime.      The man will buy, with\n               the dimes that he can spend each day, a series of\n               things that arrange themse]ves     in the order of their\nGraphicil- importance        to him; and the law that determines\n",
+          "unit_match_line": 146
+        },
+        {
+          "source_local_lines_inclusive": [
+            168,
+            172
+          ],
+          "source_segment_sha256": "5acb4a94fe0a34ef300e8aaa0fcb57480ea64c93ca437e4f61dd85a951b89571",
+          "excerpt": "            far in the study we do not now need to go.            It Ls enough, for\n            present purposes, that the man, as a result of his sacrifices, has\n            dimes to spend and is studying how to make the most of them.\n\n\n",
+          "unit_match_line": 170
+        },
+        {
+          "source_local_lines_inclusive": [
+            174,
+            178
+          ],
+          "source_segment_sha256": "85f4661693b8af67aeb4b6576c6419a78d00875a0679ca2546f5066857a12b0a",
+          "excerpt": "         THE BASIS OF GROUP DISTRIBUTION               203\n\nsumer, of a dime's worth of each of them be measured\nby the vertical distance of the letter that represents\nit from the line JI.   The first unit of A has a utility\n",
+          "unit_match_line": 176
+        },
+        {
+          "source_local_lines_inclusive": [
+            186,
+            190
+          ],
+          "source_segment_sha256": "809627ef174b111cf8675818c6c1d4468dcea8bb2e18f107ef853992112cf5b6",
+          "excerpt": "we may designate fourth and fifth increments, etc.\n    We will say that the man arranges in a series the\ndimes that he can spend in a day, and buys with the\nfirst dime what is of most importance to him; with\nthe second dime that which stands next in the order\n",
+          "unit_match_line": 188
+        },
+        {
+          "source_local_lines_inclusive": [
+            187,
+            191
+          ],
+          "source_segment_sha256": "42155f559ba34aa3a42e0161010e7da1b84e34eef7f05ceeea52aa6015ce5dca",
+          "excerpt": "    We will say that the man arranges in a series the\ndimes that he can spend in a day, and buys with the\nfirst dime what is of most importance to him; with\nthe second dime that which stands next in the order\nof importance;   and so on, till with his last dimes\n",
+          "unit_match_line": 189
+        },
+        {
+          "source_local_lines_inclusive": [
+            188,
+            192
+          ],
+          "source_segment_sha256": "5d0fcb99aac630ff323db5d2cc448a9b2a563000521de5324efc0fca3c3102c2",
+          "excerpt": "dimes that he can spend in a day, and buys with the\nfirst dime what is of most importance to him; with\nthe second dime that which stands next in the order\nof importance;   and so on, till with his last dimes\nhe buys things that are needed least of all.     The\n",
+          "unit_match_line": 190
+        },
+        {
+          "source_local_lines_inclusive": [
+            189,
+            193
+          ],
+          "source_segment_sha256": "ef673bc912c3368de3cd3bd2e201d5ca43dfd12f660a967561a5295b369f0b5a",
+          "excerpt": "first dime what is of most importance to him; with\nthe second dime that which stands next in the order\nof importance;   and so on, till with his last dimes\nhe buys things that are needed least of all.     The\nfirst increment of his day's purchase of consumers'\n",
+          "unit_match_line": 191
+        },
+        {
+          "source_local_lines_inclusive": [
+            192,
+            196
+          ],
+          "source_segment_sha256": "dd8ea6c1cdc75789c97fd03d1e739c776433bef8ccec0ebcb927a0075b2672ff",
+          "excerpt": "he buys things that are needed least of all.     The\nfirst increment of his day's purchase of consumers'\nwealth is, then, one dime's worth of the article A.\nThe second unit is B. As a return for the next dime\nto be spent, there are two articles offering themselves\n",
+          "unit_match_line": 194
+        },
+        {
+          "source_local_lines_inclusive": [
+            193,
+            197
+          ],
+          "source_segment_sha256": "5ab438bff4736b532c9a3d19388d6968244fc4924b90b7075d74de50a9863e65",
+          "excerpt": "first increment of his day's purchase of consumers'\nwealth is, then, one dime's worth of the article A.\nThe second unit is B. As a return for the next dime\nto be spent, there are two articles offering themselves\nwhich have equal degrees of utility.     They are C and\n",
+          "unit_match_line": 195
+        },
+        {
+          "source_local_lines_inclusive": [
+            197,
+            201
+          ],
+          "source_segment_sha256": "f40384c05528cbde407f03328988b42b8dd0e293d3a2bc9dad788f89ac1dd197",
+          "excerpt": "which have equal degrees of utility.     They are C and\na second unit of A, here designated as A r. The man\nwill spend two dimes and get these two articles.   D and\nB' are next in importance, and they have equal utilities.\nThe raan's fifth and sixth dimes will get them. With\n",
+          "unit_match_line": 199
+        },
+        {
+          "source_local_lines_inclusive": [
+            199,
+            203
+          ],
+          "source_segment_sha256": "2ef27c1d51dc632d7f1a960b203d93d13c187dacd18f0d607a265d9f04c4f9bd",
+          "excerpt": "will spend two dimes and get these two articles.   D and\nB' are next in importance, and they have equal utilities.\nThe raan's fifth and sixth dimes will get them. With\nthe seventh dime he buys C r, or a second unit of the\narticle C ; and with the eighth, ninth and tenth dimes\n",
+          "unit_match_line": 201
+        },
+        {
+          "source_local_lines_inclusive": [
+            200,
+            204
+          ],
+          "source_segment_sha256": "b78f3790e7b173fc228bb47bf9a40a41c10314c40d6c1631a67ee3717c627584",
+          "excerpt": "B' are next in importance, and they have equal utilities.\nThe raan's fifth and sixth dimes will get them. With\nthe seventh dime he buys C r, or a second unit of the\narticle C ; and with the eighth, ninth and tenth dimes\nhe buys E, B\" and A'.      When he reaches H, he finds\n",
+          "unit_match_line": 202
+        },
+        {
+          "source_local_lines_inclusive": [
+            201,
+            205
+          ],
+          "source_segment_sha256": "8f06079fb631477b2905c4f9bbfa77665247127bcc145416587b0435921f5d6b",
+          "excerpt": "The raan's fifth and sixth dimes will get them. With\nthe seventh dime he buys C r, or a second unit of the\narticle C ; and with the eighth, ninth and tenth dimes\nhe buys E, B\" and A'.      When he reaches H, he finds\nthat that article and B'% C\", D _, E r and F pare on\n",
+          "unit_match_line": 203
+        },
+        {
+          "source_local_lines_inclusive": [
+            205,
+            209
+          ],
+          "source_segment_sha256": "0e111330dbc7833fc2ad9fc201cff8c781d745ce20a2ab60c22888dd459ac98b",
+          "excerpt": "that that article and B'% C\", D _, E r and F pare on\na par in importance to him, and he spends hi_ last\nsix dimes on these things.       In all, he has spent\ntwenty-one  dimes and has exhausted the free income\nof a day.\n",
+          "unit_match_line": 207
+        },
+        {
+          "source_local_lines_inclusive": [
+            206,
+            210
+          ],
+          "source_segment_sha256": "a12e5baa2a8d8fc037c6679d275e07ec6b0f22239ff74cac9d519e6b38ee202a",
+          "excerpt": "a par in importance to him, and he spends hi_ last\nsix dimes on these things.       In all, he has spent\ntwenty-one  dimes and has exhausted the free income\nof a day.\n   The last increments  o[ each commodity that this\n",
+          "unit_match_line": 208
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 16,
+      "source_file": "source/ch16.txt",
+      "source_sha256": "528867697f3ab0737d267f5a53ef881df6bb279ccfceb3ef26db5d417af08b6d",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            165,
+            169
+          ],
+          "source_segment_sha256": "fef11c8ffd1a6311b040b87d7fa025ac0fc6ea27232bec0349344651502dcd3a",
+          "excerpt": "                  ket prices--namely,        those only which are indicated\n                  by the letter F of the diagram.           Each article, let us\n                  say, costs a dollar.         Since all of them except F\n                  afford consumers' surpluses, or \"rents,\" they are not\nOnlythe           on the margin of consumption,              and you may ask\n",
+          "unit_match_line": 167
+        },
+        {
+          "source_local_lines_inclusive": [
+            404,
+            408
+          ],
+          "source_segment_sha256": "b2cb096ff803f43be8ffd7b436121d340cbc67faf77a649553bd3407ab287024",
+          "excerpt": "be such.     The boat in its entirety includes utilities\nof every grade.      For them all the owner may have\ngiven seventy-five dollars; but he would, perhaps, have\ngiven a thousand, if he had paid what would measure\n\n",
+          "unit_match_line": 406
+        },
+        {
+          "source_local_lines_inclusive": [
+            415,
+            419
+          ],
+          "source_segment_sha256": "4eeb0a0082ad3deab18b41fd3b123277a60e7f3051b33fdad307ae46ce9d5277",
+          "excerpt": "                 the individual     importance    of the various utilities.\n                 The power of the canoe to keep him afloat would be\n                 worth five hundred      dollars to him, if he could not\n                 have it for less. The power to move to and fro would\n                 be worth three hundred.        Carrying power counts for\n",
+          "unit_match_line": 417
+        },
+        {
+          "source_local_lines_inclusive": [
+            418,
+            422
+          ],
+          "source_segment_sha256": "960a9090120be99d69f6fbe7a05186dfa9c762092676a5de1c8246811aac211f",
+          "excerpt": "                 have it for less. The power to move to and fro would\n                 be worth three hundred.        Carrying power counts for\n                 one hundred dollars, speed of movement for seventy-\n                 five and decoration      for twenty-five.    These sums\n                 represent what he would give, if he had to do so, for\n",
+          "unit_match_line": 420
+        },
+        {
+          "source_local_lines_inclusive": [
+            423,
+            427
+          ],
+          "source_segment_sha256": "f67a46cd80729fd8480bcdf9cf3c0ea51130113403c4f44bfa0f98121b3a719d",
+          "excerpt": "                 the various utilities in this commodity.      If this man\n                 were the marginal purchaser of this whole commod-\n                 ity, a thousand dollars would then be the price of it.\n  Howtho             The last quality that the boat possesses is a final\n market    ana-\n",
+          "unit_match_line": 425
+        },
+        {
+          "source_local_lines_inclusive": [
+            428,
+            432
+          ],
+          "source_segment_sha256": "ff546512cce98bdfe2e8a9332775918590dd86bb70bdfec5addbd6fd2cb070bb",
+          "excerpt": " lyzes goods utility     in the true sense. If the decoration of this yes-\n and\n appraises       sel cost thirty dollars, the fisherman would buy a le_s\n thelrele-       ornate canoe.      The demand for decorated         vessels\n ments sepa-\n",
+          "unit_match_line": 430
+        },
+        {
+          "source_local_lines_inclusive": [
+            440,
+            444
+          ],
+          "source_segment_sha256": "a1b684d91e76ebddb4ccf3270d9e0e08773b26f44a3c8ac06ba2401738ac433e",
+          "excerpt": "                 would be without the special decoration that consti-\n                tutes the fnal utility in the canoes of the highest\n                quality.     In canoes costing seventy-five    dollars, this\n                utility is clearly the only one the measure of which\n                is a gauge of price.\n",
+          "unit_match_line": 442
+        },
+        {
+          "source_local_lines_inclusive": [
+            468,
+            472
+          ],
+          "source_segment_sha256": "a6726f674d7bb5c1d027f1cd8d79d979fddad8b0e2e28f618234cce5031f89b1",
+          "excerpt": "fourth utility in the canoe is a price-making        one.\nIn consequence      of the demand of this class of per-\nsons, this utility may bring twenty dollars in the\nmarket.\n   There is, likewise, a class of persons to whom the\n",
+          "unit_match_line": 470
+        },
+        {
+          "source_local_lines_inclusive": [
+            476,
+            480
+          ],
+          "source_segment_sha256": "64ecc5b7debd7ff45abfbc370108be05791169ba823b5fe703297d1f0c1a84f4",
+          "excerpt": "fice speed, contenting     themselves with comfort; and\ntheir demand may make this utility worth fifteen\ndollars. There is, again, a class of buyers who fix the\nprice of the second utility w say, at ten dallars--\nand another of those who fix the price of the first\n",
+          "unit_match_line": 478
+        },
+        {
+          "source_local_lines_inclusive": [
+            479,
+            483
+          ],
+          "source_segment_sha256": "2879c35177b12cfa8acd8520d68132023fc99cfe1faf2bf8f277ab4b9b93d5eb",
+          "excerpt": "price of the second utility w say, at ten dallars--\nand another of those who fix the price of the first\nutility--say,     at five dollars.    If there are five dis-\ntinct services rendered by such a pleasure craft as\nwe have selected for illustration,        it takes five dis-\n",
+          "unit_match_line": 481
+        },
+        {
+          "source_local_lines_inclusive": [
+            503,
+            507
+          ],
+          "source_segment_sha256": "240cd0cf28d8f1529a043135e4bb5e9451738bd312b073cda6e96ff7209ffc51",
+          "excerpt": "242         THE DISTRIBUTION OF WEALTH\n\n fifteen, ten and five dollars.     The entire canoe, then,\nbrings seventy-five    dollars in the market.\n     Make watches dearer than they are, and the man\n",
+          "unit_match_line": 505
+        },
+        {
+          "source_local_lines_inclusive": [
+            504,
+            508
+          ],
+          "source_segment_sha256": "cf735a5175ae5d88a96c4999da176c4ca33632cefee03d69b91634375200ab77",
+          "excerpt": "\n fifteen, ten and five dollars.     The entire canoe, then,\nbrings seventy-five    dollars in the market.\n     Make watches dearer than they are, and the man\nwho pays a hundred        dollars for a watch will not go\n",
+          "unit_match_line": 506
+        },
+        {
+          "source_local_lines_inclusive": [
+            506,
+            510
+          ],
+          "source_segment_sha256": "cf2da2906d8ab0e5e39abfa8f941396c14b50bb8ec394ec1ecd9207749896ec9",
+          "excerpt": "brings seventy-five    dollars in the market.\n     Make watches dearer than they are, and the man\nwho pays a hundred        dollars for a watch will not go\nwithout one. He will buy one that formerly sold for\nninety dollars, and will forego something in the way\n",
+          "unit_match_line": 508
+        },
+        {
+          "source_local_lines_inclusive": [
+            508,
+            512
+          ],
+          "source_segment_sha256": "b41b0e5834813eda218a3f754ddfcbe30a9865bff940a8c0a45cd35cde33b0db",
+          "excerpt": "who pays a hundred        dollars for a watch will not go\nwithout one. He will buy one that formerly sold for\nninety dollars, and will forego something in the way\nof ornamentation.      Another class will take the grade\nthat lately sold for eighty dollars, and will forego\n",
+          "unit_match_line": 510
+        },
+        {
+          "source_local_lines_inclusive": [
+            510,
+            514
+          ],
+          "source_segment_sha256": "509dafbcef1adf2fc6625cb717c48c12354a539f9f98f3730cb8964d00d5b76f",
+          "excerpt": "ninety dollars, and will forego something in the way\nof ornamentation.      Another class will take the grade\nthat lately sold for eighty dollars, and will forego\nsomething in the way of accuracy.            Each class will\ngive up, not watches, but something in watches.              A\n",
+          "unit_match_line": 512
+        },
+        {
+          "source_local_lines_inclusive": [
+            513,
+            517
+          ],
+          "source_segment_sha256": "24457449460e49a67e7bd3ead221963fa36bb638dfc9c1de2a3150dadcd2fe83",
+          "excerpt": "something in the way of accuracy.            Each class will\ngive up, not watches, but something in watches.              A\ncertain class that formerly        bought     dollar watches\nwill, however, give them up altogether,            since there\nis no cheaper pocket timepiece to be had.             To these\n",
+          "unit_match_line": 515
+        },
+        {
+          "source_local_lines_inclusive": [
+            563,
+            567
+          ],
+          "source_segment_sha256": "f9d5087eed39d36e6f7e57c662149ff25fde3e267fdac79199f0c69e14468ad6",
+          "excerpt": "lowest and cheapest of the economic constituents            that\ncompose the royal dwelling, and may be had for a\nhundred dollars.        The difference between the shanty\nand a cottage may be regarded           as the second value\nelement;      and this also has its marginal purchasers.\n",
+          "unit_match_line": 565
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 17,
+      "source_file": "source/ch17.txt",
+      "source_sha256": "05f60900c2dffb49338aa8942ee3a53a8c7b451146887007bcc5c2b1095bb53b",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            372,
+            376
+          ],
+          "source_segment_sha256": "cd3d41020433edac3b12b82089c19e35c0b52d768a9eb005fb0ff0744244d0e0",
+          "excerpt": "            every tool and every other working appliance is so\n            judiciously selected that the final productive element\n            in each yields, as net income (let us say) five per cent\n            of its cost, and if that is the prevalent rate of interest\n            on loans, the owner of this mill is, in so far, in a con-\n",
+          "unit_match_line": 374
+        },
+        {
+          "source_local_lines_inclusive": [
+            377,
+            381
+          ],
+          "source_segment_sha256": "1a4e8db66a448afaaba31a0ea9b7b499e8bb6181a318a76d057a3179cb80074f",
+          "excerpt": "            dition to stand competition.       The rate of interest on\n            capital that he borrows will, moreover, be five per\n            cent, if that is what the final increment          of capital\n            in properly equipped establishments       generally yields.\n            This is saying that a man's outfit of capital-goods\n",
+          "unit_match_line": 379
+        },
+        {
+          "source_local_lines_inclusive": [
+            400,
+            404
+          ],
+          "source_segment_sha256": "0b75981da5823c1177c10478c227b57f730329654c1d8c289f093e00ede1e91d",
+          "excerpt": "in his various      capital-goods--creates        less than the\nstandard     amount of product.          With the final unit of\ncapital generally     earning   five per cent, interest   is at\nthat rate.    With interest       at five per cent, the bor-\nrower   whose     last unit of capital      earns  only four\n",
+          "unit_match_line": 402
+        },
+        {
+          "source_local_lines_inclusive": [
+            401,
+            405
+          ],
+          "source_segment_sha256": "1de8e7171725760905e3b22205749b789d7401b9f890ebda81345e0fbd245638",
+          "excerpt": "standard     amount of product.          With the final unit of\ncapital generally     earning   five per cent, interest   is at\nthat rate.    With interest       at five per cent, the bor-\nrower   whose     last unit of capital      earns  only four\nmust take each year the one per cent that is needed\n",
+          "unit_match_line": 403
+        },
+        {
+          "source_local_lines_inclusive": [
+            403,
+            407
+          ],
+          "source_segment_sha256": "632b05cb71e6b083019e669a4c7bad64fb0efd090d57c2ffb5b4b1926833e7b9",
+          "excerpt": "that rate.    With interest       at five per cent, the bor-\nrower   whose     last unit of capital      earns  only four\nmust take each year the one per cent that is needed\nto make up the deficit        out of his capital.     This is a\nprocedure  that cannot      be long continued;          for the\n",
+          "unit_match_line": 405
+        },
+        {
+          "source_local_lines_inclusive": [
+            595,
+            599
+          ],
+          "source_segment_sha256": "36cec2f89a91234dde8154711235d7520b6d5cb5f475dff2f0a12729a7db64d8",
+          "excerpt": "merchandise for the retailer, vehicles for the carrier,\netc., capital has no existence at all. Of the hundred\nbillion dollars' worth of capital-goods     in the United\nStates practically all will be in use as instruments\nfitted for certain purposes and actually doing the\n",
+          "unit_match_line": 597
+        },
+        {
+          "source_local_lines_inclusive": [
+            603,
+            607
+          ],
+          "source_segment_sha256": "662f240995a21592b6cdd0fa94729b3e52d7d02828a4fa759e62a617111c634b",
+          "excerpt": "presence of which in his business means a readjust-\nment of his plant.     He is virtually saying : \"I offer\nfive per cent a year for a certain amount of produc-\ntive wealth that cannot come to me, except as I change\nthe shape of the plant I am using.       I must make that\n",
+          "unit_match_line": 605
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 18,
+      "source_file": "source/ch18.txt",
+      "source_sha256": "c19c1f99bfe442fcf880784e3ea315ae9d1fb397273cf1a5b30c10b13db407cd",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            75,
+            79
+          ],
+          "source_segment_sha256": "14f94748b1c9889fdfa5c65fea89b619dcba62f68d2b1d5ccb00282751a8efa6",
+          "excerpt": "adustries   by merit unerringly.\n   social law.                         If, under such conditions, a railliou\n                dollars' worth of capital were injected into the work-\n                ing fund of an entire society, a definite fraction of\n                this amount would go to every sub-group in it; and\n",
+          "unit_match_line": 77
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 19,
+      "source_file": "source/ch19.txt",
+      "source_sha256": "d64d0c642e4bff764fd85ca7badb48d4092d40703d59eae78191b0eb8511ee71",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            618,
+            622
+          ],
+          "source_segment_sha256": "8029737bb01f0ac1d2f58154fc72de0d6e656d30174ac07ed69eac991b37d7cd",
+          "excerpt": "\n\n              friction to be overcome:       five cents a clay of extra\n              wages will take labor out of one employment           and\n              into another, and a tenth of one per cent in interest\n",
+          "unit_match_line": 620
+        },
+        {
+          "source_local_lines_inclusive": [
+            620,
+            624
+          ],
+          "source_segment_sha256": "d2db53ba3da595d6351cf16be870dd58d587eaabd8113716bad50a5027e739e9",
+          "excerpt": "              friction to be overcome:       five cents a clay of extra\n              wages will take labor out of one employment           and\n              into another, and a tenth of one per cent in interest\n              will move capital.\n                 In the industry where the productive power of labor\n",
+          "unit_match_line": 622
+        },
+        {
+          "source_local_lines_inclusive": [
+            920,
+            924
+          ],
+          "source_segment_sha256": "0592fcc560cbf4517e8c3beb6ef063b28b7172ceb3cc137e2f0b705e057455dd",
+          "excerpt": "              may very nearly double the product of the entire in-\n              dustry.     This increase in the output represents          an\n              enormous proportion--several         thousand per cent a\n              year--of     the amount of capital embodied in one log.\n                 In this condition, any increase of general capital, if\n",
+          "unit_match_line": 922
+        },
+        {
+          "source_local_lines_inclusive": [
+            1132,
+            1136
+          ],
+          "source_segment_sha256": "908cd3da8cceaea5053c1f8584cb50d18eda11d53e968cd905b2254b7600c725",
+          "excerpt": "his mill.    Again, he has occasion to know how many\nmore shoes he can make in a year, by adding a few\nthousand dollars to his general capital.       Also he needs\nto know whether he can the better increase his prod-\nuct, counting the product always in shoes, by using\n",
+          "unit_match_line": 1134
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 21,
+      "source_file": "source/ch21.txt",
+      "source_sha256": "5997047631d0e388a926607ba24d5e4dc5a3df1d6f64351c8667d31ba3fda66f",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            140,
+            144
+          ],
+          "source_segment_sha256": "9721230138e57080be2c90376760150630e174c21a7b7683a6f2cadbe061367d",
+          "excerpt": "law.    This is a natural inference from the law of final\nproductivity,  when it is left incomplete.     If one man\nproduces the value of a dollar and a half a day, while\nanother produces the value of a dollar, and if each gets\na dollar, there is a clear ca_e of exploitation of labor. 1\n",
+          "unit_match_line": 142
+        },
+        {
+          "source_local_lines_inclusive": [
+            141,
+            145
+          ],
+          "source_segment_sha256": "dd255440278c88ecf9ba1fb753b8adbb85e3bfd457166ce031996acd2ec7b416",
+          "excerpt": "productivity,  when it is left incomplete.     If one man\nproduces the value of a dollar and a half a day, while\nanother produces the value of a dollar, and if each gets\na dollar, there is a clear ca_e of exploitation of labor. 1\n    1 The    most      brilliant      of     early     German    economists,      Von     Thimen,\n",
+          "unit_match_line": 143
+        },
+        {
+          "source_local_lines_inclusive": [
+            142,
+            146
+          ],
+          "source_segment_sha256": "b36da8194d95f3f370527029d1d17e23df8a99f995fa3cbd9794cdd1015a55a8",
+          "excerpt": "produces the value of a dollar and a half a day, while\nanother produces the value of a dollar, and if each gets\na dollar, there is a clear ca_e of exploitation of labor. 1\n    1 The    most      brilliant      of     early     German    economists,      Von     Thimen,\noffered     a theory     that      applied      a final   productivity     test   to    both   labor\n",
+          "unit_match_line": 144
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 23,
+      "source_file": "source/ch23.txt",
+      "source_sha256": "80d763c113aefdb45bde8e3346692ca8d0d80aa3d467d6135e64c81fad199be8",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            452,
+            456
+          ],
+          "source_segment_sha256": "ce9847561df1179e7a4a02a0875299dc7e2f390e8203b00613030cfdc00f527a",
+          "excerpt": "                  order to bring a given number of goods into existence\n                  by the aid of poor labor than he would use with\n                 good labor.     Five thousand     dollars entrusted     to a\n                 no-rent man may create no more than would five hun-\n                 dred entrusted      to an average worker.     The cost of\n",
+          "unit_match_line": 454
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    },
+    {
+      "chapter": 24,
+      "source_file": "source/ch24.txt",
+      "source_sha256": "06b536f383cd5156a7ba0a2654f10c9372128be9eb2dc2bac8061dd7111a546d",
+      "locator_fragments_only": [
+        {
+          "source_local_lines_inclusive": [
+            54,
+            58
+          ],
+          "source_segment_sha256": "74792c693eafad819530d8db7e342b11263f182d309bbd343eee9bd708e8794d",
+          "excerpt": "is products\n          j illustration,  it is assumed that the capital of a society\n            increases from ten thousand dollars to a million, does\n             this mean, at bottom, that the capital comes to rep-\n             resent a hundred   times as much labor as it did be-\n",
+          "unit_match_line": 56
+        },
+        {
+          "source_local_lines_inclusive": [
+            129,
+            133
+          ],
+          "source_segment_sha256": "d4d89915617b2309897ac36fecc8e624020ecc3f56049b1996e9587b6b2df452",
+          "excerpt": "certain kind which can be measured.\n   Amounts     of wealth   are usually    stated   in money:\nthus, we say a man is \"worth a million dollars.\" This,\nhowever, does not mean merely that he could sell all\n\n",
+          "unit_match_line": 131
+        },
+        {
+          "source_local_lines_inclusive": [
+            1234,
+            1238
+          ],
+          "source_segment_sha256": "9cdb54984211a5d7d151dd226efd9429e70afd4491b3fa227ec659081f0360d4",
+          "excerpt": "1890, is valuable.    Since, however, the creating of a bit of capital\nsecures an endless income, the social labor that the act of abstinence\nreally draws out is also endless.    By saving a thousand dollars now,\nI secure a power to serve society in a minute degree and to draw a\nreturn service from society forever.       But there is not a calculable\n",
+          "unit_match_line": 1236
+        }
+      ],
+      "all_full_original_chapter_context_already_read": true
+    }
+  ],
+  "checks_passed": 895,
+  "checks": [
+    {
+      "name": "original_expert_snapshot_unchanged",
+      "passed": true
+    },
+    {
+      "name": "original_audit_snapshot_unchanged",
+      "passed": true
+    },
+    {
+      "name": "original_PDF_unchanged",
+      "passed": true
+    },
+    {
+      "name": "original_OCR_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch01_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch01_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch01_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch01_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch02_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch02_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch02_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch02_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch03_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch03_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch03_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch03_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch04_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch04_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch04_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch04_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch05_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch05_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch05_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch05_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch06_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch06_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch06_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch06_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch07_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch07_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch07_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch07_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch08_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch08_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch08_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch08_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch09_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch09_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch09_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch09_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch10_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch10_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch10_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch10_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch11_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch11_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch11_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch11_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch12_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch12_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch12_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch12_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch13_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch13_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch13_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch13_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch14_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch14_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch14_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch14_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch15_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch15_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch15_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch15_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch16_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch16_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch16_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch16_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch17_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch17_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch17_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch17_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch18_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch18_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch18_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch18_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch19_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch19_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch19_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch19_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch20_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch20_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch20_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch20_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch21_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch21_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch21_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch21_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch22_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch22_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch22_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch22_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch23_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch23_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch23_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch23_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch24_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch24_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch24_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch24_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch25_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch25_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch25_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch25_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "ch26_complete_actual_read_blocks_contiguous",
+      "passed": true
+    },
+    {
+      "name": "ch26_source_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch26_original_dossier_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch26_actual_whole_source_and_dossier_semantic_read",
+      "passed": true
+    },
+    {
+      "name": "preface_whole_actual_read_contiguous",
+      "passed": true
+    },
+    {
+      "name": "preface_source_SHA",
+      "passed": true
+    },
+    {
+      "name": "original-analytical-contents_whole_actual_read_contiguous",
+      "passed": true
+    },
+    {
+      "name": "original-analytical-contents_source_SHA",
+      "passed": true
+    },
+    {
+      "name": "index_whole_actual_read_contiguous",
+      "passed": true
+    },
+    {
+      "name": "index_source_SHA",
+      "passed": true
+    },
+    {
+      "name": "publisher_advertisements_whole_actual_read_contiguous",
+      "passed": true
+    },
+    {
+      "name": "publisher_advertisements_source_SHA",
+      "passed": true
+    },
+    {
+      "name": "all52_original_rules_actually_reviewed",
+      "passed": true
+    },
+    {
+      "name": "all478_original_page_hashes",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R01-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R02-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R03-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R04-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R05-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R05-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R05-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R05-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R05-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R06-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R07-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R07-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R07-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R07-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R07-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R08-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R09-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R09-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R09-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R09-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R09-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R10-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R10-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R10-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R10-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R10-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R11-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R11-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R11-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R11-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R11-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R12-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R13-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R14-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R15-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R16-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R16-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R16-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R16-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R16-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R17-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R18-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R19-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R19-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R19-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R19-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R19-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R20-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R20-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R20-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R20-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R20-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R21-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R22-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R22-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R22-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R22-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R22-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R23-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R24-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R25-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R26-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R27-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R28-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R29-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R30-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E05_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E05_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E05_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E05_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R31-E05_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R32-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R33-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R34-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R35-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R36-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R37-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E05_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E05_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E05_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E05_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R38-E05_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R39-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R40-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R41-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R42-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R43-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R44-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R45-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R46-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E05_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E05_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E05_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E05_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E05_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E06_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E06_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E06_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E06_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E06_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E07_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E07_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E07_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E07_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R47-E07_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R48-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R49-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R50-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E02_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E02_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E02_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E02_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E02_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E03_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E03_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E03_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E03_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E03_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E04_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E04_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E04_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E04_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R51-E04_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R52-E01_source_and_fragment_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R52-E01_line_byte_unicode_excerpt",
+      "passed": true
+    },
+    {
+      "name": "P21-R52-E01_page_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P21-R52-E01_not_false_complete_natural_paragraph",
+      "passed": true
+    },
+    {
+      "name": "P21-R52-E01_full_original_context_exists",
+      "passed": true
+    },
+    {
+      "name": "P21-R01_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R01_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R02_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R02_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R03_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R03_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R04_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R04_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R05_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R05_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R06_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R06_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R07_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R07_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R08_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R08_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R09_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R09_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R10_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R10_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R11_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R11_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R12_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R12_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R13_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R13_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R14_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R14_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R15_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R15_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R16_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R16_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R17_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R17_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R18_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R18_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R19_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R19_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R20_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R20_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R21_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R21_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R22_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R22_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R23_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R23_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R24_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R24_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R25_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R25_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R26_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R26_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R27_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R27_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R28_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R28_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R29_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R29_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R30_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R30_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R31_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R31_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R32_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R32_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R33_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R33_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R34_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R34_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R35_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R35_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R36_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R36_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R37_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R37_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R38_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R38_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R39_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R39_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R40_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R40_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R41_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R41_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R42_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R42_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R43_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R43_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R44_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R44_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R45_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R45_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R46_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R46_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R47_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R47_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R48_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R48_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R49_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R49_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R50_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R50_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R51_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R51_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "P21-R52_full_context_SHA",
+      "passed": true
+    },
+    {
+      "name": "P21-R52_component1_whole_original_bytes_preserved",
+      "passed": true
+    },
+    {
+      "name": "131precise_fragments52complete_contexts",
+      "passed": true
+    },
+    {
+      "name": "all52_legacy_scope_preserved",
+      "passed": true
+    },
+    {
+      "name": "strict_original_75999_candidate76009_min2530",
+      "passed": true
+    },
+    {
+      "name": "no_execution_calibration_or_allglyph_claim",
+      "passed": true
+    },
+    {
+      "name": "ch08_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch09_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch10_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch11_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch12_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch14_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch15_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch16_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch17_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch18_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch19_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch21_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch23_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    },
+    {
+      "name": "ch24_currency_label_has_original_dollar_dime_cent",
+      "passed": true
+    }
+  ],
+  "mechanical_recheck_is_not_another_semantic_book_read": true,
+  "canonical_not_modified": true,
+  "current_stock_decision_enabled": false,
+  "backtest_executed": false,
+  "predictive_probability_calibrated": false,
+  "completed_utc": "2026-10-13T14:42:04.870307+00:00"
+}

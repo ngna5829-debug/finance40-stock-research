@@ -1,0 +1,92 @@
+{
+  "status": "all_six_original_forty_book_requirements_proven",
+  "goal_objective_achieved": true,
+  "book_count": 40,
+  "original_chapter_or_continuous_body_units": 607,
+  "source_audited_body_Han": 1699590,
+  "minimum_chapter_Han": 2005,
+  "minimum_book_Han": 20847,
+  "requirements": [
+    {
+      "id": "R1",
+      "requirement": "40 different complete finance/investment/personal-finance works, retaining B37/B38/B40 and37 permitted public-domain/open-licence replacements",
+      "proof_needed": "All40 bibliographic identities, full source files with SHA and edition/source/rights evidence; no duplicate editions, excerpts or advertised works counted",
+      "status": "proven",
+      "root_conclusion": "40 distinct complete works verified, retaining B37/B38/B40 and37 permitted replacements; bibliographic/rights/version identities and40 bound full PDFs retained. Reflow and repaired-scan types are explicit."
+    },
+    {
+      "id": "R2",
+      "requirement": "Actual continuous original-source reading by original table of contents for each work, rather than source lookup, ToC, sampled fragments or generated templates",
+      "proof_needed": "Per-book author continuous full-source/chapter reading ledgers and source-bound chapter semantic conclusions, independent whole-dossier/source QA scope and correction closures; exact source identity checked against current files. Partial physical glyph/second-read scopes remain separate",
+      "status": "proven",
+      "root_conclusion": "Existing actual continuous author digital-original reading and original-chapter semantic dossiers, together with37 distinct independent acceptance/correction records and the retained three legacy coverage audits, prove whole-book work. Actual peer rereading scopes remain distinct; this completion audit does not create new reading or every-printed-glyph claims."
+    },
+    {
+      "id": "R3",
+      "requirement": "Each original chapter≥2000Han and each work≥20000Han",
+      "proof_needed": "Read correct original chapter map and independently recount every chapter body excluding titles/ToC/source locator scaffolding. P37has no formally numbered chapter and counts one continuous original body, not9/22 artificial chapters",
+      "status": "proven",
+      "root_conclusion": "All607 original chapter or continuous-body dossiers exceed2000Han and all40 books exceed20000Han; conservative source-audited body total1699590, minimum chapter2005, minimum book20847. P37 is one original unnumbered continuous body. Other count methods are disclosed separately."
+    },
+    {
+      "id": "R4",
+      "requirement": "Record whole-source identity, chapter evidence, author meaning, boundaries, counterevidence and expert definitions",
+      "proof_needed": "Every book has actual source hashes/locators/full chapter dossier and book/rule-specific original-vs-modern fields, limitations and falsification/challenge mechanisms; active and portable file references resolve without silently rewriting original sources or meanings",
+      "status": "proven",
+      "root_conclusion": "Whole-source identity and exact evidence links, chapter-specific author meaning, application limits and counterchallenge mechanisms retained. All1731 original rule semantics survive; some inputs/counterchallenge protocols are book-level, and two B40 records are marked archival corrections.69 slices,239 restored research files and842 named QA/image aliases match delivered bytes."
+    },
+    {
+      "id": "R5",
+      "requirement": "40 distinct single-book experts in4 coordination groups",
+      "proof_needed": "40 exact original definitions, complete source-specific rule fields retained, 4 nonoverlapping groups cover40 once; four coordination groups are not additional works or40 separately trained models",
+      "status": "proven",
+      "root_conclusion": "40 distinct one-book expert definitions covered exactly once by four groups sized11/8/13/8. Coordinators are additional editorial roles, not additional books or independently trained models. Actual model calls and trained models remain0."
+    },
+    {
+      "id": "R6",
+      "requirement": "Actual full40 deep-read acceptance before completion claim; no narrower substitution",
+      "proof_needed": "Current authoritative correction/final metadata hashes and book status consistent with actual scope; unresolved original figures/glyphs clearly distinguished from unread author content; repair stale pending metadata and missing chapter slice portability before completion",
+      "status": "proven",
+      "root_conclusion": "Actual full40 digital-original reading acceptance precedes completion.18 stale metadata/prose patches are closed from immutable prior QA; current40 expert/audit hashes are externally bound, old QA snapshots and source limits retained, and all29 original-title mapping exceptions resolved without changing book prose or source bytes."
+    }
+  ],
+  "current_catalogue_sha256": "739c2cb6a9ecd8331361ecb1b61655ceb9b33e3734ce5db10a3c1392cb55de57",
+  "frozen_current_proof_files": [
+    {
+      "file": "work/stock_app_v5/goal-completion-reading-evidence-audit.json",
+      "sha256": "60448824b21070832d99bc2ba72cb98c69f24f09d5707fa821ae44f157d629e3"
+    },
+    {
+      "file": "work/stock_app_v5/goal-completion-chapter-audit.json",
+      "sha256": "cb51ec0e0e9c8dace7e0f072174a3d8789eda03f6780d0552fb379853e077ba8"
+    },
+    {
+      "file": "work/stock_app_v5/goal-completion-expert-source-audit.json",
+      "sha256": "b243f5df08e0c6eb44a6881e63f83ffdcc0c2c4d4b880943cb2762b338d869b7"
+    },
+    {
+      "file": "work/stock_app_v5/goal-completion-status-sync-confirmation.json",
+      "sha256": "03691ae50d531c0d00d50f87e5e9062dc564c1fd75c5d8eeab1f0e7561e286ea"
+    },
+    {
+      "file": "work/stock_app_v5/final-library-integrity-audit.json",
+      "sha256": "b3e566f76f1c8784a2c9c6c71472bdf2a30f4232455d0f18a50022238071d704"
+    },
+    {
+      "file": "work/stock_app_v5/root-chapter-source-restore-result.json",
+      "sha256": "e92f82ee1b7e8c19efd91ecc1fbd508a9ef43c578095aa0292b4500b4d0f48a3"
+    },
+    {
+      "file": "work/stock_app_v5/independent-evidence-portability-copy-result.json",
+      "sha256": "be512ff22624c71605ccdf7da29e5d808d69c9d9e645befe9846874ad629ce63"
+    }
+  ],
+  "actual_new_book_readings_by_this_final_audit": 0,
+  "actual_model_calls": 0,
+  "trained_models": 0,
+  "all_scan_glyphs_or_external_historical_truth_claimed_verified": false,
+  "predictive_calibration_or_all_original_strategies_automated_claimed": false,
+  "external_goal_status_not_changed_by_this_script": true,
+  "next_action": "Verify refreshed delivery archives, then root calls update_goal complete.",
+  "created_utc": "2026-10-13T19:17:57.369971+00:00"
+}

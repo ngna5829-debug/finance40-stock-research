@@ -1,0 +1,626 @@
+{
+  "book_id": "P19",
+  "source_original_TOC_visually_verified": true,
+  "locator_basis": "Printed page n maps PDF n+12; exact original chapter starts checked by source headers, not all glyphs visually certified.",
+  "chapter_count": 21,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Credit Without Money",
+      "printed_start": 1,
+      "printed_end": 16,
+      "pdf_start": 13,
+      "pdf_end": 28,
+      "source_file": "source/ch01.txt",
+      "source_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2956,
+      "dossier_sha256": "fbabebec5df1ff0cd956b0b953c5c2a171a722b9c88f8f7ae8cc0d797554a110",
+      "actual_full_source_read_batches_pdf": [
+        [
+          13,
+          20
+        ],
+        [
+          21,
+          28
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T15:45:21.212095+00:00"
+    },
+    {
+      "chapter": 2,
+      "title": "Metallic Money",
+      "printed_start": 17,
+      "printed_end": 29,
+      "pdf_start": 29,
+      "pdf_end": 41,
+      "source_file": "source/ch02.txt",
+      "source_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3131,
+      "dossier_sha256": "cc4dcc97555263f56cf581aaf06c3403b169e5a50882ddd2778b0737c1b04b51",
+      "actual_full_source_read_batches_pdf": [
+        [
+          29,
+          35
+        ],
+        [
+          36,
+          41
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T15:48:05.277402+00:00"
+    },
+    {
+      "chapter": 3,
+      "title": "Paper Money and the Quantity Theory",
+      "printed_start": 30,
+      "printed_end": 55,
+      "pdf_start": 42,
+      "pdf_end": 67,
+      "source_file": "source/ch03.txt",
+      "source_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 4068,
+      "dossier_sha256": "cc78649bca30565716761e081b37f5c9e552390c88db9be2d7eb568989aaa8dc",
+      "actual_full_source_read_batches_pdf": [
+        [
+          42,
+          48
+        ],
+        [
+          49,
+          55
+        ],
+        [
+          56,
+          62
+        ],
+        [
+          63,
+          67
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T15:52:25.593431+00:00"
+    },
+    {
+      "chapter": 4,
+      "title": "The Foreign Exchanges",
+      "printed_start": 56,
+      "printed_end": 71,
+      "pdf_start": 68,
+      "pdf_end": 83,
+      "source_file": "source/ch04.txt",
+      "source_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3335,
+      "dossier_sha256": "b547d15d4687ab4db8750f8aedf1d07f841c4544db3e35271307c52da501f22c",
+      "actual_full_source_read_batches_pdf": [
+        [
+          68,
+          75
+        ],
+        [
+          76,
+          83
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T15:55:08.376425+00:00"
+    },
+    {
+      "chapter": 5,
+      "title": "Systems of Note Issue",
+      "printed_start": 72,
+      "printed_end": 85,
+      "pdf_start": 84,
+      "pdf_end": 97,
+      "source_file": "source/ch05.txt",
+      "source_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3067,
+      "dossier_sha256": "91a59f9afac1be6870aed38cf1d97867f216ac3dffaadde7eb5216c7d07e64c9",
+      "actual_full_source_read_batches_pdf": [
+        [
+          84,
+          90
+        ],
+        [
+          91,
+          97
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T15:58:02.291165+00:00"
+    },
+    {
+      "chapter": 6,
+      "title": "International Currency Movements",
+      "printed_start": 86,
+      "printed_end": 97,
+      "pdf_start": 98,
+      "pdf_end": 109,
+      "source_file": "source/ch06.txt",
+      "source_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3160,
+      "dossier_sha256": "edc915bcf046481bcbe2078052d24b3b1ebf9f95bdf141378f158672f830f242",
+      "actual_full_source_read_batches_pdf": [
+        [
+          98,
+          103
+        ],
+        [
+          104,
+          109
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:00:29.063283+00:00"
+    },
+    {
+      "chapter": 7,
+      "title": "The Mechanism of Foreign Exchange",
+      "printed_start": 98,
+      "printed_end": 106,
+      "pdf_start": 110,
+      "pdf_end": 118,
+      "source_file": "source/ch07.txt",
+      "source_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2656,
+      "dossier_sha256": "087ef912cac98dedaf0388e79964a9cfdc9b13cd3bc462bbcf930b9052b43c93",
+      "actual_full_source_read_batches_pdf": [
+        [
+          110,
+          118
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:02:49.204620+00:00"
+    },
+    {
+      "chapter": 8,
+      "title": "A Contraction of Credit",
+      "printed_start": 107,
+      "printed_end": 126,
+      "pdf_start": 119,
+      "pdf_end": 138,
+      "source_file": "source/ch08.txt",
+      "source_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3385,
+      "dossier_sha256": "723d0b4314d6bc0c994ce4df6252ec2ba2e4ab3152e549da14358790df95ee24",
+      "actual_full_source_read_batches_pdf": [
+        [
+          119,
+          124
+        ],
+        [
+          125,
+          130
+        ],
+        [
+          131,
+          138
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:06:11.287245+00:00"
+    },
+    {
+      "chapter": 9,
+      "title": "Financial Crises",
+      "printed_start": 127,
+      "printed_end": 150,
+      "pdf_start": 139,
+      "pdf_end": 162,
+      "source_file": "source/ch09.txt",
+      "source_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 4003,
+      "dossier_sha256": "323895f6559937808605a44aff75e40528720b04fa8b1dcfdaac714094af0ca7",
+      "actual_full_source_read_batches_pdf": [
+        [
+          139,
+          144
+        ],
+        [
+          145,
+          150
+        ],
+        [
+          151,
+          156
+        ],
+        [
+          157,
+          162
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:09:57.619363+00:00"
+    },
+    {
+      "chapter": 10,
+      "title": "Financial Crises (continued)",
+      "printed_start": 151,
+      "printed_end": 162,
+      "pdf_start": 163,
+      "pdf_end": 174,
+      "source_file": "source/ch10.txt",
+      "source_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3225,
+      "dossier_sha256": "85949dc201ccc0de6abf2d68e4ab14ff870acabd16b188cb0347c99a3b6d2b0a",
+      "actual_full_source_read_batches_pdf": [
+        [
+          163,
+          168
+        ],
+        [
+          169,
+          174
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:13:03.201877+00:00"
+    },
+    {
+      "chapter": 11,
+      "title": "Money and Coinage",
+      "printed_start": 163,
+      "printed_end": 184,
+      "pdf_start": 175,
+      "pdf_end": 196,
+      "source_file": "source/ch11.txt",
+      "source_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3559,
+      "dossier_sha256": "c1f039591579c987d83a54fee09a917b4d866c47144384d6005eeaa4026225cf",
+      "actual_full_source_read_batches_pdf": [
+        [
+          175,
+          180
+        ],
+        [
+          181,
+          186
+        ],
+        [
+          187,
+          191
+        ],
+        [
+          192,
+          196
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:16:50.686466+00:00"
+    },
+    {
+      "chapter": 12,
+      "title": "The Theory of Banking",
+      "printed_start": 185,
+      "printed_end": 205,
+      "pdf_start": 197,
+      "pdf_end": 217,
+      "source_file": "source/ch12.txt",
+      "source_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3596,
+      "dossier_sha256": "7c5f90e166cdcca5f7df2d0fd06bc640937164e23b23169f7e86d8f81f4c1092",
+      "actual_full_source_read_batches_pdf": [
+        [
+          197,
+          203
+        ],
+        [
+          204,
+          210
+        ],
+        [
+          211,
+          217
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:33:02.259717+00:00"
+    },
+    {
+      "chapter": 13,
+      "title": "War Finance",
+      "printed_start": 206,
+      "printed_end": 217,
+      "pdf_start": 218,
+      "pdf_end": 229,
+      "source_file": "source/ch13.txt",
+      "source_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3023,
+      "dossier_sha256": "d52650e34e9f4304a457293089478692a676fd30c9d3115d7a485594057a6470",
+      "actual_full_source_read_batches_pdf": [
+        [
+          218,
+          223
+        ],
+        [
+          224,
+          229
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:35:58.872733+00:00"
+    },
+    {
+      "chapter": 14,
+      "title": "War Inflation",
+      "printed_start": 218,
+      "printed_end": 232,
+      "pdf_start": 230,
+      "pdf_end": 244,
+      "source_file": "source/ch14.txt",
+      "source_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3184,
+      "dossier_sha256": "dd81f92d66a73fc3c14b5093d1c80b1349b6d59a8d9991c1ce6827b35c052f8e",
+      "actual_full_source_read_batches_pdf": [
+        [
+          230,
+          236
+        ],
+        [
+          237,
+          244
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:39:01.122115+00:00"
+    },
+    {
+      "chapter": 15,
+      "title": "The Assignats",
+      "printed_start": 233,
+      "printed_end": 254,
+      "pdf_start": 245,
+      "pdf_end": 266,
+      "source_file": "source/ch15.txt",
+      "source_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3474,
+      "dossier_sha256": "977b64bef016450ffbff6768976b6f13e8751549a496fe0c92deb2386d6297c1",
+      "actual_full_source_read_batches_pdf": [
+        [
+          245,
+          250
+        ],
+        [
+          251,
+          256
+        ],
+        [
+          257,
+          262
+        ],
+        [
+          263,
+          266
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:44:16.072396+00:00"
+    },
+    {
+      "chapter": 16,
+      "title": "The Bank Restriction of 1797",
+      "printed_start": 255,
+      "printed_end": 278,
+      "pdf_start": 267,
+      "pdf_end": 290,
+      "source_file": "source/ch16.txt",
+      "source_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3477,
+      "dossier_sha256": "e318e095c38d8322ceeb013151aebd015d6ac84e92becf0c48a1a6b1f5650ef7",
+      "actual_full_source_read_batches_pdf": [
+        [
+          267,
+          272
+        ],
+        [
+          273,
+          278
+        ],
+        [
+          279,
+          284
+        ],
+        [
+          285,
+          290
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:49:07.869615+00:00"
+    },
+    {
+      "chapter": 17,
+      "title": "A Change of Standard",
+      "printed_start": 279,
+      "printed_end": 298,
+      "pdf_start": 291,
+      "pdf_end": 310,
+      "source_file": "source/ch17.txt",
+      "source_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3312,
+      "dossier_sha256": "a33886811828ea6377a452ac310aa795876805fa1af38f0d1334310abd003e54",
+      "actual_full_source_read_batches_pdf": [
+        [
+          291,
+          297
+        ],
+        [
+          298,
+          304
+        ],
+        [
+          305,
+          310
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T16:55:11.799341+00:00"
+    },
+    {
+      "chapter": 18,
+      "title": "The Gold Standard",
+      "printed_start": 299,
+      "printed_end": 320,
+      "pdf_start": 311,
+      "pdf_end": 332,
+      "source_file": "source/ch18.txt",
+      "source_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3139,
+      "dossier_sha256": "8147f48f242f2db13fdc81bd9172979164747f309e333cbcdc073d36423b9027",
+      "actual_full_source_read_batches_pdf": [
+        [
+          311,
+          316
+        ],
+        [
+          317,
+          322
+        ],
+        [
+          323,
+          328
+        ],
+        [
+          329,
+          332
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T17:00:48.533984+00:00"
+    },
+    {
+      "chapter": 19,
+      "title": "The Gold Standard (continued)",
+      "printed_start": 321,
+      "printed_end": 343,
+      "pdf_start": 333,
+      "pdf_end": 355,
+      "source_file": "source/ch19.txt",
+      "source_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3385,
+      "dossier_sha256": "a25efa63db145fb5ddc7b035696d1a1b62292b8010044094ccfbc1e5d0b5b9c1",
+      "actual_full_source_read_batches_pdf": [
+        [
+          333,
+          338
+        ],
+        [
+          339,
+          344
+        ],
+        [
+          345,
+          350
+        ],
+        [
+          351,
+          355
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T17:05:56.911579+00:00"
+    },
+    {
+      "chapter": 20,
+      "title": "After the War",
+      "printed_start": 344,
+      "printed_end": 363,
+      "pdf_start": 356,
+      "pdf_end": 375,
+      "source_file": "source/ch20.txt",
+      "source_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 2939,
+      "dossier_sha256": "f1c02643ab6ca359538c32057be388e247e9d6c55b778b928621e4e76a052e02",
+      "actual_full_source_read_batches_pdf": [
+        [
+          356,
+          362
+        ],
+        [
+          363,
+          369
+        ],
+        [
+          370,
+          375
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T17:13:31.320514+00:00"
+    },
+    {
+      "chapter": 21,
+      "title": "Conclusion",
+      "printed_start": 364,
+      "printed_end": 380,
+      "pdf_start": 376,
+      "pdf_end": 392,
+      "source_file": "source/ch21.txt",
+      "source_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+      "main_and_inline_footnotes_read": true,
+      "dossier_complete": true,
+      "body_han": 3129,
+      "dossier_sha256": "e56a5133e90a37610d0698e72209376f708efd6a2af321d7af4cf3134bd3b9cf",
+      "actual_full_source_read_batches_pdf": [
+        [
+          376,
+          381
+        ],
+        [
+          382,
+          387
+        ],
+        [
+          388,
+          392
+        ]
+      ],
+      "read_method": "Sequential full Poppler OCR and all inline notes; selected original-image checks only. No all-glyph visual verification.",
+      "completed_utc": "2026-10-12T17:16:06.412664+00:00"
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "tables_all15": {
+    "91": {
+      "year_labels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "cash": [
+        0,
+        2000,
+        2000,
+        2000,
+        12000,
+        2000,
+        5000,
+        2000
+      ],
+      "cumulative": [
+        2000,
+        4000,
+        6000,
+        18000,
+        20000,
+        25000,
+        27000
+      ]
+    },
+    "92": {
+      "repeats91": true,
+      "years_to_compound": [
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+    },
+    "93": {
+      "repeats91_92": true,
+      "original_compounded": [
+        3211.56,
+        3001.46,
+        2805.1,
+        15729.55,
+        2450.09,
+        5724.5,
+        2140
+      ],
+      "independent_compounded": [
+        3211.5629529568614,
+        3001.460703698001,
+        2805.103461400001,
+        15729.552120000002,
+        2450.0860000000002,
+        5724.5,
+        2140.0
+      ],
+      "original_sum35062_26": 35062.26,
+      "independent_sum": 35062.26523805487
+    },
+    "94": {
+      "year_labels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "cash": [
+        0,
+        10000,
+        10000,
+        10000,
+        15000,
+        15000
+      ],
+      "cumulative": [
+        10000,
+        20000,
+        30000,
+        45000,
+        60000
+      ],
+      "compoundperiods": [
+        5,
+        4,
+        3,
+        2,
+        1
+      ],
+      "original_compounded": [
+        12166.53,
+        11698.59,
+        11248.64,
+        16224,
+        15600
+      ],
+      "independent": [
+        12166.529024000001,
+        11698.585600000002,
+        11248.640000000001,
+        16224.000000000002,
+        15600.0
+      ],
+      "original_sum": 66937.76,
+      "independent_sum": 66937.754624,
+      "final_equation_literal_exponent5_wrong": true
+    },
+    "95": {
+      "year_labels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "cash": [
+        0,
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "independent_discounted_each": [
+        16037.735849056602,
+        15129.939480242077,
+        14273.527811549131,
+        13861.639106665358,
+        13450.647111589027
+      ],
+      "original_each": [
+        16037.74,
+        15129.94,
+        14273.53,
+        13861.64,
+        13450.65
+      ]
+    },
+    "96": {
+      "original_withdrawals": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "original_interest": [
+        4365.21,
+        3607.12,
+        2803.55,
+        1951.76,
+        1018.87
+      ],
+      "original_balances": [
+        72753.49,
+        60118.7,
+        46725.82,
+        32529.37,
+        16981.13,
+        0
+      ],
+      "independent_start": 72753.4893591022,
+      "independent_all5_steps": [
+        {
+          "year": 1,
+          "withdrawal": 17000,
+          "interest": 4365.209361546132,
+          "ending_balance": 60118.69872064833
+        },
+        {
+          "year": 2,
+          "withdrawal": 17000,
+          "interest": 3607.1219232389,
+          "ending_balance": 46725.82064388723
+        },
+        {
+          "year": 3,
+          "withdrawal": 17000,
+          "interest": 2803.5492386332335,
+          "ending_balance": 32529.369882520463
+        },
+        {
+          "year": 4,
+          "withdrawal": 17500,
+          "interest": 1951.7621929512277,
+          "ending_balance": 16981.13207547169
+        },
+        {
+          "year": 5,
+          "withdrawal": 18000,
+          "interest": 1018.8679245283014,
+          "ending_balance": -7.275957614183426e-12
+        }
+      ]
+    },
+    "97": {
+      "cash": [
+        0,
+        100000,
+        125000,
+        175000,
+        90000,
+        50000
+      ],
+      "original_discounted_each": [
+        96153.85,
+        115569.53,
+        155574.36,
+        76932.38,
+        41096.36
+      ],
+      "independent_discounted_each": [
+        96153.84615384616,
+        115569.52662721892,
+        155574.3627674101,
+        76932.37719267531,
+        41096.35533796759
+      ],
+      "original_sum": 485326.48,
+      "independent_sum": 485326.46807911806,
+      "independent_NPV_minus450k": 35326.46807911806
+    },
+    "98": {
+      "all20_steps_read": true,
+      "CF0": 0,
+      "CF1to7": [
+        2000,
+        2000,
+        2000,
+        12000,
+        2000,
+        5000,
+        2000
+      ],
+      "ratepercent": 7,
+      "originalNPV": 20406.56,
+      "independentNPV_periodend": 20406.55759522218,
+      "steps": [
+        [
+          "clear",
+          "CF0=0"
+        ],
+        [
+          "CF0",
+          0
+        ],
+        [
+          "next",
+          "C01"
+        ],
+        [
+          "C01",
+          2000
+        ],
+        [
+          "next",
+          "C02"
+        ],
+        [
+          "C02",
+          2000
+        ],
+        [
+          "next",
+          "C03"
+        ],
+        [
+          "C03",
+          2000
+        ],
+        [
+          "next",
+          "C04"
+        ],
+        [
+          "C04",
+          12000
+        ],
+        [
+          "next",
+          "C05"
+        ],
+        [
+          "C05",
+          2000
+        ],
+        [
+          "next",
+          "C06"
+        ],
+        [
+          "C06",
+          5000
+        ],
+        [
+          "next",
+          "C07"
+        ],
+        [
+          "C07",
+          2000
+        ],
+        [
+          "NPV",
+          "I"
+        ],
+        [
+          "I",
+          7
+        ],
+        [
+          "next",
+          "NPV"
+        ],
+        [
+          "CPT",
+          20406.56
+        ]
+      ]
+    },
+    "99": {
+      "all4_steps_read": true,
+      "PVinput": 20406.56,
+      "N": 8,
+      "I/Y": 7,
+      "printedFV": -35062.27,
+      "recomputed_signed": -35062.269369910886,
+      "timing_interpretation": "CFiatt1..7 andFVatt8 OR shiftedfirstdepositatt0 andFVatt7; consistenthorizonoriginsrequired"
+    },
+    "910": {
+      "cash": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "allwithdrawals_endperiod": true
+    },
+    "911": {
+      "all16_steps_read": true,
+      "CF0": 0,
+      "CF1to5": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "I": 6,
+      "printedNPV": 72753.49,
+      "independentNPV": 72753.4893591022,
+      "prose_beforetable72753_30_conflict": true
+    },
+    "912": {
+      "repeats91_92": true
+    },
+    "913": {
+      "cash_at_start_labels1to7": [
+        2000,
+        2000,
+        2000,
+        12000,
+        2000,
+        5000,
+        2000
+      ],
+      "printedNPV": 20406.56,
+      "independent_endperiodNPV": 20406.55759522218,
+      "independent_firstdepositPVatt0": 21835.016626887736
+    },
+    "914": {
+      "cash": [
+        0,
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "allwithdrawals_endperiod": true
+    },
+    "915": {
+      "original_visual_year_labels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "original_withdrawal_row_under_columns0to4": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "original_NPV_undercolumn5": 72753.49,
+      "layout_misaligned_with1to5timing_notcorrected_original": true,
+      "actual_C2toG2_figure6_7_correct1to5": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ]
+    }
+  },
+  "Excel_visuals_all7": {
+    "fig92_original_interest": [
+      140,
+      289.8,
+      450.09,
+      1321.59,
+      1554.1,
+      2012.89,
+      2293.79
+    ],
+    "fig92_original_running": [
+      2140,
+      4429.8,
+      6879.89,
+      20201.48,
+      23755.58,
+      30768.47,
+      35062.27
+    ],
+    "fig92_original_totals": [
+      27000,
+      8062.27,
+      35062.27
+    ],
+    "fig92_independent_allsteps": [
+      {
+        "year_label": 1,
+        "deposit": 2000,
+        "interest_on_priorbalance_plusnewdeposit": 140.0,
+        "ending_balance": 2140.0
+      },
+      {
+        "year_label": 2,
+        "deposit": 2000,
+        "interest_on_priorbalance_plusnewdeposit": 289.8,
+        "ending_balance": 4429.8
+      },
+      {
+        "year_label": 3,
+        "deposit": 2000,
+        "interest_on_priorbalance_plusnewdeposit": 450.08600000000007,
+        "ending_balance": 6879.886
+      },
+      {
+        "year_label": 4,
+        "deposit": 12000,
+        "interest_on_priorbalance_plusnewdeposit": 1321.59202,
+        "ending_balance": 20201.478020000002
+      },
+      {
+        "year_label": 5,
+        "deposit": 2000,
+        "interest_on_priorbalance_plusnewdeposit": 1554.1034614000002,
+        "ending_balance": 23755.581481400004
+      },
+      {
+        "year_label": 6,
+        "deposit": 5000,
+        "interest_on_priorbalance_plusnewdeposit": 2012.8907036980004,
+        "ending_balance": 30768.472185098006
+      },
+      {
+        "year_label": 7,
+        "deposit": 2000,
+        "interest_on_priorbalance_plusnewdeposit": 2293.7930529568607,
+        "ending_balance": 35062.26523805487
+      }
+    ],
+    "fig93_fig95_blankNPVdialogs_seen": true,
+    "fig94": {
+      "formula": "NPV(C1,C3:I3)",
+      "rate": 0.07,
+      "cash": [
+        2000,
+        2000,
+        2000,
+        12000,
+        2000,
+        5000,
+        2000
+      ],
+      "printed_fullresult": 20406.5576,
+      "independent": 20406.55759522218
+    },
+    "fig96_data": {
+      "B3": 0.06,
+      "B2": 0,
+      "C2toG2": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "B4": 72753.49
+    },
+    "fig97": {
+      "formula": "NPV(B3,C2:G2)",
+      "cash": [
+        17000,
+        17000,
+        17000,
+        17500,
+        18000
+      ],
+      "printed_fullresult": 72753.48936,
+      "independent": 72753.4893591022
+    }
+  },
+  "examples": {
+    "first7cash_FV": 35062.26523805487,
+    "first7cash_PV_end": 20406.55759522218,
+    "first7cash_PV_firstdepositdate": 21835.016626887736,
+    "fiveyear_FV": 66937.754624,
+    "fiveyear_due10k_base_FV": 56329.754624,
+    "fivewithdraw_PV": 72753.4893591022,
+    "first3withdraw_PV": 45441.20314084781,
+    "investmentPV": 485326.46807911806
+  },
+  "all9problems": {
+    "1": 8136.609115,
+    "2": 16554.83125615821,
+    "2_repayment4900_at_t3_addedto1200": true,
+    "3": 152514.69295201072,
+    "4": 163929.63600000003,
+    "5": 425891.1727996486,
+    "6": 3398128.129267182,
+    "7": 3940099.0003124997,
+    "8": 75269.55543053908,
+    "8_fundrequired_at_end3": 84668.01319981793,
+    "9": 330911.59262185
+  },
+  "allMC_numeric": {
+    "2": 12609.629,
+    "3": 53918.12960000001,
+    "4": 55394.560000000005,
+    "5": 7632.221625000001,
+    "6": 39386.09467455621,
+    "7": 94704.34975982107
+  },
+  "review3_mixed_repaymentsPV": 5252.450347501838,
+  "video": {
+    "2_PV": 43600.77690501972,
+    "3_FV": 21916.242848,
+    "all4_questiontext_read": true,
+    "externalfilms_notviewed": true,
+    "4_sign_convention": "outgoinginvestmentnegative generatespositivefutureasset; chosen viewpointmustconsistent"
+  },
+  "NPVfunction_not_projectnetprofit_unless_initialoutflowincluded": true
+}

@@ -1,0 +1,56 @@
+{
+  "book_id": "P34",
+  "title": "Successful Stock Speculation",
+  "author": "John James Butler",
+  "edition": "WrittenApril1922 PublishedDecember1922; originalfirstidentifiedversion",
+  "catalogue_URL": "https://www.gutenberg.org/ebooks/26841",
+  "verified_local_date": "2026-10-13",
+  "rights": "OriginalThisBookIsNotCopyrightedandpublisherpermitsreproductionwithoutcredit;PGofficialPD USA,fulllicensepreserved;nojurisdictionuniversalclaim",
+  "selected_original_PDF_pages": 118,
+  "selected_PDF_complete_author_main_observed": true,
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "url": "https://www.gutenberg.org/cache/epub/26841/pg26841.txt",
+      "sha256": "9b783fb26167bc9875b79a264d0d21f4cebb0bd14353bec48c38d6fc3455dfe5",
+      "bytes": 108271,
+      "scope": "completePGUTF8 all26chapters, twofootnotesandfulllicense, rawpreserved"
+    },
+    {
+      "file": "source/original.html",
+      "url": "https://www.gutenberg.org/cache/epub/26841/pg26841-images.html",
+      "sha256": "4da16fc71d394b2231a47ec9d03e337075d56c08dd363ca29c495f5fd585d5c4",
+      "bytes": 126995,
+      "scope": "completePGHTML with printedpageanchors"
+    },
+    {
+      "file": "source/original-1922.pdf",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Successful_stock_speculation_%28IA_successfulstocks00butlrich%29.pdf",
+      "sha256": "bebe64b52fa8e4f8b732438b34f9d9fcdd63b0d9599643c3408d0169afd62db5",
+      "bytes": 4913962,
+      "scope": "legalpublicWikimedia2020mirror118pages, currentIAderivativebyteMD5differs, selectedversion/ending/table/footnotesvisuallyconfirmed"
+    },
+    {
+      "file": "source/IA-metadata.json",
+      "url": "https://archive.org/metadata/successfulstocks00butlrich",
+      "sha256": "125ff99698894dd3c219e1efef4288b446aebec58bbd15d97f58bbea2d8aaba3",
+      "bytes": 31167,
+      "scope": "currentpublicitemmetadata retained; not proofmirrorbyteidentity"
+    }
+  ],
+  "mirror_MD5": "519f7b16987ed32b504ea2f87e879a3a",
+  "current_IA_manifest_MD5": "645cbd42be18f3cf61191eae555b7842",
+  "mirror_bytes_match_current_manifest": false,
+  "reading_status": "qualified_whole_original_digital_semantic_read_independent_QA_source_limits",
+  "original_all_scan_glyphs_verified": false,
+  "unresolved_gaps": [
+    "SelectedPDF isolderpublicmirror and itsMD5differs from currentIA derivative; currentdirectdownload500failed, noaccessbypass.",
+    "Alloriginalscanlines/glyphsnotvisuallycollated; fullauthorread usesPGtranscript and selectedoriginalchecks, transcriptionmayretainunknownerrors.",
+    "PDF116coveredolderlibraryloanlabels and selectedhandwrittenmarginalia notfullyread, outsideauthor正文.",
+    "Originalrecommendationletter/fullaccount, prices/fees/dividends/underlyingstatistics/brokerfailures/thirdpartyquotedbooksnotall independentlyobtained.",
+    "Originalmethodofcyclepredictionexplicitlywithheld; exactpresentstrategy orcalibratedprobabilitycannotbeclaimed."
+  ],
+  "scan_visual_audit": "source-review/scan-checkpoint.json",
+  "numeric_review": "numeric-review.json",
+  "independent_semantic_QA_status": "passed_with_source_limits"
+}

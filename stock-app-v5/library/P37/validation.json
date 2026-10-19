@@ -1,0 +1,41 @@
+{
+  "book_id": "P37",
+  "original_formal_numbered_chapter_count": 0,
+  "original_unnumbered_topics": 22,
+  "internal_units_not_originalchapters": 9,
+  "reader_body_count": 1,
+  "counts": [
+    2596,
+    2916,
+    2823,
+    3071,
+    3306,
+    2583,
+    2655,
+    2717,
+    2367
+  ],
+  "total": 25034,
+  "minimum_internal": 2367,
+  "single_author_body_ge20000": true,
+  "all_internal_dossiers_ge2000": true,
+  "source_hashes_and_ranges_match": true,
+  "all22topics_covered_in40manualrules": true,
+  "all_rule_support_wholeparagraphs_exact_HTML_match": false,
+  "all_rules_have_period_inputs_counter_abstain": true,
+  "all17images_actually_viewed": true,
+  "original_scanned_PDF_obtained": false,
+  "independent_semantic_QA": "passed_with_source_limits",
+  "structural_validation_not_independent_semantic_QA": true,
+  "current_stock_decision_enabled": false,
+  "actual_current_invocations": 0,
+  "probability_calibrated": false,
+  "artifact_hashes": {
+    "expert": "ff553d3c80a66ca9b0f387f2f81a2b84002e080b4f1130b1f5045a3c1ee30887",
+    "audit": "54d5759cd1b186f981069ee5c9448a542e8fa7146937d975ff2dcb8711091f3b",
+    "combined": "94e0ed22fcf164f5cd7ea4fdd75dc0a4944a155a18e4e7a64929b20866f252a8"
+  },
+  "all_rule_support_wholeparagraphs_normalized_HTML_match": true,
+  "HTML_normalization_not_raw_byte_identity": true,
+  "all99_original_CRLF_contexts_exact": true
+}

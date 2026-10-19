@@ -1,0 +1,504 @@
+{
+  "book_id": "P25",
+  "status": "passed_with_source_limits",
+  "primary_edition": "1892 John Murray FIFTIETH THOUSAND PG14418",
+  "author_pack_received": true,
+  "front_primary_full_source_lines_actually_read": [
+    1,
+    378
+  ],
+  "whole1875scan_separately_read": false,
+  "all_original_scan_glyphs_verified": false,
+  "chapters_actually_independently_read": [
+    {
+      "chapter": 1,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_sha256": "e6c9fb5d1bbdda4812f54dd782f8af3b122b35648dc626f2342dc23a3aa6a95a",
+      "dossier_sha256": "7c13df93925bde4a43d1c4c4a1b7e58d13f35b1559091b06da5b5fcbdcf3fd57"
+    },
+    {
+      "chapter": 2,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_sha256": "90ae137736828a28ec3e2bfa1d29445f57a890c6ccc7eb5b15cd20f0cdab0595",
+      "dossier_sha256": "991ec9b9846a4c05051c2fdbae234fbad20c6d78be4ccfe47cab53014707d980"
+    },
+    {
+      "chapter": 3,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_sha256": "cfe609113afcaf778dceea16473592528fd2f3280b912a856090b2dd6f6df95c",
+      "dossier_sha256": "e05509faf063295b5f228563f917dbf66bb15808e59d982dcb1802ac1e6fc012"
+    },
+    {
+      "chapter": 4,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          24000
+        ],
+        [
+          24000,
+          46578
+        ]
+      ],
+      "source_sha256": "01e4ab733f29895169cbb6425dfd5f37d2f35510fcdf950cc4ed023a0da7a6bf",
+      "dossier_sha256": "ca5e73d80c8f27b5bf84130a4594eaf77ec53605a1e44cb505fab3403769ca50"
+    },
+    {
+      "chapter": 5,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          23000
+        ],
+        [
+          23000,
+          45393
+        ]
+      ],
+      "source_sha256": "87901bf363865e1c323c7bf1bad15fe96335869b89e633a72ab8c6ba280b714b",
+      "dossier_sha256": "bb0f477db572a6ebece5a0e05e015a95166b9d977c018c3b140d6775972fc630"
+    },
+    {
+      "chapter": 6,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          22000
+        ],
+        [
+          22000,
+          40425
+        ]
+      ],
+      "source_sha256": "0f46fefb25cc0850e7ec534759390a836c930783dae534e4a741f65830ec94c0",
+      "dossier_sha256": "37c527de57e351c70ff099e10106641aeb1d401ee10497efe8916b1c4bc4bf88"
+    },
+    {
+      "chapter": 7,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          23676
+        ]
+      ],
+      "source_sha256": "2a626bdf54efe9c485d17ca411c00bc54f1860bf8ba9e35f6205ef8e21ece73e",
+      "dossier_sha256": "5435a5125baca80e5893cf943a04582ee584cd263f5d05cf283afbc8571a0082"
+    },
+    {
+      "chapter": 8,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          23000
+        ],
+        [
+          23000,
+          46000
+        ],
+        [
+          46000,
+          68153
+        ]
+      ],
+      "source_sha256": "96f2f87535ce783bbdaf37848c401195fed7e68e5d2273d127f0f0994d00f80b",
+      "dossier_sha256": "0ad46181c0dc853a8fe082878fa1a37af6d8ee939b95a3355a03f289b3bbb7d2"
+    },
+    {
+      "chapter": 9,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          35895
+        ]
+      ],
+      "source_sha256": "b5972a47162802f362e0086ee320b638be798e4fbf94c46c771b25360b0cc25d",
+      "dossier_sha256": "55780246ed8a1e3b7564685bf8b82feecd2a54ffa1ade4289857070f3cb161ca"
+    },
+    {
+      "chapter": 10,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          25000
+        ],
+        [
+          25000,
+          47908
+        ]
+      ],
+      "source_sha256": "cb7791d4cae33a76bfa61b3142db7e1d5e37bcacb840b07ddae29ae25808b28e",
+      "dossier_sha256": "25ac1ac80f303e294cbf19c97c994bad4fe67e9c5571168fe46ba5d1510ac17f"
+    },
+    {
+      "chapter": 11,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          27000
+        ],
+        [
+          27000,
+          53052
+        ]
+      ],
+      "source_sha256": "c02b4fc80e99af59d6c180406b5e1a28657ec03970900ce17ebd06d332e0599b",
+      "dossier_sha256": "114ae35aea12eb842e164a1a7effeaa4bb314a20179232b4a51d7da69a1e3f6b"
+    },
+    {
+      "chapter": 12,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          25000
+        ],
+        [
+          25000,
+          48241
+        ]
+      ],
+      "source_sha256": "2c22049a793f771a875db70916ade1fec8ed8271b63e478c84b7cfe092e04bde",
+      "dossier_sha256": "355db9cdf4aa3fe733b77b758161241c240b41558ce8abeb70911daf662c920a"
+    },
+    {
+      "chapter": 13,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          26000
+        ],
+        [
+          26000,
+          50932
+        ]
+      ],
+      "source_sha256": "861ff1209767592129a7076d8516a80b555d7418292d088a26cafba2486e7282",
+      "dossier_sha256": "77a258bd56717b95fe9a439083fd95445bd0c282b764e49dbef70d953a8efbfb"
+    },
+    {
+      "chapter": 14,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          27000
+        ],
+        [
+          27000,
+          53695
+        ]
+      ],
+      "source_sha256": "bc7a79707c59fc0562c6f3cb41e8dd759efcc4d2c08df01f36e145d682ad4451",
+      "dossier_sha256": "a0feed6a7487a45e4262dee1c41e1dc7883efb25fd19e2f7914c935be340d141"
+    },
+    {
+      "chapter": 15,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          25000
+        ],
+        [
+          25000,
+          50000
+        ],
+        [
+          50000,
+          73394
+        ]
+      ],
+      "source_sha256": "e26d723b3369cd5fdd11215a2c94acaf81c612480d1a545b82c2d04aad8f0aeb",
+      "dossier_sha256": "826db4c7ff5562736aa70fdb9e307ed397a092c159c9bfae6fd7a86edfe06377"
+    },
+    {
+      "chapter": 16,
+      "whole_source": true,
+      "whole_Chinese_dossier": true,
+      "source_character_ranges": [
+        [
+          0,
+          24000
+        ],
+        [
+          24000,
+          46816
+        ]
+      ],
+      "source_sha256": "737a48c6728607ddb4cb2b301dea3e25d7da116d4af0b526aacbc7e4f4441431",
+      "dossier_sha256": "33b3c65b91c2dfb9a4791d207771b040845729d9b1ed7ad843ad12f51c0f3493"
+    }
+  ],
+  "findings": [
+    {
+      "id": "P25-ROOT-C01",
+      "chapter": 11,
+      "type": "clarify_percentage_levels_and_unspecified_denominators",
+      "original_source": "source/ch11.txt complete original read;FoxHead1866profitshare passage",
+      "draft_before": "第三年提两点五奖金与涨五工资，第四年工资再涨十、奖金按薪金给四，一八七一年三又四分之一、次年三点五，后工资涨二十而无奖金。",
+      "candidate_after": "第三年原文说百分之二点五的奖金在雇主与员工间分配，未在该句明列基数，同时工资提高百分之五；第四年工资再提高百分之十，员工奖金为其所得工资与薪金的百分之四。一八七一年奖金为当年工资与薪金的百分之三又四分之一，次年所述百分之三点五没有在该句重述基数；后来工资提高百分之二十而不再有奖金。",
+      "original_text_unchanged": true,
+      "candidate_not_yet_merged": false,
+      "does_not_invent_uniform_return_denominator": true,
+      "merged_into_canonical": true
+    },
+    {
+      "id": "P25-ROOT-C02",
+      "chapter": 15,
+      "type": "footnote_scope_clarity_metadata",
+      "draft_before": "已完整阅读正文及章内两项引注",
+      "candidate_after": "已完整阅读正文、空间表注和两项文献引注",
+      "source_basis": "Three primary source Footnote markers:airspace table,Examiner,MemoirJohnGrey;originalsourceentire73394charsactuallyread",
+      "not_a_missing_read_claim": true,
+      "candidate_not_yet_merged": false,
+      "merged_into_canonical": true
+    },
+    {
+      "id": "P25-ROOT-C03",
+      "chapter": 15,
+      "type": "edition_identity_precision",
+      "draft_before": "已实际查看的第一版对应原图却印六百",
+      "candidate_after": "已实际查看的一八七五年对应原图却印六百",
+      "source_basis": "Rootactuallyviewedcomplete1875titlePDF9/airtablePDF335;titleconfirms1875LondonMurray,notproof1892sameglyphs",
+      "candidate_not_yet_merged": false,
+      "merged_into_canonical": true
+    }
+  ],
+  "rules_full_review_completed": true,
+  "precise_anchors_full_review_completed": true,
+  "source_internal_issues_all_reviewed": true,
+  "final_status": true,
+  "updated_utc": "2026-10-13T13:01:20.238450+00:00",
+  "cross_edition_ch02_recovery_source_actually_read": true,
+  "original1875_images_actually_individually_reviewed_by_root": [
+    9,
+    38,
+    39,
+    131,
+    335
+  ],
+  "all16source_chapters_and_all16Chinese_dossiers_actually_reviewed": true,
+  "backmatter_primary_full_source_lines_actually_read": [
+    12089,
+    12941
+  ],
+  "backmatter_read_character_ranges": [
+    [
+      0,
+      20000
+    ],
+    [
+      20000,
+      30207
+    ]
+  ],
+  "primary_electronic_source_all_12941_lines_semantically_read": true,
+  "primary_whole_source_sha256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+  "rule_and_exact_evidence_batches_actually_read": [
+    {
+      "rule_ids": [
+        "P25-R01",
+        "P25-R02",
+        "P25-R03",
+        "P25-R04",
+        "P25-R05",
+        "P25-R06",
+        "P25-R07",
+        "P25-R08"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    },
+    {
+      "rule_ids": [
+        "P25-R09",
+        "P25-R10",
+        "P25-R11",
+        "P25-R12",
+        "P25-R13",
+        "P25-R14",
+        "P25-R15",
+        "P25-R16"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    },
+    {
+      "rule_ids": [
+        "P25-R17",
+        "P25-R18",
+        "P25-R19",
+        "P25-R20",
+        "P25-R21",
+        "P25-R22",
+        "P25-R23",
+        "P25-R24"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false,
+      "R21A02_initial_truncated_then_complete_reread": true
+    },
+    {
+      "rule_ids": [
+        "P25-R25",
+        "P25-R26",
+        "P25-R27",
+        "P25-R28",
+        "P25-R29",
+        "P25-R30"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    },
+    {
+      "rule_ids": [
+        "P25-R31",
+        "P25-R32",
+        "P25-R33",
+        "P25-R34",
+        "P25-R35",
+        "P25-R36"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    },
+    {
+      "rule_ids": [
+        "P25-R37",
+        "P25-R38",
+        "P25-R39",
+        "P25-R40",
+        "P25-R41",
+        "P25-R42"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    },
+    {
+      "rule_ids": [
+        "P25-R43",
+        "P25-R44",
+        "P25-R45",
+        "P25-R46",
+        "P25-R47",
+        "P25-R48"
+      ],
+      "whole_rule_fields": true,
+      "whole_evidence_files": true,
+      "output_truncated": false
+    }
+  ],
+  "all28source_internal_issues_and_all12numeric_calculations_actually_reviewed": true,
+  "all48rules_all74_original_exact_evidence_files_actually_read": true,
+  "actual_primary_reflow_PDF_pages_individually_viewed_by_root": [
+    1,
+    2,
+    147,
+    186,
+    188
+  ],
+  "additional_precise_source_paragraphs_actually_read_and_selected": [
+    {
+      "evidence_id": "P25-R24-A03",
+      "source_file": "source/full-source.txt",
+      "full_source_start_line": 4571,
+      "full_source_end_line": 4603,
+      "unicode_character_start": 263778,
+      "unicode_character_end_exclusive": 265831,
+      "byte_start": 263803,
+      "byte_end_exclusive": 265856,
+      "raw_span_sha256": "467e07b3516aecd302c6f1450135140d5ab0d980c9595463eef81fc7d78446c4",
+      "evidence_text_file": "source/evidence/P25-R24-A03.txt",
+      "full_source_file_sha256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+      "basis": "complete_primary_paragraph_context_original_CRLF",
+      "printed_page_not_claimed": true,
+      "all_source_span_semantically_read": true,
+      "all_scan_glyphs_individually_verified": false,
+      "root_manual_selection_reason": "士兵与雇员隐私、雇主阻碍的直接原段"
+    },
+    {
+      "evidence_id": "P25-R25-A03",
+      "source_file": "source/full-source.txt",
+      "full_source_start_line": 5493,
+      "full_source_end_line": 5517,
+      "unicode_character_start": 320201,
+      "unicode_character_end_exclusive": 321332,
+      "byte_start": 320233,
+      "byte_end_exclusive": 321365,
+      "raw_span_sha256": "39db46e4c7b36b9bcffbe972f0d68d58ef22a81937300a4e4f3ad291bfbc54fd",
+      "evidence_text_file": "source/evidence/P25-R25-A03.txt",
+      "full_source_file_sha256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+      "basis": "complete_primary_paragraph_context_original_CRLF",
+      "printed_page_not_claimed": true,
+      "all_source_span_semantically_read": true,
+      "all_scan_glyphs_individually_verified": false,
+      "root_manual_selection_reason": "Mary全年365枚三便士的故事结尾及累积数字"
+    },
+    {
+      "evidence_id": "P25-R28-A03",
+      "source_file": "source/full-source.txt",
+      "full_source_start_line": 6519,
+      "full_source_end_line": 6546,
+      "unicode_character_start": 380040,
+      "unicode_character_end_exclusive": 381985,
+      "byte_start": 380085,
+      "byte_end_exclusive": 382030,
+      "raw_span_sha256": "5380a73b9cebe54125ec3de0a89186ebabff903ff39d076e914b5fe682fc8b43",
+      "evidence_text_file": "source/evidence/P25-R28-A03.txt",
+      "full_source_file_sha256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+      "basis": "complete_primary_paragraph_context_original_CRLF",
+      "printed_page_not_claimed": true,
+      "all_source_span_semantically_read": true,
+      "all_scan_glyphs_individually_verified": false,
+      "root_manual_selection_reason": "Akroyd住房、学校、图书与娱乐设施的具体原段"
+    },
+    {
+      "evidence_id": "P25-R35-A03",
+      "source_file": "source/full-source.txt",
+      "full_source_start_line": 8062,
+      "full_source_end_line": 8069,
+      "unicode_character_start": 473980,
+      "unicode_character_end_exclusive": 474560,
+      "byte_start": 474040,
+      "byte_end_exclusive": 474620,
+      "raw_span_sha256": "bad303914dc6423dc85cec6e48990852e067b10388b0f01278ea47087e8ab9a9",
+      "evidence_text_file": "source/evidence/P25-R35-A03.txt",
+      "full_source_file_sha256": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+      "basis": "complete_primary_paragraph_context_original_CRLF",
+      "printed_page_not_claimed": true,
+      "all_source_span_semantically_read": true,
+      "all_scan_glyphs_individually_verified": false,
+      "root_manual_selection_reason": "收入负债账目及向配偶说明实际财务的直接原段"
+    }
+  ]
+}

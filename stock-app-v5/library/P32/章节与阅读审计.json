@@ -1,0 +1,785 @@
+{
+  "book_id": "P32",
+  "reading_status": "qualified_whole_original_digital_semantic_read_independent_QA_source_limits",
+  "complete_original_digital_text_read": true,
+  "all_original_scan_glyphs_verified": false,
+  "source_manifest": {
+    "catalogue_url": "https://www.gutenberg.org/ebooks/60082",
+    "text_URL": "https://www.gutenberg.org/cache/epub/60082/pg60082.txt",
+    "HTML_URL": "https://www.gutenberg.org/cache/epub/60082/pg60082-images.html",
+    "edition": "Actual1914 fourthprinting Feb,31stthousand;copyright/firstprinting1913",
+    "rights": "PGofficialcatalogue publicdomainUSA; fullPGlicense preserved; Cornellrightsleaf no known US restrictions;no blanketworldwideclaim",
+    "all10original_chapters_actual_full_semantic_read": true,
+    "all129PGrenumbered_footnotes_actual_full_read": true,
+    "all86483characters_Hughesreport_actual_full_read": true,
+    "frontmatter_index_transcriber_full_PGlicense_actual_full_read": true,
+    "preferred_complete_original_PDF": "source/alternative-1914.pdf",
+    "complete_PDF_URL": "https://archive.org/download/stockexchangefro0000wcva_r0n2/stockexchangefro0000wcva_r0n2.pdf",
+    "complete_PDF_pages": 480,
+    "original_scan_glyphs_all_verified": false,
+    "Cornell_PDF_gap": "CornellPDF303paper291blankoriginalconfirmed;sameprintingalternativePDF303fulltextviewedandmatchesPG;bothrawfilespreserved",
+    "source_files": [
+      {
+        "file": "source/original.txt",
+        "bytes": 683274,
+        "sha256": "679d8ca8285251385bbd4693d97ae4822de866ffcf91813c74b42ecc03135248",
+        "url": "https://www.gutenberg.org/cache/epub/60082/pg60082.txt",
+        "scope": "completePGtranscription"
+      },
+      {
+        "file": "source/original.html",
+        "bytes": 800305,
+        "sha256": "291873a543ac331a12c38c8795a7dab5062d6e564ca08918f600857742c1b880",
+        "url": "https://www.gutenberg.org/cache/epub/60082/pg60082-images.html",
+        "scope": "completePGHTMLpageanchors"
+      },
+      {
+        "file": "source/alternative-1914.pdf",
+        "bytes": 17173589,
+        "sha256": "74d1e4c9172a4a0cccd27d984208afbdffc4fd02e0e34fe080f1d0fd569aaf84",
+        "url": "https://archive.org/download/stockexchangefro0000wcva_r0n2/stockexchangefro0000wcva_r0n2.pdf",
+        "scope": "samefourthprinting480pagepreferredoriginalscan;selectedimagecollation"
+      },
+      {
+        "file": "source/original-1914.pdf",
+        "bytes": 8020302,
+        "sha256": "2366f395357fd3164547aaa39e708f1af989f14e6af10ccf7cb3705e76e8a1e7",
+        "url": "https://archive.org/download/cu31924030206548/cu31924030206548.pdf",
+        "scope": "Cornell480scanwithknownpaper291blank;supersededascompletealone"
+      }
+    ],
+    "original_visual_audit": "source-review/scan-checkpoint.json",
+    "read_completed_utc": "2026-10-12T17:23:30.312574+00:00",
+    "reading_status": "full_original_digital_semantic_reading_with_selected_scan_collation_coverage_qualified",
+    "unresolved_limits": [
+      "Not everyoriginalglyph visuallyproofread;selectedrawpagecollation and all lowtext physicalpagesclassified.",
+      "PGunbalancedquotes/typosmayremain;indexnotfullycrosschecked,footnotesrenumberedandmoved,duplicatechaptertitlepagesremoved.",
+      "Sectiondigit paper255 remains5or3;paper1991837paragraphhas1857bankdate inoriginal;not silentlycorrected.",
+      "43/130bn over-third claim,capital100GBP mismatch,Paris155vs150bn scope andsomequotationdates unresolved;precisionuseclosed.",
+      "Quotedstatutes,reports,courtcases,newsandallotherbooksnot separately fullyverified;oldrulesnotcurrentlaw."
+    ]
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "roman": "I",
+      "title": "The Functions of the Stock Exchange",
+      "source_file": "source/chapters/ch01.txt",
+      "original_txt_lines": [
+        134,
+        732
+      ],
+      "source_characters": 36821,
+      "source_sha256": "e8211336277f322431b44d533dde0fdfccd3bcef4a1f3e26f6e833c9e5c8657d",
+      "printed_range_from_contents": [
+        3,
+        34
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          13500
+        ],
+        [
+          13500,
+          27000
+        ],
+        [
+          27000,
+          36821
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch01.md",
+      "body_han": 3161,
+      "dossier_sha256": "c0c70296f75f5f192c240963dcf013db5d8d59b5d8bbd38b166be28495c1059f"
+    },
+    {
+      "chapter": 2,
+      "roman": "II",
+      "title": "The Uses and Abuses of Speculation",
+      "source_file": "source/chapters/ch02.txt",
+      "original_txt_lines": [
+        733,
+        1431
+      ],
+      "source_characters": 42788,
+      "source_sha256": "e0108d901089cc82fa72caef0fc59f7565ca41efa18c203e5e70bbe61641d206",
+      "printed_range_from_contents": [
+        35,
+        70
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          29000
+        ],
+        [
+          29000,
+          42788
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch02.md",
+      "body_han": 3224,
+      "dossier_sha256": "7451724e6a64432f404c78952f5bc574de9af39f0a0f5597b62b2206299e94eb"
+    },
+    {
+      "chapter": 3,
+      "roman": "III",
+      "title": "The Bear and Short Selling",
+      "source_file": "source/chapters/ch03.txt",
+      "original_txt_lines": [
+        1432,
+        1934
+      ],
+      "source_characters": 30895,
+      "source_sha256": "dec8405723e303bbf9dff5cce07739cf2643a7aee0546eca293983b0833476ff",
+      "printed_range_from_contents": [
+        71,
+        98
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          15500
+        ],
+        [
+          15500,
+          30895
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch03.md",
+      "body_han": 2886,
+      "dossier_sha256": "0fac4bd316e63af24aa52b811dcb98c62af9ef3eeb892d3fe7306f6ea18b4b88"
+    },
+    {
+      "chapter": 4,
+      "roman": "IV",
+      "title": "The Relationship Between the Banks and the Stock Exchange",
+      "source_file": "source/chapters/ch04.txt",
+      "original_txt_lines": [
+        1935,
+        2526
+      ],
+      "source_characters": 36478,
+      "source_sha256": "3970145eec9eac3bf93a173a8a0790572ce9d673f287aa585ef52fbce95ba51e",
+      "printed_range_from_contents": [
+        99,
+        130
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          13000
+        ],
+        [
+          13000,
+          26000
+        ],
+        [
+          26000,
+          36478
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch04.md",
+      "body_han": 3145,
+      "dossier_sha256": "31636b261ba8bd87fdf1045cac3d2bb839e1c43323042c4ff4a59c75c3a15699"
+    },
+    {
+      "chapter": 5,
+      "roman": "V",
+      "title": "Publicity in Exchange Affairs; Cautions and Precautions",
+      "source_file": "source/chapters/ch05.txt",
+      "original_txt_lines": [
+        2527,
+        3509
+      ],
+      "source_characters": 60866,
+      "source_sha256": "d4f10c7ebac99cbfc57e36d7e2edff113e327e8365dc550e5d6c1456f54053da",
+      "printed_range_from_contents": [
+        131,
+        182
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          15500
+        ],
+        [
+          15500,
+          31000
+        ],
+        [
+          31000,
+          46500
+        ],
+        [
+          46500,
+          60866
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch05.md",
+      "body_han": 3538,
+      "dossier_sha256": "a9b0e0a40e20bb1dbaac56f5b1eea58c899044374aa673421cdaee90e50542e1"
+    },
+    {
+      "chapter": 6,
+      "roman": "VI",
+      "title": "Panics, and the Crisis of1907",
+      "source_file": "source/chapters/ch06.txt",
+      "original_txt_lines": [
+        3510,
+        4233
+      ],
+      "source_characters": 44368,
+      "source_sha256": "f2e793f7cadaa52eaa5b64f700bdd069e7ee86c61ff0908bc2955fde4a7703fe",
+      "printed_range_from_contents": [
+        183,
+        222
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          15000
+        ],
+        [
+          15000,
+          30000
+        ],
+        [
+          30000,
+          44368
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch06.md",
+      "body_han": 3104,
+      "dossier_sha256": "08cd9ffa6bc77ea1b9ffa650b8bda66d7128b7f7290f303eaf8fa905a69f3d13",
+      "original_selected_images_actually_viewed": [
+        211,
+        212,
+        213
+      ],
+      "original_date_issue": {
+        "paper": 199,
+        "PDF": 211,
+        "text": "1837discussion then1857bankcount",
+        "original_print_has1857": true,
+        "silently_corrected": false
+      }
+    },
+    {
+      "chapter": 7,
+      "roman": "VII",
+      "title": "A Brief History of Legislative Attempts to Restrain or Suppress Speculation",
+      "source_file": "source/chapters/ch07.txt",
+      "original_txt_lines": [
+        4234,
+        5089
+      ],
+      "source_characters": 49826,
+      "source_sha256": "689c1225095d18da6010647dca0133d0f8de5590b02e05a5a2a2bb278e484e6c",
+      "printed_range_from_contents": [
+        223,
+        260
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          13000
+        ],
+        [
+          13000,
+          26000
+        ],
+        [
+          26000,
+          39000
+        ],
+        [
+          39000,
+          49826
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch07.md",
+      "body_han": 2952,
+      "dossier_sha256": "ad314ec884e76c4a3e84e6867f9e2c5d34895460519194b3a08588d9d8fdbd53",
+      "original_selected_image_review": {
+        "file": "source-review/alternative-267.png",
+        "paper": 255,
+        "PDF": 267,
+        "actually_viewed": true,
+        "finding": "lastSectiondigit badlyincomplete,retainPG5maybe3uncertainty;notclaimconfirmed5"
+      }
+    },
+    {
+      "chapter": 8,
+      "roman": "VIII",
+      "title": "The Day on Change, with Suggestions for Beginners",
+      "source_file": "source/chapters/ch08.txt",
+      "original_txt_lines": [
+        5090,
+        6332
+      ],
+      "source_characters": 76170,
+      "source_sha256": "6d428270a66e409aa88b50104bffba177bb1c23a953d4b95736640fe11e82f30",
+      "printed_range_from_contents": [
+        261,
+        322
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          15000
+        ],
+        [
+          15000,
+          30000
+        ],
+        [
+          30000,
+          45000
+        ],
+        [
+          45000,
+          60000
+        ],
+        [
+          60000,
+          76170
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch08.md",
+      "body_han": 3369,
+      "dossier_sha256": "72e3f4bd60bfe6495eed083ddd63a2ed812b5abdfd209b039452b7ccb18016c0"
+    },
+    {
+      "chapter": 9,
+      "roman": "IX",
+      "title": "The London Stock Exchange, and Comparisons with Its New York Prototype",
+      "source_file": "source/chapters/ch09.txt",
+      "original_txt_lines": [
+        6333,
+        7478
+      ],
+      "source_characters": 70868,
+      "source_sha256": "b3504378c8fad5c3ff48ca6723cbff6f6d7a045cd34c46295a4fd723d14472f8",
+      "printed_range_from_contents": [
+        323,
+        382
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          15000
+        ],
+        [
+          15000,
+          30000
+        ],
+        [
+          30000,
+          45000
+        ],
+        [
+          45000,
+          60000
+        ],
+        [
+          60000,
+          70868
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch09.md",
+      "body_han": 3316,
+      "dossier_sha256": "9832d7e7ba671fb975b2c2fbd34e4349ba4a278d1b27a3772e2463430e0316d7"
+    },
+    {
+      "chapter": 10,
+      "roman": "X",
+      "title": "The Paris Bourse; a Monopoly Under Government",
+      "source_file": "source/chapters/ch10.txt",
+      "original_txt_lines": [
+        7479,
+        8086
+      ],
+      "source_characters": 37050,
+      "source_sha256": "1dcc7848e87b0c9ef798f6038cdbaeabcb8abb5e5fe1e53adcf0829c9ab94cd4",
+      "printed_range_from_contents": [
+        383,
+        414
+      ],
+      "full_original_source_semantic_read": true,
+      "dossier_written": true,
+      "footnote_ids": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "source_read_character_ranges": [
+        [
+          0,
+          12500
+        ],
+        [
+          12500,
+          25000
+        ],
+        [
+          25000,
+          37050
+        ]
+      ],
+      "footnotes_full_read": true,
+      "dossier_file": "ch10.md",
+      "body_han": 2779,
+      "dossier_sha256": "0bb15f5e4370197141faaa837ca415a69a7900313ce602087cd2d2b01023a39e"
+    }
+  ],
+  "strict_body_han_counts": [
+    3161,
+    3224,
+    2886,
+    3145,
+    3538,
+    3104,
+    2952,
+    3369,
+    3316,
+    2779
+  ],
+  "body_han_total": 31474,
+  "frontmatter": {
+    "TXT_lines": [
+      1,
+      133
+    ],
+    "complete_read": true
+  },
+  "appendix": {
+    "TXT_lines": [
+      8087,
+      9721
+    ],
+    "characters": 86483,
+    "complete_read": true,
+    "read_character_ranges": [
+      [
+        0,
+        14000
+      ],
+      [
+        14000,
+        28000
+      ],
+      [
+        28000,
+        42000
+      ],
+      [
+        42000,
+        56000
+      ],
+      [
+        56000,
+        70000
+      ],
+      [
+        70000,
+        86483
+      ]
+    ],
+    "voice": "1909committee distinct from1914author"
+  },
+  "footnotes": {
+    "TXT_lines": [
+      9722,
+      10629
+    ],
+    "count": 129,
+    "all_full_read": true,
+    "ledger": "source/footnotes-ledger.json",
+    "numbers_PGrenumbered_not_originalbottomasterisks": true,
+    "whole_footnote_ledger_line_convention": {
+      "file": "source/footnotes-ledger.json",
+      "start": "onebasedinclusive",
+      "end": "onebasedexclusive",
+      "all129_validated": true,
+      "recommendation": "State this convention in final audit; original derivative file can be preserved unchanged. Rule paragraph/context source_lines use inclusive ends."
+    }
+  },
+  "index_and_transcriber": {
+    "TXT_lines": [
+      10630,
+      11828
+    ],
+    "characters": 26940,
+    "all_full_read": true,
+    "ranges": [
+      [
+        0,
+        14000
+      ],
+      [
+        14000,
+        26940
+      ]
+    ],
+    "all_reference_accuracy_verified": false
+  },
+  "full_PG_license": {
+    "TXT_lines": [
+      11829,
+      12179
+    ],
+    "characters": 18462,
+    "all_full_read": true
+  },
+  "original_visual_review": "source-review/scan-checkpoint.json",
+  "paragraph_ledger": "source-paragraph-ledger.json",
+  "numeric_review": "numeric-review.json",
+  "unresolved_gaps": [
+    "Not everyoriginalglyph visuallyproofread;selectedrawpagecollation and all lowtext physicalpagesclassified.",
+    "PGunbalancedquotes/typosmayremain;indexnotfullycrosschecked,footnotesrenumberedandmoved,duplicatechaptertitlepagesremoved.",
+    "Sectiondigit paper255 remains5or3;paper1991837paragraphhas1857bankdate inoriginal;not silentlycorrected.",
+    "43/130bn over-third claim,capital100GBP mismatch,Paris155vs150bn scope andsomequotationdates unresolved;precisionuseclosed.",
+    "Quotedstatutes,reports,courtcases,newsandallotherbooksnot separately fullyverified;oldrulesnotcurrentlaw.",
+    "休斯报告原纸439/PDF451的相关句组有重复病句，完整原图与PG转录均如此，不是已证实的PG独有错误。原文和扫描均保留；关于交易市场机制的上下文理解另属编辑分析，不将修好的通顺句冒充原句，也不以该残缺句做精确模型输入。"
+  ],
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "current_stock_decisions_executed": false,
+  "completed_utc": "2026-10-12T17:23:30.312574+00:00",
+  "artifacts_sha256": {
+    "专家定义.json": "595ef34bd2b286c3df6a7867345c3339d5b20cd32546559a4db6e7f82e9a6f90",
+    "专家说明.md": "aaf7c52d729ed9659589ab28a78d8fe06347a2346fbf55923ae3b494bd8d1f30",
+    "全书综合与附录.md": "2a0183a1dcf6651c828a883953a2610903d148771eba9bc44ac76499c53aa975",
+    "章节深读.md": "9cf0a8df1d39c3cebc5698049c5f46f90a975cd7aa7547cd1b01599b2b3f8a7e",
+    "validation.json": "bf00535419869c96acb4c29940455f3c6f4e9988f61a70da6efc8624f27850fc",
+    "source-paragraph-ledger.json": "079589a747d597878785d45b6044883a6d28368859f07a866c08dac9df4d840c",
+    "numeric-review.json": "597af8cd12e6ee6df90aad2d563ffec7732957a608303df7207392ce5ec4224e",
+    "source-review/scan-checkpoint.json": "7e215c6c2da4c3949642a048c9c89152a0d95eb84ead946da32407e2e8287fb6",
+    "rules-manual.json": "67da8faf246bfd7b3644b8290fa1c19a3715577c93a0861d2109351cfc2a6bd3",
+    "chapter-plan.json": "e1126bf6ba1571e822bf2408d1c096d21b5bce00ccd7f3a2319446466c59ff7a"
+  },
+  "minimum_chapter_han": 2779,
+  "precise_source_context_count": 201,
+  "minimum_body_han": 2779,
+  "independent_QA": {
+    "status": "passed_with_source_limits",
+    "reviewer": "value_books independent of practical_books original author",
+    "file": "独立复核.json",
+    "peer_all10chapters_all129footnotes_completeHughesreport_index_frontmatter_license_actual_review": true,
+    "peer_all52rules_and_dossiers_actual_review": true,
+    "precise_source_context_count": 201,
+    "whole_continuous_original_units_linked": true,
+    "all_original_scan_glyphs_proofread": false,
+    "pending_final_peer_content_confirmation": false,
+    "pending_final_peer_hash_confirmation": false,
+    "content_confirmation": "source-review/independent-peer-QA/P32-final-confirmation.json"
+  },
+  "precise_rule_context_line_convention": "one-based start/end inclusive; Unicode and byte ends exclusive; exact raw original CRLF",
+  "corrected_original_page_anchors": {
+    "P32-3-P023": [
+      [
+        86,
+        87
+      ],
+      [
+        98,
+        99
+      ]
+    ],
+    "P32-3-P024": [
+      [
+        87
+      ],
+      [
+        99
+      ]
+    ],
+    "P32-F34-P001": [
+      [
+        86,
+        87
+      ],
+      [
+        98,
+        99
+      ]
+    ]
+  },
+  "all_original_source_bytes_unchanged": true
+}

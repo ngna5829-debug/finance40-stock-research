@@ -1,0 +1,41 @@
+{
+  "book_id": "P31",
+  "status": "passed_with_source_limits_final_hash_closed",
+  "qualified_pass": true,
+  "checks_scope": "Only metadata closure and hashes after prior actual whole-book source/draft/rule semantic review and P31-final-confirmation; no new claim of whole scan proofreading",
+  "canonical_hashes": {
+    "专家定义.json": "34f8d4eb9f1ca19900b582791f975e9dfe95d4837289e86237eebbcfde14bcf7",
+    "章节与阅读审计.json": "912d1a8ed2036eeb8495a8237d09e7b2fe1b9aa4008243dc7212e8817fc43042",
+    "独立复核.json": "b263e901b5ee4ba7a5f4a5a163fbc3413f745423daf8018fd49d03dfd8eac193",
+    "validation.json": "34296dd87314b47d8d065f2a2a89a5de4163d927858f88f10a3b85f643e65922",
+    "chapter-plan.json": "e9207e5f2b0e41635f25ac7b8386dd9ce8b35c409e19360cb5de2fc40f0fa3b1",
+    "专家说明.md": "8c6c1624e42ca24de37f5c3707f5cd85392aa1e8907843447cde45c22f144701"
+  },
+  "prior_content_confirmation_file": "work/book-experts-v5/value_team/peer-QA/P31-final-confirmation.json",
+  "prior_content_confirmation_sha256": "9f30df17d7f94e433b59fa40266cddc92efd63f79589e8b41a35345bf954ef52",
+  "source_and_assembled_body_unchanged": true,
+  "chapter_body_han_counts": [
+    2909,
+    2918,
+    2728,
+    2644,
+    2721,
+    2560,
+    2707,
+    2671,
+    3147,
+    2724,
+    2802
+  ],
+  "total_body_han": 30531,
+  "minimum": 2560,
+  "rules_count": 40,
+  "precise_context_count": 109,
+  "all_pending_final_flags_closed": true,
+  "all_scan_glyphs_proofread": false,
+  "current_stock_decisions_enabled": false,
+  "current_market_model_calls": 0,
+  "backtests_executed": 0,
+  "canonical_modified_by_reviewer": false,
+  "created_utc": "2026-10-13T13:55:57.517512+00:00"
+}

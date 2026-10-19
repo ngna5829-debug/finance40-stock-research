@@ -1,0 +1,60 @@
+{
+  "book_id": "P37",
+  "title": "The Psychology of Speculation: The Human Element in Stock Market Transactions",
+  "author": "Henry Howard Harper",
+  "illustrator": "Haydon Jones",
+  "year": 1926,
+  "publisher": "Privately printed, Boston;TheTorchPress,CedarRapidsIowa",
+  "edition": "1926 complete independent book, not1930supplement/modernexpandededition",
+  "catalogue_URL": "https://www.gutenberg.org/ebooks/73647",
+  "verified_local_date": "2026-10-13",
+  "rights": "OfficialPGPublicdomainUSA verified2026-10-13,completePGlicensepreserved;no universaljurisdictionclaim",
+  "original_PDF_obtained": false,
+  "original_PDF_pages": null,
+  "original_printed_pages_from_PG": [
+    7,
+    106
+  ],
+  "pagenumber_scope": "Only officialPGtranscribedprintedpageanchors, no1926originalscanvisualcollation",
+  "source_read_status": "complete_public_digital_semantic_read_independent_QA_passed_original_physical_scan_unavailable",
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "url": "https://www.gutenberg.org/cache/epub/73647/pg73647.txt",
+      "sha256": "e6bbfe06e313a94e3a6dba7fdcb0b6164d680c3854c798a242b9c0c0100ba490",
+      "bytes": 130380,
+      "scope": "CompleteofficialUTF8originaltranscription/front/22topics/onefootnote/transcribernotes/fullPGlicense actualfullsemanticread"
+    },
+    {
+      "file": "source/original.html",
+      "url": "https://www.gutenberg.org/cache/epub/73647/pg73647-images.html",
+      "sha256": "f143e589a5de0690e7c535db97b768b8d1f3373413e1b4ae452606651976be93",
+      "bytes": 155954,
+      "scope": "CompleteofficialHTMLprintedpageanchors preserved"
+    },
+    {
+      "file": "source/official-full-HTML-with-images.zip",
+      "url": "https://www.gutenberg.org/cache/epub/73647/pg73647-h.zip",
+      "sha256": "de94291a539b6deba86927eef93797e1a974b59ca09176bf87f6fed8dc952b62",
+      "bytes": 1101368,
+      "scope": "CompleteofficialillustratedHTMLpackageall17images actualviewed;originalcover/pagepositionsnotcertified"
+    }
+  ],
+  "complete_author_source_read": true,
+  "all_original_scan_glyphs_verified": false,
+  "original_scan_search_limits": [
+    "IApublictitle/creatorquery0 savedsource/IA-search.json",
+    "NormalHathi/LoC/UPennaccessfailed, noaccesscontrolbypass/no paid registration/no modernsample substituted"
+  ],
+  "unresolved_gaps": [
+    "No original1926physicalpagePDF; cannot collate silent typo fixes/physical blanks/marginalnotes",
+    "Electroniccovernotcertifiedoriginalbinding",
+    "PGpagenumbers/prose matchofficialHTML but not independent scan proof",
+    "Cartoons are illustrative not accounts/events/participant identifiers",
+    "Numeric stories partially unspecified with500/900share disagreements; no full accounts/stockadjustment contracts",
+    "Anonymousidentity/medicaldeath/rumorandcompanyrecords notindependentlyverified; individual figures not calibratedstockstatistics",
+    "Quotedessays/reports/privateletters/booklist not full originals read;1930supplement not read/counted",
+    "If providingPDF fromofficialHTML, must label re-typesetfulltextwithallillustrationsandlicense, not1926originalscan"
+  ],
+  "independent_semantic_QA_status": "passed_with_source_limits"
+}

@@ -1,0 +1,1126 @@
+{
+  "schema_version": "book-expert-public-domain-v5",
+  "book_id": "P39",
+  "expert_id": "P39-straker-money-market",
+  "display_name": "货币市场、准备层级与支付证据专家",
+  "author_attribution": "F. Straker，完整1920第三版档案；不模拟作者本人",
+  "single_book_count": 1,
+  "home_group": "宏观、货币与市场结构",
+  "knowledge_status": "full_book_dossier_independent_review_passed_with_source_limits",
+  "required_inputs": [
+    "security_identity",
+    "decision_as_of",
+    "horizon",
+    "institution_and_jurisdiction",
+    "data_source",
+    "information_first_available_at",
+    "instrument_currency_unit_and_maturity",
+    "balance_sheet_scope"
+  ],
+  "conditional_inputs": [
+    "确证资金账户或金流（若主张实际资金迁移）",
+    "准备与对应负债分子分母",
+    "资产的到期日与变现限制",
+    "抵押/指定资产细目",
+    "宏观状态及季节基线",
+    "执行报价及费用"
+  ],
+  "rules": [
+    {
+      "id": "P39-R01",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 1,
+      "author_meaning": "货币结算的发展与贸易分工和交换需求相连。",
+      "boundary": "历史机制不等于今日市场价格唯一由贸易决定。",
+      "evidence_match_phrase": "trade commenced with the first division of labour",
+      "paragraph_ids": [
+        "P39-C01-P004"
+      ],
+      "source_fragment_sha256": [
+        "8526c32339d44dcbddd6e1f8091b54d152827be4884128314e62194408c38c53"
+      ],
+      "printed_pages": [
+        2
+      ],
+      "pdf_pages_one_based": [
+        14
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R02",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 1,
+      "author_meaning": "对政府的债权仍受其偿付行为影响；1672停止支付冲击存款链条。",
+      "boundary": "作者历史叙述未全部外部核史，不能类推所有政府债必然违约。",
+      "evidence_match_phrase": "ordered the Exchequer to be closed",
+      "paragraph_ids": [
+        "P39-C01-P010"
+      ],
+      "source_fragment_sha256": [
+        "c37a49f329e2522c3d6e163f32f631af38ced730a5ec31faaf63e32bffff2cfa"
+      ],
+      "printed_pages": [
+        6
+      ],
+      "pdf_pages_one_based": [
+        18
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R03",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 2,
+      "author_meaning": "最初章程的资本借债限制及超额个人责任是具体法制条件。",
+      "boundary": "1694旧制不能当当代银行的法律或风险阈值。",
+      "evidence_match_phrase": "members were liable for such excess",
+      "paragraph_ids": [
+        "P39-C02-P009"
+      ],
+      "source_fragment_sha256": [
+        "e4924a468d84eea4c9694c8c43b699aca354f6145ef5680eeb4229cd863c0a0e"
+      ],
+      "printed_pages": [
+        9
+      ],
+      "pdf_pages_one_based": [
+        21
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R04",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 2,
+      "author_meaning": "1833银行券法偿资格保留发行行及分行例外。",
+      "boundary": "明确年代、发行者和法律范围，不把名词当永久制度。",
+      "evidence_match_phrase": "except by the Bank itself or its branches",
+      "paragraph_ids": [
+        "P39-C02-P029"
+      ],
+      "source_fragment_sha256": [
+        "5e62fba373ad29ee1a0684dee6deed09119e24cc91c586b072a72c525904ba06"
+      ],
+      "printed_pages": [
+        16
+      ],
+      "pdf_pages_one_based": [
+        28
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R05",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 3,
+      "author_meaning": "私人银行合伙人数限制后来有1862/1908法律变化。",
+      "boundary": "旧六人规定不适用于原书所有后期情况，更不能套现代美国。",
+      "evidence_match_phrase": "Under the Companies Act, 1862",
+      "paragraph_ids": [
+        "P39-C03-P013"
+      ],
+      "source_fragment_sha256": [
+        "588a0aba9ee79c528633674d0b9fb9022709e52968e020927db9b3379307d6be"
+      ],
+      "printed_pages": [
+        23
+      ],
+      "pdf_pages_one_based": [
+        35
+      ],
+      "page_anchor_basis": "HTML relocated footnote1 via original in-chapter FNanchor_1_1; footnote1/2 original PDF35/106 visually checked",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R06",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 4,
+      "author_meaning": "1844发行部和银行部必须分开分析其资产负债。",
+      "boundary": "同一机构两张表不等于两套可重复合并的现金。",
+      "evidence_match_phrase": "were to be entirely separated",
+      "paragraph_ids": [
+        "P39-C04-P008"
+      ],
+      "source_fragment_sha256": [
+        "a8689d20a4a0e3475db774f52c4043ed3276e866154b22c64104fa2082bb5565"
+      ],
+      "printed_pages": [
+        30
+      ],
+      "pdf_pages_one_based": [
+        42
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R07",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 4,
+      "author_meaning": "地方发行权放弃后，证券支持发行额度可获准增其三分之二。",
+      "boundary": "这是历史法定例外，不是全部发行永远固定1400万。",
+      "evidence_match_phrase": "two-thirds of the issue so relinquished",
+      "paragraph_ids": [
+        "P39-C04-P012"
+      ],
+      "source_fragment_sha256": [
+        "7df402f925338534641e74b60f39a9a1ec8415777005f19adc987c744d7d09b9"
+      ],
+      "printed_pages": [
+        31
+      ],
+      "pdf_pages_one_based": [
+        43
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R08",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 4,
+      "author_meaning": "1847放松权限已缓和恐慌，却没有实际超出通常发行额度。",
+      "boundary": "授权、心理效应和实际新增发行分别记录，1857情况不同。",
+      "evidence_match_phrase": "the issue on this occasion did not",
+      "paragraph_ids": [
+        "P39-C04-P029"
+      ],
+      "source_fragment_sha256": [
+        "d64b30f8497f36c3311795b884c5d055812c7def42e536d4797db1861a9bd24c"
+      ],
+      "printed_pages": [
+        36
+      ],
+      "pdf_pages_one_based": [
+        48
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R09",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 4,
+      "author_meaning": "1866部分银行资产足偿却无立即可用资产，仍会停止支付。",
+      "boundary": "偿付能力与即时流动性分开；作者判断未变现代独立核验。",
+      "evidence_match_phrase": "perfectly solvent as a matter of fact",
+      "paragraph_ids": [
+        "P39-C04-P035"
+      ],
+      "source_fragment_sha256": [
+        "30e3b6901b38335265fc9e12149d95f7ab85775f139cfe87c8592fe815ababe3"
+      ],
+      "printed_pages": [
+        39
+      ],
+      "pdf_pages_one_based": [
+        51
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R10",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 5,
+      "author_meaning": "贸易地与最终结算地可以不同，伦敦可充当第三方结算中介。",
+      "boundary": "原假设商贸路径不是实际资金账户证明；现代网络需另观测。",
+      "evidence_match_phrase": "suppose a New York merchant shipped produce",
+      "paragraph_ids": [
+        "P39-C05-P009"
+      ],
+      "source_fragment_sha256": [
+        "d63b7de8f41267e9bfe8c2b8e780d09be1241f6fcdaf7d5d311fec82932bdc11"
+      ],
+      "printed_pages": [
+        45
+      ],
+      "pdf_pages_one_based": [
+        57
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R11",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 6,
+      "author_meaning": "央行可通过借入市场资金，使抬高资金利率的意图更能影响市场。",
+      "boundary": "原制下的操作机制，不保证现代央行任何举措同样奏效。",
+      "evidence_match_phrase": "borrowing large sums",
+      "paragraph_ids": [
+        "P39-C06-P006"
+      ],
+      "source_fragment_sha256": [
+        "f73c5af1fd73009bdb22cb18937196f6aec1fc3b854587cbc0974c8f1c6779d5"
+      ],
+      "printed_pages": [
+        49
+      ],
+      "pdf_pages_one_based": [
+        61
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R12",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 6,
+      "author_meaning": "政府票据购买把市场钱转入公共存款，偿还产生相反路径。",
+      "boundary": "暂时转移与永久净增分开；当前政府现金实际路径未知须弃权。",
+      "evidence_match_phrase": "When these bills are repaid",
+      "paragraph_ids": [
+        "P39-C06-P012"
+      ],
+      "source_fragment_sha256": [
+        "da281051a373d24b2e99d367a7d28a48b2e170dddf619fa9ed249de8aa26ec66"
+      ],
+      "printed_pages": [
+        52
+      ],
+      "pdf_pages_one_based": [
+        64
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R13",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 6,
+      "author_meaning": "外国银行资金可以暂时增加市场供给，但可在到期或卖票后撤金。",
+      "boundary": "净流入不是永久无条件支撑，实际币种和期限需核。",
+      "evidence_match_phrase": "power to draw gold from us heavily",
+      "paragraph_ids": [
+        "P39-C06-P015"
+      ],
+      "source_fragment_sha256": [
+        "48682d65eba2890dc245c8ba15e5b36b3cbdf4b13610ea3776dbbb80aa1ec3a0"
+      ],
+      "printed_pages": [
+        54
+      ],
+      "pdf_pages_one_based": [
+        66
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R14",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 7,
+      "author_meaning": "报表截至周三营业终了、周四发表，数据日与知晓日不同。",
+      "boundary": "报纸周五刊载又是另一渠道，不把尚未公开信息倒放历史决策。",
+      "evidence_match_phrase": "close of business on every Wednesday",
+      "paragraph_ids": [
+        "P39-C07-P003"
+      ],
+      "source_fragment_sha256": [
+        "29255d3b7ec439d5b4f123b71ded03ae572dba79f9dfadd02a16eb01924d9757"
+      ],
+      "printed_pages": [
+        56
+      ],
+      "pdf_pages_one_based": [
+        68
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R15",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 7,
+      "author_meaning": "公众实际持券须扣去银行部持有券，不能直接等于发行总额。",
+      "boundary": "银行券、支票与全部资金量范围不同；此公式绑定该表制度。",
+      "evidence_match_phrase": "The Active Circulation is arrived at",
+      "paragraph_ids": [
+        "P39-C07-P011"
+      ],
+      "source_fragment_sha256": [
+        "13b824becfac9001abf68b576c0498033fdb5826985ab5da0ef634db3f352a61"
+      ],
+      "printed_pages": [
+        59
+      ],
+      "pdf_pages_one_based": [
+        71
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R16",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 7,
+      "author_meaning": "银行家余额1877后不再单独发表；其他存款中具体份额不能观察。",
+      "boundary": "混合科目不允许反推未知同业余额或机构资金流。",
+      "evidence_match_phrase": "Up to the year 1877",
+      "paragraph_ids": [
+        "P39-C07-P025"
+      ],
+      "source_fragment_sha256": [
+        "344ff9a557ee61f36fed125f10350e10fc67b684b128a6273aa8170ffe53e6df"
+      ],
+      "printed_pages": [
+        65
+      ],
+      "pdf_pages_one_based": [
+        77
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R17",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 7,
+      "author_meaning": "其他存款上升在正常期可与较低利率相连，惊慌期却可同时高存款高利率。",
+      "boundary": "先识别状态与季节基线，不能从单一序列强判利率方向。",
+      "evidence_match_phrase": "This is in ordinary times",
+      "paragraph_ids": [
+        "P39-C07-P029"
+      ],
+      "source_fragment_sha256": [
+        "0cf873899df12d4d3e2981559387f6d87a5661f009e0997cba29c4624e71fa90"
+      ],
+      "printed_pages": [
+        68
+      ],
+      "pdf_pages_one_based": [
+        80
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R18",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 7,
+      "author_meaning": "作者比较普通股份行现金及央行余额/公众负债平均约15%，与英格兰银行现金/负债在此前十年平均50%；两者是不同报表比例。",
+      "boundary": "独立核算时须分开资本与公众提款负债；全国存款与银行部负债分母也不得混用。原书历史比例不作当前阈值。",
+      "evidence_match_phrase": "liabilities to the public",
+      "paragraph_ids": [
+        "P39-C07-P038"
+      ],
+      "source_fragment_sha256": [
+        "ac536c180bbe1a44e718cc355a2f3cb6466fcbfa0048527ae65e319584181f34"
+      ],
+      "printed_pages": [
+        73
+      ],
+      "pdf_pages_one_based": [
+        85
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain",
+      "independent_analysis": "按1903示例银行部表，资本和Rest合计18,293,209英镑不是同样可提的公众存款；现金24,442,214/相关公众负债49,379,106=49.499%。这是独立重算，不是作者在该原段明列的公式。"
+    },
+    {
+      "id": "P39-R19",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 8,
+      "author_meaning": "银行实体减少可能由合并造成，并不表示公众网点减少。",
+      "boundary": "正文与表的年份、分行数差异保留，不合成一致现代统计。",
+      "evidence_match_phrase": "this does not necessarily imply any lessening",
+      "paragraph_ids": [
+        "P39-C08-P012"
+      ],
+      "source_fragment_sha256": [
+        "6c3f87f681f0022d4936c4c3c4a3a6984e072a4aaad3aa39ad1837d763dc50cb"
+      ],
+      "printed_pages": [
+        81
+      ],
+      "pdf_pages_one_based": [
+        93
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R20",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 8,
+      "author_meaning": "未催缴与失败时可催缴资本不是当前柜台现金。",
+      "boundary": "潜在资本保障与立即支付缓冲分开，实际催缴能力需另核。",
+      "evidence_match_phrase": "capital which can only be called up",
+      "paragraph_ids": [
+        "P39-C08-P017"
+      ],
+      "source_fragment_sha256": [
+        "c42577cd1ee70630087075334907bb76131fb1058d9765255fbb277f3aa3f3a9"
+      ],
+      "printed_pages": [
+        83
+      ],
+      "pdf_pages_one_based": [
+        95
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R21",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "银行以平均存取经营，仍须准备具体日或时段可能提款。",
+      "boundary": "长周期平均覆盖不能证明每一天或共同冲击下支付充足。",
+      "evidence_match_phrase": "what demand _may_ be made",
+      "paragraph_ids": [
+        "P39-C09-P005"
+      ],
+      "source_fragment_sha256": [
+        "4c9f2d37a8bb0b650a1f16dfa94c26e85341dd447a594233e096f97244093527"
+      ],
+      "printed_pages": [
+        88
+      ],
+      "pdf_pages_one_based": [
+        100
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R22",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "高等级证券在恐慌时也可能缺买者，不宜过度依赖变现。",
+      "boundary": "原书认为Consols例外仍带推断，不能保证现代任何国债随时成交。",
+      "evidence_match_phrase": "should not rely too much on these securities",
+      "paragraph_ids": [
+        "P39-C09-P012"
+      ],
+      "source_fragment_sha256": [
+        "9cca897eb07aa524e678aafcfd5a9232bc9f400b7bfe82fbc2dc0b47bb9c943a"
+      ],
+      "printed_pages": [
+        91
+      ],
+      "pdf_pages_one_based": [
+        103
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R23",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "报告日可能有修饰疑虑，但实际每日资料不可得。",
+      "boundary": "传闻或日期差异不能独自证明某银行造假或一贯修饰。",
+      "evidence_match_phrase": "according to popular belief",
+      "paragraph_ids": [
+        "P39-C09-P025"
+      ],
+      "source_fragment_sha256": [
+        "3b22187fa37cba34288158c88283d42f2110ea2bda877de65b2b19c36ac52640"
+      ],
+      "printed_pages": [
+        95
+      ],
+      "pdf_pages_one_based": [
+        107
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R24",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "表列均数不同于所有银行合计资金的比率。",
+      "boundary": "另算均数发现不完全一致则保留，不偷偷配平。",
+      "evidence_match_phrase": "These averages are not the percentages",
+      "paragraph_ids": [
+        "P39-C09-P023"
+      ],
+      "source_fragment_sha256": [
+        "7d96291fa3d202b15c9e08e2a7db1d2d9b02ddf1f2db5e00c20c50e0d362b3b6"
+      ],
+      "printed_pages": [
+        94
+      ],
+      "pdf_pages_one_based": [
+        106
+      ],
+      "page_anchor_basis": "HTML relocated footnote2 via original in-chapter FNanchor_2_2; footnote1/2 original PDF35/106 visually checked",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R25",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "名为短贷可能在恐慌时不能收回，股票抵押和再融资都可能受阻。",
+      "boundary": "原章铁路股票例是压力假设，不是所有短贷已经逾期。",
+      "evidence_match_phrase": "would _not_ be repaid",
+      "paragraph_ids": [
+        "P39-C09-P027"
+      ],
+      "source_fragment_sha256": [
+        "2ff3ceee517957da3bc26034ba64de636e270e7fd86414d77f3ca0e1f7a98acf"
+      ],
+      "printed_pages": [
+        96
+      ],
+      "pdf_pages_one_based": [
+        108
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R26",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 9,
+      "author_meaning": "少数大客户贷款集中可以形成银行脆弱处。",
+      "boundary": "历史案例未估今日相关性，数量小的客户不必自动高风险。",
+      "evidence_match_phrase": "six million pounds among four customers",
+      "paragraph_ids": [
+        "P39-C09-P042"
+      ],
+      "source_fragment_sha256": [
+        "01179d384b04787cacdf1fb894cb8933ca2d53bb3f449478e84e281b9c83256b"
+      ],
+      "printed_pages": [
+        103
+      ],
+      "pdf_pages_one_based": [
+        115
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R27",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 10,
+      "author_meaning": "经纪人供票可帮助银行调节持票量和到期现金分布。",
+      "boundary": "安排到期不等于消除票据违约、融资或共同危机风险。",
+      "evidence_match_phrase": "he can regulate the supply",
+      "paragraph_ids": [
+        "P39-C10-P006"
+      ],
+      "source_fragment_sha256": [
+        "5cea774273eff742cae289e76568607cb5b362fbe618c2e565497361a6483827"
+      ],
+      "printed_pages": [
+        107
+      ],
+      "pdf_pages_one_based": [
+        119
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R28",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 10,
+      "author_meaning": "经纪人出售票据通常不给逐票背书，而向银行提供持续保证。",
+      "boundary": "保证安排需核真实合同及担保者能力，不当无风险支付。",
+      "evidence_match_phrase": "a continuing guarantee",
+      "paragraph_ids": [
+        "P39-C10-P016"
+      ],
+      "source_fragment_sha256": [
+        "767cc4dcce50ec1639bb0c4e9017d545f0a8bc102b06032112a73b6ee153fab2"
+      ],
+      "printed_pages": [
+        112
+      ],
+      "pdf_pages_one_based": [
+        124
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R29",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 10,
+      "author_meaning": "floaters指在银行之间流转的高等级不记名担保证券。",
+      "boundary": "此处不是浮息债，不得依名称错配金融工具。",
+      "evidence_match_phrase": "“Floaters” are bearer securities",
+      "paragraph_ids": [
+        "P39-C10-P015"
+      ],
+      "source_fragment_sha256": [
+        "92ea42c09b0d9f4a0c5866898891366931e23d5247d189f59eec0b9ec82efbe6"
+      ],
+      "printed_pages": [
+        111
+      ],
+      "pdf_pages_one_based": [
+        123
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R30",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 10,
+      "author_meaning": "央行给经纪人的垫款有固定天数，并非普通随叫随还资金。",
+      "boundary": "原制期限三至十天、利率自Bank Rate起，不当今日设施条款。",
+      "evidence_match_phrase": "for a fixed number of days",
+      "paragraph_ids": [
+        "P39-C10-P018"
+      ],
+      "source_fragment_sha256": [
+        "5ffe9c15269dbdebe984bc89c8f85631721ad99d123485576454ad159cf3200d"
+      ],
+      "printed_pages": [
+        113
+      ],
+      "pdf_pages_one_based": [
+        125
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R31",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 11,
+      "author_meaning": "清算总额通过银行之间净额账户转移结算。",
+      "boundary": "很大清算额不等于等额新现金或某股票机构资金净流入。",
+      "evidence_match_phrase": "automatically balanced each day",
+      "paragraph_ids": [
+        "P39-C11-P015"
+      ],
+      "source_fragment_sha256": [
+        "723d125ca8a751ebf1751e97b6862f8d61d2d5ea9380d8ebed420eee73f24ea3"
+      ],
+      "printed_pages": [
+        120
+      ],
+      "pdf_pages_one_based": [
+        132
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R32",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 11,
+      "author_meaning": "新增Metropolitan Clearing扩大统计覆盖，也影响总额。",
+      "boundary": "制度与范围断点须保留，跨年增长不全归真实交易增加。",
+      "evidence_match_phrase": "a new clearing has been established",
+      "paragraph_ids": [
+        "P39-C11-P017"
+      ],
+      "source_fragment_sha256": [
+        "56247a92d64e8e246bc3ec24cf902c01ff21f4fe915f4d9fea8bfb9db64af2e0"
+      ],
+      "printed_pages": [
+        121
+      ],
+      "pdf_pages_one_based": [
+        133
+      ],
+      "page_anchor_basis": "HTML relocated footnote3 via original in-chapter FNanchor_3_3; footnote1/2 original PDF35/106 visually checked",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R33",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 12,
+      "author_meaning": "金输送成本给出近似金点，外国银行制度仍可改变实际金流。",
+      "boundary": "金本位旧机理不套自由浮动汇率，触价不是必定流金。",
+      "evidence_match_phrase": "the Bank of France interposes difficulties",
+      "paragraph_ids": [
+        "P39-C12-P013"
+      ],
+      "source_fragment_sha256": [
+        "8ae1e79d802ac0ded713c9ed081e21a7dc462040a3b44d9b45829b2ce5208898"
+      ],
+      "printed_pages": [
+        127
+      ],
+      "pdf_pages_one_based": [
+        139
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R34",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 12,
+      "author_meaning": "长汇与短汇的利息调整方向取决于报的是外币数还是英币数。",
+      "boundary": "先核单位、报价倒数及期限，不把所有数同方向加利息。",
+      "evidence_match_phrase": "when we deal with rates quoted in _sterling_",
+      "paragraph_ids": [
+        "P39-C12-P042"
+      ],
+      "source_fragment_sha256": [
+        "9f3536e7c7fe3f7120e4a286aac4017630efe9120fb4a9150a8310928c0f6530"
+      ],
+      "printed_pages": [
+        138
+      ],
+      "pdf_pages_one_based": [
+        150
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R35",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 12,
+      "author_meaning": "demand票可剩余十天，质量和期限影响短汇两个报价。",
+      "boundary": "短汇不自动表示全部即期无信用差异的双边可执行价格。",
+      "evidence_match_phrase": "having up to ten days to run",
+      "paragraph_ids": [
+        "P39-C12-P044"
+      ],
+      "source_fragment_sha256": [
+        "937a47eb79ecc3c827fe237d49867a819ca5a0daf84897806c153632c09de049"
+      ],
+      "printed_pages": [
+        139
+      ],
+      "pdf_pages_one_based": [
+        151
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R36",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 12,
+      "author_meaning": "表中From/To列当日商谈价格范围，纽约脚注另有旧报价单位说明。",
+      "boundary": "不擅当实时买卖价；£10脚注与正文便士/美元不一致，保留待核。",
+      "evidence_match_phrase": "PRICES AS NEGOTIATED",
+      "paragraph_ids": [
+        "P39-C12-P034"
+      ],
+      "source_fragment_sha256": [
+        "6cc234ed6fb6ba321a5c747b3b9a8eebf724a63ebd4e7a3f5c7466758d187576"
+      ],
+      "printed_pages": [
+        135
+      ],
+      "pdf_pages_one_based": [
+        147
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R37",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 12,
+      "author_meaning": "跨国持票的实际回报同时取决于利率和到期汇率。",
+      "boundary": "原近似百分比不是准确年化，更不是无成本必胜套利。",
+      "evidence_match_phrase": "a wide fluctuation in the interest",
+      "paragraph_ids": [
+        "P39-C12-P048"
+      ],
+      "source_fragment_sha256": [
+        "a0c88c039f680f189bdfaf71279785d2ac90a2f37e969195ae1f0a1445d5b41e"
+      ],
+      "printed_pages": [
+        140
+      ],
+      "pdf_pages_one_based": [
+        152
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R38",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 13,
+      "author_meaning": "报纸刊银行报表的时间不同于报表截止与正式发表。",
+      "boundary": "每项消息保留渠道知晓时间，旧日历不作当代固定发布时间。",
+      "evidence_match_phrase": "On Friday mornings the Bank Return",
+      "paragraph_ids": [
+        "P39-C13-P019"
+      ],
+      "source_fragment_sha256": [
+        "135d11d6ed5b7680c5bed93f1804f31887ecb60a8732ab3e7c351c14fdf610fd"
+      ],
+      "printed_pages": [
+        153
+      ],
+      "pdf_pages_one_based": [
+        165
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R39",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 13,
+      "author_meaning": "铁路毛收入增量可能被煤、劳动和材料成本增加抵消。",
+      "boundary": "客货运成本结构为条件解释，不能给全部今日企业固定利润系数。",
+      "evidence_match_phrase": "increase in gross profit may be quite offset",
+      "paragraph_ids": [
+        "P39-C13-P020"
+      ],
+      "source_fragment_sha256": [
+        "358f26031e4edfeb2f8294bb5bc78c9d6d348850dd8e70f336917793a4ee1597"
+      ],
+      "printed_pages": [
+        153
+      ],
+      "pdf_pages_one_based": [
+        165
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R40",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 13,
+      "author_meaning": "贸易金额与数量须一起看，价格变化可使二者不同向。",
+      "boundary": "名义金额上升不直接证明实际业务量或利润上升。",
+      "evidence_match_phrase": "_quantities_ as well as _values_",
+      "paragraph_ids": [
+        "P39-C13-P021"
+      ],
+      "source_fragment_sha256": [
+        "028bb75ed3bb06588af1cb0ea027be1ba16a346dbc6b42c7a3264baaa41e1969"
+      ],
+      "printed_pages": [
+        154
+      ],
+      "pdf_pages_one_based": [
+        166
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R41",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 13,
+      "author_meaning": "原书收盘价格估计与实际成交记录不同，冷门券可能无法按报价成交。",
+      "boundary": "观察价与可执行价分开，没有真实报价深度不推定执行。",
+      "evidence_match_phrase": "The closing prices are estimates only",
+      "paragraph_ids": [
+        "P39-C13-P033"
+      ],
+      "source_fragment_sha256": [
+        "f25016ee81e3b59c67f1a8c074a0d07105faba8c496be46656625285b56198bd"
+      ],
+      "printed_pages": [
+        160
+      ],
+      "pdf_pages_one_based": [
+        172
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R42",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 14,
+      "author_meaning": "激烈竞争可压收费并累积同类固定资产风险，同时网点仍提供便利。",
+      "boundary": "竞争有益处，不能一概认为扩张不稳；地产风险需可核结构。",
+      "evidence_match_phrase": "rates are cut down to attract custom",
+      "paragraph_ids": [
+        "P39-C14-P012"
+      ],
+      "source_fragment_sha256": [
+        "c781bead037605675eb06285c39b70b8b1dd7aaacb3c7348da2eb3138160bb0a"
+      ],
+      "printed_pages": [
+        164
+      ],
+      "pdf_pages_one_based": [
+        176
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R43",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": 14,
+      "author_meaning": "特定存款人的专属担保会锁定本可保护一般存款人的证券。",
+      "boundary": "原引文承认稳健银行也用；查限制范围，不凭单笔即判失败。",
+      "evidence_match_phrase": "ear-mark, for the benefit of particular depositors",
+      "paragraph_ids": [
+        "P39-C14-P014"
+      ],
+      "source_fragment_sha256": [
+        "8a1d48f63563d4c98ac9e2aa985d651fbc8ad8ae36be60ae01d264f0995a334e"
+      ],
+      "printed_pages": [
+        165
+      ],
+      "pdf_pages_one_based": [
+        177
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R44",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": "appendix",
+      "author_meaning": "科尔认为公众用现有存款认购增资可只改变负债归属，不增加全国黄金。",
+      "boundary": "区分国家总量与单家资本结构；这是争论一方，不抹去特里顿条件。",
+      "evidence_match_phrase": "will not add one single golden sovereign",
+      "paragraph_ids": [
+        "P39-A-P017"
+      ],
+      "source_fragment_sha256": [
+        "a636269c11d660d36121e9fa2de242142bb7ace1852603b53cc1752fd1a337d2"
+      ],
+      "printed_pages": [
+        174
+      ],
+      "pdf_pages_one_based": [
+        186
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R45",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": "appendix",
+      "author_meaning": "科尔新增金计算以央行保持现金/负债比例为条件。",
+      "boundary": "45%假设与46.6%历史均值分开；账面余额乘比例不是已到账黄金。",
+      "evidence_match_phrase": "provided that the Bank of England maintains",
+      "paragraph_ids": [
+        "P39-A-P019"
+      ],
+      "source_fragment_sha256": [
+        "ed03bed12fc56c8e75d6e8652a4157d6803b3dc2e68a80532fba9fabbe567235"
+      ],
+      "printed_pages": [
+        175
+      ],
+      "pdf_pages_one_based": [
+        187
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P39-R46",
+      "kind": "source_book_semantic_paraphrase",
+      "chapter": "appendix",
+      "author_meaning": "特里顿拟独立列示、保留银行权属的可释放黄金基金。",
+      "boundary": "未实施提议不记为实际准备；启用转账不重复计金。",
+      "evidence_match_phrase": "but not merged in the Bank figures",
+      "paragraph_ids": [
+        "P39-A-P014"
+      ],
+      "source_fragment_sha256": [
+        "74d82bb7d1097454981e25aa7eb04793d612d29fdaaa7f43abc8cba912dbc0c2"
+      ],
+      "printed_pages": [
+        174
+      ],
+      "pdf_pages_one_based": [
+        186
+      ],
+      "page_anchor_basis": "HTML inline printed-page marker",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    }
+  ],
+  "abstain_conditions": [
+    "数据时点或公开时间不明",
+    "国家与单家或发行部与银行部口径混用",
+    "所需受限资产/融资细节不明",
+    "将旧制度视作现行法律",
+    "用K线或成交量捏造机构账户资金流",
+    "把授予权限记为实际交易",
+    "原书数字冲突未解决却需要准确量化"
+  ],
+  "cross_challenge_questions": [
+    "钱是否真的增加，还是账户或负债身份改变？",
+    "最终支付资源与多家同业余额是否重复计数？",
+    "名为短期的资产在压力下真的能偿还吗？",
+    "准备、负债、资本与受限资产是否同一机构和时点？",
+    "这个指标在正常期和恐慌期的关系是否会反转？",
+    "报价的币种、单位、期限和可执行性是否相同？",
+    "哪项原始记录可以推翻资金流解释？"
+  ],
+  "system_prompt": "你是《The Money Market》1920第三版完整14章及黄金准备附录的证据审核专家。每项原书主张引用rule/chapter/paragraph/printed page，区分作者正文、附录发言、当前观测和现代独立推论。冻结对象、时点、期限和制度。检查资金来源、最终准备、账户重排、资产期限与限制、清算净额、报价单位及首次公开时间。正常/紧张状态未知时不套单一利率方向。不要由日K线捏造资金流，不把旧法规和百分比当现代硬阈值。保留数字与版本冲突，缺必要数据则弃权。跨挑战列可核反证与修订日志，协调者保留未解分歧；独立REGIME与账户风险层可否决行动。本书知识不是验证过的预测能力，不输出校准概率。",
+  "output_contract": [
+    "claim_id",
+    "book_rule_refs",
+    "object_asof_horizon",
+    "original_author_or_quoted_speaker_meaning",
+    "current_observations",
+    "conditional_hypothesis",
+    "alternate_explanations",
+    "falsifiers",
+    "missing_inputs",
+    "revision_log",
+    "supported_partial_or_abstain"
+  ],
+  "predictive_probability": null,
+  "predictive_probabilities_calibrated": false,
+  "current_stock_direction_enabled": false,
+  "model_calls_executed": 0,
+  "risk_authority": "独立REGIME与账户风险层；书中历史数值不直接作为当前参数"
+}

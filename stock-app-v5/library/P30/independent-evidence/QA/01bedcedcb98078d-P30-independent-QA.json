@@ -1,0 +1,436 @@
+{
+  "book_id": "P30",
+  "status": "full_independent_semantic_review_completed_required_corrections_pending",
+  "qualified_pass": false,
+  "reviewer": "value_team; not source author",
+  "source": {
+    "edition": "1874 London second edition Cornell170-page complete scan",
+    "pdf_file": "work/book-experts-v5/practical_team/P30/source/cu31924055332534.pdf",
+    "pdf_sha256": "d7c23891893b17ab18b7742608dea1dd2ace129326ced6b0fc8ee8f0f9350a45",
+    "page_texts_sha256": "9e06d44f569f492abcee25a48652c9663334b4afd77089d5f5093ccc26072b95"
+  },
+  "full_read_coverage": [
+    {
+      "source_file": "source/introduction.txt",
+      "complete_lines": [
+        1,
+        573
+      ],
+      "complete_characters": 32035,
+      "source_sha256": "5468c828b06a9992627314e8be6687b0c7831e7e546d06116b9ac04b06d6ff4b",
+      "dossier_file": "引言深读.md",
+      "dossier_read_complete": true,
+      "finding": "范围条件、骰例与股票区别、零和强言、专业经营者例外和观察条件均对应；无必需改写"
+    },
+    {
+      "source_file": "source/ch01.txt",
+      "complete_lines": [
+        1,
+        426
+      ],
+      "complete_characters": 23108,
+      "source_sha256": "07da771bebc98757ef00a334fcc8c8a70ae3b1a2684237a44b3ba0a1957464e9",
+      "dossier_file": "chapters/ch01.md",
+      "dossier_read_complete": true,
+      "finding": "名义/现金、展期供求、期权买方、成员专类、英美期限差及原例净账对应；抽核Cornell原表相符"
+    },
+    {
+      "source_file": "source/ch02.txt",
+      "complete_lines": [
+        1,
+        343
+      ],
+      "complete_characters": 19012,
+      "source_sha256": "17bbfe02781951f9fc2453df5b852343b69eaa1f901229d0f46a68735bac583b",
+      "dossier_file": "chapters/ch02.md",
+      "dossier_read_complete": true,
+      "finding": "气压计强建议、半年退出、收入率4.5%、两年假设、离场、回补和抽签的条件完整保留，现代边界清楚；未发现必需章稿含义改写"
+    },
+    {
+      "source_file": "source/ch03.txt",
+      "complete_lines": [
+        1,
+        726
+      ],
+      "complete_characters": 42994,
+      "source_sha256": "a3665196f5a00559d1e214354ff6d8b25e6fe402cc619e3873ec0432b5d3f583",
+      "dossier_file": "chapters/ch03.md",
+      "dossier_read_complete": true,
+      "finding": "完整Spectator引信及铁材故事、专业冷酷不宜模仿、早赢归因、结算例外与收益目标移动均对应；无必需章稿含义改写"
+    },
+    {
+      "source_file": "source/ch04.txt",
+      "complete_lines": [
+        1,
+        317
+      ],
+      "complete_characters": 16864,
+      "source_sha256": "54b5ab3b81b82486be951da542c46537a86f1866cf29be103a5f72d882dd54f6",
+      "dossier_file": "chapters/ch04.md",
+      "dossier_read_complete": true,
+      "finding": "贸易利润、证券供给、组织资本、投机/投资粗分与会员表独立复算相合；两处规则表述精度候选见清单"
+    },
+    {
+      "source_file": "source/ch05.txt",
+      "complete_lines": [
+        1,
+        577
+      ],
+      "complete_characters": 31051,
+      "source_sha256": "6041c1f177daac8ad9288a70d091a20e6f56fecae106a311c6212cc12fb746e5",
+      "dossier_file": "chapters/ch05.md",
+      "dossier_read_complete": true,
+      "finding": "通信、贸易集中、信用循环、信息延迟、危机强言、银行准备争论和公众账本设例完整对应；R13精确上下文补纸81–82，R14拆分先入价与发行，准备分母明确。"
+    },
+    {
+      "source_file": "source/ch06.txt",
+      "complete_lines": [
+        1,
+        228
+      ],
+      "complete_characters": 12466,
+      "source_sha256": "55dea9736b803a546bacd61b4c35fbd8b53b3483281d2ca01bec62e52a88c816",
+      "dossier_file": "chapters/ch06.md",
+      "dossier_read_complete": true,
+      "finding": "行动冲动、极端与影响期限、西班牙原19¾与圆整20两例、600损失及独立收益比都对应；规则R15应把暂时因素消散精确回原持续时间要求。"
+    },
+    {
+      "source_file": "source/ch07.txt",
+      "complete_lines": [
+        1,
+        210
+      ],
+      "complete_characters": 11491,
+      "source_sha256": "79c2a6b97740fdaaef65ab179aaa6cb65d0c521a4901dcd4cda2e55fbddf2486",
+      "dossier_file": "chapters/ch07.md",
+      "dossier_read_complete": true,
+      "finding": "差价16分之一、Erie57½原图与稿一致；原股票特定市场、推荐直接/间接利益、短承诺长观察、恐慌必过低强言均保留。R17利益因果和R18跨章混入待修。"
+    },
+    {
+      "source_file": "source/ch08.txt",
+      "complete_lines": [
+        1,
+        226
+      ],
+      "complete_characters": 12408,
+      "source_sha256": "09fd6cd6a426a7eda9f03f84994d93f00ad9d0ea301efcdf6b9090bab97c1a6b",
+      "dossier_file": "chapters/ch08.md",
+      "dossier_read_complete": true,
+      "finding": "资本优势、技能例外、真实义务、短融资与一年恢复错期、十万/八万/一万原图，以及会员失败少的相反评价均对应；R19独立缺一万需条件式。"
+    },
+    {
+      "source_file": "source/ch09.txt",
+      "complete_lines": [
+        1,
+        82
+      ],
+      "complete_characters": 4623,
+      "source_sha256": "d6133babb36acdb1ba302c4aa910946d1b9dc262488fa5d45b8c0d7d4c11e223",
+      "dossier_file": "chapters/ch09.md",
+      "dossier_read_complete": true,
+      "finding": "三项外国券同受巴黎消息、200–300缓冲、150/300亏、50支付缺口和250条件复算皆对应；原¼–½与30/40不擅抹平，票息未来不能填眼前差额。"
+    },
+    {
+      "source_file": "source/ch10.txt",
+      "complete_lines": [
+        1,
+        121
+      ],
+      "complete_characters": 6624,
+      "source_sha256": "8dd0662d9764edb118f02d8dec9cb4541fe16db0402836eb2d97a0a08f368034",
+      "dossier_file": "chapters/ch10.md",
+      "dossier_read_complete": true,
+      "finding": "先抬价、提示两种语气、按客户成交报酬及被叫买就卖的强原意与现代弃权都对应，未把qualified误译资格。无必需语义修正。"
+    },
+    {
+      "source_file": "source/ch11.txt",
+      "complete_lines": [
+        1,
+        194
+      ],
+      "complete_characters": 10890,
+      "source_sha256": "771cdc2b3369f939783458d1772143ab8c29445db66260fa9021d6f5ec5ac8cd",
+      "dossier_file": "chapters/ch11.md",
+      "dossier_read_complete": true,
+      "finding": "名单偏好、收息时点、股份组织发展、社会净益强言与未必无良修订均保留；证书外观不证明矿存在。主原图128修订已目视。无必需语义修正。"
+    },
+    {
+      "source_file": "source/ch12.txt",
+      "complete_lines": [
+        1,
+        125
+      ],
+      "complete_characters": 6877,
+      "source_sha256": "9d33a981700bf26be23a3153fca5e4453579be967f770a9872bc03f2afe33777",
+      "dossier_file": "chapters/ch12.md",
+      "dossier_read_complete": true,
+      "finding": "市场迁移、真实商贸对冲未给方向、2.218b增量非存量、收息目标与价变、3%条件和低波动非全部投机均对应；纸120原图已看。无必需语义修正。"
+    },
+    {
+      "source_file": "source/ch13.txt",
+      "complete_lines": [
+        1,
+        180
+      ],
+      "complete_characters": 9862,
+      "source_sha256": "73f88e04c87233a96ab80d915a1d9c6e146d4e4abf55305dc9a52c1bc1b96c39",
+      "dossier_file": "chapters/ch13.md",
+      "dossier_read_complete": true,
+      "finding": "客户价差、同账期佣金例外、数量/单位费用、宽差防险、无人承接与最后做市者亦可能损失均对应；35/38现金分母及窄价原图核。无必需语义修正。"
+    },
+    {
+      "source_file": "source/ch14.txt",
+      "complete_lines": [
+        1,
+        208
+      ],
+      "complete_characters": 10964,
+      "source_sha256": "c1cfffc210761cfa6cd9d047a18b5bdc1a8e9ffd6b03d657e0976275fdee20b5",
+      "dossier_file": "chapters/ch14.md",
+      "dossier_read_complete": true,
+      "finding": "真实纠正双方向、永久改变、暂时保护、三类及99/100强言对应；一处章稿引用有资本铁路恢复须第8而非7，R30边界强言来源补131。"
+    },
+    {
+      "source_file": "source/ch15.txt",
+      "complete_lines": [
+        1,
+        1000
+      ],
+      "complete_characters": 35095,
+      "source_sha256": "86146d2051389829261167b14745abaa350b871be278b9fb17fe1dd25a3197d0",
+      "dossier_file": "chapters/ch15.md",
+      "dossier_read_complete": true,
+      "finding": "Crump原意/Price引信明确分开；两信完整、供给收缩与求贷、兑换制度/可供出售数量、行业全表和未来资金饥荒强言均对应。全部12表重新对原图转录，木材10万差、总资本300万差及求贷100万与150万差保留，未将它们替作者改数。"
+    }
+  ],
+  "full_15chapters_plus_introduction": true,
+  "all34rules_semantically_reviewed": true,
+  "all_dossier_source_files": [
+    "引言深读.md",
+    "全书综合与附录.md",
+    "专家说明.md",
+    "专家定义.json (all fields and all34rules)",
+    "章节与阅读审计.json (entire)",
+    "validation.json (entire)"
+  ],
+  "front_back_all17images_and_OCR": [
+    {
+      "pdf_page": 1,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "cover title author price10/6 library shelfmark; OCR empty with meaningful cover text",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf1.png"
+    },
+    {
+      "pdf_page": 2,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "other author works advertisement fully read; not counted as other-book reading",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf2.png"
+    },
+    {
+      "pdf_page": 3,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "Cornell agriculture-library bookplate; heraldic microletters not fully transcribed",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf3.png"
+    },
+    {
+      "pdf_page": 4,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "digital provenance and US rights statement",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf4.png"
+    },
+    {
+      "pdf_page": 5,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "original title second edition London1874 publisher and Seneca epigraph",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf5.png"
+    },
+    {
+      "pdf_page": 6,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "no author prose; handwritten shelfmark HG6015 C92",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf6.png"
+    },
+    {
+      "pdf_page": 7,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf7.png"
+    },
+    {
+      "pdf_page": 8,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf8.png"
+    },
+    {
+      "pdf_page": 9,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf9.png"
+    },
+    {
+      "pdf_page": 10,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf10.png"
+    },
+    {
+      "pdf_page": 11,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf11.png"
+    },
+    {
+      "pdf_page": 12,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "complete table of contents; genuine chapters checked against body not subheading start",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf12.png"
+    },
+    {
+      "pdf_page": 166,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "visually blank no book prose",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf166.png"
+    },
+    {
+      "pdf_page": 167,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "visually blank no book prose",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf167.png"
+    },
+    {
+      "pdf_page": 168,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "visually blank no book prose",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf168.png"
+    },
+    {
+      "pdf_page": 169,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "visually blank no book prose",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf169.png"
+    },
+    {
+      "pdf_page": 170,
+      "all_extractable_OCR_read": true,
+      "original_image_actually_viewed": true,
+      "classification": "cloth backcover; OCR random texture garbage not missing prose",
+      "image_file": "work/book-experts-v5/practical_team/P30/source-review/front-back-cornell-pdf170.png"
+    }
+  ],
+  "actual_original_image_pages_viewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    17,
+    27,
+    32,
+    33,
+    34,
+    67,
+    70,
+    78,
+    79,
+    101,
+    103,
+    104,
+    108,
+    113,
+    114,
+    117,
+    118,
+    119,
+    128,
+    132,
+    136,
+    143,
+    144,
+    150,
+    151,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170
+  ],
+  "independent_count": {
+    "chapter_body_han": [
+      2226,
+      2228,
+      2549,
+      2366,
+      2383,
+      2296,
+      2256,
+      2268,
+      2099,
+      2212,
+      2253,
+      2194,
+      2169,
+      2156,
+      3117
+    ],
+    "total": 34772,
+    "minimum": 2099,
+    "method": "Only Han in正文 markers; exclude heading lines and paper locator parentheses; introduction/synthesis excluded"
+  },
+  "source_evidence": "34 rules/168 handselected complete-page exact Unicode contexts; full continuous chapter context additionally preserved; page boundaries may split natural paragraphs",
+  "findings_file": "work/book-experts-v5/value_team/peer-QA/P30-required-findings.json",
+  "findings_sha256": "f2ec13b034303fafe57f27aa96df2f22dca51f3abef328c2d2282db1e7530666",
+  "expert_candidate_file": "work/book-experts-v5/value_team/peer-QA/P30-expert-candidate.json",
+  "candidate_sha256": "3a49db4ed957155ff562ddff2f0ead81cc6802f7fd5a664c9eafeab4f4b4f51f",
+  "numeric_checks": [
+    "work/book-experts-v5/value_team/peer-QA/P30-ch01-independent-numeric.json",
+    "work/book-experts-v5/value_team/peer-QA/P30-ch04-independent-numeric.json",
+    "work/book-experts-v5/value_team/peer-QA/P30-ch15-independent-tables.json"
+  ],
+  "review_limits": [
+    "All full extractable chapter texts and dossier originals actually read; selected images and ALL15th chapter numeric tables viewed.",
+    "Every scan glyph not proofread; OCR defects possible.",
+    "No external historical newspaper/accounting/1900s law audit, no present-market calls, no backtest/calibration.",
+    "Evidence page contexts may start/end inside a paragraph; full source chapter supplied alongside to preserve discourse."
+  ],
+  "original_author_files_unchanged": true,
+  "canonical_modified": false,
+  "market_calls": 0,
+  "predictive_calibration": false,
+  "whole_scan_glyphs_proofread": false,
+  "completed_utc": "2026-10-13T13:10:17.695511+00:00"
+}

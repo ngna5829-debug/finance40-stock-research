@@ -1,0 +1,132 @@
+{
+  "book_id": "P09",
+  "reviewer": "practical_books_independent_of_index_author",
+  "completed_utc": "2026-10-13T14:22:36.769136+00:00",
+  "status": "full_semantic_review_complete_required_changes_pending_root_manual_merge",
+  "final_qualified": false,
+  "review_scope": {
+    "all_31_original_chapters": true,
+    "all_31_whole_chinese_dossiers": true,
+    "all_66_original_notes_including_nested30_and35": true,
+    "all_31_expert_rules_all_fields": true,
+    "all_80_original_exact_evidence_segments_in_complete_sources": true,
+    "all_21_proposed_new_full_context_segments": true,
+    "whole_front_matter_preface_contents_edition_note": true,
+    "all_four_original_errata": true,
+    "complete_original_index": true,
+    "all_printer_and_publisher_advertisement_text": true,
+    "complete_original_PG_license": true,
+    "whole_synthesis_reader_explanation_expert_prompt_boundaries": true,
+    "complete_metadata_and_all31_identical_plan_audit_chapter_entries": true,
+    "original_scan_glyph_review": false,
+    "not_merely_count_or_hash_review": true
+  },
+  "edition_boundary": "1817 London John Murray first-edition text; duplicate V and VIII labels retained as V* and VIII*; not 1821 third edition",
+  "source_sha256": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+  "source_bytes": 714459,
+  "source_line_count": 12162,
+  "review_time_author_hashes": {
+    "source/original.txt": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+    "source-metadata.json": "30c130d8852463f3df8759718e2907661bf7ae6a7c355066d249facd2d3a5f28",
+    "专家定义.json": "fa56769d410a6fbb58e7c5844b2281abde5679b31bf65437b99b2545d22a26c5",
+    "章节与阅读审计.json": "486bffb86126ff67f830b30805d73140da7109dca9916493be49ae579546318f",
+    "chapter-plan.json": "e6195a2d86ed43427f14eb48ebad16d52e8ba5e1354ffb5416bfdc5bd9ab6dc5",
+    "章节深读.md": "12d60599b6d2259269611311b2e0638f398dfaa3e4cb3cc22c588d839816b1f4",
+    "全书综合与前后置页.md": "327c9a75f10dd6f37983deafcc0f60a040424813463fbf5a0f6e547c188f9438",
+    "专家说明.md": "fec373f0b2b47c3b2f2125a20e192c56de12b0be3528807b0cd931c739daa7f2",
+    "self-validation.json": "e071dce53878a5cd6a375b635036066e40e024f8b0e9ea37a9561babdd2f178b"
+  },
+  "original_chapter_strict_han_counts": [
+    3136,
+    2936,
+    2145,
+    2136,
+    2847,
+    2726,
+    3074,
+    2112,
+    2565,
+    2085,
+    2175,
+    2574,
+    2480,
+    2263,
+    2534,
+    3130,
+    2774,
+    2307,
+    2418,
+    2589,
+    2635,
+    2487,
+    2307,
+    2326,
+    2336,
+    2284,
+    2745,
+    2208,
+    2113,
+    2233,
+    3079
+  ],
+  "original_total_han": 77759,
+  "original_minimum_han": 2085,
+  "findings": {
+    "six_precise_dossier_edits_in_four_chapters": true,
+    "major_direction_precision": [
+      "CH27 commissioners independent of ministers",
+      "CH31 note59 used real price instead of cost of production"
+    ],
+    "rate_scope_precision": [
+      "CH01 10% level not10percentagepoints",
+      "CH27 7% per annum",
+      "CH31 5/7/8/9/10% annual-equivalent and last200million scope"
+    ],
+    "attribution_precision": [
+      "CH14 ordinary incidence sentence follows closed Smith quotation in acquired text"
+    ],
+    "new_rule_source_support_additions": 21,
+    "rule_core_author_meanings_changed": false,
+    "original_numbers_silently_corrected": false
+  },
+  "independent_arithmetic_files": [
+    "work/book-experts-v5/practical_team/P09-C01-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C02-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C11-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C13-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C16-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C21-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C29-independent-arithmetic.json",
+    "work/book-experts-v5/practical_team/P09-C31-independent-arithmetic.json"
+  ],
+  "preserved_original_limit_records": [
+    "work/book-experts-v5/index_team/P09/source/ch01-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch06-arithmetic-notes.json",
+    "work/book-experts-v5/index_team/P09/source/ch11-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch15-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch16-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch21-source-limits.json",
+    "work/book-experts-v5/index_team/P09/source/ch29-source-limits.json"
+  ],
+  "source_limits": [
+    "未取得1817原扫描；原印字形、具体每段纸页/PDF页和电子转录差不可虚报已核。",
+    "官方UTF8所标1817版本语义覆盖；不混1821第三版或另立Machinery章。",
+    "全部源设例与历史数字保持原数；复算只是模型内检验，非历史准确性或预测实验保证。",
+    "索引压缩及引作者观点不得覆盖正文条件；引文不等于全部被引书已读。",
+    "未读取别版、外部现代合同/政策/论文、未验证当前市场或实测经济因果。",
+    "不担保扫描每字或全部历史事实，不构造校准概率，不启用当前股票判断。"
+  ],
+  "candidate_artifacts": {
+    "P09-corrected-expert-candidate.json": "54a32e85863f2889445149015e942659fd3807940d1bbc0934ac93ebaaf171a9",
+    "P09-source-anchor-additions.json": "7ef7f694036ed99b18e2a7e2b0b1958c465475755efb419b2c70a323dd5f8fd4",
+    "P09-required-findings.json": "edba51311fe8d3b0732d77adecdaa7669c6ceebea8fdecedceecbd719ce6cd27"
+  },
+  "mechanical_verification_file": "P09-mechanical-verification.json",
+  "reading_checkpoint_file": "P09-QA-progress.json",
+  "author_finalizer_run": false,
+  "canonical_author_artifacts_modified": false,
+  "goal_tools_called": false,
+  "current_stock_decision_enabled": false,
+  "financial_experiments_run": false,
+  "full40_book_project_marked_complete": false
+}

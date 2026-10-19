@@ -1,0 +1,1259 @@
+{
+  "book_id": "P21",
+  "status": "final_metadata_and_hash_confirmed_passed_with_source_limits",
+  "final_hash_pass": true,
+  "metadata_only_not_additional_whole_book_read": true,
+  "previous_content_confirmation": "P21-merged-content-confirmation.json",
+  "previous_content_confirmation_SHA256": "da7f8aabd0097ab6a494f1970bea7e3bf539222971a1cb1697ff3f34ffc9ed9a",
+  "checks_passed": 308,
+  "checks": [
+    {
+      "check": "previous merged content independently passed",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA 章节与阅读审计.json",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA 独立复核.json",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA validation.json",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "final root manifest current SHA 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R01",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R01",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R01",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R02",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R02",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R02",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R03",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R03",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R03",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R04",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R04",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R04",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R05",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R05",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R05",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R06",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R06",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R06",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R07",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R07",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R07",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R08",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R08",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R08",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R09",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R09",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R09",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R10",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R10",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R10",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R11",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R11",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R11",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R12",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R12",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R12",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R13",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R13",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R13",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R14",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R14",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R14",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R15",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R15",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R15",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R16",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R16",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R16",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R17",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R17",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R17",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R18",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R18",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R18",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R19",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R19",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R19",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R20",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R20",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R20",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R21",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R21",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R21",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R22",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R22",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R22",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R23",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R23",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R23",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R24",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R24",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R24",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R25",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R25",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R25",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R26",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R26",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R26",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R27",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R27",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R27",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R28",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R28",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R28",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R29",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R29",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R29",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R30",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R30",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R30",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R31",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R31",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R31",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R32",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R32",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R32",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R33",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R33",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R33",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R34",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R34",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R34",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R35",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R35",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R35",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R36",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R36",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R36",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R37",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R37",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R37",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R38",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R38",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R38",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R39",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R39",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R39",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R40",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R40",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R40",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R41",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R41",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R41",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R42",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R42",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R42",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R43",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R43",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R43",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R44",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R44",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R44",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R45",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R45",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R45",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R46",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R46",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R46",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R47",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R47",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R47",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R48",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R48",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R48",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R49",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R49",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R49",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R50",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R50",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R50",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R51",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R51",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R51",
+      "pass": true
+    },
+    {
+      "check": "unchanged semantic fields P21-R52",
+      "pass": true
+    },
+    {
+      "check": "unchanged evidence fields P21-R52",
+      "pass": true
+    },
+    {
+      "check": "context metadata change only P21-R52",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/facsimile-pages.json",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch23.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch22.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch20.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch08.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch09.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch21.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/facsimile-layout.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch19.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch25.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/publisher-advertisements.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch24.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch18.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch26.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/catalog.html",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/index.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/staging-catalog.html",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/original-analytical-contents.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/preface.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch16.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch02.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch03.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch17.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch01.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch15.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch14.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch04.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch10.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/Clark_1908_Distribution_of_Wealth.pdf",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch11.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch05.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch13.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch07.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/OLL_2011_ebook.pdf",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch06.txt",
+      "pass": true
+    },
+    {
+      "check": "original source and source ledger SHA source/ch12.txt",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch01.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch02.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch03.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch04.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch05.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch06.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch07.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch08.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch09.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch10.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch11.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch12.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch13.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch14.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch15.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch16.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch17.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch18.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch19.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch20.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch21.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch22.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch23.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch24.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch25.md",
+      "pass": true
+    },
+    {
+      "check": "chapter current unchanged SHA ch26.md",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R01",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R02",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R03",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R04",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R05",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R06",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R07",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R08",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R09",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R10",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R11",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R12",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R13",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R14",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R15",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R16",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R17",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R18",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R19",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R20",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R21",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R22",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R23",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R24",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R25",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R26",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R27",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R28",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R29",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R30",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R31",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R32",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R33",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R34",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R35",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R36",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R37",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R38",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R39",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R40",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R41",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R42",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R43",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R44",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R45",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R46",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R47",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R48",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R49",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R50",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R51",
+      "pass": true
+    },
+    {
+      "check": "full context current unchanged SHA P21-R52",
+      "pass": true
+    },
+    {
+      "check": "all131 precise fragment records unchanged",
+      "pass": true
+    },
+    {
+      "check": "qualified status propagated",
+      "pass": true
+    },
+    {
+      "check": "final pending flag false",
+      "pass": true
+    },
+    {
+      "check": "count metadata unchanged",
+      "pass": true
+    },
+    {
+      "check": "hash pointers current",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA 章节深读.md",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA rules-data.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch02-evidence-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch03-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch07-original-wording-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch11-original-wording-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch12-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch13-formula-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch15-diagram-numeric-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch16-diagram-and-numeric-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch19-original-direction-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch21-formula-and-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch24-measurement-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/ch26-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/no-OCR-classification.json",
+      "pass": true
+    },
+    {
+      "check": "audit final artifact SHA source-review/nonchapter-reading-audit.json",
+      "pass": true
+    },
+    {
+      "check": "limitations and nonexecution retained",
+      "pass": true
+    }
+  ],
+  "current_hashes": {
+    "专家定义.json": "01d92269fafe88d8ac6fab5f35b47880cc6e8a3edc7d4f4410144a6995300ec8",
+    "章节与阅读审计.json": "08d748ab579ce55c70b586178f2176a87b0d6a91b4f39f189599f7909b558d17",
+    "独立复核.json": "7ac534ddffab5d08371c067ae3738241e7b0e4c56ea68e096c27efaa6a9dbd1a",
+    "chapter-plan.json": "2615a17bc3f3b9fdcf27d4970c7eee3fd809d1d336a31e953d702a037895b112",
+    "validation.json": "780e3357e036e1a6b30946862153e1917a1fb04ecf172307a06d2bea5b1b2976",
+    "专家说明.md": "d48508c2ea431afded949306116eafa30d88da1bc68ce6d4ad59e4d6c6098369",
+    "全书综合与附录.md": "46c4952e0f0c063b0ec31ba2e1e33659fa1103299a0a6f2084fbebd196c44d7f"
+  },
+  "strict_body_han_total": 76009,
+  "minimum_chapter_han": 2530,
+  "locator_fragments": 131,
+  "complete_original_contexts": 52,
+  "all_scan_glyphs_verified": false,
+  "canonical_not_modified_by_reviewer": true,
+  "updated_utc": "2026-10-13T15:04:37.969670+00:00"
+}

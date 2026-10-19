@@ -1,0 +1,616 @@
+{
+  "all_unique_ClearLake_income_cells_fig52_53_54_55_511_512_515_520_521_524_526": [
+    {
+      "row": "Gross sales",
+      "prior": 105000,
+      "current": 126000,
+      "printed_prior_percent": null,
+      "printed_current_percent": null,
+      "recalculated_prior_percent": null,
+      "recalculated_current_percent": null
+    },
+    {
+      "row": "Returns allowances",
+      "prior": 5000,
+      "current": 6000,
+      "printed_prior_percent": null,
+      "printed_current_percent": null,
+      "recalculated_prior_percent": null,
+      "recalculated_current_percent": null
+    },
+    {
+      "row": "Net sales",
+      "prior": 100000,
+      "current": 120000,
+      "printed_prior_percent": 100,
+      "printed_current_percent": 100,
+      "recalculated_prior_percent": 100.0,
+      "recalculated_current_percent": 100.0
+    },
+    {
+      "row": "COGS",
+      "prior": 50000,
+      "current": 60000,
+      "printed_prior_percent": 50,
+      "printed_current_percent": 50,
+      "recalculated_prior_percent": 50.0,
+      "recalculated_current_percent": 50.0
+    },
+    {
+      "row": "Gross profit",
+      "prior": 50000,
+      "current": 60000,
+      "printed_prior_percent": 50,
+      "printed_current_percent": 50,
+      "recalculated_prior_percent": 50.0,
+      "recalculated_current_percent": 50.0
+    },
+    {
+      "row": "Rent",
+      "prior": 5000,
+      "current": 5500,
+      "printed_prior_percent": 5,
+      "printed_current_percent": 5,
+      "recalculated_prior_percent": 5.0,
+      "recalculated_current_percent": 4.583333333333333
+    },
+    {
+      "row": "Depreciation",
+      "prior": 2500,
+      "current": 3600,
+      "printed_prior_percent": 3,
+      "printed_current_percent": 3,
+      "recalculated_prior_percent": 2.5,
+      "recalculated_current_percent": 3.0
+    },
+    {
+      "row": "Salaries",
+      "prior": 3000,
+      "current": 5400,
+      "printed_prior_percent": 3,
+      "printed_current_percent": 5,
+      "recalculated_prior_percent": 3.0,
+      "recalculated_current_percent": 4.5
+    },
+    {
+      "row": "Utilities",
+      "prior": 1500,
+      "current": 2500,
+      "printed_prior_percent": 2,
+      "printed_current_percent": 2,
+      "recalculated_prior_percent": 1.5,
+      "recalculated_current_percent": 2.083333333333333
+    },
+    {
+      "row": "Operating income",
+      "prior": 38000,
+      "current": 43000,
+      "printed_prior_percent": 38,
+      "printed_current_percent": 36,
+      "recalculated_prior_percent": 38.0,
+      "recalculated_current_percent": 35.833333333333336
+    },
+    {
+      "row": "Interest",
+      "prior": 3000,
+      "current": 2000,
+      "printed_prior_percent": 3,
+      "printed_current_percent": 2,
+      "recalculated_prior_percent": 3.0,
+      "recalculated_current_percent": 1.6666666666666667
+    },
+    {
+      "row": "Tax",
+      "prior": 5000,
+      "current": 6000,
+      "printed_prior_percent": 5,
+      "printed_current_percent": 5,
+      "recalculated_prior_percent": 5.0,
+      "recalculated_current_percent": 5.0
+    },
+    {
+      "row": "Net income",
+      "prior": 30000,
+      "current": 35000,
+      "printed_prior_percent": 30,
+      "printed_current_percent": 29,
+      "recalculated_prior_percent": 30.0,
+      "recalculated_current_percent": 29.166666666666668
+    }
+  ],
+  "ClearLake_income_arithmetic": {
+    "prior_net_sales": 100000,
+    "current_net_sales": 120000,
+    "prior_gross": 50000,
+    "current_gross": 60000,
+    "prior_OI": 38000,
+    "current_OI": 43000,
+    "prior_NI": 30000,
+    "current_NI": 35000,
+    "OI_growth_original_and_recomputed": 5000
+  },
+  "EBITDA_error": {
+    "book_values": [
+      19500,
+      23400
+    ],
+    "book_subtraction_calculations": [
+      19500,
+      23400
+    ],
+    "correct_addbacks": [
+      40500,
+      46600
+    ],
+    "zero_amortization_assumed_by_example": true,
+    "EBITDA_notCFO": true,
+    "Apple_2020_book108_89million_unexplained": true,
+    "Apple_independent_NI_plusTaxes_plusInterest_plusDA_million": 81020,
+    "Apple_independent_inputs_million": [
+      57411,
+      9680,
+      2873,
+      11056
+    ],
+    "Apple_entire10K_read": false,
+    "Apple_primary_source": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+  },
+  "all_unique_balance_cells_fig57_58_59_511_512_513_515_522_523_525": [
+    {
+      "row": "Cash",
+      "prior": 90000,
+      "current": 110000,
+      "printed_prior_percent": 45,
+      "printed_current_percent": 44,
+      "recalculated_prior_percent": 45.0,
+      "recalculated_current_percent": 44.0
+    },
+    {
+      "row": "AR",
+      "prior": 20000,
+      "current": 30000,
+      "printed_prior_percent": 10,
+      "printed_current_percent": 12,
+      "recalculated_prior_percent": 10.0,
+      "recalculated_current_percent": 12.0
+    },
+    {
+      "row": "Inventory",
+      "prior": 35000,
+      "current": 40000,
+      "printed_prior_percent": 18,
+      "printed_current_percent": 16,
+      "recalculated_prior_percent": 17.5,
+      "recalculated_current_percent": 16.0
+    },
+    {
+      "row": "Short-term investments",
+      "prior": 15000,
+      "current": 20000,
+      "printed_prior_percent": 8,
+      "printed_current_percent": 8,
+      "recalculated_prior_percent": 7.5,
+      "recalculated_current_percent": 8.0
+    },
+    {
+      "row": "Total current assets",
+      "prior": 160000,
+      "current": 200000,
+      "printed_prior_percent": 80,
+      "printed_current_percent": 80,
+      "recalculated_prior_percent": 80.0,
+      "recalculated_current_percent": 80.0
+    },
+    {
+      "row": "Equipment",
+      "prior": 40000,
+      "current": 50000,
+      "printed_prior_percent": 20,
+      "printed_current_percent": 20,
+      "recalculated_prior_percent": 20.0,
+      "recalculated_current_percent": 20.0
+    },
+    {
+      "row": "Total assets",
+      "prior": 200000,
+      "current": 250000,
+      "printed_prior_percent": 100,
+      "printed_current_percent": 100,
+      "recalculated_prior_percent": 100.0,
+      "recalculated_current_percent": 100.0
+    },
+    {
+      "row": "AP",
+      "prior": 60000,
+      "current": 75000,
+      "printed_prior_percent": 30,
+      "printed_current_percent": 30,
+      "recalculated_prior_percent": 30.0,
+      "recalculated_current_percent": 30.0
+    },
+    {
+      "row": "Unearned revenue",
+      "prior": 10000,
+      "current": 25000,
+      "printed_prior_percent": 5,
+      "printed_current_percent": 10,
+      "recalculated_prior_percent": 5.0,
+      "recalculated_current_percent": 10.0
+    },
+    {
+      "row": "Total current liabilities",
+      "prior": 70000,
+      "current": 100000,
+      "printed_prior_percent": 35,
+      "printed_current_percent": 40,
+      "recalculated_prior_percent": 35.0,
+      "recalculated_current_percent": 40.0
+    },
+    {
+      "row": "Notes payable",
+      "prior": 40000,
+      "current": 50000,
+      "printed_prior_percent": 20,
+      "printed_current_percent": 20,
+      "recalculated_prior_percent": 20.0,
+      "recalculated_current_percent": 20.0
+    },
+    {
+      "row": "Total liabilities",
+      "prior": 110000,
+      "current": 150000,
+      "printed_prior_percent": 55,
+      "printed_current_percent": 60,
+      "recalculated_prior_percent": 55.00000000000001,
+      "recalculated_current_percent": 60.0
+    },
+    {
+      "row": "Common stock",
+      "prior": 75000,
+      "current": 80000,
+      "printed_prior_percent": 38,
+      "printed_current_percent": 32,
+      "recalculated_prior_percent": 37.5,
+      "recalculated_current_percent": 32.0
+    },
+    {
+      "row": "Retained earnings",
+      "prior": 15000,
+      "current": 20000,
+      "printed_prior_percent": 8,
+      "printed_current_percent": 8,
+      "recalculated_prior_percent": 7.5,
+      "recalculated_current_percent": 8.0
+    },
+    {
+      "row": "Total equity",
+      "prior": 90000,
+      "current": 100000,
+      "printed_prior_percent": 45,
+      "printed_current_percent": 40,
+      "recalculated_prior_percent": 45.0,
+      "recalculated_current_percent": 40.0
+    },
+    {
+      "row": "Total liabilities equity",
+      "prior": 200000,
+      "current": 250000,
+      "printed_prior_percent": 100,
+      "printed_current_percent": 100,
+      "recalculated_prior_percent": 100.0,
+      "recalculated_current_percent": 100.0
+    }
+  ],
+  "balance_totals_recomputed": {
+    "prior_CA": 160000,
+    "current_CA": 200000,
+    "prior_total_assets": 200000,
+    "current_total_assets": 250000,
+    "prior_current_L": 70000,
+    "current_current_L": 100000,
+    "prior_total_L": 110000,
+    "current_total_L": 150000,
+    "prior_equity": 90000,
+    "current_equity": 100000
+  },
+  "RE_fig510_511": {
+    "prior": [
+      10000,
+      30000,
+      -25000,
+      15000
+    ],
+    "current": [
+      15000,
+      35000,
+      -30000,
+      20000
+    ],
+    "prior_check": 15000,
+    "current_check": 20000
+  },
+  "equity_fig514_all_nonzero_and_zero_cells": {
+    "columns": [
+      "common",
+      "APIC",
+      "retained",
+      "treasury",
+      "total"
+    ],
+    "begin": [
+      75000,
+      0,
+      15000,
+      0,
+      90000
+    ],
+    "net_income": [
+      null,
+      null,
+      35000,
+      null,
+      35000
+    ],
+    "dividends": [
+      null,
+      null,
+      -30000,
+      null,
+      -30000
+    ],
+    "issuance": [
+      5000,
+      null,
+      null,
+      null,
+      5000
+    ],
+    "end": [
+      80000,
+      0,
+      20000,
+      0,
+      100000
+    ],
+    "prose_onlytwoevents_omitsissuance": true
+  },
+  "cashflow_fig516_to519": {
+    "operating_rows": [
+      35000,
+      3600,
+      -10000,
+      -5000,
+      15000,
+      15000
+    ],
+    "adjustments_subtotal": 18600,
+    "CFO": 53600,
+    "investing_rows": [
+      -5000,
+      -13600
+    ],
+    "CFI": -18600,
+    "financing_rows": [
+      10000,
+      5000,
+      -30000
+    ],
+    "CFF": -15000,
+    "total_increase": 20000,
+    "begin": 90000,
+    "end": 110000,
+    "all_additions_checked": true
+  },
+  "capex_example": {
+    "equipment_net_difference": 10000,
+    "depreciation": 3600,
+    "cash_capex_under_no_disposal_noncash_assumption": 13600
+  },
+  "workingcapital_and_OCF_formula_issue": {
+    "prior_ARplusInventory_minusAPminusUnearned": -15000,
+    "current_ARplusInventory_minusAPminusUnearned": -30000,
+    "delta": -15000,
+    "operatingincome_adddep_subtax_subdelta": 55600,
+    "reportedCFO": 53600,
+    "unhandledinterestdifference": 2000,
+    "printed_formula_undefined_change_sign": true
+  },
+  "freecash_example": {
+    "book_CFO_less_capex": 40000,
+    "notautomaticallysame_unleveredFCFF": true
+  },
+  "Excel_formulas_visuallyread": {
+    "income_fig521": "Eachline B[row]/$B$4 and E[row]/$E$4; anchorednet-salesrow4",
+    "balance_fig523": "B[row]/B$11, anchoredtotal-assetsrow11; blanks/headingrowsnotnumbers"
+  },
+  "integer_rounding_does_not_mean_no_ratio_change": {
+    "rent_change_pp": -0.41666666666666696,
+    "dep_change_pp": 0.5,
+    "utilities_change_pp": 0.583333333333333,
+    "salary_change_pp": 1.5,
+    "OI_change_pp": -2.1666666666666643,
+    "NI_change_pp": -0.8333333333333321,
+    "STinvest_change_pp": 0.5
+  },
+  "Charlie_fig526_all_cells": [
+    {
+      "row": "Gross sales",
+      "printed_value": 748000,
+      "printed_percent": null,
+      "recomputed_percent_of_printedvalue": null
+    },
+    {
+      "row": "Returns allowances",
+      "printed_value": 41000,
+      "printed_percent": null,
+      "recomputed_percent_of_printedvalue": null
+    },
+    {
+      "row": "Net sales",
+      "printed_value": 707000,
+      "printed_percent": 100,
+      "recomputed_percent_of_printedvalue": 100.0
+    },
+    {
+      "row": "COGS",
+      "printed_value": 418000,
+      "printed_percent": 59,
+      "recomputed_percent_of_printedvalue": 59.12305516265912
+    },
+    {
+      "row": "Gross profit",
+      "printed_value": 289000,
+      "printed_percent": 41,
+      "recomputed_percent_of_printedvalue": 40.87694483734088
+    },
+    {
+      "row": "Rent",
+      "printed_value": 75000,
+      "printed_percent": 11,
+      "recomputed_percent_of_printedvalue": 10.608203677510609
+    },
+    {
+      "row": "Depreciation",
+      "printed_value": 5000,
+      "printed_percent": 1,
+      "recomputed_percent_of_printedvalue": 0.7072135785007072
+    },
+    {
+      "row": "Salaries",
+      "printed_value": 85000,
+      "printed_percent": 12,
+      "recomputed_percent_of_printedvalue": 12.022630834512023
+    },
+    {
+      "row": "Utilities",
+      "printed_value": 25000,
+      "printed_percent": 4,
+      "recomputed_percent_of_printedvalue": 3.536067892503536
+    },
+    {
+      "row": "Operating income",
+      "printed_value": 99000,
+      "printed_percent": 14,
+      "recomputed_percent_of_printedvalue": 14.002828854314004
+    },
+    {
+      "row": "Interest",
+      "printed_value": 1000,
+      "printed_percent": 0,
+      "recomputed_percent_of_printedvalue": 0.14144271570014144
+    },
+    {
+      "row": "Tax",
+      "printed_value": 14000,
+      "printed_percent": 2,
+      "recomputed_percent_of_printedvalue": 1.9801980198019802
+    },
+    {
+      "row": "Net income",
+      "printed_value": 84000,
+      "printed_percent": 12,
+      "recomputed_percent_of_printedvalue": 11.881188118811881
+    }
+  ],
+  "Rickey_problem_all_printed_inputs": {
+    "gross": 864740,
+    "returns": 47399,
+    "COGS": 483237,
+    "rent": 86705,
+    "interest": 1156,
+    "tax": 16185,
+    "dep": 5780,
+    "salaries": 98266,
+    "utilities": 28902
+  },
+  "Rickey_calculated_NetSales_GrossProfit_OI_NI": [
+    817341,
+    334104,
+    114451,
+    97110
+  ],
+  "BigBox_problem_all_cells_and_calculated_percent": [
+    {
+      "row": "Gross sales",
+      "printed_value": 1089836,
+      "calculated_percent_of_net_sales": 105.79915134370579
+    },
+    {
+      "row": "Returns allowances",
+      "printed_value": 59737,
+      "calculated_percent_of_net_sales": 5.799151343705799
+    },
+    {
+      "row": "Net sales",
+      "printed_value": 1030099,
+      "calculated_percent_of_net_sales": 100.0
+    },
+    {
+      "row": "COGS",
+      "printed_value": 609026,
+      "calculated_percent_of_net_sales": 59.12305516265912
+    },
+    {
+      "row": "Gross profit",
+      "printed_value": 421073,
+      "calculated_percent_of_net_sales": 40.87694483734088
+    },
+    {
+      "row": "Rent",
+      "printed_value": 109275,
+      "calculated_percent_of_net_sales": 10.608203677510609
+    },
+    {
+      "row": "Depreciation",
+      "printed_value": 7285,
+      "calculated_percent_of_net_sales": 0.7072135785007072
+    },
+    {
+      "row": "Salaries",
+      "printed_value": 123845,
+      "calculated_percent_of_net_sales": 12.022630834512023
+    },
+    {
+      "row": "Utilities",
+      "printed_value": 36425,
+      "calculated_percent_of_net_sales": 3.536067892503536
+    },
+    {
+      "row": "Operating income",
+      "printed_value": 144243,
+      "calculated_percent_of_net_sales": 14.002828854314004
+    },
+    {
+      "row": "Interest",
+      "printed_value": 1457,
+      "calculated_percent_of_net_sales": 0.14144271570014144
+    },
+    {
+      "row": "Tax",
+      "printed_value": 20398,
+      "calculated_percent_of_net_sales": 1.9801980198019802
+    },
+    {
+      "row": "Net income",
+      "printed_value": 122388,
+      "calculated_percent_of_net_sales": 11.881188118811881
+    }
+  ],
+  "BigBox_arithmetic": {
+    "net_sales": 1030099,
+    "gross": 421073,
+    "OI": 144243,
+    "NI": 122388
+  },
+  "review_liability_question": 550000,
+  "no_live_company_data_collection_or_future_prediction_by_these_cases": true,
+  "Charlie_arithmetic_verified_after_reading_correction": {
+    "printed_OI": 99000,
+    "recomputed_OI": 99000,
+    "printed_NI": 84000,
+    "recomputed_NI": 84000,
+    "net_sales_size_ratio": 5.891666666666667,
+    "book_nearly7times_not_exact": true,
+    "printed_totals_reconcile_after_reading_correction": true
+  }
+}

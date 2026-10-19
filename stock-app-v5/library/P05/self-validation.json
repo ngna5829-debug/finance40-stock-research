@@ -1,0 +1,41 @@
+{
+  "book_id": "P05",
+  "mechanical_self_check_not_independent_semantic_QA": true,
+  "source_raw_sha_unchanged": true,
+  "all16_chapter_source_and_draft_hashes_match": true,
+  "all16_drafts_in_combined": true,
+  "original100_numbered_sections_verified": true,
+  "reading_ranges_union_full4600lines_including_front_full_license": true,
+  "body_han_counts": [
+    2842,
+    2758,
+    2540,
+    2673,
+    2401,
+    2478,
+    2588,
+    2907,
+    2587,
+    2530,
+    2358,
+    2430,
+    2310,
+    2612,
+    2253,
+    2896
+  ],
+  "body_han_total": 41163,
+  "min_body_han": 2253,
+  "rules": 26,
+  "precise_anchors": 49,
+  "precise_unique_fragments": 45,
+  "independent_qa_status": "passed_after_attribution_clarifications_with_source_limits",
+  "artifact_sha256": {
+    "source-metadata.json": "00cf2232476d60a34f08b14909b85581e83a7d8768c53422e42146633b2cbd31",
+    "章节与阅读审计.json": "8d73625dab69bc8cf9066259bdde7225c10c72609d2cb821f5644ff1ec35786d",
+    "专家定义.json": "f95d2d8285058b13d614e8951256405e0111b7e252938e0d6e3986b91804f28b",
+    "章节深读.md": "2421a26d88890c6da26aaa84edc931e642ce0473919cd61c74841c1dc4a9ab23",
+    "全书综合与前后置页.md": "b69b03f6262b3441a3c41ecde272764ee6f5fd2f240c299724f7151e3586216f",
+    "专家说明.md": "3c8e248c4ef07015b6a80f4c28ef08ff58b295981697ed8df2ef3915d604dc3d"
+  }
+}

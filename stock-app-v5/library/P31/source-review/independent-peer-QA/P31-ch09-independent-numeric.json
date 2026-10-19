@@ -1,0 +1,56 @@
+{
+  "book_id": "P31",
+  "chapter": 9,
+  "actual_original_images_viewed": [
+    169,
+    177,
+    181
+  ],
+  "gold_direct_exchange_claim": {
+    "original_printed_percentage": 0.6,
+    "displayed_cash_share": 5,
+    "displayed_gold_fraction_of_cash": 0.1,
+    "conditional_independent_product_percentage": 0.5,
+    "deposit_forms_not_entire_exchange_scope": true,
+    "approximate_inputs_do_not_establish_exact_true_share": true
+  },
+  "basket_table_independent_rows": [
+    {
+      "commodity": "wheat",
+      "weight": 5,
+      "units_per_dollar": 1.25,
+      "product": 6.25,
+      "author_usd": 5
+    },
+    {
+      "commodity": "corn",
+      "weight": 3,
+      "units_per_dollar": 3,
+      "product": 9,
+      "author_usd": 3
+    },
+    {
+      "commodity": "pig iron lbs",
+      "weight": 2,
+      "units_per_dollar": 100,
+      "product": 200,
+      "author_usd": 2
+    },
+    {
+      "commodity": "cotton lbs",
+      "weight": 1,
+      "units_per_dollar": 10,
+      "product": 10,
+      "author_usd": 1
+    }
+  ],
+  "sum_author_dollars": 11,
+  "unit_definition_fraction": {
+    "numerator": 1,
+    "denominator": 11
+  },
+  "unit_currency_is_USD_not_GBP": true,
+  "any_clay_PG_original_any_day_scan_confirmed_pdf181": true,
+  "all_glyphs_verified": false,
+  "completed_utc": "2026-10-13T13:25:56.116054+00:00"
+}

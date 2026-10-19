@@ -1,0 +1,46 @@
+{
+  "book_id": "P09",
+  "chapter_ordinal": 11,
+  "original_source_unchanged": true,
+  "original_scan_obtained": false,
+  "historical_data_experiment": false,
+  "source_sha256": "099aaa16de8fc4f68a0b0bd85d62fd596bffba059d397c71d352945de18050c5",
+  "issues": [
+    {
+      "type": "duplicate_or_truncated_electronic_phrase",
+      "source_lines_inclusive": [
+        4227,
+        4233
+      ],
+      "raw_phrase": "raise the price of raw produce, which that tax e of raw produce, which",
+      "source_segment_sha256": "073bc796a59e358384793f730520767c2fd73758458a3f59c973676cfe8c9ae8",
+      "resolution": "未解；保留原文，不根据重复残句新增作者主张"
+    },
+    {
+      "type": "tax_denominator_or_precision_gap",
+      "early_source_lines_inclusive": [
+        4235,
+        4240
+      ],
+      "later_source_lines_inclusive": [
+        4261,
+        4271
+      ],
+      "early_price_pounds": 4.4,
+      "strict_one_tenth_gross_tax_price_pounds": 4.444444444444445,
+      "money_rents_at_strict_price": [
+        80.0,
+        40.0
+      ],
+      "money_rents_at_early_price": [
+        79.2,
+        39.6
+      ],
+      "author_stated_money_rents": [
+        80,
+        40
+      ],
+      "resolution": "前后数不能同口径混用；暂无原扫描，不能断定作者、原刻或转录哪项错误；简单算术是模型内检验，非历史财政数据核准"
+    }
+  ]
+}

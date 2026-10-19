@@ -1,0 +1,215 @@
+{
+  "book_id": "P08",
+  "chapter": 7,
+  "semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "literal_all_printed_words_verified": false,
+  "primary_scan_ocr_read_ranges_chapter_relative": [
+    [
+      1,
+      225
+    ],
+    [
+      226,
+      450
+    ],
+    [
+      451,
+      675
+    ],
+    [
+      676,
+      900
+    ],
+    [
+      901,
+      1125
+    ],
+    [
+      1126,
+      1350
+    ]
+  ],
+  "primary_scan_ocr_not_individually_read_ranges": [
+    [
+      1351,
+      3593
+    ]
+  ],
+  "full_alternative_same_work_read": {
+    "file": "work/book-experts-v5/index_team/P08/source/ch07-wikisource-numbered.txt",
+    "sha256": "6516d135f2c0f0f031170ef5ab5bc6c6c69fc43b4ba9d23e3a574c0cc040f4bf",
+    "url": "https://en.wikisource.org/wiki/The_Theory_of_Business_Enterprise/Chapter_7",
+    "revision": "5920352",
+    "web_source_lines_inclusive": [
+      94,
+      562
+    ],
+    "body": [
+      94,
+      393
+    ],
+    "notes": [
+      394,
+      561
+    ],
+    "read_blocks": [
+      [
+        94,
+        138
+      ],
+      [
+        139,
+        178
+      ],
+      [
+        179,
+        218
+      ],
+      [
+        219,
+        258
+      ],
+      [
+        259,
+        298
+      ],
+      [
+        299,
+        338
+      ],
+      [
+        339,
+        378
+      ],
+      [
+        379,
+        418
+      ],
+      [
+        419,
+        458
+      ],
+      [
+        459,
+        498
+      ],
+      [
+        499,
+        538
+      ],
+      [
+        539,
+        562
+      ]
+    ],
+    "all_body_and_all_listed_notes_actually_read": true
+  },
+  "source_gaps": [
+    {
+      "pdf_page": 200,
+      "printed_page": 186,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf200.png"
+    },
+    {
+      "pdf_page": 202,
+      "printed_page": 188,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf202.png"
+    },
+    {
+      "pdf_page": 204,
+      "printed_page": 190,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf204.png"
+    },
+    {
+      "pdf_page": 206,
+      "printed_page": 192,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf206.png"
+    },
+    {
+      "pdf_page": 208,
+      "printed_page": 194,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf208.png"
+    },
+    {
+      "pdf_page": 212,
+      "printed_page": 198,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf212.png"
+    },
+    {
+      "pdf_page": 220,
+      "printed_page": 206,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf220.png"
+    },
+    {
+      "pdf_page": 224,
+      "printed_page": 210,
+      "status": "visually_confirmed_scan_itself_cropped",
+      "semantic_recovery": "whole same-work parallel chapter; literal source missing remains",
+      "image": "work/book-experts-v5/index_team/P08/source-review/pdf224.png"
+    }
+  ],
+  "key_visual_checks": [
+    {
+      "pdf_page": 218,
+      "printed_page": 204,
+      "scope": "完整收益/资本/信用三阶段式与排除风险贴现和产量的长注",
+      "transcription_difference": "Wikisource L450 ca double-prime与原刻ea double-prime不同；原转录不改，仅原图核准符号，未作实验"
+    },
+    {
+      "pdf_page": 236,
+      "printed_page": 222,
+      "scope": "固定收益证券高利率/扩张长注前半"
+    },
+    {
+      "pdf_page": 237,
+      "printed_page": 223,
+      "scope": "长注续全部，固定收益lr/int、利率上升/下降式，安全条件保留"
+    },
+    {
+      "pdf_page": 238,
+      "printed_page": 224,
+      "scope": "新投资竞争及作者自限低利率不能独立解释长萧条"
+    },
+    {
+      "pdf_page": 242,
+      "printed_page": 228,
+      "scope": "技术水平不能静态设定正文，全页虽糊仍语义读取"
+    },
+    {
+      "pdf_page": 243,
+      "printed_page": 229,
+      "scope": "资本品成本下行条件与原注"
+    },
+    {
+      "pdf_page": 248,
+      "printed_page": 234,
+      "scope": "慢性萧条结论及Marx/Tugan引书范围"
+    }
+  ],
+  "unresolved_transcription_limits": [
+    "Wikisource将原纸181脚注中的德文书目续段单列为新注4，后续列注编号早段与正文标记错位；引用按内容与纸页，不机械按该编号",
+    "PDF224/纸210原句关于繁荣所伴停滞的完整尾部未在本扫描存留，平行同样语义不清；保留而不擅改为萧条",
+    "并未逐图核准本章91纸页全部字符与所有模型字符；不作历史数字或公式实验",
+    "引用其他作者不是读完其书；1904未来铁路合并推断不是后来历史事实"
+  ],
+  "draft_file": "work/book-experts-v5/index_team/P08/chapters/ch07.md",
+  "draft_sha256": "43dffbd0b743efc54fd408720f2da185a3fe596af705c1555eea1e17c0e05fb5",
+  "han_body_count": 4153,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false
+}

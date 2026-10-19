@@ -1,0 +1,11 @@
+{
+  "book_id": "P22",
+  "chapter": 2,
+  "review_basis": "Complete PG paragraph and table transcription; no original scan yet. Independent calculations are separated from author statements.",
+  "issues": [
+    {"paragraph_id":"P22-ch02-P0059","printed_pages":[68,69],"author_values":{"transcontinental_total_miles":880,"argentina_miles":665,"chile_miles":115},"independent_sum":780,"author_total_minus_sum":100,"resolution":"unresolved; not silently corrected"},
+    {"paragraph_id":"P22-ch02-P0059","printed_pages":[68,69],"author_values":{"total_miles":3705,"national":1148,"Buenos_Ayres":572,"Santa_Fe":102,"private":1888},"independent_sum":3710,"sum_minus_author_total":5,"resolution":"unresolved; not silently corrected"},
+    {"paragraph_ids":["P22-ch02-P0070","P22-ch02-P0073"],"printed_pages":[73,74,75],"author_values":{"Canada_1890_first_mileage":10150,"Canada_1890_later_mileage":14004},"resolution":"scope/year mismatch not explained in these paragraphs; preserve both"},
+    {"paragraph_ids":["P22-ch02-P0071","P22-ch02-P0072"],"printed_pages":[73,74],"table_id":"P22-T03","author_values":{"aid_components":[25000000,36760785,65000000,29880912,15000000,15000000,25000000,3720000],"aid_total":215361697,"road_cost_1888":131350019,"preceding_prose_excess_approx":48000000},"independent_sum":215361697,"independent_excess":84011678,"resolution":"table sums correctly but preceding excess cannot be reproduced from its stated road cost; face-value guarantee/loan/land/annuity amounts are not realized taxpayer loss"}
+  ]
+}

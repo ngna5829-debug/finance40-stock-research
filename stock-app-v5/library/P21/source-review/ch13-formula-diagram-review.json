@@ -1,0 +1,14 @@
+{
+  "book_id": "P21",
+  "chapter": 13,
+  "pdf_pages_fully_visually_read": [223, 225, 230, 231, 232],
+  "printed_pages": [194, 196, 201, 202, 203],
+  "images": ["pdf223.png", "pdf225.png", "pdf230.png", "pdf231.png", "pdf232.png"],
+  "formula": "十个增量总和减十倍第十增量，等于前九个增量各减第十增量后求和；为条件代数，不是实测表。",
+  "figure_labels": "纸201：Fig.1矩形WAGES、曲线上方INTEREST；Fig.2矩形INTEREST、曲线上方WAGES。",
+  "ocr_correction": "PDF231纸202引用原图Fig.2，OCR转成Fig.3；纸页原图202，OCR页首203。",
+  "original_print_wording_issue": "PDF232纸203末段原印ECD of Fig.2，与同段前述工资剩余EBC区域名不一致；保留原印，不创建额外收入，依图和连续论述定位上方剩余。",
+  "empirical_numerical_data_present": false,
+  "quantitative_digitization_or_backtest_performed": false,
+  "all_scan_glyphs_audited": false
+}

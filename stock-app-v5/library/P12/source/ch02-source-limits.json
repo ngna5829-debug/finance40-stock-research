@@ -1,0 +1,60 @@
+{
+  "book_id": "P12",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "issues": [
+    {
+      "lines": [
+        593,
+        598
+      ],
+      "type": "population_and_casualty_denominator",
+      "resolution": "1913移民与战前年增不同年份；1914–18净人口减2.7m含出生减少及超死亡，不是战死人数"
+    },
+    {
+      "lines": [
+        332,
+        351
+      ],
+      "note_lines": [
+        600,
+        601
+      ],
+      "type": "Russia_geographical_scope",
+      "resolution": "欧洲俄人口含波兰芬兰排亚洲/高加索，年2m出生超死是俄整体，勿混口径"
+    },
+    {
+      "lines": [
+        406,
+        408
+      ],
+      "note_lines": [
+        603,
+        604
+      ],
+      "type": "book_dollar_conversion",
+      "resolution": "全部美元由英镑以5美元/镑换算，不是实际报价、现值或另书4.86金平价"
+    },
+    {
+      "lines": [
+        441,
+        486
+      ],
+      "type": "inequality_and_accumulation_normative_strong_claim",
+      "resolution": "没有全制度替代实证，公平社会绝不能累积是作者强论，允许公共储蓄/真实生产资料质疑；9/10美德非90%储蓄率"
+    },
+    {
+      "lines": [
+        532,
+        567
+      ],
+      "note_lines": [
+        606,
+        615
+      ],
+      "type": "food_supply_vs_cost_and_bases",
+      "resolution": "世界无总麦短缺为原判断，真实代价上升不同；当前美国需求与1909–13产量均值、战后人口/保证价年份分，5年1不是固定收成概率"
+    }
+  ]
+}

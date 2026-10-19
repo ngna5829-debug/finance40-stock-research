@@ -1,0 +1,60 @@
+{
+  "book_id": "P19",
+  "status": "root_manual_merge_done_pending_final_peer_semantic_hash_recheck",
+  "peer_full_source_and_all51rules_review": true,
+  "root_review_scope": "Changed original mechanism paragraphs plus complete Chinese ch16/ch18 and synthesis/expert instructions; not a second whole21chapter reading. Actual source images159/312/317/318 reviewed.",
+  "strict_body_han": 69203,
+  "minimum_original_chapter_body_han": 2656,
+  "rule_count": 51,
+  "precise_locator_count": 184,
+  "uninterrupted_context_count": 51,
+  "individual_locator_standalone_paragraph_certified": false,
+  "substantive_rule_fields_corrected": [
+    [
+      "P19-R10",
+      "author_meaning"
+    ],
+    [
+      "P19-R10",
+      "required_inputs"
+    ],
+    [
+      "P19-R20",
+      "application_boundary"
+    ],
+    [
+      "P19-R20",
+      "author_meaning"
+    ],
+    [
+      "P19-R20",
+      "independent_analysis"
+    ],
+    [
+      "P19-R20",
+      "required_inputs"
+    ],
+    [
+      "P19-R23",
+      "author_meaning"
+    ],
+    [
+      "P19-R42",
+      "application_boundary"
+    ],
+    [
+      "P19-R42",
+      "independent_analysis"
+    ]
+  ],
+  "draft_phrase_changes": 2,
+  "candidate_boundary_disclosure_corrected": true,
+  "raw_source_unchanged": true,
+  "all_original_scan_glyphs_verified": false,
+  "all_historical_sources_verified": false,
+  "current_stock_prediction_enabled": false,
+  "root_integrity_checks_passed": 889,
+  "expert_sha256": "b20781c9d9d89727faa13422240063018ef426e545363822cd3d858c46a8d9d6",
+  "reading_audit_sha256": "9845d2f013510b918fc8c3646818209e095395c7bd360e0254d477d0743145ce",
+  "created_utc": "2026-10-13T03:56:50.560226+00:00"
+}

@@ -1,0 +1,115 @@
+{
+  "book_id": "P15",
+  "not_investment_experiment": true,
+  "original_values_unchanged": true,
+  "historical_values_all_verified": false,
+  "mill_rows": [
+    {
+      "year": 1870,
+      "industry": "cotton",
+      "mill_categories": [
+        1108,
+        693,
+        532,
+        150
+      ],
+      "printed_total": 2483,
+      "spinning": 33995221,
+      "doubling": 3723537,
+      "power_looms": 440676,
+      "category_sum": 2483,
+      "category_difference": 0,
+      "spinning_over_all_mills": 13691.188481675392
+    },
+    {
+      "year": 1890,
+      "industry": "cotton",
+      "mill_categories": [
+        935,
+        990,
+        438,
+        175
+      ],
+      "printed_total": 2538,
+      "spinning": 40511934,
+      "doubling": 3992885,
+      "power_looms": 615714,
+      "category_sum": 2538,
+      "category_difference": 0,
+      "spinning_over_all_mills": 15962.148936170213
+    },
+    {
+      "year": 1870,
+      "industry": "woollen",
+      "mill_categories": [
+        648,
+        109,
+        860,
+        212
+      ],
+      "printed_total": 1829,
+      "spinning": 2531768,
+      "doubling": 160993,
+      "power_looms": 48140,
+      "category_sum": 1829,
+      "category_difference": 0,
+      "spinning_over_all_mills": 1384.2361946418807
+    },
+    {
+      "year": 1890,
+      "industry": "woollen",
+      "mill_categories": [
+        494,
+        124,
+        895,
+        280
+      ],
+      "printed_total": 1793,
+      "spinning": 2107209,
+      "doubling": 299793,
+      "power_looms": 61831,
+      "category_sum": 1793,
+      "category_difference": 0,
+      "spinning_over_all_mills": 1175.2420524261015
+    }
+  ],
+  "manufacturing_us_rows": [
+    {
+      "year": 1850,
+      "establishments": 123025,
+      "nominal_product_usd": 1019106616,
+      "nominal_product_per_establishment": 8283.735956106482
+    },
+    {
+      "year": 1860,
+      "establishments": 140433,
+      "nominal_product_usd": 1885861876,
+      "nominal_product_per_establishment": 13428.908276544687
+    },
+    {
+      "year": 1870,
+      "establishments": 252148,
+      "nominal_product_usd": 4232325442,
+      "nominal_product_per_establishment": 16785.084323492552
+    },
+    {
+      "year": 1880,
+      "establishments": 253852,
+      "nominal_product_usd": 5365579191,
+      "nominal_product_per_establishment": 21136.643363061943
+    }
+  ],
+  "1880_less_1870_computed_product_change": 1133253749,
+  "printed_change_1880_less_1870": 1133537749,
+  "1880_vs_1860_computed_avg_product_gain_percent": 57.39658747971199,
+  "printed_avg_gain_percent": 60,
+  "limitations": [
+    "raw spinning/totalmill仅示所用分母非正确可比专门纺厂平均",
+    "羊毛纺锭数及按全部厂均数并非全升，不能使总括命题成每项定律",
+    "美国产品为名义金额，不扣物价/产业mix/统计范围",
+    "1870–1880差额原数与计算相差284000，保留不覆写",
+    "1880相对1860平均约57.4%，原称just60，可能约数/口径/转录，未原扫描不定",
+    "厂/商行/公司用语口径可能不同；没有据此校准生产率"
+  ],
+  "parallel_official_html_same_printed_1880_increment": true
+}

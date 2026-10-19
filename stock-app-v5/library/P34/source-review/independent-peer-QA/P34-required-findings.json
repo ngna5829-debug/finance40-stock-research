@@ -1,0 +1,427 @@
+{
+  "book_id": "P34",
+  "status": "full_semantic_review_required_corrections_pending_not_accepted",
+  "required_findings": [
+    {
+      "id": "P34-QA-A01",
+      "status": "all50_rules_complete_raw_original_contexts_and_whole_discourse_linked",
+      "scope": "source global coordinate file and complete context evidence",
+      "finding": "Current supportwholeparagraph range and chapter range reference originalTXTgloballines but attachedtosubsetsourcefile;retainnavexplicitandaddexact originalrawline/char/byte/SHA andactualwholecontext afterallrule/source semanticreading."
+    },
+    {
+      "id": "P34-QA-A02",
+      "file": "ch03.md",
+      "status": "wording_clarification",
+      "old": "“交易者”被作者便宜地用于任何买卖股票的人。",
+      "candidate_new": "作者为方便起见，将“交易者”用于任何买卖股票的人。",
+      "reason": "Originalforconvenience isauthor terminologyconvention,notcheapcost; subsequentanalysisalreadycorrect."
+    },
+    {
+      "id": "P34-QA-A03",
+      "status": "archive_resolved_stage_header",
+      "file": "ch04.md",
+      "old": "章界至第五章印刷页23以前包含部标题，精确正文末页待同版扫描核对。",
+      "candidate_new": "本章数字源还包括后续第二部标题；原作者正文止于印刷页19/PDF23，本次独审已目视确认末页。",
+      "reason": "Oldwritingstage awaitinglastpage isnowresolved;PDF23/p19 fulloriginalseen andendsknownrumorparagraph. Noallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A04",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "candidate_new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。",
+      "reason": "Sourcefootnoteonlypausemarginbuying/reaction,doesnotstateanotherbuyopportunity/advice;sourcefullTXT559–562+PDF34footnoteactualimage."
+    },
+    {
+      "id": "P34-QA-A05",
+      "status": "required_qualifier_precision",
+      "rule_id": "P34-R12",
+      "fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+          "candidate_new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+        },
+        {
+          "field": "counterexample_or_limit",
+          "old": "原书明确NYSE也有永无价值之股。",
+          "candidate_new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+        }
+      ],
+      "reason": "Someperhapsnointrinsicvalueandneverwill originalmodalitymustpreserve;separateauthorstatesstocksnotbuyatanytime,strongclaimretainedinfullchapter. SourceTXT524–532."
+    },
+    {
+      "id": "P34-QA-A06",
+      "file": "ch13.md",
+      "status": "required_terminology_clarification",
+      "old": "“有时卖”与“所有加息公告都卖”相差很大。",
+      "candidate_new": "“有时卖”与“所有提高股息的公告都卖”相差很大。",
+      "reason": "Originaladvanceinitsdividendrate isdividendincrease,notmonetaryinterestratehike. Sameparagraphshouldnotshiftfromcompanydistributiontopolicy."
+    },
+    {
+      "id": "P34-QA-A07",
+      "status": "archive_resolved_stage_header",
+      "file": "ch09.md",
+      "old": "正文末页和后续空白/部标题页待扫描章界核准。",
+      "candidate_new": "原作者正文末页为印刷页三十七/PDF四十一，已在本次独审中核对原图；数字源另含第三部标题。",
+      "reason": "OriginalPDF41completeactuallyseenendsReadChapterXXIVnotextraauthorbody. Noallblankpagesorallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A08",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "candidate_new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。",
+      "reason": "Source13actualmechanismisexpectation/newspaperprediction/letupbuying notprofitrealizationorrumor,neither14/15providestheseasreactionmechanism. Preserve conditionalauthorclaim ratherthanreinterpret asindependent.",
+      "source_global_TXT_lines": [
+        788,
+        814
+      ]
+    },
+    {
+      "id": "P34-QA-A09",
+      "status": "required_semantic_corrections",
+      "rule_fields": [
+        {
+          "rule_id": "P34-R29",
+          "field": "author_meaning",
+          "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+          "candidate_new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。",
+          "source_global_TXT_lines": [
+            984,
+            1012
+          ],
+          "reason": "Lastclauseinventedbrokerfunding rule afterbankreject; originalinadmissiblecollateralwarnsnotexpectfinanceandbucket suspicion,notthenbrokerself-funds."
+        },
+        {
+          "rule_id": "P34-R30",
+          "field": "author_meaning",
+          "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+          "candidate_new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。",
+          "source_global_TXT_lines": [
+            1014,
+            1029
+          ],
+          "reason": "Originalclosingparagraphs donotmentionregularlypayingdividends. Do notaddissuerconditionasauthorstatement;preserveotherexplicitstronglowriskclaimandconditionalnofinancing."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A10",
+      "status": "terminology_clarification",
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "candidate_new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。",
+      "reason": "Shortinterest referstooutstandingshortpositionsnot短兴趣. Originalcovercaninfluencehigher/bearsconditionsalsoforceprice down.",
+      "additional_rule_fields": [
+        {
+          "rule_id": "P34-R39",
+          "field": "author_meaning",
+          "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+          "candidate_new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。",
+          "reason": "Takingtoo-great-chances meansrisk/excessiveadventure, notlargeopportunities; preservequotedproportions notownstatistics."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A11",
+      "status": "required_time_precision",
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "candidate_new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。",
+      "reason": "SourcepriceupbeginsAug1921 butbucketfailureperiodearly1922-toApril1922. Currentcombinationassignsfiftyfailurestodifferentwindow. SourcefullTXT1119–1128."
+    },
+    {
+      "id": "P34-QA-A12",
+      "status": "required_attribution_precision",
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "candidate_new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。",
+      "reason": "Originalseparateprefersnotrecommendandcannotguaranteestatements,notexplicit以免担保cause; preserveownknowledgeboundarynotinventauthorpurpose. GlobalTXT1159–1171."
+    },
+    {
+      "id": "P34-QA-A13",
+      "status": "required_author_voice_separation",
+      "rule_id": "P34-R36",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+          "candidate_new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+          "candidate_new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+        }
+      ],
+      "reason": "Nearlyall originalclaimnotjustmost;未证 ispeeranalysisnotauthoropinion. Keepclaimin authorvoice, missingdenominatorinindependentfield."
+    },
+    {
+      "id": "P34-QA-A14",
+      "status": "required_unit_clarification",
+      "file": "ch21.md",
+      "old": "第三十至五十个百分点只是历史自有资金建议",
+      "candidate_new": "百分之三十至五十只是历史自有资金比例建议",
+      "reason": "Margin30–50%levels not30–50percentage-pointchange. Originalchapter16relationpurchasepriceclear."
+    },
+    {
+      "id": "P34-QA-A15",
+      "status": "required_voice_and_unit_precision",
+      "patches": [
+        {
+          "rule_id": "P34-R45",
+          "field": "author_meaning",
+          "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+          "candidate_new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+        },
+        {
+          "rule_id": "P34-R45",
+          "field": "independent_analysis",
+          "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+          "candidate_new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+        },
+        {
+          "file": "ch25.md",
+          "old": "按每股十二点五美分计，一千元全款可以买约十股，买卖各一點二五；若作为一百股的百分之十保证金，则买卖各十二點五，还对借款余额付利息。",
+          "candidate_new": "按每股十二点五美分计，一千美元全款可以买约十股，买卖各收一点二五美元；若作为一百股的百分之十保证金，则买卖各收十二点五美元，还对借款余额付利息。"
+        }
+      ],
+      "reason": "Keepletterassertion/peerabsenceofverificationseparate; USD monetarydenominatornotambiguousChinese元. Exactsource1614–1649andwholeanonymousletter."
+    },
+    {
+      "id": "P34-QA-A16",
+      "status": "required_trigger_and_unit_correction",
+      "patches": [
+        {
+          "file": "ch26.md",
+          "old": "第七章四月二十五日脚注因保证金买入过快，改为暂停融资买入等待回落，形成同书不同观察日的修订。",
+          "candidate_new": "第七章脚注明记四月二十五日因市场上涨过快，建议客户暂缓保证金买入，随后才说市场出现明显回落，形成同书不同观察日的修订。"
+        },
+        {
+          "file": "ch26.md",
+          "old": "他设一千元、每年五成、全部再投二十年",
+          "candidate_new": "他设一千美元、每年五成、全部再投二十年"
+        }
+      ],
+      "reason": "Footnote1triggerismarketadvance notclientsmarginpurchasingpace; reactionreportedsubsequentlynotexplicitre-entrytarget. USDratherthanChineseambiguous元;rawsourceunaltered."
+    },
+    {
+      "id": "P34-QA-A17",
+      "status": "required_semantic_correction",
+      "file": "全书综合与附录.md",
+      "old": "稍后回落再次给机会。",
+      "candidate_new": "脚注只记其后出现明显回落，并未说再次发出买入建议。",
+      "reason": "Sameinventedre-entryopportunityasR14absentoriginalfootnote;originalPDF34actuallyseenfullfootnote."
+    },
+    {
+      "id": "P34-QA-A18",
+      "status": "archive_resolved_stage_record",
+      "patches": [
+        {
+          "file": "ch08.md",
+          "old": "相关第十四章尚须另读，不能据目录先填指标。",
+          "candidate_new": "其交叉引用的第十四章现已完整读核，技术指供求及相关义务，不凭现代指标替代。"
+        },
+        {
+          "file": "ch08.md",
+          "old": "所以本章专家此刻只能记录后文依赖。",
+          "candidate_new": "所以单读本章只能记录后文依赖；整本审核则须连接第十四章已经读核的真实供求定义。"
+        }
+      ],
+      "reason": "Wholebookactualchapter14nowread; preservehistoricalstageexternally notassertcurrentnotread. No originaltextrewrite."
+    },
+    {
+      "id": "P34-QA-A19",
+      "status": "required_quote_voice_precision",
+      "scope": "source_supports/precise_source_contexts source_voice",
+      "voice_map": {
+        "P34-C24-P006_to_P012": "Babson quoted by Butler1922; this passage only, wholeBabsonbooknotclaimedread",
+        "P34-C25-P005": "HenryClews quoted by Butler1922; this passage only",
+        "P34-C25-P007_to_P010": "Anonymouscustomers-roommanagerletter quoted by Babson and reproduced by Butler1922; narrativeunverified"
+      },
+      "reason": "ExistingButler1922label uniformonquotedrawparagraphs wronglycollapsesdirectvoice. Keepunderlyingwholebooksourceprovenance andallrawbytes unchanged."
+    },
+    {
+      "id": "P34-QA-A20",
+      "status": "required_count_method_precision",
+      "scope": "chapter-plan/audit/validation/expert/synthesis/explainer counts",
+      "author_method_total": 57771,
+      "strict_excluding_source_link_labels_total": 57758,
+      "minimum_chapter_strict": 2048,
+      "excluded_source_link_labels": [
+        {
+          "chapter": 15,
+          "label": "SEC市场操纵释义",
+          "Han": 6
+        },
+        {
+          "chapter": 16,
+          "label": "SEC保证金账户说明",
+          "Han": 7
+        }
+      ],
+      "reason": "Source-linklabelsarecitationmetadata ratherthanoriginalanalysisbody. All26remain>2000 andbook>20000;mergeaftersemanticcorrectionsmustrecomputeuniformlynotcarryoldnumbers."
+    },
+    {
+      "id": "P34-QA-A21",
+      "status": "required_author_reason_precision",
+      "rule_id": "P34-R25",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+          "candidate_new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+          "candidate_new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+        }
+      ],
+      "reason": "Chapter14doesnotexpress因为所需时间不能准确知 asreasonforheavymargin;chapter11unknownmajorcyclepathnotidenticalindividualvaluetime. Moveunprovidedarrivaldateassessmenttoindependentfieldandkeepchapter14faithful."
+    }
+  ],
+  "exact_rule_field_changes": [
+    {
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "author_meaning",
+      "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+      "new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "counterexample_or_limit",
+      "old": "原书明确NYSE也有永无价值之股。",
+      "new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+    },
+    {
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。"
+    },
+    {
+      "rule_id": "P34-R29",
+      "field": "author_meaning",
+      "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+      "new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。"
+    },
+    {
+      "rule_id": "P34-R30",
+      "field": "author_meaning",
+      "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+      "new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。"
+    },
+    {
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。"
+    },
+    {
+      "rule_id": "P34-R39",
+      "field": "author_meaning",
+      "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+      "new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。"
+    },
+    {
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。"
+    },
+    {
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "author_meaning",
+      "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+      "new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "independent_analysis",
+      "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+      "new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "author_meaning",
+      "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+      "new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "independent_analysis",
+      "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+      "new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "author_meaning",
+      "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+      "new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "independent_analysis",
+      "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+      "new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+    }
+  ],
+  "candidate_expert_file": "work/book-experts-v5/value_team/peer-QA/P34-expert-candidate.json",
+  "candidate_expert_sha256": "42caa15934c96b75fd20d07d519f18b4b9cafb9b8a0d0dab18e078bf1ef793ac",
+  "strict_counts_excluding_source_link_labels": [
+    2334,
+    2267,
+    2384,
+    2282,
+    2187,
+    2331,
+    2307,
+    2072,
+    2314,
+    2129,
+    2095,
+    2063,
+    2089,
+    2048,
+    2240,
+    2203,
+    2198,
+    2147,
+    2051,
+    2159,
+    2406,
+    2399,
+    2198,
+    2124,
+    2415,
+    2316
+  ],
+  "strict_total_Han": 57758,
+  "minimum_Han": 2048,
+  "previous_author_count_total": 57771,
+  "precise_complete_original_context_count": 171,
+  "all26_original_chapters_and_all50rules_actually_reviewed": true,
+  "canonical_modified": false,
+  "review_time_expert_sha256": "254143a76d8863810a088bbbc5875f21562101f9fc0fa8f949660c33b27c4519",
+  "review_time_audit_sha256": "a5a916e801f8ba461164d98cb4b17691f0fe2e8f0b60a4e3312bbf66686d0ea4",
+  "completed_utc": "2026-10-13T16:15:01.293534+00:00"
+}

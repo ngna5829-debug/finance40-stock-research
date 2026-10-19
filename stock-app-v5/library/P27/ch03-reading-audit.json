@@ -1,0 +1,80 @@
+{
+  "book_id": "P27",
+  "chapter": 3,
+  "source_file": "source-chapters/ch03.txt",
+  "source_chars": 26147,
+  "source_sha256": "1781c4e73c970abf5eb1eb7a22143e889aec5f577f030b19af2594f06cf3b504",
+  "full_chapter_source_actually_read": true,
+  "actual_HTML_native_reading_ranges": [
+    [
+      0,
+      14000
+    ],
+    [
+      14000,
+      26147
+    ]
+  ],
+  "scan_source_file": "scan-chapters/ch03.txt",
+  "scan_source_sha256": "ce2a656dc455e9d2813c680d22be40329145e3decea4d316f01c4487556b7e62",
+  "reading_object": "完整PG章节连续全文与书后注2/3，全部1890原章页图并读、原表与补注放大；不声称两个印本每字一致",
+  "all_original_chapter_page_images_actually_seen": true,
+  "original_pdf_pages": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63
+  ],
+  "printed_pages": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "visual_files": [
+    "ch03-figures-1.jpg",
+    "ch03-figures-2.jpg",
+    "ch03-figures-3.jpg",
+    "ch03-figures-4.jpg",
+    "ch03-critical-50.png",
+    "ch03-critical-51.png",
+    "ch03-critical-53.png",
+    "ch03-critical-56.png"
+  ],
+  "original_footnotes": 2,
+  "original_tables_figures": 2,
+  "all_chapter_numeric_claims_and_industry_list_read": true,
+  "body_han_count": 3073,
+  "summary_sha256": "e585d3dd2367e81ac06f24da6b195bf3a3eb59d10e1b053426199b56c38f4189",
+  "numeric_review": "ch03-source-numeric-review.json",
+  "whole_book_reading_complete": true,
+  "independent_semantic_QA": "pending",
+  "current_prediction_enabled": false,
+  "model_calls_executed": 0,
+  "full_author_work_semantic_reading_complete": true,
+  "scan_every_physical_glyph_perfectly_deciphered": false
+}

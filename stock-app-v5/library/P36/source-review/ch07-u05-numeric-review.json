@@ -1,0 +1,133 @@
+{
+  "source": "printed136/PDF140 tables and printed137/PDF141 circle, individually viewed",
+  "all_11_price_rows_and_11_dividend_rows_read": true,
+  "columns": [
+    "year",
+    "high",
+    "printed_average",
+    "low",
+    "range"
+  ],
+  "rows": [
+    [
+      1896,
+      44,
+      37.5,
+      31,
+      13
+    ],
+    [
+      1897,
+      53.25,
+      43.875,
+      34.5,
+      18.75
+    ],
+    [
+      1898,
+      62.5,
+      53.25,
+      44,
+      18.5
+    ],
+    [
+      1899,
+      72.5,
+      64.25,
+      56,
+      16.5
+    ],
+    [
+      1900,
+      80.5,
+      70.5,
+      60.375,
+      20.125
+    ],
+    [
+      1901,
+      106.5,
+      89.875,
+      73.25,
+      33.25
+    ],
+    [
+      1902,
+      119.25,
+      105.5,
+      91.625,
+      27.625
+    ],
+    [
+      1903,
+      106.5,
+      89.875,
+      73.25,
+      33.25
+    ],
+    [
+      1904,
+      105.5,
+      91,
+      76.5,
+      29
+    ],
+    [
+      1905,
+      122.75,
+      109.625,
+      96.5,
+      26.25
+    ],
+    [
+      1906,
+      125.75,
+      111.875,
+      98.125,
+      27.625
+    ]
+  ],
+  "dividends": [
+    1.4,
+    1.5,
+    1.625,
+    1.9,
+    2.5,
+    3,
+    3.5,
+    3.375,
+    3.7,
+    3.875,
+    4.75
+  ],
+  "midpoint_differences": [
+    {
+      "year": 1900,
+      "printed": 70.5,
+      "calculated": 70.4375,
+      "delta": 0.0625
+    },
+    {
+      "year": 1902,
+      "printed": 105.5,
+      "calculated": 105.4375,
+      "delta": 0.0625
+    },
+    {
+      "year": 1906,
+      "printed": 111.875,
+      "calculated": 111.9375,
+      "delta": -0.0625
+    }
+  ],
+  "range_differences": [],
+  "dividend_change_1902_1903_percentage_points": -0.125,
+  "limits": [
+    "annual highs/lows across different stock dates, not a tradable same-day index",
+    "midpoint not time average",
+    "1906 full-year cutoff not explained in reprint",
+    "composition excludes future restructurings, cannot use as ex ante selection",
+    "1901/1903 same circle size and vertical band, different horizontal year",
+    "no future probability, flow identities, or net returns inferred"
+  ]
+}

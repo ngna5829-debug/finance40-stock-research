@@ -1,0 +1,845 @@
+{
+  "book_id": "P15",
+  "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+  "old_evidence_count_preserved": 86,
+  "new_evidence_count": 17,
+  "new_complete_context_chars": 48694,
+  "complete_contexts": [
+    {
+      "id": "P15-PEER-A01",
+      "rule": "P15-R04",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        1111,
+        1132
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        54713,
+        56123
+      ],
+      "source_byte_range_0based_endexclusive": [
+        54713,
+        56123
+      ],
+      "source_segment_sha256": "14719ea8c702c4971a5f6d3c6a52da63591f19a5b04752d1660704c4fed53ab4",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "The slight extent of foreign intercourse was, however, partly due to\r\ncauses which are to be regarded as genuinely economic. The life and\r\nexperience of the great mass of the population of all countries was\r\nextremely restricted; they were a scattered and rural folk whose wants\r\nand tastes were simple, few, home-bred, and customary. The customary\r\nstandard of consumption, slowly built up in conformity with local\r\nproduction, gave little encouragement to foreign trade. Moreover, to\r\nmeet the new tastes and the more varied consumption which gradually\r\nfound its way over this country, it was in conformity with the\r\neconomic theory and practice of the day to prefer the establishment of\r\nnew home industries, equipped if necessary with imported foreign\r\nlabour, to the importation of the products of such labour from abroad.\r\nSo far as England, in particular, is concerned, the attitude was\r\nfavoured by the political and religious oppression of the French\r\ngovernment which supplied England in the earlier eighteenth century\r\nwith a constant flow of skilled artisan labour. Many English\r\nmanufacturers profited by this flow. Our textile industries in silk,\r\nwool, and linen, calico-printing, glass, paper, and pottery are\r\nspecial beholden to the new arts thus introduced.\r\n\r\nAmong the economic barriers must be reckoned the slight development\r\nof international credit, and of the machinery of exchange.\r\n",
+      "reason": "Existing908–941/943–1007only natural/political. Author clause social barriers and rule product-demand input require full actual ruralcustom tastes/importedlabour/internationalcredit context.",
+      "initial_proposed_window": [
+        1111,
+        1132
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A02",
+      "rule": "P15-R06",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        1633,
+        1679
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        84796,
+        87593
+      ],
+      "source_byte_range_0based_endexclusive": [
+        84796,
+        87593
+      ],
+      "source_segment_sha256": "a91fb9ac0f31cf71abd38996220e960c730e16d82c158aadc2fa7db1f120f6cb",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "In a study of the composition or co-operation of labour and capital in\r\na Business before the era of machine-production there are five points\r\nof dominant importance--(1) The ownership of the material; (2) the\r\nownership of the tools; (3) the ownership of the productive power; (4)\r\nthe relations subsisting between the individual units of labour; (5)\r\nthe work-place.\r\n\r\nEnglish manufacturing industry in the first half of the eighteenth\r\ncentury furnishes a variety of different forms of business of widely\r\ndifferent nature and complexity. The simplest form of manufacturing\r\nindustry is that in which an industrial family owning the raw material\r\nand the requisite tools, and working with the power of their own\r\nbodies in their own homes, produce commodities for their own\r\nconsumption. This private production for private consumption survived\r\nlargely in the eighteenth century, not merely in the case of\r\nagriculturists who produced the more necessary articles of food for\r\nthemselves as well as for the market, but also in the case of farmers\r\nand cottagers in the remotest parts of the country who produced their\r\nown wool and flax, and spun and wove it for their own use.[42]\r\n\r\nFrom this primitive form which required no commerce and no industrial\r\norganisation we may trace the growth of various forms of higher\r\nindustrial development, many of which co-existed in eighteenth century\r\nEngland.\r\n\r\nThe simplest structure of \"domestic\" manufacture is that in which the\r\nfarmer-manufacturer is found purchasing his own material, the raw wool\r\nor flax if he is a spinner, the warp and weft if he is a weaver, and,\r\nworking with his family, produces yarn or cloth which he sells\r\nhimself, either in the local market or to regular master-clothiers or\r\nmerchants. The mixed cotton weaving trade was in this condition in the\r\nearlier years of the eighteenth century. \"The workshop of the weaver\r\nwas a rural cottage, from which, when he was tired of sedentary\r\nlabour, he could sally forth into his little garden, and with the\r\nspade or the hoe tend its culinary productions. The cotton-wool which\r\nwas to form his weft was picked clean by the fingers of his younger\r\nchildren, and was carded and spun by the older girls assisted by his\r\nwife, and the yarn was woven by himself assisted by his sons.\"[43]\r\n\r\nFollowing as the central point the ownership of the requisites of\r\nproduction, we find in the next stage that the ownership of the\r\nmaterial has passed from the workman into the hands of the organising\r\nmerchant or middleman, who usurps the title \"manufacturer.\" The\r\nworkman, however, still retains the ownership of the implements of his\r\ncraft and works in his own house. The condition of the worsted trade\r\nlater in the century, about 1770, well illustrates this industrial\r\nform.\r\n",
+      "reason": "Full fivebusiness-control dimensions/ownmaterials tools home/ownsale to localmarket orregularmerchant versus merchantownership ofmaterial supports fullmulti-clause control/path claim; preserve existing1681–1725/1727–1792.",
+      "initial_proposed_window": [
+        1633,
+        1679
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A03",
+      "rule": "P15-R07",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        2101,
+        2121
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        108770,
+        110069
+      ],
+      "source_byte_range_0based_endexclusive": [
+        108770,
+        110069
+      ],
+      "source_segment_sha256": "48a145a3da3738c2d020020ae5feb6b1cb49f6b749696cb0d468dc4fb3466031",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "In distinguishing a machine from a mere tool or handicraft implement\r\nit is desirable to pay special attention to two points, complexity of\r\nstructure and the activity of man in relation to the machine. Modern\r\nmachinery in its most developed shape consists, as Karl Marx points\r\nout, of three parts, which, though mechanically connected, are\r\nessentially distinct, the motor mechanism, the transmitting mechanism,\r\nand the tool or working machine.\r\n\r\n\"The motor mechanism is that which puts the whole in motion. It either\r\ngenerates its own motive power, like the steam-engine, the caloric\r\nengine, the electro-magnetic machine, etc., or it receives its impulse\r\nfrom some already existing natural force, like the water-wheel from a\r\nhead of water, the windmill from wind, etc. The transmitting\r\nmechanism, composed of fly-wheels, shafting, toothed wheels, pullies,\r\nstraps, ropes, bands, pinions, and gearing of the most varied kind,\r\nregulates the motion, changes its form where necessary, as, for\r\ninstance, from linear to circular, and divides and distributes it\r\namong the working machines. These two first parts of the whole\r\nmechanism are there solely for putting the working machines in motion,\r\nby means of which motion the subject of labour is seized upon and\r\nmodified as desired.\"[58]\r\n",
+      "reason": "Fullmotor/transmitting/working-machine three-waydefinition supports originalcondition; old2178–2237detailsguidance/definitioncontinuum butdoesnot include quotedthree mechanisms.",
+      "initial_proposed_window": [
+        2101,
+        2121
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A04",
+      "rule": "P15-R08",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        2506,
+        2549
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        132585,
+        135294
+      ],
+      "source_byte_range_0based_endexclusive": [
+        132585,
+        135294
+      ],
+      "source_segment_sha256": "e4668aca166c6e28c1c6ec4698ae39772f8711ce6f97363087ceb0bc1eac0bef",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Moreover, it was recognised, even before the birth of the great\r\ninventions, that cotton goods, when brought into free competition with\r\nwoollen goods, could easily undersell them and supplant them in\r\npopular consumption. This knowledge held out a prospect of untold\r\nfortune to inventors who should, by the application of machinery,\r\nbreak through the limitations imposed upon production by the\r\nrestricted number of efficient workers in some of the processes\r\nthrough which the cotton yarn must pass.\r\n\r\nBut the stimulus which one invention afforded to another gave an\r\naccumulative power to the application of new methods. This is\r\nespecially seen in the alternation of inventions in the two chief\r\nprocesses of spinning and weaving.\r\n\r\nEven before the invention of John Kay's Fly Shuttle, which doubled the\r\nquantity of work a weaver could do in a day, we found that spinners\r\nhad great difficulties in supplying sufficient yarn to the weavers.\r\nThis seems to have applied both to the Lancashire cotton and to the\r\nYorkshire woollen manufactures. After the fly-shuttle had come into\r\ncommon use this pressure of demand upon the spinners was obviously\r\nincreased, and the most skilful organisation of middleman-clothiers\r\nwas unable to supply sufficient quantities of yarn. This economic\r\nconsideration directed more and more attention to experiments in\r\nspinning machinery, and so we find that, long before the invention of\r\nthe jenny and the water-frame, ingenious men like John Kay of Bury,\r\nWyatt, Paul, and others had tried many patents for improved spinning.\r\nThe great inventions of Hargreaves and Arkwright and Crompton enabled\r\nspinning to overtake and outstrip weaving and when, about 1790, steam\r\nbegan to be applied to considerable numbers of spinning mills, it was\r\nno longer spinning but weaving that was the limiting process in the\r\nmanufacture of woollen and cotton cloths.\r\n\r\nThis strain upon weaving, which had been tightening through the period\r\nof the great spinning improvements, acted as a special incentive to\r\nCartwright, Horrocks, and others to perfect the power-loom in its\r\napplication, first to woollen, then to cotton industries. Not until\r\nwell into the nineteenth century, when steam power had been fully\r\napplied by many minor improvements, were the arts of spinning and\r\nweaving brought fully into line. The complete factory, where the\r\nseveral processes of carding, spinning, weaving (and even dyeing and\r\nfinishing), are conducted under the same roof and worked in\r\ncorrespondence with one another, marks the full transition from the\r\nearlier form of domestic industry, where the family performed with\r\nsimple tools their several processes under the domestic roof.[73]\r\n",
+      "reason": "Fullmarketreplacement/profit prospect and weftspinning/weaving bottleneck alternation supports demand/bottleneck mechanism; old2470–2499and2551–2603do not cover thisfulltwo-stagechain.",
+      "initial_proposed_window": [
+        2506,
+        2549
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A05",
+      "rule": "P15-R08",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        2605,
+        2638
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        138768,
+        141075
+      ],
+      "source_byte_range_0based_endexclusive": [
+        138768,
+        141075
+      ],
+      "source_segment_sha256": "153ed23de8249f7da5fe76cea0b709c202af9d6e075df0fda21f715b2895b43d",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Thus in a given trade where there are several important processes, an\r\nimprovement in one process which places it in front of the others\r\nstimulates invention in the latter, and each in its turn draws such\r\ninventive intelligence as is required to bring it into line with the\r\nmost highly-developed process. Since the later inventions, with new\r\nknowledge and new power behind them, often overshoot the earlier ones,\r\nwe have a certain law of oscillation in the several processes which\r\nmaintains progress by means of the stimulus constantly applied by the\r\nmost advanced process which \"makes the pace.\" There is nothing\r\nmysterious in this. If one process remains behind in development each\r\nincrement of inventive effort successfully applied there brings a\r\nhigher remuneration than if applied to any of the more forward\r\nprocesses. So the movement is amenable to the ordinary law of \"Supply\r\nand Demand\" enforced by the usual economic motives. As the invention\r\nof the fly-shuttle gave weaving the advantage, more and more attention\r\nwas concentrated upon the spinning processes and the jenny was\r\nevolved; the deficiency of the jenny in spinning warp evolved the\r\nwater-frame, which for the first time liberated the cotton industry\r\nfrom dependence upon linen warp: the demand for finer and more uniform\r\nyarns stimulated the invention of the mule. These notable improvements\r\nin spinning machinery, with their minor appendages, placed spinning\r\nahead of weaving, and stimulated the series of inventions embodied in\r\nthe power-loom. The power-loom was found to be of comparatively little\r\nservice until the earlier processes of dressing and sizing had been\r\nplaced on a level of machine development by the efforts of Horrocks\r\nand others. Not until after 1841 was an equilibrium reached in the\r\ndevelopment of the leading processes. So likewise each notable advance\r\nin the machinery for the main processes has had the effect of bringing\r\nan increase of inventive energy to bear upon the minor and the\r\nsubsidiary processes--bleaching, dyeing, printing, etc. Even now the\r\nearly process of \"ginning\" has not been brought fully into line in\r\nspite of the prodigious efforts, made especially in the United States,\r\nto overcome the difficulties involved in this preparatory stage of the\r\ncotton industry.\r\n",
+      "reason": "Completeoscillation/marginalremuneration and wholejenny/waterframe/mule/powerloom/dressing complementarysequence,1841equilibrium/ginningunfinished; full source actuallyread.",
+      "initial_proposed_window": [
+        2605,
+        2638
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A06",
+      "rule": "P15-R18",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        6277,
+        6352
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        355470,
+        360081
+      ],
+      "source_byte_range_0based_endexclusive": [
+        355470,
+        360081
+      ],
+      "source_segment_sha256": "071d7c5bcfb567fb39c64aeb31cc8fc92b0271aa9c3786f38c82f1ad22d41a9c",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "AL is the line indicating at the several points, B, C, D, etc.,\r\nproportional increments in supply. If the monopoly be a steel rail\r\ntrust, B marks the millionth ton, C the two millionth ton of output,\r\nand so on. A'L' is a curve indicating, by its diminishing distance\r\nfrom AL, the diminishing expense of producing each unit of the\r\nincreased output, so that the expense of producing the first ton, if\r\nonly one is produced, is AA', that of the millionth ton, if one\r\nmillion are produced, BB', and so on. The expenses of producing one\r\nmillion tons will thus be represented by the figure ABB'A', those of\r\ntwo millions by the figure ACC'A'. Further, let the curve _al_\r\nrepresent, by its diminishing distance from AL, the diminishing price\r\nat which the several additions to supply can be sold, so that the\r\nfirst ton sells at A_a_, the millionth at B_b_, and so on, the\r\naggregate price of the first million tons being AB_ba_, that of the\r\nfirst two millions being AC_ca_.\r\n\r\n    [Illustration: DIAGRAM OF TRUST PRICES.]\r\n\r\nAssuming that the Trust is planning a new business and determining the\r\nmost profitable output, it will limit that output not necessarily at\r\nthe point where the selling price gives the widest margin of profit\r\nupon the expenses of production, as might be the case at the point B\r\nin the diagram, but at the point F, where the margin of profit bears\r\nthe largest proportion to the expenses of production, or in other\r\nwords, where the area of absolute takings shows the largest surplus\r\nover the area of aggregate expenses. Thus it will here be to the\r\ninterest of the Trust to produce and sell six millions (limiting\r\nproduction at F) with an aggregate expense AFF'A' and an aggregate\r\ntakings AF_fa_, yielding an aggregate net profit A'F'_fa_. They will\r\nnot produce five millions because the figure AE_ea_ bears a smaller\r\nproportion to AEE'A' than does AF_fa'_ to AFF'A'. For a similar reason\r\nthey will not produce seven millions.\r\n\r\nSince the fluctuations in the curve of expenses and in that of selling\r\nprice or \"demand\" are determined by an entirely different set of\r\nforces, it will be evident that there may be several points in AL\r\nwhere the proportions between the area of expenses and that of profits\r\nmay be the same. So there may be several maxima at which Trust prices\r\nmay be indifferently fixed. The figure upon F'_f_ may have the same\r\nquantitative relation to the figure upon FF', as that upon H'_h_ to\r\nthat upon HH'. In such a case it will be a matter of indifference to\r\nthe Trust whether it sells five million tons at a price 100s. per ton,\r\nor seven millions at 90s.\r\n\r\nWe have seen that the causes which determine expenses at the several\r\npoints in A'L' have no relation to the causes which determine the\r\nselling price at the various points, except to furnish a minimum below\r\nwhich the price cannot fall. Above this limit expenses of production\r\nin no sense help to determine monopoly prices; the true determinants\r\nare entirely in the region of demand, and are measured by the marginal\r\nutility or satisfaction afforded to consumers by the several\r\nquantities which constitute supply at any given time.\r\n\r\nSince expenses of production always enter into the determination of\r\ncompetition-prices, which are fixed by the interaction of expenses and\r\nmoney estimates of utility--_i.e._, by supply and demand, it is\r\nevident that the curve of monopoly prices has no assignable relation\r\nwhatever to the curve of competition prices, and that the most\r\nprofitable output and prices of Trust-made goods are in no way\r\nidentified with the most profitable output and prices in a\r\ncompetitive trade. In competition the curve of selling prices tends to\r\nfollow closely the curve of expenses, and consequently the areas of\r\nprofits and expenses tend to bear the same proportion to each other at\r\ndifferent points of increment in the trade. For if at any point great\r\nincreases in economy of production are achieved, while the large\r\nelasticity of demand maintains a price nearly the same as before, the\r\nwide margin of profit which might fix the actual price at that point\r\nfor a monopolist only serves to stimulate such increased output on the\r\npart of trade competitors as will continue until the flexibility of\r\ndemand weakens, and prices are lowered to such a point as will yield\r\nthe normal margin or market rate of profit.\r\n\r\nThere is, therefore, nothing in common between competition prices and\r\nmonopoly prices for different quantities of supply, nor anything to\r\nsecure that the actual quantity of supply and the price shall be the\r\nsame in the two cases.\r\n",
+      "reason": "Fullactualmodeldiagram/aggregatearea/relativeversusabsolutemax profit/F6E5/competition contrast supports precise modern boundary warning and doesnot relabel modern criticism as authorformula. Existing6354–6395 preserved.",
+      "initial_proposed_window": [
+        6277,
+        6352
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A07",
+      "rule": "P15-R23",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        7630,
+        7679
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        438086,
+        441517
+      ],
+      "source_byte_range_0based_endexclusive": [
+        438086,
+        441517
+      ],
+      "source_segment_sha256": "dc698e1543abb970081e97a5ca763c5a56df96d00138011658a5556cbb63b41b",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Sec. 13. It is not therefore correct to say that the rate of production\r\ndetermines the rate of consumption just as much as the rate of\r\nconsumption determines the rate of production. The current productive\r\npower of capital and labour places a maximum limit upon current\r\nconsumption, but an increase of productive power exercises no\r\nsufficient force to bring about a corresponding rise in consumption.\r\nJust as in a particular trade--_e.g._, the Lancashire cotton trade, an\r\nexcess of \"saving\" may be applied to the establishment of mills and\r\nmachinery which cannot be kept working because there is no market for\r\ntheir output, so it is with trade in general. It is not true that the\r\ninflation of capital in the Lancashire trade is due to a misdirection\r\nwhich implies a lack of capital in some other branch of industry. In a\r\nperiod of depression like the present every other important branch of\r\nindustry displays the same symptoms of excessive plant, over-supply of\r\nstock, irregular and deficient employment of labour, though not to the\r\nsame extent. Nor is there any _a priori_ reason why there should not\r\nbe from time to time such general maladjustment. If ignorance and\r\nmiscalculation leads to the investment of too much capital in, say,\r\nthe cotton and iron industries, it is not unreasonable to suppose that\r\nin a complex industrial society there should be such general\r\nmiscalculation of the right proportion between saving and spending\r\nthat too much should be saved at certain periods. That is to say,\r\nturning again to the diagram of industry, just as it is admitted that\r\nmiscalculation may induce too much capital to be placed at A or B or\r\nC, and too little at one of the other points of production, disturbing\r\nthe harmonious ordering of the parts of capital, so likewise there may\r\nbe a maladjustment of the proportion between A, B, C, D, E, the\r\naggregate of forms of capital, and F, the aggregate of consumption,\r\nbetween \"saving\" and \"spending.\" Now if it be admitted that such\r\nmaladjustment is possible, the balance can only lean one way. There\r\ncannot be too little saving to furnish current consumption, taking the\r\nindustrial community as a whole, for it is impossible to increase the\r\nrate of consumption, F, faster than the increase of the rate of\r\ncurrent production: any increase of the purchase of shop-goods by\r\nraising prices and circulating more money down the paths of production\r\nstimulates and strains the sinews of production, and if the existing\r\nmachinery of production is inadequate it supplies a motive-power to\r\nincrease \"saving.\" In no case can a community consume faster than it\r\nproduces. An individual can do so by living on his capital, a nation\r\nmay do so for a time by living upon its capital, giving to other\r\nnations by means of an increased debt a lien upon its future wealth.\r\nBut a whole industrial community can never live upon its capital, can\r\nnever in the literal sense of the term \"spend too much.\" This\r\nstatement requires a single qualification. While a community can never\r\nby \"spending\" deplete its capital, while it cannot increase its\r\n\"spending\" without at the same time increasing its real capital,[169]\r\nit will doubtless be profitable to a progressive community to reduce\r\nits consumption for a while below the normal proportion in order to\r\nfully utilise new discoveries in the industrial arts which shall\r\njustify in the future increased consumption.\r\n",
+      "reason": "Wholeexactparagraph contains authorpermission temporarilyreduceconsumption tofullyutilizenewindustrialdiscoveries, existing7548–7593/8403–8435 lacks thistechniqueexception. Includesclosedcommunity flowclaim atissue ratherthanpartialqualifieronly.",
+      "initial_proposed_window": [
+        7630,
+        7679
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A08",
+      "rule": "P15-R25",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        8520,
+        8529
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        490833,
+        491494
+      ],
+      "source_byte_range_0based_endexclusive": [
+        490833,
+        491494
+      ],
+      "source_segment_sha256": "3622136193864f0a6467f3d6584b0b5266e9648c13cf8b4ac14956db5291d8be",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "The usual answer is that the economy effected by labour-saving\r\nmachinery in the expenses of production will, through competition of\r\nproducers, be reflected in a lower scale of prices, and this fall of\r\nprices will stimulate consumption. Thus, it is urged, the output must\r\nbe greatly increased. When we add together the labour spent in\r\nproducing the machinery to assist the enlarged production, the labour\r\nspent in maintaining and working the same, and the labour of conveying\r\nand distributing the enlarged production, it will be found that more\r\nlabour is required under the new than under the old conditions of\r\nindustry. So runs the familiar argument.\r\n",
+      "reason": "Fullusualcompensationargument explicitlycounts machineconstruction/maintenance/working/conveyance/distribution; existing8560–8600/9274–9294 doesnotpreciselyanchor thismulti-clause authorcondition.",
+      "initial_proposed_window": [
+        8520,
+        8529
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A09",
+      "rule": "P15-R26",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        8987,
+        9020
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        517147,
+        519335
+      ],
+      "source_byte_range_0based_endexclusive": [
+        517147,
+        519335
+      ],
+      "source_segment_sha256": "b84ed12a5446a34abc0ada73a10b4307586dff7011829a08c78872ea34fd8a61",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "(_a_) The direct and first effect of the introduction of machinery is,\r\nas we have seen, to displace labour. The machinery causes a certain\r\nquantity of unemployment, apart from the consideration of its ultimate\r\neffect on the number of persons to whom employment is given. Professor\r\nShield Nicholson finds two laws or tendencies which operate in\r\nreducing this disturbing influence of machinery. He holds (1) that a\r\nradical change made in the methods of production will be gradually and\r\ncontinuously adopted; (2) that these radical changes--these\r\ndiscontinuous leaps--tend to give place to advances by small\r\nincrements of invention.[188]\r\n\r\nHistory certainly shows that the fuller application of great\r\ninventions has been slow, though Professor Nicholson somewhat\r\nover-estimates the mobility of labour and its ability to provide\r\nagainst impending changes. The story of the introduction of the\r\npower-loom discloses terrible sufferings among the hand-weavers of\r\ncertain districts, in spite of the gradual manner in which the change\r\nwas effected. The fact that along with the growth of the power-loom\r\nthe number of hand-looms was long maintained, is evidence of the\r\nimmobility of the hand-weavers, who kept up an irregular and ill-paid\r\nwork through ignorance and incapacity to adapt themselves to changed\r\ncircumstances.[189] In most of the cases where great distress has been\r\ncaused, the directly operative influence has not been introduction of\r\nmachinery, but sudden change of fashion. This was the case with the\r\ncrinoline-hoop makers of Yorkshire, the straw-plaiters of\r\nBedfordshire, Bucks, Herts, and Essex.[190] The suddenly-executed\r\nfreaks of protective tariffs seem likely to be a fruitful source of\r\ndisturbance. So far as the displacement has been due to new\r\napplications of machinery, it is no doubt generally correct to say\r\nthat sufficient warning is given to enable workers to check the\r\nfurther flow of labour into such industries, and to divert it into\r\nother industries which are growing in accordance with the new methods\r\nof production, though much suffering is inflicted upon the labour\r\nwhich is already specialised in the older method of industry.\r\n",
+      "reason": "WholeNicholson gradualadoption propositions andHobson handloomsuffering/mobility failures/ fashiontariff changes supportauthorclaim gradualdoesnotguarantee transition; old9022–9055 containsfuturetechnology caution butnotthisspecificgradualhistory.",
+      "initial_proposed_window": [
+        8987,
+        9020
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A10",
+      "rule": "P15-R27",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        9177,
+        9229
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        529140,
+        532125
+      ],
+      "source_byte_range_0based_endexclusive": [
+        529140,
+        532125
+      ],
+      "source_segment_sha256": "d0098d223248cdca3099d5ad68f2a78c7621141c16f0ba2d2d34848f5e0a285d",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Thus it appears there are three modes in which modern capitalist\r\nmethods of production cause temporary unemployment. (1) Continual\r\nincrements of labour-saving machinery displace a number of workers,\r\ncompelling them to remain wholly or partially unemployed, until they\r\nhave \"adjusted\" themselves to the new economic conditions. (2)\r\nMiscalculation and temporary over-production, to which machine\r\nindustries with a wide unstable market are particularly prone, bring\r\nabout periodic deep depressions of \"trade,\" temporarily throwing out\r\nof work large bodies of skilled and unskilled labour. (3) Economies of\r\nmachine-production in the staple industries drive an increasing\r\nproportion of labour with trades which are engaged in supplying\r\ncommodities, the demand for which is more irregular, and in which\r\ntherefore the fluctuations in demand for labour must be greater.\r\n\r\nMost economists, still deeply imbued with a belief in the admirable\r\norder and economy of \"the play of economic forces,\" appear to regard\r\nall unemployment not assignable to individual vice or incapacity as\r\nthe natural and necessary effect of the process of adjustment by which\r\nindustrial progress is achieved, ignoring altogether the two latter\r\nclasses of consideration. There is, however, reason to believe that in\r\nan average year a far larger number of the \"unemployed\" at any given\r\ntime owe their unemployment to a temporary depression of the trade in\r\nwhich they are engaged, than to the fluctuations brought about by\r\norganic changes in the economic structure of the trade.\r\n\r\nThe size and importance of the \"unemployment\" due primarily to trade\r\ndepressions is very imperfectly appreciated. The following statistics\r\nof the condition of the skilled labour market in the period 1886-92,\r\nbased upon the reports of twenty-two trades unions, have an important\r\nbearing on this point:--\r\n\r\n    Year.     Percentage out of work.\r\n    1886         10.1 per cent.[195]\r\n    1887          8.6      \"\r\n    1888          4.4      \"\r\n    1889          1.8      \"\r\n    1890          2.6      \"\r\n    1891          4.45     \"\r\n    1892          7.33     \"\r\n    1893          7.9[196] \"\r\n\r\nWhen it is remembered that these figures apply only to the\r\nwell-organised trades unions, which, as a rule, comprise the best and\r\nmost highly-skilled workers in the several trades, who are less likely\r\nthan others to be thrown out in a \"slack time,\" that the building and\r\nseason trades are not included in the estimate, and that women's\r\nindustries, notoriously more irregular than men's, are altogether\r\nignored, it will be evident that these statistics very inadequately\r\nrepresent the proportion of unemployment for the aggregate of the\r\nworking classes at the several periods. The _Report on Principal and\r\nMinor Textile Trades_ deducts 10 per cent. from the normal wages to\r\nrepresent unemployment, though the year 1885, to which the figures\r\nrefer, is spoken of as \"fairly representative of a normal year.\"[197]\r\n",
+      "reason": "Fullthreetemporary-unemploymentchannels anduniontable/coverage(22societies,notbuildingwomen,26in1893 by196later) anchors modern noaddingoverlappingchannels/sample-notpopulation; noattributionmodernno-additiontestasHobson originalquantifiedrule.",
+      "initial_proposed_window": [
+        9177,
+        9229
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A11",
+      "rule": "P15-R28",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        9560,
+        9579
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        549810,
+        551026
+      ],
+      "source_byte_range_0based_endexclusive": [
+        549810,
+        551026
+      ],
+      "source_segment_sha256": "f5a7873b4fecb4b7d23f917bb3a07bfc6b5042089b9c37f4f2220781daf3d8a4",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Summing up the evidence, we are able to conclude that the shortening\r\nof working hours and the improvements in machinery has been attended\r\nby an increased effort per unit of labour time. In the words of an\r\nexpert, \"the change to those actually engaged in practical work is to\r\nlessen the amount of hard manual work of one class, but to increase\r\ntheir responsibility, owing to being placed in charge of more\r\nmachinery, and that of a more expensive kind; while the work of the\r\nmore lowly skilled will be intensified, owing to increased production,\r\nand that from an inferior raw material. I mean that to the operative\r\nthe improvements in machinery have been neutralised by the inferior\r\nquality of raw material used, and I think it is fair to assume that\r\ntheir work has been intensified at least in proportion to the increase\r\nof spindles, etc.\"\r\n\r\nThe direct evidence drawn from this most highly-evolved machine\r\nindustry seems to justify the general opinion expressed by Professor\r\nNicholson, \"It is clear that the use of machines, though apparently\r\nlabour-saving, often leads to an increase in the _quantity of labour_,\r\nnegatively, by not developing the mind, positively by doing harm to\r\nthe body.\"[204]\r\n",
+      "reason": "Wholecontrastingquotedexpert saysimprovementsneutralized byinferiorrawmaterialandatleastproportional-to-spindlesworkintensity, preciseevidence neededforauthor_original_conditions unlike existing9500–9558caution.",
+      "initial_proposed_window": [
+        9560,
+        9579
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A12",
+      "rule": "P15-R29",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        9679,
+        9692
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        557511,
+        558457
+      ],
+      "source_byte_range_0based_endexclusive": [
+        557511,
+        558457
+      ],
+      "source_segment_sha256": "0c705e08c89359c665f937cafd034eaf359b0d82dcc50dda760bbe9eaa1356ea",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "The question of the net intellectual effects of machinery is not one\r\nwhich admits of positive answer. It would be open to one to admit with\r\nMr. Taylor that the operatives were growing more intellectual, and\r\nthat their contact with machinery exercises certain educative\r\ninfluences, but to deny that the direct results of machinery upon the\r\nworkers were favourable to a wide cultivation of intellectual powers,\r\nas compared with various forms of freer and less specialised manual\r\nlabour. The intellectualisation of the town operatives (assuming the\r\nprocess to be taking place) may be attributable to the thousand and\r\none other influences of town life rather than to machinery, save\r\nindirectly so far as the modern industrial centre is itself the\r\ncreation of machinery.[213] It is not, I think, possible at present to\r\noffer any clear or definite judgment. But the following distinctions\r\nseem to have some weight in forming our opinion.\r\n",
+      "reason": "Fullactualcity-versusmachineeducationcausal-identification scope warning supports author_original_conditions; old9694–9740containsintellectualcontroltasks not this townconfoundingclaim.",
+      "initial_proposed_window": [
+        9679,
+        9692
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A13",
+      "rule": "P15-R31",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        10297,
+        10370
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        593655,
+        597823
+      ],
+      "source_byte_range_0based_endexclusive": [
+        593655,
+        597823
+      ],
+      "source_segment_sha256": "58359bc766382a9c4de7d1fae1833a775ded8452704a9fc871dacaec992036cb",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "SPINNING.\r\n\r\n ----------+-----------+-------------+---------+---------+------------\r\n           | Product   |  Number of  | Product | Cost of |  Average\r\n           | of yarn   |   workers   |   per   | labour  |  yearly\r\n           |   in      | in spinning | worker  | per lb. |  wages.\r\n           | 1000 lbs. |   mills.    | in lbs. |         |\r\n ----------+-----------+-------------+---------+---------+------------\r\n           |           |             |         | s.  d.  |  L s. d.\r\n 1819-21   |   106,500 |   111,000   |    968  |  6   4  | 26 13 0\r\n 1829-31   |   216,500 |   140,000   |   1546  |  4   2  | 27  6 0\r\n 1844-46   |   523,300 |   190,000   |   2754  |  2   3  | 28 12 0\r\n 1859-61   |   910,000 |   248,000   |   3671  |  2   1  | 32 10 0\r\n 1880-82   | 1,324,000 |   240,000   |   5520  |  1   9  | 44  4 0[228]\r\n ----------+-----------+-------------+---------+---------+------------\r\n\r\nWEAVING.\r\n\r\n --------+------------+-----------+------------+---------+------------\r\n         | Products   | Number of |  Product   | Cost of |  Average\r\n         |      in    | workers.  | per worker | labour  |  yearly\r\n         |  1000 lbs. |           |   in lbs.  | per lb. |  income.\r\n --------+------------+-----------+------------+---------+------------\r\n         |            |           |            |  s.  d. |  L s. d.\r\n 1819-21 |    80,620  |  250,000  |      322   |  15   5 | 20 18  0\r\n 1829-31 |   143,200  |  275,000  |      521   |   9   0 | 19 18  0[229]\r\n 1844-46 |   348,110  |  210,000  |     1658   |   3   5 | 24 10  0\r\n 1859-61 |   650,870  |  203,000  |     3206   |   2   9 | 30 15  0\r\n 1880-82 |   993,540  |  246,000  |     4039   |   2   3 | 39  0  0\r\n --------+------------+-----------+------------+---------+------------\r\n\r\nThe same holds good of the growth of the cotton-weaving industry in\r\nAmerica, as the following table shows:--\r\n\r\n  +------+-------------+-----------+-------------+\r\n  |      | Yearly      | Cost of   | Yearly      |\r\n  |      | product     | labour    | earnings    |\r\n  |      | per worker. | per yard. | per worker. |\r\n  +------+-------------+-----------+-------------+\r\n  |      |     Yards.  |   Cents.  |  Dollars.   |\r\n  | 1830 |     4,321   |    1.9    |    164      |\r\n  | 1850 |    12,164   |   1.55    |    190      |\r\n  | 1870 |    19,293   |   1.24    |    240      |\r\n  | 1884 |    28,032   |   1.07    |    290      |\r\n  +------+-------------+-----------+-------------+\r\n\r\nOf Germany and Switzerland the same holds. Every improvement of\r\nmachinery increasing the number of spindles or looms a worker can\r\ntend, or increasing the pace of the machinery and thus enlarging the\r\noutput per worker, is attended by a higher weekly wage, and in general\r\nby a shortening of the hours of labour.\r\n\r\nA detailed comparison of England, the United States, and the\r\nContinent, as regards the present condition of the cotton industry,\r\nyields the same general results. A comparison between England and the\r\nUnited States shows that in weaving, where wages are much higher in\r\nAmerica, the labour is so much more efficient as to make the cost of\r\nproduction considerably lower than in England; in spinning, where\r\nEnglish wages are about as highly paid, the cost of production is\r\nlower than in America (p. 156). A comparison between Switzerland and\r\nGermany, England, and America, as regards weaving, yields the\r\nfollowing results (p. 151):--\r\n\r\n  ---------------------+-------------+-----------+----------+--------\r\n                       |   Weekly    |           |          |\r\n                       |   product   |   Cost    | Hours of | Weekly\r\n                       | per worker. | per yard. | labour.  | wage.\r\n  ---------------------+-------------+-----------+----------+--------\r\n                       |   Yards.    |           |          | s.  d.\r\n  Switzerland and      |             |           |          |\r\n    Germany            |     466     |   0.303   |    12    | 11   8\r\n  England              |     706     |   0.275   |     9    | 16   3\r\n  America              |    1200     |   0.2     |    10    | 20   3\r\n  ---------------------+-------------+-----------+----------+--------\r\n",
+      "reason": "Completeallfourprintedfinancial-productiontables/headers supportmodernunit/samplesuspend-numeric boundary. Old10452–10500/10542–10580discusscausal/costcomparisons butnotactual problematicperlb/peryard/timecurrencyheads.",
+      "initial_proposed_window": [
+        10297,
+        10370
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A14",
+      "rule": "P15-R32",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        10729,
+        10768
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        619962,
+        622558
+      ],
+      "source_byte_range_0based_endexclusive": [
+        619962,
+        622558
+      ],
+      "source_segment_sha256": "b79d0a7ffb0a2de6fe6491d39b10e0ef7cd7fcfd75dda3bb25bd0d77a432fe9f",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "Sec. 8. Duration of labour, intensity of labour, and wages, in their\r\nmutual relations, must be studied together in any attempt to estimate\r\nthe tendencies of capitalist production. Nor can we expect their\r\nrelations to be the same in any two industries. Where labour is\r\nthinly extended over an inordinately long working-day, as in the\r\nIndian mills, it is probable that such improvements of organisation as\r\nmight shorten the hours to those of an ordinary English factory day,\r\nand intensify the labour, would be a benefit, and the rise of wages\r\nwhich might follow would bring a double gain to the workers. But any\r\nendeavour to further shorten and intensify the working-day might\r\ninjure the workers, even though their output were increased. Such an\r\ninstance, however, may serve well to bring home the relativity which\r\nis involved in all such questions. The net benefit derived from a\r\nparticular quantitative relation between hours of labour, intensity,\r\nand earnings would probably be widely different for English and for\r\nIndian textile workers. It would, _a priori_, be unreasonable to\r\nexpect that the working-day which would bring the greatest net\r\nadvantage to both should be of the same duration. So also it may well\r\nbe possible that the more energetic nervous temperament of the\r\nAmerican operative may qualify him or her for a shorter and intenser\r\nworking-day than would suit the Lancashire operative. It is the\r\ninseparable relation of the three factors--duration, intensity, and\r\nearnings--which is the important point. But in considering earnings,\r\nnot merely the money wage, nor even the purchasing power of the money,\r\nbut the net advantage which can be obtained by consuming what is\r\npurchased must be understood, if we are to take a scientific view of\r\nthe question.\r\n\r\nIt should be clearly recognised that in the consideration of all\r\npractical reforms affecting the conditions of labour, the \"wages\"\r\nquestion cannot be dissociated from the \"hours\" question, nor both\r\nfrom the \"intensity of labour\" question; and that any endeavour to\r\nsimplify discussion, or to facilitate \"labour movements,\" by seeking a\r\nseparate solution for each is futile, because it is unscientific. When\r\nany industrial change is contemplated, it should be regarded, from the\r\n\"labour\" point of view, in its influence upon the net welfare of the\r\nworkers, due regard being given, not merely to its effect upon wage,\r\nhours, and intensity, but to the complex and changing relations which\r\nsubsist in each trade, in each country, and in each stage of\r\nindustrial development between the three.\r\n",
+      "reason": "Fullsection8explicitconditionalstartingpoint/duration-intensity-earnings relativity andnetconsumptiongain supports author_original_conditions; existing10641–10727doesnotcover thisdifferentinitialworkingdaycontrast.",
+      "initial_proposed_window": [
+        10729,
+        10768
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A15",
+      "rule": "P15-R37",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        11219,
+        11296
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        648738,
+        653910
+      ],
+      "source_byte_range_0based_endexclusive": [
+        648738,
+        653910
+      ],
+      "source_segment_sha256": "4f350f53f6af2f368c6cb4c1929bfdd919e289d1b2ad194d42e6a609b9c76292",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "MALE AND FEMALE EMPLOYMENT IN MANUFACTURES, 1841-91.\r\n\r\n---------------------------+------------------+------------------+\r\n                           |      M. 1841. F. |      M. 1851. F. |\r\n---------------------------+------------------+------------------+\r\nEarthenware                |   23,600    7,400|   34,800   11,700|\r\nFuel, Gas, Chemicals       |    5,800      300|   16,400    1,700|\r\nFur, Leather, Glue         |   31,600    2,400|   44,500    6,500|\r\nWood Furniture, Carriages, |                  |                  |\r\netc.                       |  147,500    4,900|  180,200    8,900|\r\nPaper, Floorcloth,         |                  |                  |\r\nWaterproof, etc.           |    8,900    3,200|   13,600    8,300|\r\nTextiles, Dyeing           |  346,200  257,600|  462,400  472,100|\r\nDress                      |  343,600  177,200|  397,500  471,200|\r\nFood, Drink, Smoking       |   82,700    8,000|  120,900   12,400|\r\nWatches, Instruments,      |                  |                  |\r\nToys                       |   19,600      800|   23,500    1,300|\r\nPrinting, Bookbinding,     |                  |                  |\r\netc.                       |   21,100    1,800|   30,400    3,800|\r\n---------------------------+------------------+------------------+\r\nTOTAL                      |1,030,600  463,600|1,324,200  997,900|\r\n---------------------------+------------------+------------------+\r\n\r\n---------------------------+--------------------+--------------------+\r\n                           |      M. 1861. F.   |      M. 1871. F.   |\r\n---------------------------+--------------------+--------------------+\r\nEarthenware                |   42,500     13,400|   49,700     17,700|\r\nFuel, Gas, Chemicals       |   24,800      1,500|   34,900      4,100|\r\nFur, Leather, Glue         |   47,300      8,300|   49,400     10,200|\r\nWood Furniture, Carriages, |                    |                    |\r\netc.                       |  202,200     14,100|  214,200     19,500|\r\nPaper, Floorcloth,         |                    |                    |\r\nWaterproof, etc.           |   14,600     10,700|   20,300     13,400|\r\nTextiles, Dyeing           |  439,700    526,500|  414,500    555,500|\r\nDress                      |  378,600    550,900|  363,300    552,700|\r\nFood, Drink, Smoking       |  133,400     15,600|  145,700     18,500|\r\nWatches, Instruments,      |                    |                    |\r\nToys                       |   32,800      2,900|   35,900      3,000|\r\nPrinting, Bookbinding,     |                    |                    |\r\netc.                       |   41,300      6,200|   57,600      8,600|\r\n---------------------------+--------------------+--------------------+\r\nTOTAL                      |1,357,200  1,150,100|1,385,500  1,203,200|\r\n---------------------------+--------------------+--------------------+\r\n\r\n---------------------------+--------------------+--------------------+\r\n                           |       M. 1881. F.  |       M. 1891. F.  |\r\n---------------------------+--------------------+--------------------+\r\nEarthenware                |   52,200     19,700|   64,300     23,800|\r\nFuel, Gas, Chemicals       |   44,000      4,000|   66,400      6,300|\r\nFur, Leather, Glue         |   49,400     13,300|   59,100     18,200|\r\nWood Furniture, Carriages, |                    |                    |\r\netc.                       |  221,600     18,400|  253,600     23,300|\r\nPaper, Floorcloth,         |                    |                    |\r\nWaterproof, etc.           |   24,600     23,200|  28,600     34,200 |\r\nTextiles, Dyeing           |  396,400    566,200|  430,500    585,600|\r\nDress                      |  344,700    609,300|  353,800    681,300|\r\nFood, Drink, Smoking       |  152,300     28,900|  173,100     50,200|\r\nWatches, Instruments,      |                    |                    |\r\nToys                       |   41,700      3,400|   44,600      5,500|\r\nPrinting, Bookbinding,     |                    |                    |\r\netc.                       |   75,000     13,100|  102,100     19,100|\r\n---------------------------+--------------------+--------------------+\r\nTOTAL                      |1,401,900  1,299,500|1,576,100  1,447,500|\r\n---------------------------+--------------------+--------------------+\r\n\r\nFrom this table we perceive that while the number of males engaged in\r\nthese manufactures has increased by 53 per cent. during the half\r\ncentury 1841 to 1891, the number of females has increased by 221 per\r\ncent. This movement, which must be regarded partly as a displacement\r\nof male by female labour, partly as an absorption of new manufactures\r\nby female labour, proceeded with great rapidity from the beginning of\r\nthe period up to 1881. The check apparent in the last decennium, in\r\nwhich the number of males employed seems to have increased faster than\r\nthat of the females, does not, however, indicate a reversal or even a\r\nsuspension of the industrial movement. It is attributable to an\r\nabnormal change in a single great industry--the cotton trade;\r\nexcluding this, the employment of females in each group of\r\nmanufactures has grown faster than that of males.\r\n",
+      "reason": "Full120celltable/printedtotals and original 53/221/eachnoncottonclaim anchor the existing modern arithmetic warning and newly visible earthenware exception; source values remain.",
+      "initial_proposed_window": [
+        11219,
+        11296
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A16",
+      "rule": "P15-R42",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        12231,
+        12359
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        711262,
+        719959
+      ],
+      "source_byte_range_0based_endexclusive": [
+        711262,
+        719959
+      ],
+      "source_segment_sha256": "ee651edce43190e2d1579399fe0d1cd37beb522f04762403230fb8c24590b0b3",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "LEADING POINTS IN THE DEVELOPMENT OF FACTORY LEGISLATION.\r\n\r\n-----+-------------------+--------------+------------------------+\r\n     |                   | Class of     |                        |\r\n     |  Industries       | Workers      | Nature of              |\r\nDate.|  affected.        | chiefly      | Regulations.           |\r\n     |                   | protected.   |                        |\r\n-----+-------------------+--------------+------------------------+\r\n1802 | Cotton and 'other | Apprenticed  | 12 Hours Day.          |\r\n     | mills' (applied   | Pauper       | Night-work regulated.  |\r\n     | exclusively to    | Children.    | Education, sanitation. |\r\n     | cotton).          |              |                        |\r\n     |                   |              |                        |\r\n1819}|    Do.            | Children     | Prohibition of work    |\r\n1820}|    Do.            | (not         | under 9 years. Young   |\r\n     |                   | Paupers).    | persons (under 16) a   |\r\n     |                   |              | 12 hour day.           |\r\n     |                   |              | Regulation for         |\r\n     |                   |              | meal-time. Amendment   |\r\n     |                   |              | of 1802 Act.           |\r\n     |                   |              |                        |\r\n1825 |    Do.            |   Do.        | Shortened Saturday     |\r\n     |                   |              | labour. Penalties      |\r\n     |                   |              | provided for breach    |\r\n     |                   |              | of Factory             |\r\n     |                   |              | Regulations.           |\r\n     |                   |              |                        |\r\n     |                   |              |                        |\r\n1833}| All Textile       | Children     | 48 Hours Week for      |\r\n1834}| Industries.       | and Young    | Children (9-13), 69    |\r\n     |                   | Persons.     | Hours for Young        |\r\n     |                   |              | Persons (13-18).       |\r\n     |                   |              | Prohibits night-work   |\r\n     |                   |              | for Young Persons.     |\r\n     |                   |              | Children in Silk Mills,|\r\n     |                   |              | 10 Hours Day.          |\r\n     |                   |              |                        |\r\n1842 | Mines.            | Children and | No underground         |\r\n     |                   | Women.       | work.                  |\r\n     |                   |              |                        |\r\n1844}|                   | Children,    | Factory Acts applied.  |\r\n to }| Printworks.       | Young        | 'False relay' system   |\r\n1846}|                   | Persons,     | for children checked.  |\r\n     |                   | Women.       | 6-1/2 Hours Day for    |\r\n     |                   |              | Children. Female Young |\r\n     |                   |              | Persons age raised to  |\r\n     |                   |              | 21. 12 Hours Day for   |\r\n     |                   |              | Women. No night-work   |\r\n     |                   |              | for women.             |\r\n     |                   |              |                        |\r\n1847}| Textile Factories,|    Do.       | 10 Hours Day,          |\r\n to }| Printworks, etc.  |              | afterwards 10-1/2      |\r\n1850}|                   |              | Hours Day for Young    |\r\n     |                   |              | Persons and Women,     |\r\n     |                   |              | practically for Men.   |\r\n     |                   |              |                        |\r\n1860 | Bleaching and     |   Do.        | Do., with special      |\r\n     | Dyeing.           |              | regulations for        |\r\n     |                   |              | overtime.              |\r\n     |                   |              |                        |\r\n1860 | Coal and Iron     | All          | Restriction on male    |\r\n     | Mines.            | Workers.     | labour under 12.       |\r\n     |                   |              | Safety, ventilation,   |\r\n     |                   |              | etc.                   |\r\n1863 | Finishing         | Children,    |}                       |\r\n     | processes in      | Young        |}                       |\r\n     | Bleaching and     | Persons,     |}                       |\r\n     | Dyeing,           | Women.       |}                       |\r\n     | Bakehouses, Alkali|              |}                       |\r\n     | Works.            |              |}                       |\r\n     |                   |              |}                       |\r\n1864 | Non-textile       |   Do.        |} Factory Acts          |\r\n     | Factories,        |              |} generally             |\r\n     | (Earthenware,     |              |} applied.              |\r\n     | Fustian Cutting,  |              |}                       |\r\n     | Cartridges,       |              |}                       |\r\n     | Lucifer Matches,  |              |}                       |\r\n     | Paper-staining).  |              |}                       |\r\n     |                   |              |                        |\r\n1867 | All Factories     |   Do.        | Factory Acts Extension |\r\n     | & Workshops.      |              | Act. Workshops         |\r\n     |                   |              | Regulation Act,        |\r\n     |                   |              | applying to Workshops. |\r\n     |                   |              | Factory rules affecting|\r\n     |                   |              | hours, education, etc. |\r\n     |                   |              | in modified form.      |\r\n     |                   |              |                        |\r\n1867 | Agriculture.      | Children,    | Act for Suppression of |\r\n     |                   | Women.       | Agricultural Gangs     |\r\n     |                   |              | fixing minimum age at  |\r\n     |                   |              | 8, regulating          |\r\n     |                   |              | employment of Women.   |\r\n     |                   |              |                        |\r\n1870 | Printworks,       | Children,    | Application of chief   |\r\n     | Bleaching,        | Young        | provisions of 1867     |\r\n     | Dyeing.           | Persons,     | Factory Act.           |\r\n     |                   | Women.       |                        |\r\n     |                   |              |                        |\r\n1871 | Brickworks and    | Children and | Forbids employment.    |\r\n     | Fields.           | Young Female | Improved conditions    |\r\n     |                   | Persons.     | for Women.             |\r\n     |                   |              |                        |\r\n1873 | Agriculture.      | Children.    | Minimum age raised     |\r\n     |                   |              | to 10.                 |\r\n     |                   |              |                        |\r\n1878 | Factories,        | Children,    | Consolidation of       |\r\n     | Workshops,        | Young        | Factories &            |\r\n     | Agriculture.      | Persons,     | Workshops Act          |\r\n     |                   | Women,       | (extending some        |\r\n     |                   | (incidentally| provisions to          |\r\n     |                   | Men).        | agriculture).          |\r\n     |                   |              |                        |\r\n1891 |    Do.            |    Do.       | Amendment of Factories |\r\n     |                   |              | & Workshops Act. Age   |\r\n     |                   |              | for Children raised to |\r\n     |                   |              | 11. Protection in      |\r\n     |                   |              | dangerous trades.      |\r\n     |                   |              |                        |\r\n1892 | Shops.            | Children,    | Limits working-day.    |\r\n     |                   | Young        |                        |\r\n     |                   | Persons.     |                        |\r\n     |                   |              |                        |\r\n1893 | Various           | All          | Restrictions on        |\r\n     | Trades.           | workers.     | dangerous trades.      |\r\n     |                   |              |                        |\r\n     |                   |              |                        |\r\n1893 | Railways.         | Adult males  | Restrictions on        |\r\n     |                   |              | hours of labour.       |\r\n     |                   |              |                        |\r\n",
+      "reason": "Complete regulation/date/coverage half paired with existing fulladministration half supports 1802–1893 historicalmergedtable condition, not underlying acts fully independently validated.",
+      "initial_proposed_window": [
+        12231,
+        12359
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "P15-PEER-A17",
+      "rule": "P15-R43",
+      "source_file": "source/original.txt",
+      "source_full_sha256": "9b61b19c7974e1ef02693cd8a675bd07dafb2d6b1a05c983fd82ef45c9120109",
+      "source_global_lines_inclusive": [
+        12885,
+        12908
+      ],
+      "source_unicode_char_range_0based_endexclusive": [
+        745004,
+        746505
+      ],
+      "source_byte_range_0based_endexclusive": [
+        745004,
+        746505
+      ],
+      "source_segment_sha256": "089ea108a80ca6c9bfb6f0e525e34f9d53320812765c2176408a9ba9ade66e27",
+      "raw_crlf_preserved": true,
+      "hash_method": "RawUTF8originalCRLFdirectsplitlineskeepends no normalization",
+      "source_text": "The portentously rapid growth of the largest cities is of course not\r\nwholly attributable to economic causes. To form the capital cities of\r\nthe New World, political and social influences have co-operated with\r\nindustrial. Nor can these causes be ignored in explaining the rapid\r\ngrowth of certain European capitals, especially Berlin, Paris,\r\nLondon, and Vienna. But the effective operation of these forces is\r\nlargely dependent on the modern machinery of transport, and in the\r\nmain these great centres must be regarded as manufacturing and\r\ncommercial towns.\r\n\r\nThough the lack of any common statistical basis prevents us from being\r\nable to trace with exactitude the comparative pace of this movement in\r\ndifferent countries, we know enough to justify the general conclusion\r\nthat this centralising tendency varies directly with the degree of\r\nmaterial civilisation attained in the several countries by the mass of\r\nthe population. In England, France, United States, Australia, where\r\nsteam engines, electric light, newspapers, and all the most highly\r\nelaborated mechanical contrivances are available in towns, the growth\r\nof town life is most rapid; in Russia, Turkey, India, Egypt, where\r\nmechanical development is still far behind, the townward march is far\r\nslower. As the area of machine-industry spreads, so this movement of\r\npopulation will become more general, and as towns grow larger so it\r\nwould appear that this power to suck in the rural population is\r\nstronger and more extensive.\r\n",
+      "reason": "Two complete political/social influences ofNewWorldandEuropeancapitalcities and lackcommonstatisticalbasis paragraphs supportoriginalcondition; existing12910–12955 onlyinternationalruraldivision notpoliticalcapital condition.",
+      "initial_proposed_window": [
+        12885,
+        12908
+      ],
+      "printed_page_verified": false,
+      "source_filename_nominal_page_is_not_printscan_verification": true,
+      "reviewer_full_original_chapter_previously_actually_read": true,
+      "expanded_context_additional_actual_reread_complete": true,
+      "actual_reread_batches": [
+        [
+          1,
+          5
+        ],
+        [
+          6,
+          10
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          16,
+          17
+        ]
+      ]
+    }
+  ],
+  "all17expandedcontexts_actual_reread_complete": true,
+  "no_original_or_canonical_changes": true,
+  "final_qualified": false
+}

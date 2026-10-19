@@ -1,0 +1,69 @@
+{
+  "visually_reviewed_pdf_pages": [
+    179,
+    181,
+    188,
+    235,
+    251
+  ],
+  "printed_pages": [
+    163,
+    165,
+    172,
+    219,
+    235
+  ],
+  "findings": [
+    {
+      "type": "original_source_misdescription_vs_official_record",
+      "printed_page": 163,
+      "original_text": "Governor of the Federal Reserve Board of New York",
+      "primary_external_source": "https://www.newyorkfed.org/aboutthefed/BStrongbio.html",
+      "verified_name": "Governor of the Federal Reserve Bank of New York",
+      "source_scope": "Official biography only, not full underlying hearing reviewed"
+    },
+    {
+      "type": "original_source_reference_error_vs_official_catalogue",
+      "printed_page": 165,
+      "original_text": "Seventy-Seventh Congress",
+      "verified_catalogue": "Sixty-Seventh Congress, First Session, 1921",
+      "primary_external_source": "https://fraser.stlouisfed.org/title/agricultural-inquiry-959/volume-1-37516",
+      "source_scope": "Official catalogue title only; hearing not counted as read"
+    },
+    {
+      "type": "original_cross_chapter_difference_preserved",
+      "printed_pages": [
+        65,
+        172
+      ],
+      "values_millions": [
+        1033,
+        1032
+      ],
+      "qualification": "Both visible in original scan; external statistical definitions not obtained, no silent unification"
+    },
+    {
+      "type": "reparations_conditions_match_scan",
+      "printed_page": 219,
+      "nominal_pounds": 6600000000,
+      "A_B_pounds": 2500000000,
+      "C_contingent_pounds": 4100000000,
+      "annual_fixed_pounds": 100000000,
+      "export_rate_pct": 26,
+      "estimated_annual_export_payment_pounds": 50000000,
+      "estimated_total_annual_pounds": 150000000,
+      "coupon_pct": 5,
+      "sinking_fund_pct": 1,
+      "source_claim_not_current_statistic": true
+    },
+    {
+      "type": "Dane_quoted_estimates_match_scan",
+      "printed_page": 235,
+      "invisible_unemployment_estimate": 4000000,
+      "officialdom_growth_pct": 49,
+      "scope": "Author quote of Dane/other estimate; no independent population report read"
+    }
+  ],
+  "reviewed_utc": "2026-10-12T13:13:34.649717+00:00",
+  "no_claim_all_source_statistics_independently_verified": true
+}

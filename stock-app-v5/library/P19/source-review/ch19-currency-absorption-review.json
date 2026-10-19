@@ -1,0 +1,29 @@
+{
+  "book_id": "P19",
+  "chapter": 19,
+  "printed_page": 335,
+  "pdf_page": 347,
+  "all_15rows_45numeric_cells_read_visually": true,
+  "all_row_additions_match": true,
+  "units": "lakhs=100000rupees;publiccurrencyabsorption excludes sovereigns anddepends no rupeemelting assumption",
+  "source_images": [
+    "pdf343.png",
+    "pdf347.png",
+    "pdf355.png"
+  ],
+  "other_confirmed_original_values": {
+    "paper331": "notesdiscount7/16%;golddiscount1/4%;132+1694=1826lakhs,near£12m at15Rs/£",
+    "paper343": "101½centsperfineounce;1rupeenoteintroduced1918;future1919exchange1s8d"
+  },
+  "independent_selected_arithmetic": {
+    "old100florins_then20_then40percent": 8,
+    "London_gold_standard_reserve14m_minus8m": 6000000,
+    "India_portion4m_plus8m": 12000000,
+    "1899_1901_rupeeabsorption": 2398,
+    "1905_1907_rupeeabsorption": 3192,
+    "1826_lakhs_at15Rs_per_pound": 12173333.333333334
+  },
+  "famine_vs_worldcredit": "Authorprefersworldcredit; causalweightsnotidentified; oppositesignsdo notaloneprovefamineeffectsmall",
+  "artifact_sha256": "deff435cb6dc6c4ae8673c0d3fc7925701b006c97a09790dc4ee5181fb2039db",
+  "raw_scan_and_OCR_preserved": true
+}

@@ -1,0 +1,43 @@
+{
+  "book_id": "P20",
+  "chapter": 1,
+  "full_original_source_pdf_read_batches": [
+    [
+      21,
+      27
+    ],
+    [
+      28,
+      35
+    ]
+  ],
+  "main_notes_recapitulation_and_authorities_read": true,
+  "original_images_read": [
+    6,
+    24,
+    31
+  ],
+  "original_confirmed_tobacco_prices": {
+    "paper4": {
+      "1628": "3shillings6pence per pound",
+      "1631": "6pence",
+      "1639": "3pence",
+      "1645": "one and one-half penny (1½d)",
+      "1665": "one penny"
+    },
+    "paper11_range_summary": "1619–1775:3shillings6pence down to one penny"
+  },
+  "internal_source_difference": "Withdrawn: purported paper4 halfpenny vs paper11 minimum1d conflict was introduced by the original dossier misreading, not a conflict of the source. Actual1645 1½d and1665 1d are compatible with the stated range; rawOCR and original scan unchanged.",
+  "OCR_fraction_difference": "paper4 rawOCR lost leading1/fractionstructure; actual whole original page independently reviewed at400DPI confirms1645 1½d,1665 1d. Previous image-derived halfpenny reading corrected in this audit, not by modifying original OCR.",
+  "independent_unit_chain": {
+    "white_beads_per_stiver": 6,
+    "stivers_per_florin": 20,
+    "florins_per_beaver": 8,
+    "result_beads_per_beaver": 960
+  },
+  "author_internal_theory_nuance": "paper10 combined monetary/nonmonetary demand vs paper15recapitulation emphasis nonmonetary usefulness; not silently harmonized",
+  "cross_book_challenge": "P19 Hawtrey371–373 makes monetary gold demand relevant; used as explicit independent challenge, not attributed to White chapter1",
+  "full_external_quoted_histories_read": false,
+  "all_scan_glyphs_verified": false,
+  "prior_review_preserved_as_snapshot": "independent-review/ch01-numeric-and-internal-review.pre-QA.json"
+}

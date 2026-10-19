@@ -1,0 +1,1414 @@
+{
+  "book_id": "P19",
+  "status": "full_review_done_13required_correction_groups_unmerged_not_passed",
+  "required_findings": [
+    {
+      "id": "P19-QA-C01",
+      "issue": "All51 source.locator_basis strings reverse the mathematical mapping: paper n=PDF n+12 is false; actual PDF=printed+12/printed=PDF−12. Current numeric arrays correct so do not remap arrays incorrectly.",
+      "old_exact": "1919 original scan: paper n=PDF n+12. Pages read as full OCR; only stated images visually checked.",
+      "new_exact": "1919 original scan: PDF page = printed page + 12; printed page = PDF page − 12. Pages read as full OCR; only stated images visually checked."
+    },
+    {
+      "id": "P19-QA-C02",
+      "rule": "P19-R05",
+      "issue": "Cash drawn for wages and gradually retained by public is primarypaper21–23/PDF33–35; current source pages24–28 mainly merchant rates/control and do not directly support this complete subclaim. Add exact primaryparagraphs and these printed pages; retain current rate/control evidence."
+    },
+    {
+      "id": "P19-QA-C03",
+      "rule": "P19-R10",
+      "classification": "author_claim_condition_missing",
+      "old_author_meaning": "歉收增加进口需求，外国贷款改变收款与支出的分布；金属可运输时汇率偏离会触及输送界限。",
+      "new_author_meaning_candidate": "歉收先减少产出与收入；若支出因动用余额而未同比减少，汇兑才受不利压力。外国贷款改变国际支付与支出分布；真实兑换和金属运输可行时，汇率偏离受金输送成本界限约束。",
+      "supporting_printed_pages": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "chapter_prose_already_qualified": true,
+      "no_original_source_number_change": true,
+      "additional_required_inputs_candidate": [
+        "income_flows",
+        "outlay_flows",
+        "unused_balances"
+      ]
+    },
+    {
+      "id": "P19-QA-C04",
+      "rule": "P19-R09",
+      "classification": "source_page_scope_incomplete",
+      "issue": "The explicit aggregate other payments net statement and example are paper61/PDF73, beyondcurrentprinted56–60; add61 while preserving existing56–60 and source paragraph."
+    },
+    {
+      "id": "P19-QA-C05",
+      "rule": "P19-R20",
+      "classification": "original_application_condition_missing_in_rule",
+      "issue": "Foreignasset sale mechanism originalpaper119–120 requires receivedlocal paper actually withheldfromcirculation, not lentoutagain, plus maintainedcredit contraction. Current rule/requiredinputs omit this important condition though chapterdraft explicitly preserves it. Add exactfragment localch08lines550–609 and requiredinputs for actualcurrencywithdrawal/re-lending/credit response; make relevant conditionalabstention explicit. Does not reject a different modern policy objective by fiat.",
+      "additional_required_inputs_candidate": [
+        "cash_withdrawal",
+        "bank_re_lending",
+        "discount_rate"
+      ],
+      "author_meaning_candidate": "为支持所述汇价目标出售外国资产时，收到的本地纸币须实际退出且不再放出，并维持信用限制；印度汇兑与兑换界限以及不同群体的现金和信用习惯又限定渠道。",
+      "application_boundary_addition": "缺真实回收、再放贷或信用限制资料时，弃权于此机制已维持汇价的判断。"
+    },
+    {
+      "id": "P19-QA-C06",
+      "rule": "P19-R18",
+      "classification": "multi_claim_precise_evidence_required",
+      "issue": "The slowcashreturn following continuedearlyabsorption after contraction is directly paper125–126/PDF137–138, notcurrent107–111 alone. Add finalparagraphs/localch08lines840–916 and pages125/126; retain earlymerchant/order evidence. Existing draft preserveslag, not a needed chapter rewrite."
+    },
+    {
+      "id": "P19-QA-C07",
+      "rule": "P19-R23",
+      "classification": "author_claim_causal_allocation",
+      "old_author_meaning": "固定债息与短期融资使收入变化放大股东残余收益，投机及可随时收回的贷款在危机中加重出售压力。",
+      "new_author_meaning_candidate": "固定债息可使经营收入变化放大股东残余收益；投机者的短期或可随时收回融资在危机中加重出售压力。",
+      "issue": "Sourcepaper146 hypothetical corporate5/10dividend amplification stems fixeddebentureinterest; its separate nextdiscussion short/call funding causes selling/liquiditypressure. Do not attribute both mechanisms to operating residualprofit arithmetic. Draft itself properly separated."
+    },
+    {
+      "id": "P19-QA-C08",
+      "classification": "new_original_vs_OCR_numeric_gap",
+      "printed_page": 147,
+      "pdf_page": 159,
+      "source_file": "source/ch09.txt",
+      "issue": "Main renewalcommission originalscan reads½ percent perday; OCRlocallines911–913 reads1 percent perday. Originalfootnote quoted1884 4percent perday intact. No draft currently assertsmain numeric, so record explicit source transcription gap/audit rather than overwriteraw. Do not calibrate or annualize either.",
+      "original_image": "index_team/peer-QA/P19-scan/leverage-159.png"
+    },
+    {
+      "id": "P19-QA-C09",
+      "rule": "P19-R26",
+      "classification": "multi_claim_precise_evidence_required",
+      "issue": "Rule title links suspensionissuecap and preservationgoldconflict; primaryremoveissuelimit and goodsecurity/highrate thenrestrictloans vs suspendgold decision is originalpaper152–154/PDF164–166, outside currentsourcepages159–162. Add exactearlych10paragraphs/local40–166 along with159–162; keep author noactualgoldexchangecrisiscase condition within latter evidence. No chapterprose rewrite."
+    },
+    {
+      "id": "P19-QA-C10",
+      "classification": "chapter_minor_date_error",
+      "file": "ch16.md",
+      "old_exact": "七月至次年二月附近的差价",
+      "new_exact": "八月至次年二月附近的差价",
+      "source": "source/ch16.txt local346–383/PDF274 paper262; scan says23August1795 to22February1796, tablestartsAug.",
+      "body_Han_count_change": 0
+    },
+    {
+      "id": "P19-QA-C11",
+      "classification": "chapter_fineness_fraction_reversed",
+      "file": "ch18.md",
+      "old_exact": "应有的十一分之十二成色",
+      "new_exact": "应有的十二分之十一成色",
+      "source": "source/ch18.txt local66–82/PDF312 paper300; original11/12fine vsusual9/10",
+      "body_Han_count_change": 0
+    },
+    {
+      "id": "P19-QA-C12",
+      "classification": "rule_market_value_mislabelled_repayment",
+      "rule": "P19-R42",
+      "field": "application_boundary",
+      "old_exact": "大陆纸币一比四十早期偿付安排、后来的低价值兑付与1790办法不同，不能合成单一回收率。",
+      "new_exact": "大陆纸币约一比四十是1780年相对银的市场价值；随后五年票据认购按不高于一比二十，1790年残余股票认购按一比一百，不能合成单一回收率。",
+      "source": "source/ch18.txt local270–354;PDF317 paper305 market1/40 andPDF318 paper306 bonds1/20/1790stock1/100 visuallyconfirmed",
+      "also_update_if_exactduplicated": "independent_analysis contains same boundary sentence"
+    },
+    {
+      "id": "P19-QA-C13",
+      "classification": "all51_rules_exact_evidence_and_crosschapter_scope",
+      "issue": "Original51rules onlywidepageledger/entirechapter fileSHA withno preciseparagraphlocators. Add184 handchosen originalfragments withlocal inclusive lines/rawbytes/Unicode offsets/SHA/excerpt; all fullchapter contextactuallyread. R29 source mustinclude21corroboration;R34 selectedpaper232notes/bonds paragraph alsoaddactivepagecoverage whilelegacyoldpage scope retained. Do not replace oldscope silently or claimOCRexcerpts are visuallycertifiedtranscriptions."
+    }
+  ],
+  "exact_field_changes": [
+    {
+      "rule_id": "P19-R10",
+      "field": "author_meaning",
+      "old": "歉收增加进口需求，外国贷款改变收款与支出的分布；金属可运输时汇率偏离会触及输送界限。",
+      "new": "歉收先减少产出与收入；若支出因动用余额而未同比减少，汇兑才受不利压力。外国贷款改变国际支付与支出分布；真实兑换和金属运输可行时，汇率偏离受金输送成本界限约束。"
+    },
+    {
+      "rule_id": "P19-R10",
+      "field": "required_inputs",
+      "old": [
+        "crop_output",
+        "imports",
+        "loan_proceeds",
+        "foreign_outlay",
+        "shipment_cost",
+        "convertibility"
+      ],
+      "new": [
+        "crop_output",
+        "imports",
+        "loan_proceeds",
+        "foreign_outlay",
+        "shipment_cost",
+        "convertibility",
+        "income_flows",
+        "outlay_flows",
+        "unused_balances"
+      ]
+    },
+    {
+      "rule_id": "P19-R20",
+      "field": "author_meaning",
+      "old": "外国债权可用于维持汇价，印度制度以伦敦与印度之间的汇兑和兑换界限调节；农民、商人与制造商的现金和信用需求有差别。",
+      "new": "为支持所述汇价目标出售外国资产时，收到的本地纸币须实际退出且不再放出，并维持信用限制；印度汇兑与兑换界限以及不同群体的现金和信用习惯又限定渠道。"
+    },
+    {
+      "rule_id": "P19-R20",
+      "field": "required_inputs",
+      "old": [
+        "foreign_reserve_rights",
+        "local_redemption",
+        "remittance_terms",
+        "cash_habits",
+        "seasonality"
+      ],
+      "new": [
+        "foreign_reserve_rights",
+        "local_redemption",
+        "remittance_terms",
+        "cash_habits",
+        "seasonality",
+        "cash_withdrawal",
+        "bank_re_lending",
+        "discount_rate"
+      ]
+    },
+    {
+      "rule_id": "P19-R20",
+      "field": "application_boundary",
+      "old": "纸121–122的卢比平价和小分数只属该制度；作者七至十年周期为历史观察，未校准现代预测。",
+      "new": "纸121–122的卢比平价和小分数只属该制度；作者七至十年周期为历史观察，未校准现代预测。缺真实回收、再放贷或信用限制资料时，弃权于此机制已维持汇价的判断。"
+    },
+    {
+      "rule_id": "P19-R20",
+      "field": "independent_analysis",
+      "old": "规则是书内条件机制；应用时须另列真实输入、反证与时代差。纸121–122的卢比平价和小分数只属该制度；作者七至十年周期为历史观察，未校准现代预测。",
+      "new": "规则是书内条件机制；应用时须另列真实输入、反证与时代差。纸121–122的卢比平价和小分数只属该制度；作者七至十年周期为历史观察，未校准现代预测。缺真实回收、再放贷或信用限制资料时，弃权于此机制已维持汇价的判断。"
+    },
+    {
+      "rule_id": "P19-R23",
+      "field": "author_meaning",
+      "old": "固定债息与短期融资使收入变化放大股东残余收益，投机及可随时收回的贷款在危机中加重出售压力。",
+      "new": "固定债息可使经营收入变化放大股东残余收益；投机者的短期或可随时收回融资在危机中加重出售压力。"
+    },
+    {
+      "rule_id": "P19-R42",
+      "field": "application_boundary",
+      "old": "大陆纸币一比四十早期偿付安排、后来的低价值兑付与1790办法不同，不能合成单一回收率。",
+      "new": "大陆纸币约一比四十是1780年相对银的市场价值；随后五年票据认购按不高于一比二十，1790年残余股票认购按一比一百，不能合成单一回收率。"
+    },
+    {
+      "rule_id": "P19-R42",
+      "field": "independent_analysis",
+      "old": "规则是书内条件机制；应用时须另列真实输入、反证与时代差。大陆纸币一比四十早期偿付安排、后来的低价值兑付与1790办法不同，不能合成单一回收率。",
+      "new": "规则是书内条件机制；应用时须另列真实输入、反证与时代差。大陆纸币约一比四十是1780年相对银的市场价值；随后五年票据认购按不高于一比二十，1790年残余股票认购按一比一百，不能合成单一回收率。"
+    }
+  ],
+  "exact_chapter_text_changes": [
+    {
+      "file": "ch16.md",
+      "old": "七月至次年二月附近的差价",
+      "new": "八月至次年二月附近的差价"
+    },
+    {
+      "file": "ch18.md",
+      "old": "应有的十一分之十二成色",
+      "new": "应有的十二分之十一成色"
+    }
+  ],
+  "canonical_source_changes": {
+    "all51": "Preserve original scope separately;184 precise layout locator fragments are not claimed standalone complete natural paragraphs. New per-rule unabridged-context evidence copies every line of each cited original chapter and all gaps/adjacent continuations. Precise locators remain separate from whole-chapter context.",
+    "R29": "Addchapter21 to crosschapter source coverage; primaryfile12 retained with individual anchors namingtheir own files.",
+    "R34": "Include paper232 original government-bond-backednote/subsidiarycash statement selected in exactcoverage while original218–225 ledger retained as scope."
+  },
+  "numeric_source_gap_to_add_audit_and_synthesis": "paper147/PDF159 main halfpercentperday original vs1percentperday storedOCR; keepraw andseparatefootnotequoted4percentperday. Include independent-review/P19-ch09-independent-numeric.json and actualimageleverage-159.png.",
+  "metadata_after_merge": "Only after final peer recheck update QA status/counts/hashes. Chapters16/18 eachonecharacterreplace so strict69203/min2656unchanged; regeneratecombinedchapterdeliverable consistently without running old finalizer. Preserve false scan-glyph/history/current invocation/backtest/probability fields.",
+  "candidate_expert_file": "work/book-experts-v5/index_team/peer-QA/P19-expert-candidate.json",
+  "candidate_anchors_file": "work/book-experts-v5/index_team/peer-QA/P19-exact-anchor-candidate.json",
+  "body_han_original": 69203,
+  "body_han_expected_after_exact_2chapter_changes": 69203,
+  "boundary_repair_audit_file": "work/book-experts-v5/index_team/peer-QA/P19-boundary-and-continuous-context-QA.json",
+  "required_boundary_repair": {
+    "locator_changes": [
+      {
+        "anchor_id": "P19-R05-E01",
+        "old_lines": [
+          173,
+          291
+        ],
+        "new_lines": [
+          173,
+          293
+        ],
+        "old_sha256": "6e912eff42e1cfd2f9e71196dc458111edc8899afc1b461a87ce885d3d27128d",
+        "new_sha256": "2546d37feaec3fa69d602f4077b86af6fa14aa8c36cfcd9fe880d57628c224b4"
+      },
+      {
+        "anchor_id": "P19-R10-E01",
+        "old_lines": [
+          293,
+          345
+        ],
+        "new_lines": [
+          293,
+          347
+        ],
+        "old_sha256": "834bfbcde8d74ddf191a55b378cb4dc3ef2f4ceba4ae8855e0ac619a38c6e072",
+        "new_sha256": "34352fcf5910d73551727aa0bca1169ca2d333ec5fe6a99c93feb638a446050d"
+      },
+      {
+        "anchor_id": "P19-R10-E02",
+        "old_lines": [
+          348,
+          412
+        ],
+        "new_lines": [
+          348,
+          414
+        ],
+        "old_sha256": "fcba32272f70bab70670d308f8a5f691215a3ea367f15482d80dfe139f93be4b",
+        "new_sha256": "bd5e47dc8ac22bba81d9f8f18474952cdbd75538110eef571c4c1079ba475cb4"
+      }
+    ],
+    "rule_contexts": [
+      {
+        "rule_id": "P19-R01",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R01.txt",
+        "sha256": "c2f3dee2b55ae239287e19356a6f7f56d9255ed9179672c3a2e5076b4c764d09",
+        "source_sections": [
+          {
+            "source_file": "source/ch01.txt",
+            "source_file_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "source_local_lines_inclusive": [
+              1,
+              717
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              37959
+            ],
+            "context_section_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R02",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R02.txt",
+        "sha256": "68fcacc0f68158c09d2b94c189e8a7eb3781ef4f630ac7843fb8eef173d3706c",
+        "source_sections": [
+          {
+            "source_file": "source/ch01.txt",
+            "source_file_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "source_local_lines_inclusive": [
+              1,
+              717
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              37959
+            ],
+            "context_section_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R03",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R03.txt",
+        "sha256": "4022a2b458cac2d13abb0824840e999ce0e18a7cca47fb686c947a75973b9cf3",
+        "source_sections": [
+          {
+            "source_file": "source/ch01.txt",
+            "source_file_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "source_local_lines_inclusive": [
+              1,
+              717
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              37959
+            ],
+            "context_section_sha256": "9305cefd776fa64f7617a2534efa6935f529381a24d70acb112a151ae058c0da",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R04",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R04.txt",
+        "sha256": "5cc2690c86c9bd823493542995121924fe32e11bda54b73d779a617f6a8c7b1a",
+        "source_sections": [
+          {
+            "source_file": "source/ch02.txt",
+            "source_file_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+            "source_local_lines_inclusive": [
+              1,
+              565
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              32035
+            ],
+            "context_section_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R05",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R05.txt",
+        "sha256": "cadee17c0b5b25628b106343a453e3bf8465ec376fe91b47e465f85a8aa29064",
+        "source_sections": [
+          {
+            "source_file": "source/ch02.txt",
+            "source_file_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+            "source_local_lines_inclusive": [
+              1,
+              565
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              32035
+            ],
+            "context_section_sha256": "57450246f975f88f9967df623d659bd50f54168046626306aae40c583d85d999",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R06",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R06.txt",
+        "sha256": "a8fd76e29cef7dc42ea37ab3ea6ca952faceaeb6bb8c168d8de32d17aa5f6b8e",
+        "source_sections": [
+          {
+            "source_file": "source/ch03.txt",
+            "source_file_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "source_local_lines_inclusive": [
+              1,
+              1283
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              68801
+            ],
+            "context_section_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R07",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R07.txt",
+        "sha256": "6e0fdb95db07722fccc31de1029a422d6a10c83782f4e49bddd3d79dc1682adc",
+        "source_sections": [
+          {
+            "source_file": "source/ch03.txt",
+            "source_file_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "source_local_lines_inclusive": [
+              1,
+              1283
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              68801
+            ],
+            "context_section_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R08",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R08.txt",
+        "sha256": "b5db1b2923fe2e15304ec455c2a1add09a71ed9e2f6407acbda7cf3215c53c7a",
+        "source_sections": [
+          {
+            "source_file": "source/ch03.txt",
+            "source_file_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "source_local_lines_inclusive": [
+              1,
+              1283
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              68801
+            ],
+            "context_section_sha256": "8f0e36cbffdf3741840a0bb7ac3a0dd08530ce8475266ef0d17180ad26dd42ff",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R09",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R09.txt",
+        "sha256": "46fe97d6ca5f8d77159d229ed0e9f3d1fe7710288bae6498b5fd181a3d957f04",
+        "source_sections": [
+          {
+            "source_file": "source/ch04.txt",
+            "source_file_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "source_local_lines_inclusive": [
+              1,
+              716
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              38998
+            ],
+            "context_section_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R10",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R10.txt",
+        "sha256": "8c921643cf091c88cb401063cd1cb094db8fef1489f7af682f851cd3af009845",
+        "source_sections": [
+          {
+            "source_file": "source/ch04.txt",
+            "source_file_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "source_local_lines_inclusive": [
+              1,
+              716
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              38998
+            ],
+            "context_section_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R11",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R11.txt",
+        "sha256": "5d8a577e5e279ae05ecbd513c965a7ae5f25f46842b32a3bba2b20f466df9978",
+        "source_sections": [
+          {
+            "source_file": "source/ch04.txt",
+            "source_file_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "source_local_lines_inclusive": [
+              1,
+              716
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              38998
+            ],
+            "context_section_sha256": "61c9b490fad0d86419e5e324d1692ec1d54badb380be4489ead7a9b2a759fea4",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R12",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R12.txt",
+        "sha256": "1ac2ed328c3169d76a766c4960243ef8d617452eedf632df2b8cc36f7b48bdb1",
+        "source_sections": [
+          {
+            "source_file": "source/ch05.txt",
+            "source_file_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+            "source_local_lines_inclusive": [
+              1,
+              642
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              35134
+            ],
+            "context_section_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R13",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R13.txt",
+        "sha256": "081058d0086f7bb18af2c72250c6b63bb8b50d9db3f0103e513142c6ac7aaa95",
+        "source_sections": [
+          {
+            "source_file": "source/ch05.txt",
+            "source_file_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+            "source_local_lines_inclusive": [
+              1,
+              642
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              35134
+            ],
+            "context_section_sha256": "a7613650b29a1cbf3b5d31ba97e9828ac0bccebecd07a666b42453ace9bf63bd",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R14",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R14.txt",
+        "sha256": "9183cc887543d3bc76f2c8ad3a1ff4384750b6921183c396df46a1d0efe98ad0",
+        "source_sections": [
+          {
+            "source_file": "source/ch06.txt",
+            "source_file_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+            "source_local_lines_inclusive": [
+              1,
+              516
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29413
+            ],
+            "context_section_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R15",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R15.txt",
+        "sha256": "1c94c5fecc2e9d92f35cf76024ad8db9da40e7eab5e5859f76a3825fc950e6da",
+        "source_sections": [
+          {
+            "source_file": "source/ch06.txt",
+            "source_file_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+            "source_local_lines_inclusive": [
+              1,
+              516
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29413
+            ],
+            "context_section_sha256": "0b7be7c31b1287ebdc08b0f29adb0ade005725ff45a3fffab6ea7d4ce15e6fcd",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R16",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R16.txt",
+        "sha256": "c7bd8bf20579154f055a8dea68bf119ba47b1041a343ce04274ddee37f06db07",
+        "source_sections": [
+          {
+            "source_file": "source/ch07.txt",
+            "source_file_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+            "source_local_lines_inclusive": [
+              1,
+              412
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              22311
+            ],
+            "context_section_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R17",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R17.txt",
+        "sha256": "cde10a50946d6e0f7faa44e2c5cc86563cc32c85800af1260e7cfdb480c15478",
+        "source_sections": [
+          {
+            "source_file": "source/ch07.txt",
+            "source_file_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+            "source_local_lines_inclusive": [
+              1,
+              412
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              22311
+            ],
+            "context_section_sha256": "8a809efbfa21e12f88038198fd1464f12301a9cddd4554a0f302bf12ff2abbdf",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R18",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R18.txt",
+        "sha256": "d992ba2978d026e0f5a938184eb2bb453fa7915d58772cffb23d2fe38aca94d6",
+        "source_sections": [
+          {
+            "source_file": "source/ch08.txt",
+            "source_file_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "source_local_lines_inclusive": [
+              1,
+              916
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              50151
+            ],
+            "context_section_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R19",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R19.txt",
+        "sha256": "4d5cee48ca48d6055f3f8a14aa6b532cd9167b5626ea6cc306cda9785bcf541b",
+        "source_sections": [
+          {
+            "source_file": "source/ch08.txt",
+            "source_file_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "source_local_lines_inclusive": [
+              1,
+              916
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              50151
+            ],
+            "context_section_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R20",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R20.txt",
+        "sha256": "4b2547f928510e06126154da0c3da972735cc6a29adeaa1b71f7783609e8240e",
+        "source_sections": [
+          {
+            "source_file": "source/ch08.txt",
+            "source_file_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "source_local_lines_inclusive": [
+              1,
+              916
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              50151
+            ],
+            "context_section_sha256": "43cc6cf7fe38c6c1a82e8220e1e19481f504b353b6fb96304b7d20d2a24d5aad",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R21",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R21.txt",
+        "sha256": "0478e4bf8666d6897384e753cd15452e2e60fffdaee2c5a368c265dbac68626a",
+        "source_sections": [
+          {
+            "source_file": "source/ch09.txt",
+            "source_file_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "source_local_lines_inclusive": [
+              1,
+              1075
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              61421
+            ],
+            "context_section_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R22",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R22.txt",
+        "sha256": "f97fcbfd199bd0568273a362908940da8d902bcbab81355dc3071b740f864e1c",
+        "source_sections": [
+          {
+            "source_file": "source/ch09.txt",
+            "source_file_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "source_local_lines_inclusive": [
+              1,
+              1075
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              61421
+            ],
+            "context_section_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R23",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R23.txt",
+        "sha256": "13f066e54574247ec9a498387e37d7e9e2f7b12fdc1eccf0cfacb735a25945b9",
+        "source_sections": [
+          {
+            "source_file": "source/ch09.txt",
+            "source_file_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "source_local_lines_inclusive": [
+              1,
+              1075
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              61421
+            ],
+            "context_section_sha256": "c7d71c0a42b331720c1e9f7754b938202d9cb3ee6583348270c587170c8087d0",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R24",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R24.txt",
+        "sha256": "ab7bef7f5a134de2c8427bf7e6453b0d91db5fd395e2bc7d3ddfd341b7c83fcc",
+        "source_sections": [
+          {
+            "source_file": "source/ch10.txt",
+            "source_file_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "source_local_lines_inclusive": [
+              1,
+              527
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29693
+            ],
+            "context_section_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R25",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R25.txt",
+        "sha256": "cc745004104e6831f206b29db543f987699ff97d425094ec5449e5de0aa49049",
+        "source_sections": [
+          {
+            "source_file": "source/ch10.txt",
+            "source_file_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "source_local_lines_inclusive": [
+              1,
+              527
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29693
+            ],
+            "context_section_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R26",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R26.txt",
+        "sha256": "ca4513d73f4f3afac4b4b0b0d978a9c1ef4f91f4059b71812568d54b4b70d3e3",
+        "source_sections": [
+          {
+            "source_file": "source/ch10.txt",
+            "source_file_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "source_local_lines_inclusive": [
+              1,
+              527
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29693
+            ],
+            "context_section_sha256": "129f97a2c2b2a55812da6858ce9c9004f309e7e0576647831612e024d9126cdb",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R27",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R27.txt",
+        "sha256": "af19f0813ba11c2bbbb1475d31051a4d63edb29749b1dc0697b0db4cbaa347ac",
+        "source_sections": [
+          {
+            "source_file": "source/ch11.txt",
+            "source_file_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+            "source_local_lines_inclusive": [
+              1,
+              981
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              52907
+            ],
+            "context_section_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R28",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R28.txt",
+        "sha256": "6fd65f33c2d3982513b5e3689334df54fef7d84bc5d1eadb92ebd03fd7913bae",
+        "source_sections": [
+          {
+            "source_file": "source/ch11.txt",
+            "source_file_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+            "source_local_lines_inclusive": [
+              1,
+              981
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              52907
+            ],
+            "context_section_sha256": "2ac69020fbd501a83704c4a53470b66f33b77e3dc8e291af498e5d5f082be633",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R29",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R29.txt",
+        "sha256": "bf4f6ebeffc50ceaf5c10ac0fe6c5fd88c9f5707d7337081912cf0f3dad7a493",
+        "source_sections": [
+          {
+            "source_file": "source/ch12.txt",
+            "source_file_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "source_local_lines_inclusive": [
+              1,
+              935
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              52441
+            ],
+            "context_section_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "all_intervening_and_adjacent_lines_present": true
+          },
+          {
+            "source_file": "source/ch21.txt",
+            "source_file_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "source_local_lines_inclusive": [
+              1,
+              874
+            ],
+            "context_byte_range_0based_halfopen": [
+              52499,
+              98100
+            ],
+            "context_section_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R30",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R30.txt",
+        "sha256": "b868e411707f747404bbd6588860a8954cf798850c955096db9db0aa7c98f23e",
+        "source_sections": [
+          {
+            "source_file": "source/ch12.txt",
+            "source_file_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "source_local_lines_inclusive": [
+              1,
+              935
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              52441
+            ],
+            "context_section_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R31",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R31.txt",
+        "sha256": "1eb3df5c5921f573144148eceb9a6be47b4bac96f0e1bf0303dabcef2449b271",
+        "source_sections": [
+          {
+            "source_file": "source/ch12.txt",
+            "source_file_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "source_local_lines_inclusive": [
+              1,
+              935
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              52441
+            ],
+            "context_section_sha256": "a66e870da71ddb2d52812ebaaa4457a08b55d0e3768aa0c263949d1832a72afe",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R32",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R32.txt",
+        "sha256": "2ec66c5e8851f9da18ed3951d4b803a0bddf442159b027a855da109b74e2345b",
+        "source_sections": [
+          {
+            "source_file": "source/ch13.txt",
+            "source_file_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+            "source_local_lines_inclusive": [
+              1,
+              545
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29996
+            ],
+            "context_section_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R33",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R33.txt",
+        "sha256": "5ba0cc4344143c77dce58d86b74e71fea3802f9d63e03d23775f05ad21f7681e",
+        "source_sections": [
+          {
+            "source_file": "source/ch13.txt",
+            "source_file_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+            "source_local_lines_inclusive": [
+              1,
+              545
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              29996
+            ],
+            "context_section_sha256": "23e09794e9fb77fb7196f49dfe429c6526409fd4e108f98fa73cbbb735347f68",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R34",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R34.txt",
+        "sha256": "60b534366da45d0f1c3376bcf4dfcce970a355216b4c1cd88bd4816bb474ce96",
+        "source_sections": [
+          {
+            "source_file": "source/ch14.txt",
+            "source_file_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+            "source_local_lines_inclusive": [
+              1,
+              664
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              37071
+            ],
+            "context_section_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R35",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R35.txt",
+        "sha256": "70a06fef9d2a6bc9c6e87ad9b39e673c4de2ebfee74ed2f375cbe48051e4e65c",
+        "source_sections": [
+          {
+            "source_file": "source/ch14.txt",
+            "source_file_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+            "source_local_lines_inclusive": [
+              1,
+              664
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              37071
+            ],
+            "context_section_sha256": "0274e9511337a1c568b073ade760e9fdae0f12d406721dd0fecdfa5d096d7b5e",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R36",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R36.txt",
+        "sha256": "3cfa731c503d3b2ee5b6018478e3ce3eff6fd64142769bbf378c05a398ff72e8",
+        "source_sections": [
+          {
+            "source_file": "source/ch15.txt",
+            "source_file_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+            "source_local_lines_inclusive": [
+              1,
+              1012
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              55529
+            ],
+            "context_section_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R37",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R37.txt",
+        "sha256": "01d8d7ad1c9599459290e6a1598a61cc3762768d4d53b7b0994685533496ba5e",
+        "source_sections": [
+          {
+            "source_file": "source/ch15.txt",
+            "source_file_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+            "source_local_lines_inclusive": [
+              1,
+              1012
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              55529
+            ],
+            "context_section_sha256": "264a82fd6c4d335bc87be15ef6f32460cca9def729fd0a5e636ea1d21a6870a3",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R38",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R38.txt",
+        "sha256": "310af68804805647b84e0b6faa6f8ecf48b867633e972c4261dce0a35b7c20c6",
+        "source_sections": [
+          {
+            "source_file": "source/ch16.txt",
+            "source_file_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+            "source_local_lines_inclusive": [
+              1,
+              1175
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              62070
+            ],
+            "context_section_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R39",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R39.txt",
+        "sha256": "8682fb7a57cf1866f9b0f532e635e5245b47613273d7af3100770139980b863c",
+        "source_sections": [
+          {
+            "source_file": "source/ch16.txt",
+            "source_file_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+            "source_local_lines_inclusive": [
+              1,
+              1175
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              62070
+            ],
+            "context_section_sha256": "c3062111b5a6ffeff6c8a604394dddedeaaffd2a7ff2dc33c0053c21bbcda974",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R40",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R40.txt",
+        "sha256": "0c4e85a7852c7a1f4fb00d87ee241491c7a5e02d7aa44b4f1871163c0535583c",
+        "source_sections": [
+          {
+            "source_file": "source/ch17.txt",
+            "source_file_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+            "source_local_lines_inclusive": [
+              1,
+              975
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              51787
+            ],
+            "context_section_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R41",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R41.txt",
+        "sha256": "4077e79d15101bb0e31d7f401a2e0f9afaca6c1592b122d25961cab59c6f38d1",
+        "source_sections": [
+          {
+            "source_file": "source/ch17.txt",
+            "source_file_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+            "source_local_lines_inclusive": [
+              1,
+              975
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              51787
+            ],
+            "context_section_sha256": "4d1daba3abf8d883720ffbbd524e77b04b2c1b6a491571e4858a0f8dd141d1f6",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R42",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R42.txt",
+        "sha256": "471a9d237613e9db40da83bec083a297c8b9f6bcb9fb004e1aee2ec05c35c2e1",
+        "source_sections": [
+          {
+            "source_file": "source/ch18.txt",
+            "source_file_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+            "source_local_lines_inclusive": [
+              1,
+              976
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              53841
+            ],
+            "context_section_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R43",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R43.txt",
+        "sha256": "c9f90f026cffc896468c83325c15d13f32544ce2b8d7da597d8162af11f8625a",
+        "source_sections": [
+          {
+            "source_file": "source/ch18.txt",
+            "source_file_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+            "source_local_lines_inclusive": [
+              1,
+              976
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              53841
+            ],
+            "context_section_sha256": "b0f616b1b2a46d9cc3c42c05dc7a03ac095233b8ea40872d7e6cff5f0972616a",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R44",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R44.txt",
+        "sha256": "b5108976d1702c0813c6fa57bb688b57a6cdb8a2b4d74e87d7bced1c33a53ff4",
+        "source_sections": [
+          {
+            "source_file": "source/ch19.txt",
+            "source_file_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+            "source_local_lines_inclusive": [
+              1,
+              1053
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              55595
+            ],
+            "context_section_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R45",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R45.txt",
+        "sha256": "f2154d3a193fe21c257e3b34d4fe645466d7cab1fbe218b810c5dfa1c7c2a43f",
+        "source_sections": [
+          {
+            "source_file": "source/ch19.txt",
+            "source_file_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+            "source_local_lines_inclusive": [
+              1,
+              1053
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              55595
+            ],
+            "context_section_sha256": "913af2420c6556e865d533c263699d9be7c9b674f0c62d2feceaffb939911717",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R46",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R46.txt",
+        "sha256": "ba4ae08828eadfeb217bf00bf376a7de58e996458770bc840d7f82edc03d51ee",
+        "source_sections": [
+          {
+            "source_file": "source/ch20.txt",
+            "source_file_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "source_local_lines_inclusive": [
+              1,
+              878
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              48386
+            ],
+            "context_section_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R47",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R47.txt",
+        "sha256": "7a11512b804f6f72401d7047cfd730f121b8744d8f999d0eed6529bd868e65e7",
+        "source_sections": [
+          {
+            "source_file": "source/ch20.txt",
+            "source_file_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "source_local_lines_inclusive": [
+              1,
+              878
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              48386
+            ],
+            "context_section_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R48",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R48.txt",
+        "sha256": "2efcd5ff0a90d1280046aa598223b51f79e4e476a44453ba3c37a114ca614637",
+        "source_sections": [
+          {
+            "source_file": "source/ch20.txt",
+            "source_file_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "source_local_lines_inclusive": [
+              1,
+              878
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              48386
+            ],
+            "context_section_sha256": "a1e2460c857ab1f21209049ac5dc00afa12ea073d016aca4bb0214582386fb3b",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R49",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R49.txt",
+        "sha256": "d833b19c6919ef98bac5f91b44715bf023b1d682457c3bedc2e51d36843d28b5",
+        "source_sections": [
+          {
+            "source_file": "source/ch21.txt",
+            "source_file_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "source_local_lines_inclusive": [
+              1,
+              874
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              45839
+            ],
+            "context_section_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R50",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R50.txt",
+        "sha256": "c0d0544044c323f2f8ebbcbd67e216e9ec767ef4e86933249adb06f388d4669e",
+        "source_sections": [
+          {
+            "source_file": "source/ch21.txt",
+            "source_file_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "source_local_lines_inclusive": [
+              1,
+              874
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              45839
+            ],
+            "context_section_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      },
+      {
+        "rule_id": "P19-R51",
+        "file": "work/book-experts-v5/index_team/peer-QA/P19-unabridged-rule-contexts/P19-R51.txt",
+        "sha256": "54da7d7c4ee169ddebc6806609b6b3f643aedfed560a4af687e0baf9178e357e",
+        "source_sections": [
+          {
+            "source_file": "source/ch21.txt",
+            "source_file_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "source_local_lines_inclusive": [
+              1,
+              874
+            ],
+            "context_byte_range_0based_halfopen": [
+              238,
+              45839
+            ],
+            "context_section_sha256": "0a900fed5ae386877a9b30f22d05a9d72ffaf40859da6bd8a449254fe1540766",
+            "all_intervening_and_adjacent_lines_present": true
+          }
+        ],
+        "role": "Complete uninterrupted source context, not a precise locator and not an extra read book."
+      }
+    ],
+    "unabridged_source_context_role": "Supplementary full conditions and continuations, not replacement exact citation."
+  }
+}

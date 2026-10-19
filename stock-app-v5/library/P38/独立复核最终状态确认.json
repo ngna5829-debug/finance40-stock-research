@@ -1,0 +1,53 @@
+{
+  "book_id": "P38",
+  "status": "passed_after_corrections_with_source_limits_final_status_confirmed",
+  "author_full_read_and_independent_semantic_review_qualified": true,
+  "final_status_authority": true,
+  "immutable_review_snapshots": {
+    "full_semantic_QA": {
+      "file": "P38-independent-QA.json",
+      "sha256": "96b06853749cda2b165a6cdbe4e1067b8711af02db3962852fa0be61fbf8f80f"
+    },
+    "manual_merge_verification": {
+      "file": "P38-final-merge-verification.json",
+      "sha256": "a0c67eb3bfe94f2b883b3fefb46480ab236904403298c16231f94b5dd854c7ed"
+    }
+  },
+  "expected_final7_hashes": {
+    "expert-definition.json": "76cd3f784a85d6fb768a756c5bb9568feb8a153985822a4b6e905bec4113ed02",
+    "reading-audit.json": "a2bc7931ec97a54f12a01bbd62f41c841f8242bf3d3d1bdaf419b0443c652de8",
+    "独立复核.json": "b2c597bffbe1613bd15ef83699ee745f6ca46074245f93b6cec5a39ba3656627",
+    "source-plan.json": "ce389ed23c35f459d9ec1f5c65e21fabf8e35b5907a68c3eb500279e8f5e65d1",
+    "self-validation.json": "e31210fc183a788fbba0bd8313ab7ab0f6631c5aea43b1a1f491119be874a074",
+    "专家说明.md": "a0b0eb5312ceb3efcc63b0ab1c2183dad46168d3996a81a8acc39ea6a46d3859",
+    "全书综合与附录.md": "e0f44a202bfe362f6f23e97dfeb03bdfed7a80664558df3d1bb5b5f8725a1417"
+  },
+  "checks": {
+    "all7expected_status_hashes_match": true,
+    "all6_existing_root_metadata_copies_same_QAcanonical_only": true,
+    "all60rules_unchanged_from_reviewedcandidate": true,
+    "103sourcefragments_unchanged_from_merge_review": true,
+    "full20_combined_dossier_unchanged": true,
+    "all_primary_sources_originalPDF_TXT_pages_front_index_unchanged": true,
+    "final20body_han_same": true,
+    "required_false_limits_preserved": true
+  },
+  "all_checks_pass": true,
+  "strict_body_han_total": 75222,
+  "minimum_chapter_body_han": 2801,
+  "rules": 60,
+  "full_original_page_contexts": 103,
+  "real_predictive_or_trading_validation": false,
+  "all_source_glyphs_visually_verified": false,
+  "all_external_resources_read": false,
+  "canonical_updated_by_reviewer": false,
+  "global_goal_tools_called": false,
+  "root_close_status_values": {
+    "expert": "独立全文语义复核及必要更正完成，保留原源和预测有效性限制",
+    "audit_independent": "passed_with_source_limits",
+    "audit_ready": true,
+    "selfreview": "passed_with_source_limits",
+    "qastatus": "passed_with_source_limits"
+  },
+  "updated_utc": "2026-10-13T13:45:19.757186+00:00"
+}

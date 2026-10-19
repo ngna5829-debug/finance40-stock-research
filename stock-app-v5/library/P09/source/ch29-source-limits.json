@@ -1,0 +1,28 @@
+{
+  "book_id": "P09",
+  "chapter_ordinal": 29,
+  "original_scan_obtained": false,
+  "original_source_unchanged": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "type": "compounding_total_unresolved",
+      "source_lines_inclusive": [
+        9444,
+        9461
+      ],
+      "principal_francs": 4000,
+      "annual_rate_for_model": 0.1,
+      "author_total": 6734,
+      "author_additional": 2734,
+      "five_compounding_steps": 6442.040000000002,
+      "six_compounding_steps": 7086.244000000003,
+      "first_two_steps": [
+        4400.0,
+        4840.000000000001
+      ],
+      "one_year_simple_interest_author": 400,
+      "resolution": "手数与年数概念批评保留，五/六次一成都不等6734；无原扫描或Simonde完整引段，不断定哪层出错，不覆盖源数。仅模型算术复算，非历史或投资实验"
+    }
+  ]
+}

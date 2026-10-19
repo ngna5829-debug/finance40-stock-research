@@ -1,0 +1,148 @@
+[
+  {
+    "issue": "Risk_more_revenue_moreprofit_orallriskraisescapitalcostnotuniversal",
+    "pages": [
+      600,
+      601
+    ],
+    "correct": "hold incremental costs/price/demand fixed;financial-riskpricing depends systematic/frictions;MMperfectcapital vs real distress/taxhedging needseparate"
+  },
+  {
+    "issue": "Futuresnocreditrisk/anytimehighliquidity absolute",
+    "pages": [
+      603,
+      607,
+      608,
+      618
+    ],
+    "correct": "centralclearingmarginmitigaterisknotzero;default/safeguards/liquidity/collateral/basis/quantity/timingrisks;closebyoffsetpositionnotalltransferoldcontract",
+    "primary_url": "https://www.cmegroup.com/solutions/risk-management/financial-safeguards.html"
+  },
+  {
+    "issue": "Foreigncountry_notalwaysforeigninvoicecurrency",
+    "pages": [
+      604,
+      605,
+      606
+    ],
+    "correct": "contractinvoice/functionalcurrencydrivescashrisk notsuppliercountry alone;worldcoffeeproductionfacts2022notcurrentverified"
+  },
+  {
+    "issue": "BRLprice020wrong1000400",
+    "page": 605,
+    "correct": "7m*.2=1.4m,original1,000,400contradictspriceincrease;original.1839roundednotexact reciprocal"
+  },
+  {
+    "issue": "JPYroundearly415000vs416666_67",
+    "page": 606,
+    "correct": "50m/120=416666.67;shortfall83333.33not85000;carryfullprecisionreciprocal"
+  },
+  {
+    "issue": "Translation_balance_sheet_method_oversimplified",
+    "page": 607,
+    "correct": "functionalcurrency/assetkind/currentvshistoricalrates/equityCTA vsprofit rules matter;landillustrationnotallforeignassetsmtm spot"
+  },
+  {
+    "issue": "Naturalhedgeexactoffsetnotproved",
+    "pages": [
+      608,
+      609
+    ],
+    "correct": "opposedtourbusinessneedsmatchingnetcurrency amounts/timing/elasticity,nonegiven so partialpotentialhedge notzeroexposure"
+  },
+  {
+    "issue": "CurrencycodeKWN_andwriterbuysellasset",
+    "pages": [
+      609,
+      610,
+      611,
+      620
+    ],
+    "correct": "KRWstandard;callonUSD payswon,writer sellsUSDnotwon",
+    "primary_url": "https://data.ecb.europa.eu/data/concepts/south-korean-won"
+  },
+  {
+    "issue": "Optionchart_payoff_vsprofit/timevalue/size",
+    "pages": [
+      610,
+      611,
+      612,
+      613,
+      614
+    ],
+    "correct": "plots subtractpremiumprofitnotpurepayoff;sourceperUSDunit;totalqtymultiplypremiumandpayoff;exercise thresholdKvsbreakevenK±premium distinct;upfrontpremiumtimevalue/feesnotmodeled;hedgedbusiness vsstandaloneoption distinguish"
+  },
+  {
+    "issue": "Optionszero_sumscope/nakedlossbounds",
+    "pages": [
+      611,
+      613,
+      621
+    ],
+    "correct": "beforefrictionsmatchedsamecontract arithmetic zero,sumhedgedcompaniescanreducevariance;shortcallunlimited nakedunderlyingunbounded;putmax K−premium requiresnonnegativeunderlying notallnegativepricecommodity"
+  },
+  {
+    "issue": "Interestbondpercentfactor10",
+    "page": 614,
+    "correct": "coupon5%1000 fiveyear957.35loss4.2651%,30year861.62loss13.8378%;source.43/1.38wrong"
+  },
+  {
+    "issue": "Rate1pctvs1pp/durationlimits",
+    "pages": [
+      614,
+      615,
+      616
+    ],
+    "correct": "5to6=1pp20pctrelative;positivefixedCFpricesdown notallmixedcash/specialbond;durationintroducednotderived/no overclaimexactmodel;fixedpayoutvsfloatingborrowing"
+  },
+  {
+    "issue": "LIBOR2023forecasthistorical",
+    "pages": [
+      616,
+      617,
+      618,
+      620
+    ],
+    "correct": "allLIBORceased20240930;actualbenchmark/currency/tenor/fallbackmustcurrentverify;SOFRovernightsecurednotmerecode-replace",
+    "primary_urls": [
+      "https://www.fca.org.uk/news/press-releases/end-libor",
+      "https://www.newyorkfed.org/markets/reference-rates/sofr"
+    ]
+  },
+  {
+    "issue": "Swap_savingsandrisks conditionalnotcurrentquotes",
+    "pages": [
+      616,
+      617
+    ],
+    "correct": "same notional/timing/ratebasis assumesofferedfixed/floatratesfeesneglected;swappaymentstreams notreleaseoriginaldebt;AAAdoesnotproveabilitytakeanyrisk;marketpricing notarbitrageproof"
+  },
+  {
+    "issue": "MXNcallreviewdimensionmismatch",
+    "page": 621,
+    "correct": "textcalltopurchasepesos butstrikeMXN20/USD andpremiumMXN2 actuallyperUSDcallconvention;conditionaldiagramstored explicitnotresolve truepesocallwithoutpremiumunitsandFXdate"
+  },
+  {
+    "issue": "Strike_term_onlybuy missesputreceipt",
+    "pages": [
+      618,
+      619
+    ],
+    "correct": "strikeholderbuyscall/sellsput notallholderpaysunderlying"
+  },
+  {
+    "issue": "Externalfootnotes/videos/historicalfigures",
+    "pages": [
+      599,
+      600,
+      601,
+      602,
+      604,
+      605,
+      606,
+      615,
+      622
+    ],
+    "correct": "all9notes/readprintedcases;notfullannualreports/videos,notcurrentcommodity/FXquotes norcurrentSouthwestCEO orcurrentKRWcontractspec"
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "book_id": "P33",
+  "PDF_pages": 208,
+  "main_printed1to160_to_PDF": "+12",
+  "chosen_scan_1915_title_actual_image_verified": true,
+  "PDF_sha256": "adadaed2550f1abf3d0e253c656f4d49604aa6743ca7465913b1a266ac4973f7",
+  "MD5_matches_official_IA_manifest": true,
+  "all_lowtext_pages_classified": [
+    {
+      "page": 1,
+      "class": "clothfrontcover,title/author/publisher/price"
+    },
+    {
+      "page": 2,
+      "class": "flyleafwithsmallpencilnotations;noauthorfinancialtext"
+    },
+    {
+      "page": 3,
+      "class": "blank"
+    },
+    {
+      "page": 6,
+      "class": "copyright1910"
+    },
+    {
+      "page": 10,
+      "class": "blank"
+    },
+    {
+      "page": 13,
+      "class": "halftitle"
+    },
+    {
+      "page": 14,
+      "class": "blank"
+    },
+    {
+      "page": 205,
+      "class": "blank"
+    },
+    {
+      "page": 206,
+      "class": "blank"
+    },
+    {
+      "page": 208,
+      "class": "clothbackcover"
+    }
+  ],
+  "all_front_back_pages_contact_classified": {
+    "1": "clothfrontcover,title/author/publisher/price",
+    "2": "flyleafwithsmallpencilnotations;noauthorfinancialtext",
+    "3": "blank",
+    "4": "2007digitizationnotice",
+    "5": "title/fifthedition1915/Universitylibrarymarks",
+    "6": "copyright1910",
+    "7": "contents1of3",
+    "8": "contents2of3",
+    "9": "contents3of3",
+    "10": "blank",
+    "11": "prefacefirst",
+    "12": "prefacecontinued",
+    "13": "halftitle",
+    "14": "blank",
+    "205": "blank",
+    "206": "blank",
+    "207": "Toronto librarypocketandspinecatalogue;notfinancialchapter",
+    "208": "clothbackcover"
+  },
+  "publisher_catalogue": {
+    "PDFpages": [
+      173,
+      204
+    ],
+    "printed_catalogue_pages": [
+      1,
+      32
+    ],
+    "all32pages_visible_no_obviousgap": true,
+    "all_available_OCR_full_read": true,
+    "OCR_characters": 81906,
+    "read_ranges": [
+      [
+        0,
+        20500
+      ],
+      [
+        20500,
+        41000
+      ],
+      [
+        41000,
+        61500
+      ],
+      [
+        61500,
+        81906
+      ]
+    ],
+    "catalogue_index_and_allad_listings_read": true
+  },
+  "selected_highres_images_actually_viewed": [
+    5,
+    57,
+    62,
+    64,
+    65,
+    66,
+    67,
+    154,
+    161,
+    162,
+    172,
+    77,
+    78,
+    79,
+    93,
+    127,
+    128,
+    130,
+    131,
+    134,
+    135,
+    147
+  ],
+  "all_9_forms_read": "form-visual-audit.json",
+  "PG_last_missing_words_and_sentence": "source/PG-ending-supplement.txt",
+  "all_original_glyphs_verified": false,
+  "unresolved": [
+    "Somehandwrittenidentities/signatures/penceuncertain, notusedprecisely",
+    "Everyoriginalscanlinehasnotbeenvisuallyproofread;PGplusselectedcollation",
+    "PublisherOCRhasobviousrecognitionerrors;notusedtoinferauthorcontent"
+  ],
+  "date": "2026-10-13",
+  "numeric_original_mismatches_confirmed_PDF": [
+    127,
+    128,
+    93,
+    77,
+    147
+  ]
+}

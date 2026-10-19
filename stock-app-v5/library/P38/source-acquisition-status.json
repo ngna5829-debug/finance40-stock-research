@@ -1,0 +1,46 @@
+{
+  "book_id": "P38",
+  "candidate": "Principles of Finance",
+  "authors": [
+    "Julie Dahlquist",
+    "Rainford Knight"
+  ],
+  "intended_reading_edition": "Complete2022 digitalISBN978-1-951693-54-1; EconStor repository front sheet added",
+  "full_book_obtained": true,
+  "chapters_read": 20,
+  "book_complete": true,
+  "failed_endpoints": [
+    {
+      "url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofFinance-WEB.pdf",
+      "result": "403 XML; not PDF; moved to access-error file"
+    },
+    {
+      "url": "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/PrinciplesofFinance-WEB.pdf",
+      "result": "403 XML; not PDF"
+    },
+    {
+      "url": "https://oldmis.kp.ac.rw/admin/admin_panel/kp_lms/files/digital/Core%20Books/Finance/Principles%20of%20Finance-WEB.pdf",
+      "result": "DNS unresolved, no book file"
+    },
+    {
+      "url": "https://www.loc.gov/item/2021387744/?fo=json",
+      "result": "HTML bot gate; not solved or bypassed"
+    },
+    {
+      "url": "https://www.econstor.eu/handle/10419/273998",
+      "result": "HTML bot gate; not solved or bypassed"
+    }
+  ],
+  "public_pdf_in_progress": "https://www.econstor.eu/bitstream/10419/273998/1/1841033014.pdf",
+  "direct_pdf_request": "Normal public URL request returned PDF content; no authentication/POW/captcha interaction used",
+  "current_official_different_file": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-finance_-_WEB.pdf",
+  "rights_reference": "https://www.loc.gov/item/2021387744/",
+  "official_old_pdf_license_search_result": "CC BY4.0",
+  "web_current_license": "CC BY-NC-SA4.0; do not claim same version",
+  "cc_license_deed": "https://creativecommons.org/licenses/by/4.0/",
+  "validated_pdf_file": "original-2022-CCBY.pdf",
+  "validated_pdf_sha256": "8c0b537a3a66a60f4b3039392728254fc938e36c4baf635d4707928336bf04b9",
+  "validated_pdf_pages": 644,
+  "public_pdf_download_complete": true,
+  "independent_semantic_review": "pending"
+}

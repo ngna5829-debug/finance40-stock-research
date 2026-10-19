@@ -1,0 +1,46 @@
+{
+  "book_id": "P11",
+  "original_scan_obtained": false,
+  "source_unmodified": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "lines": [
+        4503,
+        4536
+      ],
+      "type": "India_table_prose_rounded_difference",
+      "source_index_peak": 112,
+      "source_index_low": 95,
+      "source_prose_fall_pct": 16,
+      "visible_table_fall_pct": 15.178571428571427,
+      "England_visible_table_fall_pct": 49.6124031007752,
+      "England_source_prose_fall_pct": 50,
+      "resolution": "保留粗文字和取整表；原始指数未核，不重写数字"
+    },
+    {
+      "lines": [
+        4395,
+        4419
+      ],
+      "type": "Aurelian_historical_rhetoric_not_independent_causal_evidence",
+      "resolution": "引吉本故事和政治讽刺非当代模型变量，无独立史料认证"
+    },
+    {
+      "lines": [
+        4419,
+        4447
+      ],
+      "type": "Ricardo_1822_quotes_not_full_additional_work_read",
+      "resolution": "本书所引议会/Protection文字非P09已读1817Principles正文，不算新书阅读或新专家票"
+    },
+    {
+      "lines": [
+        4758,
+        4808
+      ],
+      "type": "historical_gold_and_mint_policy_counterfactual",
+      "resolution": "1923制度推断及假设不是当前黄金供需/美联储状态，未验证数不进实验"
+    }
+  ]
+}

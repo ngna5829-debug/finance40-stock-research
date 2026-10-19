@@ -1,0 +1,3930 @@
+{
+  "book_id": "P20",
+  "reviewer": "index_books",
+  "status": "passed_final_status_and_hash_confirmation_with_source_limits",
+  "independent_QA_pass": true,
+  "metadata_only_confirmation": true,
+  "no_new_whole_book_reading_claim": true,
+  "prior_full_semantic_QA": "P20-independent-QA.json",
+  "prior_merged_content_recheck": "P20-merged-content-recheck.json",
+  "final_hashes": {
+    "专家定义.json": "f56565ff59c265656d962474f641c406128ba08ececdf5e8303b52481bcff6d2",
+    "章节与阅读审计.json": "590ac0e671a5bc54e55315d7bb74d980f13b8aea8c4fd74a8a9bec91488769dd",
+    "独立复核.json": "beba2d631d1583b43850b4814945e345f4c37ddc6501f4a6b075cc7f1f9bdd1d",
+    "validation.json": "c02b5ca193f307012431b8872d93c6de3ef843057bd23e960004bedacb1e915f",
+    "chapter-plan.json": "6bc68b978af4a81bc6a02ae748f9b1578c48741bef016de4d88fae817bf504c2",
+    "专家说明.md": "172d73304a88fc5b826ed690d178145b5bfa88242d96adbebbf5c66aa2e02b60",
+    "全书综合与附录.md": "a7018a4d0d825444c07993c594fd7626a0e971ee11611753f1ace50fa6a387a4"
+  },
+  "body_han_total": 86506,
+  "min_chapter_han": 2370,
+  "chapter_count": 31,
+  "rule_count": 74,
+  "exact_locator_fragments": 217,
+  "full_original_contexts": 74,
+  "source_limits": [
+    "500页每个字形未全量校勘",
+    "图线未逐像素数字化",
+    "原法令、完整史料底账及引用书目未全部外核",
+    "真实原数/日期差保留，所造烟草假冲突必须撤回",
+    "补读文本/CSV的哈希不是原扫描逐字保证",
+    "历史规范评价、引述与现代挑战分层，未校准投资预测"
+  ],
+  "canonical_not_modified": true,
+  "checks_passed": 973,
+  "checks": [
+    {
+      "name": "专家定义.json_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "章节与阅读审计.json_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "独立复核.json_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "validation.json_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "chapter-plan.json_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "专家说明.md_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "全书综合与附录.md_final_SHA",
+      "passed": true
+    },
+    {
+      "name": "final_expert_passed",
+      "passed": true
+    },
+    {
+      "name": "audit_topstatus_no_pending",
+      "passed": true
+    },
+    {
+      "name": "audit_independent_final",
+      "passed": true
+    },
+    {
+      "name": "QA_closed",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_id_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_title_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_author_meaning_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_required_inputs_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_native_horizon_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_application_boundary_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_independent_analysis_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_missing_required_data_action_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_empirically_calibrated_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_current_direction_enabled_unchanged_after_contentpass",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_exact_evidence_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_fullcontext_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "source/ch01.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch02.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch03.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch04.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch05.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch06.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch07.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch08.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch09.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch10.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch11.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch12.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch13.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch14.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch15.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch16.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch17.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch18.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch19.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch20.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch21.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch22.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch23.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch24.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch25.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch26.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch27.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch28.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch29.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch30.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/ch31.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/appendix-A.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/appendix-B.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/appendix-C.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/appendix-D.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/bibliography.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/index.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "source/front.txt_original_source_unchanged",
+      "passed": true
+    },
+    {
+      "name": "PDF_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "OCR_original_SHA",
+      "passed": true
+    },
+    {
+      "name": "ch01_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch02_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch03_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch04_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch05_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch06_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch07_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch08_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch09_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch10_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch11_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch12_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch13_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch14_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch15_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch16_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch17_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch18_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch19_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch20_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch21_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch22_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch23_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch24_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch25_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch26_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch27_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch28_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch29_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch30_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch31_count_unchanged",
+      "passed": true
+    },
+    {
+      "name": "final_counts86506min2370",
+      "passed": true
+    },
+    {
+      "name": "false_scanning_and_external_fullread_limits_preserved",
+      "passed": true
+    },
+    {
+      "name": "no_execution_calibration",
+      "passed": true
+    }
+  ],
+  "completed_utc": "2026-10-13T14:15:53.230077+00:00"
+}

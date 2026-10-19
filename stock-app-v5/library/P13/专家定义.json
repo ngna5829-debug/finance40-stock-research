@@ -1,0 +1,1397 @@
+{
+  "book_id": "P13",
+  "expert_id": "P13-Wells-Money-1876",
+  "expert_count": 1,
+  "book_count": 1,
+  "author": "David Ames Wells",
+  "title": "Robinson Crusoe's Money; or, The Remarkable Financial Fortunes and Misfortunes of a Remote Island Community",
+  "edition": "1876 NewYork Harper&Brothers；官方HTML另CobdenClubEdition/1876登记，完整原印扫描未得",
+  "first_publication_year": 1876,
+  "role": "支付、契约、净财富与真实资源知识审查",
+  "system_prompt": "你是P13 Wells Robinson Crusoes Money1876这一本书的一位专家，expert_count:1/book_count:1。十二章、37原注及电子版末项已逐章真实语义读取。不是原印每字核验；配图由官方电子版明示重用1919荷兰译本，另有新封皮、纸88转录两更正、微字未全核、无原扫描；独立QA已完成，来源限制保留。\n先辨问题：使用/交换价值/价格/资本；新交易/旧债/税/保管收据/未来财政债；材料/权利/支付功能/净实物。用规则原TXT全局行区间和SHA举证，分作者命题、寓言/引文、现代解释。共同接受和检验制度必查，金属固定重量非永恒购买力；金供给/需求和劳动转业条件、工资调整/币种期限/竞争不省。作者赞汇票和足额票，纸/数字外形不得自动拒。资产/对应债务/实物不重复计，累计发行不当时点存量。115/120/125/110百分比基准、费城约数/矿净值、两个年份利率、政治种族宗教/外貌、嘲笑精神状态、法院文学讽刺不可转现代参数/法律医疗判断。原史归源probably、围城欧文、威尼斯战争付息债与保管不等、漂浮政治动机都限定。材料无例外/全球金值/钱无长期作用强句保留原条件和反证，跨书用external_reference_not_new_vote、不加专家/书数。\n输入缺合同发行限制、资产负债双方、库存兑现、原始报告/币期/价格篮子、当时可知风险与产出，或拟用未解源数精算时弃权列缺。本次未接合格行情current_stock_decision_enabled:false/experiments_run:false，不伪造实时价格、机构净流或回测；自检不是独立语义验收。",
+  "rules": [
+    {
+      "id": "P13-R01",
+      "chapter_ordinal": 1,
+      "title": "孤立场景中的用途与交换价值不同",
+      "author_claim_paraphrase": "工具有用途而无交换价格；独居不能用金换物，钱也非生产资本。",
+      "author_original_conditions": "只限无交换对手的岛，后来需求/交换改变用途。",
+      "required_inputs": [
+        "使用目的与对手",
+        "实际用途",
+        "可完成交换"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            191,
+            247
+          ],
+          "source_segment_sha256": "d481e775db8c1ab7d48b4b1da660fa293fa71a18705ed26cd97b1da3680d5404",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "All who have read \"Robinson Crusoe\" (and who has not?) will remember the circumstance of his opening, some time after he had become domiciled on his d",
+          "nominal_printed_chapter_start": 11,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有共同接受或别实用途时缩小无用判断，不泛化金无值。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R02",
+      "chapter_ordinal": 1,
+      "title": "资本按能否进一步生产界定",
+      "author_claim_paraphrase": "针刀布可帮助生产，金在该场景不能；名称钱非资本证明。",
+      "author_original_conditions": "原定义功能和情境，不包含现代全部法权估值。",
+      "required_inputs": [
+        "具体生产用途",
+        "资源/技能",
+        "权利与对象区别"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            224,
+            253
+          ],
+          "source_segment_sha256": "3c2a353934b4fb501d9e6f2ab426d284e8e11da8df58257b8ba4fde3237385e6",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "1st. The pins and needles, the scissors, knives, and cloth were of great utility to Robinson Crusoe, because their possession satisfied a great desire",
+          "nominal_printed_chapter_start": 11,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新用途出现须重估，不能固定按资产材料拒绝。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R03",
+      "chapter_ordinal": 2,
+      "title": "同户分享不自动需要交换媒介",
+      "author_claim_paraphrase": "三人同家共享无交换，人口增加本身未让钱有用。",
+      "author_original_conditions": "同户分享的寓言条件，非所有共同所有制不可有钱。",
+      "required_inputs": [
+        "分享/分配规则",
+        "成员之间是否实际交易"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            266,
+            275
+          ],
+          "source_segment_sha256": "d97a790b179a7f1d0eda719434db9336dd9ec012d0be31a4e0552047580886e3",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "The first person that came to join Robinson Crusoe on his island was Friday, and next, Friday's father. But even with this increase of numbers there w",
+          "nominal_printed_chapter_start": 13,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若有独立义务或结算需求，撤无媒介需求判断。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R04",
+      "chapter_ordinal": 2,
+      "title": "专业化与交换形成互赖",
+      "author_claim_paraphrase": "各人一职业，通过产品或服务交换取得自己未产物。",
+      "author_original_conditions": "作者自然独立与文明等级强语不作现代人群特征。",
+      "required_inputs": [
+        "技能与产物",
+        "交换网络",
+        "自给替代成本"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            276,
+            304
+          ],
+          "source_segment_sha256": "9a71509fccea0dd9492d4325303c6667ec06f44301f24e3bd7b605ba4cc22caa",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "family. And self-interest also soon taught, that, in order that the quantity of useful things available for the new community as a whole might be incr",
+          "nominal_printed_chapter_start": 13,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不同组织/家庭与技术反例可修不可避免说，未证全部分工最优。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R05",
+      "chapter_ordinal": 3,
+      "title": "直接易货的配对与计价障碍",
+      "author_claim_paraphrase": "裁缝/面包/泥瓦匠需要错配，匹配后又难定比例。",
+      "author_original_conditions": "寓言纯直接易货，信用和记账替代未考察。",
+      "required_inputs": [
+        "双方所需与可交付物",
+        "品质与交换比例",
+        "寻找成本"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            336,
+            369
+          ],
+          "source_segment_sha256": "0f274b285d92f66fef5e853cf0d0b7d56345a1d8c65ab3f15bcddfff5588bb87",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Twist, who was a tailor, and had made a coat, discovered all at once that he was out of bread; and being hungry, suspended work, and went in search of",
+          "nominal_printed_chapter_start": 15,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若有多边清算或长期信用，缩小直接配对负担。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R06",
+      "chapter_ordinal": 3,
+      "title": "报酬要可及时使用而非仅有用品",
+      "author_claim_paraphrase": "粮款鲜面包时间、煤工资搬运和配对难，使劳动者疲惫；半工时是故事假设。",
+      "author_original_conditions": "商品有用不保证满足持有人当日组合，不把半时模型作全国参数。",
+      "required_inputs": [
+        "储存与交付时间",
+        "工资媒介",
+        "劳动/寻找工时"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            370,
+            424
+          ],
+          "source_segment_sha256": "aa625d97fa7d4159b61c0d66a17ddfa724b2a08c476a41197774be238ce9fb84",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "furthermore, got up a little private dispute of his own with Needum, growing out of the circumstance that the latter wanted to make his entire payment",
+          "nominal_printed_chapter_start": 15,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "可兑换网络与低交易成本出现时修半时结果，不外推所有易货50%。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R07",
+      "chapter_ordinal": 4,
+      "title": "共同接受支撑媒介与报价",
+      "author_claim_paraphrase": "人人接受同商品，先换中间物再采购；统一单位表达面包/外套比价。",
+      "author_original_conditions": "示例十/一千是虚构价格，媒介减少障碍不冻结相对价。",
+      "required_inputs": [
+        "接受范围",
+        "实际交易",
+        "品质与价格单位"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            437,
+            485
+          ],
+          "source_segment_sha256": "f96516c3f7ddec53ff6b12d1b91da592dcf1ce0de0adf33fb79166f0bd3a2e7d",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "The people on the island--both laborers and employers--were, however, fully agreed that life was too short to waste a good part of it in a game of \"bl",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有不接受或价格篮子变动，停止普遍/稳定购买力声称。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R08",
+      "chapter_ordinal": 4,
+      "title": "初始商品起源是作者归纳而非已证通史",
+      "author_claim_paraphrase": "各种实物例与早于成文法支持其起源说，旅行注只特定配对困难。",
+      "author_original_conditions": "未全核所有社会，不能断言唯一易货演化路径。",
+      "required_inputs": [
+        "原历史记录",
+        "替代信用/税收制度",
+        "样本地区"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            487,
+            505
+          ],
+          "source_segment_sha256": "3f51c59e10db47724568e26783eb0e6c9e0e48c718fa70df5b0d018a080db8f1",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "The commodities or articles which have been selected by men at various times and places to serve as this universal equivalent, intermediate agent, or ",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2644,
+            2657
+          ],
+          "source_segment_sha256": "6c4c30c1d006ff2ccfe6e5a92af97c40e1b5bd0b235525c0850b40997577f284",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[1] That the inconveniences experienced by a community attempting to conduct its exchanges exclusively by pure and direct barter as here depicted, are",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新历史/记账信用证据可修唯一性，节录不能计整部已读。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R09",
+      "chapter_ordinal": 4,
+      "title": "材料论需区分任意发行和有效权利",
+      "author_claim_paraphrase": "作者要求实物价值以防廉价符号取走劳动，对手则重材料节约。",
+      "author_original_conditions": "原无例外失败说很强，第8章足额代表票自行收窄。",
+      "required_inputs": [
+        "发行限制",
+        "可执行权利",
+        "接受/兑现与物价"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            509,
+            544
+          ],
+          "source_segment_sha256": "6a56694ebae7908c70f62adfb39c4bf3a41a24ece4f1301a60271a27302dbd55",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "It is also of importance to a clear understanding of this subject to recognize at this point another fundamental fact, namely, that there is no eviden",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            604,
+            615
+          ],
+          "source_segment_sha256": "a01cfa931a2ec36880a9ccc2e8675f7e808fc17b50e41486a65bcfa5cdd2ee7c",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Again, one of the principal objects for which money was devised and brought into use was to serve as a measure, or standard, for estimating the compar",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2659,
+            2670
+          ],
+          "source_segment_sha256": "c73114a352031300dfd23c474ee5d57f3342c7580ea226508404344cda55c482",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[2] \"The precious metals have many qualities which fit them for use as coin money. Their defects are their weight, their intrinsic value as commoditie",
+          "nominal_printed_chapter_start": 20,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "受约束非商品工具有持续履约与价记录时缩小材料必要性。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R10",
+      "chapter_ordinal": 5,
+      "title": "供给变化与名义繁荣不等于实物增富",
+      "author_claim_paraphrase": "廉价远岛贝壳进入，谷/犁报价翻倍、逃离钱与补币循环。",
+      "author_original_conditions": "虚构均价不能作历史CPI，劳动成本/需求共同前提。",
+      "required_inputs": [
+        "币量与发行入口",
+        "相同物价篮",
+        "实物产量/持币意愿"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            638,
+            672
+          ],
+          "source_segment_sha256": "37f26d8cbace1fa8a0ee1ce9457eefef9dc7ca3ee4909e16b6c7aefbf1eb7217",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "At the outset they agreed to use cowries--a pretty shell picked up on the beach, and which the women all desired to have and use as an ornament. These",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            681,
+            691
+          ],
+          "source_segment_sha256": "ca8f7ab019bd01c9db105f7737cd4373ae967a5cce94d4799d3cc3f6df34130f",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "continually augmenting prices--measured in cowry money--of all commodities, or, what is the same thing, the continually diminishing purchasing power o",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新产出与价格输入改变时修纯名义判断，不凭成交忙碌称增富。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R11",
+      "chapter_ordinal": 5,
+      "title": "发行先后与保有实物可能改变分配",
+      "author_claim_paraphrase": "先得贝壳者留下房犁，后来持券者受损；信心下降也加快花钱。",
+      "author_original_conditions": "寓言胜者固定，麦考莱一人例非银行大样本。",
+      "required_inputs": [
+        "进入次序",
+        "资产/负债/支出",
+        "名义实物区分"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            692,
+            745
+          ],
+          "source_segment_sha256": "7c774a2c56362b260797a291824a83f9014a1ff030ed62a1ed573c56d7081be0",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "observed that, as distrust increased, there was also a remarkable increase in societary activity; for every body desired to change off his cowry money",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2672,
+            2694
+          ],
+          "source_segment_sha256": "72cc794c71505261f5d22c7a576e1e3222ed9dec4d93c820b55a551eef11ae53",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[3] \"To my mind, the great and immediate need of the day is the issuance of more legal-tender notes, in order to impair the confidence in them to an e",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不同持有/债务或实际反例修所有早收钱者必赢说。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R12",
+      "chapter_ordinal": 5,
+      "title": "货币实物仍须稳定供给与适用质量",
+      "author_claim_paraphrase": "香蕉易腐、小麦笨重、牛难分、铁低值密度、珠需求可变。",
+      "author_original_conditions": "物理条件不是材料有用的充分证明；装饰偏好样本有限。",
+      "required_inputs": [
+        "耐久/携带/分割/质量",
+        "供给和需求",
+        "交割地点"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            818,
+            855
+          ],
+          "source_segment_sha256": "cdc200f69a48133748b698aa10c15a48a0836cbe974467d2f49124cf1529f600",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "But to return to the island. Although the first experience of the islanders in selecting a commodity to be used as money had been particularly unfortu",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2708,
+            2730
+          ],
+          "source_segment_sha256": "9deecd4b17c26414ad55d336ded20f9cb99617ec9a70cbb086046f247dafb800",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[6] \"Some years since, Mademoiselle Zélie, a singer of the Théâtre Lyrique at Paris, made a professional tour round the world, and gave a concert in t",
+          "nominal_printed_chapter_start": 26,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "受约束仓单可解部分成本，不能把所有商品工具无用化。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R13",
+      "chapter_ordinal": 6,
+      "title": "黄金物理便利不取消验真",
+      "author_claim_paraphrase": "可分可合耐久与价值密度、颜色陈列支持适用，实际仍用秤酸测试。",
+      "author_original_conditions": "色检非现代所有合金鉴定保证。",
+      "required_inputs": [
+        "材料与成色验收",
+        "分割储存成本",
+        "伪造/质量风险"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            900,
+            935
+          ],
+          "source_segment_sha256": "531de5a559cb4cc949773cfa19dcce5a0e47cc8022f72a0f2d1d07fcd35749c6",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Finally, time and circumstances helped the islanders to a solution of their difficulties. A man, walking in a ravine one day, picked up a small bright",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1079,
+            1103
+          ],
+          "source_segment_sha256": "02eb60065a31d3b63995ad6cf0ef2898b9a4bae9ddfc4cc37989f0b9e456f978",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "When the people on the island first began to use gold as money, they carried it around with them in the form in which it was first found; the fine dus",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2732,
+            2749
+          ],
+          "source_segment_sha256": "b04cac0d48101d085a188262c05a0b33541a1d8adba0d68b2c088b20486e9f80",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[9] In one of the mints there is exhibited as a curiosity a case in which this fact is demonstrated in the most striking manner. It contains some fift",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新鉴定风险证据修免验证结论，不输出裸眼验金建议。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R14",
+      "chapter_ordinal": 6,
+      "title": "金值稳定依供需与转业条件",
+      "author_claim_paraphrase": "新金初多可降价；浅层尽后难采，劳动转业相对回报均衡。",
+      "author_original_conditions": "转业需时，矿工中大奖希望在模型，金全球恒值不是独证。",
+      "required_inputs": [
+        "矿供给与开采成本",
+        "需求/存量",
+        "其他职业可比回报"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            966,
+            1033
+          ],
+          "source_segment_sha256": "1c522ce3a76f06fb1039c416e39d09ac8bb2513f1d02eeaac25563a4c874104a",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "This purchasing power was at first by no means fixed or constant. So long as there was but a small quantity of gold, its purchasing power was large. A",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2777,
+            2782
+          ],
+          "source_segment_sha256": "fa26bf2cc863f6f987faf537dc5cc813257f649fc3fc03d301ab153604d5a42c",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[11] On the Rhine, near Strasburg, a good able-bodied laborer can earn on an average one franc seventy-five centimes per day, washing gold from the sa",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "需求或技术大改、转业障碍会修稳值断言。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R15",
+      "chapter_ordinal": 6,
+      "title": "含金总量与可开采净财富不同",
+      "author_claim_paraphrase": "费城黏土有微量金、算大总值，但提取条件成本未详。",
+      "author_original_conditions": "约数直接乘积同128m有差，保留原数；未核原地层账。",
+      "required_inputs": [
+        "体积/含量/单价",
+        "提取和恢复成本",
+        "原调查样本"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            979,
+            983
+          ],
+          "source_segment_sha256": "9d951b87afafd2ff41f7ee6a4cbe0795f098b6b01228948a61603e678701a35f",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "different. On the one hand, there was no lack of gold. Instead of being a very scarce metal, as was for a time supposed, it was found to be so widely ",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2751,
+            2775
+          ],
+          "source_segment_sha256": "389f445c5ce4b3563878f5573d88dbf16c97b609fe174a72215f59c6fef518a4",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[10] In 1862 Mr. Eckfelt, then principal assayer at the mint in Philadelphia, communicated to the American Philosophical Society the result of some ex",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "缺提取条件对储备/利润弃权，不把地下总量作现成资产。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R16",
+      "chapter_ordinal": 6,
+      "title": "铸币法律标准降低重复鉴别",
+      "author_claim_paraphrase": "旧币固定重量成色启发公共铸币；名称改而物重相同。",
+      "author_original_conditions": "规格是标准金，非已给纯金比；法定印记可靠需验证。",
+      "required_inputs": [
+        "铸币规则/成色",
+        "查验成本",
+        "实际购买篮子"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1109,
+            1200
+          ],
+          "source_segment_sha256": "22786d716af6d0c595f265c06d81695deafb20b0540471c0f5dc748ccb5c0550",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "money. In making some public improvements, however, a party of workmen one day broke into the old cave in which Crusoe had first lived when he escaped",
+          "nominal_printed_chapter_start": 33,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "伪币或检验失效需恢复校验；固定规格非固定物价。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R17",
+      "chapter_ordinal": 7,
+      "title": "履约标的与无法履行例外均保留",
+      "author_claim_paraphrase": "应按约品质数量给付，不偷换，但未料不可避免且绝对无力保留例外。",
+      "author_original_conditions": "未详细破产程序，故意逃避与不能履行不同。",
+      "required_inputs": [
+        "原合同",
+        "时间与变更",
+        "履行能力和原因"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1213,
+            1243
+          ],
+          "source_segment_sha256": "54d0fd4b18029f376fc463c0761fc282eeaa5d2c503765bc55343a413784d973",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Next came the consideration of the laws regulating the exchanges and the use of money. Some people wanted laws enacted that every person should be obl",
+          "nominal_printed_chapter_start": 50,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "更明确条款/灾害/破产数据可改变失信判断，缺合同弃权。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R18",
+      "chapter_ordinal": 7,
+      "title": "默认官方单位与强迫接受不同",
+      "author_claim_paraphrase": "固定标准金、自由用别钱、未指定时默认官方币；反强制与公共协调并存。",
+      "author_original_conditions": "金重量保证与购买力非同项，新交易与旧债不混。",
+      "required_inputs": [
+        "交易类别/单位",
+        "法规时间",
+        "接受和合同"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1244,
+            1261
+          ],
+          "source_segment_sha256": "badca215d9d4a0527bc706061934ebd8ca14371111369f9808dc0d57f375b910",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "on the island, therefore, decided that they would allow the island authorities to interfere with exchanges to this extent only: that the medium of exc",
+          "nominal_printed_chapter_start": 50,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "明确权利信用工具自愿接受可修无人工全差说。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R19",
+      "chapter_ordinal": 7,
+      "title": "好货币仍不免坏信用和坏项目",
+      "author_claim_paraphrase": "有人赊而不付、过度消费、买不会盈利股份；损失不靠改钱名补回。",
+      "author_original_conditions": "有别人想且付得起是市场前提，不承诺人人能售。",
+      "required_inputs": [
+        "企业用途/收益",
+        "信用和负债",
+        "需求/可付款能力"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1263,
+            1282
+          ],
+          "source_segment_sha256": "c929816e2014b5aa68144aac87f67ac2f3484a3af6e5a2a0fe598a6a788d5f73",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "After this, every thing for a time pertaining to trade and commerce went on very smoothly on the island. It is true there were bad persons who obtaine",
+          "nominal_printed_chapter_start": 50,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有效保险/救济来源需另审，不把金融稳定当股票安全。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R20",
+      "chapter_ordinal": 8,
+      "title": "汇票净抵销节省搬运但要执行识别",
+      "author_claim_paraphrase": "对向指令指定收款人，周期抵销降低远途携金风险。",
+      "author_original_conditions": "犹太中世纪归源原称可能；盗贼无用条件非绝对。",
+      "required_inputs": [
+        "指令与收款识别",
+        "对向账户",
+        "净额/执行"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1296,
+            1318
+          ],
+          "source_segment_sha256": "b1423a26c4b9c012d180c2fd6249d77b6d4b6b51f38f60dee7945bf6a21e6770",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "As time went on, changes in the method of doing business gradually occurred on the island. Instead of being an isolated and unknown community, their e",
+          "nominal_printed_chapter_start": 55,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2798,
+            2801
+          ],
+          "source_segment_sha256": "1778f9275cb0a541a9c227881c608990a20c9b865642273f1913c01f9c62b584",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[14] Historically, bills of exchange probably originated with the Jews of the Middle Ages, who, ever liable to persecution, adopted a system of drafts",
+          "nominal_printed_chapter_start": 55,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "伪造或支付失败修安全度，历史归源缺原档不定唯一。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R21",
+      "chapter_ordinal": 8,
+      "title": "足额保管票是权利代表且可便利支付",
+      "author_claim_paraphrase": "当即兑现且不超过留存金，票被同金接受；代表不多一份实物。",
+      "author_original_conditions": "本模型足额留存，非部分储备贷款保证；currency作者专义。",
+      "required_inputs": [
+        "库存/在外票",
+        "兑付条款与记录",
+        "保管费用/权利"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1320,
+            1358
+          ],
+          "source_segment_sha256": "e20111a49be0da06b210df5674fbe5cf57992a8151f866b9891ec6b4c388d476",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "This labor-saving and danger-avoiding device, moreover, proved so useful, that the idea soon suggested itself that by an extension of the principle in",
+          "nominal_printed_chapter_start": 55,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "不足留存或兑现障碍降低判断，纸/数字外形不独拒。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R22",
+      "chapter_ordinal": 8,
+      "title": "历史银行与劳动券需核具体权利",
+      "author_claim_paraphrase": "威尼斯战争付息债未证明足额仓储；劳动/玉米券与小麦交割有地点工质难。",
+      "author_original_conditions": "所引全史未独核；沃伦和林顿方案不能一律当无限一般币。",
+      "required_inputs": [
+        "期限息率与资产运用",
+        "交割量地点质量",
+        "劳动技能和履约"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2803,
+            2820
+          ],
+          "source_segment_sha256": "e56dd82ed9711bacaf4a4959a1b20cc25f68206c7827bd0565b7a17f06636714",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[15] It was in this manner that the first bank of which we have any record originated in 1171, namely, the Bank of the Republic of Venice. Venice in t",
+          "nominal_printed_chapter_start": 55,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2822,
+            2890
+          ],
+          "source_segment_sha256": "deebc11b82699a889199bee3766df8773e7f5d9c6343a284793868a56a1b0b00",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[16] If to any it may seem puerile and unnecessary to enter into such explanations, it may be well to remind them that one of the schemes for a new cu",
+          "nominal_printed_chapter_start": 55,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "限定仓单有效可缩小否定，权利相异不当同模型证据。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R23",
+      "chapter_ordinal": 9,
+      "title": "战争债权与存下实物不可重复当财富",
+      "author_claim_paraphrase": "资源借入后消耗，债券付息定期、蓝券无期无息；保管金票另有留存。",
+      "author_original_conditions": "政府只税借是作者模型强说，债非必无值而依未来资源。",
+      "required_inputs": [
+        "支出实物与用途",
+        "政府负债/税资源",
+        "存量和净额"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1399,
+            1460
+          ],
+          "source_segment_sha256": "48a7aef2bccf9da206ccbcfd1fd9035b378ac2b13b300137c7df06074dabc916",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "The Government was active and energetic, but to carry on the war a vast expenditure of commodities was necessary; and as the Government of the island-",
+          "nominal_printed_chapter_start": 60,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "未来偿债有效证据修无价值读法，个人资产非社会新增等量实物。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R24",
+      "chapter_ordinal": 9,
+      "title": "有支付功能仍可能增加计价不确定",
+      "author_claim_paraphrase": "蓝券仍省劳动，但新闻改变购买力，卖方另加风险价，工薪调整慢。",
+      "author_original_conditions": "半谷幅虚构，保险是自留加价非承保合同。",
+      "required_inputs": [
+        "当时消息与报价",
+        "工资调整/消费",
+        "支付和期限"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1462,
+            1520
+          ],
+          "source_segment_sha256": "f2b30f5ac6b3dec374db3e221e0a58fee18ee0710ec2d2ad8cadcf9938f24740",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Undoubtedly one great reason which encouraged the people of the island in their delusion was the circumstance that the Government promises to pay, alt",
+          "nominal_printed_chapter_start": 60,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "受约束发行和稳定价记录可缩小必乱说，种族战争非模型特征。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R25",
+      "chapter_ordinal": 9,
+      "title": "采购销售币种和信用期限形成错配",
+      "author_claim_paraphrase": "购布用金、衣赊售收券，普通利润利息之外可能另加贬值保险。",
+      "author_original_conditions": "匿名一商经验说无统一规则；115/120/125/110分母未统一，船缺账。",
+      "required_inputs": [
+        "合同/采购销售币与时点",
+        "费用和竞争",
+        "实际回款报价"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1522,
+            1582
+          ],
+          "source_segment_sha256": "0505341e11936f23659cf198fdd70741fd973f89d3b1ffbd77458c2f1a2e9a42",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "The people on the island clothed themselves largely in cloth made in foreign countries; and as the island currency was non-exportable, the cloth was p",
+          "nominal_printed_chapter_start": 60,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2892,
+            2988
+          ],
+          "source_segment_sha256": "f0a370d7b8be9ab843e3bdaeb8edff72f5a9944732fb7a6f49f66eae9d9ce8e5",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[17] Although, to all who have investigated the subject, the evidence is conclusive that an irredeemable fluctuating paper money is always made an age",
+          "nominal_printed_chapter_start": 60,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "对冲或竞争不可转嫁修利润方向，缺基期不输出原5/10为准确收益。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R26",
+      "chapter_ordinal": 10,
+      "title": "重建忙碌和浪费投资不证明战争净富",
+      "author_claim_paraphrase": "恢复毁物确有用途，无回报项目消耗储蓄，文学人物只是讽刺。",
+      "author_original_conditions": "日本使团建议未核实施，虚构项目非历史证券表。",
+      "required_inputs": [
+        "前后资源损失",
+        "项目成本用途",
+        "新增产出与闲置"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1626,
+            1662
+          ],
+          "source_segment_sha256": "a7939443b689fd5e310aa63840d43a352432d0a293ed737fb11d1f87e0e07efd",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "At last the war ended. The cannibals were utterly repulsed; and the islanders no longer laid awake nights for fear of being roasted and eaten. A vast ",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2989,
+            2993
+          ],
+          "source_segment_sha256": "3911498308b5a5acc8635c213e8768098e9fd64b0eba04a8f20a17f8a906a3a8",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[19] When the Japanese embassy visited the United States, in 1872, they were seriously advised to create, by some means, a national debt as soon as th",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "若闲置动员证据另审净效益，不将所有投资或战争一律同样。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R27",
+      "chapter_ordinal": 10,
+      "title": "贸易障碍与积货失业共同影响需求",
+      "author_claim_paraphrase": "单向出口观和风险成本阻交易，停产失业减少消费；不唯钱量因果。",
+      "author_original_conditions": "长期买卖联系非每月货贸必须相等；未展资本/转移账户。",
+      "required_inputs": [
+        "币同口径国内外价格",
+        "贸易障碍/运输",
+        "库存就业和付款能力"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1664,
+            1689
+          ],
+          "source_segment_sha256": "00d4916e011ef949b300a09685ae67cc2c1b4c753dc24864db27196e246ca31a",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Another idea which about this time had become very popular on the island was, that while it was a very desirable thing to sell as much as possible of ",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2994,
+            3005
+          ],
+          "source_segment_sha256": "b795a4473d31adb0722e8389b5f770133b8947984e9e37fb23eafd715a3e2c49",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[20] Machiavelli, in his \"Discourses on the First Ten Books of Livy,\" book ii., chap, iii., in explaining the great difference in the relative growth ",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "替代清算/资本流与真实需求数据修单向断言；缺因果时序弃权。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R28",
+      "chapter_ordinal": 10,
+      "title": "恢复承诺有信誉用途但路径条件不足",
+      "author_claim_paraphrase": "立即/积仓偿付有分歧；失信影响再战筹款，围城故事赞纸承诺后兑。",
+      "author_original_conditions": "原政治动机断言不采；欧文故事非世界第一原账，强制例外有张力。",
+      "required_inputs": [
+        "原债和执行",
+        "税/储备与支付量",
+        "改革时序和信誉"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1691,
+            1723
+          ],
+          "source_segment_sha256": "7911a2bf681a8ebdd7058ec4d2c7cded56634acb1e989cd22c259ee5428cb6a5",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "In this way the times gradually \"got out of joint.\" Gradually the people on the island came to realize that much which they had considered as wealth w",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1800,
+            1841
+          ],
+          "source_segment_sha256": "8b459417117ce7aa9762403b779cd637ae84e56226b1c10c66a3e65677718c07",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "In the period of doubt and perplexity which thus came to the community, those fond of precedents carefully searched the old chronicles and records of ",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3007,
+            3029
+          ],
+          "source_segment_sha256": "5a9f714defd218e737142b12a2e9485f474a22767abc21b8b5f94e520d54bd35",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[21] Examination will show that the United States, for one-sixth part of their existence as a federated nation, have been in a state of war; and, for ",
+          "nominal_printed_chapter_start": 72,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "失业支付/兑付可行证据修恢复速度，不以节录给今日法律建议。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R29",
+      "chapter_ordinal": 11,
+      "title": "抽象单位不直接是虚构实物",
+      "author_claim_paraphrase": "作者把法院观念价值读成凭想象创造物品，含讽刺JackCade和作者插注。",
+      "author_original_conditions": "未全读判决；作者翻译推论非原裁判完整意，无真实Cade先例。",
+      "required_inputs": [
+        "原裁判全文和时期",
+        "单位定义/支付权利",
+        "实际执行"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            1984,
+            2054
+          ],
+          "source_segment_sha256": "43c179dfdb0b3df097147b34d94323def824f48612dc90f1be551e33f0ef7887",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "But the thing which the philosophers relied on more than any thing else to sustain their views before the people was a judicial decision recently made",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3036,
+            3040
+          ],
+          "source_segment_sha256": "b15dec8b5b288c7d120f8794d23bfdd9246fd05c71879075a67fe052eb878b41",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[27] Charles Moran, New York Commercial Bulletin, October 5th; 1875.  [28] Opinion of the United States Supreme Court, by Justice Strong.--Wallace, 12",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "有效抽象单位可修材料绝对说，不把作者讽刺当法律事实。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R30",
+      "chapter_ordinal": 11,
+      "title": "抵押毛资产必须同时记录负债",
+      "author_claim_paraphrase": "互买土地各有地和债权，债务同时增加；课税暴露毛额重复。",
+      "author_original_conditions": "原两地不多，净20k与毛40k不同，撤抵押非实物半消失。",
+      "required_inputs": [
+        "双方资产债务",
+        "权利与底物",
+        "合并范围"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2163,
+            2177
+          ],
+          "source_segment_sha256": "f348121ead1efb3c355c42d24baa44e41c4131d0b353e6ab3bd92b5554479f27",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Again, two shrewd fellows, Peter von Scrapehem and Israel Double, owned each a farm worth ten thousand dollars. Peter sold his farm for its full value",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2286,
+            2299
+          ],
+          "source_segment_sha256": "e2e54c72b728b8d8b13c149dedc6f78e5257f9ded0e2b135d1ef34215c9b6c3c",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "News also came, about this time, that the heathen, not being able to stay their stomachs with the pictures of fat cattle that had been so abundantly s",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "新增生产效益另记，无对边记录不指认净值造假。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R31",
+      "chapter_ordinal": 11,
+      "title": "凭证非直接消费物但有效权利有作用",
+      "author_claim_paraphrase": "画牛画衣不能食暖，病牛无奶多券无用；不等同任何信用无用。",
+      "author_original_conditions": "无实奶特设；不能否定有闲置产物下支付改善。",
+      "required_inputs": [
+        "实际供给/闲置",
+        "票权兑现和交付",
+        "需求与分配"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2090,
+            2161
+          ],
+          "source_segment_sha256": "31ec4aea52044f6aadb3e7d4411f4c346b9da6313847aa8ecf9b29ab3881d953",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Pending the slow preparations of the Government of the island to provide the requisite laws for the issue and use of the new money, various enlightene",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2179,
+            2245
+          ],
+          "source_segment_sha256": "5d23b35aa51185b2b1713aede0afb0a3b91e3f4861d5fabbda0fe03b9c7815fd",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "Up to this time the supply of milk on the island had been mainly controlled by a single corporation, which, under the name of the \"Lacteal Fluid Assoc",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3041,
+            3049
+          ],
+          "source_segment_sha256": "4a34cbec5967d945743ddaff776253081d62dd6a5b0eb971da525547c4b090ef",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[29] The Indians on the Atrato River (Central America), when first visited by one of the recent inter-ocean-canal exploring parties, were found to be ",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "真实履约与供给改善证据缩小画像类比，不以人群等级解释。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R32",
+      "chapter_ordinal": 11,
+      "title": "坏票量多可与真实资本不肯出借并存",
+      "author_claim_paraphrase": "回款担忧让物主持有，停产/失业；金外流按成本选择，增券方案分配失败。",
+      "author_original_conditions": "全球金值不变只有强断言无篮子；切券虚构，不是所有发行。",
+      "required_inputs": [
+        "贷款权利与意愿",
+        "同币国内外成本",
+        "发行分配及价格"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2336,
+            2421
+          ],
+          "source_segment_sha256": "64f43abcd81e6cba0dcb3c9fc13b1c32aea70936819cde38c5ea3c311090d59a",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "But, be this as it may, all who had loaned valuable commodities desired to avoid tapping, and consequently hastened to demand repayment before the ide",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3050,
+            3059
+          ],
+          "source_segment_sha256": "c772e0e7981c0f32af8f9e8d753f906efd79d8d61e9ab4c4c68eb9a8e0d2a0b1",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[30] This was what actually happened in Connecticut in 1704 and thereabouts. See \"Madame Knight's Journal,\" quoted in Felt and Bronson's \"Histories of",
+          "nominal_printed_chapter_start": 83,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "信用恢复/汇率统一后修结果，不只总币量宣布资金充足。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R33",
+      "chapter_ordinal": 12,
+      "title": "法偿清旧债与新交易接受须区别",
+      "author_claim_paraphrase": "切券翻名义额而卖价翻倍或不接受，清债却可能减原义务。",
+      "author_original_conditions": "只此寓言减半；美英原注历史解释未核今日效力。",
+      "required_inputs": [
+        "旧合同/法规阶段",
+        "新接受报价",
+        "实物与单位"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2434,
+            2474
+          ],
+          "source_segment_sha256": "23d29d462bbc1e743dcb4b3b7a0267369e5dd2c7cd50556ff34256e856fa82e4",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "It was expected that this new and immense volume of currency, poured at once on to the wheels of trade, would immediately start the wheels. But, someh",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3061,
+            3079
+          ],
+          "source_segment_sha256": "250fae54a35197aa0e3144b26cf96ed6ce1480767c449315fc2100ac5b504daf",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[32] This is the American interpretation. The English interpretation of \"legal tender\" was brought out in a debate in the House of Lords, in June, 181",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "具体规则与自愿履约可改变损失，缺制度不算统一50%。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R34",
+      "chapter_ordinal": 12,
+      "title": "名义本金利息总额与利率不可混",
+      "author_claim_paraphrase": "同采购借更多名义本金，投机竞争/风险使放款减少；永久利率原有特殊条件。",
+      "author_original_conditions": "1860/1870未指定利率，银行故事自券非储备，非受控因果。",
+      "required_inputs": [
+        "本金币和利率定义",
+        "可贷资源/风险",
+        "样本期限与付款储备"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2476,
+            2530
+          ],
+          "source_segment_sha256": "18572a5ee66f58a4e76b7adf184bbbc81f9ef54ec4e222da703d76c364680189",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "There was also a curious phenomenon incident to the situation, and pertaining to the rate of interest, which excited no little comment and attention. ",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3085,
+            3155
+          ],
+          "source_segment_sha256": "06ac4cb6b84631c0b3ab080c03dab7b7cf48dc1366918d27b95caf19d27babaf",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[35] The pertinacity \"with which a mind befogged on the subject of money and currency holds on to the delusion that the making and issue of promises t",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "短期信用及资源闲置证据能缩小永久命题，不由两点推单因素。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    },
+    {
+      "id": "P13-R35",
+      "chapter_ordinal": 12,
+      "title": "恢复可靠工具与获取金的过程未量证",
+      "author_claim_paraphrase": "产物与权利分清；支付工具有功能成本，金或好兑金承诺恢复且慢复苏。",
+      "author_original_conditions": "金匠可购不证明全社会无成本足金，无复苏底账，图序末图不漏。",
+      "required_inputs": [
+        "支付/兑付和储备",
+        "真实产出/信用/时序",
+        "价格篮子及来源"
+      ],
+      "evidence": [
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2532,
+            2604
+          ],
+          "source_segment_sha256": "9d04d470f9f4debd31c7a340b585911fab92ab3f74002c4ce097f7c2b1665188",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "In this way, through the school of hard experience, the people on the island came gradually to understand that there were certain economic truths whic",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            2623,
+            2633
+          ],
+          "source_segment_sha256": "6cd33ed32ab8974efef54c3c62774031d9139ae901da010e81413730643de393",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "It only remains to add that, as memorials of this eventful history, there is still exhibited in one of the public buildings on the island an exact mod",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        },
+        {
+          "source_file": "work/book-experts-v5/index_team/P13/source/original.txt",
+          "source_global_lines_inclusive": [
+            3157,
+            3158
+          ],
+          "source_segment_sha256": "4f689be56c2e51c5e1d200861be63ba6d6d8b9fa5dc2ccec22b258f4c391d3ff",
+          "hash_method": "未经归一化的原始CRLF字节行区间直接拼接",
+          "excerpt_for_location": "[37] Such were some of the uses finally made of the Continental currency. See Sumner's \"History of American Currency,\" p. 46.",
+          "nominal_printed_chapter_start": 108,
+          "precise_printed_page_verified": false
+        }
+      ],
+      "missing_required_data_action": "abstain",
+      "evidence_that_would_revise_or_narrow": "受约束信用长期成功能修无例外材料说；无行情/实验证不输出选股。",
+      "modern_layer_separate": "材料/权利/净额与口径核证是本次分析；原书无现代选股、配置或回测阈值。",
+      "current_stock_decision_enabled": false
+    }
+  ],
+  "rule_count": 35,
+  "book_semantic_reading_completed": true,
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "source_sha256": "010e9f829af33dc6745a1177777f5b3c3c6707792d1953639d2d3cf78ee4cfaf",
+  "image_provenance": "官方电子版Colophon明示重用1919荷兰译本插图，非本次1876原扫描逐图核对；新设计封皮非原封皮。",
+  "cross_book_borrowing_policy": "external_reference_not_new_vote",
+  "global_abstain_conditions": [
+    "发行/库存/权利未明",
+    "新交易旧债税混合",
+    "净额对边或币期基准缺",
+    "源数未解却用于精算",
+    "原历史引文未核当现代事实",
+    "种族宗教精神状态外貌作特征",
+    "未来资料回填或未接行情"
+  ],
+  "final_qualified": true
+}

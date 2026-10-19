@@ -1,0 +1,115 @@
+{
+  "book_id": "P26",
+  "chapter": 8,
+  "table_printed_page": 123,
+  "table_pdf_page": 133,
+  "units": "million historical French francs",
+  "war_accounts_all20_cells_read": [
+    {
+      "date": "1870-06-23",
+      "notes": 1374,
+      "deposits": 431.9,
+      "cash": 1318.5,
+      "discounted_paper": 558.1,
+      "public_loans": null,
+      "cash_over_notes_plus_deposits_percent": 73.01068719198183
+    },
+    {
+      "date": "1870-08-11",
+      "notes": 1583.6,
+      "deposits": 582.2,
+      "cash": 1028.6,
+      "discounted_paper": 1181.7,
+      "public_loans": null,
+      "cash_over_notes_plus_deposits_percent": 47.49284329116261
+    },
+    {
+      "date": "1870-09-08",
+      "notes": 1745,
+      "deposits": 441.8,
+      "cash": 808,
+      "discounted_paper": 1428.3,
+      "public_loans": null,
+      "cash_over_notes_plus_deposits_percent": 36.94896652643131
+    },
+    {
+      "date": "1871-06-29",
+      "notes": 2213,
+      "deposits": 524.1,
+      "cash": 549.8,
+      "discounted_paper": 741.9,
+      "public_loans": 1403,
+      "cash_over_notes_plus_deposits_percent": 20.08695334478097
+    }
+  ],
+  "blank_public_loans_not_zero": true,
+  "partial_table_not_complete_balance_sheet": true,
+  "near_two_thirds_original_prose_vs_table_ratio": {
+    "prose_approx_fraction": 0.6666666666666666,
+    "June23_table_fraction": 0.7301068719198184,
+    "not_silently_harmonized": true
+  },
+  "unpublished_account_interval": [
+    "1870-09-08",
+    "1871-06-29"
+  ],
+  "no_backtest_uses_unpublished_contemporary_information": true,
+  "small_note_discount1889_Paris": {
+    "all_pieces": 5667119,
+    "10francs_or_less": 19100,
+    "11_to50": 836417,
+    "51_to100": 1076072,
+    "three_small_groups_total": 1931589,
+    "three_small_groups_share": 0.34084143989212157
+  },
+  "1830_direct_loan_million": 30,
+  "bad_or_doubtful_unpaid1870_million": 0.9,
+  "long_interval_remaining_ratio_not_one_year_default_probability": 0.030000000000000002,
+  "Paris_discount_total1830_francs": 20629000,
+  "average_security_francs_less_than": 560,
+  "still_unpaid1841_percent_less_than": 2,
+  "regional_offices_reports_incomplete": true,
+  "1848_overdue_francs": 85000000,
+  "paid1849_francs": 76000000,
+  "later_loss_conjecture_max_francs": 500000,
+  "initial_loss_charge_francs": 4500000,
+  "conjecture_not_final_independent_ledger": true,
+  "Crimean_specie_import_cost_percent_range": [
+    1.3333333333333333,
+    1.5
+  ],
+  "critical_pdf130_fraction_verified": true,
+  "1857_new_shares": 91250,
+  "new_share_par_francs": 1000,
+  "cash_per_new_share_francs": 1100,
+  "computed_new_cash_francs": 100375000,
+  "government_bond_investment_stated_francs": 100000000,
+  "excess_cash_over_stated_bond_purchase_francs": 375000,
+  "statement_supplied_100m_not_claim_exact_equal_cash": true,
+  "old_price4500_new_price3050_share_count_change_not_naive_return": true,
+  "1857_immobilized_rentes_not_free_cash": true,
+  "historical_discount_above6_profit_into_permanent_surplus": true,
+  "note_limits_million_francs": {
+    "1848": 452,
+    "1849": 525,
+    "1870_aug12": 1800,
+    "1870_aug14": 2400,
+    "1871_dec": 2800,
+    "1872_july": 3200,
+    "1884": 3500
+  },
+  "1873_peak_notes_million": 3072,
+  "1878_resumption_notes_million": 2462,
+  "difference_million": 610,
+  "government_debt_resumption_threshold_million": 300,
+  "1876_end_debt_million": 338,
+  "final_1877_payment_million": 10,
+  "intervening_payments_not_fabricated_to_explain338_to300": true,
+  "1877_peak_specie_million": 2281,
+  "gold_share_approx": 0.6,
+  "BOE1874_1877_average_percent": 3.125,
+  "BOE6_percent_days": 38,
+  "BOE_above4_percent_days": 124,
+  "legal_tender_distinct_from_forced_nonredemption": true,
+  "all_inputs_historical_not_current_regulations": true
+}

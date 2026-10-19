@@ -1,0 +1,124 @@
+{
+  "book_id": "P35",
+  "strict_body_han_counts": [
+    2844,
+    2572,
+    2563,
+    2557,
+    2425,
+    2471,
+    2338,
+    2519,
+    2181,
+    2376,
+    2418,
+    2421,
+    2412,
+    2392,
+    2159,
+    2241,
+    2452,
+    2082,
+    2374,
+    2162,
+    2154,
+    2255,
+    2355
+  ],
+  "body_han_total": 54723,
+  "minimum_body_han": 2082,
+  "all23chapters_atleast2000": true,
+  "total_atleast20000": true,
+  "source_slices_match_fullTXT": true,
+  "all23sourcehashes_match": true,
+  "prior_actual_sequential_semanticread_checkpoints_all23": true,
+  "read_character_ranges_contiguous": true,
+  "frontmatter_twoappendices_transcriber_fulllicense_read": true,
+  "all_lowOCRphysicalpages_classified": true,
+  "all_four_appendix_originalpages_viewed": true,
+  "source_PDF_MD5_matches_manifest": true,
+  "rules_count": 55,
+  "all23chapters_and_twoappendices_have_rules": true,
+  "all_rule_paragraph_refs_exist": true,
+  "total_paragraph_anchors": 501,
+  "preciseOCR_anchor_count": 489,
+  "rules_with_atleast_one_preciseOCRanchor": 55,
+  "unmatched_preciseOCR_anchors": [
+    {
+      "rule": "P35-R02",
+      "paragraph": "P35-C01-P022",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R03",
+      "paragraph": "P35-C02-P013",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R04",
+      "paragraph": "P35-C02-P023",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R05",
+      "paragraph": "P35-C03-P018",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R20",
+      "paragraph": "P35-C09-P017",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R20",
+      "paragraph": "P35-C09-P019",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R41",
+      "paragraph": "P35-C17-P017",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R49",
+      "paragraph": "P35-C21-P019",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R54",
+      "paragraph": "P35-A-P004",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R54",
+      "paragraph": "P35-A-P006",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R54",
+      "paragraph": "P35-A-P007",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    },
+    {
+      "rule": "P35-R55",
+      "paragraph": "P35-B-P004",
+      "reason": "No unique exact normalized OCR substring; wholeparagraph/chapter range retained, precise page not guessed."
+    }
+  ],
+  "unmatched_not_guessed": true,
+  "one_book_one_expert": true,
+  "excludedLipman_not_counted": true,
+  "structural_validation_not_independent_semanticQA": true,
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "current_prediction_calls": 0,
+  "all40_complete": false,
+  "precise_complete_original_context_count": 521,
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "old_unmatched_OCR_anchors_are_historical_navigation_only": true,
+  "independent_all12_unmatched_context_visual_resolution_file": "source-review/independent-peer-QA/P35-independent-QA.json",
+  "final_expert_sha256": "4de1c7757b0e16a297c580b12059cfa7747351dc82654369009b1ac8300ccfab",
+  "final_status_authority_external": "work/book-experts-v5/value_team/peer-QA/P35-final-status-confirmation.json",
+  "historical_author_OCR_unmatched_navigation_retained_not_current_visual_review_status": true,
+  "independent_visual_resolution_file": "source-review/independent-peer-QA/P35-independent-QA.json"
+}

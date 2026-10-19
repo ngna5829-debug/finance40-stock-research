@@ -1,0 +1,57 @@
+{
+  "book_id": "P24",
+  "primary_edition": "NewYorkAppleton1875",
+  "primary_original_scan_unmodified": true,
+  "primary_damage": {
+    "pdf_page": 339,
+    "printed_page": 317,
+    "description": "Right edge clips terminal letters in multiple lines, including continuation of preceding paragraph, whole1839 paragraph, and start of next coining-notes paragraph. Not blank page; substantive visible words readable, missing exactglyphs unrecoverable from this scan.",
+    "primary_image": "source-review/pdf339.png",
+    "same_scan_current_archive_image": "source-review/pdf339-current-archive.png",
+    "same_scan_current_archive_does_not_restore_right_edge": true
+  },
+  "parallel_recovery": {
+    "URL": "https://www.econlib.org/library/YPDBooks/Jevons/jvnMME.html?chapter_num=25",
+    "chapter": "XXIV The Bank of England and the Money Market",
+    "publication_first": 1875,
+    "parallel_edition_publication": 1876,
+    "edition_statement": "Econlib:NewYorkD.AppletonandCo.,1876,Westminster(authorized)edition",
+    "rights_statement": "Econlib explicitly says text of edition public domain",
+    "complete_original_HTML_file": "source-review/ch24-econlib-1876.html",
+    "HTML_bytes": 145412,
+    "HTML_sha256": "782246ab54d0505b4b6a080cb1495c05a6ddec80782c28d0423d38a6430a1664",
+    "only_selected_paragraphs_semantically_read": [
+      {
+        "HTML_paragraph_ordinal": 39,
+        "text": "Professor Cliffe Leslie, writing in Macmillan’s Magazine for August, 1864, correctly pointed out, as I think, that speculative credit often raises prices for a time above their natural range. Representative credit, on the other hand, by which I suppose he means notes issued against the actual deposit of metal, obviously forms no augmentation of the currency, and can have no effect in raising prices above the level which would exist under a purely metallic system.",
+        "paragraph_sha256": "342ad2459a647f6ce5842bead27d83c1e334bf7a3a99fc2bba23dea9472e2422",
+        "anchor_phrase": "Representative credit, on the other hand"
+      },
+      {
+        "HTML_paragraph_ordinal": 41,
+        "text": "The actual exhaustion of the bullion of a country is no mere ideal event, for it is what occurred in this country in 1839, under the free system of note issue. The Bank of England had parted with almost the whole of its bullion and was only saved from bankruptcy by the ignominious expedient of a large loan from the Bank of France. The narrow limits of this book evidently restrict me from entering into historical and statistical illustrations, but it may be said, that the collapse which followed the crisis of 1839 induced severer distress and depression of trade than has ever since been known in this country. We now carry on industry and commerce many times greater than in 1839, and there is nothing to indicate that either the bank directors or the commercial classes are more cautious or farseeing than they then were. On the contrary, competition, speculation, and the bold erection of the widest affairs upon the narrowest basis of real capital is more common than ever. Knowing as we do the very narrow margin of real metal upon which our many great banks conduct their business, it is impossible to entertain for a moment the notion of allowing the paper currency of the country to rest upon the discretionary reserves of such competing bankers.",
+        "paragraph_sha256": "0599a63afed178ca24d75ae08012df68ee464e5f6e39ce65b82f52b140b6d786",
+        "anchor_phrase": "The actual exhaustion of the bullion"
+      },
+      {
+        "HTML_paragraph_ordinal": 45,
+        "text": "According, to the view which I adopt, the issue of notes is more analogous to the royal function of coinage than to the ordinary commercial operation of drawing bills. We ought to talk of coining notes, as John Law did; for though the design is impressed on paper instead of metal, the function of the note is exactly the same as that of a representative token. As to the right to issue promises, it no more exists than the right to establish private mints. For our present purposes that alone is right which the legislature declares to be expedient to the community at large. As almost every one has long agreed to place the coinage of money in the hands of the executive government, so I believe that the issue of paper representative money should continue to be practically in the hands of the government, or its agents acting under the strictest legislative control. M. Wolowski, in his admirable works on banking, has maintained that the issue of notes is a function distinct from the ordinary operations of a banker; and Mr. Gladstone has allowed that the distinction is a wholesome and vital one. Bankers enjoy the utmost degree of freedom in this country at present, in every other point, so that it is wholly a confusion of ideas to speak of the unrestricted emission of paper representative money as a question of free banking.",
+        "paragraph_sha256": "23ce771625f32e4f1207d6baafedc7070e6cdbf12ed79533d99234a77fd502e9",
+        "anchor_phrase": "view which I adopt"
+      }
+    ],
+    "complete_parallel_1876_book_read": false,
+    "not_counted_as_another_book": true,
+    "recovery_text_file": "source-review/pdf339-1876-parallel-recovery.txt",
+    "recovery_text_sha256": "6db7bf250e9a3c54cf832948ceb8c26a3a73faf0e8cc3f6cb774ca0e896ea151"
+  },
+  "cross_edition_limits": [
+    "Visible substantive wording of the3paragraphs agrees with1875scan; missing terminalglyphs cannot establish letter-for-letter1875identity.",
+    "1876transcription has According, to versus visible1875 According to at paragraph start; punctuation is not silently unified.",
+    "1875OCR misreads a second1839 as1889;1875visible original date and1876parallel both1839.",
+    "No complete1875vs1876collation performed; no claim both wholebooks identical."
+  ],
+  "user_facing_label_if_appendix_reconstruction": "1875扫描＋1876公版对应段恢复补页；不同版补读，不是逐字一致的1875原扫描",
+  "all1875_scan_glyphs_verified": false,
+  "same1875_other_scan_search": "Additionalcataloguesbeingchecked; no yetverifiedsame1875replacementpage"
+}

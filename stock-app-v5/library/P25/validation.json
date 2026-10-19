@@ -1,0 +1,38 @@
+{
+  "book_id": "P25",
+  "original_chapter_count": 16,
+  "all_primary_text_read_with_disclosed_gap": true,
+  "each_chapter_min2200_Han": true,
+  "whole_min20000_Han": true,
+  "body_Han_total": 40793,
+  "body_Han_minimum": 2303,
+  "precise_rule_anchors_integrity": true,
+  "semantic_independent_QA_passed": true,
+  "independent_QA_status": "passed_with_source_limits",
+  "all_original_scan_glyphs_verified": false,
+  "whole1875scan_read": false,
+  "current_stock_decision_enabled": false,
+  "expert_calls": 0,
+  "backtests": 0,
+  "artifacts": {
+    "章节深读.md": "c73174a572bfcf444f7d401f3afb44a99c3b2c7003fd84a33310cbc6424270b5",
+    "专家定义.json": "6498d64477d144a631bae21afa1f0da17732924517922e8a7f09a52cc99c030e",
+    "章节与阅读审计.json": "45063eeaa4e3c232e77324feac90d4545d797fc99da6bcd9ff7529e581549913",
+    "source/full-source.txt": "d5fc17cf2382bc0039bbae8bc04f6755f8a9316a90cfe48dc939790e2f70cb9a",
+    "source-review/final-reading-ledger.json": "ead0e5d247d2b70be4bd6c2125fb856f707799b77fa0638c83216a3bb6c60d7f",
+    "source-review/source-internal-review.json": "7a6d872d6cedd0bea68fb995406dae6a5e116b6431731c834bff0cc926010a22",
+    "专家说明.md": "beaf9b34426aab37610314fdbb1f6c12c5f327f90f600726a426e07dd383d276",
+    "全书综合与附录.md": "636b41eb75a7f3569db4e082b5db53d42e107ccefd67089ad72276defbae30fd",
+    "source/1892-PG-primary-with-disclosed1875-supplement.pdf": "f1193acc22ccd83fcfe6da1a55624ecd1d75c012b04b21da4c1ff61745c09b29",
+    "source-review/primary-PDF-verification.json": "47fa460856d3f1181d916c678bcc2c935472ce8b1ceb10b691da30ec4a6a87b3",
+    "source-review/selected-version-comparisons.json": "ffe9d1604a22d2d1b07f468aaf8beba2a88851f012e31929320fa7242dd5a41d",
+    "独立复核.json": "d266640f4bed91e669152f2fcf817e0a4d4f0c7a91faa7acf6afa19b71d2b7f0"
+  },
+  "limitations": [
+    "1892主转录第二章断接，1875对应原页单列恢复，未静默写回",
+    "同1892全扫描未取得，年代异版差不声称为零",
+    "历史医疗与性别族群判断不应用为当前事实"
+  ],
+  "primary_electronic_PDF_complete_downloaded_source_verified": true,
+  "precise_source_spans": 78
+}

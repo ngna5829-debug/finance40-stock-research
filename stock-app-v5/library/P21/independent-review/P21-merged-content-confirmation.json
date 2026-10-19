@@ -1,0 +1,4231 @@
+{
+  "book_id": "P21",
+  "status": "merged_content_passed_with_source_limits_wait_final_metadata_hash",
+  "merged_content_pass": true,
+  "final_metadata_hash_confirmation_pending": true,
+  "actual_changed_text_semantic_read": [
+    "完整合入ch16章稿",
+    "R32全部语义字段",
+    "说明综合完整修正差异（原全文已读）"
+  ],
+  "prior_complete_semantic_QA": "P21-independent-QA.json",
+  "mechanical_checks_not_another_full_book_read": true,
+  "checks_passed": 1049,
+  "checks": [
+    {
+      "check": "raw and preexisting derived source byte unchanged source/facsimile-pages.json",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch23.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch22.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch20.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch08.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch09.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch21.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/facsimile-layout.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch19.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch25.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/publisher-advertisements.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch24.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch18.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch26.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/catalog.html",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/index.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/staging-catalog.html",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/original-analytical-contents.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/preface.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch16.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch02.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch03.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch17.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch01.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch15.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch14.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch04.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch10.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/Clark_1908_Distribution_of_Wealth.pdf",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch11.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch05.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch13.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch07.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/OLL_2011_ebook.pdf",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch06.txt",
+      "pass": true
+    },
+    {
+      "check": "raw and preexisting derived source byte unchanged source/ch12.txt",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch15.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch21.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch11.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch24.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch10.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch14.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch17.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch23.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch16.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch12.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch09.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch19.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch08.md",
+      "pass": true
+    },
+    {
+      "check": "chapter candidate exact ch18.md",
+      "pass": true
+    },
+    {
+      "check": "ch01 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch01 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch01 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch02 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch02 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch02 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch03 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch03 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch03 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch04 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch04 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch04 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch05 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch05 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch05 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch06 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch06 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch06 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch07 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch07 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch07 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch08 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch08 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch08 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch09 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch09 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch09 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch10 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch10 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch10 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch11 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch11 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch11 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch12 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch12 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch12 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch13 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch13 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch13 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch14 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch14 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch14 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch15 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch15 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch15 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch16 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch16 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch16 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch17 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch17 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch17 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch18 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch18 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch18 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch19 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch19 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch19 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch20 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch20 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch20 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch21 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch21 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch21 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch22 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch22 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch22 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch23 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch23 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch23 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch24 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch24 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch24 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch25 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch25 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch25 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "ch26 non16 body unchanged",
+      "pass": true
+    },
+    {
+      "check": "ch26 strict count exact",
+      "pass": true
+    },
+    {
+      "check": "ch26 dossier hash plan audit",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot validation.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch16.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch12.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch15.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch10.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot 章节深读.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch19.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch17.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch11.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch14.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch08.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot 章节与阅读审计.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot source-review/ch16-diagram-and-numeric-review.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch21.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch09.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot rules-data.json",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch23.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch18.md",
+      "pass": true
+    },
+    {
+      "check": "preQA historical snapshot ch24.md",
+      "pass": true
+    },
+    {
+      "check": "strict body totals 76009/min2530/ch16 2832",
+      "pass": true
+    },
+    {
+      "check": "chapter concatenation exact",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R01-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R01-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R01-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R01-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R01-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R01-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R02-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R02-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R02-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R02-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R02-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R02-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R03-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R03-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R03-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R03-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R03-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R03-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R03-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R03-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R03-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R04-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R04-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R04-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R04-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R04-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R04-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R05-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R05-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R05-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R06-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R06-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R06-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R06-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R06-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R06-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R07-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R07-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R07-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R08-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R08-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R08-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R08-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R08-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R08-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R09-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R09-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R09-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R10-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R10-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R10-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R11-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R11-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R11-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R12-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R12-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R12-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R12-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R12-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R12-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R13-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R13-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R13-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R13-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R13-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R13-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R14-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R14-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R14-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R14-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R14-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R14-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R15-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R15-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R15-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R15-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R15-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R15-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R16-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R16-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R16-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R17-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R17-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R17-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R17-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R17-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R17-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R18-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R18-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R18-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R18-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R18-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R18-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R18-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R18-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R18-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R19-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R19-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R19-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R20-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R20-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R20-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R21-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R21-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R21-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R21-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R21-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R21-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R22-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R22-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R22-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R23-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R23-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R23-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R23-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R23-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R23-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R23-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R23-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R23-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R24-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R24-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R24-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R24-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R24-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R24-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R24-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R24-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R24-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R25-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R25-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R25-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R25-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R25-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R25-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R25-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R25-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R25-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R25-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R25-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R25-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R26-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R26-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R26-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R26-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R26-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R26-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R26-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R26-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R26-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R27-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R27-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R27-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R27-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R27-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R27-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R28-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R28-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R28-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R28-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R28-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R28-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R28-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R28-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R28-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R29-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R29-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R29-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R29-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R29-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R29-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R29-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R29-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R29-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R30-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R30-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R30-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R30-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R30-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R30-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R31-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R31-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R31-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R31-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R31-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R31-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R31-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R31-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R31-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R31-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R31-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R31-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R31-E05",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R31-E05",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R31-E05",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R32-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R32-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R32-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R32-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R32-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R32-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R32-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R32-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R32-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R32-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R32-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R32-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R33-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R33-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R33-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R33-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R33-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R33-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R34-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R34-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R34-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R34-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R34-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R34-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R34-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R34-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R34-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R34-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R34-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R34-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R35-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R35-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R35-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R35-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R35-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R35-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R36-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R36-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R36-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R36-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R36-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R36-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R37-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R37-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R37-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R37-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R37-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R37-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R37-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R37-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R37-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R37-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R37-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R37-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R38-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R38-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R38-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R38-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R38-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R38-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R38-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R38-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R38-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R38-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R38-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R38-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R38-E05",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R38-E05",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R38-E05",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R39-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R39-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R39-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R39-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R39-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R39-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R40-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R40-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R40-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R40-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R40-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R40-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R40-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R40-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R40-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R40-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R40-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R40-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R41-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R41-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R41-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R41-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R41-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R41-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R41-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R41-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R41-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R42-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R42-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R42-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R42-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R42-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R42-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R42-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R42-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R42-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R43-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R43-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R43-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R43-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R43-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R43-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R44-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R44-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R44-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R44-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R44-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R44-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R44-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R44-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R44-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R45-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R45-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R45-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R45-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R45-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R45-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R45-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R45-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R45-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R45-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R45-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R45-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R46-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R46-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R46-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R46-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R46-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R46-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E05",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E05",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E05",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E06",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E06",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E06",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R47-E07",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R47-E07",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R47-E07",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R48-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R48-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R48-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R48-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R48-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R48-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R48-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R48-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R48-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R49-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R49-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R49-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R49-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R49-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R49-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R50-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R50-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R50-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R50-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R50-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R50-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R50-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R50-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R50-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R51-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R51-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R51-E01",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R51-E02",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R51-E02",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R51-E02",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R51-E03",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R51-E03",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R51-E03",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R51-E04",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R51-E04",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R51-E04",
+      "pass": true
+    },
+    {
+      "check": "candidate fragment unchanged P21-R52-E01",
+      "pass": true
+    },
+    {
+      "check": "locator lines chars bytes hash P21-R52-E01",
+      "pass": true
+    },
+    {
+      "check": "fragment caveat and relative full context P21-R52-E01",
+      "pass": true
+    },
+    {
+      "check": "131 locator fragments",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R01",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R01",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R01 source/ch01.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R02",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R02",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R02 source/ch01.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R03",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R03",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R03 source/ch02.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R04",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R04",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R04 source/ch02.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R05",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R05",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R05 source/ch03.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R06",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R06",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R06 source/ch03.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R07",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R07",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R07 source/ch04.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R08",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R08",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R08 source/ch04.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R09",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R09",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R09 source/ch05.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R10",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R10",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R10 source/ch05.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R11",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R11",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R11 source/ch06.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R12",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R12",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R12 source/ch06.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R13",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R13",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R13 source/ch07.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R14",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R14",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R14 source/ch07.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R15",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R15",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R15 source/ch08.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R16",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R16",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R16 source/ch08.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R17",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R17",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R17 source/ch09.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R18",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R18",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R18 source/ch09.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R19",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R19",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R19 source/ch10.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R20",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R20",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R20 source/ch10.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R21",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R21",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R21 source/ch11.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R22",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R22",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R22 source/ch11.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R23",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R23",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R23 source/ch12.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R24",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R24",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R24 source/ch12.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R25",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R25",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R25 source/ch13.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R26",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R26",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R26 source/ch13.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R27",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R27",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R27 source/ch14.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R28",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R28",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R28 source/ch14.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R29",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R29",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R29 source/ch15.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R30",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R30",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R30 source/ch15.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R31",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R31",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R31 source/ch16.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R32",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R32",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R32 source/ch16.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R33",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R33",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R33 source/ch17.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R34",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R34",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R34 source/ch17.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R35",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R35",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R35 source/ch18.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R36",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R36",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R36 source/ch18.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R37",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R37",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R37 source/ch19.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R38",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R38",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R38 source/ch19.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R39",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R39",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R39 source/ch20.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R40",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R40",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R40 source/ch20.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R41",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R41",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R41 source/ch21.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R42",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R42",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R42 source/ch21.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R43",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R43",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R43 source/ch22.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R44",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R44",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R44 source/ch22.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R45",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R45",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R45 source/ch23.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R46",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R46",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R46 source/ch23.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R47",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R47",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R47 source/ch24.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R48",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R48",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R48 source/ch24.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R49",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R49",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R49 source/ch25.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R50",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R50",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R50 source/ch25.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R51",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R51",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R51 source/ch26.txt",
+      "pass": true
+    },
+    {
+      "check": "context candidate metadata only P21-R52",
+      "pass": true
+    },
+    {
+      "check": "whole context candidate bytes hash P21-R52",
+      "pass": true
+    },
+    {
+      "check": "whole unabridged source component P21-R52 source/ch26.txt",
+      "pass": true
+    },
+    {
+      "check": "52 whole original chapter contexts",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R01",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R01",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R01",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R01",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R01",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R02",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R02",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R02",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R02",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R02",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R03",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R03",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R03",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R03",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R03",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R04",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R04",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R04",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R04",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R04",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R05",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R05",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R05",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R05",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R05",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R06",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R06",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R06",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R06",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R06",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R07",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R07",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R07",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R07",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R07",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R08",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R08",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R08",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R08",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R08",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R09",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R09",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R09",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R09",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R09",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R10",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R10",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R10",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R10",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R10",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R11",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R11",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R11",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R11",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R11",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R12",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R12",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R12",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R12",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R12",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R13",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R13",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R13",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R13",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R13",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R14",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R14",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R14",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R14",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R14",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R15",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R15",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R15",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R15",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R15",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R16",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R16",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R16",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R16",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R16",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R17",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R17",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R17",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R17",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R17",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R18",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R18",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R18",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R18",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R18",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R19",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R19",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R19",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R19",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R19",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R20",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R20",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R20",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R20",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R20",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R21",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R21",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R21",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R21",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R21",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R22",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R22",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R22",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R22",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R22",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R23",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R23",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R23",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R23",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R23",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R24",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R24",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R24",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R24",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R24",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R25",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R25",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R25",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R25",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R25",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R26",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R26",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R26",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R26",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R26",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R27",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R27",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R27",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R27",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R27",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R28",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R28",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R28",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R28",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R28",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R29",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R29",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R29",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R29",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R29",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R30",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R30",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R30",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R30",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R30",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R31",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R31",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R31",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R31",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R31",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R32",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R32",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R32",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R32",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R32",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R33",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R33",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R33",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R33",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R33",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R34",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R34",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R34",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R34",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R34",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R35",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R35",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R35",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R35",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R35",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R36",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R36",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R36",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R36",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R36",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R37",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R37",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R37",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R37",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R37",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R38",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R38",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R38",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R38",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R38",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R39",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R39",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R39",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R39",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R39",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R40",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R40",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R40",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R40",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R40",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R41",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R41",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R41",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R41",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R41",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R42",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R42",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R42",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R42",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R42",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R43",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R43",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R43",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R43",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R43",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R44",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R44",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R44",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R44",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R44",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R45",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R45",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R45",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R45",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R45",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R46",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R46",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R46",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R46",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R46",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R47",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R47",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R47",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R47",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R47",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R48",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R48",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R48",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R48",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R48",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R49",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R49",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R49",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R49",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R49",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R50",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R50",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R50",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R50",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R50",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R51",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R51",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R51",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R51",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R51",
+      "pass": true
+    },
+    {
+      "check": "rule candidate semantic fields exact P21-R52",
+      "pass": true
+    },
+    {
+      "check": "only authorized author/boundary modifications P21-R52",
+      "pass": true
+    },
+    {
+      "check": "old chapter scope unchanged P21-R52",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence linked P21-R52",
+      "pass": true
+    },
+    {
+      "check": "full context relative link P21-R52",
+      "pass": true
+    },
+    {
+      "check": "global original issues preserved plus corrected precision",
+      "pass": true
+    },
+    {
+      "check": "prompt candidate precise statement exact",
+      "pass": true
+    },
+    {
+      "check": "corrected source review exact",
+      "pass": true
+    },
+    {
+      "check": "whole global prose asserted status transformation 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "whole global prose asserted status transformation 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R01",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R02",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R03",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R04",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R05",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R06",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R07",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R08",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R09",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R10",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R11",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R12",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R13",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R14",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R15",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R16",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R17",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R18",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R19",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R20",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R21",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R22",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R23",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R24",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R25",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R26",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R27",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R28",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R29",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R30",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R31",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R32",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R33",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R34",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R35",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R36",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R37",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R38",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R39",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R40",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R41",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R42",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R43",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R44",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R45",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R46",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R47",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R48",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R49",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R50",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R51",
+      "pass": true
+    },
+    {
+      "check": "rule display copy P21-R52",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA 章节深读.md",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA rules-data.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch02-evidence-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch03-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch07-original-wording-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch11-original-wording-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch12-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch13-formula-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch15-diagram-numeric-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch16-diagram-and-numeric-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch19-original-direction-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch21-formula-and-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch24-measurement-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/ch26-diagram-review.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/no-OCR-classification.json",
+      "pass": true
+    },
+    {
+      "check": "audit current artifact SHA source-review/nonchapter-reading-audit.json",
+      "pass": true
+    },
+    {
+      "check": "validation final hashes",
+      "pass": true
+    },
+    {
+      "check": "QA content hashes",
+      "pass": true
+    },
+    {
+      "check": "all known research limitations retained",
+      "pass": true
+    },
+    {
+      "check": "content qualified, final state pending",
+      "pass": true
+    }
+  ],
+  "strict_body_han_total": 76009,
+  "minimum_chapter_han": 2530,
+  "exact_locator_fragments": 131,
+  "whole_contexts": 52,
+  "required_candidate_groups_all_merged": true,
+  "all_original_and_preexisting_source_ledgers_unchanged": true,
+  "current_stock_decision_enabled": false,
+  "all_original_scan_glyphs_verified": false,
+  "canonical_not_modified_by_reviewer": true,
+  "hashes": {
+    "专家定义.json": "19ffc23aab0c6b417fa105aea0fae7ea83452994598386e9e8a43e5788145d48",
+    "章节与阅读审计.json": "cbde17849f43cc3e4404eac23188dad9e3b9199dffb0f5dce92a24de8c0b1092",
+    "独立复核.json": "38fb9bb6514a230e40721fce762d6037a5f16c15fe9ee4c8e2e7a433899c5f06",
+    "validation.json": "97066b684584e315932733d84afba6419c52f7b95b334471322e4e2160089df0",
+    "chapter-plan.json": "d55e75b68ba4c8ab76dfa59acf3f020a3b2e355e4165b2bb4d7167183d47b8e3",
+    "专家说明.md": "84b0f318e231cf03e2fd992b12d2b43781c64b5b7fd8678cc2623b10d192bb28",
+    "全书综合与附录.md": "ddabfa45cbe3296a5d1acde83a7d4a10872fb2b1bc6060cbdd6e077fa284bb00"
+  },
+  "updated_utc": "2026-10-13T15:00:15.274973+00:00"
+}

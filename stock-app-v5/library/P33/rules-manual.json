@@ -1,0 +1,826 @@
+[
+  {
+    "chapter": 1,
+    "title_zh": "先识别债务与报价方向",
+    "support_phrases": [
+      "Underlying the whole business of foreign exchange"
+    ],
+    "author_meaning": "对海外债务开票并出售，使债权人取得本币；汇票供给由具体义务产生。",
+    "required_inputs": [
+      "债权债务角色",
+      "支付币种",
+      "开票性质",
+      "报价方向"
+    ],
+    "horizon": "从义务产生到清偿",
+    "conditional_use": "美国卖方取得海外应收款且实际对海外开票时，形成该币票据供给。",
+    "falsifier_or_counterexample": "买方改寄美元票，或票据尚未真正开出，不能直接认定同额英镑供给。",
+    "independent_analysis_and_boundary": "只有OHLCV时不识别跨境真实流量；出售票的追索权需合同和法律另核。",
+    "abstain_if": "只有OHLCV时不识别跨境真实流量；出售票的追索权需合同和法律另核。"
+  },
+  {
+    "chapter": 1,
+    "title_zh": "平价不是随时成交价",
+    "support_phrases": [
+      "Which goes to show that the mint par"
+    ],
+    "author_meaning": "金币含金平价不能单独决定汇票价，运送成本与供求影响支付选择。",
+    "required_inputs": [
+      "含金制度",
+      "运输保险费用",
+      "可执行汇票价"
+    ],
+    "horizon": "指定结算路径期间",
+    "conditional_use": "原书金兑换条件存在，比较实物和票据的总清偿成本。",
+    "falsifier_or_counterexample": "不具金兑换权、旧金币失重或费用高于差价时，平价套利命题不成立。",
+    "independent_analysis_and_boundary": "4.8665只是历史制度值，不设现代浮动汇率硬阈值。",
+    "abstain_if": "4.8665只是历史制度值，不设现代浮动汇率硬阈值。"
+  },
+  {
+    "chapter": 1,
+    "title_zh": "证券发行的实款与预期分开",
+    "support_phrases": [
+      "not confined to the amount actually drawn against bonds sold",
+      "The announcement of a single big bond issue"
+    ],
+    "author_meaning": "海外债券销售产生票据供给，还可能引起其他银行预期开票，公告可先影响汇价。",
+    "required_inputs": [
+      "发行公告来源",
+      "外国认购规模",
+      "币种",
+      "实际交款开票日期"
+    ],
+    "horizon": "公告至融资结算",
+    "conditional_use": "区分已成交证券款与银行预先出售，分别解释当期票据。",
+    "falsifier_or_counterexample": "汇价已弱却证券未交款，或发行取消，挑战已实现外资流入的说法。",
+    "independent_analysis_and_boundary": "价格反应不是实际买股头寸记录；未得交割资料不报净流入量。",
+    "abstain_if": "价格反应不是实际买股头寸记录；未得交割资料不报净流入量。"
+  },
+  {
+    "chapter": 1,
+    "title_zh": "滚动信用不等于多次新资本",
+    "support_phrases": [
+      "being sometimes paid off, but more often shifted about or renewed",
+      "Very little of the capital so transferred goes in the form of gold"
+    ],
+    "author_meaning": "外国短贷以开长票送来支付能力，后续转借或续借再产生大量票据。",
+    "required_inputs": [
+      "未偿本金",
+      "到期表",
+      "续借记录",
+      "实际支付"
+    ],
+    "horizon": "贷款生命周期",
+    "conditional_use": "区分贷款存量、票据累计量和新增净资金。",
+    "falsifier_or_counterexample": "同一本金每九十日续借，会增加总开票但不必增加净头寸。",
+    "independent_analysis_and_boundary": "第一章100000美元与20000镑是近似例，不以平价强造精确等式。",
+    "abstain_if": "第一章100000美元与20000镑是近似例，不以平价强造精确等式。"
+  },
+  {
+    "chapter": 2,
+    "title_zh": "进口计价地不等于货物产地",
+    "support_phrases": [
+      "whether the merchandise in question is cutlery"
+    ],
+    "author_meaning": "不同产地货物可通过伦敦等中心票据支付，进口形成对国外付款权的需求。",
+    "required_inputs": [
+      "货物合同",
+      "付款地点",
+      "计价币种",
+      "到期"
+    ],
+    "horizon": "合同付款窗口",
+    "conditional_use": "在实际付款条款明确时识别币种需求。",
+    "falsifier_or_counterexample": "巴西货物用伦敦票不能当英国对美出口；年度货值不能当当天买单。",
+    "independent_analysis_and_boundary": "缺付款时序及已套保金额时不输出即期冲击量。",
+    "abstain_if": "缺付款时序及已套保金额时不输出即期冲击量。"
+  },
+  {
+    "chapter": 2,
+    "title_zh": "买回美国证券也能产生购汇",
+    "support_phrases": [
+      "In any case, when Europe sells, we buy"
+    ],
+    "author_meaning": "欧洲卖出美国证券而美国接回时，为付海外款可能购买外汇；短期卖潮不必动摇全部固定投资。",
+    "required_inputs": [
+      "证券交割",
+      "最终付款受益人",
+      "币种",
+      "长期及浮动头寸"
+    ],
+    "horizon": "交割与汇款期间",
+    "conditional_use": "确定海外卖方与付款链后区分回购需求与长期撤资。",
+    "falsifier_or_counterexample": "国内机构互相成交、长持仓未变或款留在美国，不支持同额跨境购汇。",
+    "independent_analysis_and_boundary": "仅成交量或经纪身份不足以确认账户国籍和最终资本流。",
+    "abstain_if": "仅成交量或经纪身份不足以确认账户国籍和最终资本流。"
+  },
+  {
+    "chapter": 2,
+    "title_zh": "收益汇回与资产卖出分别登记",
+    "support_phrases": [
+      "Only at the interest periods",
+      "Estimates of how much European money is invested here"
+    ],
+    "author_meaning": "外国资本利息股息在年初年中形成周期汇款，即使本金持仓不动仍需外汇。",
+    "required_inputs": [
+      "息票清单",
+      "所有人",
+      "支付日",
+      "汇回或再投安排"
+    ],
+    "horizon": "收益支付前后窗口",
+    "conditional_use": "用真实到款及汇出记录识别收益需求。",
+    "falsifier_or_counterexample": "留存收益再投、持有人未换汇时，未必即时冲击现货。",
+    "independent_analysis_and_boundary": "原文投资规模只能粗估；不得把未知收益数据填零。",
+    "abstain_if": "原文投资规模只能粗估；不得把未知收益数据填零。"
+  },
+  {
+    "chapter": 2,
+    "title_zh": "保险付款可以反转通常方向",
+    "support_phrases": [
+      "like the year of the Baltimore fire"
+    ],
+    "author_meaning": "通常保费所得需汇回，但大灾赔款可超过保费，反而创造外汇供给。",
+    "required_inputs": [
+      "保费",
+      "赔款",
+      "运营费用",
+      "净汇款"
+    ],
+    "horizon": "业务收支期",
+    "conditional_use": "检查净额与实际现金日期而非只看外资公司经营。",
+    "falsifier_or_counterexample": "损失高于保费的灾年，反驳外国保险经营必单向流出的规则。",
+    "independent_analysis_and_boundary": "运费、旅游及婚姻移款估数是历史叙述，不作现代统计或人口属性规则。",
+    "abstain_if": "运费、旅游及婚姻移款估数是历史叙述，不作现代统计或人口属性规则。"
+  },
+  {
+    "chapter": 3,
+    "title_zh": "相反供求必须合看",
+    "support_phrases": [
+      "there is literally never a time when several",
+      "The actual movement of the rate represents the relative strength"
+    ],
+    "author_meaning": "汇价同时承受升降力量，净结果取决于相对强弱；知识和判断都必要。",
+    "required_inputs": [
+      "同期间进口出口",
+      "证券结算",
+      "债务到期",
+      "利率及余额"
+    ],
+    "horizon": "明确截止日与支付窗口",
+    "conditional_use": "逐项列当期证据及相反影响，再给有保留机制判断。",
+    "falsifier_or_counterexample": "1909提前进口压过季节出口，1907撤资与证券回购阶段方向相反。",
+    "independent_analysis_and_boundary": "没有相对规模不伪造权重、概率或单因子确定方向。",
+    "abstain_if": "没有相对规模不伪造权重、概率或单因子确定方向。"
+  },
+  {
+    "chapter": 3,
+    "title_zh": "债券到期需求可能提前实现",
+    "support_phrases": [
+      "Accumulation of exchange in preparation"
+    ],
+    "author_meaning": "海外持有债券未获新债替换时偿付增加买汇，银行可能提前数周积累汇票。",
+    "required_inputs": [
+      "到期日",
+      "海外份额",
+      "再融资",
+      "已买汇金额"
+    ],
+    "horizon": "到期前准备至清偿",
+    "conditional_use": "只用未覆盖实际余额提出剩余需求。",
+    "falsifier_or_counterexample": "已换券或预付完毕时，到期日不会新增同额即时买单。",
+    "independent_analysis_and_boundary": "缺持有和覆盖证据不把总面值作现货订单。",
+    "abstain_if": "缺持有和覆盖证据不把总面值作现货订单。"
+  },
+  {
+    "chapter": 3,
+    "title_zh": "利率必须连到可移动余额",
+    "support_phrases": [
+      "Arrangements with foreign correspondents usually",
+      "when money at some important foreign center"
+    ],
+    "author_meaning": "纽约利率较高可召回海外余额，最低留存余额限制可动用量；海外降息也能促撤回或转第三地。",
+    "required_inputs": [
+      "两地相应期限利率",
+      "可动余额",
+      "最低账户要求",
+      "转换成本"
+    ],
+    "horizon": "资金迁移与贷款期限",
+    "conditional_use": "净收益较好且余额可动时识别相关汇票供给机制。",
+    "falsifier_or_counterexample": "资金受限、费用吞掉利差或其他付款需求更大，不能只由利率确定方向。",
+    "independent_analysis_and_boundary": "金本位央行机制不等于今日浮动汇率保证；需当前制度核验。",
+    "abstain_if": "金本位央行机制不等于今日浮动汇率保证；需当前制度核验。"
+  },
+  {
+    "chapter": 3,
+    "title_zh": "远期锁汇与收成猜测不同",
+    "support_phrases": [
+      "contract ahead of time with exchange dealers",
+      "the long bills drawn on the foreign bankers have to be"
+    ],
+    "author_meaning": "知道将来出货量的出口商可预售汇票避免出口旺季低汇价；融资承销销售不成则须续票。",
+    "required_inputs": [
+      "实际订单及出货量",
+      "远期条款",
+      "融资到期",
+      "续借条件"
+    ],
+    "horizon": "装运与交割窗口",
+    "conditional_use": "比较确定收款的覆盖与未确定作物、未卖证券的融资敞口。",
+    "falsifier_or_counterexample": "未实现的出口或拒绝续票会留下远期交付和还款缺口。",
+    "independent_analysis_and_boundary": "预售不是保证最好价格，发行季节作者明确无固定时间。",
+    "abstain_if": "预售不是保证最好价格，发行季节作者明确无固定时间。",
+    "related_rule_numbers": [
+      26
+    ]
+  },
+  {
+    "chapter": 4,
+    "title_zh": "跟单票检查实际权利和期限",
+    "support_phrases": [
+      "This draft, the bill of lading",
+      "sixty days after the party abroad"
+    ],
+    "author_meaning": "商业长票由汇票、提单和保险等组成，承兑从提示日起算期限，净兑现随等待成本变化。",
+    "required_inputs": [
+      "票据及提单",
+      "保险合同",
+      "提示承兑日期",
+      "出票受票信用"
+    ],
+    "horizon": "单张票据有效期",
+    "conditional_use": "按合同确认谁控制货物、到期何时、何种费用。",
+    "falsifier_or_counterexample": "伪造提单或无真实装运时跟单外观不形成真实担保。",
+    "independent_analysis_and_boundary": "不以文件数量替代真实性，旧4.84等例价非现代定价表。",
+    "abstain_if": "不以文件数量替代真实性，旧4.84等例价非现代定价表。"
+  },
+  {
+    "chapter": 4,
+    "title_zh": "付款交单票有商品时效反例",
+    "support_phrases": [
+      "Except in the case of the shipment of perishable merchandise"
+    ],
+    "author_meaning": "通常承兑交单票较易贴现，但易腐谷物促提前付款且返息低于贴现，付款票可能报价更高。",
+    "required_inputs": [
+      "交单条件",
+      "商品保存期限",
+      "实际付款需求",
+      "返息及贴现率"
+    ],
+    "horizon": "付款与提货窗口",
+    "conditional_use": "只有提前付款动机和费率关系同时存在时用此反例修正排序。",
+    "falsifier_or_counterexample": "货物可久存或返息相对贴现不同，不支持谷物式高价。",
+    "independent_analysis_and_boundary": "不把付款交单标签当永久价格排序或现代信用等级。",
+    "abstain_if": "不把付款交单标签当永久价格排序或现代信用等级。"
+  },
+  {
+    "chapter": 4,
+    "title_zh": "光票没有单据不等于没有贸易",
+    "support_phrases": [
+      "postponing its drawing for some time"
+    ],
+    "author_meaning": "货物与单据先给买方，后来开票，也会产生光票；购票者主要依信用与开票权。",
+    "required_inputs": [
+      "装运与文件先送记录",
+      "出票人信用",
+      "开票授权"
+    ],
+    "horizon": "单票从购买到到期",
+    "conditional_use": "区分真实贸易背景与当前抵押控制。",
+    "falsifier_or_counterexample": "真实贸易仍不等于购票者握有担保，低价光票不能只靠名望认好。",
+    "independent_analysis_and_boundary": "无资料时对安全和追偿弃权；有单据也不可默认真。",
+    "abstain_if": "无资料时对安全和追偿弃权；有单据也不可默认真。"
+  },
+  {
+    "chapter": 4,
+    "title_zh": "银行长票用途需另查",
+    "support_phrases": [
+      "the nature and origin of the two bills are radically different"
+    ],
+    "author_meaning": "同样长票外观可能来自提前贸易付款、外国贷款或银行筹资，经济用途不同。",
+    "required_inputs": [
+      "资金用途合同",
+      "受益人",
+      "付款资产来源",
+      "抵押",
+      "期限"
+    ],
+    "horizon": "业务全周期",
+    "conditional_use": "先分类角色和到期义务，再评价风险。",
+    "falsifier_or_counterexample": "相同票面无法证明是货物支持的商业融资。",
+    "independent_analysis_and_boundary": "六张表式仅示例；光票图30日afterdate与其他sight起算不同。",
+    "abstain_if": "六张表式仅示例；光票图30日afterdate与其他sight起算不同。"
+  },
+  {
+    "chapter": 5,
+    "title_zh": "经纪撮合与自营收益分开",
+    "support_phrases": [
+      "the regular brokers",
+      "The larger banks and banking houses",
+      "Next come the big dealers in exchange"
+    ],
+    "author_meaning": "银行、交易商和独立经纪角色不同；经纪靠佣金，自营还承担资本与信用风险。",
+    "required_inputs": [
+      "交易角色",
+      "收入科目",
+      "佣金",
+      "资本占用",
+      "成本"
+    ],
+    "horizon": "业务收入期",
+    "conditional_use": "报告撮合费或毛价差，禁止混报净收益。",
+    "falsifier_or_counterexample": "五点佣金一万镑五美元不等于投资净利或利率。",
+    "independent_analysis_and_boundary": "旧五点单位特定，不是平台统一pip或五个百分点。",
+    "abstain_if": "旧五点单位特定，不是平台统一pip或五个百分点。"
+  },
+  {
+    "chapter": 5,
+    "title_zh": "张贴价不替代机构成交价",
+    "support_phrases": [
+      "Posted rates"
+    ],
+    "author_meaning": "公开张贴价主要针对小额票，大额客户可得不同价格，银行处理成本影响小票收费。",
+    "required_inputs": [
+      "金额",
+      "客户等级",
+      "买卖价",
+      "时间",
+      "手续费"
+    ],
+    "horizon": "一次成交时点",
+    "conditional_use": "按同规模同类型比较真实可得价。",
+    "falsifier_or_counterexample": "十镑张贴4.88与一万镑4.87不是同级同步套利。",
+    "independent_analysis_and_boundary": "无可执行价或只静态网页时不称逐笔实时。",
+    "abstain_if": "无可执行价或只静态网页时不称逐笔实时。"
+  },
+  {
+    "chapter": 5,
+    "title_zh": "信息网络趋近不是永远同价",
+    "support_phrases": [
+      "sales are made simultaneously at slightly different rates",
+      "many bankers temporarily withdrew entirely from the market"
+    ],
+    "author_meaning": "电话和经纪竞争使各处价格趋近，但同时成交仍可略异，危机可迫银行退出。",
+    "required_inputs": [
+      "同步报价",
+      "数量",
+      "有效期",
+      "对手信用",
+      "结算能力"
+    ],
+    "horizon": "实时成交及异常期",
+    "conditional_use": "区别普通薄利业务与失序环境的执行能力。",
+    "falsifier_or_counterexample": "1907银行退出，报价有而未必能做；旧报价不构成同时锁差。",
+    "independent_analysis_and_boundary": "不从普通15点样例校准日波动概率；原reduction与现金溢价按日语义保留疑点。",
+    "abstain_if": "不从普通15点样例校准日波动概率；原reduction与现金溢价按日语义保留疑点。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "即期商票价差含信用风险",
+    "support_phrases": [
+      "the extent of the banker's profit is dependent largely",
+      "Cases very frequently occur, however",
+      "placing too low a valuation upon it"
+    ],
+    "author_meaning": "买便宜商票再卖银行即期票，毛差取决出票信用风险，也可能有市场误判。",
+    "required_inputs": [
+      "商票信用调查",
+      "真实付款",
+      "买入卖出价",
+      "费用"
+    ],
+    "horizon": "买票至兑现",
+    "conditional_use": "只有独立确认信用及净成本时研究价差。",
+    "falsifier_or_counterexample": "贴价低可能是差信用，一次拒付可吃掉数月薄利。",
+    "independent_analysis_and_boundary": "4.86/4.87千镑十美元是毛差，不等于已确认净套利。",
+    "abstain_if": "4.86/4.87千镑十美元是毛差，不等于已确认净套利。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "电汇支付靠已有可用余额",
+    "support_phrases": [
+      "must necessarily carry a substantial credit balance abroad"
+    ],
+    "author_meaning": "卖电汇通常靠海外余额立即付款，再用寄送即期票补充，营业量可放大薄利。",
+    "required_inputs": [
+      "可用余额",
+      "到期付款",
+      "补库时间",
+      "佣金",
+      "通信资金成本"
+    ],
+    "horizon": "付款与补库期间",
+    "conditional_use": "确认先付能力与补库链后计算毛差及净成本。",
+    "falsifier_or_counterexample": "余额不足须另购电汇，或补库迟到，原薄利条件改变。",
+    "independent_analysis_and_boundary": "都是银行不消除信用结算风险；50,000镑75美元不作ROI。",
+    "abstain_if": "都是银行不消除信用结算风险；50,000镑75美元不作ROI。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "抵押真实性与可售性不可互替",
+    "support_phrases": [
+      "the bill of lading was a forgery"
+    ],
+    "author_meaning": "跟单长票须核双方信用、单据真伪和商品可变现，原案伪造提单造成银行损失。",
+    "required_inputs": [
+      "装运核验",
+      "提单签发",
+      "出票承兑信用",
+      "货物急售价值"
+    ],
+    "horizon": "票据存续及违约处置",
+    "conditional_use": "查原始物流及清算价值，不能只看发票。",
+    "falsifier_or_counterexample": "黄油出售成本与法律风险，特产发票值不同于急售值。",
+    "independent_analysis_and_boundary": "无实体证据或只价格序列时不认真实抵押和机构资金。",
+    "abstain_if": "无实体证据或只价格序列时不认真实抵押和机构资金。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "只卖净贴现余额",
+    "support_phrases": [
+      "the bill has lost weight"
+    ],
+    "author_meaning": "长票贴现扣佣金、印花和等待利息，所生余额低于面值；打平须比实际净所得与买价。",
+    "required_inputs": [
+      "贴现率",
+      "期限宽限日",
+      "印花",
+      "佣金",
+      "即期净卖价"
+    ],
+    "horizon": "票据提示至卖出余额",
+    "conditional_use": "逐笔用本银行实际条件算净额。",
+    "falsifier_or_counterexample": "£1000票面不自动支持£1000即期出售；付款票不走同一贴现。",
+    "independent_analysis_and_boundary": "原93日表日计和舍入未明，4.8026不是永久阈值。",
+    "abstain_if": "原93日表日计和舍入未明，4.8026不是永久阈值。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "汇率风险按合同角色归属",
+    "support_phrases": [
+      "In the case of a currency loan"
+    ],
+    "author_meaning": "英镑贷款借款人归还英镑并受汇价变化；美元贷款还美元，由银行承担换回英镑风险。",
+    "required_inputs": [
+      "放款还款币种",
+      "佣金",
+      "远期覆盖",
+      "实际兑换",
+      "合同"
+    ],
+    "horizon": "贷款全期限",
+    "conditional_use": "逐角色列义务与已覆盖金额。",
+    "falsifier_or_counterexample": "银行固定美元利率并不锁住银行英镑利润；100000镑远期未必含375镑佣金。",
+    "independent_analysis_and_boundary": "贷款条款可反映预期但作者也说银行会错，不转为上涨概率。",
+    "abstain_if": "贷款条款可反映预期但作者也说银行会错，不转为上涨概率。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "信用承兑不是无限无资金融资",
+    "support_phrases": [
+      "when the London discount market refuses to absorb bills",
+      "the foreign banking institution lends out its credit"
+    ],
+    "author_meaning": "承兑银行不必先付现金，靠贴现市场吸收票据；拒绝贴现或再贴现会收紧贷款业务。",
+    "required_inputs": [
+      "承兑敞口",
+      "贴现额度",
+      "借款回款",
+      "到期覆盖",
+      "抵押"
+    ],
+    "horizon": "贷款与再贴现有效期",
+    "conditional_use": "区分出票人、承兑人和实际垫资买票者。",
+    "falsifier_or_counterexample": "借款不回、市场拒收或央行拒再贴现，拆断无现金初付闭环。",
+    "independent_analysis_and_boundary": "未先垫钱不等于无资本风险、无到期义务或无限信用。",
+    "abstain_if": "未先垫钱不等于无资本风险、无到期义务或无限信用。",
+    "related_rule_numbers": [
+      33
+    ]
+  },
+  {
+    "chapter": 6,
+    "title_zh": "融通票把汇率预测变成到期义务",
+    "support_phrases": [
+      "the expected flood of exchange never materialized",
+      "while the cotton crop turned out decidedly short",
+      "covering operations were conducted with extreme difficulty"
+    ],
+    "author_meaning": "卖长融通票筹资等待低价覆盖，是外汇投机；1909丰收落空和海外利率促偿债使覆盖困难。",
+    "required_inputs": [
+      "融通额度",
+      "到期覆盖",
+      "实际出口",
+      "海外利率",
+      "可用流动性"
+    ],
+    "horizon": "长票出售至到期",
+    "conditional_use": "用已实现而非希望的商票供给审查覆盖计划。",
+    "falsifier_or_counterexample": "作物未如预期，偿债需求反增，反驳秋季必可便宜覆盖。",
+    "independent_analysis_and_boundary": "不因银行名望或历史季节放过当前数据、REGIME与风险门。",
+    "abstain_if": "不因银行名望或历史季节放过当前数据、REGIME与风险门。"
+  },
+  {
+    "chapter": 6,
+    "title_zh": "三地价差与未来配对仍需闭环",
+    "support_phrases": [
+      "the operation ties up capital",
+      "Without any risk and without tying",
+      "five francs seventeen and one-half centimes"
+    ],
+    "author_meaning": "第三地汇兑可替代直接购汇；未来票配对可锁价，但付款票到账时间仍靠估计，作者同时称无风险。",
+    "required_inputs": [
+      "同步三地净价",
+      "账户余额",
+      "交割时间",
+      "信用",
+      "货物实发与到款"
+    ],
+    "horizon": "同时执行或约定未来日",
+    "conditional_use": "分别计算三地毛差，核所有未来义务金额日期匹配。",
+    "falsifier_or_counterexample": "付款延迟、未来出货不成或另一端撤价使无风险强句失去条件。",
+    "independent_analysis_and_boundary": "Futures是本书未来交割合约，非自动等于现代交易所期货；配对不消除期限信用风险。",
+    "abstain_if": "Futures是本书未来交割合约，非自动等于现代交易所期货；配对不消除期限信用风险。",
+    "related_rule_numbers": [
+      34,
+      35
+    ]
+  },
+  {
+    "chapter": 7,
+    "title_zh": "黄金初次归集与最终储藏分开",
+    "support_phrases": [
+      "merely temporary and show little as to the final lodgment"
+    ],
+    "author_meaning": "矿产金进伦敦拍卖再去柏林或巴黎只是暂时归集，后续需求消失会再分配。",
+    "required_inputs": [
+      "实际运输",
+      "最终账户",
+      "竞买用途",
+      "再转出"
+    ],
+    "horizon": "一批金的归集与再分配",
+    "conditional_use": "不以到港一刻确认永久储备增量。",
+    "falsifier_or_counterexample": "季末需求或融资结束后金再离开初获中心。",
+    "independent_analysis_and_boundary": "金本位矿产与拍卖机制是历史背景，不当今日央行储备全数据。",
+    "abstain_if": "金本位矿产与拍卖机制是历史背景，不当今日央行储备全数据。"
+  },
+  {
+    "chapter": 7,
+    "title_zh": "黄金点是逐路径净成本",
+    "support_phrases": [
+      "the figures of such calculations can never be absolute"
+    ],
+    "author_meaning": "运金利润须比较汇票、金属买卖价、费用及时间占款；各条件变动，不存在绝对固定算例。",
+    "required_inputs": [
+      "重量成色",
+      "可兑换制度",
+      "金价",
+      "费用",
+      "运输检验日",
+      "资金成本"
+    ],
+    "horizon": "一批完整运输兑现",
+    "conditional_use": "按实物与资金路径计算净打平，而非只比铸币平价。",
+    "falsifier_or_counterexample": "失重金币按面额采购、三日透支或十日占款，破坏忽略费用的利润。",
+    "independent_analysis_and_boundary": "原115–116收益指代与128.25算术疑点已原图确认，精确收益实验关闭。",
+    "abstain_if": "原115–116收益指代与128.25算术疑点已原图确认，精确收益实验关闭。"
+  },
+  {
+    "chapter": 7,
+    "title_zh": "实物终点不等于支付终点",
+    "support_phrases": [
+      "gold is shipped from New York to Paris for the sake",
+      "the shipment of gold from New York to the Argentine for account"
+    ],
+    "author_meaning": "三角运金至巴黎可为增加伦敦余额，伦敦对阿根廷付款也可委纽约运金。",
+    "required_inputs": [
+      "三地账户",
+      "委托付款",
+      "外汇方向",
+      "净报价",
+      "实物路径"
+    ],
+    "horizon": "委托结算期",
+    "conditional_use": "按最终债务与每一兑换步骤识别义务。",
+    "falsifier_or_counterexample": "纽约金去巴黎不能直接称法国最终投资流入；阿根廷金不必对应美国贸易。",
+    "independent_analysis_and_boundary": "只有运输新闻不推断最终国别净资本或个股信号。",
+    "abstain_if": "只有运输新闻不推断最终国别净资本或个股信号。"
+  },
+  {
+    "chapter": 7,
+    "title_zh": "运金动机和黄金自由均有限",
+    "support_phrases": [
+      "at a time when conditions plainly indicate that the exporter is shipping at a loss",
+      "The new gold coming from the mines"
+    ],
+    "author_meaning": "运金可为自有还债、宣传或他人委托甚至亏损；伦敦拍卖也受央行利率和竞买影响。",
+    "required_inputs": [
+      "运输委托",
+      "全部成本",
+      "央行干预",
+      "可购实物量"
+    ],
+    "horizon": "交易与制度期",
+    "conditional_use": "区别交易净利、经济付款选择与作者股市刺激判断。",
+    "falsifier_or_counterexample": "亏损运金或金条断货，挑战流动方向必逐利以及开放便任意数量可得。",
+    "independent_analysis_and_boundary": "旧自由市场和金进出口表不直接预测今日股票；表脚注出口超额须正确识别。",
+    "abstain_if": "旧自由市场和金进出口表不直接预测今日股票；表脚注出口超额须正确识别。"
+  },
+  {
+    "chapter": 8,
+    "title_zh": "长持有、浮动与投机的结算分开",
+    "support_phrases": [
+      "Europe's floating",
+      "From the maturities, refunding operations"
+    ],
+    "author_meaning": "长期到期再投、浮动调整与短期投机都生外汇，但资本存量和交易目的不同。",
+    "required_inputs": [
+      "长期持有人",
+      "到期再投",
+      "交割与支付币种",
+      "实际头寸"
+    ],
+    "horizon": "各投资及结算窗口",
+    "conditional_use": "检查再融资与分期交款，不能用发行总額替代当日买卖。",
+    "falsifier_or_counterexample": "息票汇回或分期发行可有票据而无新的集中投机方向。",
+    "independent_analysis_and_boundary": "欧洲在美国证券的投资总额究竟三十、四十还是五十亿美元，原文称无法确定；缺资料不填精确金额。",
+    "abstain_if": "欧洲在美国证券的投资总额究竟三十、四十还是五十亿美元，原文称无法确定；缺资料不填精确金额。"
+  },
+  {
+    "chapter": 8,
+    "title_zh": "九十日滚票融资有期限错配",
+    "support_phrases": [
+      "Each time he renewed the draft",
+      "the constantly increasing amount of the drafts"
+    ],
+    "author_meaning": "预期半年至一年获利的债券可用九十日票滚动携带，每次新票额更大以偿旧票。",
+    "required_inputs": [
+      "债券现金收入",
+      "贷款到期",
+      "续借承诺",
+      "汇差",
+      "费用"
+    ],
+    "horizon": "资产持有与全部续借期",
+    "conditional_use": "检查增长的义务、可贴现能力与到期现金。",
+    "falsifier_or_counterexample": "第6章拒贴现反证几乎无限续票；票息也未证明覆盖全部成本。",
+    "independent_analysis_and_boundary": "50,310是近似，未初付现金不等于没有实际垫资者或无风险。",
+    "abstain_if": "50,310是近似，未初付现金不等于没有实际垫资者或无风险。",
+    "related_rule_numbers": [
+      25
+    ]
+  },
+  {
+    "chapter": 8,
+    "title_zh": "同步套利须已有合格卖端",
+    "support_phrases": [
+      "the bid in one market being in hand",
+      "But not so in the case of the other kind of arbitrage"
+    ],
+    "author_meaning": "两地同时开市时握另一地买价后买券，与隔夜等待消息传播不同。",
+    "required_inputs": [
+      "同证券同步买卖报价",
+      "数量",
+      "有效期",
+      "汇率",
+      "费用",
+      "交割"
+    ],
+    "horizon": "同时执行或隔夜分开",
+    "conditional_use": "只有可执行对手价仍有效才研究锁差；隔夜单列方向敞口。",
+    "falsifier_or_counterexample": "翌日海外低开或报价撤回造成亏损，反驳叫套利就无风险。",
+    "independent_analysis_and_boundary": "仅日线和静态中间价不识别可执行跨市套利或收益概率。",
+    "abstain_if": "仅日线和静态中间价不识别可执行跨市套利或收益概率。"
+  },
+  {
+    "chapter": 8,
+    "title_zh": "报价有效期限比数字价差重要",
+    "support_phrases": [
+      "where the bid is not firm at all"
+    ],
+    "author_meaning": "债券99买价若全天有效，与不坚定或五分钟有效不同，另一端98购入后可能无处卖。",
+    "required_inputs": [
+      "买端承诺时效",
+      "证券币种面值应计",
+      "成本",
+      "成交数量"
+    ],
+    "horizon": "报价有效窗口",
+    "conditional_use": "先验证两端锁定条件再讨论一点评价差。",
+    "falsifier_or_counterexample": "伦敦买成而纽约99价撤销便有单边风险。",
+    "independent_analysis_and_boundary": "作者末段承认多靠判断，不能把前文强句推广每个市场状态。",
+    "abstain_if": "作者末段承认多靠判断，不能把前文强句推广每个市场状态。"
+  },
+  {
+    "chapter": 9,
+    "title_zh": "信用证先核权限与期限",
+    "support_phrases": [
+      "These conditions, having to do with the usance",
+      "marking it payable four months from the date"
+    ],
+    "author_meaning": "进口信用指定开票额、期限、单据及保险，伦敦核合约后承兑，提示日起算付款日。",
+    "required_inputs": [
+      "信用原件",
+      "授权到期",
+      "提示日",
+      "运输单据",
+      "保险",
+      "金额币种"
+    ],
+    "horizon": "从开证至最终覆盖",
+    "conditional_use": "分开开票截止、承兑期限和货到日。",
+    "falsifier_or_counterexample": "过期或不符单据不能借信用名义获无条件承兑。",
+    "independent_analysis_and_boundary": "图£600与正文£1000不同示例；难辨手写身份不作已确认主体。",
+    "abstain_if": "图£600与正文£1000不同示例；难辨手写身份不作已确认主体。"
+  },
+  {
+    "chapter": 9,
+    "title_zh": "释放货物后的权利与控制分开",
+    "support_phrases": [
+      "the author refrains from making comment on it",
+      "putting himself in the position of having made an unsecured loan"
+    ],
+    "author_meaning": "信托收据使商人取货生产并交销售款；作者不裁判制度优劣，称控制释放类似无担保。",
+    "required_inputs": [
+      "实际占有",
+      "信托保管条款",
+      "销售款",
+      "取消加速及保险",
+      "当期法律"
+    ],
+    "horizon": "商品交付至销售清偿",
+    "conditional_use": "同时报告失去实控风险和样表保留的财产权追索。",
+    "falsifier_or_counterexample": "原图仍有收回、加速、转让和10日条款，不能断言已无一切书面保障。",
+    "independent_analysis_and_boundary": "10日只保管样表条件；原unsecured不直接作为今日法律定性。",
+    "abstain_if": "10日只保管样表条件；原unsecured不直接作为今日法律定性。",
+    "visual_evidence": [
+      {
+        "file": "source-review/form-visual-audit.json",
+        "PDF_pages": [
+          161,
+          162
+        ],
+        "printed_pages": [
+          149,
+          150
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title_zh": "银行信用背后有人垫现金",
+    "support_phrases": [
+      "The only party who is out of any money",
+      "He is under an obligation to the London banker"
+    ],
+    "author_meaning": "出口商本地银行先付款，最终伦敦贴现者垫交易期间现金；银行承兑打开信用市场。",
+    "required_inputs": [
+      "各角色现金流",
+      "贴现人",
+      "承兑及覆盖义务",
+      "偿债能力"
+    ],
+    "horizon": "货物生产销售及票据到期",
+    "conditional_use": "画角色资金链，不把承兑未先付等同全结构不需钱。",
+    "falsifier_or_counterexample": "进口商迟售或不付款，银行到期义务仍须面对现金。",
+    "independent_analysis_and_boundary": "不把信用机制理解为无限杠杆或不受当前风控。",
+    "abstain_if": "不把信用机制理解为无限杠杆或不受当前风控。"
+  },
+  {
+    "chapter": 9,
+    "title_zh": "佣金年化不是完整融资成本",
+    "support_phrases": [
+      "actual rates being largely a matter of individual",
+      "in each year there are four ninety-day periods"
+    ],
+    "author_meaning": "全价与议价佣金不同，3/8百分比九十日简单年化1.5%，作者批评低费竞争并承认风险。",
+    "required_inputs": [
+      "实际佣金",
+      "贴现折价",
+      "商品价",
+      "换汇费",
+      "现金日期",
+      "覆盖"
+    ],
+    "horizon": "约定融资期",
+    "conditional_use": "将原佣金演算与独立总成本分析分开。",
+    "falsifier_or_counterexample": "未来英镑购价上升、商品销售延迟或贴现已隐含价格会增总成本。",
+    "independent_analysis_and_boundary": "完整尾句从PDF172补读：原称1至2%perannum，不保证今日成本或任一客户安全。",
+    "abstain_if": "完整尾句从PDF172补读：原称1至2%perannum，不保证今日成本或任一客户安全。",
+    "visual_evidence": [
+      {
+        "file": "source-review/p172.png",
+        "PDF_pages": [
+          172
+        ],
+        "printed_pages": [
+          160
+        ],
+        "scope": "PGmissingannualwordandfinalsentence"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1076 @@
+PDF PAGE 432 | PRINTED PAGE 417
+Figure 14.1 Regression analysis is used in financial decision-making. (credit: modification of “Stock exchange” by Jack Sem/flickr, CC
+BY 2.0)
+Chapter Outline
+14.1 Correlation Analysis
+14.2 Linear Regression Analysis
+14.3 Best-Fit Linear Model
+14.4 Regression Applications in Finance
+14.5 Predictions and Prediction Intervals
+14.6 Use of R Statistical Analysis Tool for Regression Analysis
+Why It Matters
+Correlation and regression analysis are used extensively in finance applications. Correlation analysis allows the
+determination of a statistical relationship between two numeric quantities. Regression analysis can be used to
+predict one quantity based on a second quantity, assuming there is a significant correlation between the two
+quantities. For example, in finance, we use regression analysis to calculate the beta coefficient of a stock,
+which represents the volatility of the stock versus overall market volatility, with volatility being a measure of
+risk.
+A business may want to establish a correlation between the amount the company spent on advertising versus
+its recorded sales. If a strong enough correlation is established, then the business manager can predict sales
+based on the amount spent on advertising for a given time period.
+Finance professionals often use correlation analysis to predict future trends and mitigate risk in a stock
+portfolio. For example, if two investments are strongly correlated, an investor might not want to have both
+investments in a certain portfolio since the two investments would tend to move in the same directions during
+up markets or down markets. To diversify a portfolio, an investor might seek investments that are not strongly
+correlated with one another.
+Regression analysis can be used to establish a mathematical equation that relates a dependent variable (such
+as sales) to an independent variable (such as advertising expenditure). In this discussion, the focus will be on
+Regression Analysis in Finance
+14
+14 • Why It Matters 417
+
+PDF PAGE 433 | PRINTED PAGE 418
+analyzing the relationship between one dependent variable and one independent variable, where the
+relationship can be modeled using a linear equation. This type of analysis is called linear regression.
+14.1 Correlation Analysis
+Learning Outcomes
+By the end of this section, you will be able to:
+• Calculate a correlation coefficient.
+• Interpret a correlation coefficient.
+• Test for the significance of a correlation coefficient.
+Calculate a Correlation Coefficient
+In correlation analysis, we study the relationship between bivariate data, which is data collected on two
+variables where the data values are paired with one another.
+Correlation is the measure of association between two numeric variables. For example, we may be interested
+to know if there is a correlation between bond prices and interest rates or between the age of a car and the
+value of the car. To investigate the correlation between two numeric quantities, the first step is to create a
+scatter plot that will graph the (x, y) ordered pairs. The independent, or explanatory, quantity is labeled as the
+x-variable, and the dependent, or response, quantity is labeled as the y-variable.
+For example, we may be interested to know if the price of Nike stock is correlated with the value of the S&P 500
+(Standard & Poor’s 500 stock market index). To investigate this, monthly data can be collected for Nike stock
+prices and value of the S&P 500 for a period of time, and a scatter plot can be created and examined. A scatter
+plot, or scatter diagram, is a graphical display intended to show the relationship between two variables. The
+setup of the scatter plot is that one variable is plotted on the horizontal axis and the other variable is plotted
+on the vertical axis. Each pair of data values is considered as an (x, y) point, and the various points are plotted
+on the diagram. A visual inspection of the plot is then made to detect any patterns or trends on the scatter
+diagram. Table 14.1 shows the relationship between the Nike stock price and its S&P value over a one-year
+time period.
+To assess linear correlation, the graphical trend of the data points is examined on the scatter plot to determine
+if a straight-line pattern exists. If a linear pattern exists, the correlation may indicate either a positive or a
+negative correlation. A positive correlation indicates that as the independent variable increases, the dependent
+variable tends to increase as well, or, as the independent variable decreases, the dependent variable tends to
+decrease (the two quantities move in the same direction). A negative correlation indicates that as the
+independent variable increases, the dependent variable decreases, or, as the independent variable decreases,
+the dependent variable increases (the two quantities move in opposite directions). If there is no relationship or
+association between the two quantities, where one quantity changing does not affect the other quantity, we
+conclude that there is no correlation between the two variables.
+Date S&P 500
+Nike
+Stock Price
+4/1/2020 2,912.43 87.18
+5/1/2020 3,044.31 98.58
+6/1/2020 3,100.29 98.05
+Table 14.1 Nike Stock Price ($) and
+Value of S&P 500 over a One-Year
+Time Period (source: Yahoo! Finance)
+418 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 434 | PRINTED PAGE 419
+Date S&P 500
+Nike
+Stock Price
+7/1/2020 3,271.12 97.61
+8/1/2020 3,500.31 111.89
+9/1/2020 3,363.00 125.54
+10/1/2020 3,269.96 120.08
+11/1/2020 3,621.63 134.70
+12/1/2020 3,756.07 141.47
+1/1/2021 3,714.24 133.59
+2/1/2021 3,811.15 134.78
+3/1/2021 3,943.34 140.45
+3/12/2021 3,943.34 140.45
+Table 14.1 Nike Stock Price ($) and
+Value of S&P 500 over a One-Year
+Time Period (source: Yahoo! Finance)
+From the scatter plot in the Nike stock versus S&P 500 example (see Figure 14.2), we note that the trend
+reflects a positive correlation in that as the value of the S&P 500 increases, the price of Nike stock tends to
+increase as well.
+Figure 14.2 Scatter Plot of Nike Stock Price ($) and Value of S&P 500 (data source: Yahoo! Finance)
+When inspecting a scatter plot, it may be difficult to assess a correlation based on a visual inspection of the
+graph alone. A more precise assessment of the correlation between the two quantities can be obtained by
+calculating the numeric correlation coefficient (referred to using the symbol r).
+The correlation coefficient, which was developed by statistician Karl Pearson in the early 1900s, is a measure
+of the strength and direction of the correlation between the independent variable x and the dependent
+variable y.
+The formula for r is shown below; however, technology, such as Excel or the statistical analysis program R, is
+typically used to calculate the correlation coefficient.
+14.1 • Correlation Analysis 419
+
+PDF PAGE 435 | PRINTED PAGE 420
+where n refers to the number of data pairs and the symbol indicates to sum the x-values.
+Table 14.2 provides a step-by-step procedure on how to calculate the correlation coefficient r.
+Step Representation in Symbols
+1. Calculate the sum of the x-values.
+2. Calculate the sum of the y-values.
+3. Multiply each x-value by the corresponding y-value and calculate the
+sum of these xy products.
+4. Square each x-value and then calculate the sum of these squared
+values.
+5. Square each y-value and then calculate the sum of these squared
+values.
+6. Determine the value of n, which is the number of data pairs. n
+7. Use these results to then substitute into the formula for the
+correlation coefficient.
+Table 14.2 Steps for Calculating the Correlation Coefficient
+Note that since r is calculated using sample data, r is considered a sample statistic used to measure the
+strength of the correlation for the two population variables. Sample data indicates data based on a subset of
+the entire population.
+Given the complexity of this calculation, Excel or other software is typically used to calculate the correlation
+coefficient.
+The Excel command to calculate the correlation coefficient uses the following format:
+=CORREL(A1:A10, B1:B10)
+where A1:A10 are the cells containing the x-values and B1:B10 are the cells containing the y-values.
+Download the spreadsheet file (https://openstax.org/r/excel_exhibits) containing key Chapter 14 Excel
+exhibits.
+Interpret a Correlation Coefficient
+Once the value of r is calculated, this measurement provides two indicators for the correlation:
+a. the strength of the correlation based on the value of r
+b. the direction of the correlation based on the sign of r
+The value of r gives us this information:
+• The value of r is always between and : .
+• The size of the correlation r indicates the strength of the linear relationship between the two variables.
+Values of r close to or to indicate a stronger linear relationship.
+• If , there is no linear relationship between the two variables (no linear correlation).
+• If , there is perfect positive correlation.
+• If there is perfect negative correlation. In both of these cases, all the original data points lie on a
+straight line.
+The sign of r gives us this information:
+420 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 436 | PRINTED PAGE 421
+• A positive value of r means that when x increases, y tends to increase, and when x decreases, y tends to
+decrease (positive correlation).
+• A negative value of r means that when x increases, y tends to decrease, and when x decreases, y tends to
+increase (negative correlation).
+LINK TO LEARNING
+Correlation in Finance Applications
+This video on correlation concepts (https://openstax.org/r/video_correlation) discusses them with a specific
+focus on finance applications.
+The Excel command used to find the value of the correlation coefficient for the Nike stock versus S&P 500
+example (refer back to Table 14.1) is
+=CORREL(B2:B14,C2:C14)
+In this example, the value of is calculated by Excel to be .
+Since this is a positive value close to 1, we conclude that the relationship between Nike stock and the value of
+the S&P 500 over this time period represents a strong, positive correlation.
+The correlation coefficient r can also be determined using the statistical capability on the financial calculator:
+• Step 1 is to enter the data in the calculator (using the [DATA]function that is located above the 77key).
+• Step 2 is to access the statistical results provided by the calculator (using the [STAT]function that is
+located above the 88key) and scroll to the correlation coefficient results.
+Follow the steps in Table 14.3 for calculating the correlation data for the data set of Nike stock price and value
+of the S&P 500 shown previously.
+Step Description Enter Display
+1 Enter [DATA]entry mode 2ND2ND[DATA] X01 0.00
+2 Clear any previous data 2ND2ND[CLR WORK] X01 0.00
+3 Enter first x-value of 2912.43 2912.43 ENTERENTER X01 = 2,912.43
+4 Move to next data entry ↓ Y01 = 1.00
+5 Enter first y-value of 87.18 87.18 ENTERENTER Y01 = 87.18
+6 Move to next data entry ↓ X02 0.00
+7 Enter second x-value of 3044.31 3044.31 ENTERENTER X02 = 3,044.31
+8 Move to next data entry ↓ Y02 = 1.00
+9 Enter second y-value of 98.58 98.58 ENTERENTER Y02 = 98.58
+10 Move to next data entry ↓ X03 0.00
+11 Continue to enter remaining data values
+12 Enter [STAT]mode 2ND2ND[STAT]
+Table 14.3 Calculator Steps for Finding the Relationship between Nike Stock Price and Value of S&P 5001
+1 The specific financial calculator in these examples is the Texas Instruments BA II Plus TM Professional model, but you can use
+other financial calculators for these types of calculations.
+14.1 • Correlation Analysis 421
+
+PDF PAGE 437 | PRINTED PAGE 422
+Step Description Enter Display
+13 Press [SET]until LIN appears 2ND2ND[SET] LIN
+14 Move to 1st statistical result ↓ 13.00
+15 Move to next statistical result ↓ 3,480.86
+16 Continue to scroll down until the value of r is displayed ↓ 0.93
+Table 14.3 Calculator Steps for Finding the Relationship between Nike Stock Price and Value of S&P 5001
+From the statistical results shown on the calculator display, the correlation coefficient r is 0.93, which indicates
+that the relationship between Nike stock and the value of the S&P 500 over this time period represents a
+strong, positive correlation.
+Note: A strong correlation does not suggest that x causes y or y causes x. We must remember that correlation
+does not imply causation.
+Test a Correlation Coefficient for Significance
+The correlation coefficient, r, tells us about the strength and direction of the linear relationship between x and
+y. The sample data are used to compute r, the correlation coefficient for the sample. If we had data for the
+entire population (that is, all measurements of interest), we could find the population correlation coefficient,
+which is labeled as the Greek letter ρ (pronounced “rho”). But because we have only sample data, we cannot
+calculate the population correlation coefficient. The sample correlation coefficient, r, is our estimate of the
+unknown population correlation coefficient.
+• ρ = population correlation coefficient (unknown)
+• r = sample correlation coefficient (known; calculated from sample data)
+An important step in the correlation analysis is to determine if the correlation is significant. By this, we are
+asking if the correlation is strong enough to allow meaningful predictions for y based on values of x. One
+method to test the significance of the correlation is to employ a hypothesis test. The hypothesis test lets us
+decide whether the value of the population correlation coefficient ρ is close to zero or significantly different
+from zero. We decide this based on the sample correlation coefficient r and the sample size n.
+If the test concludes that the correlation coefficient is significantly different from zero, we say that the
+correlation coefficient is significant.
+• Conclusion: There is sufficient evidence to conclude that there is a significant linear relationship between x
+and y variables because the correlation coefficient is significantly different from zero.
+• What the conclusion means: There is a significant linear relationship between the x and y variables. If the
+test concludes that the correlation coefficient is not significantly different from zero (it is close to zero), we
+say that the correlation coefficient is not significant.
+A hypothesis test can be performed to test if the correlation is significant. A hypothesis test is a statistical
+method that uses sample data to test a claim regarding the value of a population parameter. In this case, the
+hypothesis test will be used to test the claim that the population correlation coefficient ρ is equal to zero.
+Use these hypotheses when performing the hypothesis test:
+• Null hypothesis:
+• Alternate hypothesis:
+The hypotheses can be stated in words as follows:
+• Null hypothesis : The population correlation coefficient is not significantly different from zero. There is
+not a significant linear relationship (correlation) between x and y in the population.
+422 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 438 | PRINTED PAGE 423
+• Alternate hypothesis : The population correlation coefficient is significantly different from zero. There
+is a significant linear relationship (correlation) between x and y in the population.
+A quick shorthand way to test correlations is the relationship between the sample size and the correlation. If
+then this implies that the correlation between the two variables demonstrates that a linear
+relationship exists and is statistically significant at approximately the 0.05 level of significance. As the formula
+indicates, there is an inverse relationship between the sample size and the required correlation for significance
+of a linear relationship. With only 10 observations, the required correlation for significance is 0.6325; for 30
+observations, the required correlation for significance decreases to 0.3651; and at 100 observations, the
+required level is only 0.2000.
+NOTE:
+• If r is significant and the scatter plot shows a linear trend, the line can be used to predict the value of y for
+values of x that are within the domain of observed x-values.
+• If r is not significant OR if the scatter plot does not show a linear trend, the line should not be used for
+prediction.
+• If r is significant and the scatter plot shows a linear trend, the line may not be appropriate or reliable for
+prediction outside the domain of observed x-values in the data.
+THINK IT THROUGH
+Determining If a Correlation Is Significant
+Suppose that the chief financial officer (CFO) of a corporation is investigating the correlation between stock
+prices and unemployment rate over a period of 10 years and finds the correlation coefficient to be -0.68.
+There are 10 (x, y) data points in the data set. Should the CFO conclude that the correlation is significant for
+the relationship between stock prices and unemployment rate based on a level of significance of 0.05?
+Solution:
+When using a level of significance of 0.05, if then this implies that the correlation between the
+two variables demonstrates a linear relationship that is statistically significant at approximately the 0.05
+level of significance. In this example, we check if is greater than or equal to where .
+Since is approximately 0.632, this indicates that the absolute value of r of is greater than ,
+and thus the correlation is deemed as significant.
+Correlations may be helpful in visualizing the data, but they are not appropriately used to explain a
+relationship between two variables. Perhaps no single statistic is more misused than the correlation
+coefficient. Citing correlations between health conditions and everything from place of residence to eye color
+have the effect of implying a cause-and-effect relationship. This simply cannot be accomplished with a
+correlation coefficient. The correlation coefficient is, of course, innocent of this misinterpretation. It is the duty
+of analysts to use a statistic that is designed to test for cause-and-effect relationships and to report only those
+results, if they are intending to make such a claim. The problem is that passing this more rigorous test is
+difficult, therefore lazy and/or unscrupulous researchers fall back on correlations when they cannot make their
+case legitimately.
+14.1 • Correlation Analysis 423
+
+PDF PAGE 439 | PRINTED PAGE 424
+14.2 Linear Regression Analysis
+Learning Outcomes
+By the end of this section, you will be able to:
+• Analyze a regression using the method of least squares and residuals.
+• Test the assumptions for linear regression.
+Method of Least Squares and Residuals
+Once the correlation coefficient has been calculated and a determination has been made that the correlation
+is significant, typically a regression model is then developed. In this discussion we will focus on linear
+regression, where a straight line is used to model the relationship between the two variables. Once a straight-
+line model is developed, this model can then be used to predict the value of the dependent variable for a
+specific value of the independent variable.
+Recall from algebra that the equation of a straight line is given by
+where m is the slope of the line and b is the y-intercept of the line.
+The slope measures the steepness of the line, and the y-intercept is that point on the y-axis where the graph
+crosses, or intercepts, the y-axis.
+In linear regression analysis, the equation of the straight line is written in a slightly different way using the
+model
+In this format, b is the slope of the line, and a is the y-intercept. The notation is called y-hat and is used to
+indicate a predicted value of the dependent variable y for a certain value of the independent variable x.
+If a line extends uphill from left to right, the slope is a positive value, and if the line extends downhill from left
+to right, the slope is a negative value. Refer to Figure 14.3.
+Figure 14.3 Three Possible Graphs of (a) If , the line slopes upward to the right. (b) If , the line is horizontal.
+(c) If , the line slopes downward to the right.
+When generating the equation of a line in algebra using , two (x, y) points were required to
+generate the equation. However, in regression analysis, all (x, y) points in the data set will be utilized to
+develop the linear regression model.
+The first step in any regression analysis is to create the scatter plot. Then proceed to calculate the correlation
+coefficient r, and check this value for significance. If we think that the points show a linear relationship, we
+would like to draw a line on the scatter plot. This line can be calculated through a process called linear
+regression. However, we only calculate a regression line if one of the variables helps to explain or predict the
+other variable. If x is the independent variable and y the dependent variable, then we can use a regression line
+to predict y for a given value of x.
+As an example of a regression equation, assume that a correlation exists between the monthly amount spent
+424 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 440 | PRINTED PAGE 425
+on advertising and the monthly revenue for a Fortune 500 company. After collecting (x, y) data for a certain
+time period, the company determines the regression equation is of the form
+where x represents the monthly amount spent on advertising (in thousands of dollars) and represents the
+monthly revenues for the company (in thousands of dollars).
+A scatter plot of the (x, y) data is shown in Figure 14.4.
+Figure 14.4 Scatter Plot of Revenue versus Advertising for a Fortune 500 Company ($000s)
+The Fortune 500 company would like to predict the monthly revenue if its executives decide to spend $150,000
+in advertising next month. To determine the estimate of monthly revenue, let in the regression
+equation and calculate a corresponding value for :
+This predicted value of y indicates that the anticipated revenue would be $18,646,700, given the advertising
+spend of $150,000.
+Notice that from past data, there may have been a month where the company actually did spend $150,000 on
+advertising, and thus the company may have an actual result for the monthly revenue. This actual, or
+observed, amount can be compared to the prediction from the linear regression model to calculate a residual.
+A residual is the difference between an observed y-value and the predicted y-value obtained from the linear
+regression equation. As an example, assume that in a previous month, the actual monthly revenue for an
+advertising spend of $150,000 was $19,200,000, and thus . The residual for this data point can be
+calculated as follows:
+Notice that residuals can be positive, negative, or zero. If the observed y-value exactly matches the predicted
+y-value, then the residual will be zero. If the observed y-value is greater than the predicted y-value, then the
+residual will be a positive value. If the observed y-value is less than the predicted y-value, then the residual will
+be a negative value.
+When formulating the linear regression line of best fit to the points on the scatter plot, the mathematical
+14.2 • Linear Regression Analysis 425
+
+PDF PAGE 441 | PRINTED PAGE 426
+analysis generates a linear equation where the sum of the squared residuals is minimized. This analysis is
+referred to as the method of least squares. The result is that the analysis generates a linear equation that is
+the “best fit” to the points on the scatter plot, in the sense that the line minimizes the differences between the
+predicted values and observed values for y.
+THINK IT THROUGH
+Calculating a Residual
+Suppose that the chief financial officer of a corporation has created a linear model for the relationship
+between the company stock and interest rates. When interest rates are at 5%, the company stock has a
+value of $94. Using the linear model, when interest rates are at 5%, the model predicts the value of the
+company stock to be $99. Calculate the residual for this data point.
+Solution:
+A residual is the difference between an observed y-value and the predicted y-value obtained from the linear
+regression equation
+The goal in the regression analysis is to determine the coefficients a and b in the following regression
+equation:
+Once the (x, y) has been collected, the slope (b) and y-intercept (a) can be calculated using the following
+formulas:
+where n refers to the number of data pairs and indicates sum of the x-values.
+Notice that the formula for the y-intercept requires the use of the slope result (b), and thus the slope should
+be calculated first and the y-intercept should be calculated second.
+When making predictions for y, it is always important to plot a scatter diagram first. If the scatter plot indicates
+that there is a linear relationship between the variables, then it is reasonable to use a best-fit line to make
+predictions for y, given x within the domain of x-values in the sample data, but not necessarily for x-values
+outside that domain.
+Note: Computer spreadsheets, statistical software, and many calculators can quickly calculate the best-fit line
+and create the graphs. The calculations tend to be tedious if done by hand.
+Assumptions for Linear Regression
+Testing the significance of the correlation coefficient requires that certain assumptions about the data are
+satisfied. The premise of this test is that the data are a sample of observed points taken from a larger
+population. We have not examined the entire population because it is not possible or feasible to do so. We are
+examining the sample to draw a conclusion about whether the linear relationship that we see between x and y
+in the sample data provides strong enough evidence that we can conclude that there is a linear relationship
+426 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 442 | PRINTED PAGE 427
+between x and y in the population.
+The regression line equation that we calculate from the sample data gives the best-fit line for our particular
+sample. We want to use this best-fit line for the sample as an estimate of the best-fit line for the population
+(Figure 14.5). Examining the scatter plot and testing the significance of the correlation coefficient helps us
+determine if it is appropriate to do this.
+These are the assumptions underlying the test of significance:
+1. There is a linear relationship in the population that models the average value of y for varying values of x.
+In other words, the expected value of y for each particular value lies on a straight line in the population.
+(We do not know the equation for the line for the population. Our regression line from the sample is our
+best estimate of this line in the population.)
+2. The y-values for any particular x-value are normally distributed about the line. This implies that there are
+more y-values scattered closer to the line than are scattered farther away. Assumption (1) implies that
+these normal distributions are centered on the line: the means of these normal distributions of y-values lie
+on the line.
+3. The standard deviations of the population y-values about the line are equal for each value of x. In other
+words, each of these normal distributions of y-values has the same shape and spread about the line.
+4. The residual errors are mutually independent (no pattern).
+5. The data are produced from a well-designed, random sample or randomized experiment.
+Figure 14.5 Best-Fit Line The y-values for each x-value are normally distributed about the line with the same standard deviation. For
+each x-value, the mean of the y-values lies on the regression line. More y-values lie near the line than are scattered further away
+from the line.
+14.3 Best-Fit Linear Model
+Learning Outcomes
+By the end of this section, you will be able to:
+• Calculate the slope and y-intercept for a linear regression model using technology.
+• Interpret and apply the slope and y-intercepts.
+Calculate the Slope and y-Intercept for a Linear Regression Model Using Technology
+Once a correlation has been deemed as significant, a best-fit linear regression model is developed. The goal
+in the regression analysis is to determine the coefficients a and b in the following regression equation:
+The slope (b) and y-intercept (a) can be calculated using the following formulas:
+14.3 • Best-Fit Linear Model 427
+
+PDF PAGE 443 | PRINTED PAGE 428
+These formulas can be quite cumbersome, especially for a significant number of data pairs, and thus
+technology is often used (such as Excel, a calculator, R statistical software, etc.).
+Using Excel: To calculate the slope and y-intercept of the linear model, start by entering the (x, y) data in two
+columns in Excel. Then the Excel commands =SLOPE and =INTERCEPT can be used to calculate the slope and
+intercept, respectively.
+The following data set will be used as an example: the monthly amount spent on advertising and the monthly
+revenue for a Fortune 500 company for 12 months (data is shown in Table 14.4).
+Month
+Advertising
+Expenditure Revenue
+Jan 49 12,210
+Feb 145 17,590
+Mar 57 13,215
+Apr 153 19,200
+May 92 14,600
+Jun 83 14,100
+Jul 117 17,100
+Aug 142 18,400
+Sep 69 14,100
+Oct 106 15,500
+Nov 109 16,300
+Dec 121 17,020
+Table 14.4 Revenue versus
+Advertising for Fortune 500
+Company ($000s)
+To calculate the slope of the regression model, use the Excel command
+=SLOPE(y-data range, x-data range)
+It’s important to note that this Excel command expects that the y-data range is entered first and the x-data
+range is entered second. Since revenue depends on amount spent on advertising, revenue is considered the
+y-variable and amount spent on advertising is considered the x-variable. Notice the y-data is contained in cells
+C2 through C13 and the x-data is contained in cells B2 through B13. Thus the Excel command for slope would
+be entered as
+=SLOPE(C2:C13, B2:B13)
+In the same way, the Excel command to calculate the y-intercept of the regression model is
+=INTERCEPT(y-data range, x-data range)
+428 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 444 | PRINTED PAGE 429
+For the data set shown in the above table, the Excel command would be
+=INTERCEPT(C2:C13, B2:B13)
+The results are shown in Figure 14.6, where
+Figure 14.6 Revenue versus Advertising for Fortune 500 Company ($000s) Showing Slope and y-Intercept Calculation in Excel
+Based on this, the regression equation can be written as
+where x represents the amount spent on advertising (in thousands of dollars) and y represents the amount of
+revenue (in thousands of dollars).
+Using a Financial Calculator
+The financial calculator provides the slope and y-intercept for the linear regression model once the (x, y) data
+is inputted into the calculator.
+Follow the steps in Table 14.5 for calculating the slope and y-intercept for the data set of amounts spent on
+advertising and revenue shown previously.
+Step Description Enter Display
+1 Enter [DATA]entry mode 2ND2ND[DATA] X01 0.00
+2 Clear any previous data 2ND2ND[CLR WORK] X01 0.00
+3 Enter first x-value of 49 49 ENTERENTER X01 = 49.00
+4 Move to next data entry ↓ Y01 = 1.00
+Table 14.5 Calculator Steps for the Slope and y-Intercept
+14.3 • Best-Fit Linear Model 429
+
+PDF PAGE 445 | PRINTED PAGE 430
+Step Description Enter Display
+5 Enter first y-value of 12210 12210 ENTERENTER Y01 = 12,210.00
+6 Move to next data entry ↓ X02 0.00
+7 Enter second x-value of 145 145 ENTERENTER X02 = 145.00
+8 Move to next data entry ↓ Y02 = 1.00
+9 Enter second y-value of 17590 17590ENTERENTER Y02 = 17,590.00
+10 Move to next data entry ↓ X03 0.00
+11 Continue to enter remaining data values
+12 Enter [STAT]mode 2ND2ND[STAT]
+13 Press [SET]until LIN appears 2ND2ND[SET] LIN
+14 Move to 1st statistical result ↓ 12.00
+15 Move to next statistical result ↓ 103.58
+16 Continue to scroll down until the value of a is displayed ↓ 9,376.70
+17 Continue to scroll down until the value of b is displayed ↓ 61.80
+Table 14.5 Calculator Steps for the Slope and y-Intercept
+From the statistical results shown on the calculator display, the slope b is 61.8 and the y-intercept a is 9,367.7.
+Based on this, the regression equation can be written as
+Interpret and Apply the Slope and y-Intercept
+The slope of the line, b, describes how changes in the variables are related. It is important to interpret the
+slope of the line in the context of the situation represented by the data. You should be able to write a sentence
+interpreting the slope in plain English.
+Interpretation of the Slope
+The slope of the best-fit line tells us how the dependent variable (y) changes for every one unit increase in the
+independent (x) variable, on average.
+In the previous example, the linear regression model for the monthly amount spent on advertising and the
+monthly revenue for a Fortune 500 company for 12 months was generated as follows:
+Since the slope was determined to be 61.8, the company can interpret this to mean that for every $1,000
+dollars spent on advertising, on average, this will result in an increase in revenues of $61,800.
+The intercept of the regression equation is the corresponding y-value when.
+Interpretation of the Intercept
+The intercept of the best-fit line tells us the expected mean value of y in the case where the x-variable is equal
+to zero.
+However, in many scenarios it may not make sense to have the x-variable equal zero, and in these cases, the
+430 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 446 | PRINTED PAGE 431
+intercept does not have any meaning in the context of the problem. In other examples, the x-value of zero is
+outside the range of the x-data that was collected. In this case, we should not assign any interpretation to the
+y-intercept.
+In the previous example, the range of data collected for the x-variable was from $49 to $153 spent per month
+on advertising. Since this interval does not include an x-value of zero, we would not provide any interpretation
+for the intercept.
+14.4 Regression Applications in Finance
+Learning Outcomes
+By the end of this section, you will be able to:
+• Calculate the regression model for a single independent variable as applied to financial forecasting.
+• Extract measures of slope and intercept from regression analysis in financial applications.
+Regression Model for a Single Independent Variable
+Regression analysis is used extensively in finance-related applications. Many typical applications involve
+determining if there is a correlation between various stock market indices such as the S&P 500, the Dow Jones
+Industrial Average (DJIA), and the Russell 2000 index.
+As an example, suppose we would like to determine if there is a correlation between the Russell 2000 index
+and the DJIA. Does the value of the Russell 2000 index depend on the value of the DJIA? Is it possible to predict
+the value of the Russell 2000 index for a certain value of the DJIA? We can explore these questions using
+regression analysis.
+Table 14.6 shows a summary of monthly closing prices of the DJIA and the Russell 2000 for a 12-month time
+period. We consider the DJIA to be the independent variable and the Russell 2000 index to be the dependent
+variable.
+Monthly Close DJIA Russell 2000
+1-Apr-21 34,200.67 2,262.67
+1-Mar-21 32,981.55 2,220.52
+1-Feb-21 30,932.37 2,201.05
+1-Jan-21 29,982.62 2,073.64
+1-Dec-20 30,606.48 1,974.86
+1-Nov-20 29,638.64 1,819.82
+1-Oct-20 26,501.60 1,538.48
+1-Sep-20 27,781.70 1,507.69
+1-Aug-20 28,430.05 1,561.88
+1-Jul-20 26,428.32 1,480.43
+1-Jun-20 25,812.88 1,441.37
+1-May-20 25,383.11 1,394.04
+Table 14.6 Monthly Closing Prices of the DJIA
+and the Russell 2000 for a 12-Month Time
+Period (source: Yahoo! Finance)
+The first step is to create a scatter plot to determine if the data points appear to follow a linear pattern. The
+scatter plot is shown in Figure 14.7. The scatter plot clearly shows a linear pattern; the next step is to calculate
+14.4 • Regression Applications in Finance 431
+
+PDF PAGE 447 | PRINTED PAGE 432
+the correlation coefficient and determine if the correlation is significant.
+• Using the Excel command =CORREL, the correlation coefficient is calculated to be 0.947. This value of the
+correlation coefficient is significant using the test for significance referenced earlier in Correlation
+Analysis.
+• Using the Excel commands =SLOPE and =INTERCEPT, the value of the slope and y-intercept are calculated
+as 0.11 and , respectively, when rounded to two decimal places.
+The Excel output is shown below:
+=CORREL(C3:C14,B3:B14): 0.947
+=SLOPE(C3:C14,B3:B14): 0.113
+=INTERCEPT(C3:C14,B3:B14): -1,496.340
+Figure 14.7 Scatter Plot for Monthly Closing Prices of the DJIA versus the Russell 2000 for a 12-Month Time Period (data
+source: Yahoo! Finance)
+Based on these results, the corresponding linear regression model is
+Assume the DJIA has reached a value of 32,000. Predict the corresponding value of the Russell 2000 index. To
+determine this, substitute the value of the independent variable, (this is the given value of the
+DJIA), and calculate the corresponding value for the dependent variable, which is the predicted value for the
+Russell 2000 index:
+Thus the predicted value for the Russell 2000 index is approximately 2,024 when the DJIA reached a value of
+32,000.
+Measures of Slope and Intercept from Regression Analysis
+An important application of regression analysis is to determine the systematic risk for a particular stock, which
+is referred to as beta. A stock’s beta is a measure of the volatility of the stock compared to a benchmark such
+as the S&P 500 index. If a stock has more volatility compared to the benchmark, then the stock will have a beta
+greater than 1.0. If a stock has less volatility compared to the benchmark, then the stock will have a beta less
+432 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 448 | PRINTED PAGE 433
+than 1.0.
+Beta can be determined as the slope of the regression line when the stock returns are plotted versus the
+returns for the benchmark, such as the S&P 500. As an example, consider the calculation for beta of Nike stock
+based on monthly returns of Nike stock versus monthly returns for the S&P 500 over the time period from May
+2020 to March 2021. The monthly return data is shown in Table 14.7.
+Date S&P 500
+S&P
+Monthly
+Return (%)
+Nike
+Stock
+Price ($)
+Nike
+Monthly
+Return (%)
+4/1/2020 2,912.43 N/A 87.18 N/A
+5/1/2020 3,044.31 0.05 98.58 0.13
+6/1/2020 3,100.29 0.02 98.05 -0.01
+7/1/2020 3,271.12 0.06 97.61 0.00
+8/1/2020 3,500.31 0.07 111.89 0.15
+9/1/2020 3,363.00 -0.04 125.54 0.12
+10/1/2020 3,269.96 -0.03 120.08 -0.04
+11/1/2020 3,621.63 0.11 134.70 0.12
+12/1/2020 3,756.07 0.04 141.47 0.05
+1/1/2021 3,714.24 -0.01 133.59 -0.06
+2/1/2021 3,811.15 0.03 134.78 0.01
+3/1/2021 3,943.34 0.03 140.45 0.04
+3/12/2021 3,943.34 0.00 140.45 0.00
+Table 14.7 Monthly Returns of Nike Stock versus Monthly
+Returns for the S&P 500 (source: Yahoo! Finance)
+The scatter plot that graphs S&P monthly return versus Nike monthly return is shown in Figure 14.8.
+14.4 • Regression Applications in Finance 433
+
+PDF PAGE 449 | PRINTED PAGE 434
+Figure 14.8 Scatter Plot of Monthly Returns of Nike Stock versus Monthly Returns for the S&P 500 ($) (data source: Yahoo!
+Finance)
+The slope of the regression line is 0.83, obtained by using the =SLOPE command in Excel.
+=SLOPE (E4:E15,C4:C15)
+=0.830681658
+This indicates the value of beta for Nike stock is 0.83, which indicates that Nike stock had lower volatility versus
+the S&P 500 for the time period of interest.
+14.5 Predictions and Prediction Intervals
+Learning Outcomes
+By the end of this section, you will be able to:
+• Calculate predictions for the dependent variable using the regression model.
+• Generate prediction intervals based on a prediction for the dependent variable.
+Predicting the Dependent Variable Using the Regression Model
+A key aspect of generating the linear regression model is to use the model for predictions, provided the
+correlation is significant. To generate predictions or forecasts using the linear regression model, substitute the
+value of the independent variable (x) in the regression equation and solve the equation for the dependent
+variable (y).
+In a previous example, the linear regression equation was generated to relate the amount of monthly revenue
+for a Fortune 500 company to the amount of monthly advertising spend. From the previous example, it was
+determined that the regression equation can be written as
+where x represents the amount spent on advertising (in thousands of dollars) and y represents the amount of
+434 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 450 | PRINTED PAGE 435
+revenue (in thousands of dollars).
+Let’s assume the Fortune 500 company would like to predict the monthly revenue for a month where it plans
+to spend $80,000 for advertising. To determine the estimate of monthly revenue, let in the regression
+equation and calculate a corresponding value for ŷ:
+This predicted value of y indicates that the forecasted revenue would be $14,320,700, assuming an advertising
+spend of $80,000.
+• Excel can provide this forecasted value directly using the =FORECAST command.
+• To use this command, enter the value of the independent variable x, followed by the cell range for the
+y-data and the cell range for the x-data, as follows: =FORECAST(X_VALUE, Range of Y-DATA, Range
+of X-DATA)
+• Using this Excel command, the forecasted value for the revenue is $14,320.52 when the advertising spend
+is $80 (in thousands of dollars) (see Figure 14.9). (Note: The discrepancy in the more precise Excel result
+and the formula result is due to rounding in interim calculations.)
+Figure 14.9 Revenue versus Advertising for Fortune 500 Company ($000s) Showing FORECAST Command in Excel
+A word of caution when predicting values for y: it is generally recommended to only predict values for y using
+values of x that are in the original range of the data collection.
+As an example, assume we have developed a linear model to predict the height of male children based on
+their age. We have collected data for the age range from years old to years old, and we have
+confirmed that the scatter plot shows a linear trend and that the correlation is significant.
+It would be erroneous to use this model to predict the height of a 25-year-old male since is outside the
+range of the x-data, which was from 3 to 10 years old. The reason this is not recommended is that a linear
+pattern cannot be assumed to continue beyond the x-value of 10 years old unless some data collection has
+occurred at ages greater than 10 to confirm that the linear pattern is consistent for x-values beyond 10 years
+14.5 • Predictions and Prediction Intervals 435
+
+PDF PAGE 451 | PRINTED PAGE 436
+old.
+Generating Prediction Intervals
+One important value of an estimated regression equation is its ability to predict the effects on y of a change in
+one or more values of the independent variables. The value of this is obvious. Careful policy cannot be made
+without estimates of the effects that may result. Indeed, it is the desire for particular results that drive the
+formation of most policy. Regression models can be, and have been, invaluable aids in forming such policies.
+Remember that point estimates do not carry a particular level of probability, or level of confidence, because
+points have no “width” above which there is an area to measure. There are actually two different approaches
+to the issue of developing estimates of changes in the independent variable (or variables) on the dependent
+variable. The first approach wishes to measure the expected mean value of y from a specific change in the
+value of x.
+The second approach to estimate the effect of a specific value of x on y treats the event as a single experiment:
+you choose x and multiply it times the coefficient, and that provides a single estimate of y. Because this
+approach acts as if there were a single experiment, the variance that exists in the parameter estimate is larger
+than the variance associated with the expected value approach.
+The conclusion is that we have two different ways to predict the effect of values of the independent variable(s)
+on the dependent variable, and thus we have two different intervals. Both are correct answers to the question
+being asked, but there are two different questions. To avoid confusion, the first case where we are asking for
+the expected value of the mean of the estimated y is called a confidence interval. The second case, where we
+are asking for the estimate of the impact on the dependent variable y of a single experiment using a value of x,
+is called the prediction interval.
+The prediction interval for an individual y for can be calculated as
+where se is the standard deviation of the error term, sx is the standard deviation of the x-variable, and is
+the critical value of the t-distribution at the confidence level.
+Tabulated values of the t-distribution are available in online references such as the Engineering Statistics
+Handbook (https://openstax.org/r/engineering_handbook). The mathematical computations for prediction
+intervals are complex, and usually the calculations are performed using software. The formula above can be
+implemented in Excel to create a 95% prediction interval for the forecast for monthly revenue when
+is spent on monthly advertising. Figure 14.10 shows the detailed calculations in Excel to arrive at a
+95% prediction interval of (13,270.95, 15,370.09) for the monthly revenue. (The commands refer to the Excel
+data table shown in Figure 14.9.)
+436 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 452 | PRINTED PAGE 437
+Figure 14.10 Calculations for 95% Prediction Interval for Monthly Revenue
+This prediction interval can be interpreted as follows: there is 95% confidence that when the amount spent on
+monthly advertising is $80,000, the corresponding monthly revenue will be between $13,270.95 and
+$15,370.09.
+Various computer regression software packages provide programs within the regression functions to provide
+answers to inquiries of estimated predicted values of y given various values chosen for the x-variable(s). For
+example, the statistical program R provides these prediction intervals directly. It is important to know just
+which interval is being tested in the computer package because the difference in the size of the standard
+deviations will change the size of the interval estimated. This is shown in Figure 14.11.
+Figure 14.11 Prediction and Confidence Intervals for Regression Equation at 95% Confidence Level
+Figure 14.11 shows visually the difference the standard deviation makes in the size of the estimated intervals.
+The confidence interval, measuring the expected value of the dependent variable, is smaller than the
+prediction interval for the same level of confidence. The expected value method assumes that the experiment
+is conducted multiple times rather than just once, as in the other method. The logic here is similar, although
+not identical, to that discussed when developing the relationship between the sample size and the confidence
+interval using the central limit theorem. There, as the number of experiments increased, the distribution
+14.5 • Predictions and Prediction Intervals 437
+
+PDF PAGE 453 | PRINTED PAGE 438
+narrowed, and the confidence interval became tighter around the expected value of the mean.
+It is also important to note that the intervals around a point estimate are highly dependent upon the range of
+data used to estimate the equation, regardless of which approach is being used for prediction. Remember that
+all regression equations go through the point of means—that is, the mean value of y and the mean values of
+all independent variables in the equation. As the value of x gets further and further from the (x, y) point
+corresponding to the mean value of x and the mean value of y, the width of the estimated interval around the
+point estimate increases. Choosing values of x beyond the range of the data used to estimate the equation
+poses an even greater danger of creating estimates with little use, very large intervals, and risk of error. Figure
+14.12 shows this relationship.
+Figure 14.12 Confidence Interval for an Individual Value of x, , at 95% Confidence Level
+Figure 14.12 demonstrates the concern for the quality of the estimated interval, whether it is a prediction
+interval or a confidence interval. As the value chosen to predict y, in the graph, is further from the central
+weight of the data, , we see the interval expand in width even while holding constant the level of confidence.
+This shows that the precision of any estimate will diminish as one tries to predict beyond the largest weight of
+the data and most certainly will degrade rapidly for predictions beyond the range of the data. Unfortunately,
+this is just where most predictions are desired. They can be made, but the width of the confidence interval may
+be so large as to render the prediction useless.
+14.6 Use of R Statistical Analysis Tool for Regression Analysis
+Learning Outcomes
+By the end of this section, you will be able to:
+• Generate correlation coefficients using the R statistical tool.
+• Generate linear regression models using the R statistical tool.
+Generate Correlation Coefficients Using the R Statistical Tool
+R is an open-source statistical analysis tool that is widely used in the finance industry. R is available as a free
+program and provides an integrated suite of functions for data analysis, graphing, and statistical
+programming. R provides many functions and capabilities for regression analysis.
+Recall that most calculations in R are handled via functions.
+The typical method for using functions in statistical applications is to first create a vector of data values. There
+are several ways to create vectors in R. For example, the c function is often used to combine values into a
+vector. For example, this R command will generate a vector called salaries, containing the data values 40,000,
+50,000, 75,000, and 92,000:
+438 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 454 | PRINTED PAGE 439
+> salaries <- c(40000, 50000, 75000, 92000)
+To calculate the correlation coefficient r, we use the R command called cor.
+As an example, consider the data set in Table 14.8, which tracks the return on the S&P 500 versus return on
+Coca-Cola stock for a seven-month time period.
+Month
+S&P 500
+Monthly
+Return (%)
+Coca-Cola
+Monthly
+Return (%)
+Jan 8 6
+Feb 1 0
+Mar 0 -2
+Apr 2 1
+May -3 -1
+Jun 7 8
+Jul 4 2
+Table 14.8 Monthly Returns of Coca-
+Cola Stock versus Monthly Returns
+for the S&P 500
+Create two vectors in R, one vector for the S&P 500 returns and a second vector for Coca-Cola returns:
+> SP500 <- c(8,1,0,2,-3,7,4)
+> CocaCola <- c(6,0,-2,1,-1,8,2)
+The R command called cor returns the correlation coefficient for the x-data vector and y-data vector:
+> cor(SP500, CocaCola)
+Generate Linear Regression Models Using the R Statistical Tool
+To create a linear model in R, assuming the correlation is significant, the command lm (for linear model) will
+provide the slope and y-intercept for the linear regression equation.
+The format of the R command is
+lm(dependent_variable_vector ~ independent_variable_vector)
+Notice the use of the tilde symbol as the separator between the dependent variable vector and the
+independent variable vector.
+We use the returns on Coca-Cola stock as the dependent variable and the returns on the S&P 500 as the
+independent variable, and thus the R command would be
+14.6 • Use of R Statistical Analysis Tool for Regression Analysis 439
+
+PDF PAGE 455 | PRINTED PAGE 440
+> lm(CocaCola ~ SP500)
+Call:
+lm(formula = CocaCola ~ SP500)
+Coefficients:
+(Intercept) SP500
+-0.3453 0.8641
+The R output provides the value of the y-intercept as and the value of the slope as 0.8641. Based on
+this, the linear model would be
+where x represents the value of S&P 500 return and y represents the value of Coca-Cola stock return.
+The results can also be saved as a formula and called “model” using the following R command. To obtain more
+detailed results for the linear regression, the summary command can be used, as follows:
+> model <- lm(CocaCola ~ SP500)
+> summary(model)
+Call:
+lm(formula = CocaCola ~ SP500)
+Residuals:
+1 2 3 4 5 6 7
+-0.5672 -0.5188 -1.6547 -0.3828 1.9375 2.2969 -1.1109
+Coefficients:
+Estimate Std. Error t value Pr(>|t|)
+(Intercept) -0.3453 0.7836 -0.441 0.67783
+SP500 0.8641 0.1734 4.984 0.00416 **
+---
+Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Residual standard error: 1.658 on 5 degrees of freedom
+440 14 • Regression Analysis in Finance
+Access for free at openstax.org
+
+PDF PAGE 456 | PRINTED PAGE 441
+Multiple R-squared: 0.8325, Adjusted R-squared: 0.7989
+F-statistic: 24.84 on 1 and 5 DF, p-value: 0.004161
+In this output, the y-intercept and slope is given, as well as the residuals for each x-value. The output includes
+additional statistical details regarding the regression analysis.
+Predicted values and prediction intervals can also be generated within R.
+First, we can create a structure in R called a data frame to hold the values of the independent variable for
+which we want to generate a prediction. For example, we would like to generate the predicted return for Coca-
+Cola stock, given that the return for the S&P 500 is 6.
+We use the R command called predict.
+To generate a prediction for the linear regression equation called model, using the data frame where the value
+of the S&P 500 is 6, the R commands will be
+> a <- data.frame(SP500=6)
+> predict(model, a)
+1
+4.839062
+The output from the predict command indicates that the predicted return for Coca-Cola stock will be 4.8%
+when the return for the S&P 500 is 6%.
+We can extend this analysis to generate a 95% prediction interval for this result by using the following R
+command, which adds an option to the predict command to generate a prediction interval:
+> predict(model,a, interval="predict")
+fit lwr upr
+1 4.839062 0.05417466 9.62395
+Thus the 95% prediction interval for Coca-Cola return is (0.05%, 9.62%) when the return for the S&P 500 is 6%.
+14.6 • Use of R Statistical Analysis Tool for Regression Analysis 441
+
+PDF PAGE 457 | PRINTED PAGE 442
+Summary
+14.1 Correlation Analysis
+Correlation is the measure of association between two numeric variables. A correlation coefficient called r is
+used to assess the strength and direction of the correlation. The value of r is always between and . The
+size of the correlation r indicates the strength of the linear relationship between the two variables. Values of r
+close to or to indicate a stronger linear relationship. A positive value of r means that when x increases, y
+tends to increase and when x decreases, y tends to decrease (positive correlation). A negative value of r means
+that when x increases, y tends to decrease and when x decreases, y tends to increase (negative correlation).
+14.2 Linear Regression Analysis
+Linear regression analysis uses a straight-line fit to model the relationship between the two variables. Once a
+straight-line model is developed, this model can then be used to predict the value of the dependent variable
+for a specific value of the independent variable. Two parameters are calculated for the linear model, the slope
+of the best-fit line and the y-intercept of the best-fit line. The method of least squares is used to generate
+these parameters; this method is based on minimizing the squared differences between the predicted values
+and observed values for y.
+14.3 Best-Fit Linear Model
+Once a correlation has been deemed significant, a linear regression model is developed. The goal in the
+regression analysis is to determine the coefficients a and b in the following regression equation: .
+Typically some technology, such as Excel, R statistical tool, or a calculator, is used to generate the coefficients a
+and b since manual calculations are cumbersome.
+14.4 Regression Applications in Finance
+Regression analysis is used extensively in finance-related applications. Many typical applications involve
+determining if there is a correlation between various stock market indices such as the S&P 500, the DJIA, and
+the Russell 2000 index. The procedure is to first generate a scatter plot to determine if a visual trend is
+observed, then calculate a correlation coefficient and check for significance. If the correlation coefficient is
+significant, a linear model can then be generated and used for predictions.
+14.5 Predictions and Prediction Intervals
+A key aspect of generating the linear regression model is to then use the model for predictions, provided that
+the correlation is significant. To generate predictions or forecasts using the linear regression model, substitute
+the value of the independent variable (x) in the regression equation and solve the equation for the dependent
+variable (y). When making predictions using the linear model, it is generally recommended to only predict
+values for y using values of x that are in the original range of the data collection.
+14.6 Use of R Statistical Analysis Tool for Regression Analysis
+R is an open-source statistical analysis tool that is widely used in the finance industry and can be found online
+(https://openstax.org/r/finance_industry). R provides an integrated suite of functions for data analysis,
+graphing, and correlation and regression analysis. R is increasingly being used as a data analysis and statistical
+tool because it is an open-source language and additional features are constantly being added by the user
+community. The tool can be used on many different computing platforms.
+Key Terms
+best-fit linear regression model an equation of the form that provides the best-fit straight line
+to the (x, y) data points
+beta the measure of the volatility of a stock as compared to a benchmark such as the S&P 500 index
+442 14 • Summary
+Access for free at openstax.org
+
+PDF PAGE 458 | PRINTED PAGE 443
+correlation the measure of association between two numeric variables
+correlation coefficient a measure of the strength and direction of the linear relationship between two
+variables
+linear correlation a measure of the association between two variables that exhibit an approximate straight-
+line fit when plotted on a scatter plot
+method of least squares a mathematical method to generate a linear equation that is the “best fit” to the
+points on the scatter plot in the sense that the line minimizes the differences between the predicted values
+and observed values for y
+prediction a forecast for the dependent variable based on a specific value of the independent variable
+generated using the linear model
+residual the difference between an observed y-value and the predicted y-value obtained from the linear
+regression equation
+scatter plot (scatter diagram) graphical display that shows values of the independent variable plotted on
+the x-axis and values of the dependent variable plotted on the y-axis
+Multiple Choice
+1. Two correlation coefficients are compared: Correlation Coefficient A is 0.83. Correlation Coefficient B is
+. Which correlation coefficient represents the stronger linear relationship?
+a. Correlation Coefficient A
+b. Correlation Coefficient B
+c. equal strength
+d. not enough information to determine
+2. A data set containing 10 pairs of (x, y) data points is analyzed, and the correlation coefficient is calculated
+to be 0.58. Does this value of indicate a significant or nonsignificant correlation?
+a. significant
+b. nonsignificant
+c. neither significant nor nonsignificant
+d. not enough information to determine
+3. A linear regression model is developed, and for , the corresponding predicted y-value is 22.7. The
+actual observed value for is . Is the residual for this data point positive, negative, or zero?
+a. positive
+b. negative
+c. zero
+d. not enough information to determine
+4. A linear model is developed for the relationship between salary of finance professionals and years of
+experience. The data was collected based on years of experience ranging from 1 to 15. Assuming the
+correlation is significant, should the linear model be used to predict the salary for a person with 25 years
+of experience?
+a. It is acceptable to predict the salary for a person with 25 years of experience.
+b. A linear model cannot be created for these two variables.
+c. It is not recommended to predict the salary for a person with 25 years of experience.
+d. There is not enough information to determine the answer.
+5. Which of the following is the best interpretation for the slope of the linear regression model?
+a. The slope is the expected mean value of y when the x-variable is equal to zero.
+b. The slope indicates the change in y for every unit increase in x.
+14 • Multiple Choice 443
+
+PDF PAGE 459 | PRINTED PAGE 444
+c. The slope indicates the strength of the linear relationship between x and y.
+d. The slope indicates the direction of the linear relationship between x and y.
+6. A linear model is developed for the relationship between the annual salary of finance professionals and
+years of experience, and the following is the linear model . Which is the correct
+interpretation of this linear model?
+a.
+b.
+c.
+d.
+7. Which of the following is the correct sequence of steps needed to create a linear regression model?
+a. create scatter plot, calculate correlation coefficient, check for significance, create linear model
+b. create linear model, calculate correlation coefficient, check for significance, create scatter plot
+c. check for significance, create linear model, calculate correlation coefficient, create scatter plot
+d. create scatter plot, check for significance, create linear model, calculate correlation coefficient
+8. A linear model is developed for the relationship between the annual salary of finance professionals and
+years of experience, and the linear model is: The correlation is determined to be
+significant. Predict the salary for a finance professional with 7 years of experience.
+a. $55,010
+b. $60,000
+c. $62,000
+d. $125,000
+9. As predictions are made for x-values that are further and further away from the mean of x, which is true
+about the prediction intervals for these x-values?
+a. The prediction intervals will become smaller.
+b. The prediction intervals will become larger.
+c. The prediction intervals will remain the same.
+d. There is not enough information to determine the answer.
+10. Which of the following is the R command to calculate the correlation coefficient r?
+a. correl
+b. cor
+c. slope
+d. lm
+11. Which of the following is the R command to calculate the slope and y-intercept for a linear regression
+model?
+a. cor
+b. slope
+c. lm
+d. intercept
+Review Questions
+1. A correlation coefficient is calculated as . Provide an interpretation for this correlation coefficient.
+2. Explain what a residual is and how this relates to the best-fit regression model.
+444 14 • Review Questions
+Access for free at openstax.org
+
+PDF PAGE 460 | PRINTED PAGE 445
+3. Explain how to interpret the slope of the best-fit line.
+4. Explain how to generate a prediction using a linear regression model.
+5. Will the sign of the correlation coefficient always be the same as the sign of the slope of the best-fit linear
+regression model?
+Problems
+1. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Create a scatter plot of the data set,
+comment on the correlation between these two variables, and comment on the correlation for this data
+(all dollar amounts are in thousands).
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+229 77
+284 94
+307 93
+Table 14.9
+2. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Calculate the correlation coefficient for
+this data (all dollar amounts are in thousands).
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+229 77
+284 94
+307 93
+Table 14.10
+3. A chief financial officer calculates the correlation coefficient for bond prices versus interest rate as -0.71.
+The data set contained nine (x, y) data points. Determine if the correlation is significant or not significant
+at the 0.05 level of significance.
+4. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Determine the best-fit linear regression
+equation for this data set (all dollar amounts are in thousands).
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+Table 14.11
+14 • Problems 445
+
+PDF PAGE 461 | PRINTED PAGE 446
+229 77
+284 94
+307 93
+Table 14.11
+5. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Assume the correlation is significant.
+Predict the cash flow for company revenues of $250,000 (all dollar amounts are in thousands).
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+229 77
+284 94
+307 93
+Table 14.12
+6. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Assume the correlation is significant.
+Predict the cash flow for company revenues of $750,000 (all dollar amounts are in thousands).
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+229 77
+284 94
+307 93
+Table 14.13
+7. A Fortune 500 company is tracking revenues versus cash flow for recent years, and the data is shown in
+the table below. Consider cash flow to be the dependent variable. Calculate the residual for the revenue
+value of $284,000 (all dollar amounts are in thousands):
+Revenues ($000s) Cash Flow ($000s)
+237 82
+241 86
+229 77
+284 94
+307 93
+Table 14.14
+446 14 • Problems
+Access for free at openstax.org
+
+PDF PAGE 462 | PRINTED PAGE 447
+Video Activity
+Simple Linear Regression
+Click to view content (https://openstax.org/r/linear_regression)
+1. Based on the scatter plot shown, will the correlation coefficient be a positive value or negative value?
+Would you estimate that the correlation is significant for the relationship between radio ads and revenue?
+2. For the linear regression model for ads versus revenue, the slope is shown as 78.075. How would this slope
+be interpreted (that is, provide a verbal description for the meaning of the slope of 78.075)?
+How to Calculate Correlation for Stocks, Bonds, and Funds
+Click to view content (https://openstax.org/r/bonds_and_funds)
+3. Based on the presentation shown in the video, is the FTSE 100 index correlated with the value of sterling?
+Or are the two measures uncorrelated? What data leads to your conclusion?
+4. Based on the presentation in the video, is there a correlation between stock funds and bond funds? Why is
+this information important to an investor trying to design a portfolio?
+14 • Video Activity 447
+
+PDF PAGE 463 | PRINTED PAGE 448
+448 14 • Video Activity
+Access for free at openstax.org

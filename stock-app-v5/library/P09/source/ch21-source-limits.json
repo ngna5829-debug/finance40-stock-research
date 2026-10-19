@@ -1,0 +1,22 @@
+{
+  "book_id": "P09",
+  "chapter_ordinal": 21,
+  "original_scan_obtained": false,
+  "original_source_unchanged": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "type": "unresolved_note_bill_yield_precision",
+      "source_lines_inclusive": [
+        7378,
+        7386
+      ],
+      "five_percent_stock_simple_coupon_yield_pct": 5.263157894736842,
+      "exchequer_bill_price_pounds": 100.25,
+      "exchequer_bill_annual_interest_pounds": 4.5625,
+      "recomputed_bill_simple_annual_yield_pct": 4.551122194513716,
+      "author_phrase": "but little more than 4-1/4",
+      "resolution": "按源金额复算约4.551%与源粗描述保留；无原扫描，不指定原刻或转录错误；非实测市场收益、非完整到期收益率"
+    }
+  ]
+}

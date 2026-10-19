@@ -1,0 +1,37 @@
+{
+  "book_id": "P32",
+  "chapter": 8,
+  "source_numbers_unchanged": true,
+  "membership_mutual_help_author_example": {
+    "members": 1100,
+    "each_USD": 10,
+    "collected_USD": 11000,
+    "heir_payment_USD": 10000,
+    "reserve_USD": 1000,
+    "individual_annual_cap_USD": 150,
+    "above15deaths_covered_byreserve_no_completefundmodel": true
+  },
+  "execution_error_example": {
+    "shares": 500,
+    "fee_USD_per100shares": 2,
+    "fee_USD": 10,
+    "loss_USD": 10000,
+    "loss_vs_fee_multiple": 1000,
+    "not_profitprobability": true
+  },
+  "commissions_historical": {
+    "customerhouse_USD_per100shares": 12.5,
+    "author_also_says_1eighth_pct": true,
+    "no_priceorpar_proof_to_apply_universaltrademarketpct": true,
+    "specialist_USD_per100shares": 2,
+    "deliveryextra_USD": 1.13,
+    "sum_USD": 3.13
+  },
+  "borrow_rates": {
+    "actual_1907_one_day_pct": 125,
+    "then_unavailable_at_anyprice": true,
+    "willing_200or300_pct_notexecuted": true,
+    "not_silently_merge_with_ch04_100or110_rates_diffscope": true
+  },
+  "modern_expert_actions": 0
+}

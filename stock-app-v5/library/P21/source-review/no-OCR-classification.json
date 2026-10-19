@@ -1,0 +1,36 @@
+{
+  "book_id": "P21",
+  "low_OCR_threshold": "fewerthan50nonblankchars doesnotproveblank",
+  "low_OCR_pages": [
+    1,
+    28,
+    29,
+    475,
+    478
+  ],
+  "actual_montage_viewed": true,
+  "classification": {
+    "1": "publisherornament, noverbaloriginalcontent",
+    "28": "half-titleTHE DISTRIBUTION OF WEALTH; actualfulltitletextvisuallyread, OCRmissed",
+    "29": "blank",
+    "475": "blankafterindex",
+    "478": "blankafteradvertisement"
+  },
+  "original_content_pages_without_useful_OCR": [
+    28
+  ],
+  "all_noOCR_original_content_classified_and_read": true,
+  "pending_visual_original_content": [],
+  "selected_original_images_actually_read": [
+    1,
+    2,
+    3,
+    16,
+    28,
+    29,
+    475,
+    478
+  ],
+  "TOC_ch08_start_original95_not_OCR96": true,
+  "all_scan_glyphs_verified": false
+}

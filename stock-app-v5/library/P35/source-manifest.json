@@ -1,0 +1,52 @@
+{
+  "book_id": "P35",
+  "title": "The War and Our Financial Fabric",
+  "author": "Walter William Wall",
+  "year": 1915,
+  "publisher": "Chapman & Hall, Ltd., London",
+  "edition": "Selected1915ChapmanHalloriginal; title/preface andend visuallymatched, not samebookmulti-editioncounts",
+  "catalogue_URL": "https://www.gutenberg.org/ebooks/75730",
+  "verified_local_date": "2026-10-13",
+  "rights": "OfficialPGcatalogue PublicdomainUSA,fulllicensepreserved; no jurisdictionuniversalclaim",
+  "PDF_pages": 252,
+  "IA_imagecount": 256,
+  "original_PDF_MD5": "89914fe114f80831c96bb426aee55b1d",
+  "matches_IA_manifest_MD5": true,
+  "reading_status": "qualified_whole_original_digital_semantic_read_independent_QA_source_limits",
+  "original_every_scan_glyph_verified": false,
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "url": "https://www.gutenberg.org/cache/epub/75730/pg75730.txt",
+      "sha256": "565cd66e9648f88bf99f05dfff4c08e130e4a040199c5bb04b207da5b4c35191",
+      "bytes": 339882,
+      "scope": "completeUTF8 rawPG text with all23chapters/twoappendices/transcriber/fulllicense"
+    },
+    {
+      "file": "source/original.html",
+      "url": "https://www.gutenberg.org/cache/epub/75730/pg75730-images.html",
+      "sha256": "b5a6442a7939e759e63e562b4fbf511a9596296fea67b57c72b9239f87ec34e0",
+      "bytes": 384788,
+      "scope": "completePGHTML printedpageanchors, preserved"
+    },
+    {
+      "file": "source/original-1915.pdf",
+      "url": "https://archive.org/download/warourfinancialf00wallrich/warourfinancialf00wallrich.pdf",
+      "sha256": "902928b1d200c612da6918c9ef512b8411805617106ed93ee9344f406c3dc8b2",
+      "bytes": 11976030,
+      "scope": "complete252physicalpagepublicIAscan exactmanifestMD5; selectedvisualcollation"
+    }
+  ],
+  "excluded_preliminary_candidate": "LipmanCreatingCapital singlelecture nevercountedcomplete; original source preservedcandidate-review/lipman-excluded",
+  "unresolved_gaps": [
+    "Alloriginalscanlines/glyphsnotvisuallycollated; originalauthorsemantics usescompletePGtranscript plusselectedphysicalchecks",
+    "PGtranscriberdoesnotlistallminoramendments; possibilityofunknowntranscriptionerrors notexcluded",
+    "XIch12numericinconsistencies andIIIpricewording retained, historical accounts/policyfulltexts notallindependentlyfetched",
+    "OriginalSpeeches/newspapers/WithersColeTrittonquotedworks notwhole-read here; narrowtranscriptionvoices preserved",
+    "Faintnon-authorlibrarypencil/stamps/marginalnotesnotfullydeciphered; no omittedauthorlowOCRpagefound",
+    "Futurewarresults/nationalwealth/flowstatistics/causalclaims notindependentlyproven; nationalistictraits notoperational inputs"
+  ],
+  "scan_visual_audit": "source-review/scan-checkpoint.json",
+  "numeric_review": "numeric-review.json",
+  "independent_semantic_QA_status": "passed_with_source_limits"
+}

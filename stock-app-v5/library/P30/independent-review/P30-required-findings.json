@@ -1,0 +1,137 @@
+{
+  "book_id": "P30",
+  "reviewer": "value_team independent full-source reader",
+  "status": "all_source_dossiers_rules_reviewed_corrections_required_not_accepted",
+  "original_expert_snapshot_sha256": "6da547ca03ba32155af8fd940aa6aa45ff604322dbbafbb2bf0ef99c36c8dbbb",
+  "original_audit_snapshot_sha256": "ea43a167507f62c32b8d43a15f3493d8a4a03cbc658edb9c62772f16ff0b5ac4",
+  "required_findings": [
+    {
+      "type": "source_locator_precision",
+      "candidate": "原chapter_sources保留为章范围，同时新增全部34规则手选完整原页文本上下文的JSON array/精确字符/原段SHA，联完整原章全文作为连续语境；单页始末可能跨段，不称每页是独立完整自然段。",
+      "status": "candidate_complete_all34_rules"
+    },
+    {
+      "rule_id": "P30-R12",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者把贸易利润、发行和投机兴旺联系，列伦敦会员1867至1873增445，区分真实商业与差额投机。",
+      "candidate_new": "作者把贸易利润、发行和投机兴旺联系，列伦敦会员1867年1261至1873年1706及逐年变化，区分真实商业与差额投机。",
+      "reason": "445是复算，原表无该总差文字；放到独立分析即可，章稿已正确标复算"
+    },
+    {
+      "rule_id": "P30-R12",
+      "field": [
+        "modern_boundary_zh",
+        "independent_analysis_zh"
+      ],
+      "old": "会员数不是成交、独立人头或真实机构流；一比二十属于作者近似观察。",
+      "candidate_new": "两端会员数相减为445，是本次独立计算；会员数量不等证券成交、独立公众投资账户或机构净流；一比二十属于作者近似观察。",
+      "reason": "会员表可为会员人数，不应泛称不是人头；其不能代表公众投资者或资金"
+    },
+    {
+      "rule_id": "P30-R13",
+      "field": "chapter_sources",
+      "candidate": "保留原纸69–76为来源范围，另补纸81–82/CornellPDF93–94消息已先入价的完整原页",
+      "reason": "多主张需各自实质上下文，不只整章SHA"
+    },
+    {
+      "rule_id": "P30-R14",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者认为长线电报和财富中心可防资金饥荒，私密电报与团体发行会先入价，公众买追或迟切损。",
+      "candidate_new": "作者认为长线电报和财富中心应使资金饥荒如粮食饥荒难发生；私密电报所含信息可早于公众读报反映于价格；团体配合交易商发行并看公众账本，公众可能追买或迟切损。",
+      "reason": "先入价是消息段，团体发行段另述信息及头寸优势，不能并成所有发行先入价"
+    },
+    {
+      "rule_id": "P30-R14",
+      "field": [
+        "modern_boundary_zh",
+        "independent_analysis_zh"
+      ],
+      "old": "“资金饥荒应不发生”是未证强言；金准备约三分之一旧议论不是现代监管线。",
+      "candidate_new": "“资金饥荒应不发生”是未证强言；银行准备约负债三分之一的旧议论不是现代监管线。",
+      "reason": "原文Bank reserve/one-third of liabilities，不偷换为金准备或漏分母"
+    },
+    {
+      "rule_id": "P30-R15",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者建议等极端与暂时因素消散，认为快涨后回落常更快，须特殊信息和工作而非感觉。",
+      "candidate_new": "作者建议等待极端并较可靠掌握暂时影响的持续时间，认为快涨后回落常更快，须特殊信息和工作而非感觉。",
+      "reason": "原85页provided ...good grasp of duration不等须等影响消失；章稿原条件正确"
+    },
+    {
+      "rule_id": "P30-R17",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者写窄价差、经纪推荐自己或别人的库存以及鼓励多品种对佣金有利；保持自有主见。",
+      "candidate_new": "作者写窄价差，经纪可能推荐自己要脱手的证券，或为已有客户持股助价；经纪更愿客户责任分散于市场，作者视为自身利益并劝保持自有主见。",
+      "reason": "纸94没有给多品种更高佣金的因果，既有客户持股不应笼统称别人的库存"
+    },
+    {
+      "rule_id": "P30-R18",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "Erie去掉不利人物后公众急买，价57½至28后约50；作者赞短进长出、便宜好品种有资本可等。",
+      "candidate_new": "Erie相关人物退出后公众急买，价57½至28后约50；作者主张短期承诺、较长时间观察离场，使恐慌后仍可自由买较低价。",
+      "reason": "第7章未给便宜好品种长期资本等待，不能只用纸95–97锚其后章观点；若原作者希望留后者需联第8章精确证据。"
+    },
+    {
+      "rule_id": "P30-R19",
+      "field": [
+        "modern_boundary_zh",
+        "independent_analysis_zh"
+      ],
+      "old": "原数字缺一万且10%缓冲口径不明；不自动改90%贷款或给一年翻倍概率。",
+      "candidate_new": "若十万指现金购置额，八万借款加一万自有差一万；名义额、市值及10%缓冲口径未明，不能选一种解释抹平，亦不改成90%贷款或给一年翻倍概率。",
+      "reason": "章稿条件两解正确，规则却把其中一解的缺口无条件化；未明基数时须保留条件"
+    },
+    {
+      "field": "chapters/ch14.md",
+      "old": "第七章优质铁路迟买可等的前提、第九章现金不足不能等，都限制“纠正”如何执行。",
+      "candidate_new": "第八章有资本的铁路恢复例、第九章现金不足不能等，都限制“纠正”如何执行。",
+      "reason": "第7章短承诺长观察，不是有资本铁路恢复等待例；联章须正确"
+    },
+    {
+      "rule_id": "P30-R30",
+      "field": "chapter_sources",
+      "candidate": "补纸131/CornellPDF143完整原页上下文，为modern_boundary中作者正当者不伤自己的强言提供直接证据",
+      "reason": "当前原范围127–130不含该句"
+    },
+    {
+      "rule_id": "P30-R32",
+      "field": "chapter_sources",
+      "candidate": "纸141/CornellPDF153原作者具体反驳贷款缩量与少数急借，加入完整原页连续语境，与145–152的引信及初步回应并存。",
+      "reason": "现纸133–140只包含反驳开头；完整原章已读，新精确上下文连至141。"
+    }
+  ],
+  "expert_candidate_file": "work/book-experts-v5/value_team/peer-QA/P30-expert-candidate.json",
+  "candidate_sha256": "3a49db4ed957155ff562ddff2f0ead81cc6802f7fd5a664c9eafeab4f4b4f51f",
+  "chapter_corrections": [
+    {
+      "field": "chapters/ch14.md",
+      "old": "第七章优质铁路迟买可等的前提、第九章现金不足不能等，都限制“纠正”如何执行。",
+      "candidate_new": "第八章有资本的铁路恢复例、第九章现金不足不能等，都限制“纠正”如何执行。",
+      "reason": "第7章短承诺长观察，不是有资本铁路恢复等待例；联章须正确"
+    }
+  ],
+  "rule_count": 34,
+  "precise_page_context_count": 168,
+  "complete_original_Introduction_plus15chapters_full_semantic_comparison": true,
+  "front_and_back_all17images_actually_viewed": true,
+  "full_original_scan_glyph_collation": false,
+  "current_market_calls": 0,
+  "review_progress_file": "work/book-experts-v5/value_team/peer-QA/P30-QA-progress.json",
+  "independent_arithmetic_file": "work/book-experts-v5/value_team/peer-QA/P30-ch15-independent-tables.json",
+  "qualified_pass_requires_candidate_merging_and_final_hash_verification": true
+}

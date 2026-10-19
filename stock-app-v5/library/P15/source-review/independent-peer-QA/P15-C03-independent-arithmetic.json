@@ -1,0 +1,108 @@
+{
+  "book_id": "P15",
+  "source_values_not_changed": true,
+  "all_history_verified": false,
+  "current_investment_experiment": false,
+  "steel_independent_checks": [
+    {
+      "year": 1740,
+      "visible_furnaces": 59,
+      "visible_mean": 294,
+      "visible_total": 17350,
+      "independent_product": 17346,
+      "source_total_minus_product": 4
+    },
+    {
+      "year": 1796,
+      "visible_furnaces": 121,
+      "visible_mean": 1048,
+      "visible_total": 125079,
+      "independent_product": 126808,
+      "source_total_minus_product": -1729
+    },
+    {
+      "year": 1806,
+      "visible_furnaces": 133,
+      "visible_mean": 1546,
+      "visible_total": 258206,
+      "independent_product": 205618,
+      "source_total_minus_product": 52588
+    },
+    {
+      "year": 1825,
+      "visible_furnaces": 364,
+      "visible_mean": 2228,
+      "visible_total": 703184,
+      "independent_product": 810992,
+      "source_total_minus_product": -107808
+    },
+    {
+      "year": 1839,
+      "visible_furnaces": 378,
+      "visible_mean": 3592,
+      "visible_total": 1347790,
+      "independent_product": 1357776,
+      "source_total_minus_product": -9986
+    }
+  ],
+  "1825_inblast_product": 581508,
+  "1828_no_original_total_and_not_filled": true,
+  "1788_coke_text903_vs_table909_preserved": true,
+  "spindles_visible_sum": 35467993,
+  "yarn_price_minus18ozcotton_cost_pence": [
+    {
+      "year": 1779,
+      "price_pence_exact": "192",
+      "cotton_cost_pence_exact": "24",
+      "independent_residual_exact": "168",
+      "source_labour_and_capital_pence_exact": "168",
+      "difference_exact": "0"
+    },
+    {
+      "year": 1784,
+      "price_pence_exact": "131",
+      "cotton_cost_pence_exact": "24",
+      "independent_residual_exact": "107",
+      "source_labour_and_capital_pence_exact": "107",
+      "difference_exact": "0"
+    },
+    {
+      "year": 1799,
+      "price_pence_exact": "90",
+      "cotton_cost_pence_exact": "40",
+      "independent_residual_exact": "50",
+      "source_labour_and_capital_pence_exact": "50",
+      "difference_exact": "0"
+    },
+    {
+      "year": 1812,
+      "price_pence_exact": "30",
+      "cotton_cost_pence_exact": "18",
+      "independent_residual_exact": "12",
+      "source_labour_and_capital_pence_exact": "12",
+      "difference_exact": "0"
+    },
+    {
+      "year": 1830,
+      "price_pence_exact": "29/2",
+      "cotton_cost_pence_exact": "31/4",
+      "independent_residual_exact": "27/4",
+      "source_labour_and_capital_pence_exact": "27/4",
+      "difference_exact": "0"
+    },
+    {
+      "year": 1882,
+      "price_pence_exact": "21/2",
+      "cotton_cost_pence_exact": "57/8",
+      "independent_residual_exact": "27/8",
+      "source_labour_and_capital_pence_exact": "27/8",
+      "difference_exact": "0"
+    }
+  ],
+  "coal_units_assuming20cwtperton": {
+    "old_raw_coal_per_cast_ton": "207/40",
+    "new_raw_coal_per_cast_ton": "181/80",
+    "independent_difference_tons": "233/80"
+  },
+  "scope": "Conditional displayed figures only; totals/means/year/measurement conflicts remain unresolved, Labour & Capital residue not pure profit, charts not exact current measures."
+}

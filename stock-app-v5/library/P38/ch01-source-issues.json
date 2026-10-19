@@ -1,0 +1,97 @@
+{
+  "book_id": "P38",
+  "chapter": 1,
+  "reading_version": "2022 printedCCBY4.0PDF",
+  "checked_utc": "2026-10-12T15:06:04.058531+00:00",
+  "raw_source_preserved": true,
+  "current_law_summaries_not_individual_legal_or_tax_advice": true,
+  "issues": [
+    {
+      "id": "P38-C01-I01",
+      "printed_page": 11,
+      "original": "The Dodd-Frank Act of 2008",
+      "status": "original_date_incorrect",
+      "independent_finding": "PublicLaw111–203 enactedJuly21,2010; preserve original text, do not use2008 as fact",
+      "source": "https://www.congress.gov/111/plaws/publ203/PLAW-111publ203.pdf"
+    },
+    {
+      "id": "P38-C01-I02",
+      "printed_page": 11,
+      "original": "Treasury recouped all of its investment used in the bailout",
+      "status": "scope_overbroad_if_all_TARP",
+      "independent_finding": "Treasury reportsTARP closedSeptember30,2023 and lifetimecost about31.1billionUSD. Specific investment-program income differs from entire-program cost. Book causal recovery claim not independently identified.",
+      "source": "https://home.treasury.gov/data/troubled-assets-relief-program/about-tarp"
+    },
+    {
+      "id": "P38-C01-I03",
+      "printed_page": 10,
+      "original": "SIPC is an insurance ... up to500000USD",
+      "status": "simplified_scope_missing_cash_limit",
+      "independent_finding": "SIPC memberfailure/custody protectionup to500000USD including250000cash; notmarketloss coverage",
+      "source": "https://www.sipc.org/for-investors/introduction"
+    },
+    {
+      "id": "P38-C01-I04",
+      "printed_page": 26,
+      "original": "T-bills ... starting at10000USD",
+      "status": "not_current_purchase_threshold",
+      "independent_finding": "TreasuryDirect currentminimum100USD and increments100USD; old textbook amount not modern gate",
+      "source": "https://www.treasurydirect.gov/marketable-securities/treasury-bills/"
+    },
+    {
+      "id": "P38-C01-I05",
+      "printed_page": 27,
+      "original": "Interest on munis is always exempt from federal taxes",
+      "status": "absolute_claim_has_counterexample",
+      "independent_finding": "IRS Form8038-B identifies taxable state/localgovernment BuildAmerica bonds. Issuer-type alone does not prove taxexemption.",
+      "source": "https://www.irs.gov/instructions/i8038b"
+    },
+    {
+      "id": "P38-C01-I06",
+      "printed_page": 26,
+      "original": "NCD principal notinsured; NCDreserve requirements lower than otherdeposits",
+      "status": "scope_and_regime_require_correction",
+      "independent_finding": "Deposit eligibility and ownershipcategory/aggregateamount determine FDICcoverage, not labelalone. Fedzero reserve ratios effectiveMarch26,2020 mean blanketlower-ratio claim notcurrent.",
+      "sources": [
+        "https://www.fdic.gov/resources/deposit-insurance/faq",
+        "https://www.federalreserve.gov/monetarypolicy/reservereq.htm"
+      ]
+    },
+    {
+      "id": "P38-C01-I07",
+      "printed_pages": [
+        29,
+        30
+      ],
+      "original": "Table1.2 value atage60, averageannual10%",
+      "status": "cashflow_timing_underdetermined_not_silent_error_fix",
+      "independent_finding": "All4 tableamounts match annualage-start contributions valuedend-of-age60 within rounding; at60birthday differsoneyear. Constantreturn≠arithmeticmean of variable realizedreturns.",
+      "arithmetic_file": "ch01-table-arithmetic.json"
+    },
+    {
+      "id": "P38-C01-I08",
+      "printed_page": 22,
+      "original": "Figure1.7 markets tree including legacy names",
+      "status": "teaching_taxonomy_not_current_exchange_inventory",
+      "independent_finding": "Alllabels visuallyread; modernname/inventory equivalence notvalidated. Do not route or classify actualcurrentvenue usingoldchart alone."
+    },
+    {
+      "id": "P38-C01-I09",
+      "printed_page": 26,
+      "original": "CPdefault increased into double-digit range in2008",
+      "status": "sample_scope_unknown",
+      "independent_finding": "Bookdoes notstate numerator/denominator/sampleof CPdefaults; notusedas universalobserveddefault rate."
+    },
+    {
+      "id": "P38-C01-I10",
+      "printed_pages": [
+        18,
+        20,
+        21
+      ],
+      "original": "Peloton success, BLSwages/jobs andgovernmentdebt figures",
+      "status": "historical_asof_not_current",
+      "independent_finding": "Sourcefigures have2021case/2019–2020wagebases/2029forecasts; no livecompanyresearch or currentwage claim."
+    }
+  ]
+}

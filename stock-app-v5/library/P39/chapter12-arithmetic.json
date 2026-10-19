@@ -1,0 +1,25 @@
+{
+  "gold_pure_grams_per_sovereign": 7.322333333333334,
+  "gold_pure_grams_per_franc": 0.2903225806451613,
+  "mint_par_from_displayed_data": 25.22137037037037,
+  "paris_london_arbitrage_gross_pounds": 3.9682539682539755,
+  "long_rate_example": 25.27,
+  "face_25270_net_at_4pct_3months_stamp_half_per_mille": 25004.665,
+  "foreign_bill_franc_cost": 2497,
+  "foreign_bill_terminal_values": [
+    2522,
+    2512,
+    2532
+  ],
+  "simple_annualized_foreign_bill_returns": [
+    0.040048057669203045,
+    0.024028834601521828,
+    0.05606728073688426
+  ],
+  "source_limits": [
+    "铸币数据本身约至小数，25.2215与复算25.22137属于精度区别。",
+    "纽约Demand表脚注为£10报价，而正文另讲便士/美元；不能未核就全表按相同单位转换。",
+    "法国/德国黄金出口制度使理论黄金点不一定实际触发。",
+    "所有收益例忽略未列交易成本与实际日数，不能作当代获利保证。"
+  ]
+}

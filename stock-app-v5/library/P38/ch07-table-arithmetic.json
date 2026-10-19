@@ -1,0 +1,382 @@
+{
+  "tables71to77": {
+    "71": {
+      "years": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "amounts_all_blank": true
+    },
+    "72": {
+      "years": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "printed": [
+        100,
+        105,
+        110.25,
+        115.76,
+        121.55,
+        127.63
+      ],
+      "recomputed": [
+        100.0,
+        105.0,
+        110.25,
+        115.76250000000002,
+        121.55062500000003,
+        127.62815625000003
+      ]
+    },
+    "73": {
+      "n": 4,
+      "ratepercent": 3,
+      "PV": -1000,
+      "PMT": 0,
+      "printedFV": 1125.51,
+      "recomputedFV": 1125.50881,
+      "sixsteps_allread": true
+    },
+    "74": {
+      "n": 5,
+      "ratepercent": 4,
+      "PV": -2000,
+      "PMT": 0,
+      "printedFV": 2433.31,
+      "recomputedFV": 2433.3058048000003,
+      "sixsteps_allread": true
+    },
+    "75": {
+      "n": 5,
+      "ratepercent": 5,
+      "FV": -50000,
+      "PMT": 0,
+      "printedPV": 39176.31,
+      "recomputedPV": 39176.30832342294,
+      "sixsteps_allread": true
+    },
+    "76": {
+      "PV": -15000,
+      "FV": 25000,
+      "ratepercent": 6,
+      "PMT": 0,
+      "printedN": 8.7667,
+      "recomputedN": 8.766692910722355,
+      "sixsteps_allread": true
+    },
+    "77": {
+      "PV": -15000,
+      "FV": 25000,
+      "n": 8.5,
+      "PMT": 0,
+      "printedRatepercent": 6.194,
+      "recomputedRatepercent": 6.193969008260836,
+      "sixsteps_allread": true
+    }
+  },
+  "examples": {
+    "single1000fourpercent": [
+      1000,
+      40,
+      1040,
+      41.6,
+      1081.6
+    ],
+    "single300fivepercent": 315,
+    "EPS2_5tenpercent": 2.75,
+    "price50threepercent": 51.5,
+    "1000fourpercent_periods3_10_50": [
+      {
+        "n": 3,
+        "FV": 1124.864
+      },
+      {
+        "n": 10,
+        "FV": 1480.2442849183444
+      },
+      {
+        "n": 50,
+        "FV": 7106.683346278317
+      }
+    ],
+    "house400k4percent6years": 506127.60739840014,
+    "house_original_display_values": [
+      506127.61,
+      506127.6
+    ],
+    "Melvin100fivepercent_years1to5": [
+      105.0,
+      110.25,
+      115.76250000000002,
+      121.55062500000003,
+      127.62815625000003
+    ],
+    "Melvin100fiveyears_rates5_6_7_10_12": [
+      {
+        "r": 0.05,
+        "FV": 127.62815625000003
+      },
+      {
+        "r": 0.06,
+        "FV": 133.82255776000002
+      },
+      {
+        "r": 0.07,
+        "FV": 140.25517307000004
+      },
+      {
+        "r": 0.1,
+        "FV": 161.05100000000004
+      },
+      {
+        "r": 0.12,
+        "FV": 176.23416832000007
+      }
+    ],
+    "calculator1000_3percent20years": 1806.111234669415,
+    "calculator100_133_82_5percent_N": 5.970986823387253,
+    "calculator1000_1125_51_4years_ratepercent": 3.000027225453561,
+    "reversedPV_withroundedFV1125_51": 1000.0010572995869,
+    "car20k1year5percentPV": 19047.619047619046,
+    "zero_coupon1000_30years5percentPV": 231.37744865585785,
+    "printed_zero_coupon_denominator_0_05power30_wrong": true,
+    "nominalFisher_real6_inflation2": 8.120000000000015,
+    "real_negative3_65_loss_on1000": 36.5,
+    "compound1000_10percent5years": 1610.5100000000004,
+    "1000_6percent_year_quarter_month": [
+      {
+        "m": 1,
+        "FV": 1060.0
+      },
+      {
+        "m": 4,
+        "FV": 1061.3635506249996
+      },
+      {
+        "m": 12,
+        "FV": 1061.6778118644984
+      }
+    ],
+    "monthly_book1061_67_vsrecompute1061_68_rounding": true,
+    "10million12percent1year_annualquarter": [
+      11200000.000000002,
+      11255088.100000001
+    ],
+    "quarter_minus_annual_10million": 55088.09999999963,
+    "200_60percent6years_annualquarter": [
+      3355.443200000001,
+      5725.035238224281
+    ],
+    "dollar3percent100years_annualmonthly": [
+      19.218631980856298,
+      20.010482040881836
+    ],
+    "book_monthly397_44_vsactual20_01": true
+  },
+  "Excel_visual_equation_audit": {
+    "fig73": {
+      "formula": "FV(.05,5,0,-100)",
+      "inputs": [
+        0.05,
+        5,
+        0,
+        -100
+      ],
+      "printed_result": 127.63,
+      "recomputed_result": 127.62815625000003
+    },
+    "fig74_75": "FV insertfunctionselection and blankargument dialog fullyvisuallyread; notclaimed actualExceloperation",
+    "fig76": {
+      "PV_shown": 2000,
+      "rate": 0.04,
+      "n": 5,
+      "PMTblank0": true,
+      "shown_result": -2433.305805,
+      "text_expected_positive": true,
+      "recomputed_signed_result": -2433.3058048000003
+    },
+    "fig77": {
+      "reference_formula": "PV(B1,B2,B3,B4)",
+      "reference_FV_display": -127.6,
+      "hidden_unrounded_cellvalue_unknown": true,
+      "if_exact_display_FV_PV": 99.97793884137533,
+      "hardcoded_formula": "PV(.05,5,0,-100)",
+      "hardcoded_printedPV": 100,
+      "hardcoded_recomputedPV": 78.35261664684589
+    },
+    "fig78_79": "PV selection/blankdialog fullvisual read",
+    "fig710": {
+      "rate": 0.05,
+      "n": 5,
+      "PMT": 0,
+      "FV": -50000,
+      "shownPV": 39176.30832,
+      "recomputed": 39176.30832342294
+    },
+    "fig711_712": "NPER selection/blankdialog fullvisual read",
+    "fig713": {
+      "rate": 0.06,
+      "PMT": 0,
+      "PV": -15000,
+      "FV": 25000,
+      "shownN": 8.766692911,
+      "recomputed": 8.766692910722355
+    },
+    "fig714_715": "RATE selection/blankdialog fullvisual read",
+    "fig716": {
+      "n": 8.5,
+      "PMT": 0,
+      "PV": -15000,
+      "FV": 25000,
+      "shownRate": 0.06193969,
+      "recomputed": 0.061939690082608356
+    },
+    "fig717": "Present→Future compounding, reverse discounting arrows",
+    "fig718": "Purchasingpowerindex2007approx48→2020approx38;2008shortrecoverymarked;noexactunderlyingtimeseriesarrayprovided"
+  },
+  "rule72_comparisons": [
+    {
+      "r_percent": 9,
+      "rule72years": 8.0,
+      "exact_annualcompound_double_years": 8.043231726932055
+    },
+    {
+      "r_percent": 6,
+      "rule72years": 12.0,
+      "exact_annualcompound_double_years": 11.895661045941885
+    },
+    {
+      "r_percent": 4,
+      "rule72years": 18.0,
+      "exact_annualcompound_double_years": 17.672987685129712
+    },
+    {
+      "r_percent": 2,
+      "rule72years": 36.0,
+      "exact_annualcompound_double_years": 35.00278878114653
+    },
+    {
+      "r_percent": 11,
+      "rule72years": 6.545454545454546,
+      "exact_annualcompound_double_years": 6.641884618417908
+    },
+    {
+      "r_percent": 3,
+      "rule72years": 24.0,
+      "exact_annualcompound_double_years": 23.449772250437757
+    },
+    {
+      "r_percent": 7,
+      "rule72years": 10.285714285714286,
+      "exact_annualcompound_double_years": 10.244768351058719
+    },
+    {
+      "r_percent": 24,
+      "rule72years": 3.0,
+      "exact_annualcompound_double_years": 3.222271094138538
+    }
+  ],
+  "fiveyear_double_exact_ratepercent": 14.869835499703509,
+  "fiveyear_double_rule72_ratepercent": 14.4,
+  "creditcard24APR_compound_month_double_years": 2.9168990650955418,
+  "all22_problem_results_independent_under_givenfixedrateassumptions": {
+    "1": 127.62815625000003,
+    "2": 2267.4816,
+    "3": 8730.136568475573,
+    "4": 2701.3444225098783,
+    "5": 5.150924014278263,
+    "6_ratepercent": 19.999999999999996,
+    "7": 14.27491458600319,
+    "8_million": 447.7119241357137,
+    "9": 630.1696268831046,
+    "10_ratepercent": 2.7160948026569764,
+    "11_ratepercent": 3.6311209910314224,
+    "12_exactyears": 9.006468342000595,
+    "12_rule72years": 9.0,
+    "13_interestonly": 11035.67736106424,
+    "14": 10.469848430762875,
+    "15": 39176.30832342294,
+    "16_ratepercent": 30.00541700523185,
+    "17_start_salary": 33140.33074906366,
+    "18": 32050.93079271461,
+    "19_ratepercent": 11.612317403390438,
+    "20": 2451.780362353682,
+    "21": 12809.311817195958,
+    "22": {
+      "1": 41692.761138767026,
+      "2": 42406.49129598801,
+      "4": 42778.61623086753,
+      "12": 43032.65818549573
+    }
+  },
+  "review": {
+    "3_optionA": 619.1736422399997,
+    "3_optionB": 449.6851481517133,
+    "3_same_terminaldate_notgiven": "BookcomparesFVatdifferentdates10/15; amountsalone notfair horizoncomparison",
+    "4_ratequarter": "NominalannualAPR/4onlyifthatquoteconvention; effectiveannual needs(1+EAR)^.25-1"
+  },
+  "video_exercises": {
+    "all_image_inputs_both_repeated_sets": {
+      "FV": {
+        "PV": -1000,
+        "n": 5,
+        "percent": 4,
+        "PMT": 0,
+        "result": 1216.6529024000001
+      },
+      "PV": {
+        "FV": 2000,
+        "n": 7,
+        "percent": 5,
+        "PMT": 0,
+        "signed_result": -1421.3626602602426
+      },
+      "N": {
+        "FV": 5000,
+        "PV": -3000,
+        "percent": 3,
+        "PMT": 0,
+        "result": 17.28167533960608
+      },
+      "RATE": {
+        "FV": 6000,
+        "PV": -1500,
+        "n": 10,
+        "PMT": 2,
+        "independent_endofperiod_result_percent": 14.947143349032388,
+        "residual": 9.094947017729282e-13,
+        "nonzeroPMT_notlumpsum": true
+      },
+      "PMT": {
+        "FV": 15000,
+        "PV": -8000,
+        "n": 12,
+        "percent": 4,
+        "independent_endofperiod_result": -145.8652088023956,
+        "residual": 0.0,
+        "nonzeroPMT_notlumpsum": true
+      }
+    },
+    "default_endofperiod_assumption_explicit": true,
+    "video_notviewed": true,
+    "actualCalculator_Excel_operation_done": false
+  },
+  "annual_ten_million_formula_original_typo": {
+    "printedLeftPrincipal": 10000,
+    "prosePrincipal": 10000000,
+    "printedRight": 11200000,
+    "literalLeftRecomputed": 11200.000000000002,
+    "prosePrincipalRecomputed": 11200000.000000002,
+    "samePageQuarterlyFormulaPrincipal": 10000000,
+    "rootActuallyViewedPDFPage": 234
+  }
+}

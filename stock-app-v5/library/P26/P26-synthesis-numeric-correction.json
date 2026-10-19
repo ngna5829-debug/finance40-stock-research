@@ -1,0 +1,26 @@
+{
+  "review_date_utc": "2026-10-12T23:00:56.230202+00:00",
+  "authorization": "root message explicitly permitted this one correction",
+  "changes": [
+    {
+      "path": "outputs/book-experts-v5/P26/全书综合与附录.md",
+      "old_sha256": "bd2daa913c35797616162e21911c7a30c707418ed0bf9e44d9e62f4e7b5afc0a",
+      "new_sha256": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02",
+      "old_value": "83.085972%",
+      "new_value": "83.0849081714%",
+      "calculation": 83.08490817141336,
+      "old_file_preserved": "work/book-experts-v5/practical_team/P26-synthesis-before-correction-canonical.md",
+      "author_expert_audit_validation_not_mutated": true
+    },
+    {
+      "path": "work/book-experts-v5/root_team/P26/全书综合与附录.md",
+      "old_sha256": "bd2daa913c35797616162e21911c7a30c707418ed0bf9e44d9e62f4e7b5afc0a",
+      "new_sha256": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02",
+      "old_value": "83.085972%",
+      "new_value": "83.0849081714%",
+      "calculation": 83.08490817141336,
+      "old_file_preserved": "work/book-experts-v5/practical_team/P26-synthesis-before-correction-root.md",
+      "author_expert_audit_validation_not_mutated": true
+    }
+  ]
+}

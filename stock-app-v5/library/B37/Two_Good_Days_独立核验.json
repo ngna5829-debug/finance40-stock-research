@@ -1,0 +1,30 @@
+{
+  "book": "B37",
+  "pdf_page": 196,
+  "printed_page": 189,
+  "read_method": "整页扫描目视逐行读取，不依赖该页不可读OCR",
+  "rows": 15,
+  "total_shares": 2700,
+  "long_rows": 6,
+  "short_rows": 9,
+  "narrative_pdf_page": 195,
+  "narrative_claim_long": 7,
+  "narrative_claim_short": 8,
+  "direction_count_discrepancy_retained": true,
+  "winning_rows": 13,
+  "losing_rows": 1,
+  "flat_rows": 1,
+  "positive_unweighted_point_sum": "11",
+  "loss_points": "7/8",
+  "commission_points": "27/8",
+  "approx_tax_points": "1/4",
+  "net_points_as_printed": "13/2",
+  "printed_totals_arithmetic_pass": true,
+  "quantity_weighted_gross_cash": 1750.0,
+  "column_semantics": "Bought/Sold分别为买入/卖出成交价；空头先卖后买，不能当作开仓/平仓列",
+  "boundaries": [
+    "不同股数的未加权点数相加不是账户收益率",
+    "缺少账户资本、完整日期时刻、全部样本和现金成本定义",
+    "没有据此构造当代回测或胜率"
+  ]
+}

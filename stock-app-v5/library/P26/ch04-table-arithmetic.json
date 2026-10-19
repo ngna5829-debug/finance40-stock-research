@@ -1,0 +1,242 @@
+{
+  "book_id": "P26",
+  "chapter": 4,
+  "matrix_row_presents_checks_drawn_on_column_bank": [
+    [
+      0,
+      6500,
+      9200,
+      7100,
+      6250,
+      4500
+    ],
+    [
+      7800,
+      0,
+      4100,
+      5760,
+      6340,
+      5870
+    ],
+    [
+      6750,
+      4270,
+      0,
+      5900,
+      6400,
+      5940
+    ],
+    [
+      8750,
+      4700,
+      6740,
+      0,
+      5820,
+      5140
+    ],
+    [
+      8740,
+      4620,
+      9250,
+      7680,
+      0,
+      5940
+    ],
+    [
+      3700,
+      4100,
+      6740,
+      9250,
+      7850,
+      0
+    ]
+  ],
+  "all30_off_diagonal_values_visually_read": true,
+  "credits": [
+    33550,
+    29870,
+    29260,
+    31150,
+    36230,
+    31640
+  ],
+  "debits": [
+    35740,
+    24190,
+    36030,
+    35690,
+    32660,
+    27390
+  ],
+  "net_receivable_positive": [
+    -2190,
+    5680,
+    -6770,
+    -4540,
+    3570,
+    4250
+  ],
+  "gross_presented": 191700,
+  "net_cash_settlement_each_side": 13500,
+  "net_settlement_percent": 7.042253521126761,
+  "collecting_and_paying_same_sum_not_two_fresh_inflows": true,
+  "original_No4_claim_on_No1_8750_OCR18750_corrected_by_PDF62": true,
+  "NY_November1890_millions": [
+    [
+      1,
+      399.8,
+      396.3,
+      99.8
+    ],
+    [
+      8,
+      398.9,
+      392.2,
+      95.5
+    ],
+    [
+      15,
+      393.3,
+      386.6,
+      95.8
+    ],
+    [
+      22,
+      387.3,
+      381.7,
+      95.5
+    ],
+    [
+      29,
+      384.6,
+      378.6,
+      95
+    ]
+  ],
+  "NY_November_changes": {
+    "loans": -15.199999999999989,
+    "deposits": -17.69999999999999,
+    "specie_legal_tender": -4.799999999999997
+  },
+  "unobserved_other_balance_sheet_items_not_invented": true,
+  "international_approx_Oct1890_USD_millions": [
+    [
+      "Bank of England",
+      130.5,
+      145,
+      127
+    ],
+    [
+      "Bank of France",
+      183.7,
+      70.2,
+      604.4
+    ],
+    [
+      "Bank of Belgium",
+      63.1,
+      13.2,
+      74.4
+    ],
+    [
+      "Bank of Netherlands",
+      52.5,
+      9.5,
+      86.5
+    ],
+    [
+      "Reichsbank",
+      195.1,
+      78.7,
+      282.9
+    ],
+    [
+      "Austro-Hungarian Bank",
+      115.5,
+      null,
+      226.8
+    ],
+    [
+      "Banks of New York",
+      401,
+      413,
+      3.5
+    ]
+  ],
+  "Austro_Hungarian_deposits_original_blank_not_zero": true,
+  "original_conversion_approx": {
+    "GBP1_USD": 5,
+    "FRF25_USD": 5,
+    "not_current_fx": true
+  },
+  "normalized_city_country_1875_1890": {
+    "denominator_capital_plus_surplus": 100,
+    "loans": [
+      187,
+      275,
+      130,
+      199
+    ],
+    "individual_deposits": [
+      144,
+      215,
+      77,
+      158
+    ],
+    "notes": [
+      34,
+      6,
+      60,
+      19
+    ]
+  },
+  "equal_capital_comparison_1832_1890": {
+    "normalized_capital_each_million": 35,
+    "loans": [
+      70,
+      104
+    ],
+    "individual_deposits": [
+      9,
+      82
+    ],
+    "notes": [
+      26,
+      7
+    ],
+    "1890_not_actual_aggregate_capital": true
+  },
+  "July1890_deposits_USD_excludes_private": {
+    "US_national": 1552000000,
+    "US_state_estimated": 525000000,
+    "UK_joint_stock": 3000000000,
+    "Bank_England": 165000000
+  },
+  "checks_received_share_percent": {
+    "NY1881": 98.7,
+    "US1881": 94.6,
+    "NY1890_dates": [
+      96,
+      95.6
+    ],
+    "US1890_dates": [
+      92.5,
+      91
+    ],
+    "London_several_years_earlier_not_exact_date": 97.2
+  },
+  "NY1881_daily_exchange": 159232191,
+  "NY1881_daily_balance": 5823010,
+  "NY1881_ratio_percent": 3.6569301492560635,
+  "NY_since1853_original_average_ratio_percent": 4.4,
+  "different_window_not_forced_equal": true,
+  "historical_member_stats": {
+    "London_total": 27,
+    "London_private": 12,
+    "joint_stock_admitted": 1854,
+    "Bank_England_admitted_ten_years_later": 1864,
+    "NY1884_banks": 61,
+    "NY1884_also_Assistant_Treasurer": true
+  },
+  "all_results_historical_or_hypothetical_not_current_stock_moneyflow": true
+}

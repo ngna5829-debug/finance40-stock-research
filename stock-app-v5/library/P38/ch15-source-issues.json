@@ -1,0 +1,126 @@
+[
+  {
+    "issue": "DAL inconsistent summaries",
+    "pages": [
+      458,
+      459
+    ],
+    "original": "20.87mean51.16SD vsoriginaltable22.40/51.90;2011−35.15vs−35.79",
+    "independent": "table10annualreturnsrecomputed;alternateperiod/sourceunknownnotmerged"
+  },
+  {
+    "issue": "FBwealthnottripled/3Msignprose",
+    "page": 451,
+    "original": "79.30→224.59morethantripled;3Mcapgain−.0302thenprose3.02positive",
+    "independent": "2.832156wealthmultiple<3;3Mactual−3.0171pct,totalpositive.36;PDFtotalusesplusnegative correctly"
+  },
+  {
+    "issue": "HPRannualization_repeatcondition/withdrawalsorder",
+    "pages": [
+      451,
+      452,
+      453
+    ],
+    "independent": "annualizedpastperiod comparablemath notfutureyieldpromise;returnordercommutesonlysameinvestmentandnoexternalcashflows/frictions"
+  },
+  {
+    "issue": "Diversificationnotmonotoniceveryaddition/guarantee",
+    "pages": [
+      458,
+      459,
+      460,
+      461,
+      469,
+      472
+    ],
+    "original": "addstocksalwaysreducesrisk,dozenwell-diversified,portfolioSDbeloweverycomponent",
+    "independent": "dependsweights/covariance/concentration;SD<=weightedavg forlongonlynotalwaysbelowminimum;systematicexposurecanchange;nomarketlossguarantee",
+    "primary_url": "https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/diversify-your-investments"
+  },
+  {
+    "issue": "50_50annual25pctmonthlyresetweights",
+    "pages": [
+      459,
+      468,
+      469
+    ],
+    "independent": "constantweightsmeansrebalanceeachperiod,notunrebalancedbuyhold;turnover/costsnotincluded"
+  },
+  {
+    "issue": "Normalprobabilities unverified",
+    "pages": [
+      455,
+      456,
+      468
+    ],
+    "original": "2of3years andonesixyears outside1SD;AMZN2of3time",
+    "independent": "firstconditionalifnormal laterunqualified;small10/36samples nofitverification,annualfrequencynotguarantee"
+  },
+  {
+    "issue": "CAPMexpectednotrealizedreward/nominalriskfree",
+    "pages": [
+      461,
+      462,
+      463,
+      464,
+      472
+    ],
+    "independent": "equilibriummodel assumesdiversification andmarketproxy;specificrisknotrewarded ismodelrestrictionnotempiricalcertainty;historicalrf3.36notcurrentterm/currencyrate;Tbillnevernegativehistoricalseriesnotallsale/realyieldguarantee"
+  },
+  {
+    "issue": "Beta co-movement vs totalSD/intercept",
+    "pages": [
+      463,
+      470,
+      471
+    ],
+    "original": "beta<1smallerstockswings,market10beta1_1477gives11.477",
+    "independent": "slopereflectscommoncomponentnotallstockvolatility;shownAMZNintercept.0186 meansconditionalpredictionincludesit;notexactmarketmoveproportion"
+  },
+  {
+    "issue": "Sharpeexcessvariance/timeunit/Treynorzero",
+    "pages": [
+      465,
+      466
+    ],
+    "original": "sdportfolio denominator;20returnpastfiveyearwording/annual;Wong10vsMcKinley.14 decimal",
+    "independent": "ifrfconstantSDsame,variablebenchmarkuseSDdifferentialreturns;periodalign;beta0divisionundefined/negativebetaordinaryrankingfails;unitsdecimalvspercentagepoints explicit",
+    "primary_url": "https://web.stanford.edu/~wfsharpe/art/sr/sr.htm"
+  },
+  {
+    "issue": "Alpha modelconditional not provenmanager skill",
+    "page": 466,
+    "original": "alpha6.2pcthigher absolutepositiveabnormal",
+    "independent": "6.2percentagepointsrelativeCAPM,otherfactors/fees/statisticaluncertaintyunknown;positive samplealpha notfutureguarantee"
+  },
+  {
+    "issue": "AMZNSD9_33vs9_20/source hiddenrows",
+    "pages": [
+      468,
+      469,
+      470,
+      471
+    ],
+    "original": "fig154.0933 andfig155.0920 forsameperiod;hiddenrows5to28/7to26/5to27",
+    "independent": "36samplevspopSDconversion.0933sqrt35/36≈.0920possibleconventiondifference notestablished;visiblecellsreadallbuthiddennotinvented/full36statsnotrecomputed"
+  },
+  {
+    "issue": "Datesunits/currentsoftware/historicalprices",
+    "pages": [
+      467,
+      468,
+      469,
+      470
+    ],
+    "original": "monthlylastpricebutlabelsfirstdate;download easilyYahoo;SPYfirstETFglobalclaim",
+    "independent": "historical2022workflow notverifiedcurrentdownloadterms;exactquote/date/adjustmentunknown;SPYUSfirst distinctglobalclaimnotverified"
+  },
+  {
+    "issue": "Externalvideoactivitynotwatched/new10yearbacktestnotdone",
+    "pages": [
+      476,
+      477
+    ],
+    "independent": "all4printedquestionsread;no arbitrary current10yearcount/no fabricatedCramer/Boglefilmanswers;embeddedmentionnotwholebooksread"
+  }
+]

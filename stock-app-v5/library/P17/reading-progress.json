@@ -1,0 +1,246 @@
+{
+  "chapter": 1,
+  "status": "complete_text_review_qualified_pending_independent_QA",
+  "source_read_batches": [
+    {
+      "printed_pages": [
+        1,
+        19
+      ],
+      "tool_output_tokens": 5775,
+      "truncated": false
+    },
+    {
+      "printed_pages": [
+        20,
+        37
+      ],
+      "tool_output_tokens": 5431,
+      "truncated": false
+    }
+  ],
+  "front_matter_fully_read": true,
+  "body_han_count": 3900,
+  "dossier_sha256": "2f433b793a602193a88e5d5acd080d40e7d22b46a492bb723323a892b3f00a36",
+  "original_table_pages_visually_read": [
+    36,
+    42,
+    43
+  ],
+  "book_complete": true,
+  "timestamp_utc": "2026-10-12T08:19:02.280501+00:00",
+  "completed_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "chapter2": {
+    "body_han_count": 3728,
+    "sha256": "1086f7890289492159ad87b3b41804de5fce2f60dfff9e260001957ac00e7546",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          38,
+          59
+        ],
+        "tokens": 6788,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          60,
+          81
+        ],
+        "tokens": 6833,
+        "truncated": false
+      }
+    ],
+    "financial_example_arithmetic": {
+      "gross_revenue_share_pct": 25.646950092421445,
+      "net_assumed_war_revenue_share_pct": 17.55060210094799,
+      "currency_begin_sum": 168.3,
+      "currency_end_sum": 489.2
+    },
+    "book_complete": false
+  },
+  "updated_at_utc": "2026-10-12T13:13:34.851508+00:00",
+  "chapter3": {
+    "body_han_count": 3704,
+    "sha256": "8a87aec1f8c265e0613455567da333c683b4c126e5f2feb389642f629b3662c2",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          82,
+          100
+        ],
+        "tokens": 6079,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          101,
+          118
+        ],
+        "tokens": 5820,
+        "truncated": false
+      }
+    ],
+    "visually_reviewed_pdf_pages": [
+      109,
+      134
+    ],
+    "original_dual_date_descriptions": "PDF109 signed August18; PDF134 dated August15, not independently reconciled",
+    "book_complete": false
+  },
+  "chapter4": {
+    "body_han_count": 3527,
+    "sha256": "e36e9e7ce71e9b4346f2ee7e50efa54566b6c7cb0c8e67f69a5b37702e5553a8",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          119,
+          132
+        ],
+        "tokens": 4482,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          133,
+          146
+        ],
+        "tokens": 4417,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "chapter5": {
+    "body_han_count": 3540,
+    "sha256": "c16ef14d2742c309c5e8ef00a50cb58b9a4ef13e99abf34ca6e846552f84fe9b",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          147,
+          161
+        ],
+        "tokens": 4834,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          162,
+          175
+        ],
+        "tokens": 4428,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "chapter6": {
+    "body_han_count": 3895,
+    "sha256": "e024d750bb0d5a95a50c6f90f5b93cf54d8e93d15f2f7b51cf3bd82bfdb6a13a",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          176,
+          189
+        ],
+        "tokens": 4484,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          190,
+          203
+        ],
+        "tokens": 4306,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "chapter_body_han_counts": {
+    "1": 3900,
+    "2": 3728,
+    "3": 3704,
+    "4": 3527,
+    "5": 3540,
+    "6": 3895,
+    "7": 3447,
+    "8": 3452,
+    "9": 3134
+  },
+  "chapter_body_han_total_so_far": 32327,
+  "chapter7": {
+    "body_han_count": 3447,
+    "sha256": "c76de306e067b328216d4db60d89513db87a35b368a737b0d3e19314cb20e56d",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          204,
+          222
+        ],
+        "tokens": 6074,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          223,
+          240
+        ],
+        "tokens": 5603,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "chapter8": {
+    "body_han_count": 3452,
+    "sha256": "87fb696af8b8ba6938a7c6e9497fe66e1ee27b5b88b6dc6cf200dbf7b0a9d7a0",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          241,
+          258
+        ],
+        "tokens": 5765,
+        "truncated": false
+      },
+      {
+        "printed_pages": [
+          259,
+          276
+        ],
+        "tokens": 5840,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "chapter9": {
+    "body_han_count": 3134,
+    "sha256": "ab1a28e506971948af3286be3769eaceab7b89415546ae83a714bb1437defd1a",
+    "full_read_batches": [
+      {
+        "printed_pages": [
+          277,
+          294
+        ],
+        "tokens": 5706,
+        "truncated": false
+      }
+    ],
+    "book_complete": false
+  },
+  "full_original_text_read": true,
+  "expert_defined": true,
+  "independent_QA": "pending"
+}

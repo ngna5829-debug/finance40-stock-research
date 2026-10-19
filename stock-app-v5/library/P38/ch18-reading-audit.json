@@ -1,0 +1,68 @@
+{
+  "book_id": "P38",
+  "chapter": 18,
+  "printed_pages": [
+    535,
+    564
+  ],
+  "pdf_pages_one_based": [
+    550,
+    579
+  ],
+  "source_chars": 69913,
+  "source_sha256": "4218621f06cbab7c41f289d197c90277cb89c4a1a7422cf7a11c87ddf31308b8",
+  "actualnative_readranges": [
+    [
+      0,
+      30000
+    ],
+    [
+      29900,
+      59800
+    ],
+    [
+      59700,
+      69913
+    ]
+  ],
+  "all6sections_summary_terms_9MC_6review_5problems_4videoquestiontexts_read": true,
+  "numbered_footnotes": 0,
+  "all30pagecontacts_all23figures_allvisiblefinancialcells_formulaimages_visuallyread": true,
+  "visual_files": [
+    "ch18-figures-1.jpg",
+    "ch18-figures-2.jpg",
+    "ch18-figures-3.jpg",
+    "ch18-figures-4.jpg",
+    "ch18-figures-5.jpg",
+    "ch18-figures-6.jpg",
+    "ch18-figures-7.jpg",
+    "ch18-figures-8.jpg",
+    "ch18-critical-562.jpg",
+    "ch18-critical-563.jpg",
+    "ch18-detail-563.jpg",
+    "ch18-detail-564.jpg",
+    "ch18-detail-566.jpg",
+    "ch18-detail-568.jpg",
+    "ch18-detail-570.jpg",
+    "ch18-detail-571.jpg",
+    "ch18-detail-572.jpg",
+    "ch18-detail-564-complete.jpg",
+    "ch18-detail-568-complete.jpg",
+    "ch18-detail-578-complete.jpg"
+  ],
+  "other_renderedcriticals_notclaimedseen": true,
+  "source_clipped_D14formula_notfilled": true,
+  "external_reports_videos_workbooks_wholepapers_read": false,
+  "actualExcel_execution": false,
+  "literal_everyPDFglyphproofread": false,
+  "body_han": 4674,
+  "summary_sha256": "47ff8d7ee8aefcc0c7c838d14c5fced47176faf21a5df1cb4106715db1e59c9b",
+  "arithmetic": "ch18-table-arithmetic.json",
+  "sourceissues": "ch18-source-issues.json",
+  "semantic_fullchapter_read_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "47ff8d7ee8aefcc0c7c838d14c5fced47176faf21a5df1cb4106715db1e59c9b",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

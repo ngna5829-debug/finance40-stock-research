@@ -1,0 +1,117 @@
+{
+  "book_id": "P20",
+  "chapter": 14,
+  "full_source_batches_pdf": [
+    [
+      211,
+      217
+    ],
+    [
+      218,
+      224
+    ],
+    [
+      225,
+      230
+    ],
+    [
+      231,
+      236
+    ]
+  ],
+  "main_all_inline_notes_recapitulation_joint_authorities_read": true,
+  "actual_original_images_read": [
+    228,
+    232,
+    234,
+    235
+  ],
+  "paper208_original_rate_fraction": "3+3/4percent equivalentinterest at4percent30yrbondsprice104.49;goldclauseoffer3percent. Coupon/yield/cost different.",
+  "1878_source_internal_date": {
+    "paper194_main": "February28,1878",
+    "paper212_table": "February28,1878",
+    "paper214_original_recap": "February12,1878",
+    "action": "Preserveoriginaldifference; notOCRerror orsingleexacteventdateforbacktest."
+  },
+  "paper212_silver_table": {
+    "act1878_fine_oz": 291272018,
+    "act1878_coin_face": 378166793,
+    "act1878_bullion_cost": 308279261,
+    "act1890_fine_oz": 168674682,
+    "act1890_cost": 155981002,
+    "coined_and_to_be_coined_face": 218000000,
+    "less_subsidiary": 20000000,
+    "net_dollar_face": 198000000,
+    "both_acts_coin_face": 576166793
+  },
+  "paper215_flows": {
+    "drawn_redemption1879_1892": 43310887,
+    "drawn_redemption1893_1896": 483538788,
+    "gold_exported1893_1896": 344248036,
+    "borrowed_sameperiod": 293481894,
+    "bond_face_issued_sameperiod": 262315400
+  },
+  "paper215_bond_table_rows": [
+    [
+      1878,
+      100000000,
+      0.04,
+      30,
+      120000000
+    ],
+    [
+      1894,
+      50000000,
+      0.05,
+      10,
+      25000000
+    ],
+    [
+      1894,
+      50000000,
+      0.05,
+      9,
+      22500000
+    ],
+    [
+      1895,
+      62315400,
+      0.04,
+      30,
+      74778480
+    ],
+    [
+      1896,
+      100000000,
+      0.04,
+      30,
+      120000000
+    ]
+  ],
+  "raw_principal_total": 362315400,
+  "raw_interest_total": 362278480,
+  "independent_arithmetic": {
+    "principal_sum": 362315400,
+    "interest_sum": 362278480,
+    "all_coupon_times_years_match": true,
+    "new1893_1896_bond_face_excludes1878": 262315400,
+    "silver_coin_sum": 576166793,
+    "fiscal1894_1896_deficit_plus_wholeShermancost": 293792732,
+    "above_minus_borrowing": 310838,
+    "first1894_reported_proceeds_minus_face_times117_223": 49416.99999999255
+  },
+  "arithmetic_scope": "Cashflows have different calendar/fiscal/actwindows; interest is cumulative nominal, not PV orYTM. First1894quote/proceeds difference may reflectterms/rounding/accrual, notsilently calledprintererror.",
+  "money_panic_vs_commercial_crisis": "Author stressescurrencycredibilitybeforepanic, acknowledgesrail/iron/landweakness inTaussigfootnote, then prolongedcommercialcrisisafterpanic. Notpurehealthyallindustry.",
+  "1893_domestic_cash_demand": "Bankdepositorswantedpayment/wages,notes/silveralso premiumovercertifiedchecks, notsolegoldrun.",
+  "goldsyndicate_scope": "Londoncreditanddeliverytimedlimited; four/fivemonths successfuloutflowrestraint then realremittancedemandexceededability. Notpermanentgoldguarantee.",
+  "author_final_greenback_cost_rhetoric": "Relatedborrowingsalso fiscaldeficit/silverpurchase; noautomaticcausalallocationallcost togreenbacks alone.",
+  "current_law_verified": false,
+  "all_external_Taussig_Noyes_Fisher_reports_andbooks_full_independently_read": false,
+  "all_scan_glyphs_verified": false,
+  "image_sha256": {
+    "228": "5f22f92b456332cc61ca55ddd524899dab01a051b74590939d750d50c34b1296",
+    "232": "82ceca2845dc3d736c6f4721d155fccd258c1ea9e91d8e4af9a935aa981d04c9",
+    "234": "cee40277a2ad778ca0bcfb1a156c77cfcdc9c8b643c5c56f8938da98eaabb555",
+    "235": "2ff281376e2fed10c3ef116591b0553dfde15ffe2ec6d068633e5d8bdd5e8345"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "book_id": "P14",
+  "reviewer": "/root/practical_books",
+  "review_date_local": "2026-10-14",
+  "status": "whole_bound_digital_semantic_review_complete_required_corrections_pending_root_manual_merge",
+  "independent_semantic_qa_scope_completed": true,
+  "final_qualified": false,
+  "author_package": "work/book-experts-v5/index_team/P14",
+  "author_package_unchanged": true,
+  "whole_actual_read_scope": {
+    "original_bound_txt_global_lines": [
+      1,
+      10393
+    ],
+    "numbered_chapters": 39,
+    "additional_author_sections": [
+      "Introduction",
+      "First Series Conclusion"
+    ],
+    "all39_complete_original_sections_and_chinese_dossiers": true,
+    "all62_complete_rule_fields_and_system_prompt": true,
+    "whole_synthesis_and_reader_explainer": true,
+    "embedded_note_markers": 38,
+    "frontmatter": [
+      1,
+      94
+    ],
+    "bridge_between_series": [
+      4442,
+      4446
+    ],
+    "full_endmarker_and_PG_licence": [
+      10043,
+      10393
+    ],
+    "all_new30_full_contexts": true,
+    "six_targeted_official_HTML_layout_contexts": true,
+    "initial_ch27_ch28_tool_truncation_resolved_by_separate_complete_reads": true,
+    "all_original_printed_glyphs_verified": false
+  },
+  "correction_summary": {
+    "body_and_reader_semantic_patches": 26,
+    "count_metadata_patch": 1,
+    "rules_with_field_edits": 60,
+    "rule_field_edits": 134,
+    "prompt_terminology_patch": 1,
+    "old_evidence_preserved": 69,
+    "additional_full_raw_contexts": 30,
+    "proposed_evidence_count": 99
+  },
+  "strict_candidate_counts": [
+    2615,
+    2417,
+    2603,
+    3032,
+    2338,
+    2315,
+    2273,
+    2398,
+    2227,
+    2290,
+    2397,
+    2446,
+    2561,
+    2334,
+    2290,
+    2333,
+    2272,
+    2398,
+    2267,
+    2416,
+    2809,
+    2310,
+    3186,
+    2508,
+    2370,
+    2315,
+    2023,
+    2122,
+    2052,
+    2057,
+    2029,
+    2005,
+    2065,
+    2190,
+    2026,
+    2079,
+    2015,
+    2095,
+    2005
+  ],
+  "strict_candidate_total": 90483,
+  "strict_candidate_minimum": 2005,
+  "additional_author_section_han_total_not_in39total": 4643,
+  "primary_source_urls": [
+    "https://www.gutenberg.org/ebooks/44145",
+    "https://www.gutenberg.org/cache/epub/44145/pg44145.txt",
+    "https://www.gutenberg.org/cache/epub/44145/pg44145-images.html",
+    "https://guides.loc.gov/gutenberg/introduction"
+  ],
+  "source_conflicts_preserved": [
+    "C3approximate land totals/centiares",
+    "C4Gutenberg century",
+    "C6profit denominator/resource-cost distinction",
+    "C26None/omitted13reports",
+    "C34growth360percent/116→417/31−5budget sign and8million gap",
+    "C36game/vegetable inversion",
+    "C39two less-iron claims"
+  ],
+  "scope_limits": [
+    "Bound1873StirlingEnglishtranslation inspected; not French original, not original printed-page/glyph collation. No original print scan acquired.",
+    "Whole digital TXT source10393lines actually reviewed;39original chapters and author introduction/conclusion, front matter, bridge,38embedded note markers and full PG licence covered.",
+    "Six targeted complete official HTML numeric/wording contexts inspected; parser counts are not a claim of reading every HTML tag/prose again.",
+    "Quoted other books/speeches, later Harmonies revisions,13of15omitted industry reports and all historical national statistics not fully acquired or externally verified.",
+    "Printed/digital numerical conflicts retained with separate conditional arithmetic; no modern company feed, independent-model personality, historical profitability, investment backtest, calibration or guaranteed return claimed.",
+    "Author strong/normative assertions retained as author assertions; modern evidence/data gates/refutations separated rather than silently made author premises. Historical biased language is not a permitted modern predictive feature.",
+    "Lawful catalogue US public-domain listing is not a universal legal opinion; actual full bound PG licence inspected."
+  ],
+  "full_reading_completed": false,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "calibrated_probability": false,
+  "artifacts": {
+    "required_findings_sha256": "f5c66b8bf8bee6c54f24833095b7af2bee32c802e3cbc3d3c9f84d9e9173f202",
+    "candidate_expert_sha256": "42fb3052e4555bdaf15e8224e6e5c5750ca33ac58b598e756c50265b75ed3688",
+    "source_additions_sha256": "3e61b186957ecb8d3c361ca5fd3213a04eae40d019143132296284082767ebcf",
+    "mechanical_verification_sha256": "b50e850b6745093d7d37977c85ab82a5fa77a18d1fae1b38c9a837016b1764df",
+    "candidate_draft_hashes": {
+      "chapters/ch01.md": "e76fb76060f5b5e6a0d5befa3edce55c9dcf219f6d971dbdfc538fb971186d38",
+      "chapters/ch02.md": "5f50bba3a1c66bfe87fb3fd780ce26e947984ed7f24bcc205d78505154d36c09",
+      "chapters/ch04.md": "9ea0c25fca2f52bf3b0a102e29e79e056f8618cc648445c863c929194f6c936e",
+      "chapters/ch07.md": "736243673f8796d4613d6c68838e9a868dfe1293cac05c977deeba6aba39a001",
+      "chapters/ch11.md": "1b6295a46d2bb136e9704daacfc87d6189a11b6092797f2883d2a85dd9265282",
+      "chapters/ch12.md": "76dd1913a6ee739d295145c7448709017dd6b61f9c4bd895c056d55d6d734949",
+      "chapters/ch14.md": "f1a46b589152c31d1759f2fbb02203191b20ef116ae945c61ab90c4ceb71a7af",
+      "chapters/ch19.md": "bce40155397d6eda408232fa30adf2569a05b6bfd5a9e15199e8c75f86e1e095",
+      "chapters/ch20.md": "603b33592b7c242eac947b377d66455d04df72f7060d5fff7f35956ff8c32ce4",
+      "chapters/ch21.md": "69d877a57d4cdf7b1044bd62708d5f134154ee28eb98b11eb3c6d08434f01bb8",
+      "chapters/ch22.md": "7c260f13252ece9203fd6a4f6696fbbe3fcd4a894063ed78eed7abbb74444c60",
+      "chapters/ch23.md": "e559c33891e8a661b2596ffc657bd78ff470db139fc051e3f49c924f61a3596c",
+      "chapters/ch24.md": "0ee2e6d466ec465f11feab20c547942d5cd472e2460f867f0650ffc80cd5987b",
+      "chapters/ch25.md": "5c3602462060d0419da9db04d6e93bcc2c895420166f834febbfb807a2c626ed",
+      "chapters/ch35.md": "487b1cd107fe3802e1e3956173cebd64f926cc761ee5ada065dd3efe002230a2",
+      "chapters/ch39.md": "0c60be8724b761295e1c9ca9196f3b4ba06d5cc8d3e746d487ee35e4266ccbc2",
+      "chapters/introduction.md": "e438e6d79c930ab8564a9890ac2005d50676af5785cb739f893fef1c5013d640",
+      "专家说明.md": "15af83a5fff3e80d35bb4afd0bec8bb73011b6533fa94640567e46b67301ac86",
+      "全书综合与前后置页.md": "3dfd19fa6d9134f393bfa1c92c8c79336ef35bedc0967f7acb29d7d383f3273a"
+    }
+  },
+  "next_step": "Root reads and manually merges candidates without early pass; reviewer confirms merged content/source coordinates and final metadata-only hashes afterwards."
+}

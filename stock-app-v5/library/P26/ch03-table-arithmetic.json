@@ -1,0 +1,226 @@
+{
+  "book_id": "P26",
+  "chapter": 3,
+  "all8_original_visible_tables_transcribed_and_checked": true,
+  "tables": [
+    {
+      "name": "initial",
+      "printed_page": 22,
+      "pdf_page_one_based": 32,
+      "historical_Liabilities_side": {
+        "capital": 100000
+      },
+      "historical_Resources_side": {
+        "specie": 100000
+      },
+      "total_each_side": 100000,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "plant",
+      "printed_page": 23,
+      "pdf_page_one_based": 33,
+      "historical_Liabilities_side": {
+        "capital": 100000
+      },
+      "historical_Resources_side": {
+        "plant": 5000,
+        "specie": 95000
+      },
+      "total_each_side": 100000,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "discount90000",
+      "printed_page": 27,
+      "pdf_page_one_based": 37,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "undivided": 1350,
+        "deposits": 88650
+      },
+      "historical_Resources_side": {
+        "loans": 90000,
+        "plant": 5000,
+        "specie": 95000
+      },
+      "total_each_side": 190000,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "withdraw15000",
+      "printed_page": 28,
+      "pdf_page_one_based": 38,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "undivided": 1350,
+        "deposits": 73650
+      },
+      "historical_Resources_side": {
+        "loans": 90000,
+        "plant": 5000,
+        "specie": 80000
+      },
+      "total_each_side": 175000,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "expanded",
+      "printed_page": 28,
+      "pdf_page_one_based": 38,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "surplus": 29000,
+        "undivided": 10000,
+        "deposits": 305000
+      },
+      "historical_Resources_side": {
+        "loans": 305000,
+        "bonds": 23000,
+        "plant": 15000,
+        "other": 20000,
+        "expenses": 1000,
+        "reserve": 80000
+      },
+      "total_each_side": 444000,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "step_a",
+      "printed_page": 37,
+      "pdf_page_one_based": 47,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "surplus": 29000,
+        "undivided": 10300,
+        "deposits": 319775
+      },
+      "historical_Resources_side": {
+        "loans": 325000,
+        "bonds": 23000,
+        "plant": 15000,
+        "other": 20000,
+        "expenses": 1000,
+        "reserve": 75075
+      },
+      "total_each_side": 459075,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "step_b",
+      "printed_page": 37,
+      "pdf_page_one_based": 47,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "surplus": 29000,
+        "undivided": 10300,
+        "deposits": 279775
+      },
+      "historical_Resources_side": {
+        "loans": 275000,
+        "bonds": 13000,
+        "plant": 15000,
+        "other": 20000,
+        "expenses": 2250,
+        "reserve": 93825
+      },
+      "total_each_side": 419075,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    },
+    {
+      "name": "step_c",
+      "printed_page": 38,
+      "pdf_page_one_based": 48,
+      "historical_Liabilities_side": {
+        "capital": 100000,
+        "surplus": 30000,
+        "undivided": 3150,
+        "deposits": 281775
+      },
+      "historical_Resources_side": {
+        "loans": 275000,
+        "bonds": 9000,
+        "plant": 15000,
+        "other": 18000,
+        "reserve": 97925
+      },
+      "total_each_side": 414925,
+      "identity_residual": 0,
+      "old_capital_in_liabilities_not_current_withdrawable_deposit": true
+    }
+  ],
+  "initial_discount90000": {
+    "interest": 1350.0,
+    "net_deposit_created": 88650.0
+  },
+  "step_a": {
+    "face": 20000,
+    "discount_interest": 300.0,
+    "net_deposit": 14775,
+    "cash_paid": 4925
+  },
+  "step_b": {
+    "loans_repaid": 50000,
+    "deposit_cancelled": 40000,
+    "cash_repaid": 10000,
+    "expense_cash": 1250,
+    "bond_sale_cash": 10000
+  },
+  "step_c": {
+    "other_asset_book_removed": 2000,
+    "cash_received": 1500,
+    "loss": 500,
+    "dividend_total": 4000,
+    "dividend_deposit_credited": 2000,
+    "dividend_cash_paid": 2000,
+    "bond_book_removed": 4000,
+    "bond_cash_received": 4600,
+    "bond_profit": 600,
+    "undivided_to_surplus": 1000,
+    "expense_settlement": 2250
+  },
+  "old_statutory_reserves_not_current_parameters": {
+    "city_national_bank": 0.25,
+    "country_national_bank": 0.15
+  },
+  "unpaid_share_capital_not_ready_cash": {
+    "London_Westminster_paid_per100": 20,
+    "London_Joint_Stock_paid_per100": 15
+  },
+  "failure_statistics_not_validated_current_default_probabilities": true,
+  "reserve_to_deposits_not_including_share_capital": [
+    [
+      "discount90000",
+      1.071630005640158
+    ],
+    [
+      "withdraw15000",
+      1.0862186014935507
+    ],
+    [
+      "expanded",
+      0.26229508196721313
+    ],
+    [
+      "step_a",
+      0.2347744507857087
+    ],
+    [
+      "step_b",
+      0.3353587704405326
+    ],
+    [
+      "step_c",
+      0.34752905687161745
+    ]
+  ],
+  "historical_cashitem_classification_conditional": true,
+  "all_numeric_results_are_teaching_example_not_observed_current_bank": true
+}

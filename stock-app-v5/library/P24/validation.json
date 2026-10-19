@@ -1,0 +1,125 @@
+{
+  "book_id": "P24",
+  "status": "new_integrity_verified_and_independent_semantic_QA_passed_with_source_limits",
+  "checks": [
+    {
+      "name": "26_original_chapters_one_independent_book",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_body_atleast2200_no_scaffolding",
+      "passed": true
+    },
+    {
+      "name": "whole_chapter_body_atleast20000",
+      "passed": true
+    },
+    {
+      "name": "394_primary_pages_classified_and_source_page_SHA",
+      "passed": true
+    },
+    {
+      "name": "all26_chapter_source_and_dossier_SHA_readflags",
+      "passed": true
+    },
+    {
+      "name": "whole_published_front_index_ads_read_and_lowOCR_recovered",
+      "passed": true
+    },
+    {
+      "name": "original_primary_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "same1875_alternate_MD5_remote_match",
+      "passed": true
+    },
+    {
+      "name": "reading_PDF394_pages_one_replacement_only",
+      "passed": true
+    },
+    {
+      "name": "replacement339_from_same1875_Michigan341_and_whole_selected_page_actual_read",
+      "passed": true
+    },
+    {
+      "name": "both_originals_unmodified_and_reading_SHA",
+      "passed": true
+    },
+    {
+      "name": "1876_not_finalPDF_and_not_wholebook_count",
+      "passed": true
+    },
+    {
+      "name": "62_rules_cover26_original_chapters",
+      "passed": true
+    },
+    {
+      "name": "159_precise_raw_spans_all_resolve_exact",
+      "passed": true
+    },
+    {
+      "name": "all_sources_have_nonchapter_precise_location_and_hash",
+      "passed": true
+    },
+    {
+      "name": "every_rule_missing_input_abstain",
+      "passed": true
+    },
+    {
+      "name": "author_and_independent_numeric_analysis_separate",
+      "passed": true
+    },
+    {
+      "name": "20_numeric_or_source_issues_preserved",
+      "passed": true
+    },
+    {
+      "name": "knowledge_not_fullglyph_or_QA_pass",
+      "passed": true
+    },
+    {
+      "name": "one_expert_one_book_no_actual_live_backtest_probability",
+      "passed": true
+    }
+  ],
+  "passed_count": 20,
+  "chapter_Han": [
+    2227,
+    2230,
+    2273,
+    2333,
+    2259,
+    2233,
+    2205,
+    2338,
+    2408,
+    2213,
+    2397,
+    2495,
+    2399,
+    2421,
+    2408,
+    2324,
+    2412,
+    2687,
+    2337,
+    2306,
+    2723,
+    2363,
+    2275,
+    2416,
+    2374,
+    2512
+  ],
+  "whole_chapter_Han": 61568,
+  "rules": 62,
+  "precise_spans": 246,
+  "expert_sha256": "92fcf6b1c0d3052fba45157aa664395fab7950ac8a0d8eb467b6942baddd2046",
+  "audit_sha256": "802e3eca1da84837999246fab42fc6be653a92c2b89c9859cfe106e3cfee23f5",
+  "reading_PDF_sha256": "25bf8874f7b47c718f14e84292773fc0698fba314bd8950506775d2b58fe5496",
+  "created_utc": "2026-10-13T00:05:52.753569+00:00",
+  "old_checks_do_not_validate_new_contexts": true,
+  "independent_QA_sha256": "fad7b160aed2d08ed77a3966922bc2e82df6971ed38502864d01aff65adcc723",
+  "new_integrity_checks_passed": 1167
+}

@@ -1,0 +1,200 @@
+{
+  "book_id": "P23",
+  "status": "passed_with_source_limits",
+  "pending_final_peer_hash_confirmation": false,
+  "independent_peer_full_QA": "independent-review/P23-independent-QA.json",
+  "independent_peer_QA_sha256": "0a6cdd9f03b3b7d8f9ebf9a8aa9741fa340336026b1e18e666b3d50b1d1a0e87",
+  "whole_original_semantic_reviewer": "index_books",
+  "root_review_scope": {
+    "book_id": "P23",
+    "reviewer": "root",
+    "scope_complete_for_merge": true,
+    "required_correction_groups_actually_reviewed": [
+      "P23-QA-C01",
+      "P23-QA-C02",
+      "P23-QA-C03",
+      "P23-QA-C04"
+    ],
+    "source_actual_reads": [
+      {
+        "file": "source/ch03.txt",
+        "local_lines_inclusive": [
+          250,
+          554
+        ],
+        "scope": "preceding textile case through whole coal/tin/glass passages and counterfactual conclusion, PDF73–77"
+      },
+      {
+        "file": "source/ch06.txt",
+        "local_lines_inclusive": [
+          981,
+          1195
+        ],
+        "scope": "PDF148–151 complete opposing interests, successful arbitration and continuation"
+      },
+      {
+        "file": "source/appendix1.txt",
+        "scope": "entire original appendix, all33 clauses and continuation across PDF341–345"
+      }
+    ],
+    "all_changed_rule_semantics_actually_read": "Complete non-source semantic fields of R13, R25 and R71; one meaning change only, R25",
+    "source_internal_issues_and_complete_prompt_tensions_cross_challenges_contract_actually_read": true,
+    "actual_native_whole_images_viewed": [
+      142,
+      169,
+      258,
+      283,
+      259,
+      352,
+      356,
+      357
+    ],
+    "specific_native_findings": [
+      "PDF142 original letter date1782 retained",
+      "PDF169 13509tons × GBP22 5s = GBP300575.25 versus printedGBP300375, differenceGBP200.25; no original rewrite",
+      "PDF258 seven firms versus PDF283 six firms originally printed",
+      "PDF259 footnote Appii versus PDF352 actual AppendixIII",
+      "PDF356 locomotive255 and PDF357 UnitedAlkali268 original index entries; index is not substituted for primary正文evidence"
+    ],
+    "peer_all11_original_chapters_dossiers_3appendices_73rules_review_distinct": true,
+    "root_does_not_claim_a_third_entire11chapter_read": true,
+    "262_locators_are_not_certified_individual_complete_natural_paragraphs": true,
+    "original_every_scan_glyph_verified": false,
+    "current_market_model_calls": 0
+  },
+  "root_review_not_a_third_full_book_read": true,
+  "all4_required_correction_groups_merged": [
+    {
+      "id": "P23-QA-C01",
+      "kind": "complete_multi_claim_page_evidence",
+      "rule_id": "P23-R13",
+      "existing_meaning_correct": true,
+      "needed_additional_pdf_pages": [
+        74,
+        75
+      ],
+      "reason": "作者字段明确煤/锡/玻璃三类解除后进入，而旧源页76–77直接支持玻璃与强反事实；煤行会抑制与锡矿放开后的经营/雇工反例在74–75，需补而非靠整章范围冒充三个主张同证。"
+    },
+    {
+      "id": "P23-QA-C02",
+      "kind": "author_claim_strength_and_counterexample_boundary",
+      "rule_id": "P23-R25",
+      "field": "author_meaning",
+      "old_exact": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价，检查与仲裁不能消除分配争执。",
+      "new_exact": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价；检查和仲裁支持配额谈判，但成员对份额与价格差仍有相反利益。",
+      "reason": "PDF149先述相反利益又说仲裁在Durham/Londonderry/Hetton争议有显著效力；不能把有利益张力写成仲裁无法消除任何分配争执的普遍能力定理。保好坏矿利益冲突与仲裁具体有效例，不反过来声称保证消除全部冲突。",
+      "support_pdf_pages": [
+        148,
+        149,
+        150
+      ],
+      "whole_chapter_dossier_change_required": false
+    },
+    {
+      "id": "P23-QA-C03",
+      "kind": "new_selected_original_visual_evidence_not_original_file_replacement",
+      "scope": "PDF142 and169/source-internal issue metadata/QA",
+      "current_new_review_record": "P23-ch06-selected-visual-review.json",
+      "reason": "旧ch06阶段notes写169金额待图核与142年月可待核；本次已实际原图确认1782及13509/22pounds5shillings/300375。不改原数字或旧阶段原源，只把新增目视和复算差200.25的证据追加当前独审/来源限制记录。",
+      "same_edition_glyphs_for_these_specific_values_verified": true,
+      "all_other_glyphs_or_external_original_report_verified": false
+    },
+    {
+      "id": "P23-QA-C04",
+      "kind": "complete_multi_claim_page_evidence",
+      "rule_id": "P23-R71",
+      "existing_meaning_correct": true,
+      "needed_additional_pdf_pages": [
+        343
+      ],
+      "reason": "特定装船困难可提前发量并申诉的第21条在PDF343，原342/344只支持排除外销陆售、重量和超量处罚等；补完整主张证据，不改章稿与作者字段。"
+    }
+  ],
+  "strict_chapter_body_Han": [
+    2740,
+    2818,
+    2659,
+    2699,
+    2439,
+    3616,
+    2364,
+    3085,
+    4490,
+    2233,
+    3027
+  ],
+  "whole_chapter_body_Han": 32170,
+  "minimum_chapter_body_Han": 2233,
+  "rules_count": 73,
+  "precise_page_derived_locating_fragments": 262,
+  "locators_not_claimed_individually_complete_natural_paragraphs": true,
+  "unique_sourcefile_PDF_pages": 234,
+  "complete_unabridged_rule_contexts": 73,
+  "original_source_components": 77,
+  "all_preexisting_source_sha256": {
+    "source/source-manifest.json": "904b01050f4cfe7fc0dafb622f3034720b34bd4bdcbf2e4d6ebceb47d3d9bdfb",
+    "source/1911-full-scan.pdf": "5d237c7d0e8e08df86a651a67f0818a117ada2ab4a9ac8dc3e8bd88335ef5e9c",
+    "source/ch08.txt": "9e862fe244c35ebccb72232bf65a71c846d2e39b485fb42fc6f5c225ff72d253",
+    "source/archive-metadata.json": "008e19d3effb8537dd6711650242bb5522eaf775cc9cca3c91377b70c10ba304",
+    "source/ch09.txt": "1c4825e8d0cb30b6f5042e1db1d16d89dbeddfae16b7980f2e3ceef02b61e045",
+    "source/appendix2.txt": "9e8b9b63559c51e7e8ecb9d4e219f1c686e40926c82cd190022441e974848cbb",
+    "source/appendix3.txt": "2f5398e416e3f640ef733b521ad79ef60ceeb3ad0c36917b54cbfc6e9fccd498",
+    "source/appendix1.txt": "c3671e4175b0a76a71e83210fb7bbf581301ac8cbb6a49500e881e52982394d0",
+    "source/1911-pages.json": "396b54355d42476d690991eb9c125002d104dd0e17bc5014a333ce610fae25f5",
+    "source/index.txt": "4bf23f556fd638c84c5a54350cbc60d1d5af8b3ffc40087dbcc0d5a97528e306",
+    "source/part-dividers.txt": "2001ed15ed2acf1c54b9443b25079d10a3f263c676e8c90c79eac97630dfc13d",
+    "source/1911-layout.txt": "d612b013caf0c66ebe67b56c6fc1cdd8ae1cbb522b662074703bc1a4f796ff58",
+    "source/page-evidence-ledger.json": "a6db878d91eaeaf2f00d950421d88925a745a9b99bd8ef197d036bd7c99a2c93",
+    "source/publisher-ads.txt": "284d7b1306396c104506c02918e51840df6c719d59b9488c476f1556b36a602a",
+    "source/archive-full-OCR.txt": "4d468901ec7ef6ed0e8a806d6b726ffa3b029020423071864bd59507177689c7",
+    "source/source-internal-review.json": "c143f2bd9a81fbfd20df5668c53f645f53ac64796d17a18effa1888df6da551f",
+    "source/nonchapter-reading-audit.json": "3e12386bc050aa0fc82250f00f22ea1ebd94ab4ed4811ad3ffe2a0995007c66d",
+    "source/front.txt": "647f140aa2ff35f862bfca14581de1759573d18f47f93cb0c2f45ec5c3f2625b",
+    "source/ch02.txt": "1a5d94c4a0c8166e912875ba3b864ecd0e993f8643069c8f272e9033291833e5",
+    "source/ch03.txt": "df33aa87e8559a35fb6dfb131b92f15a056440103430dadd681b62b8216c9883",
+    "source/ch01.txt": "7d22c92abe8d5f8b227e725a3d4042490377f8b6b074f98a2e1d8c4909edc12e",
+    "source/ch04.txt": "53770efadf9926572231f61043d420d82802925a82fd2dd3c21fe2df8d0771ce",
+    "source/ch10.txt": "adb4f344692043f2bccda0e2dce1138688a354404a11d27c52a6494177d83b74",
+    "source/ch11.txt": "0f788c0fc63e1dc17e79e459e95c8986246d79e658effd78359a480f34d7e741",
+    "source/ch05.txt": "13310be2b69d1956feefb9e34b85dea21738847f29e5d5b0b9d812ebbc0654de",
+    "source/ch07.txt": "b96c1fc1191eaa119a08b79dcfcb1505ba8ef72cf73174594a340b4e9cbc4040",
+    "source/ch06.txt": "719d5f4488b66d7f08a4ac578ccf389c63f1141fd894bec33fc1fdce1de72d2e"
+  },
+  "all_original_chapter_dossier_sha256": {
+    "ch01.md": "883af17f658d1b1ee2a1418f319ed6f9ad3005d13ab1fb59af8e4ebc1a867bae",
+    "ch02.md": "840b260d4b70136b9b009191912b99c4f638d751eac6760e1acb28ad11f6a553",
+    "ch03.md": "4d29051cfc2f531fc53771110f094cab59e65bfac40e8033d1b7a89e8820ee62",
+    "ch04.md": "a8bd340a0c6e55886c1acfc4e7f170a61f9bf7779ca0e8a80fcbe19d9622cb9a",
+    "ch05.md": "7bb9b37904be72c2e8c4cc5bcd26fcadb7b546c3d5f4ffe0adb8f97961b9ab33",
+    "ch06.md": "79352379673d96267f0b7ddfda9cac8eccc2cb99703375a9b4808cdceb62241c",
+    "ch07.md": "533cbf06e3abb337df168aa4bc10c45bf6228bf4e87944f6f86f3c832c321cb9",
+    "ch08.md": "4330e49b5ca5838cc0c06c67c6b8b5ca0f1d53714fac6d7210184f2eb777e3e2",
+    "ch09.md": "314d4fe5fbbe92a06a1da40137d32f500fbf36ff4000842ee58a27b981d73fa6",
+    "ch10.md": "a9682cffe4a8fb7bb82eb765e8fbe3216b20d3a83dcf24aa3d67805d6ca9ad9f",
+    "ch11.md": "2efee13ea1ec3ca0fddc882e562b72614dd84e4d027a827fadea9eec2d21658b"
+  },
+  "whole_chapter_assembly_sha256": "346dca20130e6e1028c0c8df384c07fb9b7f79d3f3661527d84a363646a9871e",
+  "only_nonsource_rule_semantic_delta": [
+    {
+      "rule_id": "P23-R25",
+      "field": "author_meaning",
+      "old": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价，检查与仲裁不能消除分配争执。",
+      "new": "好矿要大份额与轻罚，差矿要限制好煤并抬相对价；检查和仲裁支持配额谈判，但成员对份额与价格差仍有相反利益。"
+    }
+  ],
+  "expert_sha256": "95fab05bf642fbf353124b58c560b76dd68682b1391b2a426afd2f2f8b491932",
+  "audit_sha256": "20afdd32f66a73794688e0b1979284e6af24a9bd4f987d9bb27e6b736b852a7b",
+  "all_original_scan_glyphs_verified": false,
+  "all_historical_numbers_verified": false,
+  "alternate_IA_OCR_separately_full_read": false,
+  "external_original_cited_reports_all_whole_read": false,
+  "current_market_calls": 0,
+  "backtest_executed": false,
+  "probability_calibrated": false,
+  "created_utc": "2026-10-13T17:38:15.171602+00:00",
+  "final_qualified": true,
+  "merged_content_confirmation_file": "independent-review/P23-merged-content-confirmation.json",
+  "merged_content_confirmation_sha256": "bea40ad996bb1b7482f5d2981ab63e4b7643fb602c78a6404d041c647527636d",
+  "external_current_hash_confirmation_artifact_required": true,
+  "status_metadata_closed_by_root_utc": "2026-10-13T17:43:50.707122+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "book_id": "P27",
+  "metadata_only_sync": true,
+  "all72_rule_semantics_and101_fragments_unchanged_by_metadata_sync": true,
+  "source_and16_chapter_drafts_unchanged_by_metadata_sync": true,
+  "review_before_metadata_hashes": {
+    "expert-definition.json": "6ddc841794efe70bce7ac1bafd9a32af16077c7b6a875e30cb3f59b0b413f847",
+    "source-fragments.json": "bdcda38552a03c0cefe56fab1a45863ccdaa04780bc3890cef3e6e8a81d89aed",
+    "reading-audit.json": "ebf82dada1cf2e575116bc7be785c97a1528e2c196376467baa8a4202f566941",
+    "self-validation.json": "fdbfa512aa16feb0e8de88515f17c58a36cce3ec76c6baf162979ceb5d99194f",
+    "全书逐章深读.md": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86",
+    "全书综合与附录.md": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1",
+    "专家说明.md": "e51396518dd4505a35acbe9217c011e1975f8d3fbb840abad3d23c1b23352b2c"
+  },
+  "final_hashes": {
+    "expert-definition.json": "fe845dd277075d50aebea85e1b1f7118e6b0d21e77d1bf7e6fc6fc3f1934965b",
+    "source-fragments.json": "bdcda38552a03c0cefe56fab1a45863ccdaa04780bc3890cef3e6e8a81d89aed",
+    "reading-audit.json": "85ed66aff546722e0cfedf41b6a36e8b26ea4aef7c2de770a321643ebc0e17f3",
+    "self-validation.json": "7e8594b211440ba5fd6694a38f82bbf4bf625593510e5042f2ac6eafda8f1d04",
+    "independent-QA.json": "ab808f9c0e9033786e84232d7b4bcdb671352cf3ee42349b89a3f2eaad380ea7",
+    "全书逐章深读.md": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86",
+    "全书综合与附录.md": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1",
+    "专家说明.md": "e51396518dd4505a35acbe9217c011e1975f8d3fbb840abad3d23c1b23352b2c"
+  },
+  "hash_cycle_avoided": "Immutable QA records pre-metadata snapshot; separate sync log records final hashes.",
+  "remaining_reader_status_text": "Expert description still says pending and describes original72+6 spans; parent can refresh status/count prose without altering semantic body.",
+  "author_finalizer_rerun": false,
+  "goal_tools_called": false
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "issue": "WACCweight24vs24_4",
+    "page": 513,
+    "original": "text24.4%,formula24%with75.6%,sum99.6%;11.33/11.97",
+    "correction": "exactmarketweights4.85/19.85,15/19.85;retainfullprecisionandnormalize"
+  },
+  {
+    "issue": "Bluebonnetprice15vs12_50",
+    "pages": [
+      509,
+      512,
+      513
+    ],
+    "correction": "DDMcost14.24derivedprice12.5 whilestructure15,cannotcallsamemarketdateconsistentWACC withoutchangingweights"
+  },
+  {
+    "issue": "YTMisnotexistingcouponcash",
+    "pages": [
+      510,
+      511
+    ],
+    "original": "coupon6%,theninterestcashper1000borrow63.12",
+    "correction": "existingface1000annualcoupon60;6.312%nominalYTMopportunitycostnotactualcoupondeduction;effectiveannualdistinct/defaultreinvestconditions"
+  },
+  {
+    "issue": "Greene7_2vs7_02",
+    "page": 524,
+    "original": "given7.2% formula.0702 yielding9.47%",
+    "correction": "given.072correctaftertaxweighteddebt2.2752%,WACC~9.53%;13.06missingpercentunit"
+  },
+  {
+    "issue": "AMWflotation075_vs065",
+    "pages": [
+      527,
+      528
+    ],
+    "original": "question.75thenprose.65thenformula.75",
+    "correction": "bothscenarioscomputed;sourceformula.75matchesinitialgiven"
+  },
+  {
+    "issue": "Newequitydecimal0_09_vs9_65pct",
+    "page": 527,
+    "correction": "0.0964516approx9.65%,not.09"
+  },
+  {
+    "issue": "TshirtfuturecashandNPVscope",
+    "pages": [
+      516,
+      517
+    ],
+    "original": "futurestockcash45614 vsactualyear1cash52000;ValueBusinessPVminus40k",
+    "correction": "PV45614/NPV5614distinct;futurecash52000;subtractstartupoutlaynotfirmassetvalue"
+  },
+  {
+    "issue": "Taxshieldvaluevsflow",
+    "page": 520,
+    "original": "firmvalueexceedsbyamountinteresttaxshield",
+    "correction": "valueincrementrequiresPVexpectedusabletaxsavingsnotannualundiscounted78.4;rateandcontinuitynotgiven"
+  },
+  {
+    "issue": "Interestdeductibilitynotunlimited",
+    "pages": [
+      510,
+      519,
+      521,
+      529,
+      532
+    ],
+    "correction": "bookfullmarginaldeductionassumption;IRS163jlimits,carryforwards/exceptions/ATIyearmustverified beforeactualWACC",
+    "primary_url": "https://www.irs.gov/newsroom/questions-and-answers-about-the-limitation-on-the-deduction-for-business-interest-expense",
+    "primary_read_lines": [
+      99,
+      249
+    ]
+  },
+  {
+    "issue": "MMperfectmarketassumptions_notreal100pctdebtrecommendation",
+    "pages": [
+      517,
+      518,
+      519
+    ],
+    "correction": "debtservicefloorinclinterest;18000/1.04thresholdnot18000principal;tablefuturedebtcostassumednotestimated;finiteoneperiodperfectno-taxcomparisononly"
+  },
+  {
+    "issue": "Netdebtcashscope/bookmarketmixed",
+    "page": 516,
+    "correction": "restrictcash/operatingcash/casheq maturitycriteria;negativeNetDebtnoautomaticnegativeWACCweight;Apple2020historicalnotcurrentinput"
+  },
+  {
+    "issue": "Betaaverage/historysensitivity",
+    "pages": [
+      514,
+      515,
+      522,
+      523
+    ],
+    "correction": "marketvalueweightedportfolio beta1notunweightedallfirms;historical2020/2021sectorbetasnotcurrentrisk;19industryfullunroundedbetasnotgiven"
+  },
+  {
+    "issue": "Preferredandconvertiblegeneralizations",
+    "pages": [
+      524,
+      528,
+      530
+    ],
+    "correction": "preferredtermsvary;conversionnotnecessarilyonlymaturity/fixedratio;nonnegativechoicevaluecanzero;lowercouponsnotfreesavingorproofsameexactWACC",
+    "primary_url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/convertible-securities",
+    "primary_read_lines": [
+      151,
+      169
+    ]
+  },
+  {
+    "issue": "Flotation/opportunitycostvsaccounting",
+    "pages": [
+      525,
+      526,
+      527,
+      529,
+      532
+    ],
+    "correction": "retainedequitynotfree;marketvaluenotautomaticallybookNIincrease;oneofffeesnotpermanentdiscountallfuturecashandalsoexpensewithoutdoublecount;mostexpensivecomparisonnotuniversalallissuers"
+  },
+  {
+    "issue": "ExternalNetflixsizeandwebvideos historical/missing",
+    "pages": [
+      521,
+      533
+    ],
+    "correction": "book2022narrativeonlynotcurrentlargestverified;filmsfullworkbooksnotread;printedvideo2 missingcompanyweights/costsunknown cannotinventabsoluteWACC"
+  }
+]

@@ -1,0 +1,599 @@
+{
+  "all4tables": {
+    "121": {
+      "columns": [
+        "security",
+        "maturity",
+        "minimum",
+        "issuer"
+      ],
+      "all5rows": [
+        [
+          "Tbill",
+          "4–52weeks",
+          10000,
+          "Federalgovernment"
+        ],
+        [
+          "Commercialpaper",
+          "270days",
+          100000,
+          "Business"
+        ],
+        [
+          "NegotiableCD",
+          "6months",
+          100000,
+          "Financialinstitutions"
+        ],
+        [
+          "Moneymarketmutualfund",
+          null,
+          null,
+          "Investmentcompanies"
+        ],
+        [
+          "Federalfunds",
+          "1day",
+          1000000,
+          "Financialinstitutions"
+        ]
+      ],
+      "blank_MMMF_cells_retained": true,
+      "Tbill_currentminimum100_separatelynoted": true
+    },
+    "122": {
+      "columns": [
+        "Fitch",
+        "Moody",
+        "SP",
+        "category",
+        "risk"
+      ],
+      "all7rows": [
+        [
+          "AAA",
+          "Aaa",
+          "AAA",
+          "investment",
+          "low"
+        ],
+        [
+          "AA",
+          "Aa",
+          "AA",
+          "investment",
+          "low"
+        ],
+        [
+          "A",
+          "A",
+          "A",
+          "investment",
+          "low"
+        ],
+        [
+          "BBB",
+          "Baa",
+          "BBB",
+          "investment",
+          "medium"
+        ],
+        [
+          "BB",
+          "Ba",
+          "BB",
+          "junk",
+          "high"
+        ],
+        [
+          "B",
+          "B",
+          "B",
+          "junk",
+          "high"
+        ],
+        [
+          "CCC",
+          "Caa",
+          "CCC",
+          "junk",
+          "highest"
+        ]
+      ],
+      "riskwords_notcalibrateddefaultprobability": true
+    },
+    "123": {
+      "columns": [
+        "series",
+        "1980",
+        "2000",
+        "2020",
+        "original_averageannual_pct"
+      ],
+      "all6rows": [
+        [
+          "tuition",
+          70.8,
+          331.9,
+          877.3,
+          6.49
+        ],
+        [
+          "rent",
+          80.9,
+          183.9,
+          341.5,
+          3.67
+        ],
+        [
+          "usedcars",
+          62.3,
+          155.8,
+          144.2,
+          2.12
+        ],
+        [
+          "groundbeef",
+          104.6,
+          125.2,
+          296.2,
+          2.64
+        ],
+        [
+          "butter",
+          89.4,
+          135.9,
+          248.7,
+          2.59
+        ],
+        [
+          "CPI",
+          82.4,
+          172.2,
+          258.8,
+          2.9
+        ]
+      ],
+      "independent_endpoint_CAGR40_pct": {
+        "tuition": 6.494669920152996,
+        "rent": 3.6659315534547154,
+        "usedcars": 2.12026434728001,
+        "groundbeef": 2.6363819458582904,
+        "butter": 2.5908095002803666,
+        "CPI": 2.902500118702256
+      },
+      "independent_2000to2020_CAGR20_pct": {
+        "tuition": 4.980114920026812,
+        "rent": 3.1431638407243057,
+        "usedcars": -0.3861122054253041,
+        "groundbeef": 4.399648454256622,
+        "butter": 3.067754997205796,
+        "CPI": 2.0578831836457034
+      },
+      "source_annualfullseries_notprovided_arithmetic_vsgeometric_cannotfullyverify_original": true
+    },
+    "124": {
+      "period": [
+        1981,
+        2020
+      ],
+      "measure": "explicit arithmetic average annual nominal return / standard deviation",
+      "all5rows_percent": [
+        [
+          "largecompanystocks",
+          12.64,
+          16.06
+        ],
+        [
+          "BAAbonds",
+          10.34,
+          7.67
+        ],
+        [
+          "10yearT",
+          8.21,
+          9.92
+        ],
+        [
+          "Tbill",
+          3.94,
+          3.39
+        ],
+        [
+          "inflation",
+          2.93,
+          1.76
+        ]
+      ],
+      "notCAGR_or_forwardprobability": true
+    }
+  },
+  "all15figures": {
+    "121": "chaptercover",
+    "122": {
+      "original_caption": "Daily Trading Volume in US T-Notes and T-Bonds 2001–2020",
+      "horizontal": [
+        2001,
+        2020
+      ],
+      "vertical_ticks": [
+        0,
+        2000,
+        4000,
+        6000,
+        8000,
+        10000,
+        12000,
+        14000,
+        16000
+      ],
+      "vertical_amount_unit_not_labeled": true,
+      "notes_bonds_stacked_colors_seen": true,
+      "nearby2020_outstanding_trillions": [
+        11.1,
+        2.8
+      ],
+      "caption_metric_vs_scale_and_nearby_balance_conflict": true,
+      "fullprecision_rawdata_unknown_not_inferred_from_graph": true
+    },
+    "123": {
+      "IPOthreeboxes_SEC_underwriter_initialpurchasers_seen": true,
+      "schematic_not_actualdeal": true
+    },
+    "124": {
+      "flow": "customer placesorder tobroker thenwholesaler",
+      "sellpath": "wholesaler returnsproceeds broker thenbrokercreditscustomer",
+      "no_guaranteed_quotedprice_orrebate_inferred": true
+    },
+    "125": {
+      "all8labels": [
+        "Food and beverages",
+        "Housing",
+        "Apparel",
+        "Education and communication",
+        "Transportation",
+        "Other goods and services",
+        "Recreation",
+        "Medical care"
+      ],
+      "weights_not_shown": true
+    },
+    "126": {
+      "CPI_graph_1984to2020_seen": true,
+      "exactannualpoints_notprovided": true,
+      "author_100to260_illustration": "indexbase1982to1984=100;notexact1984annualindex",
+      "author_averageannual2_55_not_recomputed_withoutseries": true
+    },
+    "127": "Yellenportrait",
+    "128": {
+      "period": [
+        1980,
+        1999
+      ],
+      "arithmeticaverage_pct": 10.21,
+      "highest_year_return": [
+        1982,
+        32.81
+      ],
+      "lowest_year_return": [
+        1999,
+        -8.25
+      ],
+      "unlabeled_otherbars_not_digitized_as_exactdata": true
+    },
+    "129": {
+      "period": [
+        2000,
+        2020
+      ],
+      "arithmeticaverage_pct": 5.77,
+      "highest_year_return": [
+        2008,
+        20.1
+      ],
+      "lowest_year_return": [
+        2009,
+        -11.12
+      ],
+      "otherbars_noexactdata": true
+    },
+    "1210": {
+      "period": [
+        1980,
+        1999
+      ],
+      "arithmeticaverage_pct": 12.07,
+      "highest_year_return": [
+        1982,
+        29.05
+      ],
+      "lowest_year_return": [
+        1980,
+        -3.32
+      ],
+      "otherbars_noexactdata": true
+    },
+    "1211": {
+      "period": [
+        2000,
+        2020
+      ],
+      "arithmeticaverage_pct": 8.04,
+      "highest_year_return": [
+        2009,
+        23.33
+      ],
+      "lowest_year_return": [
+        2008,
+        -5.07
+      ],
+      "otherbars_noexactdata": true
+    },
+    "1212": {
+      "start100_begin1980_end2020": [
+        1931,
+        4506
+      ],
+      "lines_all_seen_not_rawannualvalues": true,
+      "CAGR41_annualperiods": [
+        0.07488138872821337,
+        0.09732777107152213
+      ],
+      "if40periods_alternative_notchosen": [
+        0.0768235794890555,
+        0.0998786696197389
+      ]
+    },
+    "1213": {
+      "original_caption_period": [
+        1928,
+        2020
+      ],
+      "all_original_yearlabels_bottomtotop_by_bins": [
+        [
+          1931
+        ],
+        [
+          1937,
+          2008
+        ],
+        [
+          2002,
+          1930,
+          1974
+        ],
+        [
+          1957,
+          1940,
+          2001,
+          1941,
+          1973
+        ],
+        [
+          1939,
+          1934,
+          1953,
+          1990,
+          2018,
+          1981,
+          1977,
+          1969,
+          1929,
+          1946,
+          1932,
+          1962,
+          2000,
+          1966
+        ],
+        [
+          1993,
+          1992,
+          1956,
+          1978,
+          1984,
+          1987,
+          1948,
+          2007,
+          1947,
+          2005,
+          1970,
+          2011,
+          2015,
+          1994,
+          1960
+        ],
+        [
+          1942,
+          1944,
+          1972,
+          1979,
+          1986,
+          1949,
+          1952,
+          2020,
+          1988,
+          1964,
+          2012,
+          2006,
+          2010,
+          1971,
+          2014,
+          1965,
+          1959,
+          2016,
+          1968,
+          2004
+        ],
+        [
+          1938,
+          2003,
+          1998,
+          1961,
+          2009,
+          1943,
+          1976,
+          1967,
+          1951,
+          1996,
+          1963,
+          1983,
+          2017,
+          1999
+        ],
+        [
+          1995,
+          1975,
+          1945,
+          1997,
+          1955,
+          2013,
+          1936,
+          1980,
+          1989,
+          1985,
+          2019,
+          1950,
+          1991
+        ],
+        [
+          1933,
+          1935,
+          1928,
+          1958
+        ],
+        [
+          1954
+        ]
+      ],
+      "binbounds_percent": [
+        [
+          -50,
+          -40
+        ],
+        [
+          -40,
+          -30
+        ],
+        [
+          -30,
+          -20
+        ],
+        [
+          -20,
+          -10
+        ],
+        [
+          -10,
+          0
+        ],
+        [
+          0,
+          10
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          20,
+          30
+        ],
+        [
+          30,
+          40
+        ],
+        [
+          40,
+          50
+        ],
+        [
+          50,
+          60
+        ]
+      ],
+      "bin_counts": [
+        1,
+        2,
+        3,
+        5,
+        14,
+        15,
+        20,
+        14,
+        13,
+        4,
+        1
+      ],
+      "total_year_labels": 92,
+      "missing_from_original": [
+        1982
+      ],
+      "duplicates": [],
+      "not_inserted_external_1982_return": true,
+      "precise_annual_returns_notprinted": true,
+      "text_since1900_conflictscaption1928": true
+    },
+    "1214": {
+      "original_initial_approx100_begin1928": "approximate",
+      "final2020_labels": {
+        "SP500": 592868,
+        "BAA": 53736,
+        "T10year": 8921,
+        "inflation": 1497
+      },
+      "y_ticks": [
+        0,
+        10,
+        100,
+        1000,
+        10000,
+        100000,
+        1000000
+      ],
+      "axis_appearslogarithmic_with_zero_bottom_label": true,
+      "stocks_to_Tbond_ratio": 66.45757202107387,
+      "conditional_CAGR_100exact_93periods": {
+        "SP500": 0.09791682626341269,
+        "BAA": 0.06993573235590578,
+        "T10year": 0.0494752200743096,
+        "inflation": 0.02952475459478765
+      },
+      "noexactannualdata_reconstructed": true
+    },
+    "1215": {
+      "Buffettportrait_only": true,
+      "review20_misreferences_thisfigure_for_growthvalue_performance_chart": true
+    }
+  },
+  "independent_arithmetic": {
+    "Dec2020Tbillissued1591_1_retired1570_6_bn_net": 20.5,
+    "US50_8tn_ofworld90tn_pct": 56.44444444444444,
+    "SP33_4tn_ofUS50_8tn_pct": 65.74803149606299,
+    "SPAC89completed_of223_pct": 39.91031390134529,
+    "SPAC_completed_return_original_pct": {
+      "mean": -18.8,
+      "median": -36.1,
+      "otherIPO_aftermarket": 37.2
+    },
+    "SPAC_samples_horizon_and_pending_notmatched": true,
+    "T1980to1999_highlow_range_pp": 41.06,
+    "BAA1980to1999_premium_pp": 1.8599999999999994,
+    "BAA2000to2020_premium_pp": 2.2699999999999996,
+    "original_latter_prose2_30_pp": 2.3,
+    "difference_original_vs_graph_premium_pp": 0.03000000000000025,
+    "Wilshire1980to2020_smalllarge_premium_basispoints": 31.00000000000005,
+    "1926to2019_other_smalllarge_premium_basispoints": 175.99999999999997,
+    "miss5bestdays_wealth_loss_pct": 37.998569013551354,
+    "miss10bestdays_wealth_loss_pct": 55.066308585488535,
+    "initial10000_bestdays_original_wealth": [
+      697421,
+      432411,
+      313377
+    ],
+    "selection_was_hindsight_no_actualtimingpolicytest": true
+  },
+  "all5MC_21review_4videoquestiontexts_read": true,
+  "Problems_section_notpresent": true,
+  "original_historicalseries_not_external_primary_data_verified": true
+}

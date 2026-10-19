@@ -1,0 +1,735 @@
+{
+  "book_id": "P32",
+  "status": "passed_with_source_limits",
+  "qualified_pass": true,
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "peer_QA_file": "source-review/independent-peer-QA/P32-independent-QA.json",
+  "peer_review_time_QA_sha256": "967432bb2bc583c573825c4f7e6a016d6b66982a49522e63f62cb716ac4fc9a5",
+  "peer_full10_original_chapters_all129notes_complete_report_front_back_all52rules_actually_reviewed": true,
+  "root_actual_review_scope": {
+    "book_id": "P32",
+    "reader": "root",
+    "full_original_book_source_dossiers_rules_front_back_independent_reviewer": "value_books",
+    "root_did_not_reread_all10_original_chapters_or_complete_Hughesreport": true,
+    "whole_changed_Chinese_dossiers_actually_read": [
+      4,
+      8,
+      9,
+      10
+    ],
+    "whole_synthesis_and_explainer_actually_read": true,
+    "all11_changed_rule_semantic_field_diffs_actually_read": [
+      "P32-R12",
+      "P32-R21",
+      "P32-R23",
+      "P32-R25",
+      "P32-R33",
+      "P32-R35",
+      "P32-R37",
+      "P32-R40",
+      "P32-R41",
+      "P32-R42",
+      "P32-R47"
+    ],
+    "updated_R33_full_semantics_and_root_added_condition_patch_actually_read": true,
+    "complete_changed_original_paragraphs_actually_read": [
+      "P32-10-P020",
+      "P32-10-P029",
+      "P32-10-P037",
+      "P32-10-P038",
+      "P32-10-P041",
+      "P32-10-P043",
+      "P32-10-P044",
+      "P32-10-P045",
+      "P32-10-P046",
+      "P32-4-P019",
+      "P32-4-P020",
+      "P32-6-P013",
+      "P32-6-P014",
+      "P32-6-P016",
+      "P32-6-P021",
+      "P32-6-P028",
+      "P32-6-P029",
+      "P32-6-P044",
+      "P32-7-P064",
+      "P32-7-P065",
+      "P32-7-P066",
+      "P32-7-P067",
+      "P32-7-P068",
+      "P32-7-P069",
+      "P32-7-P070",
+      "P32-7-P071",
+      "P32-7-P072",
+      "P32-7-P073",
+      "P32-7-P074",
+      "P32-7-P075",
+      "P32-7-P076",
+      "P32-7-P077",
+      "P32-8-P040",
+      "P32-9-P017",
+      "P32-9-P052",
+      "P32-9-P056",
+      "P32-9-P059",
+      "P32-A-P057",
+      "P32-A-P058",
+      "P32-A-P060",
+      "P32-A-P062",
+      "P32-A-P066",
+      "P32-A-P101",
+      "P32-A-P102",
+      "P32-A-P103",
+      "P32-F106-P001",
+      "P32-F109-P001",
+      "P32-F63-P001"
+    ],
+    "original_images_actually_viewed": [
+      98,
+      99,
+      100,
+      418,
+      419,
+      436,
+      437,
+      450,
+      451
+    ],
+    "source_year_currency_fraction_and_attribution_changes_compared_with_original_context": true,
+    "new_R33_same_class_public_special_settlement_clock_checked_against_complete_body_and_note109": true,
+    "all_source_crlf_segments_mechanical_validation_not_a_third_full_book_read": true,
+    "all_original_scan_glyphs_verified": false,
+    "current_models_or_investment_experiments": 0,
+    "predictive_calibration": false,
+    "recorded_utc": "2026-10-13T15:21:41.900677+00:00"
+  },
+  "required_findings_merged": [
+    {
+      "type": "source_coordinate_file",
+      "candidate": "Original global lines refer to source/original.txt, current source_file is chapter subset. Preserve scope as navigation and add exact original.txt line/char/byte/SHA + full continuous chapter discourse.",
+      "status": "all52_rules_201_exact_candidate_contexts_and_continuous_units_completed"
+    },
+    {
+      "rule_id": "P32-R04",
+      "candidate": "Boundary mentions ch8 floor broker cannot predict; add its direct source only after actual full ch8 review.",
+      "status": "actual_full_ch08_review_complete_and_three_direct_contexts_added"
+    },
+    {
+      "file": "source/footnotes-ledger.json",
+      "candidate": "Whole-footnote original_txt_lines upper bound is exclusive (F1[9725,9728], F2starts9728); label explicitly. Rule paragraph ledger uses inclusive end; do not mix coordinate conventions.",
+      "scope": "All129 footnotes actually read; all line-range end conventions validated"
+    },
+    {
+      "id": "P32-page-anchor-01",
+      "affected": [
+        "P32-R08",
+        "P32-R09",
+        "P32-3-P023",
+        "P32-3-P024",
+        "P32-F34-P001"
+      ],
+      "finding": "Original1914 complete scan PDF98/printed86 starts borrowed100 andN34,PDF99/87 finishes price1%/returncollateral/N34; PDF100/88 is watercarrierNapoleon,notreturn. ExistingHTML-derived printed87–88/PDF99–100 onepage late. Keep previous navigation labelled, precise originalimage pages98–99,printed86–87;P024only99/87;N34start98/86through99/87.",
+      "direct_original_images": [
+        "P32-images/pdf98.png",
+        "P32-images/pdf99.png",
+        "P32-images/pdf100.png"
+      ],
+      "no_whole_scan_glyph_verification": true
+    },
+    {
+      "id": "P32-wording-01",
+      "file": "ch04.md",
+      "old": "还可动用客户经纪的本行存款",
+      "candidate_new": "还可动用经纪在本行的存款",
+      "reason": "Original P020 says any deposit the broker may have in the institution; eliminate ambiguous reading that bank directly sweeps end-customer deposits."
+    },
+    {
+      "id": "P32-attribution-01",
+      "rules": [
+        "P32-R12"
+      ],
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "圣保罗1000股120：客户15000、银行96000、经纪9000，银行20%缓冲不同客户12.5%。",
+      "candidate_new": "圣保罗1000股每股120的例中，客户付15000、银行贷96000、经纪补9000；借据授权抵押保证降至20%以下可出售。",
+      "independent_analysis_addition": "客户初始款占买价12.5%、客户加经纪资本为24000及20%，是本次独立复算，非作者直接写出的客户百分率；不作现代保证金标准。",
+      "reason": "Keep author directly supplied numbers versus our derived12.5% separate; all raw values unchanged."
+    },
+    {
+      "id": "P32-wording-02",
+      "rules": [
+        "P32-R21"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者以证券先跌及NYSE抵押贷款收缩对照全国扩张，认为提前警报并非主因。",
+      "candidate_new": "作者以证券先跌及纽约市银行以交易所证券抵押的贷款收缩，对照全国贷款扩张，认为市场提前警报而非危机主因。",
+      "reason": "Avoid ambiguous institutionNYSE borrowing; sourceP013 is NewYorkCitybankloans secured by StockExchangecollateral."
+    },
+    {
+      "id": "P32-unit-01",
+      "rules": [
+        "P32-R23"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者列建设许可/抵押扩张与铁路新增毛净收益比例40→不足10及资本难筹。",
+      "candidate_new": "作者列建设许可及抵押扩张、铁路新增净收益与新增毛收益之比由约40%降至不足10%，以及资本难筹。",
+      "reason": "Explicit percent and numerator direction for ratio of net to gross in matter increasedearnings; notlevelnetprofitmargin."
+    },
+    {
+      "id": "P32-wording-03",
+      "rules": [
+        "P32-R25"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "1913不改所有权知情订单、适当充分押款及客户券规定，三月设商业行为委员会。",
+      "candidate_new": "1913年禁止会员给出或明知执行不改变所有权的订单，另列适当充分保证金及客户券使用规定，并于三月设商业行为委员会。",
+      "reason": "Keep distinctgiveversuswithknowledgeexecute conditions and adequate margin notfixed20%; wholeactual rulecontexts appended."
+    },
+    {
+      "id": "P32-wording-04",
+      "file": "ch08.md",
+      "old": "一百万财富三分之一、两百万持有人在此重引",
+      "candidate_new": "全国财富约三分之一、两百万持有人在此重引",
+      "reason": "P040 original one third of our nation’s wealth, not one million wealth; keep link to first-chapter43/130 and holderdedup caution."
+    },
+    {
+      "id": "P32-coverage-wording-01",
+      "file": "ch08.md nonbody original reading range header",
+      "old": "按五个15000字符段及60000–76170最后段无隙全读",
+      "candidate_new": "原写作的全文覆盖记录另以审计中的实际批次为准；本次独审按0–13000、13000–26000、26000–39000、39000–52000、52000–65000、65000–76170无隙对读。",
+      "reason": "Old prose wrongly says five15000parts plus laststarting60000; use actual own6batches without claiming an unverified originalauthor readingbatch sequence."
+    },
+    {
+      "id": "P32-translation-01",
+      "file": "ch09.md",
+      "old": "匹配厂",
+      "candidate_new": "火柴厂",
+      "reason": "Original Sao Paulo Match Factories manufactures matches, not matching."
+    },
+    {
+      "id": "P32-wording-05",
+      "file": "ch09.md",
+      "old": "纽约多为本土铁工",
+      "candidate_new": "纽约多为本国铁路与工业公司",
+      "reason": "Original home rails and industrial companies notironworking-onlyindustry."
+    },
+    {
+      "id": "P32-wording-06",
+      "rules": [
+        "P32-R33"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者赞六个月缓出卖产权所得股，注109允许重组/合并或无现金公众股例外。",
+      "candidate_new": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+      "reason": "Rule150 does not necessarily apply rather than guaranteedexemption; preserve originalqualification andspecialsettlementmeaning.",
+      "refined_by_finding": "P32-settlement-condition-01"
+    },
+    {
+      "id": "P32-wording-07",
+      "file": "ch10.md",
+      "old": "他认为此辩护无法回答",
+      "candidate_new": "作者认为维达的上述批评难以反驳",
+      "reason": "Unanswerable argument describes Vidal critique of monopoly, not an unanswered pro-monopoly defense; clarify pronoun referent."
+    },
+    {
+      "id": "P32-wording-08",
+      "rules": [
+        "P32-R35"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者纠正会员非法律强制担同事债，治理体实践自愿从公款支持。",
+      "candidate_new": "作者纠正会员并非依法必须承担同事负债；交易所治理体在实践中自愿从协会共同基金支付违约会员的负债。",
+      "reason": "Source general funds of chambre syndicale not government public money; retain voluntary versus mandatory distinction."
+    },
+    {
+      "id": "P32-attribution-02",
+      "rules": [
+        "P32-R37"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者赞银行支持俄债及可转让证券分散收入，原总155bn与65+67+18口径未解。",
+      "candidate_new": "作者称俄国债买者因大银行支持而处安全位置，并援引奈马克关于可转让证券分散收入、形成金融民主的论述；所列巴黎总额为1550亿法郎，三分项为650亿、670亿和180亿。",
+      "independent_analysis_addition": "显示三分项合1500亿，比所列1550亿少50亿；原图确认原数，是否不同时间或范围仍未解。此为本次独立核算，不是作者自己揭示的问题；银行支持亦非自动法定担保，所有权分散需实际数据。",
+      "reason": "Do not attribute our unresolved arithmetic review to original author; preserve his strong safe claim and Neymarck quoted voice separately."
+    },
+    {
+      "id": "P32-wording-09",
+      "rules": [
+        "P32-R41"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告称未经客户允用于自利或超过未付购价质押是转换，另建议不当卖客券属盗窃。",
+      "candidate_new": "报告称未经客户同意，把客户证券用于自身利益或以超过未付购价的金额质押，依当时法律构成侵占（conversion）；另建议立法把客户未违约时擅卖其已全付或部分付款证券、或为自身利益处分，列作盗窃。",
+      "reason": "Legal conversion is wrongful appropriation, not ordinary transformation; preserve existing-law versus proposed-larceny distinction and default exception."
+    },
+    {
+      "id": "P32-wording-10",
+      "rules": [
+        "P32-R40"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告批大权却多灾后才动，建议周期查账并对已无偿付还收新客款立法。",
+      "candidate_new": "报告批评管理者拥有大权却常在灾难后才行动，建议定期查账；并建议禁止已资不抵债的经纪继续接收客户现金或证券、或做自营新交易，但既有账户清理或加强除外。其资不抵债认定还保留合理相信相关应收账户可收回的条件。",
+      "reason": "Original P057 applies cash/securities from any customer, not only new clients; two explicit qualifications must not disappear."
+    },
+    {
+      "id": "P32-wording-11",
+      "rules": [
+        "P32-R42"
+      ],
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "报告明确不担保品格/声明真，反对国家或交易所担核真责任，要求财表及资本用途频披露。",
+      "candidate_new": "报告明确交易所不保证证券品质或推广者所报事实全真，不建议国家或交易所承担全部核真责任；它要求频繁提交财务状况报表，并在未来上市申请中说明股本发行取得的现金、财产及推广者或卖方佣金。",
+      "reason": "Securities character is quality, not human moral character; repeated financial filings versus future-listing issue details are distinct requirements."
+    },
+    {
+      "id": "P32-wording-12",
+      "rules": [
+        "P32-R47"
+      ],
+      "fields": [
+        "name_zh"
+      ],
+      "old": "附录价低诱投机与资金挤压须实测",
+      "candidate_new": "附录低随叫利率诱投机与资金挤压须实测",
+      "reason": "Low rate refers to money interest, not low stock prices."
+    },
+    {
+      "id": "P32-source-text-anomaly-01",
+      "paragraph_id": "P32-A-P157",
+      "source_lines": [
+        9315,
+        9336
+      ],
+      "finding": "原印纸439/PDF451亦有world’s commercial future delivery has been the subject of machinery这组重复病句，不是已证PG独有错。原数字源与PDF不改；现代语义理解另注明上下文，不把修复正常句冒作原句。",
+      "original_image_verified": true,
+      "source_images": [
+        "P32-images/pdf450.png",
+        "P32-images/pdf451.png"
+      ]
+    },
+    {
+      "id": "P32-wording-13",
+      "file": "全书综合与附录.md",
+      "old": "不保证证券品格或推广声明全真",
+      "candidate_new": "不保证证券品质或推广声明全真",
+      "reason": "Character ofsecurities meanssecurityquality; alignR42."
+    },
+    {
+      "id": "P32-stage-archive-01",
+      "file": "source-review/scan-checkpoint.json metadata",
+      "finding": "16:36检查点仍写ongoingnotcomplete/notfullch8；最终17:23后整本完成。保原阶段记录，明确historical_stage_record:true与complete_book_scope_record:章节与阅读审计.json，不把旧阶段当当前状态。"
+    },
+    {
+      "id": "P32-stage-archive-02",
+      "files": [
+        "ch02.md",
+        "ch04.md",
+        "ch09.md",
+        "ch10.md"
+      ],
+      "finding": "章后正文外书未完/仍待后章附录是历史写作阶段记录，最终展示应标明并指向最终整本审计；不改变正文。"
+    },
+    {
+      "id": "P32-settlement-condition-01",
+      "file": "ch09.md",
+      "old": "财产卖方所得股票六个月后才可特殊结算，但脚注规则一百五十明列重组、合并或没公开现金发行的例外，不能转成全部人一律六个月。",
+      "candidate_new": "正文把限制概述为本公司股票向公众提供后六个月才能挂牌；脚注规则一百五十更精确：卖产人获授记作全付或部分付款的股票或证券，须从公众认购同类股票或证券的特殊结算日期起满六个月，才可安排其交易的特殊结算日。脚注另说现有公司重组、合并，或没有向公众现金发行股份的情形不必适用；这不是无条件豁免，不能转成所有卖产股从任意起点一律六个月。",
+      "rule_id": "P32-R33",
+      "rule_fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "previous_candidate_rule_meaning": "作者赞财产卖方所得股等待六个月，注109说明该特殊结算规则不必适用于重组、合并或没有向公众现金发行股份的情况。",
+      "new_candidate_rule_meaning": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+      "reason": "Note109 begins waitingclock atspecialsettlementdatefor publicsubscriberssameclass, notarbitrarylisting/issuancedate. Preservecoarserauthorbodysummary andquotedrule finercondition plusnotnecessarilyexception.",
+      "complete_source_evidence": [
+        "P32-9-P059",
+        "P32-F109-P001"
+      ],
+      "source_full_original_TXT_lines_body": [
+        7173,
+        7186
+      ],
+      "source_full_note_lines_half_open": [
+        10495,
+        10505
+      ],
+      "full_body_and_note_actually_reread_in_this_review": true
+    }
+  ],
+  "changed_rule_fields": [
+    {
+      "rule_id": "P32-R12",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh",
+        "independent_analysis_zh",
+        "modern_boundary_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R21",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R23",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R25",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R33",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R35",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R37",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh",
+        "independent_analysis_zh",
+        "modern_boundary_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R40",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R41",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R42",
+      "fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ]
+    },
+    {
+      "rule_id": "P32-R47",
+      "fields": [
+        "name_zh"
+      ]
+    }
+  ],
+  "draft_exact_patches": [
+    {
+      "id": "P32-wording-01",
+      "file": "ch04.md",
+      "old": "还可动用客户经纪的本行存款",
+      "candidate_new": "还可动用经纪在本行的存款",
+      "reason": "Original P020 says any deposit the broker may have in the institution; eliminate ambiguous reading that bank directly sweeps end-customer deposits."
+    },
+    {
+      "id": "P32-wording-04",
+      "file": "ch08.md",
+      "old": "一百万财富三分之一、两百万持有人在此重引",
+      "candidate_new": "全国财富约三分之一、两百万持有人在此重引",
+      "reason": "P040 original one third of our nation’s wealth, not one million wealth; keep link to first-chapter43/130 and holderdedup caution."
+    },
+    {
+      "id": "P32-coverage-wording-01",
+      "file": "ch08.md nonbody original reading range header",
+      "old": "按五个15000字符段及60000–76170最后段无隙全读",
+      "candidate_new": "原写作的全文覆盖记录另以审计中的实际批次为准；本次独审按0–13000、13000–26000、26000–39000、39000–52000、52000–65000、65000–76170无隙对读。",
+      "reason": "Old prose wrongly says five15000parts plus laststarting60000; use actual own6batches without claiming an unverified originalauthor readingbatch sequence."
+    },
+    {
+      "id": "P32-translation-01",
+      "file": "ch09.md",
+      "old": "匹配厂",
+      "candidate_new": "火柴厂",
+      "reason": "Original Sao Paulo Match Factories manufactures matches, not matching."
+    },
+    {
+      "id": "P32-wording-05",
+      "file": "ch09.md",
+      "old": "纽约多为本土铁工",
+      "candidate_new": "纽约多为本国铁路与工业公司",
+      "reason": "Original home rails and industrial companies notironworking-onlyindustry."
+    },
+    {
+      "id": "P32-wording-07",
+      "file": "ch10.md",
+      "old": "他认为此辩护无法回答",
+      "candidate_new": "作者认为维达的上述批评难以反驳",
+      "reason": "Unanswerable argument describes Vidal critique of monopoly, not an unanswered pro-monopoly defense; clarify pronoun referent."
+    },
+    {
+      "id": "P32-wording-13",
+      "file": "全书综合与附录.md",
+      "old": "不保证证券品格或推广声明全真",
+      "candidate_new": "不保证证券品质或推广声明全真",
+      "reason": "Character ofsecurities meanssecurityquality; alignR42."
+    },
+    {
+      "id": "P32-settlement-condition-01",
+      "file": "ch09.md",
+      "old": "财产卖方所得股票六个月后才可特殊结算，但脚注规则一百五十明列重组、合并或没公开现金发行的例外，不能转成全部人一律六个月。",
+      "candidate_new": "正文把限制概述为本公司股票向公众提供后六个月才能挂牌；脚注规则一百五十更精确：卖产人获授记作全付或部分付款的股票或证券，须从公众认购同类股票或证券的特殊结算日期起满六个月，才可安排其交易的特殊结算日。脚注另说现有公司重组、合并，或没有向公众现金发行股份的情形不必适用；这不是无条件豁免，不能转成所有卖产股从任意起点一律六个月。",
+      "rule_id": "P32-R33",
+      "rule_fields": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "previous_candidate_rule_meaning": "作者赞财产卖方所得股等待六个月，注109说明该特殊结算规则不必适用于重组、合并或没有向公众现金发行股份的情况。",
+      "new_candidate_rule_meaning": "作者正文以本公司股票向公众提供后六个月概述卖产股限制；注109更精确规定，卖产人所得记作全付或部分付款的股或证券，其交易不得安排特殊结算日，直到公众认购同类股或证券的特殊结算日期起六个月。注109另说对现有公司重组、合并，或未向公众现金发行股份的情形不必适用；这不是无条件豁免。",
+      "reason": "Note109 begins waitingclock atspecialsettlementdatefor publicsubscriberssameclass, notarbitrarylisting/issuancedate. Preservecoarserauthorbodysummary andquotedrule finercondition plusnotnecessarilyexception.",
+      "complete_source_evidence": [
+        "P32-9-P059",
+        "P32-F109-P001"
+      ],
+      "source_full_original_TXT_lines_body": [
+        7173,
+        7186
+      ],
+      "source_full_note_lines_half_open": [
+        10495,
+        10505
+      ],
+      "full_body_and_note_actually_reread_in_this_review": true
+    }
+  ],
+  "stage_records_historical": true,
+  "body_han_counts": [
+    3161,
+    3224,
+    2886,
+    3145,
+    3538,
+    3104,
+    2952,
+    3369,
+    3316,
+    2779
+  ],
+  "body_han_total": 31474,
+  "minimum_chapter_han": 2779,
+  "precise_original_contexts": 201,
+  "whole_continuous_original_units_linked": true,
+  "source_integrity": {
+    "source/original.txt": "679d8ca8285251385bbd4693d97ae4822de866ffcf91813c74b42ecc03135248",
+    "source/alternative-all-pages.json": "884e0c818b8e519ab5d8e18e089355758c4d6d20e9dc0b5e66a8f34a75096cba",
+    "source/appendix-Hughes-report.txt": "3121260da9b4b2e33faff3fb9387e534aa913a79fee8ea8b902f13b6cc89c2c0",
+    "source/alternative-selected-pages.json": "c7f843286589cf21489e86cf3dd2bf160350946c4002eb0b85e665a5862b63d2",
+    "source/PG-license.txt": "61fffea19135c29dfbe1a37e27fb70a34a2678b8a12f6990d9a480cc5618b681",
+    "source/IA-metadata-cu31924030206548.json": "e5f1ced0bdb1b68d05eb5bd67e7284f61e240e3978f7be85b504b1217ef8285e",
+    "source/alternative-1914.pdf": "74d1e4c9172a4a0cccd27d984208afbdffc4fd02e0e34fe080f1d0fd569aaf84",
+    "source/footnotes.txt": "fc6a32375b5f20403194cc90b0779b083b35ac411973c8471ad087b626ec8276",
+    "source/IA-metadata-stockexchangefro0000wcva_r0n2.json": "a82fac23d831dbcaa48c9d083dbae76d9682e618d7f66192e62182d2e19c9533",
+    "source/index-and-transcriber.txt": "17d894caec05daa6f19c8a3e3c1f2738a798451830b23743ce700ade0e1e7ad3",
+    "source/original-1914.pdf": "2366f395357fd3164547aaa39e708f1af989f14e6af10ccf7cb3705e76e8a1e7",
+    "source/footnotes-ledger.json": "35dc90d50433305025927041e3d52b1dabe7e63b71f91eb5fa1a6109c883651c",
+    "source/IA-search.json": "c5f4c48940ee30f1675bbc42647b27de9ad5d0f6046b00dcddffcb6b96d46313",
+    "source/scan-pages.json": "d0c242a447fc2000a77a692234ae03c946cd37040c9618772b41cb4ef809f9c9",
+    "source/front-matter.txt": "b0dcafbc8ce4706bfde6979563702a409d39da9131801e0d054882acfd1e83f3",
+    "source/original.html": "291873a543ac331a12c38c8795a7dab5062d6e564ca08918f600857742c1b880",
+    "source/chapters/ch08.txt": "6d428270a66e409aa88b50104bffba177bb1c23a953d4b95736640fe11e82f30",
+    "source/chapters/ch09.txt": "b3504378c8fad5c3ff48ca6723cbff6f6d7a045cd34c46295a4fd723d14472f8",
+    "source/chapters/ch02.txt": "e0108d901089cc82fa72caef0fc59f7565ca41efa18c203e5e70bbe61641d206",
+    "source/chapters/ch03.txt": "dec8405723e303bbf9dff5cce07739cf2643a7aee0546eca293983b0833476ff",
+    "source/chapters/ch01.txt": "e8211336277f322431b44d533dde0fdfccd3bcef4a1f3e26f6e833c9e5c8657d",
+    "source/chapters/ch04.txt": "3970145eec9eac3bf93a173a8a0790572ce9d673f287aa585ef52fbce95ba51e",
+    "source/chapters/ch10.txt": "1dcc7848e87b0c9ef798f6038cdbaeabcb8abb5e5fe1e53adcf0829c9ab94cd4",
+    "source/chapters/ch05.txt": "d4f10c7ebac99cbfc57e36d7e2edff113e327e8365dc550e5d6c1456f54053da",
+    "source/chapters/ch07.txt": "689c1225095d18da6010647dca0133d0f8de5590b02e05a5a2a2bb278e484e6c",
+    "source/chapters/ch06.txt": "f2e793f7cadaa52eaa5b64f700bdd069e7ee86c61ff0908bc2955fde4a7703fe"
+  },
+  "full_original_line_coverage": [
+    [
+      "front",
+      1,
+      133
+    ],
+    [
+      "chapter1",
+      134,
+      732
+    ],
+    [
+      "chapter2",
+      733,
+      1431
+    ],
+    [
+      "chapter3",
+      1432,
+      1934
+    ],
+    [
+      "chapter4",
+      1935,
+      2526
+    ],
+    [
+      "chapter5",
+      2527,
+      3509
+    ],
+    [
+      "chapter6",
+      3510,
+      4233
+    ],
+    [
+      "chapter7",
+      4234,
+      5089
+    ],
+    [
+      "chapter8",
+      5090,
+      6332
+    ],
+    [
+      "chapter9",
+      6333,
+      7478
+    ],
+    [
+      "chapter10",
+      7479,
+      8086
+    ],
+    [
+      "appendix",
+      8087,
+      9721
+    ],
+    [
+      "footnotes",
+      9722,
+      10629
+    ],
+    [
+      "index/transcriber",
+      10630,
+      11828
+    ],
+    [
+      "PGlicense",
+      11829,
+      12179
+    ]
+  ],
+  "footnote_conventions": {
+    "file": "source/footnotes-ledger.json",
+    "start": "onebasedinclusive",
+    "end": "onebasedexclusive",
+    "all129_validated": true,
+    "recommendation": "State this convention in final audit; original derivative file can be preserved unchanged. Rule paragraph/context source_lines use inclusive ends."
+  },
+  "original_text_anomaly": {
+    "id": "P32-source-text-anomaly-01",
+    "paragraph_id": "P32-A-P157",
+    "source_lines": [
+      9315,
+      9336
+    ],
+    "finding": "原印纸439/PDF451亦有world’s commercial future delivery has been the subject of machinery这组重复病句，不是已证PG独有错。原数字源与PDF不改；现代语义理解另注明上下文，不把修复正常句冒作原句。",
+    "original_image_verified": true,
+    "source_images": [
+      "P32-images/pdf450.png",
+      "P32-images/pdf451.png"
+    ],
+    "canonical_original_image_files": [
+      "source-review/independent-peer-QA/P32-images/pdf450.png",
+      "source-review/independent-peer-QA/P32-images/pdf451.png"
+    ]
+  },
+  "page_anchor_actual_image_corrections": {
+    "P32-3-P023": [
+      [
+        86,
+        87
+      ],
+      [
+        98,
+        99
+      ]
+    ],
+    "P32-3-P024": [
+      [
+        87
+      ],
+      [
+        99
+      ]
+    ],
+    "P32-F34-P001": [
+      [
+        86,
+        87
+      ],
+      [
+        98,
+        99
+      ]
+    ]
+  },
+  "expert_SHA256": "595ef34bd2b286c3df6a7867345c3339d5b20cd32546559a4db6e7f82e9a6f90",
+  "audit_SHA256": "0326da43593cf557b4cf1c990cb91dd4aeb9957e7fcae9f02314106c1a678fa1",
+  "all_original_scan_glyphs_proofread": false,
+  "current_market_model_calls": 0,
+  "probabilities_calibrated": false,
+  "backtests_executed": 0,
+  "updated_utc": "2026-10-13T15:21:44.715320+00:00",
+  "content_confirmation": "source-review/independent-peer-QA/P32-final-confirmation.json",
+  "final_status_hash_confirmation": "recorded_separately_after_peer_metadata_only_confirmation"
+}

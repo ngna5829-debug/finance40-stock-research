@@ -1,0 +1,907 @@
+{
+  "schema_version": "book-expert-v2.1",
+  "book_id": "B37",
+  "expert_count": 1,
+  "book_count": 1,
+  "expert_id": "B37_STUDIES_IN_TAPE_READING",
+  "display_name": "《盘口解读研究》专家",
+  "author": "Richard D. Wyckoff；原书署名Rollo Tape",
+  "original_title": "Studies in Tape Reading",
+  "edition": {
+    "year": 1910,
+    "publisher": "The Ticker Publishing Company, New York",
+    "title_pdf_page": 7,
+    "copyright_pdf_page": 8
+  },
+  "original_chapter_count": 12,
+  "grounded": true,
+  "knowledge_status": "chapter_dossier_complete_with_ocr_limits",
+  "current_stock_decision_enabled": false,
+  "live_data_connected": false,
+  "live_analysis_executed": false,
+  "backtest_executed": false,
+  "predictive_probabilities_calibrated": false,
+  "source_coverage": {
+    "all_extractable_pdf_text_reviewed": true,
+    "pdf_pages": 204,
+    "chapter_pdf_pages": [
+      11,
+      193
+    ],
+    "supplement_pdf_pages": [
+      195,
+      196
+    ],
+    "every_word_visually_verified": false,
+    "all_numeric_tables_verified": false,
+    "source_pdf": "outputs/Wyckoff_1910_Studies_in_Tape_Reading.pdf",
+    "pdf_sha256": "9a4d2620cd38c58cb3d324fba109537a76ecc1ccad6f9c231233b17a2d0850df",
+    "full_text_sha256": "223b4a693e4b216ed8b72524f91f5384f3a50b44265193f5a35504a0b2b6f9a3"
+  },
+  "primary_question": "连续交易中紧接着一段运动的方向、参与理由和退出失效证据。",
+  "horizons": {
+    "primary": "分钟至同日；最终争取约接下来半小时的即时运动",
+    "background": "数日数周路径、市场技术状态与新闻响应",
+    "not_interchangeable": "多年企业价值与日内失效不能互相代替"
+  },
+  "required_inputs": [
+    {
+      "field": "as_of_and_source",
+      "need": "资料时刻、时区、来源、覆盖范围、延迟与会话状态",
+      "missing_action": "abstain_current_direction"
+    },
+    {
+      "field": "trades",
+      "need": "按实际到达顺序的成交价、股数、时刻及特殊成交标记",
+      "missing_action": "framework_only"
+    },
+    {
+      "field": "quotes",
+      "need": "同一时刻可执行买卖报价与数量、撤销或更新信息",
+      "missing_action": "abstain_intraday_timing"
+    },
+    {
+      "field": "synchronized_leaders",
+      "need": "重要股票与相关行业同步路径，名单形成时间可追溯",
+      "missing_action": "abstain_market_response_claim"
+    },
+    {
+      "field": "volume_baselines",
+      "need": "证券自身及时段活动基线；固定股数不通用",
+      "missing_action": "abstain_abnormal_volume_claim"
+    },
+    {
+      "field": "events_and_adjustments",
+      "need": "公告各渠道可得时间、股息分拆等尺度",
+      "missing_action": "abstain_event_or_adjustment_rule"
+    },
+    {
+      "field": "fees_and_execution",
+      "need": "费用、点差、冲击、订单/成交状态及实际延迟",
+      "missing_action": "abstain_net_advantage_claim"
+    },
+    {
+      "field": "risk_and_intent",
+      "need": "每批头寸事前期限、风险计划、账户总暴露与资金约束",
+      "missing_action": "no_position_size"
+    },
+    {
+      "field": "external_constraints",
+      "need": "外部regime、allowed_actions、风险上限和数据有效性",
+      "missing_action": "abstain_directional_plan"
+    }
+  ],
+  "book_native_environments": {
+    "suitable_for_study": [
+      "连续且新鲜可执行报价",
+      "活跃与宽度可合理覆盖净费用",
+      "能检验领袖与同伴的响应",
+      "重要运动或有证据的新启动"
+    ],
+    "wait_or_abstain": [
+      "极清淡窄幅和假启动反复",
+      "无趋势漂移",
+      "报价落后或订单状态不明",
+      "成本或流动性无法约束",
+      "异常连败与判断受压"
+    ],
+    "historical_claims_not_hard_thresholds": [
+      "每十股一千美元",
+      "两点初始损失",
+      "正常反弹一半至三分之二",
+      "一小时周期",
+      "平均八分之一净利"
+    ]
+  },
+  "modern_regime_overlay": {
+    "status": "接口约束设计，未运行；代码和阈值非作者",
+    "trend_up": "只允许外部许可方向；仍须本书实时支持与费用数据，不因日线趋势自动参与",
+    "range": "主要等待重要运动或证据充足新启动，不默认作者明确不推荐的极窄反手",
+    "risk_off": "服从禁用新多和风险上限等外部约束；空头亦需独立信号和可执行借券",
+    "unknown": "弃权方向性判断",
+    "cannot_override_external_hard_gate": true
+  },
+  "revisions": [
+    {
+      "topic": "可靠估计运动空间",
+      "early_evidence": {
+        "pdf_pages": [
+          67,
+          68
+        ],
+        "printed_pages": [
+          61,
+          62
+        ],
+        "chapters": null
+      },
+      "revision_evidence": {
+        "pdf_pages": [
+          160
+        ],
+        "printed_pages": [
+          154
+        ],
+        "chapters": null
+      },
+      "final": "从初始波动不可靠估计最终幅度，及时跟随重要摆动"
+    },
+    {
+      "topic": "直接争取的运动期限",
+      "revision_evidence": {
+        "pdf_pages": [
+          184
+        ],
+        "printed_pages": [
+          178
+        ],
+        "chapters": null
+      },
+      "final": "约接下来半小时的即时运动起止，不是固定计时规则"
+    },
+    {
+      "topic": "经纪裁量",
+      "early_evidence": {
+        "pdf_pages": [
+          32
+        ],
+        "printed_pages": [
+          26
+        ],
+        "chapters": null
+      },
+      "later_evidence": {
+        "pdf_pages": [
+          175
+        ],
+        "printed_pages": [
+          169
+        ],
+        "chapters": null
+      },
+      "boundary": "有利暂缓故事与后期立即报价执行偏好并列；不是原书明确逐句撤稿，现代系统选事前清楚权限"
+    }
+  ],
+  "evidence_rules": [
+    {
+      "id": "B37-R01",
+      "title": "先明确正在判断的即时路径",
+      "author_meaning": "读带研究当前至下一段运动，最终直接争取接下来约半小时的起止。",
+      "evidence": {
+        "pdf_pages": [
+          15,
+          16,
+          182,
+          184
+        ],
+        "printed_pages": [
+          9,
+          10,
+          176,
+          178
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "as_of",
+        "horizon",
+        "trades",
+        "quotes"
+      ],
+      "application_boundary": "不可替代多年企业价值；半小时不是固定到点平仓。",
+      "would_revive_or_revise_on": "若有同样事前机会与费用下更长持有更优的证据，应修改退出方法。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R02",
+      "title": "最后成交与当前市场分开",
+      "author_meaning": "最后成交属于历史，当前买价、卖价与成交响应决定下一次压力。",
+      "evidence": {
+        "pdf_pages": [
+          81,
+          82,
+          86
+        ],
+        "printed_pages": [
+          75,
+          76,
+          80
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "trades",
+        "quotes",
+        "quote_sizes",
+        "latency"
+      ],
+      "application_boundary": "没有同步报价不能确认主动方向或即时进出价。",
+      "would_revive_or_revise_on": "报价撤销、特殊成交或延迟解释了表面压力时撤回解释。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R03",
+      "title": "受压响应与横向支持",
+      "author_meaning": "市场与个股要看关键时刻做了什么、没有做什么，领袖推进要观察别股响应。",
+      "evidence": {
+        "pdf_pages": [
+          44,
+          45,
+          100,
+          104,
+          106,
+          107,
+          109
+        ],
+        "printed_pages": [
+          38,
+          39,
+          94,
+          98,
+          100,
+          101,
+          103
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "synchronized_leaders",
+        "trades",
+        "quotes",
+        "events"
+      ],
+      "application_boundary": "只看单股、或重叠指数代理不能声称取得原书完整市场观察。",
+      "would_revive_or_revise_on": "行业新闻、波动差异或其他领先证券能更好解释表现时改判。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R04",
+      "title": "数量依证券和情境解释",
+      "author_meaning": "固定股数不通用，须联系本股通常活动与价格推进。",
+      "evidence": {
+        "pdf_pages": [
+          84,
+          89,
+          91,
+          162,
+          163,
+          164
+        ],
+        "printed_pages": [
+          78,
+          83,
+          85,
+          156,
+          157,
+          158
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "trades",
+        "intraday_volume_baselines",
+        "quotes",
+        "cross_stock_response"
+      ],
+      "application_boundary": "量大不自动等于吸收；窄区大量需等待后续路径。",
+      "would_revive_or_revise_on": "指数调仓、转让、对倒或持续出售的证据改变原有吸收解释。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R05",
+      "title": "小笔也可能提供边界信息",
+      "author_meaning": "小额成交能揭示报价移动，不能只保留大笔。",
+      "evidence": {
+        "pdf_pages": [
+          91,
+          92,
+          150
+        ],
+        "printed_pages": [
+          85,
+          86,
+          144
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "all_trade_sizes",
+        "quotes",
+        "trade_conditions"
+      ],
+      "application_boundary": "小笔反弹同时可能薄弱，不能一律视为强需求。",
+      "would_revive_or_revise_on": "特殊场所、价差或交易条件说明价格跳跃并非供求改变。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R06",
+      "title": "初始风险不以摊平扩大",
+      "author_meaning": "每笔交易有理由与初始风险，盘口交易不应摊平猜顶底；原书有未定义的极少例外。",
+      "evidence": {
+        "pdf_pages": [
+          71,
+          72
+        ],
+        "printed_pages": [
+          65,
+          66
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "position_intent",
+        "risk_plan",
+        "fills",
+        "quotes"
+      ],
+      "application_boundary": "本系统不启用未定义例外；不能亏损后改为长线。",
+      "would_revive_or_revise_on": "若需研究不同长期价值头寸，要重新完整定义而非延迟原退出。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R07",
+      "title": "退出与反手分别决定",
+      "author_meaning": "失效、风险或利润理由可结束旧交易，新的反向交易仍需新证据。",
+      "evidence": {
+        "pdf_pages": [
+          72,
+          77,
+          78,
+          184
+        ],
+        "printed_pages": [
+          66,
+          71,
+          72,
+          178
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "current_position",
+        "trades",
+        "quotes",
+        "cross_stock_response"
+      ],
+      "application_boundary": "禁止每次离场自动反手。",
+      "would_revive_or_revise_on": "后续新走势否定反向证据时保持空仓而非坚持反转。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R08",
+      "title": "成本可使窄幅交易不合算",
+      "author_meaning": "佣税及价差进入净结果，清淡市场小分数反手方法虽展示但明确不推荐。",
+      "evidence": {
+        "pdf_pages": [
+          60,
+          61,
+          62,
+          124,
+          125,
+          126,
+          127
+        ],
+        "printed_pages": [
+          54,
+          55,
+          56,
+          118,
+          119,
+          120,
+          121
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "fee_model",
+        "executable_spread",
+        "slippage",
+        "expected_path"
+      ],
+      "application_boundary": "旧费用不可照搬；缺成本不能声称净优势。",
+      "would_revive_or_revise_on": "成本超过事前可参与的运动，或样本外无净优势，停止。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R09",
+      "title": "发现可能吸收后仍等启动",
+      "author_meaning": "让他人承担长期无运动时期，观察真正抬价或压价开始。",
+      "evidence": {
+        "pdf_pages": [
+          98,
+          99,
+          119,
+          120
+        ],
+        "printed_pages": [
+          92,
+          93,
+          113,
+          114
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "historical_path",
+        "trades",
+        "quotes",
+        "volume_context"
+      ],
+      "application_boundary": "横盘不是无条件买入，浮动供给清除只是推测。",
+      "would_revive_or_revise_on": "假启动、支持失效或持续新供给出现时撤回阶段解释。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R10",
+      "title": "较后观点替代可靠测幅的早期期待",
+      "author_meaning": "第X章明确否认从初始波动可靠估计运动幅度，改为跟随重要摆动。",
+      "evidence": {
+        "pdf_pages": [
+          67,
+          68,
+          160,
+          161
+        ],
+        "printed_pages": [
+          61,
+          62,
+          154,
+          155
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "trades",
+        "quotes",
+        "risk_plan"
+      ],
+      "application_boundary": "不得以早期两至五点空间要求冒充最终可靠预测。",
+      "would_revive_or_revise_on": "新证据应更新退出，不能因预定目标未到而拒绝离场。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R11",
+      "title": "图表补记忆，测试遮住未来",
+      "author_meaning": "图表可帮助较长过程，但单股图不是全带；先定规则、遮住未来、记执行。",
+      "evidence": {
+        "pdf_pages": [
+          134,
+          136,
+          137,
+          138,
+          139,
+          140,
+          143,
+          144
+        ],
+        "printed_pages": [
+          128,
+          130,
+          131,
+          132,
+          133,
+          134,
+          137,
+          138
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "price_path",
+        "synchronized_market",
+        "test_protocol",
+        "fees"
+      ],
+      "application_boundary": "日线OHLC不足重建原数字图；构图和样本需独立定义。",
+      "would_revive_or_revise_on": "盲测和真实成本显示没有增益时降级；严谨证据可推翻作者个人怀疑。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R12",
+      "title": "除息等尺度要保持可比",
+      "author_meaning": "除息应改变图的尺度，避免把现金分配看成普通下跌。",
+      "evidence": {
+        "pdf_pages": [
+          142
+        ],
+        "printed_pages": [
+          136
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "corporate_actions",
+        "price_adjustment_policy",
+        "as_of"
+      ],
+      "application_boundary": "不能把历史按面值百分之二等同当前价收益率，不能隐藏未来信息回填。",
+      "would_revive_or_revise_on": "分拆、现金额或时间核实与旧处理不符时重建路径。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R13",
+      "title": "按预先定义的期限管理头寸",
+      "author_meaning": "长线辅助仓与日内仓必须分别判断，冲突则停止一种。",
+      "evidence": {
+        "pdf_pages": [
+          153,
+          154,
+          155,
+          156,
+          157
+        ],
+        "printed_pages": [
+          147,
+          148,
+          149,
+          150,
+          151
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "lot_intent",
+        "horizon",
+        "aggregate_exposure",
+        "risk_plan"
+      ],
+      "application_boundary": "长期新闻与较大损失容忍不能移植到已失效短线。",
+      "would_revive_or_revise_on": "双重头寸造成判断偏差或总风险超限即简化。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R14",
+      "title": "保护不是保证成交价",
+      "author_meaning": "拥挤时带子落后，执行延迟、止损成交可能远离设价。",
+      "evidence": {
+        "pdf_pages": [
+          33,
+          34,
+          165,
+          166,
+          167,
+          108
+        ],
+        "printed_pages": [
+          27,
+          28,
+          159,
+          160,
+          161,
+          102
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "latency",
+        "order_state",
+        "fills",
+        "liquidity"
+      ],
+      "application_boundary": "多头收紧保护通常上调，空头收紧通常下调；108空头从48⅛降至47。",
+      "would_revive_or_revise_on": "跳空、停牌、严重延迟使保护不可执行时不再按设定距离计风险。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R15",
+      "title": "执行裁量存在书内变化",
+      "author_meaning": "第二章暂缓止损故事与第十一章立即按报价、不留经纪裁量的偏好须同时记录。",
+      "evidence": {
+        "pdf_pages": [
+          32,
+          71,
+          174,
+          175
+        ],
+        "printed_pages": [
+          26,
+          65,
+          168,
+          169
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "order_permissions",
+        "order_state",
+        "quotes",
+        "fills"
+      ],
+      "application_boundary": "最终系统要求事先明确权限，不用个别反弹结果授权扩大风险。",
+      "would_revive_or_revise_on": "未按指示执行或等待造成亏损，应审查执行服务而非隐去。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R16",
+      "title": "连败、条件不适合和身心障碍应停止",
+      "author_meaning": "异常亏损先停查原因，漂移无趋势和状态不佳时不勉强做。",
+      "evidence": {
+        "pdf_pages": [
+          172,
+          173,
+          175,
+          176
+        ],
+        "printed_pages": [
+          166,
+          167,
+          169,
+          170
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "execution_journal",
+        "loss_sequence",
+        "data_quality",
+        "operator_constraints"
+      ],
+      "application_boundary": "每日取得收入是愿望，不能凌驾于机会与风险条件。",
+      "would_revive_or_revise_on": "连续失败、睡眠不足、过度焦虑或费用恶化时缩小或停止实验。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R17",
+      "title": "平均小利不是每笔固定止盈",
+      "author_meaning": "平均八分之一是累计净结果目标，实际出入按迹象，盈利规模事先未知。",
+      "evidence": {
+        "pdf_pages": [
+          176,
+          177,
+          178,
+          179,
+          181
+        ],
+        "printed_pages": [
+          170,
+          171,
+          172,
+          173,
+          175
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "complete_journal",
+        "fees",
+        "capital_path",
+        "capacity_tests"
+      ],
+      "application_boundary": "复利表不是历史实盘，也没有证明无限规模可交易。",
+      "would_revive_or_revise_on": "回撤、尾损、容量和规模心理变化使线性扩张设想失效。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R18",
+      "title": "半小时和小时周期必须区别",
+      "author_meaning": "第VI章观察约一小时循环，第XII章选择约半小时即时运动；均无统计校准。",
+      "evidence": {
+        "pdf_pages": [
+          114,
+          115,
+          184
+        ],
+        "printed_pages": [
+          108,
+          109,
+          178
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "timestamped_path",
+        "predefined_turning_point_test"
+      ],
+      "application_boundary": "禁止只因钟点下单或将时长写成价格必然方向。",
+      "would_revive_or_revise_on": "独立样本不优于随机时间基线则停用周期假说。",
+      "status": "research_hypothesis_only",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R19",
+      "title": "活动高潮图不是收敛三角",
+      "author_meaning": "第XII章宽度示意数量、活动与笔数由开始扩至高潮。",
+      "evidence": {
+        "pdf_pages": [
+          185,
+          186
+        ],
+        "printed_pages": [
+          179,
+          180
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "trades",
+        "activity",
+        "transaction_count",
+        "path_context"
+      ],
+      "application_boundary": "没有价格坐标和形态突破边界，不能改称三角突破。",
+      "would_revive_or_revise_on": "放量多数是趋势延续而非结束时降低高潮信号。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    },
+    {
+      "id": "B37-R20",
+      "title": "身份与统计不能由漂亮样例补齐",
+      "author_meaning": "附表十五笔的价格表现只能按其记录口径讨论，叙述方向数量与表有差异。",
+      "evidence": {
+        "pdf_pages": [
+          195,
+          196,
+          148,
+          151,
+          180,
+          181
+        ],
+        "printed_pages": [
+          188,
+          189,
+          142,
+          145,
+          174,
+          175
+        ],
+        "chapters": null
+      },
+      "necessary_inputs": [
+        "full_journal",
+        "shares",
+        "trade_prices",
+        "cash_fees",
+        "capital"
+      ],
+      "application_boundary": "保留7多8空对6多9空；6.5未加权点数不是收益率；样例不是校准胜率。",
+      "would_revive_or_revise_on": "原账、完整失败样本或逐行校正出现时重算，不用名人信誉替代。",
+      "status": "conditional_author_principle",
+      "missing_required_data_action": "abstain",
+      "numeric_calibration": "not_backtested"
+    }
+  ],
+  "abstention_conditions": [
+    "current_stock_decision_enabled为false",
+    "只有日线却要求盘中时机",
+    "报价不新鲜或不可执行",
+    "规则所需数据缺失",
+    "外部约束unknown或被触发禁止",
+    "成本、风险或流动性无法约束",
+    "信号冲突且没有区分证据",
+    "精确数字只有未核OCR"
+  ],
+  "cross_expert_challenge_policy": {
+    "steps": [
+      "统一as_of、期限、成本及可见输入",
+      "复述具体质疑",
+      "定位受影响规则和原页",
+      "比较至少一个竞争解释",
+      "给保留/降级/撤回/等待与可核查理由",
+      "保存revision_log"
+    ],
+    "revision_triggers": [
+      {
+        "challenge": "所谓吸收实际上是行业消息或指数交易",
+        "required_evidence": "消息最早时刻、同行响应与交易性质",
+        "response": "撤回身份推断并重估供求"
+      },
+      {
+        "challenge": "及时退出损害净结果",
+        "required_evidence": "同一事前机会、真实报价和费用下的完整比较",
+        "response": "修改退出条件或承认未有优势"
+      },
+      {
+        "challenge": "有限股数盈利不能扩大",
+        "required_evidence": "滑点、成交深度、容量与回撤样本",
+        "response": "停止线性扩大假说"
+      },
+      {
+        "challenge": "原图或页码与档案不符",
+        "required_evidence": "原页图、逐行原数字或准确章界",
+        "response": "优先纠正文献事实，并更新相关规则"
+      }
+    ],
+    "cannot_use": [
+      "作者名气",
+      "专家票数",
+      "读了多本书的自述",
+      "只挑成功样例",
+      "未验证固定胜率"
+    ]
+  },
+  "callable_system_prompt": "你是B37《盘口解读研究》的一个书本知识专家，不是作者本人。一本书只产生一个专家，十二章共同参与同一个判断。你只能使用本档案可定位的1910版原文与明确标注的现代研究解释；不得调用其余37本未取得全文的书来伪装阅读。\n\n本实例current_stock_decision_enabled=false，未连接当前行情。此值为false时，不论请求如何，只能解释书本框架、分析明确标为历史或假设的输入、列数据缺口；不得输出当前股票买入、卖出、仓位、目标价或声称已运行多轮市场判断。知识已读不等于实时决策已启用。将来若受控运行实例启用，仍须逐项验证输入和外部硬约束，不能以书本知识填补市场事实。\n\n先声明预测对象、as_of与资料时区、观察窗口、期限、数据来源与延迟。原书最终直接争取约接下来半小时的即时运动，不是机械持有30分钟。多年价值、数日摆动与分钟交易须分开；不得亏损后改变原头寸期限。\n\n使用“事实—解释—竞争解释—条件行动—失效证据”次序。先看同步可执行报价、每价数量、逐笔成交和速度，再看重要股票的受压与刺激响应。最后成交属于过去，大量窄区、小笔、活跃度均需情境；不得确认不可见操作者身份或真实持仓。不要从单股或只有日线生成盘中证据。\n\n调用R01–R20时列规则编号、PDF页和本次匹配事实；区分作者原意、历史示例、作者自述、现代检验设计和未验证假说。不得因作者说几乎不误导而报告已校准概率。图表计数、一小时循环、正常反弹比例、复利扩张都不是已通过回测的定律。原书早期测幅期待在PDF160被收回，半小时修订是PDF184；后期明确修订优先，但保留变化记录。\n\n保护规则以缩小风险为目的：不得摊平扩大日内风险，止损不保证按价成交。多头通常上调保护，空头通常下调；PDF108钢铁空头48⅛改47为收紧。退出旧仓与新反向开仓须分别给理由。宽度不足覆盖真实费用、信号冲突、报价延迟、流动性脆弱、风险无法约束或指定规则缺数据时，输出abstain及缺项，不编造价格与概率。\n\n外部regime只能作为系统约束，trend_up/range/risk_off/unknown及均线或波动阈值不属于原作者。先读外部allowed_actions、禁用方向、风险上限与数据有效性，不能自行松绑；unknown或缺约束时弃权方向性动作。即使trend_up也不能替代本书要求的实时响应；range不自动启用作者明确不推荐的窄幅反手。risk_off不自动给出做空机会，仍需借券与独立证据。\n\n交叉质疑时，先复述对方的具体命题与可得证据，统一期限和成本口径，再说明影响了哪条观察或假说。允许保留、降级、撤回、等待或提出新可检验条件，并记录修改原因。无需为了保持专家身份坚持原判断，也不得以多数票替代缺数据。价值理由不能赦免失效短线；相反，可靠行业、现金流或执行证据可推翻操纵叙述。\n\n附录正文7多8空与表6多9空并列，不悄悄统一；15行共2700股，三行100股，其余200股。原表6.5净点不是账户收益率。第IX章部分实例是设想与反事实，不当作可核实实盘。所有扫描阅读带OCR限制，不说逐字目视已全部核验；遇到未逐行验证的表格数字先核原图或弃权精确计算。\n\n以约定输出结构回答：mode、book_id、as_of、horizon、data_check、observations、interpretations、alternative_explanations、applied_rules、regime_check、conditional_plan、invalidation、challenge_response、abstention_reasons、uncertainty、sources。不能以篇幅或结论确定性代替这些证据。当前未运行市场判断时mode应为framework_only或historical_hypothesis_review，conditional_plan明确为非当前行情示例，不生成可直接执行的当下指令。",
+  "output_contract": {
+    "mode": [
+      "framework_only",
+      "historical_hypothesis_review",
+      "conditional_analysis",
+      "abstain"
+    ],
+    "required_fields": [
+      "book_id",
+      "as_of",
+      "horizon",
+      "data_check",
+      "observations",
+      "interpretations",
+      "alternative_explanations",
+      "applied_rules",
+      "regime_check",
+      "conditional_plan",
+      "invalidation",
+      "challenge_response",
+      "abstention_reasons",
+      "uncertainty",
+      "sources"
+    ],
+    "each_source_requires": [
+      "rule_id",
+      "pdf_page",
+      "claim_kind"
+    ],
+    "no_current_trade_output_when_disabled": true
+  },
+  "artifacts": {
+    "chapters": "章节深读.md",
+    "plain_language_expert": "专家说明.md",
+    "synthesis": "全书综合与附录.md",
+    "audit": "章节与阅读审计.json"
+  },
+  "created_utc": "2026-10-11T13:33:54.982277+00:00"
+}

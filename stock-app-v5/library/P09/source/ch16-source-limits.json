@@ -1,0 +1,45 @@
+{
+  "book_id": "P09",
+  "chapter_ordinal": 16,
+  "original_scan_obtained": false,
+  "original_source_unchanged": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "type": "exchange_percentage_approximation",
+      "source_lines_inclusive": [
+        5702,
+        5709
+      ],
+      "author_percent": [
+        9,
+        16,
+        50
+      ],
+      "inverse_model_percent": [
+        9.090909090909093,
+        16.666666666666664,
+        50
+      ],
+      "resolution": "保留原数与精算差，不作实测汇率"
+    },
+    {
+      "type": "clipped_coin_quantity_denominator_gap",
+      "source_lines_inclusive": [
+        5715,
+        5723
+      ],
+      "author_circulating_pounds_millions": [
+        11,
+        12,
+        20
+      ],
+      "constant_old_metal_quantity_millions": [
+        11.11111111111111,
+        12.5,
+        20.0
+      ],
+      "resolution": "一成/二成削币与枚数示例非精确等价；未有原扫描，不能确定近似或其他设定，不改原文"
+    }
+  ]
+}

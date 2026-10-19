@@ -1,0 +1,68 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 50,
+    "params": {
+      "query": "title:&quot;The stock exchange from within&quot; AND creator:&quot;Van Antwerp&quot;",
+      "qin": "title:&quot;The stock exchange from within&quot; AND creator:&quot;Van Antwerp&quot;",
+      "fields": "identifier,title,date",
+      "wt": "json",
+      "rows": 10,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 10,
+    "start": 0,
+    "docs": [
+      {
+        "date": "1914-01-01T00:00:00Z",
+        "identifier": "stockexchangefro0000will",
+        "title": "The stock exchange from within,"
+      },
+      {
+        "date": "1975-01-01T00:00:00Z",
+        "identifier": "stockexchangefro0003vana",
+        "title": "The Stock Exchange from within"
+      },
+      {
+        "date": "1913-01-01T00:00:00Z",
+        "identifier": "cu31924032545893",
+        "title": "The stock exchange from within"
+      },
+      {
+        "identifier": "in.ernet.dli.2015.224225",
+        "title": "The Stock Exchange From Within"
+      },
+      {
+        "date": "1913-01-01T00:00:00Z",
+        "identifier": "stockexchangefro0000wcva",
+        "title": "the stock exchange from within"
+      },
+      {
+        "date": "1914-01-01T00:00:00Z",
+        "identifier": "stockexchangefro0000wcva_r0n2",
+        "title": "The stock exchange from within"
+      },
+      {
+        "date": "1914-01-01T00:00:00Z",
+        "identifier": "cu31924030206548",
+        "title": "The stock exchange from within"
+      },
+      {
+        "identifier": "in.ernet.dli.2015.227881",
+        "title": "The Stock Exchange From Within"
+      },
+      {
+        "date": "1913-01-01T00:00:00Z",
+        "identifier": "stockexchangefro00vana",
+        "title": "The stock exchange from within"
+      },
+      {
+        "date": "1913-01-01T00:00:00Z",
+        "identifier": "stockexchangefro00vanauoft",
+        "title": "The stock exchange from within /4cby W. C. Van Antwerp. Illustrated from photographs"
+      }
+    ]
+  }
+}

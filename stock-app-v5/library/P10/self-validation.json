@@ -1,0 +1,34 @@
+{
+  "book_id": "P10",
+  "self_check_not_independent_qa": true,
+  "source_hash_unchanged": true,
+  "chapter_count": 6,
+  "chapters_meeting_2000_han": 6,
+  "chapter_body_han_counts": [
+    2878,
+    3061,
+    3306,
+    3491,
+    3836,
+    4275
+  ],
+  "total_han": 20847,
+  "minimum_han": 2878,
+  "book_meeting_20000_han": true,
+  "source_lines_covered": 4736,
+  "all_rule_fragments_hash_match": true,
+  "independent_qa_status": "passed_with_source_limits",
+  "coverage_qualified": true,
+  "full_reading_completed": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "artifact_sha256": {
+    "source-metadata.json": "aab2bd16c5d6815dcb1649f2a671dfb1a5d1f34204c28736ede4a3f41a80f41f",
+    "章节深读.md": "c462d2276bb317d7b4b256bbffb133045573ce429415bdad73f9588cad2478bc",
+    "全书综合与前后置页.md": "9530cc3ba1ea027c9f452f0da698b4e767fac6ebd8c21b60d346bab0e6cb8857",
+    "专家说明.md": "462f912bb0b5959c5f740be011c9e2dfe51598e28abc3eba69810caa2c2da91c",
+    "专家定义.json": "1dfd242036119748acb886f4c97c09e6d5a38387e1f110bc3d8ca5232a9b4772",
+    "章节与阅读审计.json": "a5cdd931442f7fc65e5265517827d42ba9f77cf83175372aca1e7eb041738c5f"
+  },
+  "independent_qa_file": "independent-QA.json"
+}

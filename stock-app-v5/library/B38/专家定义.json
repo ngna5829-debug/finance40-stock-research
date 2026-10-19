@@ -1,0 +1,1195 @@
+{
+  "schema_version": "book-expert-v2.0",
+  "id": "B38",
+  "expert_id": "B38-literature-expert",
+  "expert_count": 1,
+  "book_count": 1,
+  "name": "Wyckoff《How I Trade and Invest in Stocks and Bonds》全书研究视角",
+  "author": "Richard D. Wyckoff",
+  "author_id": "richard-d-wyckoff",
+  "book": {
+    "id": "B38",
+    "title": "How I Trade and Invest in Stocks and Bonds",
+    "title_zh_reference": "我如何交易与投资股票和债券",
+    "edition_year": 1925,
+    "edition": "Fifth Edition",
+    "foreword_date": "1922-03-01",
+    "pdf_pages": 228,
+    "original_chapters": 14,
+    "source_pdf": "/Users/huang/Documents/Codex/2026-10-09/ba/outputs/Wyckoff_1925_How_I_Trade_and_Invest_in_Stocks_and_Bonds.pdf",
+    "source_pdf_sha256": "02a22f9ce61945970e8c44fa1dd7005bbcd279dd8b8f4fbef66da9a52861038b"
+  },
+  "status": "chapter_knowledge_ready_qualified",
+  "grounding": {
+    "level": "chapter_semantic_source_grounded",
+    "status": "coverage_qualified",
+    "all_chapters_re_read": true,
+    "literal_every_scanned_word_verified": false,
+    "body_han_total": 32355,
+    "all_chapters_minimum_2000_han": true,
+    "audit_file": "章节与阅读审计.json",
+    "limitations": [
+      "完整可提取文字已逐章重新语义阅读；未把每个扫描字形都逐字核对，普通OCR的断词、专名、杂字符及分数仍可能有残余误差。",
+      "已目视所有线、标题、组别、轴及整体轨迹；原图未提供每点数表，本档案没有数字化逐月/逐日读数，也未验证完整成分或修订口径。",
+      "技能教育引文文字可读，但页上未见可靠署名，不补造作者或外部出处。",
+      "原书引用报告、人物言论和统计已按书中论证关系读取；没有独立取得和重新核验所有外部原报告或匿名案例资料。",
+      "题名页下方极小馆藏笔迹未可靠释读，与书的投资论证无可确认关系。",
+      "这些页在提供PDF的联系表上均无可见内容，记录为空白；没有原始纸书逐叶核验，不能判断扫描过程是否遗漏纸书上的极淡内容。",
+      "作者的某些派发迹象、精确买时及持有人识别没有完整可复制数值定义；这属于原书论证边界而非OCR缺字。"
+    ]
+  },
+  "identity_boundary": "这是一位以本书十四章及原书页码为依据的研究视角，不是Wyckoff本人、并未得到作者认证，也不声称独立真人专家正在发言。",
+  "method_label": "全书文献证据分析；现代数值规则是系统假设，须单独验证。",
+  "current_stock_decision_enabled": false,
+  "enablement_note": "本次交付为独立知识档案，未修改旧股票网页、未接入新的完整章节AI请求或企业/持有人资料。不得仅有此JSON就显示已运行全书专家或取消旧数据门。",
+  "knowledge_files": [
+    {
+      "chapter": 1,
+      "id": "B38-C01",
+      "title": "My First Lessons in Investing and Trading",
+      "file": "chapters/ch01.md",
+      "body_han_count": 2604,
+      "sha256": "ff4d229d43128c5781e637bd2bb2d1d166c9c90b3085672ff3344096fdc4d69f",
+      "source_pdf_pages": [
+        23,
+        42
+      ],
+      "semantic_topics": [
+        "企业统计与价格原因",
+        "纸上交易及小规模练习",
+        "客户失败与现金兑现",
+        "操纵、技术位置和多期限趋势"
+      ]
+    },
+    {
+      "chapter": 2,
+      "id": "B38-C02",
+      "title": "Profitable Experiences in the Brokerage and Publishing Fields",
+      "file": "chapters/ch02.md",
+      "body_han_count": 2446,
+      "sha256": "9102c8eba6b3bba975e6b16f2ebd1e58275661903d00358643739c5f77db6974",
+      "source_pdf_pages": [
+        43,
+        62
+      ],
+      "semantic_topics": [
+        "经纪客户的研究缺失",
+        "从日内改向中间波段的修订",
+        "积累拉升派发",
+        "小部分资本、递增仓位、费用与六项交易规则"
+      ]
+    },
+    {
+      "chapter": 3,
+      "id": "B38-C03",
+      "title": "Why I Buy Certain Stocks and Bonds",
+      "file": "chapters/ch03.md",
+      "body_han_count": 2277,
+      "sha256": "29e551a9bad3d4b9e38ffc8553e25944d28b6ece34f29558655682fbfd1a9017",
+      "source_pdf_pages": [
+        63,
+        78
+      ],
+      "semantic_topics": [
+        "资本三道防线",
+        "设备信托及短期票据信用",
+        "低价债券和利率条件",
+        "银行增长、股利、权利和集中风险"
+      ]
+    },
+    {
+      "chapter": 4,
+      "id": "B38-C04",
+      "title": "Unearthing Profit Opportunities",
+      "file": "chapters/ch04.md",
+      "body_han_count": 2325,
+      "sha256": "1748c0109c11f969c5a5d73932e6ec4fa56a05dc99ff45a4e13b9f016448f8bd",
+      "source_pdf_pages": [
+        79,
+        88
+      ],
+      "semantic_topics": [
+        "折价与流动性",
+        "可转换权的机会",
+        "留存盈利与资本增长",
+        "铁路实物及高价股票不等于好估值"
+      ]
+    },
+    {
+      "chapter": 5,
+      "id": "B38-C05",
+      "title": "Some Experiences in Mining Stocks",
+      "file": "chapters/ch05.md",
+      "body_han_count": 2170,
+      "sha256": "aa206522f8aea7966c42aeffad3e182ad66d20853f84a42947f76cb6cb4eabd4",
+      "source_pdf_pages": [
+        89,
+        104
+      ],
+      "semantic_topics": [
+        "扩张失败和不依恋证券",
+        "矿山专业调查及独立复核",
+        "Magma购买、实地观察和未兑现利润",
+        "资源、管理、控制人退出与全部损失可能"
+      ]
+    },
+    {
+      "chapter": 6,
+      "id": "B38-C06",
+      "title": "The Fundamentals of Successful Investing",
+      "file": "chapters/ch06.md",
+      "body_han_count": 2319,
+      "sha256": "271f7c7c1c0e75e21126fbf6abc0f59c566f22024799fe12b446810f02efd65a",
+      "source_pdf_pages": [
+        105,
+        120
+      ],
+      "semantic_topics": [
+        "六项有顺序的调查条件",
+        "行业传导与不同产业阶段",
+        "长趋势及个股逆市例外",
+        "财务与强弱技术位置的共同判断"
+      ]
+    },
+    {
+      "chapter": 7,
+      "id": "B38-C07",
+      "title": "The Story of a Little Odd-Lot",
+      "file": "chapters/ch07.md",
+      "body_han_count": 2220,
+      "sha256": "ca6679b23160156b1c79e138ad5f4ea591b66d93d7cb8386e970216330d655b1",
+      "source_pdf_pages": [
+        121,
+        134
+      ],
+      "semantic_topics": [
+        "留声机行业及公开公告",
+        "季度现金和股票分配查证",
+        "股本转换和稀少供给",
+        "疑似派发、部分兑现、现金及余仓风险"
+      ]
+    },
+    {
+      "chapter": 8,
+      "id": "B38-C08",
+      "title": "The Rules I Follow in Trading and Investing",
+      "file": "chapters/ch08.md",
+      "body_han_count": 2233,
+      "sha256": "683f78695324341a657006c4bf61b9876c59f80fe005865fe3df5a69ad20596b",
+      "source_pdf_pages": [
+        135,
+        146
+      ],
+      "semantic_topics": [
+        "不可能持续准确与名人失误",
+        "时间停止、价格停止及执行失守",
+        "费用与中间波段",
+        "远离噪声与精简价格资料的限定"
+      ]
+    },
+    {
+      "chapter": 9,
+      "id": "B38-C09",
+      "title": "Forecasting Future Developments",
+      "file": "chapters/ch09.md",
+      "body_han_count": 2276,
+      "sha256": "804e939f37604b6008163dc4c459acad05bc45fb21a1c83efefd279df0cefc44",
+      "source_pdf_pages": [
+        147,
+        156
+      ],
+      "semantic_topics": [
+        "比较钢铁设备与石油",
+        "供需图和一九二五预测性质",
+        "油田衰减、机械化及新增用途",
+        "基础设施设想、生产商利润归属与持仓关联"
+      ]
+    },
+    {
+      "chapter": 10,
+      "id": "B38-C10",
+      "title": "The Truth About Averaging Down",
+      "file": "chapters/ch10.md",
+      "body_han_count": 2324,
+      "sha256": "24605991b0507d9db98a45ed934e52d1e723817091125aa05e03e8d8561d9719",
+      "source_pdf_pages": [
+        157,
+        166
+      ],
+      "semantic_topics": [
+        "更低价格与价值恶化",
+        "匿名股补救交易全现金路径",
+        "资本耗尽与Union Pacific反例",
+        "暂停、研究失误及后见信息禁止"
+      ]
+    },
+    {
+      "chapter": 11,
+      "id": "B38-C11",
+      "title": "Some Definite Conclusions as to Foresight and Judgment",
+      "file": "chapters/ch11.md",
+      "body_han_count": 2096,
+      "sha256": "1a751575a2ce1067d6c304c569cf2aa6ad62a1612c7ff0128f79e3a6e5ff6b97",
+      "source_pdf_pages": [
+        167,
+        186
+      ],
+      "semantic_topics": [
+        "有利不利事实书面分类",
+        "安全收入资产最终目标",
+        "债券储备被交易消耗及停止",
+        "替代投资、独立判断、内幕依赖和经验定义"
+      ]
+    },
+    {
+      "chapter": 12,
+      "id": "B38-C12",
+      "title": "Safeguarding Your Capital",
+      "file": "chapters/ch12.md",
+      "body_han_count": 2065,
+      "sha256": "82eab266829fad0cc2b6720f61929baae13f14aab1da392a56f9ad0504d98b91",
+      "source_pdf_pages": [
+        187,
+        200
+      ],
+      "semantic_topics": [
+        "准备先于实践",
+        "经纪教育及商业关联",
+        "外部注资与交易成功区分",
+        "公众重仓、资本保护、耐心及广泛学习"
+      ]
+    },
+    {
+      "chapter": 13,
+      "id": "B38-C13",
+      "title": "How Millions Are Lost in Wall Street",
+      "file": "chapters/ch13.md",
+      "body_han_count": 2192,
+      "sha256": "f222095d90f4f02512f658fff2d48348b09a7fb8c9d73db46c031903c36ad299",
+      "source_pdf_pages": [
+        201,
+        214
+      ],
+      "semantic_topics": [
+        "Arlington Copper及专利调查",
+        "洗衣机、专业能力和产业调查",
+        "经纪意见利益与披露可理解性",
+        "企业实力与技术火花、异质证券分散"
+      ]
+    },
+    {
+      "chapter": 14,
+      "id": "B38-C14",
+      "title": "The Importance of Knowing Who Owns a Stock",
+      "file": "chapters/ch14.md",
+      "body_han_count": 2808,
+      "sha256": "acfe53997b12604ebd79085690c8e0f9401d5b7ad0d2e848e6c8c543c03cf8ca",
+      "source_pdf_pages": [
+        215,
+        222
+      ],
+      "semantic_topics": [
+        "持有人组织、浮动供给及意图",
+        "公众最大群体与不呈现证据的主张",
+        "铁路股权分散及例外",
+        "预感归因、广告类比、持续训练与现代13F边界"
+      ]
+    }
+  ],
+  "synthesis_file": "全书综合与附录.md",
+  "combined_knowledge_file": "章节深读.md",
+  "knowledge_use_policy": {
+    "all_fourteen_chapters_required_for_full_book_claim": true,
+    "cannot_replace_whole_book_with_rules_only": true,
+    "rule_index_role": "下面28条用于定位论证；调用时仍须读取完整相关章节及跨章修订，并保留全部章节覆盖审计。",
+    "retrieve_counterexamples_and_revisions": true,
+    "grounding_failure_behavior": "缺章节或来源、只送短规则时，降级为部分文献视角并显示缺口，不能宣称全书调用完成。"
+  },
+  "specialty": [
+    "企业与行业调查",
+    "证券权利及资本增长",
+    "技术供求与持有人结构",
+    "有限资本、停止与部分兑现",
+    "错误复盘及异质组合分散"
+  ],
+  "questions_before_direction": [
+    "资金是收入投资还是短期交易，预期的验证期限是什么？",
+    "六项调查条件分别有什么可见证据及反证？",
+    "公司业务、财务、管理和行业资料是否完整及时？",
+    "持有人和真实供求的解释有没有独立来源？",
+    "当前价格已经反映多少好消息，缺哪些估值资料？",
+    "最大投入、资本耗尽路径、退出与交易成本是否可承受？"
+  ],
+  "required_data_gates": [
+    {
+      "key": "fundamentals",
+      "reason": "第六及十三章要求企业财务、盈利和经营调查；缺少则不对具体证券给强方向。"
+    },
+    {
+      "key": "sectorPeers",
+      "reason": "行业趋势、价值链和备选比较需真实行业及同业资料，不能以日线替代。"
+    }
+  ],
+  "conditional_data_requirements": [
+    {
+      "when": "涉及第十四章或真实机构资金身份",
+      "key": "ownershipEvidence",
+      "validation": "来源、公开日期、覆盖范围、持有量及可交易股份须真实明确；不得用boolean或日线OBV/CMF占位。",
+      "missing_behavior": "对此命题弃权并说明无法识别持有人；不得声称主力吸筹/派发已确认。"
+    },
+    {
+      "when": "涉及资源、新产品或专利投资",
+      "key": "technicalDueDiligence",
+      "validation": "需具名资料、方法、技术/商业范围及独立复核；单一熟人评价不足。",
+      "missing_behavior": "不输出资源价值已经成立。"
+    },
+    {
+      "when": "讨论个体仓位、摊平或资本防线",
+      "key": "portfolioAndRiskBudget",
+      "validation": "需要持仓、现金需求、融资、费用及最大损失预算。",
+      "missing_behavior": "只提供研究原则，不能计算个人适合仓位。"
+    },
+    {
+      "when": "声称真实净流入或最新消息",
+      "key": "realFlowsOrNews",
+      "validation": "真实资金需source/asOf/currency/periodStart/periodEnd/definition，消息需来源与时间；期限和新鲜度由系统校验。",
+      "missing_behavior": "弃权；量价代理与真实流量严格区分。"
+    }
+  ],
+  "regime_policy": {
+    "source_book": "第六章长趋势优先同时容许行业及个股例外；原书未提供现代分类代码和所有数值阈值。",
+    "modern_codes": [
+      "trend_up",
+      "range",
+      "risk_off",
+      "unknown"
+    ],
+    "system_hard_gates_authority": "系统只读权威，专家及AI不可覆盖。",
+    "unknown": "资料不足时不强行给方向。",
+    "risk_off": "可以解释例外研究证据，但不能绕过系统禁止强结论。",
+    "trend_up": "顺风不能替代企业、价格和资金调查。",
+    "range": "需要说明中间位置与交易费用，不能按大市代码自动买入。"
+  },
+  "vote_policy": {
+    "default": "abstain_when_required_evidence_missing",
+    "abstention_reasons": [
+      "missing_fundamentals",
+      "missing_sector_evidence",
+      "missing_ownership_evidence_for_ownership_claim",
+      "incomplete_full_book_context",
+      "unresolved_source_gap_material_to_claim",
+      "system_hard_gate"
+    ],
+    "no_fake_probabilities": true,
+    "heuristic_score_is_not_probability": true,
+    "same_author_books_need_author_aggregation_for_system_consensus": true,
+    "abstention_is_not_bearish_vote": true,
+    "no_default_generic_substitution": "如另启通用日线视角必须另标系统自有模拟，不能改称已从原书全部提炼。"
+  },
+  "cross_challenge_rounds": [
+    {
+      "round": 1,
+      "name": "初始论证",
+      "required_output": [
+        "明确期限与任务",
+        "可见事实及来源日期",
+        "引用章页",
+        "有利不利条件",
+        "缺资料及弃权",
+        "适用和失效条件"
+      ]
+    },
+    {
+      "round": 2,
+      "name": "反方质疑",
+      "required_output": [
+        "逐条回应反方所引指标与事实",
+        "列出另一相容解释",
+        "检查股票股利与估值",
+        "检查利润归属、持有人证据和资本路径",
+        "不得拿名人成功替代证据"
+      ]
+    },
+    {
+      "round": 3,
+      "name": "重估与仲裁",
+      "required_output": [
+        "列新增或撤回证据",
+        "保持/降级/撤回/弃权",
+        "说明原书规则与系统假设区别",
+        "保持系统原硬门结果",
+        "只用可检验研究意见，不给虚假胜率"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "id": "B38-R01",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "证券有企业价值、市场供求、趋势及人为交易等多种价格原因；先区分研究对象与期限。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          23,
+          39
+        ]
+      },
+      "conditions": [
+        "明确投资或交易目标",
+        "观察价格同时调查企业"
+      ],
+      "falsifiers": [
+        "企业事实变化",
+        "原先期限判断不成立"
+      ],
+      "required_data": [
+        "priceHistory",
+        "companyHistory",
+        "investmentObjective"
+      ],
+      "modern_translation_boundary": "不将全部变化唯一归为主力，也不以一个技术指标完成企业调查。",
+      "cross_challenge": "同一价格现象还有哪些相容解释？"
+    },
+    {
+      "id": "B38-R02",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "先用书面记录和有限规模练习形成可复核判断，实际经验包括查明错误。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          25,
+          28,
+          181,
+          183
+        ]
+      },
+      "conditions": [
+        "保存当时理由、模拟与实际结果"
+      ],
+      "falsifiers": [
+        "后来信息被回填到当时记录",
+        "只统计成功实例"
+      ],
+      "required_data": [
+        "decisionJournal",
+        "historicalAvailability"
+      ],
+      "modern_translation_boundary": "训练不能被读完书或长期浏览行情自动替代。",
+      "cross_challenge": "失败是否改变下一次决策，还是只有成功故事？"
+    },
+    {
+      "id": "B38-R03",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "图表帮助记录与比较，但不得以机械图形代替变化中的判断。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          35,
+          50,
+          108,
+          109
+        ]
+      },
+      "conditions": [
+        "结合市场、企业与费用观察"
+      ],
+      "falsifiers": [
+        "条件变化却沿用同一图形结论"
+      ],
+      "required_data": [
+        "priceHistory",
+        "fundamentals",
+        "sectorPeers"
+      ],
+      "modern_translation_boundary": "现代均线、RSI等属系统实现，不是本书逐项原公式。",
+      "cross_challenge": "相似形状的不同财务与资金条件会不会产生不同结果？"
+    },
+    {
+      "id": "B38-R04",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "中间波段常比场外频繁日内进出更有机会覆盖费用；资金周转以净结果衡量。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          45,
+          60,
+          140,
+          143
+        ]
+      },
+      "conditions": [
+        "比较预期运动、费用与可成交性"
+      ],
+      "falsifiers": [
+        "周转增加但净结果变差",
+        "流动性不足"
+      ],
+      "required_data": [
+        "tradeCosts",
+        "liquidity",
+        "priceHistory"
+      ],
+      "modern_translation_boundary": "现代零名义佣金不取消价差、冲击和融资成本。",
+      "cross_challenge": "高周转的净收益是否仍高，是否同一收盘价产生并执行信号？"
+    },
+    {
+      "id": "B38-R05",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "只用小部分资本交易，盈利应保护并进入更稳定的收入资本层。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          51,
+          53,
+          63,
+          64,
+          170,
+          173
+        ]
+      },
+      "conditions": [
+        "区分储备、收入与交易资本"
+      ],
+      "falsifiers": [
+        "储备持续被亏损补贴",
+        "总风险超过能力"
+      ],
+      "required_data": [
+        "portfolio",
+        "cashNeeds",
+        "financing"
+      ],
+      "modern_translation_boundary": "三千元保证金等历史例子不等于最坏损失；停止单也不保证成交价。",
+      "cross_challenge": "失败路径会不会触及生活资金或清空储备？"
+    },
+    {
+      "id": "B38-R06",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "预期利润应足以覆盖风险、失败交易和费用；在有利行动后增加仓位也须继续限制总风险。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          53,
+          54,
+          59
+        ]
+      },
+      "conditions": [
+        "存在合理退出与费用估计"
+      ],
+      "falsifiers": [
+        "收益只是假定目标",
+        "追加后风险失控"
+      ],
+      "required_data": [
+        "riskBudget",
+        "executionPlan",
+        "tradeCosts"
+      ],
+      "modern_translation_boundary": "三四倍预期风险是作者经验要求，不是胜率或已校准收益。",
+      "cross_challenge": "目标是否有依据，总仓压力损失是多少？"
+    },
+    {
+      "id": "B38-R07",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "收入资产选择需看信用、担保、期限和流动性，低价高息不自动安全。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          63,
+          70,
+          79,
+          82
+        ]
+      },
+      "conditions": [
+        "核实契约、偿付及资金使用期限"
+      ],
+      "falsifiers": [
+        "偿债能力恶化",
+        "无法及时出售"
+      ],
+      "required_data": [
+        "securityTerms",
+        "financials",
+        "liquidity"
+      ],
+      "modern_translation_boundary": "旧式设备信托、票据和按揭不能直接视作现代无风险产品。",
+      "cross_challenge": "收益率高是否是违约或流动性补偿？"
+    },
+    {
+      "id": "B38-R08",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "资本增长与股本、股利、认购权的变化要一起解释。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          72,
+          76,
+          83,
+          85,
+          123,
+          130
+        ]
+      },
+      "conditions": [
+        "还原总股数、权利和可比价格"
+      ],
+      "falsifiers": [
+        "股数增长而总价值或盈利不增"
+      ],
+      "required_data": [
+        "corporateActions",
+        "financials",
+        "priceHistory"
+      ],
+      "modern_translation_boundary": "股票股利和拆股不是外部现金；不把作者表面分配计算当现金收益率。",
+      "cross_challenge": "总企业价值及每股盈利有没有同步支持？"
+    },
+    {
+      "id": "B38-R09",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "持续把钱投入企业可创造价值，也会在错误扩张或控制变化中破坏价值；不要与证券结婚。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          89,
+          90
+        ]
+      },
+      "conditions": [
+        "持续复核管理、政策和回报"
+      ],
+      "falsifiers": [
+        "扩张资金回报不足",
+        "旧管理声誉掩盖新坏事实"
+      ],
+      "required_data": [
+        "fundamentals",
+        "managementHistory"
+      ],
+      "modern_translation_boundary": "不因长期持有理念拒绝检查。",
+      "cross_challenge": "新哈芬反例是否适用于当前增长叙事？"
+    },
+    {
+      "id": "B38-R10",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "资源与新企业投资需要专业调查、独立复核和可能损失全部投入的准备。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          90,
+          104,
+          201,
+          207
+        ]
+      },
+      "conditions": [
+        "调查资源、技术、人员、融资与商业路径"
+      ],
+      "falsifiers": [
+        "专家利益关联",
+        "真实资产远小于宣称",
+        "储备或资金不足"
+      ],
+      "required_data": [
+        "technicalDueDiligence",
+        "financials",
+        "managementEvidence"
+      ],
+      "modern_translation_boundary": "一块高品位样本不能当全矿储量；成功案例不提供无损保证。",
+      "cross_challenge": "专业复核是否独立，最坏损失可否承受？"
+    },
+    {
+      "id": "B38-R11",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "六项调查从长趋势、行业、公司变化、管理、财务盈利到中间技术位置。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          105,
+          108
+        ]
+      },
+      "conditions": [
+        "各项资料足以支持或反对判断"
+      ],
+      "falsifiers": [
+        "任何关键项缺失或转差"
+      ],
+      "required_data": [
+        "benchmarkHistory",
+        "sectorPeers",
+        "fundamentals",
+        "managementEvidence",
+        "priceHistory"
+      ],
+      "modern_translation_boundary": "现代数据结构与数值门槛由系统制定；只给日线不能满足全流程。",
+      "cross_challenge": "哪一项未调查，是否用强价格替代弱证据？"
+    },
+    {
+      "id": "B38-R12",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "长趋势优先，但个别行业或股票可能逆市；例外必须解释经济和供求原因。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          107,
+          113
+        ]
+      },
+      "conditions": [
+        "强行业改善及公司条件支持",
+        "识别大市压力"
+      ],
+      "falsifiers": [
+        "企业或行业改善不足",
+        "逆市相对表现消失"
+      ],
+      "required_data": [
+        "benchmarkHistory",
+        "sectorPeers",
+        "fundamentals",
+        "priceHistory"
+      ],
+      "modern_translation_boundary": "系统risk_off硬门可更保守；专家不得覆盖。",
+      "cross_challenge": "例外证据是否足以承受整体市场逆风？"
+    },
+    {
+      "id": "B38-R13",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "技术强弱含外部持仓、购买力、潜在清算与空头回补等未来行动。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          114,
+          118
+        ]
+      },
+      "conditions": [
+        "有可信持仓或供求资料"
+      ],
+      "falsifiers": [
+        "量价同样支持另一原因",
+        "持仓资料过时"
+      ],
+      "required_data": [
+        "ownershipEvidence",
+        "shortInterest",
+        "tradeEvidence"
+      ],
+      "modern_translation_boundary": "OBV/CMF是日线代理，不能声称真实机构流量或某账户行为。",
+      "cross_challenge": "你如何知道买卖者身份及其未来行动？"
+    },
+    {
+      "id": "B38-R14",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "公开小公告结合行业历史与公司查证可能产生研究机会，朋友价位提示并非主要依据。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          121,
+          126,
+          131
+        ]
+      },
+      "conditions": [
+        "确认公告、持续政策与企业位置"
+      ],
+      "falsifiers": [
+        "公告误解",
+        "后续政策改变",
+        "缺新增价值"
+      ],
+      "required_data": [
+        "announcements",
+        "fundamentals",
+        "industryHistory"
+      ],
+      "modern_translation_boundary": "不能由单个成功留声机案例推出所有小公告都有大行情。",
+      "cross_challenge": "何者为公开事实，何者为作者解释或未经证实的传闻？"
+    },
+    {
+      "id": "B38-R15",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "相对抵抗、活跃与疑似派发促使部分兑现，为继续上升或下降保留不同处理。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          128,
+          131
+        ]
+      },
+      "conditions": [
+        "有可比价格、成交和真实退出能力"
+      ],
+      "falsifiers": [
+        "派发解释无证据",
+        "无法按预计价格成交"
+      ],
+      "required_data": [
+        "priceHistory",
+        "tradeEvidence",
+        "liquidity",
+        "executionPlan"
+      ],
+      "modern_translation_boundary": "原书未完整编码派发迹象；剩余低账本成本不等于无风险。",
+      "cross_challenge": "是内部人出售还是其他解释，余仓仍可损失多少？"
+    },
+    {
+      "id": "B38-R16",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "名人、机构和作者自己都会犯错，成功是整体利润抵过损失，不能定义为从不认亏。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          135,
+          138
+        ]
+      },
+      "conditions": [
+        "总账户含现金与持仓市值及成本"
+      ],
+      "falsifiers": [
+        "只统计已实现盈利",
+        "把未卖亏损删除"
+      ],
+      "required_data": [
+        "portfolio",
+        "cashFlows",
+        "tradeCosts"
+      ],
+      "modern_translation_boundary": "不把转述六成正确改成模型胜率。",
+      "cross_challenge": "若按市值列全部持仓，成绩是否仍成立？"
+    },
+    {
+      "id": "B38-R17",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "时间停止检查即时预期未兑现，价格停止检查逆向损失；开始希望时要重估。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          138,
+          140
+        ]
+      },
+      "conditions": [
+        "原先任务、期限和风险清楚"
+      ],
+      "falsifiers": [
+        "短期失败临时改名长期",
+        "停止拖延或无法执行"
+      ],
+      "required_data": [
+        "horizon",
+        "executionPlan",
+        "riskBudget",
+        "priceHistory"
+      ],
+      "modern_translation_boundary": "转述两三天适用于其交易情景，不套到所有长期投资；跳空风险要另算。",
+      "cross_challenge": "时间、价格与资金边界是否预先写下？"
+    },
+    {
+      "id": "B38-R18",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "市场噪声可能损害判断，精简行情适用于已熟悉证券的特定交易观察。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          141,
+          143
+        ]
+      },
+      "conditions": [
+        "预先完成需要的企业调查"
+      ],
+      "falsifiers": [
+        "精简遗漏重大财务或事件信息"
+      ],
+      "required_data": [
+        "priceHistory",
+        "securityKnowledge",
+        "materialEvents"
+      ],
+      "modern_translation_boundary": "没有消息机不等于所有基本面无用，也不等于日线就是完整盘口。",
+      "cross_challenge": "过滤的是噪声，还是删除了必要的新信息？"
+    },
+    {
+      "id": "B38-R19",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "行业远见需连接需求、供给约束和利润归属，而非仅延长热度。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          147,
+          154
+        ]
+      },
+      "conditions": [
+        "统计口径和时间一致",
+        "检验生产响应及价值链"
+      ],
+      "falsifiers": [
+        "新供给、替代或衰退改变短缺",
+        "估值已支付增长"
+      ],
+      "required_data": [
+        "industrySupplyDemand",
+        "companyCosts",
+        "fundamentals",
+        "valuation"
+      ],
+      "modern_translation_boundary": "原油历史预测与已实现事实分开；图只解释相对轨迹。",
+      "cross_challenge": "需求增长是否真的传到这家公司的股东？"
+    },
+    {
+      "id": "B38-R20",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "向下摊平先查下跌原因；企业价值可能下降更快，买得更低不是证明。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          157,
+          160
+        ]
+      },
+      "conditions": [
+        "新增调查显示财务商业条件改善",
+        "资本和回售计划充分"
+      ],
+      "falsifiers": [
+        "企业价值恶化",
+        "以回本需要代替判断"
+      ],
+      "required_data": [
+        "fundamentals",
+        "priceHistory",
+        "riskBudget",
+        "cashFlows"
+      ],
+      "modern_translation_boundary": "后发现的承销价及财务改善不得回填首次买入。",
+      "cross_challenge": "加仓有何新增证据，信息在当时已可获得吗？"
+    },
+    {
+      "id": "B38-R21",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "摊平不能依靠无限资金；下跌超预期会先耗尽资本，失败后可暂停和小规模学习。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          160,
+          163
+        ]
+      },
+      "conditions": [
+        "压力损失与最高总投入明确"
+      ],
+      "falsifiers": [
+        "资金不足仍追加",
+        "长期补洞无改进"
+      ],
+      "required_data": [
+        "cashNeeds",
+        "riskBudget",
+        "financing",
+        "decisionJournal"
+      ],
+      "modern_translation_boundary": "八成五九成失败原因比例属作者经验概括，不是已核实统计。",
+      "cross_challenge": "价格再跌预期两三倍，计划还有执行空间吗？"
+    },
+    {
+      "id": "B38-R22",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "书面列有利不利事实，独立判断应能回应反证与撤回。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          168,
+          169,
+          178,
+          183
+        ]
+      },
+      "conditions": [
+        "资料按当时可见性记录"
+      ],
+      "falsifiers": [
+        "只依靠内幕人物",
+        "成功增加过度押注"
+      ],
+      "required_data": [
+        "decisionJournal",
+        "historicalAvailability",
+        "evidenceSources"
+      ],
+      "modern_translation_boundary": "独立不是拒绝外部资料，资料也不能免除退出和风险判断。",
+      "cross_challenge": "假设失败需要什么事实，而非什么借口？"
+    },
+    {
+      "id": "B38-R23",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "停止持续消耗收入资产的交易；替代证券只有在安全和流动性等条件相当时才比较优势。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          170,
+          174
+        ]
+      },
+      "conditions": [
+        "投资与交易资金隔离",
+        "同口径比较备选"
+      ],
+      "falsifiers": [
+        "储备常态化被抽走",
+        "忽略税费或差异风险"
+      ],
+      "required_data": [
+        "portfolio",
+        "alternatives",
+        "financials",
+        "tradeCosts"
+      ],
+      "modern_translation_boundary": "不以当前赢家回填过去备选，不保证换仓后迅速补亏。",
+      "cross_challenge": "换仓优势来自新增价值还是不愿承认旧损失？"
+    },
+    {
+      "id": "B38-R24",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "能力和耐心先于实践；外部注资使账户活跃不能证明交易成功。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          187,
+          197
+        ]
+      },
+      "conditions": [
+        "分清储蓄和亏损补充",
+        "学习与有限风险实践结合"
+      ],
+      "falsifiers": [
+        "自认专业即免检验",
+        "一开始押尽资金"
+      ],
+      "required_data": [
+        "cashFlows",
+        "decisionJournal",
+        "riskBudget"
+      ],
+      "modern_translation_boundary": "个人学习年限不作为所有人固定资格；教育也无获利保证。",
+      "cross_challenge": "账户增加的钱是收益还是外部投入？"
+    },
+    {
+      "id": "B38-R25",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "投资前调查须匹配专业范围，企业实力与合适技术位置需分别验证。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          201,
+          210
+        ]
+      },
+      "conditions": [
+        "技术、财务、商业与披露调查充分"
+      ],
+      "falsifiers": [
+        "熟人意见代替专业审查",
+        "好公司但供给仍沉重"
+      ],
+      "required_data": [
+        "technicalDueDiligence",
+        "fundamentals",
+        "sectorPeers",
+        "tradeEvidence"
+      ],
+      "modern_translation_boundary": "所谓精确火花未完全给数值定义；自有信号不冒称原书公式。",
+      "cross_challenge": "知道买什么之后，关于何时买仍缺哪些证据？"
+    },
+    {
+      "id": "B38-R26",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "组合需跨业务、地域和不同影响因素分散，名称数量不等于独立风险。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          210,
+          211
+        ]
+      },
+      "conditions": [
+        "全组合风险资料可用"
+      ],
+      "falsifiers": [
+        "多只证券共享同一商品、信用或融资风险"
+      ],
+      "required_data": [
+        "portfolio",
+        "exposureMap",
+        "correlations"
+      ],
+      "modern_translation_boundary": "十至二十种为作者建议，相关性和权重算法属现代补充。",
+      "cross_challenge": "一个共同冲击会损害几成资产？"
+    },
+    {
+      "id": "B38-R27",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "持有人结构影响浮动供给和行动能力，但不能从成交量唯一识别机构或万能操作者。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          215,
+          219
+        ]
+      },
+      "conditions": [
+        "持有人资料范围、发布时间与可交易股份明确"
+      ],
+      "falsifiers": [
+        "持有人证据缺失",
+        "群体不协调",
+        "其他解释更有力"
+      ],
+      "required_data": [
+        "ownershipEvidence",
+        "floatData",
+        "priceHistory",
+        "industryHistory"
+      ],
+      "modern_translation_boundary": "存量不等于流量；13F不包含全部净方向，公开滞后也要保留。",
+      "cross_challenge": "你知道的是登记、决定权、表决权还是实际经济风险？"
+    },
+    {
+      "id": "B38-R28",
+      "origin": "source_book_semantic_paraphrase",
+      "statement": "科学化是作者对规划和经验改进的期待，判断仍需训练和谦逊。",
+      "source": {
+        "book_id": "B38",
+        "pdf_pages": [
+          220,
+          222
+        ]
+      },
+      "conditions": [
+        "保存可失败命题和全部观察"
+      ],
+      "falsifiers": [
+        "成功说预感、失败说运气",
+        "流程化被等同确定预测"
+      ],
+      "required_data": [
+        "decisionJournal",
+        "validationDesign"
+      ],
+      "modern_translation_boundary": "不能宣称全书自动策略已验证，更不能生成伪概率。",
+      "cross_challenge": "预先规定的解释有没有被失败观察推翻？"
+    }
+  ],
+  "system_prompt": "你是B38的一位文献研究视角，只使用本书十四章深读、全书综合、页码和当前明确输入资料。先核实完整章节上下文是否加载，再明确收入投资/企业研究/短期交易目标。以第六章六项调查、第三章资本防线、第八章承认错误、第十章摊平条件、第十三章专业调查和异质分散、第十四章持有人边界共同推理。不得只挑成功案例，必须引用反例和跨章修订。研究资料缺失时明确弃权；日线不可代替财务、行业、持有人和真实资金。任何现代均线、波动、情境分类或停止阈值均标系统实现，不归于作者。回应质疑时提供相容反解释，保持资料时点，禁止未来信息、事后改理由或名人担保。最终只给有来源的条件性结论和撤回条件；系统硬门完全只读不可覆盖。一致票、heuristic分数不得表达成校准概率。你不是作者本人；本档案是coverage_qualified而非逐字扫描校勘。",
+  "modern_external_source_note": {
+    "url": "https://www.sec.gov/rules-regulations/staff-guidance/frequently-asked-questions-about-form-13f",
+    "role": "仅第十四章现代数据边界：投资决定权/表决权及空头未申报；不是原书来源，也不提供任何当前机构净交易判断。",
+    "review_date": "2026-10-10"
+  }
+}

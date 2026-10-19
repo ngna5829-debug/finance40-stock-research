@@ -1,0 +1,956 @@
+{
+  "book_id": "P12",
+  "mechanical_check_is_not_semantic_QA": true,
+  "source_sha256": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+  "source_bytes": 453051,
+  "source_lines": 7672,
+  "chapter_metadata_plan_audit_entries_identical": true,
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 2769,
+      "count_matches": true
+    },
+    {
+      "chapter": 2,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 3254,
+      "count_matches": true
+    },
+    {
+      "chapter": 3,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 3382,
+      "count_matches": true
+    },
+    {
+      "chapter": 4,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 5187,
+      "count_matches": true
+    },
+    {
+      "chapter": 5,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 6612,
+      "count_matches": true
+    },
+    {
+      "chapter": 6,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 3609,
+      "count_matches": true
+    },
+    {
+      "chapter": 7,
+      "source_hash_matches": true,
+      "whole_declared_original_range_matches_normalized_piece": true,
+      "draft_hash_matches": true,
+      "strict_han": 4196,
+      "count_matches": true
+    }
+  ],
+  "strict_body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5187,
+    6612,
+    3609,
+    4196
+  ],
+  "strict_body_han_total": 29009,
+  "minimum_han": 2769,
+  "rules": 41,
+  "fragment_count": 97,
+  "fragments": [
+    {
+      "rule": "P12-R01",
+      "lines": [
+        93,
+        122
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R01",
+      "lines": [
+        132,
+        152
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R02",
+      "lines": [
+        300,
+        351
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R02",
+      "lines": [
+        593,
+        601
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R03",
+      "lines": [
+        356,
+        412
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R03",
+      "lines": [
+        603,
+        604
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R04",
+      "lines": [
+        424,
+        504
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R05",
+      "lines": [
+        509,
+        567
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R05",
+      "lines": [
+        606,
+        615
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R06",
+      "lines": [
+        625,
+        640
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R06",
+      "lines": [
+        732,
+        760
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R07",
+      "lines": [
+        642,
+        670
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R07",
+      "lines": [
+        999,
+        1078
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R08",
+      "lines": [
+        1146,
+        1185
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R08",
+      "lines": [
+        1193,
+        1225
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R08",
+      "lines": [
+        1230,
+        1233
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R09",
+      "lines": [
+        1269,
+        1362
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R09",
+      "lines": [
+        2319,
+        2325
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R10",
+      "lines": [
+        1483,
+        1552
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R10",
+      "lines": [
+        1582,
+        1640
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R10",
+      "lines": [
+        2343,
+        2372
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R11",
+      "lines": [
+        1642,
+        1718
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R11",
+      "lines": [
+        2386,
+        2389
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R12",
+      "lines": [
+        1777,
+        1831
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R12",
+      "lines": [
+        2435,
+        2479
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R13",
+      "lines": [
+        1872,
+        1949
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R13",
+      "lines": [
+        2518,
+        2534
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R14",
+      "lines": [
+        2498,
+        2511
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R14",
+      "lines": [
+        2559,
+        2569
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R15",
+      "lines": [
+        1979,
+        2049
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R15",
+      "lines": [
+        2051,
+        2118
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R15",
+      "lines": [
+        2544,
+        2557
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R15",
+      "lines": [
+        2571,
+        2586
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R16",
+      "lines": [
+        2132,
+        2172
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R16",
+      "lines": [
+        2193,
+        2226
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R16",
+      "lines": [
+        2250,
+        2309
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R16",
+      "lines": [
+        2682,
+        2683
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R17",
+      "lines": [
+        2731,
+        2849
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R17",
+      "lines": [
+        5049,
+        5062
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R18",
+      "lines": [
+        2851,
+        2871
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R18",
+      "lines": [
+        2915,
+        2935
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R18",
+      "lines": [
+        5119,
+        5149
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R19",
+      "lines": [
+        3039,
+        3065
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R19",
+      "lines": [
+        5172,
+        5186
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R20",
+      "lines": [
+        3086,
+        3113
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R20",
+      "lines": [
+        5188,
+        5191
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R20",
+      "lines": [
+        5217,
+        5219
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R21",
+      "lines": [
+        3195,
+        3231
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R21",
+      "lines": [
+        3272,
+        3328
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R21",
+      "lines": [
+        3384,
+        3433
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R22",
+      "lines": [
+        3454,
+        3555
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R22",
+      "lines": [
+        3609,
+        3646
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R22",
+      "lines": [
+        5266,
+        5290
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R23",
+      "lines": [
+        3650,
+        3695
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R23",
+      "lines": [
+        5312,
+        5323
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R24",
+      "lines": [
+        3697,
+        3767
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R24",
+      "lines": [
+        5333,
+        5343
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R25",
+      "lines": [
+        3788,
+        3817
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R25",
+      "lines": [
+        3866,
+        3963
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R25",
+      "lines": [
+        3974,
+        4039
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R25",
+      "lines": [
+        5355,
+        5409
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R26",
+      "lines": [
+        4060,
+        4152
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R26",
+      "lines": [
+        5411,
+        5434
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R27",
+      "lines": [
+        4174,
+        4221
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R27",
+      "lines": [
+        4333,
+        4465
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R28",
+      "lines": [
+        4498,
+        4529
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R28",
+      "lines": [
+        5448,
+        5456
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R29",
+      "lines": [
+        4531,
+        4595
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R29",
+      "lines": [
+        4611,
+        4662
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R29",
+      "lines": [
+        5490,
+        5506
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R30",
+      "lines": [
+        4702,
+        4802
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R30",
+      "lines": [
+        5536,
+        5550
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R30",
+      "lines": [
+        5567,
+        5572
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R31",
+      "lines": [
+        4907,
+        4975
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R31",
+      "lines": [
+        5552,
+        5572
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R32",
+      "lines": [
+        5603,
+        5636
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R32",
+      "lines": [
+        5693,
+        5759
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R33",
+      "lines": [
+        5778,
+        5824
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R33",
+      "lines": [
+        5880,
+        5957
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R33",
+      "lines": [
+        6093,
+        6107
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R34",
+      "lines": [
+        6109,
+        6144
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R34",
+      "lines": [
+        6169,
+        6211
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R34",
+      "lines": [
+        6074,
+        6080
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R35",
+      "lines": [
+        6221,
+        6281
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R35",
+      "lines": [
+        7156,
+        7180
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R36",
+      "lines": [
+        6338,
+        6399
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R36",
+      "lines": [
+        7235,
+        7248
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R37",
+      "lines": [
+        6414,
+        6492
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R38",
+      "lines": [
+        6494,
+        6502
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R38",
+      "lines": [
+        7250,
+        7260
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R39",
+      "lines": [
+        6611,
+        6664
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R39",
+      "lines": [
+        7262,
+        7280
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R40",
+      "lines": [
+        6738,
+        6823
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R40",
+      "lines": [
+        6871,
+        6928
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R40",
+      "lines": [
+        6954,
+        6993
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R41",
+      "lines": [
+        6996,
+        7018
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    },
+    {
+      "rule": "P12-R41",
+      "lines": [
+        7070,
+        7152
+      ],
+      "raw_CRLF_hash_matches": true,
+      "precise_original_printed_pages_false": true
+    }
+  ],
+  "all_expected_source_and_draft_hashes_unchanged_since_independent_review": true,
+  "all_checks_pass": true
+}

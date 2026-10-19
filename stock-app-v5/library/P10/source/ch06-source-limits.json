@@ -1,0 +1,28 @@
+{
+  "book_id": "P10",
+  "original_scan_obtained": false,
+  "source_unmodified": true,
+  "experiments_run": false,
+  "issues": [
+    {
+      "source_lines": [
+        3379,
+        3386
+      ],
+      "type": "annuity_principal_basis_not_fully_specified",
+      "author_rate": "one-half per cent each year",
+      "resolution": "不将0.5%当全息或自行推贷款200年，原年金还本计量需完整合同"
+    },
+    {
+      "source_lines": [
+        3545,
+        3550
+      ],
+      "type": "aggregate_balance_classification_unknown",
+      "author_assets_marks": 490734834,
+      "author_liabilities_marks": 489234357,
+      "arithmetic_difference_marks": 1500477,
+      "resolution": "仅源内算术，不定净资产/股本/准备，1907金额与1908社数分开；原表未核"
+    }
+  ]
+}

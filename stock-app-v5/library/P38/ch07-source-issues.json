@@ -1,0 +1,121 @@
+[
+  {
+    "issue": "PVlessFVexceptionzero",
+    "printed_page": 199,
+    "author_meaning": "Alwayslessunlessnegativerate",
+    "independent_analysis": "Positivecashn>0 andr0 equals;negative allowedgrossratecanPVgreater"
+  },
+  {
+    "issue": "Fig76 sign",
+    "printed_page": 205,
+    "author_meaning": "PVpositive2000 generatesnegative2433.305805 vsprosetargetpositive",
+    "independent_analysis": "Magnituderight,directionnotconsistentwithinvestmentnegativePV"
+  },
+  {
+    "issue": "Fig77 hardcode wrongFV andanswer",
+    "printed_page": 206,
+    "author_meaning": "PV(.05,5,0,-100)→100",
+    "independent_analysis": "78.35261665;referenceFVdisplay-127.6 underlyinghiddenprecisionunknown;do notguess"
+  },
+  {
+    "issue": "Zerocoupondenominatormissing1",
+    "printed_page": 215,
+    "author_meaning": "1000/(.05)^30=.231377*1000=231.38",
+    "independent_analysis": "Correct1000/(1.05)^30; printedliteraldenominatorhugeunrelated"
+  },
+  {
+    "issue": "Dollar3percent100yearmonthly printed397.44",
+    "printed_page": 219,
+    "author_meaning": "1*(1.0025)^1200=397.44",
+    "independent_analysis": "20.01048204, not397.44; graphicverified"
+  },
+  {
+    "issue": "Monthly6percent1061.67 rounding/truncation",
+    "printed_pages": [
+      218,
+      219
+    ],
+    "author_meaning": "1061.67",
+    "independent_analysis": "1061.67781186 rounds1061.68;small0.0078 errorretain"
+  },
+  {
+    "issue": "Maximum20yearinflation3unsupported",
+    "printed_page": 218,
+    "author_meaning": "Highestannualinflationlast20years3",
+    "independent_analysis": "BLS Dec2007 twelve-month4.1 alreadycounterexample;metricwindowmustidentified",
+    "primary_url": "https://www.bls.gov/opub/ted/2008/jan/wk2/art04.htm"
+  },
+  {
+    "issue": "Fixedrate notforecastguarantee",
+    "printed_pages": [
+      195,
+      196,
+      215,
+      218,
+      219,
+      220
+    ],
+    "author_meaning": "House/rate/high60pctlonggrowth cases",
+    "independent_analysis": "Scenariosrequirefixedrealizablerate,noextraflows,fees/tax/risks;notrealstockpath"
+  },
+  {
+    "issue": "Greaterfrequency condition quoteconvention",
+    "printed_pages": [
+      218,
+      219
+    ],
+    "author_meaning": "MorefrequentcompoundingincreasesFVallotherconstant",
+    "independent_analysis": "ConstantnominalAPR comparison;fixEAR givesnoautomaticgain;periodrate aligned"
+  },
+  {
+    "issue": "Rule72 approximate/differentAPR intervals",
+    "printed_pages": [
+      219,
+      220
+    ],
+    "author_meaning": "Doubletime72/percentrate,creditcard24APR3years",
+    "independent_analysis": "Exactlogdoubletime;annual24→3.222years,monthlyAPR24→2.917years;futuregrowthuncertain"
+  },
+  {
+    "issue": "Review3 futurevaluesdiffterminalyears",
+    "printed_page": 224,
+    "author_meaning": "CompareA10yearFV B15yearFV",
+    "independent_analysis": "Magnitudecomparison answersprintedFVquestiononly; notinvestment superiority oncommonhorizon"
+  },
+  {
+    "issue": "Money/inflation/policy broadclaims",
+    "printed_pages": [
+      215,
+      216,
+      217,
+      218,
+      223
+    ],
+    "author_meaning": "TVMlargelyinflation;lowratesraiseinflation;cashmoneysupplylegaltender; fiscalpolicyforFed",
+    "independent_analysis": "Opportunityvaluecanexistwithoutinflation;transmissionconditional/noidentifiedsample;actualaggregates/toolissuerdefined;monetaryvsfiscaldistinct"
+  },
+  {
+    "issue": "FractionalN creditingcontract",
+    "printed_pages": [
+      200,
+      201,
+      209,
+      211
+    ],
+    "author_meaning": "8.7667yearssolvedconstantannualrate",
+    "independent_analysis": "Mathematicalfractionalperiodnotcontractwithdrawalaccess;exactannualsettlementmightonlycompletedperiods"
+  },
+  {
+    "issue": "NonzeroPMTchapterendnotlumpsum",
+    "printed_page": 226,
+    "author_meaning": "RATEwithPMT2 andPMTunknownexercise",
+    "independent_analysis": "Requiresannuitycashflows/defaultend timing; allimageinputsreadand separatelycalculated;externalvideonotviewed"
+  },
+  {
+    "issue": "Ten-million annual formula left-side principal missing three zeros",
+    "printed_page": 219,
+    "author_meaning": "Text ten million at12%, but formula10000×1.12=11200000; next quarterly formula uses10000000",
+    "independent_analysis": "10000000×1.12=11200000; preserve original printed typo separately, not an empirical investment return",
+    "rootActuallyViewedOriginalImage": "practical_team/P38-QA-images/pdf234.png"
+  }
+]

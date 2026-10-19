@@ -1,0 +1,31 @@
+{
+  "checks": {
+    "nine_chapters": true,
+    "all_original_chapters_read": true,
+    "all_page_text_read": true,
+    "all_page_text_hashes": true,
+    "rule_ids_unique": true,
+    "rule_page_ids_exist": true,
+    "rule_page_mappings": true,
+    "rules_input_and_abstention": true,
+    "current_market_flags_false": true,
+    "one_book_one_expert": true,
+    "counts_and_hashes": true,
+    "artifact_hashes": true,
+    "complete_numbered_source": true,
+    "all_chapters_han_min": true,
+    "duplicate_paragraphs_none": true,
+    "independent_QA_pending": true,
+    "no_all_glyph_claim": true,
+    "raw_transcription_preserved": true
+  },
+  "passed": 18,
+  "failed": 0,
+  "method": "mechanical invariants after actual sequential semantic reading, not independent semantic QA",
+  "book_complete_qualified": true,
+  "independent_semantic_QA": "pass_with_source_limits",
+  "expert_sha256": "79e8b2e0c3ecde77f2365627e340f615194fb985de09ebbf0d587a15cf9bef5a",
+  "audit_sha256": "f3c5431da355dcf64a45edaa271166da333c0db724bc887d88d32532f44dce33",
+  "independent_QA_file": "../../practical_team/P17-independent-QA.json",
+  "independent_QA_sha256": "1e6bafd2dfd815ad99ea9440b8949c42b83eee1aacd01f93138066d400a09de5"
+}

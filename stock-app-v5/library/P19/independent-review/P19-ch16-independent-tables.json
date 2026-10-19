@@ -1,0 +1,485 @@
+{
+  "book_id": "P19",
+  "method": "Allcells handtranscribed while actually viewing original PDFs274/281; arithmetic computed fromdisplayedrounded inputs only. No fullunderlying1819reports/Tooke/Soetbeer reviewed.",
+  "original_pdf_pages": [
+    274,
+    281,
+    287
+  ],
+  "table262_fields": [
+    "month",
+    "FrenchGold",
+    "ForeignGold",
+    "HamburgExchange",
+    "originalPremiumPct"
+  ],
+  "table262_rows": [
+    [
+      "1795-08",
+      40.83,
+      40.85,
+      39.3,
+      3.9
+    ],
+    [
+      "1795-09",
+      47.94,
+      47.99,
+      39.82,
+      20.4
+    ],
+    [
+      "1795-10",
+      73.83,
+      76.05,
+      62.54,
+      21.6
+    ],
+    [
+      "1795-11",
+      129.83,
+      null,
+      117.88,
+      10.1
+    ],
+    [
+      "1795-12",
+      172.85,
+      null,
+      156.97,
+      10.1
+    ],
+    [
+      "1796-01",
+      218.99,
+      null,
+      197.31,
+      11.0
+    ],
+    [
+      "1796-02",
+      257.42,
+      null,
+      244.76,
+      5.2
+    ]
+  ],
+  "table262_recompute": [
+    {
+      "month": "1795-08",
+      "French_premium": 3.893129770992365,
+      "Foreign_premium": 3.9440203562341125,
+      "originalPremiumPct": 3.9
+    },
+    {
+      "month": "1795-09",
+      "French_premium": 20.3917629331994,
+      "Foreign_premium": 20.51732797589152,
+      "originalPremiumPct": 20.4
+    },
+    {
+      "month": "1795-10",
+      "French_premium": 18.052446434282054,
+      "Foreign_premium": 21.602174608250714,
+      "originalPremiumPct": 21.6
+    },
+    {
+      "month": "1795-11",
+      "French_premium": 10.137427892772322,
+      "Foreign_premium": null,
+      "originalPremiumPct": 10.1
+    },
+    {
+      "month": "1795-12",
+      "French_premium": 10.116582786519723,
+      "Foreign_premium": null,
+      "originalPremiumPct": 10.1
+    },
+    {
+      "month": "1796-01",
+      "French_premium": 10.98778571790584,
+      "Foreign_premium": null,
+      "originalPremiumPct": 11.0
+    },
+    {
+      "month": "1796-02",
+      "French_premium": 5.17241379310347,
+      "Foreign_premium": null,
+      "originalPremiumPct": 5.2
+    }
+  ],
+  "table269_fields": [
+    "year",
+    "gold",
+    "silver",
+    "Paris",
+    "Hamburg",
+    "actualPrices1782",
+    "silverPrices1782",
+    "HamburgGoldSilverRatio"
+  ],
+  "table269_rows": [
+    [
+      1797,
+      100,
+      102.6,
+      null,
+      98,
+      110,
+      107.2,
+      15.41
+    ],
+    [
+      1798,
+      100,
+      100.1,
+      null,
+      96,
+      118,
+      117.9,
+      15.59
+    ],
+    [
+      1799,
+      null,
+      106.7,
+      null,
+      103,
+      130,
+      121.9,
+      15.74
+    ],
+    [
+      1800,
+      107,
+      113.5,
+      null,
+      113,
+      141,
+      124.3,
+      15.68
+    ],
+    [
+      1801,
+      109,
+      117.3,
+      null,
+      113,
+      153,
+      130.5,
+      15.46
+    ],
+    [
+      1802,
+      null,
+      113.7,
+      105.7,
+      109,
+      119,
+      104.8,
+      15.26
+    ],
+    [
+      1803,
+      null,
+      111.9,
+      102.9,
+      105,
+      128,
+      114.4,
+      15.41
+    ],
+    [
+      1804,
+      103,
+      108.3,
+      100.1,
+      101,
+      122,
+      112.7,
+      15.41
+    ],
+    [
+      1805,
+      103,
+      107.4,
+      98.8,
+      103,
+      136,
+      126.7,
+      15.79
+    ],
+    [
+      1806,
+      null,
+      110.5,
+      103,
+      105,
+      133,
+      120.4,
+      15.52
+    ],
+    [
+      1807,
+      null,
+      110.2,
+      103.5,
+      104,
+      132,
+      119.8,
+      15.43
+    ],
+    [
+      1808,
+      null,
+      107.1,
+      108.4,
+      106,
+      149,
+      139.2,
+      16.08
+    ],
+    [
+      1809,
+      null,
+      110.4,
+      123.3,
+      121,
+      161,
+      145.8,
+      15.96
+    ],
+    [
+      1810,
+      null,
+      113.9,
+      121.6,
+      120,
+      164,
+      144,
+      15.77
+    ],
+    [
+      1811,
+      123.9,
+      120.7,
+      139.1,
+      144,
+      147,
+      121.8,
+      15.53
+    ],
+    [
+      1812,
+      130.2,
+      126.5,
+      131.2,
+      128,
+      148,
+      117,
+      16.11
+    ],
+    [
+      1813,
+      136.4,
+      136.7,
+      128.6,
+      130,
+      149,
+      109,
+      16.25
+    ],
+    [
+      1814,
+      124.4,
+      124.3,
+      116.4,
+      119,
+      153,
+      123.1,
+      15.04
+    ],
+    [
+      1815,
+      118.7,
+      117.5,
+      115.6,
+      114,
+      132,
+      112.3,
+      15.26
+    ],
+    [
+      1816,
+      102.9,
+      100.9,
+      99.6,
+      100,
+      109,
+      108,
+      15.28
+    ],
+    [
+      1817,
+      102.2,
+      104.3,
+      102,
+      102,
+      120,
+      115.1,
+      15.11
+    ],
+    [
+      1818,
+      104.6,
+      106.5,
+      104.3,
+      105,
+      135,
+      126.7,
+      15.35
+    ]
+  ],
+  "table269_silverprice_recompute": [
+    {
+      "year": 1797,
+      "fromDisplayedActualDivSilver": 107.21247563352827,
+      "originalDisplayedSilverprice": 107.2,
+      "difference": -0.012475633528268304
+    },
+    {
+      "year": 1798,
+      "fromDisplayedActualDivSilver": 117.88211788211788,
+      "originalDisplayedSilverprice": 117.9,
+      "difference": 0.017882117882123794
+    },
+    {
+      "year": 1799,
+      "fromDisplayedActualDivSilver": 121.83692596063729,
+      "originalDisplayedSilverprice": 121.9,
+      "difference": 0.06307403936271783
+    },
+    {
+      "year": 1800,
+      "fromDisplayedActualDivSilver": 124.22907488986785,
+      "originalDisplayedSilverprice": 124.3,
+      "difference": 0.0709251101321513
+    },
+    {
+      "year": 1801,
+      "fromDisplayedActualDivSilver": 130.43478260869566,
+      "originalDisplayedSilverprice": 130.5,
+      "difference": 0.06521739130434412
+    },
+    {
+      "year": 1802,
+      "fromDisplayedActualDivSilver": 104.66138962181178,
+      "originalDisplayedSilverprice": 104.8,
+      "difference": 0.13861037818821842
+    },
+    {
+      "year": 1803,
+      "fromDisplayedActualDivSilver": 114.38784629133154,
+      "originalDisplayedSilverprice": 114.4,
+      "difference": 0.012153708668463992
+    },
+    {
+      "year": 1804,
+      "fromDisplayedActualDivSilver": 112.65004616805172,
+      "originalDisplayedSilverprice": 112.7,
+      "difference": 0.04995383194828662
+    },
+    {
+      "year": 1805,
+      "fromDisplayedActualDivSilver": 126.6294227188082,
+      "originalDisplayedSilverprice": 126.7,
+      "difference": 0.0705772811918024
+    },
+    {
+      "year": 1806,
+      "fromDisplayedActualDivSilver": 120.36199095022624,
+      "originalDisplayedSilverprice": 120.4,
+      "difference": 0.038009049773762627
+    },
+    {
+      "year": 1807,
+      "fromDisplayedActualDivSilver": 119.78221415607986,
+      "originalDisplayedSilverprice": 119.8,
+      "difference": 0.017785843920137268
+    },
+    {
+      "year": 1808,
+      "fromDisplayedActualDivSilver": 139.12231559290385,
+      "originalDisplayedSilverprice": 139.2,
+      "difference": 0.0776844070961431
+    },
+    {
+      "year": 1809,
+      "fromDisplayedActualDivSilver": 145.83333333333331,
+      "originalDisplayedSilverprice": 145.8,
+      "difference": -0.03333333333330302
+    },
+    {
+      "year": 1810,
+      "fromDisplayedActualDivSilver": 143.9859525899912,
+      "originalDisplayedSilverprice": 144,
+      "difference": 0.014047410008799943
+    },
+    {
+      "year": 1811,
+      "fromDisplayedActualDivSilver": 121.78956089478044,
+      "originalDisplayedSilverprice": 121.8,
+      "difference": 0.010439105219560929
+    },
+    {
+      "year": 1812,
+      "fromDisplayedActualDivSilver": 116.99604743083003,
+      "originalDisplayedSilverprice": 117,
+      "difference": 0.003952569169968001
+    },
+    {
+      "year": 1813,
+      "fromDisplayedActualDivSilver": 108.99780541331383,
+      "originalDisplayedSilverprice": 109,
+      "difference": 0.0021945866861727836
+    },
+    {
+      "year": 1814,
+      "fromDisplayedActualDivSilver": 123.08930008045054,
+      "originalDisplayedSilverprice": 123.1,
+      "difference": 0.010699919549452375
+    },
+    {
+      "year": 1815,
+      "fromDisplayedActualDivSilver": 112.3404255319149,
+      "originalDisplayedSilverprice": 112.3,
+      "difference": -0.04042553191490583
+    },
+    {
+      "year": 1816,
+      "fromDisplayedActualDivSilver": 108.02775024777007,
+      "originalDisplayedSilverprice": 108,
+      "difference": -0.02775024777007218
+    },
+    {
+      "year": 1817,
+      "fromDisplayedActualDivSilver": 115.05273250239694,
+      "originalDisplayedSilverprice": 115.1,
+      "difference": 0.04726749760305893
+    },
+    {
+      "year": 1818,
+      "fromDisplayedActualDivSilver": 126.7605633802817,
+      "originalDisplayedSilverprice": 126.7,
+      "difference": -0.0605633802816925
+    }
+  ],
+  "retained_limits": [
+    "262premiumhasmixedFrench/Foreignclosestbasis;donot imposeoneuniformformula",
+    "269goldmissing/spasmodicpre1811;nilnotzero orinterpolated",
+    "269silverstd60.84d anddollar59.3d differingbasis;FXcolumnsforeignunitpremiumnotdirectfrancsperGBP",
+    "275original6.5d percentunit unresolved;Act1819 stages1819/1820/1821 vsactualmarket earlierpar notsameevent",
+    "262physicalcase4723/8Englishgrains and12 3/8 marks originalfractions vsdamagedOCR472J/12|; nofullnumglyphaudit",
+    "historicalsource not currentcalibrated investmentdata"
+  ]
+}

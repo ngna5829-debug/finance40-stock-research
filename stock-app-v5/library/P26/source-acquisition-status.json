@@ -1,0 +1,25 @@
+{
+  "book_id": "P26",
+  "full_public_pdf_obtained": true,
+  "full_public_archive_ocr_obtained": true,
+  "source_version_title1893_copyright1891_confirmed": true,
+  "reading_complete": true,
+  "chapters_read": 11,
+  "failed_endpoints": [
+    {
+      "url": "https://archive.org/metadata/cu31924030174381",
+      "result": "HTTP502; no metadata body obtained"
+    },
+    {
+      "url": "https://archive.org/download/cu31924030174381/cu31924030174381_djvu.xml",
+      "result": "HTTP500 HTML170bytes; not XML; saved asaccess-error"
+    }
+  ],
+  "no_authentication_or_access_control_bypass": true,
+  "successful_public_pdf": "source/original-1893.pdf",
+  "successful_public_ocr": "source/archive-djvu.txt",
+  "full_book_reading_complete": true,
+  "whole_dossier_completed": true,
+  "independent_semantic_review": "pending",
+  "body_han_total": 32394
+}

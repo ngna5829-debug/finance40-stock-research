@@ -1,0 +1,127 @@
+{
+  "book_id": "P12",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "all_historical_numbers_verified": false,
+  "experiments_run": false,
+  "all_notes76to144_and_ABC_read": true,
+  "issues": [
+    {
+      "source_lines": [
+        3899,
+        3901
+      ],
+      "note_lines": [
+        5382,
+        5386
+      ],
+      "type": "census_year_source_difference",
+      "resolution": "正文Sep1916普查vs注法令Aug1918且Mar1917控制，均保留，原扫描及原法令未核，不默改年份"
+    },
+    {
+      "source_lines": [
+        4498,
+        4508
+      ],
+      "type": "trade_surplus_bridge_not_resolved",
+      "source_improvement_million": 500,
+      "source_old_five_year_deficit_million": 370,
+      "visible_difference_million": 130,
+      "source_assumed_remaining_million": 250,
+      "resolution": "保留原追加假设及算术桥缺口，不改成单年逆差165来圆结果，不用于精算"
+    },
+    {
+      "source_lines": [
+        3737,
+        3739
+      ],
+      "type": "calendar_end_conflict",
+      "1930_plus30": 1960,
+      "1918_plus48": 1966,
+      "resolution": "不默改1930/48，期限缺口保留"
+    },
+    {
+      "source_lines": [
+        4507,
+        4515
+      ],
+      "note_lines": [
+        5451,
+        5456
+      ],
+      "type": "PV_and_amortization_model_unspecified",
+      "resolution": "5息1摊本~8.5b不等严格30年年金，永续10b仅另边界；完整资金/时序未核相关精算暂停"
+    },
+    {
+      "source_lines": [
+        4374,
+        4375
+      ],
+      "note_lines": [
+        5442,
+        5446
+      ],
+      "type": "sugar_scope_and_percentage_gap",
+      "generic_prewar_fraction": 0.9,
+      "1913_UK_volume_fraction": 0.7554304987149494,
+      "1913_UK_value_fraction": 0.6912015151630863,
+      "resolution": "1913特例/一般战前/不同价量和五年平均分，原近90%不改，范围来源差未解"
+    },
+    {
+      "source_lines": [
+        4264,
+        4264,
+        4451,
+        4451
+      ],
+      "type": "export_total_two_tables",
+      "goods_million": 2524.15,
+      "destination_million": 2522.35,
+      "resolution": "两表1.8m差保留，不加国家平账"
+    },
+    {
+      "note_lines": [
+        5075,
+        5099
+      ],
+      "type": "Belgian_mark_exchange_literal",
+      "source": "Fr.120 = Mk.1",
+      "same_official_html": true,
+      "resolution": "可能转录或其他口径未知，无原印底账，不能默改1.20；数不进实验"
+    },
+    {
+      "source_lines": [
+        4044,
+        4057,
+        4107,
+        4117
+      ],
+      "type": "rough_ranges_not_mechanical_sum",
+      "resolution": "可拿金/证券时点、occupation、bookcredit不同；估范围比直加减更保守，原自信更低，不说已精确平账"
+    },
+    {
+      "source_lines": [
+        4694,
+        4828
+      ],
+      "note_lines": [
+        5338,
+        5343,
+        5536,
+        5550,
+        5567,
+        5572
+      ],
+      "type": "power_scope_and_operating_status",
+      "resolution": "cancel须全Govauthority；返资源非必Commission；税powers作者interpret受盟否认；endOct尚未formalconstituted，不称全已运行/全条约独立法律核证"
+    },
+    {
+      "note_lines": [
+        5496,
+        5506
+      ],
+      "type": "racial_context_not_modern_feature",
+      "resolution": "作者白人心理例外历史偏见保留出处，激励机制不以种族作当前特征"
+    }
+  ]
+}

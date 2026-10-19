@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "chapter": 8,
+      "candidateFile": "work/book-experts-v5/practical_team/P38-C08-rate-unit-correction-candidates.json",
+      "candidateSha256": "af4cc2514540fe05f2a095789a6ed5367cbb153ac908c62261416d38aca4b779",
+      "actualManualContextReviewCount": 29,
+      "rootGrammarAndDecimalClarifications": true,
+      "sourceUnchanged": true,
+      "chapterHan": 3744,
+      "chapterSha256": "f92d1f1a8febf43bf6d20e7a0e3981a2acc331af6e49a6d1df5b6e482466394e"
+    },
+    {
+      "chapter": 9,
+      "candidateFile": "work/book-experts-v5/practical_team/P38-C09-rate-unit-correction-candidates.json",
+      "candidateSha256": "c145b204bc14ca91ac02453101af0492fbbc2b89c44977be6e5cf1f9e51f5903",
+      "actualManualContextReviewCount": 9,
+      "rootGrammarAndDecimalClarifications": true,
+      "sourceUnchanged": true,
+      "chapterHan": 2801,
+      "chapterSha256": "b10d43f8ec7159ec38e0a930e5f0a04348f272b28bc94fcf8c46c3cc7218fc39"
+    }
+  ],
+  "bookHanAtThisCorrection": 75323,
+  "scope": "Manual rate-level and relative-increase context fixes; source prices/rates and proper percentage-point differences unchanged; wholebook independentQA still in progress"
+}

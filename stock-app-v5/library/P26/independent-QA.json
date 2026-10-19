@@ -1,0 +1,900 @@
+{
+  "book_id": "P26",
+  "reviewer": "practical_books independent of root author",
+  "review_completed_utc": "2026-10-12T23:11:39.685188+00:00",
+  "status": "pass_after_corrections_with_source_limits",
+  "canonical_old_expert_passed": false,
+  "complete11_chapter_dossiers_semantically_compared": true,
+  "complete11_source_texts_semantically_read": true,
+  "all4_same_scan_complete_Archive_chapter_supplements_read": [
+    3,
+    4,
+    6,
+    11
+  ],
+  "front_native_full_text_read": true,
+  "whole_synthesis_and_expert_description_read": true,
+  "all60_rules_and60_original_exact_fragments_semantically_compared": true,
+  "new_complete_source_spans_count": 55,
+  "new_source_spans_full_original_context_read_before_extraction": true,
+  "strict_body_han_counts": [
+    2431,
+    2543,
+    2888,
+    2598,
+    2701,
+    2525,
+    2814,
+    3790,
+    3264,
+    3758,
+    3082
+  ],
+  "strict_body_han_total": 32394,
+  "minimum_chapter": 2431,
+  "chapter_draft_material_misreadings_found": 0,
+  "findings": [
+    {
+      "id": "P26-QA-N01",
+      "type": "synthesis_numeric_typo",
+      "severity": "minor_numeric",
+      "original": "83.085972%",
+      "correct": "156075/187850*100=83.0849081714%",
+      "status": "canonical_and_root_copy_corrected_by_explicit_authorization",
+      "record": "P26-synthesis-numeric-correction.json"
+    },
+    {
+      "id": "P26-QA-E01",
+      "type": "exact_evidence_alignment",
+      "severity": "material_for_traceability",
+      "rules_realigned": [
+        "P26-R01",
+        "P26-R03",
+        "P26-R04",
+        "P26-R05",
+        "P26-R06",
+        "P26-R08",
+        "P26-R09",
+        "P26-R10",
+        "P26-R11",
+        "P26-R12",
+        "P26-R13",
+        "P26-R14",
+        "P26-R16",
+        "P26-R17",
+        "P26-R18",
+        "P26-R19",
+        "P26-R20",
+        "P26-R21",
+        "P26-R22",
+        "P26-R24",
+        "P26-R25",
+        "P26-R27",
+        "P26-R28",
+        "P26-R29",
+        "P26-R30",
+        "P26-R31",
+        "P26-R32",
+        "P26-R33",
+        "P26-R34",
+        "P26-R35",
+        "P26-R36",
+        "P26-R37",
+        "P26-R39",
+        "P26-R41",
+        "P26-R43",
+        "P26-R44",
+        "P26-R46",
+        "P26-R47",
+        "P26-R48",
+        "P26-R49",
+        "P26-R50",
+        "P26-R51",
+        "P26-R52",
+        "P26-R53",
+        "P26-R54",
+        "P26-R57",
+        "P26-R58",
+        "P26-R59",
+        "P26-R60"
+      ],
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed",
+      "explanation": "Many original rules had true whole-chapter meanings but pointed to prior or unrelated page; table source fragments at52–53 lacked complete matrix. Added exact bounded source spans with page/character ranges/hashes; all raw source retained."
+    },
+    {
+      "id": "P26-QA-A01",
+      "type": "author_vs_independent_analysis",
+      "severity": "material_for_attribution",
+      "rules_author_wording_clarified": [
+        "P26-R03",
+        "P26-R11",
+        "P26-R19",
+        "P26-R20",
+        "P26-R39",
+        "P26-R58"
+      ],
+      "specific": [
+        "R20 payments statistics and unexplained national habit causes separated from modern crisis-risk inference.",
+        "R39 source longrun unpaid observations separated from modern annualprobability restriction.",
+        "R11/R19 authors account/matrix illustrations separated from current checking procedures.",
+        "R58 elasticissue rationale separatefrommodern nozerorisk boundary."
+      ],
+      "status": "root_merged_and_independent_identity_semantic_recheck_passed"
+    }
+  ],
+  "independent_numeric_and_visual_checks": [
+    {
+      "chapter": 1,
+      "full_source_file": "source-chapters/ch01.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          11318
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "result": "no_material_misreading_found_in_chapter1",
+      "specific_checked": [
+        "businesssimpleversusjudgementcomplex",
+        "loan/depositprimaryandcurrencysecondary",
+        "privateoriginpriorpublicbank",
+        "realcapitalnotcreatedversusapplicationeffective and creditbalance separate",
+        "creditrisk/no nationalpersonalitymodel",
+        "noteswideharm/no modernthreshold"
+      ],
+      "original_visual_spotcheck_pending": [],
+      "later_crosschapter_watch": [
+        "Closed: chapterII稿explicitlydistinguishesordinarycashpropertypassesbankfromspecialcustody. ChapterItermtemporarycustodynotreadaslegaltrustclaim inbook context."
+      ],
+      "original_visual_spotcheck": {
+        "file": "outputs/book-experts-v5/P26/ch01-figures-2.jpg",
+        "pages": [
+          15,
+          16,
+          17,
+          18
+        ],
+        "scope": "All four contact-page author prose/side topics actually visually read; capitalnoinitialrealincrease/creditrisks/noteswidecirculation clarified."
+      }
+    },
+    {
+      "chapter": 2,
+      "full_source_file": "source-chapters/ch02.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          19013
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "discountsaleofrequestvsretainedcollateralownership",
+        "loan-createdDnotcashfirst",
+        "ordinarycashdepositcashpropertybank/depositorrequest;specialcustodyexplicitlydifferent",
+        "futureassetvsondemandliability/banknotessameessence",
+        "theorybothfunctionsversus1866statutoryORclassification",
+        "1890excludeSavings/1882privatebankersnotadd"
+      ],
+      "independent_arithmetic": {
+        "discount2500_87days_6percent_360": 36.25,
+        "strictPV": 2464.268112370626,
+        "table_numbers": 5790,
+        "table_capital_millions": 1210
+      },
+      "original_visual_spotcheck_pending": [],
+      "source_note": "Original6visuallyconfirmed; inferred360reproducesvalues butnotexplicitdaycountcontract.",
+      "original_visual_spotcheck": {
+        "file": "outputs/book-experts-v5/P26/ch02-critical-20.png",
+        "PDF_page": 20,
+        "printed_page": 10,
+        "actually_viewed": true,
+        "finding": "Original6% bothbankdiscountandtruePV passages, OCRfirst5%confirmederror, 36.25/2463.75/2464.27readinoriginal"
+      }
+    },
+    {
+      "chapter": 3,
+      "full_source_file": "source-chapters/ch03.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          28267
+        ]
+      ],
+      "same_scan_Archive_OCR_supplement_full_read": {
+        "file": "source-chapters/ch03-archive-ocr-complete.txt",
+        "ranges": [
+          [
+            0,
+            15300
+          ],
+          [
+            15300,
+            30159
+          ]
+        ]
+      },
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "capital accountability to shareholders versus callable cash",
+        "short maturity no certainty of immediate cash",
+        "loan-created deposits/retained profits not physical reserve",
+        "law ratios historically scoped/BoE33%vs44% contextual",
+        "cash repayment versus deposit offset differentiated",
+        "temporary expense-resource accounting and eventual profit deduction",
+        "Louisiana 2/3 cashliabilities covered by short bills not 2/3 cash reserve"
+      ],
+      "independent_arithmetic": {
+        "initial_total": 100000,
+        "plant_total": 100000,
+        "discount_total": 190000,
+        "withdraw_total": 175000,
+        "expanded_total": 444000,
+        "step_a": {
+          "loans": 325000,
+          "D": 319775,
+          "profit": 10300,
+          "reserve": 75075,
+          "total": 459075
+        },
+        "step_b": {
+          "D": 279775,
+          "reserve": 93825,
+          "expenses": 2250,
+          "total": 419075
+        },
+        "step_c": {
+          "reserve": 97925,
+          "profit": 3150,
+          "total": 414925
+        }
+      },
+      "original_visual_spotcheck": [
+        {
+          "file": "ch03-critical-38.png",
+          "PDF_page": 38,
+          "printed_page": 28,
+          "finding": "175000 and444000 balance tables/1888–89 premise visually confirmed"
+        },
+        {
+          "file": "ch03-critical-47.png",
+          "PDF_page": 47,
+          "printed_page": 37,
+          "finding": "stepa459075, stepb419075 both sides confirmed; same-scan OCR119075 righttotal is OCRerror, no original numeric inconsistency"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "full_source_file": "source-chapters/ch04.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          22948
+        ]
+      ],
+      "same_scan_Archive_OCR_supplement_full_read": {
+        "file": "source-chapters/ch04-archive-ocr-complete.txt",
+        "ranges": [
+          [
+            0,
+            13000
+          ],
+          [
+            13000,
+            26224
+          ]
+        ]
+      },
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "account transfer no aggregate extra deposit",
+        "net interbank payments not elimination customer claims",
+        "cash redemption versus loan offset and freshdeposit distinctions",
+        "loan/D rough correspondence not identity",
+        "historical ratios/different denominator/windows",
+        "AustroHungarian missing D is blank not0",
+        "national/racial habits not modern stock factors"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch04-critical-58.png",
+          "PDF_page": 58,
+          "printed_page": 48
+        },
+        {
+          "file": "ch04-critical-60.png",
+          "PDF_page": 60,
+          "printed_page": 50
+        },
+        {
+          "file": "ch04-critical-62.png",
+          "PDF_page": 62,
+          "printed_page": 52
+        },
+        {
+          "file": "ch04-critical-63.png",
+          "PDF_page": 63,
+          "printed_page": 53
+        }
+      ],
+      "independent_matrix_arithmetic": {
+        "credits": [
+          33550,
+          29870,
+          29260,
+          31150,
+          36230,
+          31640
+        ],
+        "debits": [
+          35740,
+          24190,
+          36030,
+          35690,
+          32660,
+          27390
+        ],
+        "net": [
+          -2190,
+          5680,
+          -6770,
+          -4540,
+          3570,
+          4250
+        ],
+        "gross": 191700,
+        "settlement_each_side": 13500,
+        "net_ratio_percent": 7.042253521126761,
+        "1881_ratio_percent": 3.6569301492560635
+      },
+      "visual_OCR_resolution": "No4 claim No1 original8750 not18750; all30 matrix values actual original imagechecked"
+    },
+    {
+      "chapter": 5,
+      "full_source_file": "source-chapters/ch05.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          11500
+        ],
+        [
+          11500,
+          21793
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found_original_error_explicitly_retained",
+      "specific_checked": [
+        "notes/deposits equal nature distinct demandpattern/regulation",
+        "encumbered securities not cashreserve or extra asset",
+        "owner residual versus externalcreditors; assessment conditional",
+        "note priority worsens depositor payout samepool",
+        "notesdecline not allcreditcontraction",
+        "certification actualfunds vs abusiveclaims",
+        "postnotes warning original seven-day exception",
+        "no modernlaw/threshold substitution"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch05-critical-70.png",
+          "PDF_page": 70,
+          "printed_page": 60,
+          "finding": "250000/281775 alongside original92% materially wrong; notOCRerror; root explicitly retains/corrects"
+        }
+      ],
+      "independent_arithmetic": {
+        "demand": 281775,
+        "residual": 17150,
+        "equalrank_percent": 88.72327211427557,
+        "note_priority_deposit_percent": 83.08490817141336,
+        "nominalpledge_margin": 11075
+      }
+    },
+    {
+      "chapter": 6,
+      "full_source_file": "source-chapters/ch06.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          12000
+        ],
+        [
+          12000,
+          22947
+        ]
+      ],
+      "same_scan_Archive_OCR_supplement_full_read": {
+        "file": "source-chapters/ch06-archive-ocr-complete.txt",
+        "ranges": [
+          [
+            0,
+            12500
+          ],
+          [
+            12500,
+            24883
+          ]
+        ],
+        "secondhalf_reread_alone_toavoidtruncation": true
+      },
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "individual contraction feedback/coordination not staticaggregate safety",
+        "1860 no export/solvencyconditional/simultaneouscommonrisk",
+        "collateral loan certificates not cashbackedcertificates",
+        "ChemicalBankexception/quarterthreshold datecondition",
+        "1860 averages vs lateweek expansion",
+        "1873 interbank checkclearing persists but publiclargecashpaymentfails",
+        "1884 no reserveequalization andcontractingloans",
+        "1890 renewals notnewloans",
+        "permanentsystem moralhazard authors view not proven modernpolicy"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch06-critical-88.png",
+          "PDF_page": 88,
+          "printed_page": 78,
+          "finding": "all7rows read; 392.3,384.5,376.9 originals conflict chIV not forcedunified"
+        },
+        {
+          "file": "ch06-critical-89.png",
+          "PDF_page": 89,
+          "printed_page": 79,
+          "finding": "7 3/10% Boston clearly original, not7.5%"
+        }
+      ],
+      "independent_numeric_checks": {
+        "1860_last_ratio": 0.20670391061452514,
+        "1873_combinedcash": [
+          46.9,
+          16.5,
+          27.2
+        ],
+        "1890changes": {
+          "loans": -20.100000000000023,
+          "D": -26.80000000000001,
+          "R": -5.700000000000003
+        }
+      },
+      "boundary": "case causal evaluations not independentcounterfactualproof; all historical legalpercentages notcurrentthresholds"
+    },
+    {
+      "chapter": 7,
+      "full_source_file": "source-chapters/ch07.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          28000
+        ],
+        [
+          28000,
+          40273
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "privatepractices precede publicbank and no necessary Venicecopy",
+        "ban targets mistakenroot/coinweightsdates",
+        "early fullspecie custody vs no ordinarycreditloan",
+        "recepisse expiry/renewal separate ordinarybankmoneyrights",
+        "automaticredemption vs discretionarymarket support",
+        "valuable metals vs payablecoin types",
+        "exactdiscontinuance/legalstatusunknown",
+        "uncertain specieestimates vs hiddenpublic/VOCloans",
+        "1795report lacks aggregateD/R noinventcoverage",
+        "1791failure1819closure1820payoff separate",
+        "faithfulfullreserve rhetorical no universal modernzerorisk"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch07-critical-96.png",
+          "PDF_page": 96,
+          "printed_page": 86,
+          "finding": "1/40 of1% commission/300/600/3day actualread"
+        },
+        {
+          "file": "ch07-critical-104.png",
+          "PDF_page": 104,
+          "printed_page": 94,
+          "finding": "4 1/4% and4 7/8% agio actualread"
+        },
+        {
+          "file": "ch07-coin-footnote.png",
+          "PDF_page": 93,
+          "printed_page": 83,
+          "finding": "5281/2azen visible, continuation on94 notvisuallyseenbyreviewer, read nativeOCR only"
+        }
+      ],
+      "independent_numeric_checks": {
+        "commission_percent": 0.025,
+        "renewal_percent": 0.125,
+        "agio_range": 0.625,
+        "debtsecuritydifference": 400000,
+        "1760_approxcoverage": 0.3333333333333333
+      },
+      "unreproofed_scope": "all24originalpagesnotvisuallyreproofed; oldcoincontentconversionnotindependentlyrecalibrated"
+    },
+    {
+      "chapter": 8,
+      "full_source_file": "source-chapters/ch08.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          15000
+        ],
+        [
+          15000,
+          30500
+        ],
+        [
+          30500,
+          45510
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "same generalasset ranking not simplegovernance",
+        "1800favor vs1803monopoly/1806statecontrol",
+        "privateownership publiccontrol",
+        "localbranch permission/opening/servicepoint separate",
+        "1830 longrun unpaid notannualdefault andregionalreportsgap",
+        "1848 actualpayments vslegalresumption",
+        "smallbills notunique borrowers",
+        "1857 immobilizedrentes andtotalnewcash vspar",
+        "June1870 partialtable/blankpublicloans andunpublishedinterval",
+        "debtmoratorium/banknonredemption interaction",
+        "market borrowing indemnity vsprivatecredit not realwealthfrompaper",
+        "legal tender notforcednonpayment",
+        "habit change not quantitativelyattributed"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch08-critical-130.png",
+          "PDF_page": 130,
+          "printed_page": 120
+        },
+        {
+          "file": "ch08-critical-131.png",
+          "PDF_page": 131,
+          "printed_page": 121
+        },
+        {
+          "file": "ch08-critical-133.png",
+          "PDF_page": 133,
+          "printed_page": 123
+        },
+        {
+          "file": "ch08-critical-139.png",
+          "PDF_page": 139,
+          "printed_page": 129
+        }
+      ],
+      "independent_arithmetic": {
+        "warcashratio_percent": [
+          73.01068719198184,
+          47.492843291162615,
+          36.948966526431306,
+          20.086953344780973
+        ],
+        "newsharecash": 100375000,
+        "smallpapercount": 1931589,
+        "smallpapershare": 0.34084143989212157,
+        "1830remaining": 0.030000000000000002,
+        "notepeak_resumption_diff": 610
+      },
+      "visual_fractions": "Crimeancost1 1/3 to1 1/2%, BOE1874–77rate3 1/8%confirmed",
+      "boundary": "law/history in-source claims preserved not independentlyalloutsidelegalrecordsverified"
+    },
+    {
+      "chapter": 9,
+      "full_source_file": "source-chapters/ch09.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14000
+        ],
+        [
+          14000,
+          28000
+        ],
+        [
+          28000,
+          38749
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "war/fiscal motives vs voluntarism",
+        "1863–75 law timesnotbackfilled",
+        "gov note guarantee vsallprivatedeposits",
+        "market/par dual90%bound",
+        "redeemfund5% notgovernmentliabilitycap",
+        "nationalnotes notprivatelegaltender",
+        "55 includes25not80",
+        "interbank claims notindependentreserve cash",
+        "cashatTreasury notsameonsitecash",
+        "reservecliff/interestconstraints historical",
+        "gross2income notfree doublecapital/gain estimateexternalincomplete",
+        "profit/surplus/par dividend notcurrentmarketyield"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch09-critical-155.png",
+          "PDF_page": 155,
+          "printed_page": 145
+        },
+        {
+          "file": "ch09-critical-156.png",
+          "PDF_page": 156,
+          "printed_page": 146
+        },
+        {
+          "file": "ch09-critical-163.png",
+          "PDF_page": 163,
+          "printed_page": 153
+        }
+      ],
+      "independent_arithmetic": {
+        "components_reserve": 478.3,
+        "printed_total": 478.2,
+        "display_rounding_difference": 0.1,
+        "onsitecash": 282.7,
+        "onsitevsrequiredshortfall": 71.0,
+        "incrementalquotedprofit_percent": 0.051111111111111114,
+        "securedminimum_note": 45000.0
+      },
+      "visual_fraction": "original2 1/3% confirmed notOCR2.5%",
+      "limits": "original comparative data rounding and dashpreserved, actualcurrentlegalrulesnotchecked"
+    },
+    {
+      "chapter": 10,
+      "full_source_file": "source-chapters/ch10.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          14500
+        ],
+        [
+          14500,
+          29000
+        ],
+        [
+          29000,
+          43500
+        ],
+        [
+          43500,
+          57851
+        ]
+      ],
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found",
+      "specific_checked": [
+        "fiscal bankorigin vs latercorporatemonopoly exception6partners",
+        "actualnonuse vsrightrevocation",
+        "issue vs bankingdept segregatedclaims",
+        "fiduciary14m floor notall100%gold",
+        "original insolvency priority ambiguity retained",
+        "8.2m internalgoldnoteexchange nofreshsystemwealth",
+        "reservesofotherbanks centerliability",
+        "governmentletter relaxingissueceiling notstoppingredemption",
+        "sale todepositfinancedbuyer netsliability nofreshcash",
+        "assurance effect vs actual928kpublicnotes/2mtransfer/4mloans",
+        "Peelact noteprotection vs crisisfailuredualcriticism",
+        "privategovernance historical notcurrent",
+        "dividendpar basis notcurrentmarketyield"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch10-critical-177.png",
+          "PDF_page": 177,
+          "printed_page": 167
+        },
+        {
+          "file": "ch10-critical-187.png",
+          "PDF_page": 187,
+          "printed_page": 177
+        },
+        {
+          "file": "ch10-critical-192.png",
+          "PDF_page": 192,
+          "printed_page": 182
+        }
+      ],
+      "independent_arithmetic": {
+        "consolidatedL": 51.599999999999994,
+        "consolidatedA": 51.599999999999994,
+        "issue": 20.2,
+        "banking": 31.4,
+        "cashratio1857_percent": 4.469230769230769,
+        "branchcash": 197000,
+        "afterinternalissue": 28.4,
+        "bankingcashafter": 0.8000000000000007
+      },
+      "limits": "all source citedoutsideParliament/Bagehot books notindependentlywhole-read; profitdaycountnotinvented"
+    },
+    {
+      "chapter": 11,
+      "full_source_file": "source-chapters/ch11.txt",
+      "source_read_character_ranges": [
+        [
+          0,
+          11000
+        ],
+        [
+          11000,
+          20684
+        ]
+      ],
+      "same_scan_Archive_OCR_supplement_full_read": {
+        "file": "source-chapters/ch11-archive-ocr-complete.txt",
+        "ranges": [
+          [
+            0,
+            11000
+          ],
+          [
+            11000,
+            21970
+          ]
+        ]
+      },
+      "full_chapter_dossier_semantically_compared": true,
+      "numeric_review_JSON_fully_read": true,
+      "result": "no_material_misreading_found_sourceconflictsretained",
+      "specific_checked": [
+        "privatecapital governmentcontrol fiscalservices",
+        "unitycoin/goldreplacement notimmediatedemonetizesilver",
+        "Treasurynotes nonlegaltender vsbanknotes",
+        "5/48of1%reports vs5annual",
+        "thirdcash excludesotherbanknotes unlikeexcesstaxcash",
+        "taxelasticity nottotalriskconstraintremoved",
+        "margin112 notnewasset",
+        "no specialnoteholderlien/regulationvspriority",
+        "noticeDversuscurrentaccount",
+        "1889profit thresholds/remaindernotflatdistribution",
+        "unlocated0.6 editorialbalancingnotnewliability",
+        "109.6author vs109.415 arithmetic retained",
+        "739.9 total-loans vs840.1 classificationgapretained"
+      ],
+      "original_visual_spotcheck": [
+        {
+          "file": "ch11-critical-202.png",
+          "PDF_page": 202,
+          "printed_page": 192
+        },
+        {
+          "file": "ch11-critical-206.png",
+          "PDF_page": 206,
+          "printed_page": 196
+        },
+        {
+          "file": "ch11-critical-209.png",
+          "PDF_page": 209,
+          "printed_page": 199
+        }
+      ],
+      "independent_arithmetic": {
+        "1889resource": 1666.4999999999998,
+        "1889Lbeforeeditorial": 1665.9,
+        "cash": 764.4999999999999,
+        "third_cash": 751.1999999999999,
+        "enduncovered": 396.0,
+        "excess": 109.41500000000002,
+        "dec7margin": 111.98499999999996,
+        "taxpercentperreport": 0.10416666666666667,
+        "loandefinitiondiff": 100.19999999999993
+      },
+      "all_printed199_endpoint_theend_read": true
+    }
+  ],
+  "review_time_original_hashes": {
+    "expert-definition.json": "67e60eda360802c817724ecff1254f75e545d9dcf74c4928f98e3dd3ab5a0c2d",
+    "source-fragments.json": "ffa5581144acd128bbe56b6be017f2a0ab13858d8b927711cb3dbb96d4626e15",
+    "reading-audit.json": "ad3f66b8c8c0e76f09b024561a8244aebf68a2587705720a1c876d55f6703b2f",
+    "source-plan.json": "eec6ef352c2a1fbaf0e94aba433cdf2b91323cb19cf7ee93ab08831135d1c6cd",
+    "全书逐章深读.md": "9600f14f381dc31d61d237360618e48100c065fe3ecc0ae9badd82f1c68c20c5",
+    "全书综合与附录.md": "bd2daa913c35797616162e21911c7a30c707418ed0bf9e44d9e62f4e7b5afc0a",
+    "专家说明.md": "19facc6f7217fed03b3e07fc53bdef538cc8d6f56255a47aa556632a4441a735",
+    "front-matter.txt": "179990d66111bcaa4256045cca0d40c39c0e7a0eac09d78d12d0ceabf2ab416a",
+    "source/original-1893.pdf": "e3e73996c52a2c4c0bc890a9738d288bf7a80ef384320d867e8ec1926fa6a912",
+    "source-chapters/ch01.txt": "1e339315552b6e4988dfc07b67b31188d67a2d12e621660804f479fec5a33070",
+    "source-chapters/ch02.txt": "cb92ef7bcfa04110105a9cbe574008d9a2ffb6d05c9ca9c9407b3411641d5c42",
+    "source-chapters/ch03.txt": "084feccd8f728e5c2607753a746c07d933e77822277fc354646bd58ab378c262",
+    "source-chapters/ch04.txt": "2911977ab2e2de7673efdf87c7558d5c322231931eb34de187804884e10eb881",
+    "source-chapters/ch05.txt": "e607962cf107b92af3530c21986d0c1def98af748d358494fa1832199e1d5b65",
+    "source-chapters/ch06.txt": "c1b3e5b8b232bed1148ae14e4fe4088c203515fdd0bc0ee319339f7911951f76",
+    "source-chapters/ch07.txt": "b858d57c8f6bd9dfc6a2361a9787334eb0ebab527733d0e0779646142ad5cb3a",
+    "source-chapters/ch08.txt": "8b8ffc639eb65756d3ab3f2de516f6d29d9a6373a985f8befa62b777517e1380",
+    "source-chapters/ch09.txt": "dd721d46b7964d34cd6eede100305f993b65d8de172e746eddc68388ab63ac97",
+    "source-chapters/ch10.txt": "e4fd21f31a385483a3f70498d39c775fe2758cd1f81ab8c27797dccba09f8cee",
+    "source-chapters/ch11.txt": "551b1b0df17773b79efb58203f990409d7e3b42c4f182b89b7b9df909389fb14",
+    "ch01.md": "916a5e0957aa68a37748006dc2e7d5473e63e71566e1f1c73e63f5cd536d38fb",
+    "ch02.md": "73f325ff26ef8e11e837acac0b721d214f260d6d91d80d016985871660bb913c",
+    "ch03.md": "5f00edbd7bee0960539df772a04f90fc50b73f2f432f2b80a4876575cff1d3c5",
+    "ch04.md": "a4685ca408191b3817c026a21417fc8551f956854df2b716f229f5bac85d0db1",
+    "ch05.md": "6004d2e9ce7afeb12e74b6ff86765fb91f83082cf7dafd5eb5ff50537f54c68a",
+    "ch06.md": "480c28d9c1146072907f4916371a692c5cf3a0333a1da1a47718ce7f6311f53d",
+    "ch07.md": "0657c8a3b05875251133e4716552b0c222d9ebe0847f5c4cd286cc7ab5b2a332",
+    "ch08.md": "974d16e31b02a16562e9f5628ad7399948d629965965765cd13c4bf0cd9be8fa",
+    "ch09.md": "a3f147b3f6b02672cc7e4c3c4202849822979352c51e31d6ffa2064927773ed8",
+    "ch10.md": "55559eec5a62e8c7f15639ab2ae5a9824861adc66ab20af7ed7ef07762dc4a19",
+    "ch11.md": "13272070fe030d4e5640beeb3695a982218e1acf22dfac122b727993357d0453"
+  },
+  "current_canonical_hashes": {
+    "expert-definition.json": "67e60eda360802c817724ecff1254f75e545d9dcf74c4928f98e3dd3ab5a0c2d",
+    "source-fragments.json": "ffa5581144acd128bbe56b6be017f2a0ab13858d8b927711cb3dbb96d4626e15",
+    "全书综合与附录.md": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02",
+    "reading-audit.json": "ad3f66b8c8c0e76f09b024561a8244aebf68a2587705720a1c876d55f6703b2f",
+    "self-validation.json": "102b45159508a1081f9a55ceb2eb6ff60f7d8aadd14280294db1f7b5e616a04b"
+  },
+  "candidate_hashes": {
+    "P26-corrected-expert-candidate.json": "cc63527a8963f0f4b34081a6b00f3b1b41f2aa2166170f90b1a83ef734560ede",
+    "P26-source-anchor-additions.json": "4e434f4fe7f7841e01420daaffc3eb03af2bca5f4bb596bf5cec3dde5f6de99c"
+  },
+  "mechanical_checks_separate_from_semantic_review": {
+    "all11body_counts_min2000_total20000": true,
+    "all_added_source_hash_spans_match": true,
+    "all60risk_validity_false": true,
+    "current_model_calls": 0
+  },
+  "remaining_action": "Independent complete-source semantic review closed; no further chapter rereading was represented by the final identity/hash check.",
+  "limits": [
+    "This reviewer fully read all author text via native source and missing-table supplements; did not reproofread every glyph of all199 original page images.",
+    "Key visual checks and numeric computations are listed exactly; ordinary footnote external books, full statutes/report archives not independently whole-read or verified.",
+    "Same-scan Archive OCR complements missing extraction, not an independent historical source.",
+    "Native rawOCR5% on10 corrected tooriginal6%; rawOCR18750 on52 corrected tooriginal8750; source originals preserved.",
+    "Original92% arithmetic conflict, IV/VI same-date gaps, XI0.6unlocated resource error,109.6vs109.415 and739.9vs840.1 retained unknown.",
+    "No current regulations, trading execution, predictive probability, backtests, authorpersonality or actual40models validated."
+  ],
+  "author_finalizer_rerun": false,
+  "goal_tools_called": false,
+  "canonical_corrected_expert_passed": true,
+  "canonical_merge_hashes_before_metadata_sync": {
+    "expert-definition.json": "aae3e94e93d1d85a5c702bedf204333af2e95cd1ce978ad660e6dbaf90c66cb1",
+    "source-fragments.json": "3f22510502772473c4aeaddb34856d5ef1f3d8668a7d8b1c1c1985e360f13668",
+    "reading-audit.json": "e96b8a58a87e50590f7d4e3f99bff4f5776cb09f867163bf6d741b35ee813157",
+    "self-validation.json": "102b45159508a1081f9a55ceb2eb6ff60f7d8aadd14280294db1f7b5e616a04b",
+    "全书综合与附录.md": "1891c467f8aefd061c6d4fbe173437eeb606f9cadcfe3983d96b9e0565fdbf02"
+  },
+  "canonical_merge_recheck": {
+    "all60_rules_equal_independently_reviewed_candidate": true,
+    "other_expert_meaning_fields_equal_candidate": true,
+    "all55_additions_exactly_equal_reviewed_additions": true,
+    "original60_raw_fragments_retained_exactly": true,
+    "all115_text_hashes_valid": true,
+    "all_added_source_character_ranges_and_file_hashes_valid": true,
+    "all11_drafts_and_whole_dossier_original_sources_unchanged": true,
+    "canonical_and_root_copies_identical": true,
+    "all_glyphs_reproofread": false,
+    "author_finalizer_rerun": false
+  }
+}

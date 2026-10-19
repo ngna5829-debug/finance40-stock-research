@@ -1,0 +1,73 @@
+{
+  "book_id": "P21",
+  "sections": [
+    {
+      "section": "original_preface",
+      "source_file": "source/preface.txt",
+      "source_sha256": "eeb64a5e475a64e3f6f523b06704ab9e972a2133e199d0872a13d0ccfb1dd0d9",
+      "chars": 14275,
+      "pdf_start": 4,
+      "pdf_end": 11,
+      "reading_batches_pdf": [
+        [
+          4,
+          11
+        ]
+      ],
+      "all_extracted_text_read": true,
+      "original_advertised_or_referenced_works_not_read_by_this_fact": true
+    },
+    {
+      "section": "original_analytical_contents",
+      "source_file": "source/original-analytical-contents.txt",
+      "source_sha256": "675bfbb7f1cd5d3a2906c9a4148f64907b926bdae1cc4b6840a72dad6a23e5e4",
+      "chars": 41540,
+      "pdf_start": 12,
+      "pdf_end": 27,
+      "reading_batches_pdf": [
+        [
+          12,
+          27
+        ]
+      ],
+      "all_extracted_text_read": true,
+      "original_advertised_or_referenced_works_not_read_by_this_fact": true
+    },
+    {
+      "section": "original_index",
+      "source_file": "source/index.txt",
+      "source_sha256": "4da4f24e812d2d20bc3e84270d3946cc37765234d606098edf21e337a31cc3fe",
+      "chars": 8556,
+      "pdf_start": 472,
+      "pdf_end": 474,
+      "reading_batches_pdf": [
+        [
+          472,
+          474
+        ]
+      ],
+      "all_extracted_text_read": true,
+      "original_advertised_or_referenced_works_not_read_by_this_fact": true
+    },
+    {
+      "section": "publisher_advertisements",
+      "source_file": "source/publisher-advertisements.txt",
+      "source_sha256": "bbf05fc6e63ed606715c42c8c7cf7737cf37a929f4a881df42b948d46dd3a323",
+      "chars": 6133,
+      "pdf_start": 476,
+      "pdf_end": 477,
+      "reading_batches_pdf": [
+        [
+          476,
+          477
+        ]
+      ],
+      "all_extracted_text_read": true,
+      "original_advertised_or_referenced_works_not_read_by_this_fact": true
+    }
+  ],
+  "all_original_nonchapter_text_read": true,
+  "all_478_scan_glyphs_verified": false,
+  "modern_editor_introduction_excluded": true,
+  "completed_utc": "2026-10-12T20:56:41.315060+00:00"
+}

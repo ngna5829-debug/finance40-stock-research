@@ -1,0 +1,136 @@
+{
+  "book_id": "P26",
+  "chapter": 10,
+  "1844_09_07_consolidated_million_GBP": {
+    "liabilities_including_capital_and_rest": {
+      "capital": 14.6,
+      "rest": 3.6,
+      "public_deposits": 3.6,
+      "other_deposits": 8.6,
+      "seven_day_bills": 1,
+      "notes": 20.2
+    },
+    "resources": {
+      "government_debt": 11,
+      "government_securities": 17.6,
+      "other_securities": 7.8,
+      "coin_and_bullion": 15.2
+    },
+    "both_total": 51.6,
+    "capital_not_demand_deposit": true
+  },
+  "separation_before_convenience_exchange_million": {
+    "issue": {
+      "notes": 20.2,
+      "government_debt": 11,
+      "other_government_securities": 3,
+      "coin_and_bullion": 6.2,
+      "total": 20.2
+    },
+    "banking": {
+      "capital": 14.6,
+      "rest": 3.6,
+      "public_deposits": 3.6,
+      "other_deposits": 8.6,
+      "seven_day_bills": 1,
+      "government_securities": 14.6,
+      "other_securities": 7.8,
+      "coin_and_bullion": 9,
+      "notes_original_blank": true,
+      "total": 31.4
+    }
+  },
+  "convenience_exchange_million": {
+    "gold_to_issue": 8.2,
+    "notes_received_by_banking": 8.2,
+    "banking_coin_remaining": 0.8,
+    "banking_total_reserve_unchanged": 9,
+    "issue_notes_after": 28.4,
+    "issue_coin_after": 14.4,
+    "internal_notes_must_eliminate_on_consolidation": true
+  },
+  "1877_deposits_million_GBP": {
+    "January10": {
+      "exchequer": 1.2,
+      "bankers": 13.3,
+      "all_other": 18.3,
+      "total": 32.8
+    },
+    "May10": {
+      "exchequer": 4.4,
+      "bankers": 8,
+      "all_other": 15.9,
+      "total": 28.3
+    }
+  },
+  "1857_nov12": {
+    "banking_deposits_GBP_approx": 13000000,
+    "banking_cash_GBP": 581000,
+    "London_cash_GBP": 384000,
+    "branch_cash_remainder_GBP": 197000,
+    "approx_cash_over_deposits_percent": 4.469230769230769,
+    "not_universal_modern_failure_threshold": true
+  },
+  "temporary_relief_GBP_distinct_items": {
+    "securities_to_issue": 2000000,
+    "banking_securities_added_next_week": 4000000,
+    "max_excess_notes_in_public_hands1857_nov20": 928000,
+    "month_minmax_public_notes_difference": 1300000,
+    "profit_base": 2000000,
+    "profit_days": 41,
+    "profit_percent": 2,
+    "profit_daycount_not_given": true
+  },
+  "exceptions": [
+    "1847-10-25",
+    "1857-11-12",
+    "1866-05-12"
+  ],
+  "1847_1866_announcements_without_extra_securities_issued": true,
+  "issue_restriction_relaxed_not_note_redemption_suspended": true,
+  "profits_above_limit_to_government": true,
+  "1857_1866_discount_floor_percent": 10,
+  "country_authorized_issue_GBP": {
+    "1844": 8648853,
+    "1890_Nov": 4813400,
+    "1890_four_week_actual_average": 2455077,
+    "authorized_not_actual": true
+  },
+  "issue_securities_limit_GBP": {
+    "1844": 14000000,
+    "later": 16450000
+  },
+  "withdrawn_country_notes_two_thirds_transfer_rule": 0.6666666666666666,
+  "gold_price_original_shillings_pence": {
+    "bullion": [
+      77,
+      9
+    ],
+    "coined": [
+      77,
+      10.5
+    ],
+    "difference_pence": 1.5,
+    "historical_not_current_gold_quote": true
+  },
+  "1825_specie_GBP": 1027000,
+  "1825_notes_GBP": 23359840,
+  "1694_government_loan_GBP": 1200000,
+  "1694_percent": 8,
+  "1697_percent": 6,
+  "1816_capital_GBP": 14553000,
+  "government_debt_after1834_GBP": 11015100,
+  "legal_priority_in_insolvency_original_footnote_not_explicit_doubted_common_understanding": true,
+  "public_demand_minimum_assumption_not_absolute_mathematical_risklessness": true,
+  "all_current_ownership_law_assertions_disabled": true,
+  "dividends_original_capital_percent": {
+    "minimum_since1852": 8,
+    "average_since1880": 9.95,
+    "not_current_market_dividend_yield": true
+  },
+  "shares_original_price_percent_of_par": {
+    "minimum_since1840": 156,
+    "last35years_above": 200,
+    "much_time_since1883_above": 300
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "scope": "Actual public-data snapshot and final40-book integration; no language-model inference, training, backtest, probability calibration or prospective returns claim",
+  "asOf": "2026-10-13T18:23:18.911Z",
+  "snapshotCapturedAt": "2026-10-13T18:21:38.977577+00:00",
+  "snapshotSha256": "aeb0712003340fb67ff4a619d7360806faa34ba3645565ff47c2670e8eda53b3",
+  "stocks": 100,
+  "readyBooks": 40,
+  "fullPDFs": 40,
+  "primaryHorizonDays": 20,
+  "technicalEligible5Days": 47,
+  "annualIdentityAndPeriodValid": 61,
+  "technicalEligible": 52,
+  "technicalRankingAndHardGatesIdenticalToBaseline": true,
+  "all100InputsAndDefinitionHashesValidated": true,
+  "sixDeterministicReviewStages": true,
+  "fourChiefGroups": 4,
+  "actualModelCalls": 0,
+  "actualBookTrainingCalls": 0,
+  "probabilityCalibrated": false,
+  "realInstitutionalFlowsConnected": false,
+  "publicQuoteExactDelay": "unknown",
+  "newListingHardGateChecks": [
+    {
+      "symbol": "SPCX",
+      "bars": 84,
+      "eligible": false
+    },
+    {
+      "symbol": "SKHY",
+      "bars": 66,
+      "eligible": false
+    }
+  ],
+  "AAPL": {
+    "quoteTime": "2026-10-13T18:20:51+00:00",
+    "quoteReceivedAt": "2026-10-13T18:20:53.508284+00:00",
+    "lastCompletedDailyBar": "2026-10-12",
+    "annualEvidenceValid": true,
+    "deterministicBookEvaluations": 40,
+    "accountingChecks": [
+      {
+        "type": "cashProfit",
+        "title": "利润与经营现金对照",
+        "status": "partial",
+        "reason": "净利润 112,010百万美元，经营现金 111,482百万美元；经营现金/正净利润 0.995。差异可能来自营运资本、非现金项目或时点，不能直接判造假。年度 2024-09-29 至 2025-09-27，申报 2025-10-31；不是今日现金或股价预测。",
+        "missingInputs": [],
+        "measurements": {
+          "netIncome": 112010000000,
+          "operatingCashFlow": 111482000000,
+          "operatingCashToPositiveNetIncome": 0.995286135166503,
+          "reportPeriod": {
+            "start": "2024-09-29",
+            "end": "2025-09-27",
+            "filed": "2025-10-31",
+            "accn": "0000320193-25-000079",
+            "form": "10-K"
+          },
+          "source": "SEC EDGAR consolidated annual XBRL facts",
+          "sourceURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+          "filingURL": "https://www.sec.gov/Archives/edgar/data/320193/0000320193-25-000079-index.html",
+          "availableAt": "2026-10-13T14:16:43.056725+00:00",
+          "receivedAt": "2026-10-13T14:16:43.056725+00:00"
+        },
+        "id": "P38-CHECK-1",
+        "sourceRuleIds": [
+          "P38-R13"
+        ],
+        "origin": "modern_evidence_inspection_referencing_book_mechanism_not_author_formula"
+      },
+      {
+        "type": "reinvestment",
+        "title": "再投资后的简化现金差",
+        "status": "partial",
+        "reason": "经营现金减现金购置厂房设备 = 98,767百万美元；不是完整FCFF/FCFE，也未覆盖所有无形投资、收购、融资与股东分配。年度 2024-09-29 至 2025-09-27，申报 2025-10-31；不是今日现金或股价预测。",
+        "missingInputs": [],
+        "measurements": {
+          "operatingCashFlow": 111482000000,
+          "cashPurchasePPandE": 12715000000,
+          "simpleCashDifference": 98767000000,
+          "reportPeriod": {
+            "start": "2024-09-29",
+            "end": "2025-09-27",
+            "filed": "2025-10-31",
+            "accn": "0000320193-25-000079",
+            "form": "10-K"
+          },
+          "source": "SEC EDGAR consolidated annual XBRL facts",
+          "sourceURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+          "filingURL": "https://www.sec.gov/Archives/edgar/data/320193/0000320193-25-000079-index.html",
+          "availableAt": "2026-10-13T14:16:43.056725+00:00",
+          "receivedAt": "2026-10-13T14:16:43.056725+00:00"
+        },
+        "id": "P38-CHECK-2",
+        "sourceRuleIds": [
+          "P38-R15"
+        ],
+        "origin": "modern_evidence_inspection_referencing_book_mechanism_not_author_formula"
+      },
+      {
+        "type": "workingCapital",
+        "title": "流动资产与短期负债",
+        "status": "caution",
+        "reason": "流动资产减流动负债 -17,674百万美元，流动比率 0.893。负差是待查账面条件，不证明必违约；行业、收款速度、到期和授信未核。年度 2024-09-29 至 2025-09-27，申报 2025-10-31；不是今日现金或股价预测。",
+        "missingInputs": [],
+        "measurements": {
+          "currentAssets": 147957000000,
+          "currentLiabilities": 165631000000,
+          "workingCapital": -17674000000,
+          "currentRatio": 0.8932929222186667,
+          "reportPeriod": {
+            "start": "2024-09-29",
+            "end": "2025-09-27",
+            "filed": "2025-10-31",
+            "accn": "0000320193-25-000079",
+            "form": "10-K"
+          },
+          "source": "SEC EDGAR consolidated annual XBRL facts",
+          "sourceURL": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+          "filingURL": "https://www.sec.gov/Archives/edgar/data/320193/0000320193-25-000079-index.html",
+          "availableAt": "2026-10-13T14:16:43.056725+00:00",
+          "receivedAt": "2026-10-13T14:16:43.056725+00:00"
+        },
+        "id": "P38-CHECK-3",
+        "sourceRuleIds": [
+          "P38-R01",
+          "P38-R17"
+        ],
+        "origin": "modern_evidence_inspection_referencing_book_mechanism_not_author_formula"
+      }
+    ],
+    "chiefChallenges": [
+      {
+        "group": "交易结构与行为",
+        "target": "企业经济与竞争",
+        "missing": [
+          "与原书相容的即时研究期限",
+          "带时点的逐笔成交",
+          "同步买卖报价",
+          "明确资料来源",
+          "实际执行费用",
+          "当前买卖价差",
+          "个人可承受损失",
+          "可执行的进出计划",
+          "完整带日期的企业财务调查（年度事实片段不足以代替）",
+          "带日期的行业竞争调查",
+          "带日期的经营与治理调查",
+          "带日期的持有人资料",
+          "可核空头持仓",
+          "交易账户身份",
+          "可执行的退出计划",
+          "新公布的企业变化证据",
+          "全账户现金收支",
+          "全账户共同风险",
+          "原书要求的收盘买价序列",
+          "当时已可识别的重要转折",
+          "原书报价口径",
+          "带日期的指数成分",
+          "证券股类",
+          "面值与成分衔接规则",
+          "已识别账户或监管证据",
+          "同步买卖报价与本次执行记录",
+          "实际成交、价差及全部费用记录",
+          "个人用途、期限与可承受损失",
+          "全账户持仓与共同风险",
+          "股息宣布、除息登记及支付权利",
+          "同期间实际结果与事前预期",
+          "事前冻结的周期定义与独立样本",
+          "当前信贷价格、期限及可取得性",
+          "未来现金、证券权利与估值假设",
+          "有账户身份和交割依据的资金活动"
+        ]
+      },
+      {
+        "group": "企业经济与竞争",
+        "target": "信用货币与流动性",
+        "missing": [
+          "同期间实际结果与事前预期",
+          "实际税制、关税及企业成本暴露",
+          "同产品与地域的竞争市场",
+          "供应、运输及对手市场资料",
+          "可比较时序及替代解释"
+        ]
+      },
+      {
+        "group": "信用货币与流动性",
+        "target": "储蓄财政与制度",
+        "missing": [
+          "债务到期、担保及融资撤回条件",
+          "物价篮子、币种与共同基期",
+          "收入、负债、到期币种及对冲",
+          "未来现金、证券权利与估值假设",
+          "当前信贷价格、期限及可取得性",
+          "现行交易、停牌及合同条款",
+          "已核公司行为口径",
+          "有账户身份和交割依据的资金活动"
+        ]
+      },
+      {
+        "group": "储蓄财政与制度",
+        "target": "交易结构与行为",
+        "missing": [
+          "供应、运输及对手市场资料",
+          "拆股、红股及证券权利变化",
+          "物价篮子、币种与共同基期",
+          "实际税制、关税及企业成本暴露",
+          "可比较时序及替代解释",
+          "个人用途、期限与可承受损失",
+          "家庭持续收入、必要支出及应急资金",
+          "股息宣布、除息登记及支付权利",
+          "实际成交、价差及全部费用记录"
+        ]
+      }
+    ]
+  },
+  "finalDefinitionHashes": {
+    "B37": "98c886d7d636f2addc3fcfa883e9dbb20982439d24aa4bbe3abc1d2402f090ee",
+    "B38": "8def37ec49d665ed65ea66ff3613459dd6b64dbbfcaf5c581dd3d594fc173c83",
+    "B40": "ac594d590f8ab5d55af6c54d2d18d1dd8bdb900491770dfb2eac96dc938f88c3",
+    "P04": "7327c53ebb8f4965b1274ce6fddf7ca37cf3a59f223f35c9870d321ecb919a23",
+    "P05": "f95d2d8285058b13d614e8951256405e0111b7e252938e0d6e3986b91804f28b",
+    "P06": "487a55ccf51eaa9053833aff4ef6efd53f968fd8a1e22f899844d65e9ff2839a",
+    "P07": "47478d10bd626f75d88403af38750080f2fdc97e1a4733fb6e056e57a46b4fa2",
+    "P08": "8aa0a4dbaf013e704587b0ad65cbc8c2e0cb113dffdfb2c2c856b08dcfcbfb0b",
+    "P09": "75736bb19a43eeabfd28a5bfe446f362cbde4d4106a549facb1bd44dd21262d4",
+    "P10": "1dfd242036119748acb886f4c97c09e6d5a38387e1f110bc3d8ca5232a9b4772",
+    "P11": "e0f37ba5ea0040ac61bc9298c22fcc098da0a5cc5763384425d8a817497c3ba3",
+    "P12": "84d849d30d874d351367ad6acebed25c34bbd720cc37d6dd32d904a8a862cd94",
+    "P13": "fcf08fbae1618574cfac551036068bc7b01cdebac9a2023ff8d4e080ce087209",
+    "P14": "c23115e29525602bc95de91af99ce20b77c88e9328ee09ade43af2e4cc277179",
+    "P15": "5450fd5e3accdecc0722406d78dfbd2ee2318c040018ccc41664bbe6eda1adeb",
+    "P16": "5eb4ea98168238dd1a7bcb5f293911d7acef43390d81538cbd1d7362d8f7f661",
+    "P17": "79e8b2e0c3ecde77f2365627e340f615194fb985de09ebbf0d587a15cf9bef5a",
+    "P18": "e45917715296788e61705e2ad222be8b930b7393d5604772161b08008680fc78",
+    "P19": "57e0b0c4d4a80ef359f84e0b423fbff35075c51d0fb678f889967a4426164515",
+    "P20": "f56565ff59c265656d962474f641c406128ba08ececdf5e8303b52481bcff6d2",
+    "P21": "01d92269fafe88d8ac6fab5f35b47880cc6e8a3edc7d4f4410144a6995300ec8",
+    "P22": "ced29d75bb8de61a39ff2a9f4324849c28065844bab1aa64a9917f789d2cd990",
+    "P23": "95fab05bf642fbf353124b58c560b76dd68682b1391b2a426afd2f2f8b491932",
+    "P24": "92fcf6b1c0d3052fba45157aa664395fab7950ac8a0d8eb467b6942baddd2046",
+    "P25": "6498d64477d144a631bae21afa1f0da17732924517922e8a7f09a52cc99c030e",
+    "P26": "f331b01a3b82e94069f5e1e584c06089fb003a5ee4f2449888faa5808d3af71c",
+    "P27": "fe845dd277075d50aebea85e1b1f7118e6b0d21e77d1bf7e6fc6fc3f1934965b",
+    "P28": "c8999c09366f0b2633d467bbebe071dfe941aeb3e0dce09de37101b74afa0869",
+    "P29": "9728aa7b0e31a050694506982b0aa62bc3321c22217d7b49ff443f360ba54bdf",
+    "P30": "2c51eeae4e9050b0cd65d8c06d8fbcebe8cd5aadd192c634175182e39284028e",
+    "P31": "34f8d4eb9f1ca19900b582791f975e9dfe95d4837289e86237eebbcfde14bcf7",
+    "P32": "595ef34bd2b286c3df6a7867345c3339d5b20cd32546559a4db6e7f82e9a6f90",
+    "P33": "eef0dd16d2a44d218b82181de82241b3ea8f62d8c52dc0185705d5ee53018ee6",
+    "P34": "302bcf92ffc4369100898a2ddec6e3283a7f916c5a8cdf19e770caa7770e44e3",
+    "P35": "4de1c7757b0e16a297c580b12059cfa7747351dc82654369009b1ac8300ccfab",
+    "P36": "43854daf994c831af1582d01ce4848a27c142f4304d964c9b3aa5028ea7ebda5",
+    "P37": "ff553d3c80a66ca9b0f387f2f81a2b84002e080b4f1130b1f5045a3c1ee30887",
+    "P38": "76cd3f784a85d6fb768a756c5bb9568feb8a153985822a4b6e905bec4113ed02",
+    "P39": "ab47917da989fe90b8b8e321b061e62689a218f952e1dd66e53672d495f473fa",
+    "P40": "e78f18f36b6544ab9d7b363da0c836de2c45d86c52defcb5f6cc9d85bd1259bf"
+  }
+}

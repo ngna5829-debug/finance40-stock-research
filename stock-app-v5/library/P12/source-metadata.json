@@ -1,0 +1,618 @@
+{
+  "book_id": "P12",
+  "author": "John Maynard Keynes",
+  "title": "The Economic Consequences of the Peace",
+  "first_publication_year": 1919,
+  "first_publication_source": "https://www.marshall.econ.cam.ac.uk/archives/economic-consequences-of-the-peace",
+  "edition": "所用题名纽约Harcourt, Brace and Howe1920；序文November1919，不混英国1919首版逐字版本",
+  "edition_evidence_lines": [
+    32,
+    64
+  ],
+  "catalogue_url": "https://www.gutenberg.org/ebooks/15776",
+  "source_url": "https://www.gutenberg.org/cache/epub/15776/pg15776.txt",
+  "source_file": "work/book-experts-v5/index_team/P12/source/original.txt",
+  "source_bytes": 453051,
+  "source_line_count": 7672,
+  "source_sha256": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+  "official_catalogue_rights_observed": "Public domain in the USA；不扩大所有地区或现代译本",
+  "catalogue_auto_generated_summary_not_used_as_source": true,
+  "original_chapter_count": 7,
+  "minimum_chapter_han_target": 2000,
+  "minimum_book_han_target": 20000,
+  "frontmatter": {
+    "source_lines_inclusive": [
+      1,
+      87
+    ],
+    "complete_reading": true,
+    "author_role_and_departure_date_read": true,
+    "author_claims_public_facts_not_private_secret_source": true
+  },
+  "chapters": [
+    {
+      "chapter_ordinal": 1,
+      "original_label": "I",
+      "title": "Introductory",
+      "source_lines_inclusive": [
+        88,
+        212
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch01-original.txt",
+      "source_text_sha256": "265e9eb536aceb9119ca11c5528f53f09202bba5e42974f5101ac62509ab479b",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "main_text_read_blocks_original_global": [
+        [
+          88,
+          212
+        ]
+      ],
+      "original_notes_in_chapter": 0,
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch01.md",
+      "draft_sha256": "4aadb1c90b5d3a1ddeb32e6e4dec6aa58e2a499249cda95efec6b7af0969409f",
+      "han_body_count": 2769,
+      "portable_source_file": "source/ch01-original.txt",
+      "portable_draft_file": "chapters/ch01.md"
+    },
+    {
+      "chapter_ordinal": 2,
+      "original_label": "II",
+      "title": "Europe Before the War",
+      "source_lines_inclusive": [
+        213,
+        619
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch02-original.txt",
+      "source_text_sha256": "8cd0e8d939694a2e94fdda46cbe74bc92355caf5aea054867a00f424899051d3",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        591,
+        619
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          213,
+          432
+        ],
+        [
+          433,
+          619
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch02.md",
+      "draft_sha256": "75c9a5a06db64984caaa33f8ff6db499e64d90c798584c7f156c57d90b248b33",
+      "han_body_count": 3254,
+      "portable_source_file": "source/ch02-original.txt",
+      "portable_draft_file": "chapters/ch02.md"
+    },
+    {
+      "chapter_ordinal": 3,
+      "original_label": "III",
+      "title": "The Conference",
+      "source_lines_inclusive": [
+        620,
+        1237
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch03-original.txt",
+      "source_text_sha256": "c20c77e9630a113ed13fc65c9ab80eac867c6c960360e5a94ca8c62d9c06e9a6",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        1228,
+        1237
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          620,
+          839
+        ],
+        [
+          840,
+          1059
+        ],
+        [
+          1060,
+          1237
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        6
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch03.md",
+      "draft_sha256": "79bef9550a2657f4812ec67fa38c0a91c76ad4c6fae4bae9c4c0f3d5ba865ace",
+      "han_body_count": 3382,
+      "portable_source_file": "source/ch03-original.txt",
+      "portable_draft_file": "chapters/ch03.md"
+    },
+    {
+      "chapter_ordinal": 4,
+      "original_label": "IV",
+      "title": "The Treaty",
+      "source_lines_inclusive": [
+        1238,
+        2689
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch04-original.txt",
+      "source_text_sha256": "c498fbeb88c38b470ccbe9f037291f473b7c734e82da06938943613472697cd6",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        2317,
+        2689
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          1238,
+          1457
+        ],
+        [
+          1458,
+          1677
+        ],
+        [
+          1678,
+          1897
+        ],
+        [
+          1898,
+          2117
+        ],
+        [
+          2118,
+          2337
+        ],
+        [
+          2338,
+          2557
+        ],
+        [
+          2558,
+          2689
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch04.md",
+      "draft_sha256": "607c6b02b45edf7f4dbfb7ed09ffd9233768a9412c05ac6b44ce131a0449e72c",
+      "han_body_count": 5225,
+      "visible_table_arithmetic_not_original_ledger_verification": true,
+      "portable_source_file": "source/ch04-original.txt",
+      "portable_draft_file": "chapters/ch04.md"
+    },
+    {
+      "chapter_ordinal": 5,
+      "original_label": "V",
+      "title": "Reparation",
+      "source_lines_inclusive": [
+        2690,
+        5576
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch05-original.txt",
+      "source_text_sha256": "58c19c625a2e35847bf487f109fc3a9fdbf6203b27c842d514c0d7587774cbb5",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        5034,
+        5576
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          2690,
+          2909
+        ],
+        [
+          2910,
+          3129
+        ],
+        [
+          3130,
+          3349
+        ],
+        [
+          3350,
+          3569
+        ],
+        [
+          3570,
+          3789
+        ],
+        [
+          3790,
+          4009
+        ],
+        [
+          4010,
+          4229
+        ],
+        [
+          4230,
+          4449
+        ],
+        [
+          4450,
+          4669
+        ],
+        [
+          4670,
+          4889
+        ],
+        [
+          4890,
+          5109
+        ],
+        [
+          5110,
+          5329
+        ],
+        [
+          5330,
+          5576
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "all_lettered_subnotes_actually_read": [
+        "A",
+        "B",
+        "C"
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch05.md",
+      "draft_sha256": "e22240dc09659a0b60e75b9e11605f5c6269b049cff80d2ccd94cfed89497fba",
+      "han_body_count": 6800,
+      "visible_arithmetic_not_original_ledger_verification": true,
+      "portable_source_file": "source/ch05-original.txt",
+      "portable_draft_file": "chapters/ch05.md"
+    },
+    {
+      "chapter_ordinal": 6,
+      "original_label": "VI",
+      "title": "Europe After the Treaty",
+      "source_lines_inclusive": [
+        5577,
+        6215
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch06-original.txt",
+      "source_text_sha256": "bfc66fab43df6c4d62dd2f77c26c3a039a9d2271b137a0a40f687b697b137e03",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        6083,
+        6215
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          5577,
+          5796
+        ],
+        [
+          5797,
+          6016
+        ],
+        [
+          6017,
+          6215
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch06.md",
+      "draft_sha256": "cf659c2e2068e6db90eae0577d4d3a0d27711babd130ca97c3ef3f35c2ca7ac3",
+      "han_body_count": 3722,
+      "portable_source_file": "source/ch06-original.txt",
+      "portable_draft_file": "chapters/ch06.md"
+    },
+    {
+      "chapter_ordinal": 7,
+      "original_label": "VII",
+      "title": "Remedies",
+      "source_lines_inclusive": [
+        6216,
+        7321
+      ],
+      "source_file": "work/book-experts-v5/index_team/P12/source/ch07-original.txt",
+      "source_text_sha256": "28f857879d62f4b70b9fd9b1c3d1352a4b9df7a89024e95b215eb43c93d4d136",
+      "precise_printed_pages_verified": false,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "chapter_end_footnote_lines_inclusive": [
+        7216,
+        7321
+      ],
+      "main_text_read_blocks_original_global": [
+        [
+          6216,
+          6435
+        ],
+        [
+          6436,
+          6655
+        ],
+        [
+          6656,
+          6875
+        ],
+        [
+          6876,
+          7095
+        ],
+        [
+          7096,
+          7321
+        ]
+      ],
+      "all_chapter_end_notes_actually_read": true,
+      "original_notes_read": [
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168
+      ],
+      "draft_file": "work/book-experts-v5/index_team/P12/chapters/ch07.md",
+      "draft_sha256": "e66109384158027d8633120b549c53f215fdca46fe133a061537e64c1f292193",
+      "han_body_count": 4277,
+      "portable_source_file": "source/ch07-original.txt",
+      "portable_draft_file": "chapters/ch07.md"
+    }
+  ],
+  "book_semantic_reading_completed": true,
+  "full_reading_completed": false,
+  "coverage_qualified": true,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "original_scan_obtained": false,
+  "postmatter_license_source_start": 7323,
+  "status": "full_semantic_read_and_independent_QA_passed_with_source_limits",
+  "pre_read_later_source_segments": [
+    [
+      6950,
+      7050
+    ],
+    [
+      7216,
+      7322
+    ]
+  ],
+  "pre_read_is_not_full_chapter_completion": true,
+  "html_source_url": "https://www.gutenberg.org/cache/epub/15776/pg15776-images.html",
+  "html_source_file": "work/book-experts-v5/index_team/P12/source/original.html",
+  "html_sha256": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707",
+  "html_observed_table_count": 18,
+  "html_observed_images": [],
+  "completed_draft_chapters": 7,
+  "chapter_body_han_total": 29429,
+  "source_all_lines_actually_read": true,
+  "source_scan_every_word_verified": false,
+  "all_historical_numbers_verified": false,
+  "independent_qa_status": "passed_with_source_limits",
+  "pg_license": {
+    "source_lines_inclusive": [
+      7323,
+      7672
+    ],
+    "actual_read_blocks": [
+      [
+        7323,
+        7542
+      ],
+      [
+        7543,
+        7672
+      ]
+    ],
+    "complete_reading": true,
+    "original_complete_license_retained": true,
+    "us_public_domain_not_all_jurisdiction_guarantee": true
+  },
+  "index": {
+    "standalone_author_index_observed_in_provided_edition": false
+  },
+  "appendices": {
+    "standalone_author_appendix_observed_in_provided_edition": false,
+    "chapter_end_notes_not_extra_books_or_chapters": true
+  },
+  "notes": {
+    "original_numbered_notes": 168,
+    "all_actually_read": true,
+    "lettered_subnotes_in_note122": [
+      "A",
+      "B",
+      "C"
+    ],
+    "full_referenced_works_not_counted_as_read": true
+  },
+  "postmatter": {
+    "end_marker_source_line": 7322,
+    "end_marker_actually_read": true,
+    "license_complete_reading": true,
+    "no_other_author_postitems_observed": true
+  },
+  "chapter_body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "minimum_chapter_body_han": 2769,
+  "source_formats_note": "Complete full semantic reading uses bound original TXT, SHA47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81; officialHTML SHA5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707 has documented table numeric/header/unit variants, neither substitutes an original physical scan."
+}

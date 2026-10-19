@@ -1,0 +1,53 @@
+{
+  "table": "1.2 printed29–30/PDF44–45",
+  "scope": "all4 rows compare cash-flow timing assumptions, raw source unchanged",
+  "calculations": [
+    {
+      "scenario": 1,
+      "age_start": 26,
+      "age_end": 60,
+      "original_portfolio_value": 1490634,
+      "annual_payment": 5000,
+      "assumed_constant_return": 0.1,
+      "calculated_at_age60_birthday": 1355121.8424032151,
+      "calculated_at_end_of_age60": 1490634.0266435372,
+      "book_minus_end_age60": -0.026643537217751145
+    },
+    {
+      "scenario": 2,
+      "age_start": 19,
+      "age_end": 25,
+      "original_portfolio_value": 1466369,
+      "annual_payment": 5000,
+      "assumed_constant_return": 0.1,
+      "calculated_at_age60_birthday": 1333063.1194714368,
+      "calculated_at_end_of_age60": 1466369.4314185807,
+      "book_minus_end_age60": -0.4314185807015747
+    },
+    {
+      "scenario": 3,
+      "age_start": 14,
+      "age_end": 18,
+      "original_portfolio_value": 1838858,
+      "annual_payment": 5000,
+      "assumed_constant_return": 0.1,
+      "calculated_at_age60_birthday": 1671689.3010740955,
+      "calculated_at_end_of_age60": 1838858.2311815051,
+      "book_minus_end_age60": -0.23118150513619184
+    },
+    {
+      "scenario": 4,
+      "age_start": 9,
+      "age_end": 13,
+      "original_portfolio_value": 2961500,
+      "annual_payment": 5000,
+      "assumed_constant_return": 0.1,
+      "calculated_at_age60_birthday": 2692272.336272843,
+      "calculated_at_end_of_age60": 2961499.569900127,
+      "book_minus_end_age60": 0.4300998728722334
+    }
+  ],
+  "conclusion": "printed amounts match valuation at end of age60/beginning age61 within currency rounding; book only says at age60, timing not made explicit. Constant10% is hypothetical, not arithmetic-average stochastic return guarantee.",
+  "monthly_500_360_months_at_nominal_10_percent_div12": 1130243.9623980306,
+  "not_current_stock_return_validation": true
+}

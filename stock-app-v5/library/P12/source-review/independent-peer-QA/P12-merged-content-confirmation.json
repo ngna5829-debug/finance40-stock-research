@@ -1,0 +1,935 @@
+{
+  "book_id": "P12",
+  "role": "Independent whole-book semantic reviewer, now reviewed-candidate/canonical merge identity confirmation; no extra whole-book reread claimed",
+  "status": "content_confirmation_passed_waiting_root_metadata_only_closure",
+  "completed_utc": "2026-10-13T15:54:41.114195+00:00",
+  "checks": {
+    "author_review_time_hashes_unchanged": true,
+    "all_bound_original_sources_same_in_author_and_canonical": true,
+    "all_top_level_candidate_content_same_except_disclosed_status": true,
+    "all41rules_exact_semantic_fields_and_evidence_match_reviewed_candidate": true,
+    "all106_exact_raw_line_char_byte_SHA_and_files_match": true,
+    "all41whole_original_context_links_match": true,
+    "all6corrected_body_readable_artifacts_match_candidates": true,
+    "three_unmodified_chapters_same": true,
+    "strict_counts_29429_min2769": true,
+    "combined_all_seven_chapters_exact": true,
+    "章节与阅读审计.json_counts_hashes_match": true,
+    "chapter-plan.json_counts_hashes_match": true,
+    "source-metadata.json_counts_hashes_match": true,
+    "self_validation_artifact_hashes_current": true,
+    "audit_artifact_hashes_current": true,
+    "all_source_glyph_history_current_experiment_limits_remain_false": true,
+    "root_preclose_status_not_prematurely_passed": true,
+    "parent_reported_three_hashes_match": true
+  },
+  "all_checks_pass": true,
+  "strict_body_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "total": 29429,
+  "minimum": 2769,
+  "rule_count": 41,
+  "old_exact_evidence": 97,
+  "new_full_original_contexts": 9,
+  "total_exact_evidence": 106,
+  "draft_checks": [
+    {
+      "file": "chapters/ch04.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    },
+    {
+      "file": "chapters/ch05.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    },
+    {
+      "file": "chapters/ch06.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    },
+    {
+      "file": "chapters/ch07.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    },
+    {
+      "file": "专家说明.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "reviewed_candidate_SHA_unchanged": true,
+      "canonical_content_same_with_only_disclosed_status_change": true
+    }
+  ],
+  "context_checks": [
+    {
+      "rule": "P12-R01",
+      "source_lines": [
+        93,
+        122
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R01",
+      "source_lines": [
+        132,
+        152
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R02",
+      "source_lines": [
+        300,
+        351
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R02",
+      "source_lines": [
+        593,
+        601
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R03",
+      "source_lines": [
+        356,
+        412
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R03",
+      "source_lines": [
+        603,
+        604
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R04",
+      "source_lines": [
+        424,
+        504
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R05",
+      "source_lines": [
+        509,
+        567
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R05",
+      "source_lines": [
+        606,
+        615
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R06",
+      "source_lines": [
+        625,
+        640
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R06",
+      "source_lines": [
+        732,
+        760
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R07",
+      "source_lines": [
+        642,
+        670
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R07",
+      "source_lines": [
+        999,
+        1078
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R07",
+      "source_lines": [
+        858,
+        876
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R08",
+      "source_lines": [
+        1146,
+        1185
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R08",
+      "source_lines": [
+        1193,
+        1225
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R08",
+      "source_lines": [
+        1230,
+        1233
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R09",
+      "source_lines": [
+        1269,
+        1362
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R09",
+      "source_lines": [
+        2319,
+        2325
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R10",
+      "source_lines": [
+        1483,
+        1552
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R10",
+      "source_lines": [
+        1582,
+        1640
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R10",
+      "source_lines": [
+        2343,
+        2372
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R11",
+      "source_lines": [
+        1642,
+        1718
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R11",
+      "source_lines": [
+        2386,
+        2389
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R12",
+      "source_lines": [
+        1777,
+        1831
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R12",
+      "source_lines": [
+        2435,
+        2479
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R13",
+      "source_lines": [
+        1872,
+        1949
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R13",
+      "source_lines": [
+        2518,
+        2534
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R14",
+      "source_lines": [
+        2498,
+        2511
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R14",
+      "source_lines": [
+        2559,
+        2569
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R15",
+      "source_lines": [
+        1979,
+        2049
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R15",
+      "source_lines": [
+        2051,
+        2118
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R15",
+      "source_lines": [
+        2544,
+        2557
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R15",
+      "source_lines": [
+        2571,
+        2586
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R16",
+      "source_lines": [
+        2132,
+        2172
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R16",
+      "source_lines": [
+        2193,
+        2226
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R16",
+      "source_lines": [
+        2250,
+        2309
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R16",
+      "source_lines": [
+        2682,
+        2683
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R17",
+      "source_lines": [
+        2731,
+        2849
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R17",
+      "source_lines": [
+        5049,
+        5062
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R18",
+      "source_lines": [
+        2851,
+        2871
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R18",
+      "source_lines": [
+        2915,
+        2935
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R18",
+      "source_lines": [
+        5119,
+        5149
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R19",
+      "source_lines": [
+        3039,
+        3065
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R19",
+      "source_lines": [
+        5172,
+        5186
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R20",
+      "source_lines": [
+        3086,
+        3113
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R20",
+      "source_lines": [
+        5188,
+        5191
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R20",
+      "source_lines": [
+        5217,
+        5219
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R21",
+      "source_lines": [
+        3195,
+        3231
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R21",
+      "source_lines": [
+        3272,
+        3328
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R21",
+      "source_lines": [
+        3384,
+        3433
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R22",
+      "source_lines": [
+        3454,
+        3555
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R22",
+      "source_lines": [
+        3609,
+        3646
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R22",
+      "source_lines": [
+        5266,
+        5290
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R23",
+      "source_lines": [
+        3650,
+        3695
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R23",
+      "source_lines": [
+        5312,
+        5323
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R24",
+      "source_lines": [
+        3697,
+        3767
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R24",
+      "source_lines": [
+        5333,
+        5343
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R25",
+      "source_lines": [
+        3788,
+        3817
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R25",
+      "source_lines": [
+        3866,
+        3963
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R25",
+      "source_lines": [
+        3974,
+        4039
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R25",
+      "source_lines": [
+        5355,
+        5409
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R26",
+      "source_lines": [
+        4060,
+        4152
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R26",
+      "source_lines": [
+        5411,
+        5434
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R27",
+      "source_lines": [
+        4174,
+        4221
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R27",
+      "source_lines": [
+        4333,
+        4465
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R27",
+      "source_lines": [
+        4223,
+        4331
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R27",
+      "source_lines": [
+        5442,
+        5446
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R28",
+      "source_lines": [
+        4498,
+        4529
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R28",
+      "source_lines": [
+        5448,
+        5456
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R29",
+      "source_lines": [
+        4531,
+        4595
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R29",
+      "source_lines": [
+        4611,
+        4662
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R29",
+      "source_lines": [
+        5490,
+        5506
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R30",
+      "source_lines": [
+        4702,
+        4802
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R30",
+      "source_lines": [
+        5536,
+        5550
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R30",
+      "source_lines": [
+        5567,
+        5572
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R30",
+      "source_lines": [
+        4800,
+        4905
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R31",
+      "source_lines": [
+        4907,
+        4975
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R31",
+      "source_lines": [
+        5552,
+        5572
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R32",
+      "source_lines": [
+        5603,
+        5636
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R32",
+      "source_lines": [
+        5693,
+        5759
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R32",
+      "source_lines": [
+        5638,
+        5691
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R32",
+      "source_lines": [
+        5761,
+        5776
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R33",
+      "source_lines": [
+        5778,
+        5824
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R33",
+      "source_lines": [
+        5880,
+        5957
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R33",
+      "source_lines": [
+        6093,
+        6107
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R34",
+      "source_lines": [
+        6109,
+        6144
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R34",
+      "source_lines": [
+        6169,
+        6211
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R34",
+      "source_lines": [
+        6074,
+        6080
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R34",
+      "source_lines": [
+        5976,
+        6052
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R35",
+      "source_lines": [
+        6221,
+        6281
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R35",
+      "source_lines": [
+        7156,
+        7180
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R36",
+      "source_lines": [
+        6338,
+        6399
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R36",
+      "source_lines": [
+        7235,
+        7248
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R37",
+      "source_lines": [
+        6414,
+        6492
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R38",
+      "source_lines": [
+        6494,
+        6502
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R38",
+      "source_lines": [
+        7250,
+        7260
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R38",
+      "source_lines": [
+        6519,
+        6567
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R39",
+      "source_lines": [
+        6611,
+        6664
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R39",
+      "source_lines": [
+        7262,
+        7280
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R40",
+      "source_lines": [
+        6738,
+        6823
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R40",
+      "source_lines": [
+        6871,
+        6928
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R40",
+      "source_lines": [
+        6954,
+        6993
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R40",
+      "source_lines": [
+        6825,
+        6869
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R41",
+      "source_lines": [
+        6996,
+        7018
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    },
+    {
+      "rule": "P12-R41",
+      "source_lines": [
+        7070,
+        7152
+      ],
+      "all_actual_raw_coordinates_and_evidence_file_match": true
+    }
+  ],
+  "preclosure_hashes": {
+    "专家定义.json": "0d07b52a7f1bdb834f15280412bbd9a8096539bc67bc4de6da773c39d46c5827",
+    "章节与阅读审计.json": "6ff824db2ca5c5c4a682f14d365b50ef05491bf0ee333fa948dd20c6071ef95b",
+    "独立复核.json": "175209f073b530cbbf8543e44b75160ab4e6d41771f935b8ea21a254b80698fb"
+  },
+  "original_source_full_semantic_read_earlier": true,
+  "all_original_scan_glyphs_verified": false,
+  "current_stock_decisions_enabled": false,
+  "experiments_run": false,
+  "probability_calibration": false,
+  "next_step": "Root may close status metadata only, preserving all source/dossier/rule/evidence/format differences; then independent final hashes confirmation."
+}

@@ -1,0 +1,711 @@
+{
+  "schema_version": "1.0",
+  "id": "P28",
+  "expert_id": "P28-Henry-HowToInvestMoney",
+  "title_en": "How to Invest Money",
+  "title_zh_reference": "如何投资金钱",
+  "author_en": "George Garr Henry",
+  "publication_year": 1908,
+  "source_catalog_url": "https://www.gutenberg.org/ebooks/34463",
+  "source_manifest": "source-manifest.json",
+  "reading_audit": "章节与阅读审计.json",
+  "knowledge_status": "full_original_text_read_chapter_dossiers_complete",
+  "knowledge_expert_enabled": true,
+  "current_stock_decision_enabled": false,
+  "independent_model_or_author_personality_claimed": false,
+  "role_zh": "依据单本原书审查资金用途、证券权利、债券保障、变现与期限，并接受合同及财务反证。",
+  "author_view_vs_modern_analysis_separated": true,
+  "required_input_groups": [
+    "investorNeeds",
+    "securityTerms",
+    "financialAndAssetEvidence",
+    "datedExecutableMarketEvidence",
+    "datedMacroAndBusinessEvidence"
+  ],
+  "no_calibrated_probability": true,
+  "no_guaranteed_return": true,
+  "no_current_financial_data_fabrication": true,
+  "rules": [
+    {
+      "id": "P28-R01",
+      "chapter_numbers": [
+        1
+      ],
+      "name_zh": "先确定资金用途和真实需求",
+      "author_basis_zh": "先区分营运资金、企业储备、依赖收入的私人资金与可等待增值的资金，再以安全、实际收入、变现、升值、报价稳定五维比较。",
+      "required_inputs": [
+        "investorNeeds",
+        "cashNeedsSchedule",
+        "existingEconomicExposures"
+      ],
+      "horizon_zh": "资金可能使用期间",
+      "abstention_or_falsification_zh": "没有用途和用款期限时弃权，不能先荐证券再推测需求。",
+      "modern_boundary_zh": "固定打分权重、风险预算或最小现金比例均非本书给定阈值。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "print_pages": [
+            7,
+            22
+          ],
+          "source_lines": [
+            124,
+            417
+          ],
+          "dossier_file": "chapters/ch01.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R02",
+      "chapter_numbers": [
+        1,
+        8
+      ],
+      "name_zh": "区分债权与剩余权益",
+      "author_basis_zh": "付款承诺与股票剩余索取权不同；稳定股息或优先股名称不自动构成固定本息保障。",
+      "required_inputs": [
+        "securityTerms",
+        "capitalStructure",
+        "shareClassRights"
+      ],
+      "horizon_zh": "合同存续和可能退出期间",
+      "abstention_or_falsification_zh": "合同与证券种类不明时弃权；原规则不能直接当作现行法律意见。",
+      "modern_boundary_zh": "现代可赎回、可转换或优先股条款需要实际文件。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "print_pages": [
+            7,
+            22
+          ],
+          "source_lines": [
+            124,
+            417
+          ],
+          "dossier_file": "chapters/ch01.md"
+        },
+        {
+          "chapter": 8,
+          "print_pages": [
+            100,
+            107
+          ],
+          "source_lines": [
+            1903,
+            2039
+          ],
+          "dossier_file": "chapters/ch08.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R03",
+      "chapter_numbers": [
+        1,
+        5
+      ],
+      "name_zh": "分散须穿透资产和负债共同事故",
+      "author_basis_zh": "旧金山保险公司资产与赔付责任同地集中，说明证券数量不同不代表风险独立；工业企业储备不宜机械再集中于工业风险。",
+      "required_inputs": [
+        "existingEconomicExposures",
+        "assetLocations",
+        "liabilityScenarios"
+      ],
+      "horizon_zh": "危机与可能用款期间",
+      "abstention_or_falsification_zh": "仅有证券代码数量时只能描述名义分散，不确认经济分散。",
+      "modern_boundary_zh": "相关系数阈值、情景损失百分比均需独立设置和验证。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "print_pages": [
+            7,
+            22
+          ],
+          "source_lines": [
+            124,
+            417
+          ],
+          "dossier_file": "chapters/ch01.md"
+        },
+        {
+          "chapter": 5,
+          "print_pages": [
+            63,
+            75
+          ],
+          "source_lines": [
+            1202,
+            1449
+          ],
+          "dossier_file": "chapters/ch05.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R04",
+      "chapter_numbers": [
+        1,
+        3,
+        9
+      ],
+      "name_zh": "信用安全不等于提前出售本金稳定",
+      "author_basis_zh": "到期偿付与报价是不同问题；企业紧急储备应重视短期、可变现、与可能用款时间匹配的债权。",
+      "required_inputs": [
+        "securityTerms",
+        "cashNeedsSchedule",
+        "marketExecutableQuotes"
+      ],
+      "horizon_zh": "买入至可能出售日期",
+      "abstention_or_falsification_zh": "没有可执行买价或提前用款安排时，拒绝保证本金不变。",
+      "modern_boundary_zh": "第三章三年与十年债价格为历史假设算例，不是当前收益预测。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "print_pages": [
+            7,
+            22
+          ],
+          "source_lines": [
+            124,
+            417
+          ],
+          "dossier_file": "chapters/ch01.md"
+        },
+        {
+          "chapter": 3,
+          "print_pages": [
+            40,
+            50
+          ],
+          "source_lines": [
+            762,
+            972
+          ],
+          "dossier_file": "chapters/ch03.md"
+        },
+        {
+          "chapter": 9,
+          "print_pages": [
+            108,
+            121
+          ],
+          "source_lines": [
+            2040,
+            2293
+          ],
+          "dossier_file": "chapters/ch09.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R05",
+      "chapter_numbers": [
+        2
+      ],
+      "name_zh": "以买入成本上的收益比较债券",
+      "author_basis_zh": "票息、剩余期限与溢折价共同决定收益基础；票息不能全部等同可消费收入。",
+      "required_inputs": [
+        "securityTerms",
+        "purchasePrice",
+        "cashFlowSchedule"
+      ],
+      "horizon_zh": "到期或实际持有期间",
+      "abstention_or_falsification_zh": "缺现金流日期、赎回或费用资料时，不给准确现代收益率。",
+      "modern_boundary_zh": "百分之六、八年、一百一十又四分之三与约百分之四点四是原书例子。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "print_pages": [
+            23,
+            39
+          ],
+          "source_lines": [
+            418,
+            761
+          ],
+          "dossier_file": "chapters/ch02.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R06",
+      "chapter_numbers": [
+        2
+      ],
+      "name_zh": "铁路抵押债同时查资产顺位与盈利",
+      "author_basis_zh": "读取信托契约和年报；比较总债务、先后顺位、线路价值、收入、维护和固定费用，不能只查单个发行额。",
+      "required_inputs": [
+        "indenture",
+        "debtPriorityTable",
+        "multiYearFinancials",
+        "assetAppraisal",
+        "maintenanceAccounts"
+      ],
+      "horizon_zh": "经营周期及债券持有期",
+      "abstention_or_falsification_zh": "担保范围、优先债务或维护资料缺失即弃权；行业合计不是个体安全证明。",
+      "modern_boundary_zh": "原书固定费用两倍为1908铁路筛选口径，不能统一套给现代行业。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "print_pages": [
+            23,
+            39
+          ],
+          "source_lines": [
+            418,
+            761
+          ],
+          "dossier_file": "chapters/ch02.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R07",
+      "chapter_numbers": [
+        3
+      ],
+      "name_zh": "设备债保障依赖可核查合同机制",
+      "author_basis_zh": "产权留在受托人、设备可移动、维修保险及摊还在寿命内，是历史设备债保障机制。",
+      "required_inputs": [
+        "equipmentTrustTerms",
+        "equipmentInventory",
+        "maintenanceInsurance",
+        "amortizationSchedule"
+      ],
+      "horizon_zh": "设备经济寿命与债务清偿期间",
+      "abstention_or_falsification_zh": "没有产权及回收条件时不得继承1888—1905历史样本安全结论。",
+      "modern_boundary_zh": "历史司法优先权不是现代自动法律门；二手处置与技术淘汰需独立核实。",
+      "chapter_sources": [
+        {
+          "chapter": 3,
+          "print_pages": [
+            40,
+            50
+          ],
+          "source_lines": [
+            762,
+            972
+          ],
+          "dossier_file": "chapters/ch03.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R08",
+      "chapter_numbers": [
+        4
+      ],
+      "name_zh": "抵押比例须放在估值和地产周期中",
+      "author_basis_zh": "低贷款比例也可能是在过热高估值上计算；本金担保与物业经营付息来源应分别审查。",
+      "required_inputs": [
+        "mortgageTerms",
+        "titleEvidence",
+        "propertyAppraisal",
+        "borrowerCashFlows",
+        "localMarketEvidence"
+      ],
+      "horizon_zh": "贷款期限、处置期和地产变化期间",
+      "abstention_or_falsification_zh": "无估值日期、权属或现金流时弃权；不报价不等于没有经济损失。",
+      "modern_boundary_zh": "百分之五十、六十是说明风险的原例，不是本专家现代安全上限。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "print_pages": [
+            51,
+            62
+          ],
+          "source_lines": [
+            973,
+            1201
+          ],
+          "dossier_file": "chapters/ch04.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R09",
+      "chapter_numbers": [
+        4
+      ],
+      "name_zh": "保证须受保证人的全部责任约束",
+      "author_basis_zh": "担保公司资本对总保证责任有限；个别地产下跌的分散效果不能代表全市场崩跌的承受力。",
+      "required_inputs": [
+        "guaranteeTerms",
+        "guarantorCapital",
+        "guarantorTotalExposure",
+        "concentrationData"
+      ],
+      "horizon_zh": "担保存续及共同压力期间",
+      "abstention_or_falsification_zh": "缺总责任余额或同一周期集中度时不确认保证充足。",
+      "modern_boundary_zh": "六万美元贷款和三千美元支持是原书总量约束算例，不是每笔隔离准备金。",
+      "chapter_sources": [
+        {
+          "chapter": 4,
+          "print_pages": [
+            51,
+            62
+          ],
+          "source_lines": [
+            973,
+            1201
+          ],
+          "dossier_file": "chapters/ch04.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R10",
+      "chapter_numbers": [
+        5
+      ],
+      "name_zh": "工业债查流动账户、稳定盈利和再融资",
+      "author_basis_zh": "流动资产与流动负债、净速动资产与债务、经营盈利和偿债安排相互约束；票据不能展期可能直接造成失败。",
+      "required_inputs": [
+        "currentAssetDetails",
+        "currentLiabilityMaturities",
+        "multiYearFinancials",
+        "debtSchedule"
+      ],
+      "horizon_zh": "季节周期、经营周期和到期安排",
+      "abstention_or_falsification_zh": "存货或应收明细不明、再融资承诺未证实时应降级或弃权。",
+      "modern_boundary_zh": "原书净速动资产包含存货；二比一、土地三分之二、三倍覆盖均须保留历史分母。",
+      "chapter_sources": [
+        {
+          "chapter": 5,
+          "print_pages": [
+            63,
+            75
+          ],
+          "source_lines": [
+            1202,
+            1449
+          ],
+          "dossier_file": "chapters/ch05.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R11",
+      "chapter_numbers": [
+        2,
+        5,
+        6
+      ],
+      "name_zh": "先核必要维护和损耗再认盈利保障",
+      "author_basis_zh": "减少维修或把小改良资本化可能虚增净利润；债务摊还需超过资产损耗，公共事业不能靠省略折旧支付利息。",
+      "required_inputs": [
+        "maintenanceAccounts",
+        "depreciationPolicy",
+        "capexDetails",
+        "amortizationSchedule"
+      ],
+      "horizon_zh": "资产经济寿命和经营周期",
+      "abstention_or_falsification_zh": "利润依赖漏计维护折旧时撤回原安全结论。",
+      "modern_boundary_zh": "第六章每月总收入百分之十折旧属于街道铁路历史经验，非现代通用会计规则。",
+      "chapter_sources": [
+        {
+          "chapter": 2,
+          "print_pages": [
+            23,
+            39
+          ],
+          "source_lines": [
+            418,
+            761
+          ],
+          "dossier_file": "chapters/ch02.md",
+          "specific_evidence_printed_page": 32,
+          "specific_evidence_source_lines": [
+            580,
+            595
+          ],
+          "evidence_zh": "必要维护、普通改良资本化与净利润虚增；HTML原页32。"
+        },
+        {
+          "chapter": 5,
+          "print_pages": [
+            63,
+            75
+          ],
+          "source_lines": [
+            1202,
+            1449
+          ],
+          "dossier_file": "chapters/ch05.md"
+        },
+        {
+          "chapter": 6,
+          "print_pages": [
+            76,
+            90
+          ],
+          "source_lines": [
+            1450,
+            1732
+          ],
+          "dossier_file": "chapters/ch06.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R12",
+      "chapter_numbers": [
+        6
+      ],
+      "name_zh": "公共事业必须同时审资产、现金和特许权",
+      "author_basis_zh": "街道铁路债需物理、财务和政治检查，特许权宜长于债券期限，还需审收费、成本、事故责任和公众关系。",
+      "required_inputs": [
+        "engineeringAppraisal",
+        "franchiseTerms",
+        "multiYearFinancials",
+        "rateAndTaxConditions",
+        "accidentInsuranceData"
+      ],
+      "horizon_zh": "债券到期与特许权剩余期间",
+      "abstention_or_falsification_zh": "无特许权或收费条件时弃权；稳定客流不足以证明现金或本金安全。",
+      "modern_boundary_zh": "街道铁路例不能无修订泛化到所有现代供水、电力、通信公司。",
+      "chapter_sources": [
+        {
+          "chapter": 6,
+          "print_pages": [
+            76,
+            90
+          ],
+          "source_lines": [
+            1450,
+            1732
+          ],
+          "dossier_file": "chapters/ch06.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R13",
+      "chapter_numbers": [
+        7
+      ],
+      "name_zh": "政府债逐发行核授权、税基与真实市场",
+      "author_basis_zh": "市政债需核债务与评估税基、发行目的、法定程序及变现市场；机构特殊需求也可能推高价格。",
+      "required_inputs": [
+        "issueAuthorization",
+        "fiscalData",
+        "taxBaseData",
+        "debtSchedule",
+        "marketExecutableQuotes"
+      ],
+      "horizon_zh": "财政收支与债券存续期间",
+      "abstention_or_falsification_zh": "政府名称不足以证明具体债是一般征税债；缺文件即弃权。",
+      "modern_boundary_zh": "当时约百分之十上限及旧银行券担保制度不是现行政策数据。",
+      "chapter_sources": [
+        {
+          "chapter": 7,
+          "print_pages": [
+            91,
+            99
+          ],
+          "source_lines": [
+            1733,
+            1902
+          ],
+          "dossier_file": "chapters/ch07.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R14",
+      "chapter_numbers": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "name_zh": "明确处理不报价与假稳定的书内张力",
+      "author_basis_zh": "作者有时赞赏不报价资产的账面稳定，又承认不活跃形成虚假稳定；知识角色须同时保存两种表述。",
+      "required_inputs": [
+        "marketExecutableQuotes",
+        "valuationEvidence",
+        "cashNeedsSchedule"
+      ],
+      "horizon_zh": "当前可售日期与最终偿付日期",
+      "abstention_or_falsification_zh": "没有实际成交或可执行买价时不得将报价不动判成无风险。",
+      "modern_boundary_zh": "以经济可回收现金优先是现代独立裁决，不冒称作者已统一解决矛盾。",
+      "chapter_sources": [
+        {
+          "chapter": 1,
+          "print_pages": [
+            7,
+            22
+          ],
+          "source_lines": [
+            124,
+            417
+          ],
+          "dossier_file": "chapters/ch01.md"
+        },
+        {
+          "chapter": 4,
+          "print_pages": [
+            51,
+            62
+          ],
+          "source_lines": [
+            973,
+            1201
+          ],
+          "dossier_file": "chapters/ch04.md"
+        },
+        {
+          "chapter": 5,
+          "print_pages": [
+            63,
+            75
+          ],
+          "source_lines": [
+            1202,
+            1449
+          ],
+          "dossier_file": "chapters/ch05.md"
+        },
+        {
+          "chapter": 6,
+          "print_pages": [
+            76,
+            90
+          ],
+          "source_lines": [
+            1450,
+            1732
+          ],
+          "dossier_file": "chapters/ch06.md"
+        },
+        {
+          "chapter": 7,
+          "print_pages": [
+            91,
+            99
+          ],
+          "source_lines": [
+            1733,
+            1902
+          ],
+          "dossier_file": "chapters/ch07.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R15",
+      "chapter_numbers": [
+        8
+      ],
+      "name_zh": "留存盈利和稳定股息只能提供条件论证",
+      "author_basis_zh": "股息平滑可能来自储备；银行留存可能增加净值，但股票仍是剩余权利，原书近乎确定升值语言应受反证约束。",
+      "required_inputs": [
+        "multiYearFinancials",
+        "dividendHistory",
+        "retainedEarnings",
+        "capitalStructure"
+      ],
+      "horizon_zh": "多年经营与投资使用期",
+      "abstention_or_falsification_zh": "缺真实盈利、资产质量、融资及股权资料时不确认净值和股价必涨。",
+      "modern_boundary_zh": "反证包括亏损、稀释、估值下降与有限储备；本书未建立现代银行资产风险模型。",
+      "chapter_sources": [
+        {
+          "chapter": 8,
+          "print_pages": [
+            100,
+            107
+          ],
+          "source_lines": [
+            1903,
+            2039
+          ],
+          "dossier_file": "chapters/ch08.md"
+        }
+      ]
+    },
+    {
+      "id": "P28-R16",
+      "chapter_numbers": [
+        9
+      ],
+      "name_zh": "分开利率力量与商业经营力量",
+      "author_basis_zh": "借贷利率与商业条件可能同向或相抵，作用依证券信用和期限不同；低利率不使所有股票必涨。",
+      "required_inputs": [
+        "datedInterestRates",
+        "businessIndicators",
+        "creditEvidence",
+        "securityTerms",
+        "priceHistory"
+      ],
+      "horizon_zh": "较大商业和资金变化期间，不默认五日",
+      "abstention_or_falsification_zh": "只有价格或成交量代理时弃权于资金机制判断；无法区分两力量时保留未决。",
+      "modern_boundary_zh": "周期长度与价格规律是历史假说；不设原书没有的MA、RSI或校准概率。",
+      "chapter_sources": [
+        {
+          "chapter": 9,
+          "print_pages": [
+            108,
+            121
+          ],
+          "source_lines": [
+            2040,
+            2293
+          ],
+          "dossier_file": "chapters/ch09.md"
+        }
+      ]
+    }
+  ],
+  "explicit_internal_tensions": [
+    {
+      "chapters": [
+        1,
+        4,
+        5,
+        6,
+        7
+      ],
+      "issue_zh": "账面稳定与不活跃形成虚假稳定并存。",
+      "resolution_kind": "modern_independent_qualification",
+      "operational_resolution_zh": "把报价、经济价值、可变现金额和到期付款分别验证。"
+    },
+    {
+      "chapters": [
+        1,
+        8,
+        9
+      ],
+      "issue_zh": "银行留存增加账面净值被乐观描述为几乎确定升值，股票仍无固定还本且市场会波动。",
+      "resolution_kind": "modern_independent_qualification",
+      "operational_resolution_zh": "保留留存机制，撤销任何本金和股价必涨保证。"
+    },
+    {
+      "chapters": [
+        9
+      ],
+      "issue_zh": "周期如自然规律的强措辞与特殊影响、顶部难提前确定及理想不可完全实现并存。",
+      "resolution_kind": "source_limits_preserved",
+      "operational_resolution_zh": "作为机制假说；未校准，不生成固定周期计时器或预测概率。"
+    }
+  ],
+  "cross_challenge_protocol": [
+    {
+      "round": 1,
+      "name_zh": "提出有条件判断",
+      "requirements_zh": "说明具体资金用途、具体证券、原章及已取得证据，列出未知；历史例与现代数据分开。"
+    },
+    {
+      "round": 2,
+      "name_zh": "反方查因果与证据",
+      "requirements_zh": "优先质疑权利真实性、维护和现金流、共同风险、用款与期限错配、报价稳定幻觉以及作者自身跨章反证。"
+    },
+    {
+      "round": 3,
+      "name_zh": "修订与裁决",
+      "requirements_zh": "逐条回应反证；证据成立就改判，无法解决就弃权，不能以作者名望、其他专家票数或市场涨价覆写缺数据门。"
+    }
+  ],
+  "callable_prompt_zh": "你是依据George Garr Henry《How to Invest Money》(1908)完整九章阅读档案建立的单书知识角色。你不能声称自己就是作者、独立模型或具有校准预测能力。先确定资金用途、可能用款期限和证券权利，再分别审查本息安全、实际收益、可变现性、升值及价格稳定。所有规则都引用P28-R编号和原章位置；历史倍数与算例保留原口径，现代压力情境明确自行设定。缺合同、真实财务、担保、可执行报价或相应宏观证据时弃权。特别保留不报价/假稳定、银行净值/股价保证、周期确定性/特殊冲击三组书内张力。三轮交叉质疑后允许撤回结论，禁止用日线代理伪造机构资金流、用专家多数票取消数据门、凭本书直接给当前股票下单建议。输出观点、证据、反证、未知、改判条件与期限；不用校准概率或收益保证。"
+}

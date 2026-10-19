@@ -1,0 +1,38 @@
+{
+  "rule_id": "P22-R48",
+  "context_file": "source/evidence/unabridged/P22-R48-unabridged.txt",
+  "context_sha256": "87d46759618a6261f8db243eef0eb42e88da5c9a0531f350897263b1009cbb8b",
+  "components": [
+    {
+      "section": "ch05",
+      "source_file": "source/ch05.txt",
+      "original_source_sha256": "ece7c4ad995da674ac9148610727e96ab6276048d2f0e8dde16a9fcbe32f885e",
+      "original_bytes": 79511,
+      "context_byte_start_inclusive": 83,
+      "context_byte_end_exclusive": 79594,
+      "all_supplied_section_bytes_preserved": true
+    },
+    {
+      "section": "ch07",
+      "source_file": "source/ch07.txt",
+      "original_source_sha256": "b4d9ec2a2cb2dce5a6c6de75132ad7621bdb38a3269967518a04e50ae7fa0c6d",
+      "original_bytes": 29815,
+      "context_byte_start_inclusive": 79678,
+      "context_byte_end_exclusive": 109493,
+      "all_supplied_section_bytes_preserved": true
+    },
+    {
+      "section": "ch13",
+      "source_file": "source/ch13.txt",
+      "original_source_sha256": "a9f8515c53da2ec549903e89e99dfcf3b9eb000a5307511f082fb721e9c90c46",
+      "original_bytes": 36820,
+      "context_byte_start_inclusive": 109577,
+      "context_byte_end_exclusive": 146397,
+      "all_supplied_section_bytes_preserved": true
+    }
+  ],
+  "scope": "All bytes of each complete supplied PG-derived readable section; no missing inter-fragment lines; original raw HTML retained separately. Not a complete original-print glyph certification.",
+  "candidate_provenance": {
+    "work_artifact_path": "work/book-experts-v5/index_team/peer-QA/P22-candidate-artifacts/P22-R48-unabridged.txt"
+  }
+}

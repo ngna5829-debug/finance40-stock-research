@@ -1,0 +1,235 @@
+{
+  "schema_version": "1.0",
+  "book_id": "P16",
+  "reviewer": "practical_books 独立语义复核代理",
+  "reviewed_at_utc": "2026-10-12T10:25:31.993516+00:00",
+  "review_completed": true,
+  "scope_zh": "本次逐章读完八章完整PG英语源段及八章中文稿，并对照全32条专家规则与综合附录；没有重读原书扫描每页，也未独立查阅1875委员会的完整另刊报告。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_file": "source/ch01-source.txt",
+      "source_sha256": "d063abe1df7be9f560ef29854548b16a6d0d1acc02dceb6f1225a97b7c817475",
+      "dossier_file": "ch01.md",
+      "dossier_sha256": "849b8326bd2eb86cdb32b9ba33e590ee46304b19cf70eeb3152c2666a4d1b309",
+      "body_han_count": 3254,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 2,
+      "source_file": "source/ch02-source.txt",
+      "source_sha256": "50d5ed0b1fa570e3d2b8d8a220079cf17cf3b40e2a0cc20f75d0516578e72359",
+      "dossier_file": "ch02.md",
+      "dossier_sha256": "45cf8a2b22e531be3e92efc52444e6e4869a561d97245146fb5c6234b6d453c4",
+      "body_han_count": 2852,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 3,
+      "source_file": "source/ch03-source.txt",
+      "source_sha256": "ce1983ed99098714100fb79d35e2cf541b3b33e839c175d6664c684ec02e9f3e",
+      "dossier_file": "ch03.md",
+      "dossier_sha256": "fa1db60f1f0539cecd1f0776063f6db2cb7f320e48a398c56341f42dc4ccd14f",
+      "body_han_count": 3074,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 4,
+      "source_file": "source/ch04-source.txt",
+      "source_sha256": "fe35c2501e841eb12fb6cc8ee8b27fbfb887f03eccf831be6a0c37534c1aca04",
+      "dossier_file": "ch04.md",
+      "dossier_sha256": "d514a47a3743270040ffa61f64d3ca1f2a628256cbc913a486c4b83c0265a811",
+      "body_han_count": 3003,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 5,
+      "source_file": "source/ch05-source.txt",
+      "source_sha256": "fd681aa750fc1cf3005608cc9d320426983fb7fd910b5454f84898ab96798fa1",
+      "dossier_file": "ch05.md",
+      "dossier_sha256": "4c5c8b116d8ab5e4423814eeb18a543dad5f89f0d1d0a5f5da6252f0202dfea1",
+      "body_han_count": 2916,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 6,
+      "source_file": "source/ch06-source.txt",
+      "source_sha256": "87fc04dbc26d1076bc0a0e485deba04dc9c31a88a3d2afdd2fe6afebe2a1de09",
+      "dossier_file": "ch06.md",
+      "dossier_sha256": "b449e62183953b7e47dd0a1a4fafab18c2133561c59a1cbeb66cfa7ad4909806",
+      "body_han_count": 3019,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 7,
+      "source_file": "source/ch07-source.txt",
+      "source_sha256": "0ced7ca8c136635a967c127f7a5209913226aff0623d3a1aaa49b0f90a4eb480",
+      "dossier_file": "ch07.md",
+      "dossier_sha256": "6a457264776b2ba9fded7efbc446f6140548e37edfcb8309825b74379c039d0a",
+      "body_han_count": 2717,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 8,
+      "source_file": "source/ch08-source.txt",
+      "source_sha256": "10f6e3853411c26625373edb290f675ef050965d1ead5a62c0057874f38be507",
+      "dossier_file": "ch08.md",
+      "dossier_sha256": "e60965dcb9990a6b2ae85388a11710c22323d8e0aec892ba1f8902bd360cf7b8",
+      "body_han_count": 2762,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    }
+  ],
+  "body_han_total": 23597,
+  "all_chapters_at_least_2000_han": true,
+  "source_HTML_sha256": "f970baa80d49c32e61af57231f957fea56d585b61cb1cc1de9e9eac08fb5ba24",
+  "source_text_sha256": "32efd773603a4c9d95fef3d4767adb51699e327185f0de2553ed9be6b13074d8",
+  "expert_definition_sha256": "5eb4ea98168238dd1a7bcb5f293911d7acef43390d81538cbd1d7362d8f7f661",
+  "whole_book_semantics_status": "eight_chapters_passed",
+  "overall_status": "passed_after_corrections_with_source_limits",
+  "findings": [
+    {
+      "id": "QA-P16-01",
+      "severity": "P2",
+      "location": "P16-R10 author_meaning",
+      "problem_zh": "原文解释银行分部以及两侧承兑对应，初稿把等额不保证客户偿付这个独立风险推论也写成作者原意。",
+      "required_correction_zh": "author_meaning保留原报表解释；偿付与流动性条件转入独立分析或现代边界。",
+      "status": "corrected_and_independently_rechecked"
+    },
+    {
+      "id": "QA-P16-02",
+      "severity": "P2",
+      "location": "P16-R25 author_meaning",
+      "problem_zh": "纸126列示买卖价与173570无法直接复算、总计一致不能解分项，是本次编者复算发现，不是作者自己提出的疑点。",
+      "required_correction_zh": "author_meaning写原文报告的173570、955398以及巴黎三分之五资金范围缺失，独立numeric_review保存126050差异，不删掉源文疑点也不误归作者。",
+      "status": "corrected_and_independently_rechecked"
+    },
+    {
+      "id": "QA-P16-03",
+      "severity": "P3",
+      "location": "P16-R24 title",
+      "problem_zh": "实际资金高于名义建设容易被理解为大小关系，源文核心是名义额、净款和实际建设支出的区别。",
+      "required_correction_zh": "建议改为名义额、净款与建设支出分开。",
+      "status": "corrected_and_independently_rechecked"
+    },
+    {
+      "id": "QA-P16-04",
+      "severity": "P3",
+      "location": "source/paragraphs.json III-p018 and VI-p041",
+      "problem_zh": "HTML在段首<p>内即有Page_59/Page_142，ledger沿用前一段末页58/141作为起页。宽页区间涵盖实际正文但段首定位不精确。",
+      "independently_observed_evidence": [
+        {
+          "id": "III-p018",
+          "actual_start": 59,
+          "declared_start": 58,
+          "HTML_line": 1557
+        },
+        {
+          "id": "VI-p041",
+          "actual_start": 142,
+          "declared_start": 141,
+          "HTML_line": 3158
+        }
+      ],
+      "required_correction_zh": "两个段首改59和142，并同步受影响的规则页联合。front负数仅抽取器前置页内部标记，不是印刷负页。",
+      "status": "corrected_and_independently_rechecked"
+    },
+    {
+      "id": "QA-P16-05",
+      "severity": "P2",
+      "location": "P16-R25 author_meaning final field revision",
+      "problem_zh": "字段修订时一度出现三分之五，源文与章稿本为五分之三。",
+      "required_correction_zh": "保留正确分子分母五分之三，即3/5。",
+      "status": "corrected_and_independently_rechecked",
+      "correct_phrase_verified": true
+    }
+  ],
+  "confirmed_numeric_and_scope_boundaries": [
+    {
+      "label": "N01",
+      "pages": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "finding_zh": "Promises保留待原刊核，未擅改Premises。Bank of England发行部56908235、银行部73817813以及股份银行104000000两端算术可核；认缴14000000与实缴3500000未相加虚增资产。账表相等不替代流动性。"
+    },
+    {
+      "label": "N02",
+      "pages": [
+        125,
+        126
+      ],
+      "finding_zh": "5042张可见债券价75至50的差额126050，33000张104法郎至104法郎可见差额零，无法直接推出所报173570。六项合计955398可复算，却未解释分项。省略材料未取得，维持未解不补猜。"
+    },
+    {
+      "label": "N03",
+      "pages": [
+        124,
+        125,
+        126
+      ],
+      "finding_zh": "2051511净款统计是1869贷款五分之二份额与1870全额的范围；巴黎五分之三账目缺失，不当作所有巴黎伦敦资金总额。"
+    },
+    {
+      "label": "hypothetical_loan_and_equity",
+      "pages": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        59
+      ],
+      "finding_zh": "假想Ruritania贷款3000000、利率4.5%、每年165000付息偿债，首年135000利息和30000本金；第二年数字标独立算术。Brewery三百万结构的45000债息、60000优先累计股息依赖盈利与权利条件，未变成现代法律承诺。"
+    }
+  ],
+  "chapter_meaning_checks": [
+    "资本报酬论证仍保留继承、地价和不正当取得的内部限制；资本资源与货币信用不同。",
+    "银行中介、汇票和信用创造保留兑付条件，不把历史表当现代公司财报。",
+    "债务、优先、普通权利区分与偿债基金承诺仍受发行者履约限制。",
+    "跨境商品交易与资本债权转移的关系未简化为每笔贷款都立即运送等额黄金。",
+    "和平利益与金融政治影响薄弱、使用武力的张力保留；殖民立场未包装为中立已核历史。",
+    "洪都拉斯案例、发行库存和消费者责任保留；反犹时代段落批判性呈现，不按身份推断信用。",
+    "专业化的相互依赖亦受战争、运输与关键供应约束，盟友不能视为无风险。",
+    "监管审批与信息公开不保证偿付；海外融资与境内战争支付区别不等于战争没有资源代价。"
+  ],
+  "edition_and_time_boundary": {
+    "first_edition": "1916年5月",
+    "transcribed_reprint": "1918年6月",
+    "preface": "1916年3月",
+    "chapter_VIII_currently_footnote": "1915年12月31日写作语境",
+    "all_scan_glyphs_proofread": false,
+    "all_outside_historical_claims_verified": false
+  },
+  "rule_anchor_checks": {
+    "rule_count": 32,
+    "all_referenced_paragraph_ids_exist": true,
+    "page_detail_file": "P16-page-anchor-QA.json",
+    "two_start_page_precision_issues_pending": false,
+    "all_page_unions_match_current_ledger": true,
+    "all_referenced_numbered_paragraph_starts_match_independent_HTML_check": true,
+    "front_negative_numbers_are_unnumbered_internal_markers_not_paper_pages": true
+  },
+  "modern_prediction_boundary": {
+    "current_stock_direction_enabled": false,
+    "predictive_probability_calibrated": false,
+    "modern_threshold_as_author_rule_found": false,
+    "author_personality_or_independent_model_claimed": false,
+    "no_claim_40_books_complete": true
+  },
+  "paragraph_ledger_sha256": "afbf7f1d3ecf47da5cff00e9147a71ec02dd836e60598804864ee637e3661845",
+  "final_rechecked_at_utc": "2026-10-12T11:00:06.670425+00:00",
+  "no_open_required_fixes": true
+}

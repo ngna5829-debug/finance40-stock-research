@@ -1,0 +1,107 @@
+{
+  "book_id": "P15",
+  "all_displayed_table_rows_actually_read": true,
+  "all_history_verified": false,
+  "source_values_unchanged": true,
+  "current_investment_experiment": false,
+  "farmimplement_displacement": {
+    "old_people": 2145,
+    "new_people": 600,
+    "source_claim": 1515,
+    "independent_subtraction": 1545,
+    "source_claim_minus_difference": -30
+  },
+  "alltextile1850_1878_table_independent_growth": [
+    {
+      "field": "spindles",
+      "old": 20977817,
+      "new": 44206690,
+      "independent_growth_pct": 110.73064942839382
+    },
+    {
+      "field": "looms",
+      "old": 249627,
+      "new": 514911,
+      "independent_growth_pct": 106.27215805982524
+    },
+    {
+      "field": "operatives",
+      "old": 330924,
+      "new": 482903,
+      "independent_growth_pct": 45.925650602555265
+    }
+  ],
+  "explicit_scope_difference": "Do not equatealltextile/subsidiarytable toEllisonseparate spinning189pctorweaving360pct/63/253pct. Denominators differ, rawvaluesnotfixed toforceagreement.",
+  "steam_sailing_independent_sum_checks": [
+    {
+      "year": 1850,
+      "source_sailing_tonnage": 3396359,
+      "source_steam_tonnage": 168474,
+      "sum_tonnage": 3564833,
+      "source_sailing_men": 142730,
+      "source_steam_men": 8700,
+      "sum_men": 151430
+    },
+    {
+      "year": 1860,
+      "source_sailing_tonnage": 4204360,
+      "source_steam_tonnage": 454327,
+      "sum_tonnage": 4658687,
+      "source_sailing_men": 145487,
+      "source_steam_men": 26105,
+      "sum_men": 171592
+    },
+    {
+      "year": 1870,
+      "source_sailing_tonnage": 4577855,
+      "source_steam_tonnage": 1112934,
+      "sum_tonnage": 5690789,
+      "source_sailing_men": 147207,
+      "source_steam_men": 48755,
+      "sum_men": 195962
+    },
+    {
+      "year": 1880,
+      "source_sailing_tonnage": 3851045,
+      "source_steam_tonnage": 2723488,
+      "sum_tonnage": 6574533,
+      "source_sailing_men": 108668,
+      "source_steam_men": 84304,
+      "sum_men": 192972
+    },
+    {
+      "year": 1890,
+      "source_sailing_tonnage": 2907405,
+      "source_steam_tonnage": 5037666,
+      "sum_tonnage": 7945071,
+      "source_sailing_men": 84008,
+      "source_steam_men": 129366,
+      "sum_men": 213374
+    }
+  ],
+  "France1886_commercial_excluding_2_8_transport_pct": 8.7,
+  "UKiron1881_1891_peoplegrowth_pct": 5.216650108069065,
+  "source_iron_growth_pct": 5.3,
+  "railways_1861_1891": {
+    "mile_growth_pct": 85.83525080533825,
+    "paid_upcapital_growth_pct": 153.75538210147423,
+    "operatives_growth_pct": 249.62546816479403
+  },
+  "chart_vs_text_manufacturing1881_pct": {
+    "whole_actual_imagep230": 30.4,
+    "text_table8688": 30.7,
+    "unresolved_originalprinting_vs_transcription": true
+  },
+  "unemployment1886_1893_pct": [
+    10.1,
+    8.6,
+    4.4,
+    1.8,
+    2.6,
+    4.45,
+    7.33,
+    7.9
+  ],
+  "unemployment_1893_societies_26_vs_prior22_not_direct_samepanel": true,
+  "income_total_minus_unemployment_mean_not_welfarecalibration": "Hours, spelllength,workercomposition missing; no population unemployment conversion orprobability."
+}

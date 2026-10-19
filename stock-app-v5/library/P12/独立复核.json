@@ -1,0 +1,315 @@
+{
+  "book_id": "P12",
+  "qualified_pass": true,
+  "status": "passed_with_source_limits_final_status_hash_confirmation_recorded_separately",
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "peer_QA_file": "source-review/independent-peer-QA/P12-independent-QA.json",
+  "peer_QA_sha256": "6d3b61274aa273356fb4bda954f90c8911f69b7e5bab98599cbb0baea78ddf10",
+  "peer_actual_full_review_scope": {
+    "all7_whole_original_chapters": true,
+    "all7_whole_Chinese_dossiers": true,
+    "all168_original_numbered_notes_plus122_ABC": true,
+    "all41_rules_every_semantic_field": true,
+    "all97_old_exact_raw_evidence_in_complete_actual_sources": true,
+    "all9_new_complete_contexts": true,
+    "whole_front_preface_contents_and_end_marker": true,
+    "whole_complete_PG_license": true,
+    "whole_synthesis_reader_explainer_expert_prompt_and_all_metadata": true,
+    "all18_HTML_table_forms_every_cell": true,
+    "all12_numerical_HTML_tables_and6_nondata_forms_identified": true,
+    "all17_monthly_trade_rows_independently_subtracted": true,
+    "full_source_entire_HTML_tag_lines_read": false,
+    "original_printed_scan_obtained": false,
+    "all_original_scan_glyphs_proofread": false,
+    "not_just_hash_or_word_count_review": true
+  },
+  "root_actual_review_scope": {
+    "book_id": "P12",
+    "reviewer": "root",
+    "role": "focused candidate/dossier/original context and table review; practical_books is independent whole-book semantic reviewer",
+    "completed_utc": "2026-10-13T15:48:54.395127+00:00",
+    "entire_changed_Chinese_dossiers_actually_read": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "entire_candidate_explainer_and_synthesis_actually_read": true,
+    "all28_changed_rule_diffs_63semanticfields_actually_read": true,
+    "all9_new_complete_original_context_groups_actually_read": [
+      "P12-QA-A001",
+      "P12-QA-A002",
+      "P12-QA-A003",
+      "P12-QA-A004",
+      "P12-QA-A005",
+      "P12-QA-A006",
+      "P12-QA-A007",
+      "P12-QA-A008",
+      "P12-QA-A009"
+    ],
+    "additional_original_P12_line_ranges_actually_read": [
+      [
+        356,
+        504
+      ],
+      [
+        2273,
+        2284
+      ],
+      [
+        2518,
+        2523
+      ],
+      [
+        3870,
+        3897
+      ],
+      [
+        5567,
+        5572
+      ],
+      [
+        6301,
+        6311
+      ],
+      [
+        7250,
+        7260
+      ]
+    ],
+    "P11_external_reference_actual_original_lines_read": [
+      1841,
+      2014
+    ],
+    "P11_not_extra_independent_vote_or_full_P11_reread": true,
+    "complete_structured_HTML_table_cell_transcriptions_actually_read": [
+      5,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      18
+    ],
+    "table_transcription_scope": "Peer full-cell extraction from immutable official HTML; root does not claim a third read of all HTML tags or original scan.",
+    "all17_monthly_trade_rows_independently_subtracted": true,
+    "monthly_trade_recalculations": [
+      {
+        "HTML_table": 13,
+        "period": "1913",
+        "source_imports_thousandUSD": 140355,
+        "source_exports_thousandUSD": 114670,
+        "source_reported_gap_thousandUSD": 25685,
+        "independent_difference_thousandUSD": 25685,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 13,
+        "period": "1914",
+        "source_imports_thousandUSD": 106705,
+        "source_exports_thousandUSD": 81145,
+        "source_reported_gap_thousandUSD": 25560,
+        "independent_difference_thousandUSD": 25560,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 13,
+        "period": "1918",
+        "source_imports_thousandUSD": 331915,
+        "source_exports_thousandUSD": 69055,
+        "source_reported_gap_thousandUSD": 262860,
+        "independent_difference_thousandUSD": 262860,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 13,
+        "period": "Jan.-Mar. 1919",
+        "source_imports_thousandUSD": 387140,
+        "source_exports_thousandUSD": 66670,
+        "source_reported_gap_thousandUSD": 320470,
+        "independent_difference_thousandUSD": 320470,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 13,
+        "period": "Apr.-June 1919",
+        "source_imports_thousandUSD": 421410,
+        "source_exports_thousandUSD": 83895,
+        "source_reported_gap_thousandUSD": 337515,
+        "independent_difference_thousandUSD": 337515,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 13,
+        "period": "July 1919",
+        "source_imports_thousandUSD": 467565,
+        "source_exports_thousandUSD": 123675,
+        "source_reported_gap_thousandUSD": 343890,
+        "independent_difference_thousandUSD": 343890,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 14,
+        "period": "1913",
+        "source_imports_thousandUSD": 60760,
+        "source_exports_thousandUSD": 41860,
+        "source_reported_gap_thousandUSD": 18900,
+        "independent_difference_thousandUSD": 18900,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 14,
+        "period": "1914",
+        "source_imports_thousandUSD": 48720,
+        "source_exports_thousandUSD": 36840,
+        "source_reported_gap_thousandUSD": 11880,
+        "independent_difference_thousandUSD": 11880,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 14,
+        "period": "1918",
+        "source_imports_thousandUSD": 235025,
+        "source_exports_thousandUSD": 41390,
+        "source_reported_gap_thousandUSD": 193635,
+        "independent_difference_thousandUSD": 193635,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 14,
+        "period": "Jan.-Mar. 1919",
+        "source_imports_thousandUSD": 229240,
+        "source_exports_thousandUSD": 38685,
+        "source_reported_gap_thousandUSD": 191155,
+        "independent_difference_thousandUSD": 190555,
+        "source_minus_independent_thousandUSD": 600
+      },
+      {
+        "HTML_table": 14,
+        "period": "Apr.-June 1919",
+        "source_imports_thousandUSD": 331035,
+        "source_exports_thousandUSD": 69250,
+        "source_reported_gap_thousandUSD": 261785,
+        "independent_difference_thousandUSD": 261785,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 14,
+        "period": "July-Aug. 1919",
+        "source_imports_thousandUSD": 223535,
+        "source_exports_thousandUSD": 84515,
+        "source_reported_gap_thousandUSD": 139020,
+        "independent_difference_thousandUSD": 139020,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 18,
+        "period": "1913",
+        "source_imports_thousandUSD": 274650,
+        "source_exports_thousandUSD": 218850,
+        "source_reported_gap_thousandUSD": 55800,
+        "independent_difference_thousandUSD": 55800,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 18,
+        "period": "1914",
+        "source_imports_thousandUSD": 250485,
+        "source_exports_thousandUSD": 179465,
+        "source_reported_gap_thousandUSD": 71020,
+        "independent_difference_thousandUSD": 71020,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 18,
+        "period": "Jan.-Mar. 1919",
+        "source_imports_thousandUSD": 547890,
+        "source_exports_thousandUSD": 245610,
+        "source_reported_gap_thousandUSD": 302280,
+        "independent_difference_thousandUSD": 302280,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 18,
+        "period": "April-June 1919",
+        "source_imports_thousandUSD": 557015,
+        "source_exports_thousandUSD": 312315,
+        "source_reported_gap_thousandUSD": 244700,
+        "independent_difference_thousandUSD": 244700,
+        "source_minus_independent_thousandUSD": 0
+      },
+      {
+        "HTML_table": 18,
+        "period": "July-Sept. 1919",
+        "source_imports_thousandUSD": 679635,
+        "source_exports_thousandUSD": 344315,
+        "source_reported_gap_thousandUSD": 335320,
+        "independent_difference_thousandUSD": 335320,
+        "source_minus_independent_thousandUSD": 0
+      }
+    ],
+    "entire_independent_QA_findings_scope_metadata_and_once_only_merge_script_reviewed": true,
+    "whole7source_third_read_claimed": false,
+    "all97oldcontexts_third_semantic_read_claimed": false,
+    "all168notes_third_semantic_read_claimed": false,
+    "entire_original_HTML_tag_lines_third_read_claimed": false,
+    "original_scan_obtained": false,
+    "every_original_glyph_proofread": false,
+    "source_limits": "Keep TXT/HTML differing values, Italy1919Q1 reported191155 versus independent190555, historical assumptions/strong author claims versus modern boundaries; no numeric/source repair or currentstock probability."
+  },
+  "body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "body_han_total": 29429,
+  "minimum_chapter_han": 2769,
+  "changed_original_chapters": [
+    4,
+    5,
+    6,
+    7
+  ],
+  "declared_semantic_field_changes": 63,
+  "old97_evidence_preserved": true,
+  "new_complete_original_context_groups": 9,
+  "precise_source_context_count": 106,
+  "all41rules_continuous_original_chapter_links": true,
+  "source_integrity": {
+    "source/ch06-progress-notes.json": "9a55217ff086193d1f8ab8b5b3427abf94a6fc312a2803a9ed0dba911fcecb0e",
+    "source/ch06-source-limits.json": "b57a3799e593ff7974ee71665d58be956d08bbcb6585b9690483b12efcb498cb",
+    "source/ch07-progress-notes.json": "a3d7841d1610055ab0985a2c3d40fe5b307b04fed969a3854bc8265e12f20267",
+    "source/ch04-progress-notes.json": "465d50360bb6326176dc917dc5cbe03c24ca01a32e7b211cbafb3a4ccddfaa1d",
+    "source/original.txt": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+    "source/ch05-progress-notes.json": "bd83967179c0970ed577969a37626daa8cb7dbc7decdb7c6dbcd7b2764fc8a5e",
+    "source/ch05-visible-arithmetic.json": "670393f3a3e60994d925fdfba895daab21f7986a63d0a26f49d122fed5d9444b",
+    "source/ch05-source-limits.json": "a459d6da4ca939ae2be1350e6a91c8282b02b9527c7d9a568aeab0205daec020",
+    "source/ch04-original.txt": "c498fbeb88c38b470ccbe9f037291f473b7c734e82da06938943613472697cd6",
+    "source/ch03-original.txt": "c20c77e9630a113ed13fc65c9ab80eac867c6c960360e5a94ca8c62d9c06e9a6",
+    "source/ch03-source-limits.json": "53d1171f9eae5270d6feae545a2768c16b5468d8b30d1a968e1ce317be154d02",
+    "source/ch02-original.txt": "8cd0e8d939694a2e94fdda46cbe74bc92355caf5aea054867a00f424899051d3",
+    "source/ch05-original.txt": "58c19c625a2e35847bf487f109fc3a9fdbf6203b27c842d514c0d7587774cbb5",
+    "source/ch07-original.txt": "28f857879d62f4b70b9fd9b1c3d1352a4b9df7a89024e95b215eb43c93d4d136",
+    "source/ch01-original.txt": "265e9eb536aceb9119ca11c5528f53f09202bba5e42974f5101ac62509ab479b",
+    "source/ch06-original.txt": "bfc66fab43df6c4d62dd2f77c26c3a039a9d2271b137a0a40f687b697b137e03",
+    "source/ch02-source-limits.json": "3158061d0f80c47b508bdeef69cca8b8e8d25a96977a74b0935366570239d9d4",
+    "source/ch04-source-limits.json": "5374c75a4a69bf447e09d5624c052255bbfa892bd2ac317aec8a9bea33c5dc15",
+    "source/ch07-source-limits.json": "963df6658699fc94f8bdc96b18b5045975bf7714162fc1ca089cc3d9a4624a18",
+    "source/original.html": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707"
+  },
+  "expert_SHA256": "84d849d30d874d351367ad6acebed25c34bbd720cc37d6dd32d904a8a862cd94",
+  "audit_SHA256": "6c9532c4f923655841b538461f2734afb4c3b4e527c3337f7e7945eaa7c85560",
+  "original_all_scan_glyphs_proofread": false,
+  "current_model_calls": 0,
+  "backtests_executed": 0,
+  "probability_calibration": false,
+  "updated_utc": "2026-10-13T15:55:52.603553+00:00",
+  "content_confirmation": "source-review/independent-peer-QA/P12-merged-content-confirmation.json",
+  "final_status_hash_confirmation": "recorded_separately_after_peer_metadata_only_confirmation"
+}

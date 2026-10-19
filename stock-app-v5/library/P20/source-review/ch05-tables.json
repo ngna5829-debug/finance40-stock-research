@@ -1,0 +1,256 @@
+{
+  "book_id": "P20",
+  "chapter": 5,
+  "all_main_and_recap_and_joint_authorities_read": true,
+  "actual_visual_pages": [
+    70,
+    73,
+    74,
+    76,
+    77
+  ],
+  "original_printed_pages": [
+    50,
+    53,
+    54,
+    56,
+    57
+  ],
+  "main_OCR_has_major_omissions": [
+    70,
+    74
+  ],
+  "supplement_file": "../source/ch05-visual-supplement.txt",
+  "table50": {
+    "rows": [
+      [
+        "1801-1810",
+        11815000,
+        118152000
+      ],
+      [
+        "1811-1820",
+        7606000,
+        76063000
+      ],
+      [
+        "1821-1830",
+        9448000,
+        94479000
+      ],
+      [
+        "1831-1840",
+        13484000,
+        134841000
+      ],
+      [
+        "1841-1850",
+        36393000,
+        363928000
+      ]
+    ],
+    "raw_annual_half_century": 15749200,
+    "raw_total": 787463000
+  },
+  "table53": {
+    "rows": [
+      [
+        "1851-1855",
+        132513000,
+        662566000
+      ],
+      [
+        "1856-1860",
+        134083000,
+        670415000
+      ],
+      [
+        "1861-1865",
+        122989000,
+        614944000
+      ],
+      [
+        "1866-1870",
+        129614000,
+        648071000
+      ],
+      [
+        "1871-1875",
+        115577000,
+        577883000
+      ],
+      [
+        "1876-1880",
+        114586000,
+        572391000
+      ],
+      [
+        "1881-1885",
+        99116000,
+        495582000
+      ],
+      [
+        "1886-1890",
+        112895000,
+        564474000
+      ],
+      [
+        "1891-1895",
+        162947000,
+        814736000
+      ]
+    ],
+    "raw_45yr_annual": 124892000,
+    "raw_45yr_total": 5621602000,
+    "single_years": [
+      [
+        1896,
+        202251600
+      ],
+      [
+        1897,
+        238812000
+      ],
+      [
+        1898,
+        287428600
+      ],
+      [
+        1899,
+        306584900
+      ],
+      [
+        1900,
+        258000000
+      ]
+    ],
+    "1900_status": "estimated",
+    "raw_second_half_total": 6914679100,
+    "raw_century_total": 7702142100
+  },
+  "table54_world": {
+    "rows": [
+      [
+        "Australia",
+        88865000
+      ],
+      [
+        "United States",
+        74425000
+      ],
+      [
+        "Africa",
+        67576000
+      ],
+      [
+        "Russia",
+        23339000
+      ],
+      [
+        "Canada",
+        19501000
+      ],
+      [
+        "India",
+        12356000
+      ],
+      [
+        "Mexico",
+        10335000
+      ],
+      [
+        "All others",
+        32143000
+      ]
+    ],
+    "raw_total": 328540000
+  },
+  "table54_US": {
+    "rows": [
+      [
+        "Colorado",
+        22000000
+      ],
+      [
+        "California",
+        16535525
+      ],
+      [
+        "Alaska",
+        6921157
+      ],
+      [
+        "South Dakota",
+        6889302
+      ],
+      [
+        "Utah",
+        5064599
+      ],
+      [
+        "Arizona",
+        4784000
+      ],
+      [
+        "Montana",
+        4134367
+      ],
+      [
+        "Nevada",
+        3576227
+      ],
+      [
+        "Idaho",
+        2067183
+      ],
+      [
+        "Oregon",
+        1364341
+      ],
+      [
+        "All others",
+        1088639
+      ]
+    ],
+    "raw_total": 74425340
+  },
+  "table57_in_sight": {
+    "Treasury_coin": 435917495,
+    "Treasury_bullion": 124083823,
+    "Treasury_subtotal": 560001318,
+    "national_banks": 190301383,
+    "state_private_banks": 55059655,
+    "raw_in_sight_total": 805362356,
+    "missing_state_private_bank_reports": 1600,
+    "assumed_1902_total": 1192395607,
+    "assumed_1903_total": 1249552756
+  },
+  "independent_arithmetic": {
+    "table50_period_sum": 787463000,
+    "table53_period_row_sum": 5621062000,
+    "printed_45yr_minus_rows": 540000,
+    "1876annual_times5_minus_period": 539000,
+    "single_years_sum": 1293077100,
+    "printed_45yr_plus_single": 6914679100,
+    "table54_world_sum": 328540000,
+    "table54_US_sum": 74425340,
+    "last_to_first_decade_ratio": 1.5812776776263127,
+    "sight_components_sum": 805362356
+  },
+  "internal_prose_difference": {
+    "paper56_original_image_claim": "1891-1900 production more than twice1851-1860",
+    "book_table_ratio": 1.5812776776263127,
+    "action": "retain original claim and independent arithmetic separately; no silent rewrite"
+  },
+  "estimated_underreporting_10percent": "author speculation, not a known uniform uplift applied to rawdata",
+  "external_mint_reports_full_independently_read": false,
+  "all_scan_glyphs_verified": false,
+  "raw_OCR_preserved": true,
+  "image_sha256": {
+    "70": "007cc59e6ee56476fd265dfb8298669e0877395f4c37b0fd53b2b42d5d0ca1db",
+    "73": "8416f7f65da37518babc3c9049cc0e1a991d155c351f856667acc6568c73076a",
+    "74": "9f5eb738f09f5230431e7b8da324d33fd1029065f42ac5d97971b78a9a5cbf9e",
+    "76": "c27a2c154109fb01f2fba9635413453e002af4d0d2aca5ec67b219bdb36f18ed",
+    "77": "8736c10c969e52680c87c7d8862c667733f4130072f5d34d7e5c5c7190ec1330"
+  }
+}

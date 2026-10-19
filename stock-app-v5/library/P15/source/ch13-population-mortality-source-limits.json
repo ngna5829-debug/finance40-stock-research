@@ -1,0 +1,157 @@
+{
+  "book_id": "P15",
+  "chapter": 13,
+  "original_scan_obtained": false,
+  "historical_numbers_independently_verified": false,
+  "source_values_unchanged": true,
+  "mortality_all_printed_ratios_recomputed": [
+    {
+      "year": "1851-60",
+      "town_rate": 24.7,
+      "country_rate": 19.9,
+      "printed_ratio": 124,
+      "computed_ratio": 124.12060301507539,
+      "gap": 0.12060301507538895
+    },
+    {
+      "year": "1861-70",
+      "town_rate": 24.8,
+      "country_rate": 19.7,
+      "printed_ratio": 126,
+      "computed_ratio": 125.88832487309645,
+      "gap": -0.11167512690354897
+    },
+    {
+      "year": "1871-80",
+      "town_rate": 23.1,
+      "country_rate": 19,
+      "printed_ratio": 122,
+      "computed_ratio": 121.57894736842105,
+      "gap": -0.4210526315789451
+    },
+    {
+      "year": "1881",
+      "town_rate": 20.1,
+      "country_rate": 16.9,
+      "printed_ratio": 119,
+      "computed_ratio": 118.93491124260356,
+      "gap": -0.06508875739643827
+    },
+    {
+      "year": "1882",
+      "town_rate": 20.9,
+      "country_rate": 17.3,
+      "printed_ratio": 121,
+      "computed_ratio": 120.80924855491328,
+      "gap": -0.19075144508671826
+    },
+    {
+      "year": "1883",
+      "town_rate": 20.5,
+      "country_rate": 17.9,
+      "printed_ratio": 115,
+      "computed_ratio": 114.52513966480448,
+      "gap": -0.4748603351955154
+    },
+    {
+      "year": "1884",
+      "town_rate": 20.6,
+      "country_rate": 17.7,
+      "printed_ratio": 117,
+      "computed_ratio": 116.38418079096047,
+      "gap": -0.6158192090395289
+    },
+    {
+      "year": "1885",
+      "town_rate": 19.7,
+      "country_rate": 17.8,
+      "printed_ratio": 111,
+      "computed_ratio": 110.67415730337078,
+      "gap": -0.3258426966292234
+    },
+    {
+      "year": "1886",
+      "town_rate": 20,
+      "country_rate": 18,
+      "printed_ratio": 111,
+      "computed_ratio": 111.11111111111111,
+      "gap": 0.11111111111111427
+    },
+    {
+      "year": "1887",
+      "town_rate": 19.7,
+      "country_rate": 17.2,
+      "printed_ratio": 115,
+      "computed_ratio": 114.53488372093024,
+      "gap": -0.46511627906976116
+    },
+    {
+      "year": "1888",
+      "town_rate": 20.9,
+      "country_rate": 17.4,
+      "printed_ratio": 114,
+      "computed_ratio": 120.11494252873563,
+      "gap": 6.114942528735625
+    },
+    {
+      "year": "1889",
+      "town_rate": 19.3,
+      "country_rate": 16.4,
+      "printed_ratio": 118,
+      "computed_ratio": 117.68292682926831,
+      "gap": -0.31707317073168895
+    },
+    {
+      "year": "1890",
+      "town_rate": 20.9,
+      "country_rate": 17.4,
+      "printed_ratio": 120,
+      "computed_ratio": 120.11494252873563,
+      "gap": 0.11494252873562516
+    }
+  ],
+  "1888_ratio_unsolved": true,
+  "France_under_one_year_original_question_marks_preserved": true,
+  "Germany_rural_printed_growth_percent": 3,
+  "Germany_rural_computed_growth_percent": 0.3775887715015802,
+  "German_threshold_categories_not_asserted_disjoint": true,
+  "Canada_city_rows_recomputed": [
+    {
+      "year": 1871,
+      "row_values": [
+        12407,
+        15826,
+        21545,
+        26717,
+        56092
+      ],
+      "sum": 132587,
+      "printed_sum": 132586
+    },
+    {
+      "year": 1881,
+      "row_values": [
+        14091,
+        26266,
+        31307,
+        35961,
+        96196
+      ],
+      "sum": 203821,
+      "printed_sum": 203821
+    },
+    {
+      "year": 1891,
+      "row_values": [
+        19264,
+        31977,
+        44154,
+        48980,
+        181220
+      ],
+      "sum": 325595,
+      "printed_sum": 325595
+    }
+  ],
+  "medical_and_moral_boundaries": "原死亡/被控犯罪/退化论不能当现代诊断或因果识别；统一世界城市化和城乡健康因果资料不足。"
+}

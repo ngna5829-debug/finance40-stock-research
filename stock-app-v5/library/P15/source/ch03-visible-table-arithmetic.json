@@ -1,0 +1,137 @@
+{
+  "book_id": "P15",
+  "original_table_lines_start": 2879,
+  "original_values_unchanged": true,
+  "historical_verified": false,
+  "not_investment_experiment": true,
+  "rows": [
+    {
+      "year": 1740,
+      "furnaces": 59,
+      "mean_tons": 294,
+      "printed_total": 17350,
+      "furnaces_times_mean": 17346,
+      "furnaces_printed_difference": 4
+    },
+    {
+      "year": 1796,
+      "furnaces": 121,
+      "mean_tons": 1048,
+      "printed_total": 125079,
+      "furnaces_times_mean": 126808,
+      "furnaces_printed_difference": -1729
+    },
+    {
+      "year": 1806,
+      "furnaces": 133,
+      "mean_tons": 1546,
+      "printed_total": 258206,
+      "furnaces_times_mean": 205618,
+      "furnaces_printed_difference": 52588
+    },
+    {
+      "year": 1825,
+      "furnaces_all": 364,
+      "furnaces_in_blast": 261,
+      "mean_tons": 2228,
+      "printed_total": 703184,
+      "furnaces_all_times_mean": 810992,
+      "furnaces_all_printed_difference": -107808,
+      "furnaces_in_blast_times_mean": 581508,
+      "furnaces_in_blast_printed_difference": 121676
+    },
+    {
+      "year": 1828,
+      "furnaces_all": 365,
+      "furnaces_in_blast": 277,
+      "mean_tons": 2530,
+      "printed_total": null,
+      "furnaces_all_times_mean": 923450,
+      "furnaces_all_printed_difference": null,
+      "furnaces_in_blast_times_mean": 700810,
+      "furnaces_in_blast_printed_difference": null
+    },
+    {
+      "year": 1839,
+      "furnaces": 378,
+      "mean_tons": 3592,
+      "printed_total": 1347790,
+      "furnaces_times_mean": 1357776,
+      "furnaces_printed_difference": -9986
+    }
+  ],
+  "other_limits": [
+    "1740表平均294与前文1750平均294年份不同",
+    "1788文字coke903与表909不同；coke/charcoal炉数分项未给",
+    "1771–75棉为期间，不能按某单年",
+    "丝段称1765–1844却可见表末1840；note77说明Selected",
+    "1846锭各国可见数合35467993，与原合相符；国别历史值如Russia7585000未独证，不能校准跨国设备数据。",
+    "纱价注88余数为Labour & Capital不是纯利润"
+  ],
+  "parallel_official_html_1806_same_total_observed": true,
+  "missing_data_action": "abstain",
+  "spindles_1846_visible_values": [
+    15554619,
+    1727871,
+    215503,
+    1500000,
+    3500000,
+    420000,
+    650000,
+    7585000,
+    3500000,
+    815000
+  ],
+  "spindles_visible_sum": 35467993,
+  "spindles_printed_sum": 35467993,
+  "yarn_note88_d_pence": [
+    {
+      "year": 1779,
+      "price": 192,
+      "cotton_cost": 24,
+      "printed_labour_and_capital": 168,
+      "computed_residual": 168,
+      "difference": 0
+    },
+    {
+      "year": 1784,
+      "price": 131,
+      "cotton_cost": 24,
+      "printed_labour_and_capital": 107,
+      "computed_residual": 107,
+      "difference": 0
+    },
+    {
+      "year": 1799,
+      "price": 90,
+      "cotton_cost": 40,
+      "printed_labour_and_capital": 50,
+      "computed_residual": 50,
+      "difference": 0
+    },
+    {
+      "year": 1812,
+      "price": 30,
+      "cotton_cost": 18,
+      "printed_labour_and_capital": 12,
+      "computed_residual": 12,
+      "difference": 0
+    },
+    {
+      "year": 1830,
+      "price": 14.5,
+      "cotton_cost": 7.75,
+      "printed_labour_and_capital": 6.75,
+      "computed_residual": 6.75,
+      "difference": 0.0
+    },
+    {
+      "year": 1882,
+      "price": 10.5,
+      "cotton_cost": 7.125,
+      "printed_labour_and_capital": 3.375,
+      "computed_residual": 3.375,
+      "difference": 0.0
+    }
+  ]
+}

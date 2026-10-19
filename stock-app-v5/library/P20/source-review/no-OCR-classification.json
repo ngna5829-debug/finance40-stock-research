@@ -1,0 +1,60 @@
+{
+  "book_id": "P20",
+  "low_OCR_threshold": "fewer than50nonblank extracted characters; detection does not prove blankness",
+  "low_OCR_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    8,
+    403,
+    458,
+    490,
+    497,
+    498,
+    499,
+    500
+  ],
+  "actual_classification_montage_viewed": true,
+  "classification": {
+    "1": "front binding",
+    "2": "blank",
+    "3": "blank with library marks",
+    "4": "blank",
+    "5": "blank",
+    "8": "copyright1895/1902 text present and read; not empty",
+    "403": "printed383 rotated national-bank aggregate table: all14 resource/15 liability items visually read, CSV and Decimal sums checked against original total",
+    "458": "printed438 blank after conclusion",
+    "490": "printed470 blank after bibliography",
+    "497": "blank",
+    "498": "blank",
+    "499": "library barcode",
+    "500": "back binding"
+  },
+  "content_pages_without_useful_OCR": [
+    403
+  ],
+  "all_original_content_without_OCR_read": true,
+  "pending_visual_content_read": [],
+  "source_images": [
+    "low-OCR-montage.png",
+    "Commons-pdf007.png",
+    "Commons-pdf020.png",
+    "Commons-pdf499.png",
+    "pdf006-coins.png"
+  ],
+  "front_coin_plate_pdf6_viewed": true,
+  "front_coin_plate_caption_reference_original": 22,
+  "front_coin_plate_every_worn_coin_glyph_transcribed": false,
+  "all_scan_glyphs_verified": false,
+  "partial_OCR_major_content_gaps": {
+    "70": "full table andCalifornia/Australia/Comstock narrative visually read; supplement saved",
+    "74": "both1903 tables and narrative full visually read; supplement saved",
+    "168": "fullTaussigchart+bottomparagraph+footnotevisuallyread;source/ch11-visual-supplement.txt",
+    "264": "all61proof-sheet rows4amount columns visually read; source-review/ch17 CSV",
+    "265": "continuation of264 all61table rows complete",
+    "430": "FullReichsbanktableandfootnotevisuallyread;source/ch29-visual-supplement.txt"
+  },
+  "content_page403_review": "source-review/ch28/table-visual-review.json"
+}

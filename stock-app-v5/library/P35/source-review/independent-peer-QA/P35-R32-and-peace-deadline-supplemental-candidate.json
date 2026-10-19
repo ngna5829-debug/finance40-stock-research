@@ -1,0 +1,133 @@
+{
+  "book_id": "P35",
+  "status": "root_precision_supplement_candidate_NOT_merged_NOT_qualified",
+  "frozen_files_sha256": {
+    "P35-independent-QA.json": "ddfcbb3e783d3ad0bcaae4ae2a8ea92b29a3d8d8a2cf5f65a74074957fc12f77",
+    "P35-required-findings.json": "6079f7b3f215267b1d46a07cc0cf08de996aee2c039afc48179bb9a902b43a00",
+    "P35-expert-candidate.json": "d492da3a5c4b2dc9e3e6c23e16a29873e843f5aea8dc2a55ed63973a4797dc19",
+    "P35-root-acceptance-checklist.json": "e1f4ccade3831d21d1951de76b48e5ea20a3e36782e72d78b194b884a77fa5d8"
+  },
+  "frozen_original_context_count": 520,
+  "after_supplement_context_count": 521,
+  "whole_original_continuous_context_links_unchanged": 65,
+  "semantic_rule_field_changes_still": 18,
+  "semantic_global_field_changes_still": 2,
+  "draft_body_Han_unchanged": 54723,
+  "minimum_chapter_Han_unchanged": 2082,
+  "root_requested_precision_revisions": [
+    {
+      "rule_id": "P35-R32",
+      "field": "author_meaning",
+      "frozen_new_value": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高且持续的利息及频繁变动可能损害贸易，但未给高、久或频繁的固定阈值。",
+      "accepted_new_value": "贷款需求增加、黄金未同步供应会限制贷放；作者明确否认百分之五利息必然有害、百分之二必然有利。他认为很高的利息会损害贸易，持续较久时尤其如此；频繁变动的利息较均匀或稍变更不利。原文没有高、久或频繁的固定阈值。",
+      "reason": "Very high interest is harmful; prolonged duration strengthens the concern rather than being a mandatory conjunction. Include the complete primary P017 paragraph for 5%/2% negation and fluctuation comparison."
+    },
+    {
+      "field": "callable_system_prompt_zh",
+      "frozen_new_value": "你是Wall1915这一部完整著作的知识审核视角，不是作者本人。先分货币/法币/账户债权/现金/社会信心，再核财富质量、权利、市场可售性、期限、地点、政府授权及已用资源。总存款不等可贷cash，纯存残数不等源已追踪，最优券票也可关市汇路冻；央行一般贷受合格票/价格/资源限制。升率吸金非必然，海外账金非已到伦敦。各类应急政策的角色、资格和日期须分别保留：第十七章客户cover未到的承兑垫款至战争结束后一年；第二十一章证券贷款者垫款以七月二十九日未清贷款为条件，至和平结束后一年或法院紧急权力法失效，两者先到，且期间不追加margin。50/60%建议、60%特垫款、JohnBull反证数不是现代阈值。作者拒创造credit又承认loan增余额，原民族道德/心理病/主权绝保强句分列为历史立场，不作人群评级或当前保证。未解数字不计算实验，未知资源法律角色即弃权。引用具体规则页段及后章修订，分原作者主张和现代独立分析，不编资金、回测、校准概率、真正调用或人格。所有系统市况/数据/资源硬门保留，不能下单。",
+      "accepted_new_value": "你是Wall1915这一部完整著作的知识审核视角，不是作者本人。先分货币/法币/账户债权/现金/社会信心，再核财富质量、权利、市场可售性、期限、地点、政府授权及已用资源。总存款不等可贷cash，纯存残数不等源已追踪，最优券票也可关市汇路冻；央行一般贷受合格票/价格/资源限制。升率吸金非必然，海外账金非已到伦敦。各类应急政策的角色、资格和日期须分别保留：第十七章客户cover未到的承兑垫款至战争结束后一年；第二十一章证券贷款者垫款以七月二十九日未清贷款为条件，至达成和平后一年或法院紧急权力法失效，两者先到，且期间不追加margin。50/60%建议、60%特垫款、JohnBull反证数不是现代阈值。作者拒创造credit又承认loan增余额，原民族道德/心理病/主权绝保强句分列为历史立场，不作人群评级或当前保证。未解数字不计算实验，未知资源法律角色即弃权。引用具体规则页段及后章修订，分原作者主张和现代独立分析，不编资金、回测、校准概率、真正调用或人格。所有系统市况/数据/资源硬门保留，不能下单。",
+      "reason": "Chapter XXI conclusion of peace means peace being concluded/reached, not the subsequent end of a peaceful period; earlier expiry of the Courts Emergency Powers Act and unknown actual date preserved."
+    }
+  ],
+  "target_rule_id": "P35-R32",
+  "supplemental_precise_source_context": {
+    "paragraph_id": "P35-C14-P017",
+    "source_unit": 14,
+    "source_file": "source/original.txt",
+    "unit_source_file": "source/chapters/ch14.txt",
+    "source_lines": [
+      3609,
+      3617
+    ],
+    "line_range_end_inclusive": true,
+    "unicode_character_start": 197602,
+    "unicode_character_end_exclusive": 198194,
+    "byte_start": 197987,
+    "byte_end_exclusive": 198579,
+    "raw_span_sha256": "bec19b098ab3a5386296cf4d2ec8f59b7571c42a9218837310008b66a58adbf6",
+    "full_source_file_sha256": "565cd66e9648f88bf99f05dfff4c08e130e4a040199c5bb04b207da5b4c35191",
+    "ledger_normalized_paragraph_sha256": "d049b15dc547df8af5d256a1a9e8352fda7af788337bbdae22b9d238f7040319",
+    "candidate_evidence_file": "work/book-experts-v5/root_team/peer-QA/P35-supplemental-evidence/P35-R32-P35-C14-P017.txt",
+    "unit_printed_scope_navigation": [
+      128,
+      138
+    ],
+    "OCR_matched_phrase_PDF_pages": [
+      158
+    ],
+    "OCR_match_page_scope": "Matched phrase only, not full paragraph boundaries/glyph collation; original visual resolutions stored separately.",
+    "entire_original_digital_paragraph_and_continuous_unit_actually_read": true,
+    "source_representation": "Untouched original PG digital transcription; observed printed variants separate, not silently repaired.",
+    "all_scan_glyphs_individually_verified": false,
+    "source_voice": "Wall1915 author discussion, reported observations, paraphrase or own hypothetical; external historical truth not automatically verified. Modern independent interpretations remain in separate fields.",
+    "root_supplemental_precision_evidence": true
+  },
+  "supplemental_source_support": {
+    "source_paragraph_id": "P35-C14-P017",
+    "source_paragraph_sha256": "d049b15dc547df8af5d256a1a9e8352fda7af788337bbdae22b9d238f7040319",
+    "source_voice": "Wall1915 author discussion, reported observations, paraphrase or own hypothetical; external historical truth not automatically verified. Modern independent interpretations remain in separate fields.",
+    "source_file": "source/original.txt",
+    "original_TXT_lines": [
+      3609,
+      3617
+    ],
+    "chapter_character_range": [
+      8644,
+      9226
+    ],
+    "precise_PDF_pages_from_exact_normalized_OCR_substring": [
+      158
+    ],
+    "precise_printed_pages": [
+      134
+    ],
+    "matched_substring": "It does not follow, then, that because at given moments capital may\nbe dearer than at other moments, a general ri",
+    "matched_substring_character_range": [
+      8644,
+      8757
+    ],
+    "evidence_scope": "Entire source paragraph supports meaning; precise substring locates its span only, not every clause/glyph visually proven.",
+    "original_unit_source_file": "source/chapters/ch14.txt",
+    "original_TXT_line_end_inclusive": true,
+    "phrase_navigation_only_not_complete_all_claim_evidence": true
+  },
+  "supplemental_phrase_navigation": {
+    "source_paragraph_id": "P35-C14-P017",
+    "source_paragraph_sha256": "d049b15dc547df8af5d256a1a9e8352fda7af788337bbdae22b9d238f7040319",
+    "source_voice": "Wall1915",
+    "source_file": "source/chapters/ch14.txt",
+    "original_TXT_lines": [
+      3609,
+      3617
+    ],
+    "chapter_character_range": [
+      8644,
+      9226
+    ],
+    "precise_PDF_pages_from_exact_normalized_OCR_substring": [
+      158
+    ],
+    "precise_printed_pages": [
+      134
+    ],
+    "matched_substring": "It does not follow, then, that because at given moments capital may\nbe dearer than at other moments, a general ri",
+    "matched_substring_character_range": [
+      8644,
+      8757
+    ],
+    "evidence_scope": "Entire source paragraph supports meaning; precise substring locates its span only, not every clause/glyph visually proven.",
+    "root_supplemental_navigation": true
+  },
+  "supplemental_manual_paragraph_number": 17,
+  "proof_clone_source": "work/book-experts-v5/value_team/peer-QA/P35-evidence/P35-R33-P35-C14-P017.txt",
+  "proof_clone_source_sha256": "bec19b098ab3a5386296cf4d2ec8f59b7571c42a9218837310008b66a58adbf6",
+  "supplemental_proof_file": "work/book-experts-v5/root_team/peer-QA/P35-supplemental-evidence/P35-R32-P35-C14-P017.txt",
+  "supplemental_proof_sha256": "bec19b098ab3a5386296cf4d2ec8f59b7571c42a9218837310008b66a58adbf6",
+  "raw_source_bytes_unmodified": true,
+  "old_520_proof_files_unmodified": true,
+  "actual_source_reading_scope": "Peer already read entire original chapter XIV; root independently read R32 listed11 full paragraphs plus C14P014–P020 and complete chapter XXI, and explicitly requested/accepted these two precision revisions. No new full-book reading is claimed.",
+  "source_voice": "Wall1915 author discussion, reported observations, paraphrase or own hypothetical; external historical truth not automatically verified. Modern independent interpretations remain in separate fields.",
+  "all_scan_glyphs_collated": false,
+  "current_market_calls": 0,
+  "created_utc": "2026-10-13T18:01:51.664366+00:00"
+}

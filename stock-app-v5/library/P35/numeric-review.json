@@ -1,0 +1,558 @@
+{
+  "book_id": "P35",
+  "all_numeric_experiments_enabled": false,
+  "chapter_numeric_audits": {
+    "ch03-numeric-review.json": {
+      "chapter": 3,
+      "complete_book": false,
+      "basis": "Britishpredecimalpound20shillings/shilling12pence; integerarithmetic",
+      "table_original_source": "ch03.txt all rows fullread and originalPDF47–48all tablecellvisuallychecked",
+      "dr_rows": [
+        {
+          "name": "issuedCapital",
+          "pounds_shillings_pence": [
+            3000000,
+            0,
+            0
+          ],
+          "pence": 720000000
+        },
+        {
+          "name": "reserveFund",
+          "pounds_shillings_pence": [
+            1125000,
+            0,
+            0
+          ],
+          "pence": 270000000
+        },
+        {
+          "name": "depositsAndCurrent",
+          "pounds_shillings_pence": [
+            37583237,
+            8,
+            11
+          ],
+          "pence": 9019976987
+        },
+        {
+          "name": "acceptances",
+          "pounds_shillings_pence": [
+            3153328,
+            7,
+            11
+          ],
+          "pence": 756798815
+        },
+        {
+          "name": "interestRebate",
+          "pounds_shillings_pence": [
+            53807,
+            1,
+            3
+          ],
+          "pence": 12913695
+        },
+        {
+          "name": "netProfit",
+          "pounds_shillings_pence": [
+            225676,
+            10,
+            1
+          ],
+          "pence": 54162361
+        }
+      ],
+      "cr_rows": [
+        {
+          "name": "cashAndBoE",
+          "pounds_shillings_pence": [
+            5996667,
+            14,
+            8
+          ],
+          "pence": 1439200256
+        },
+        {
+          "name": "callMoney",
+          "pounds_shillings_pence": [
+            5674476,
+            5,
+            1
+          ],
+          "pence": 1361874301
+        },
+        {
+          "name": "UKSecurities",
+          "pounds_shillings_pence": [
+            2488966,
+            12,
+            6
+          ],
+          "pence": 597351990
+        },
+        {
+          "name": "otherInvestments",
+          "pounds_shillings_pence": [
+            3771738,
+            10,
+            11
+          ],
+          "pence": 905217251
+        },
+        {
+          "name": "discountedBills",
+          "pounds_shillings_pence": [
+            6811870,
+            13,
+            8
+          ],
+          "pence": 1634848964
+        },
+        {
+          "name": "loansOther",
+          "pounds_shillings_pence": [
+            16218748,
+            12,
+            6
+          ],
+          "pence": 3892499670
+        },
+        {
+          "name": "acceptancesContra",
+          "pounds_shillings_pence": [
+            3153328,
+            7,
+            11
+          ],
+          "pence": 756798815
+        },
+        {
+          "name": "premises",
+          "pounds_shillings_pence": [
+            1025252,
+            10,
+            11
+          ],
+          "pence": 246060611
+        }
+      ],
+      "dr_total": [
+        45141049,
+        8,
+        2
+      ],
+      "cr_total": [
+        45141049,
+        8,
+        2
+      ],
+      "both_totals_match_print": true,
+      "cashPlusCallSubtotal": [
+        11671143,
+        19,
+        9
+      ],
+      "investmentSubtotal": [
+        6260705,
+        3,
+        5
+      ],
+      "authorized30000000_not_added_to_total": true,
+      "loansPerDepositAccounts": 0.43154208437671704,
+      "cashPerDepositAccounts": 0.15955697648389133,
+      "cashAndCallPerDepositAccounts": 0.3105412088120663,
+      "ratios_are_independent_calculations_not_author_thresholds": true,
+      "balance_date_bank_identity_unknown": true,
+      "historical_account_independently_verified": false,
+      "original_PDF_table_pages_actually_viewed": [
+        47,
+        48
+      ],
+      "all_printed_numeric_fields_in_table_visually_examined": true,
+      "rediscount_price_word_original_PDF51": "Original says lowerprice, not explicitly lowerinterestrate; meaning/cashflow unresolved, no silentchange"
+    },
+    "ch06-numeric-review.json": {
+      "chapter": 6,
+      "wholebook_complete": false,
+      "source_table_chapter": 3,
+      "independent_exact_pence_calculations": {
+        "cashPlusCallPlusInvestment": [
+          17931849,
+          3,
+          2
+        ],
+        "callPlusCompositeLoans": [
+          21893224,
+          17,
+          7
+        ],
+        "plusDiscountedBills": [
+          28705095,
+          11,
+          3
+        ],
+        "depositTotalMinusThoseAssets": [
+          8878141,
+          17,
+          8
+        ],
+        "cashPerArithmeticResidue": 0.6754417548328098,
+        "cashAndInvestmentsPerArithmeticResidue": 1.380623678382192
+      },
+      "author_approximate_pounds": {
+        "firstClassWealth": 18000000,
+        "firstClassPerAllDeposits": "nearly50percent",
+        "callPlusOtherLoans": 22000000,
+        "plusBills": 28700000,
+        "depositsApprox": 37600000,
+        "pureResidueApprox": 9000000,
+        "cash": 6000000,
+        "cashPerPure": "over60percent"
+      },
+      "critical_assumption": "Author subtracts loan-asset groups from depositliabilities toidentifypure deposits; book has not proven origin/holder/transfer chain. This independent arithmetic residue is NOT verifiedpure-deposit measure and NOT regulatorysafetyratio.",
+      "safety_or_actual_bank_verified": false
+    },
+    "ch09-numeric-review.json": {
+      "chapter": 9,
+      "wholebook_complete": false,
+      "digital_source_table_fullread": true,
+      "original_image_visual_pending": false,
+      "issue_department": {
+        "notes": 86802605,
+        "government_debt": 11015100,
+        "other_securities": 7434900,
+        "gold_coin_bullion": 68352605,
+        "silver_bullion_printed_blank_not_assumed_zero": true,
+        "listed_numbers_sum_matches": true
+      },
+      "banking_department": {
+        "liabilities_rows": [
+          14553000,
+          3499722,
+          47393479,
+          117593833,
+          32471
+        ],
+        "assets_rows_as_PG": [
+          21824358,
+          108836570,
+          52098065,
+          813512
+        ],
+        "printed_both_sides_total": 183072505,
+        "sum_liabilities": 183072505,
+        "sum_assets_as_PG": 183572505,
+        "assets_minus_printed": 500000,
+        "reserve_notes_plus_coin": 52911577,
+        "reserve_ratio_excluding_capital_Rest_and_bills": 0.32070088516867284,
+        "reserve_ratio_including7daybills": 0.3206377807441427,
+        "printed_ratio_percent": 32.125,
+        "printed_ratio_reproduced_from_displayed_PG_numbers": false,
+        "government_securities_PG": 21824358,
+        "government_securities_original_PDF107": 21324358,
+        "assets_rows_corrected_to_original": [
+          21324358,
+          108836570,
+          52098065,
+          813512
+        ],
+        "sum_assets_original_confirmed": 183072505,
+        "both_original_sides_match": true,
+        "ratio_if_rounded_to_nearest_eighth_percent_excluding_bills": 32.125,
+        "ratio_if_rounded_to_nearest_eighth_percent_including_bills": 32.125,
+        "nearest_eighth_rounding_is_independent_possible_reconciliation_not_author_method_given": true
+      },
+      "earlier_cash_rounding": {
+        "chapter3_exact_pence": 5996667.733333333,
+        "chapter9_wholepound_5996668_is_nearestrounding": true
+      },
+      "bank_identity": "BankofEngland",
+      "return_exact_date": "not printed in chapter; only months afterwaroutbreak",
+      "historical_market_data_or_effectiveness_independently_verified": false,
+      "all_table_numeric_cells_original_PDF107_visually_read": true,
+      "original_ratio_PDF109_visually_confirmed": "32⅛",
+      "scope": "Original table corrects PG digit3/8 at GovernmentSecurities; rawPGpreserved; no verifiedhistoricalweeklyaccount externalto thisbook"
+    },
+    "ch11-numeric-review.json": {
+      "chapter": 11,
+      "wholebook_complete": false,
+      "source": "Originalprinted103/PDF127 visuallyread, digital fullchapterread",
+      "original_and_PG_text_other_securities": 7434000,
+      "chapter9_original_table_other_securities": 7434900,
+      "text_government_debt": 11015100,
+      "text_sum_claim": 18450000,
+      "independent_text_parts_sum": 18449100,
+      "claim_minus_textparts": 900,
+      "correct_table_parts_sum": 18450000,
+      "resolution": "Originaltext000sameasPG; table900sameasoriginalandPG. Preservebookinternal900discrepancy,no silentlyrepairwrittenbody.",
+      "not_a_second_PG_transcription_error": true,
+      "price": {
+        "chapter10": "77s9dperouncewithoutfinenessstatedinthatparagraph",
+        "chapter11": "3pounds17s9dpersTANDARDounce explicitly given; no numericstandardfinenessdefinitionhere",
+        "consistent_predecimal_amount": true
+      },
+      "bank_charter_numbers": "14million1844base;two-thirdsrelinquishedissue; May6eligibility;historicalauthoraccount notcurrentlegalrule",
+      "numerical_experiment_enabled": false
+    },
+    "ch12-numeric-review.json": {
+      "chapter": 12,
+      "wholebook_complete": false,
+      "original_table_all_numeric_fields_PDF138_visually_read": true,
+      "printed_page": 114,
+      "PG_and_original_table_match": true,
+      "dr_pounds_shillings_pence": [
+        [
+          3000000,
+          0,
+          0
+        ],
+        [
+          1125000,
+          0,
+          0
+        ],
+        [
+          8908141,
+          17,
+          8
+        ],
+        [
+          5644476,
+          5,
+          1
+        ],
+        [
+          6811870,
+          13,
+          8
+        ],
+        [
+          16218748,
+          12,
+          6
+        ],
+        [
+          3153328,
+          7,
+          11
+        ],
+        [
+          53807,
+          1,
+          3
+        ],
+        [
+          225676,
+          10,
+          1
+        ]
+      ],
+      "cr_pounds_shillings_pence": [
+        [
+          5996667,
+          14,
+          8
+        ],
+        [
+          5674476,
+          5,
+          1
+        ],
+        [
+          6260705,
+          3,
+          5
+        ],
+        [
+          6811870,
+          13,
+          8
+        ],
+        [
+          16218748,
+          12,
+          6
+        ],
+        [
+          3153328,
+          7,
+          8
+        ],
+        [
+          1025252,
+          10,
+          11
+        ]
+      ],
+      "dr_sum": [
+        45141049,
+        8,
+        2
+      ],
+      "cr_sum": [
+        45141049,
+        7,
+        11
+      ],
+      "printed_both_sums": [
+        45141049,
+        8,
+        2
+      ],
+      "Dr_matches_printed": true,
+      "Cr_shortfall_pence_from_printed": 3,
+      "call_Dr": [
+        5644476,
+        5,
+        1
+      ],
+      "call_Cr": [
+        5674476,
+        5,
+        1
+      ],
+      "call_opposite_sides_pounds_difference": 30000,
+      "acceptance_Dr": [
+        3153328,
+        7,
+        11
+      ],
+      "acceptance_Cr": [
+        3153328,
+        7,
+        8
+      ],
+      "acceptance_opposite_sides_pence_difference": 3,
+      "current_other_accounts_original": [
+        8908141,
+        17,
+        8
+      ],
+      "independent_earlier_exact_residue_from_ch3": [
+        8878141,
+        17,
+        8
+      ],
+      "current_other_accounts_vs_earlier_residue_pounds_difference": 30000,
+      "interpretation": "ModifiedDr shifts30000betweenpureandcall relativeearlierasset-basedgrouping, keepingDrsum; Cracceptance3pencebelowDr; book does not explain. Do not silentlyfixbook or inventsourceallocation.",
+      "experiments_enabled": false
+    }
+  },
+  "appendix_A": {
+    "source_unit": "A",
+    "printed_page": 221,
+    "PDF_page": 245,
+    "all_table_primary_numeric_cells_visually_examined": true,
+    "source_date": "1914-06-24",
+    "issue": {
+      "notes": 56753275,
+      "government_debt": 11015100,
+      "other_securities": 7434900,
+      "gold": 38303275,
+      "printed_total": 56753275,
+      "independent_sum": 56753275
+    },
+    "banking": {
+      "liability_rows": [
+        14553000,
+        3160254,
+        18074214,
+        44915911,
+        12948
+      ],
+      "asset_rows": [
+        11046570,
+        39994619,
+        28050150,
+        1624988
+      ],
+      "printed_total": 80716327,
+      "independent_liability_sum": 80716327,
+      "independent_asset_sum": 80716327,
+      "reserve": 29675138,
+      "deposit_denominator": 62990125,
+      "reserve_percent_deposits": 47.11077807830989,
+      "reserve_percent_including_bills": 47.101096163991876,
+      "printed_percent": 47.125,
+      "possible_rounding_nearest_eighth_percentagepoint": 47.125,
+      "author_rounding_rule_given": false,
+      "original_historical_official_return_independently_verified": false
+    }
+  },
+  "other_numeric_scope": [
+    {
+      "chapter": 1,
+      "item": "silver2pounds/bronze1shillinglegalconditions",
+      "scope": "original historical claim, currentlawnotverified/used"
+    },
+    {
+      "chapter": 2,
+      "item": "200to1000/2000;2.5depositrate4loanrate1.5spread",
+      "scope": "hypothetical notnetprofit/fixedmultiplier"
+    },
+    {
+      "chapter": 10,
+      "item": "40toward30proportion;77s9dperounce",
+      "scope": "historical illustrative, ch11standardouncerefinesunit; no presentthreshold"
+    },
+    {
+      "chapter": 15,
+      "item": "15/20/30/40and80/90per100;30vs31",
+      "scope": "JohnBullsatiricalcounterexample not recommendedsafetypercent"
+    },
+    {
+      "chapter": 16,
+      "item": "20fivepoundnotes=100sovereigns;10percent",
+      "scope": "nominalequalityconditionalpaymentrights; historicalrate notcurrenttrigger"
+    },
+    {
+      "chapter": 17,
+      "item": "350millionWarLoan;1versus2percent;1.5versus1.75discount",
+      "scope": "historicalreportedloanunverified; conditionaldemand examples and discountratehigherreducesproceeds"
+    },
+    {
+      "chapter": 19,
+      "item": "1pound/10shillingnotes;100percentvs50or60gold",
+      "scope": "smallnotehistoricalpolicy, authorproposalnotcalibratedsafetyline"
+    },
+    {
+      "chapter": 21,
+      "item": "60percentadvancesagainstJuly29outstandingloansecurity",
+      "scope": "lenders getcentraladvance, twoendingeventswhicheverfirst, not moderninvestorLTV"
+    },
+    {
+      "chapter": 22,
+      "item": "80millionStockExchangeloans;10percentBankrate",
+      "scope": "collectivehistoricalapproximation, not operatorcorporationdebt/currentriskline"
+    },
+    {
+      "chapter": 23,
+      "item": "payingforitsexportsoutofcapital",
+      "scope": "Originalprint219/PDF243sameasPG; paragraphdiscussesexcessimports, ambiguouswordnot silentlyamended"
+    },
+    {
+      "source_unit": "B",
+      "item": "6or12monthpressurepossible;foreseeableemergency",
+      "scope": "1915reportedparliamentconviction notallfutureguarantee"
+    }
+  ],
+  "unresolved_core": [
+    "IXPGvsoriginal500000transcriptiondifference,rawpreserved; othersecuritiesnotchanged",
+    "XI7,434,000textvsIX7,434,900table;rawsum18449100notclaimed18450000,originalinternal900difference",
+    "XIIpure/callcontra30000plusacceptance3penceoriginalinternaldifference",
+    "IX32eighth/AppendixA47eighthpossibleapproximationbutunknownroundingmethod",
+    "IIIrediscountlowerpricewordingambiguous",
+    "XXIIIexportsintheimportsparagraphsameoriginalword, no silence correction"
+  ],
+  "note": "Only arithmetic and explicitly conditional readings checked; not complete historical accounts/prices/policy legality or anybacktest/calibratedprobability.",
+  "independent_peer_numeric_review_files": [
+    "source-review/independent-peer-QA/P35-ch03-independent-numeric.json",
+    "source-review/independent-peer-QA/P35-ch06-independent-numeric.json",
+    "source-review/independent-peer-QA/P35-ch09-independent-numeric.json",
+    "source-review/independent-peer-QA/P35-ch11-independent-numeric.json",
+    "source-review/independent-peer-QA/P35-ch12-independent-numeric.json",
+    "source-review/independent-peer-QA/P35-appendixA-independent-numeric.json"
+  ],
+  "unresolved_original_and_PG_numbers_preserved": true
+}

@@ -1,0 +1,388 @@
+{
+  "all7_originaltables": {
+    "111": {
+      "original_years": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "original_growth": [
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.05,
+        0.03
+      ],
+      "original_dividends": [
+        2,
+        2.1,
+        2.21,
+        2.32,
+        2.43,
+        2.5
+      ],
+      "original_terminal50_07886_placedrow5_butlabelafter4": 50.07886,
+      "original_discount_growth_factors": [
+        null,
+        1.08,
+        1.1664,
+        1.2597,
+        1.3605,
+        1.4693
+      ],
+      "original_PVs": [
+        null,
+        1.9444,
+        1.8904,
+        1.8379,
+        1.7869,
+        35.787
+      ],
+      "original_total": 43.2466,
+      "independent_correct_terminal_at_t4": {
+        "dividends": [
+          2.1,
+          2.205,
+          2.3152500000000003,
+          2.4310125000000005
+        ],
+        "next_stable_dividend": 2.5039428750000003,
+        "terminalvalue_at_end_highgrowth": 50.078857500000005,
+        "dividendPVs": [
+          1.9444444444444444,
+          1.890432098765432,
+          1.8379200960219477,
+          1.7868667600213382
+        ],
+        "terminalPV": 36.80945525643956,
+        "total": 44.26911865569272
+      },
+      "literal50_07886_div1_4693_not35_7870": 34.08348193017083
+    },
+    "112": {
+      "all6steps_read": true,
+      "N": 5,
+      "I/Y": 10,
+      "FV": 25,
+      "PMT": 5,
+      "printed_signedPV": -34.47,
+      "independent_signedPV": -34.476966923521125,
+      "Excel_original_signedPV": -34.48
+    },
+    "113": {
+      "all6steps_read": true,
+      "N": 20,
+      "I/Y": 10,
+      "FV": 30,
+      "PMT": 1,
+      "printed_signedPV": -12.97,
+      "independent_signedPV": -12.97287256048287
+    },
+    "114": {
+      "original_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "original_all10_dividends": [
+        0.07,
+        0.08,
+        0.925,
+        1.095,
+        1.275,
+        1.455,
+        1.59,
+        1.795,
+        1.93,
+        2.11
+      ],
+      "independent_CAGR_literalfirst_070": 0.4600032546581032,
+      "independent_arithmeticmean_literal": 1.2872098271101544,
+      "formula_assumedfirst_70_CAGR": 0.13042749667801434,
+      "optional_if_bothfirstcells_70_80_arithmeticmean": 0.1309598271101542,
+      "not_silently_corrected_source": true
+    },
+    "115": {
+      "all6steps_read": true,
+      "N": 9,
+      "PV": -0.7,
+      "FV": 2.11,
+      "PMT": 0,
+      "printedyield_percent": 13.0427,
+      "independent_percent": 13.042749667801434,
+      "conflicts_table114_070": true
+    },
+    "116": {
+      "original_columns": [
+        "T0",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5"
+      ],
+      "original_cash": [
+        0.25,
+        0.5,
+        1.5,
+        1.275,
+        3.0,
+        "3*1.05"
+      ],
+      "body_and_solution_cash_t1to4": [
+        0.25,
+        0.5,
+        1.5,
+        3.0
+      ],
+      "independent_first4PV": 3.4923437061946694,
+      "terminalvalue_at4": 39.37500000000001,
+      "terminalPV": 24.149424902375465,
+      "original_answer": 27.64
+    },
+    "117": {
+      "original_rows": [
+        [
+          "Dividends priority",
+          "commononlyafterpreferred",
+          "preferredhighestfirst"
+        ],
+        [
+          "Dividends amount",
+          "commonvariable",
+          "preferredpredeterminedconstant"
+        ],
+        [
+          "Growth",
+          "commonhighpotentialperformancelinked",
+          null
+        ],
+        [
+          "Liquidation",
+          "commonlastaftercreditorspreferred",
+          "preferredpreference similarbonds"
+        ],
+        [
+          "Voting",
+          "commonYes",
+          "preferredNo"
+        ],
+        [
+          "Arrears",
+          "commonnone",
+          "cumulativeunpaidbecomesliabilitymusteventuallypay"
+        ],
+        [
+          "Certainty",
+          "commonnotpayifnoprofits",
+          "preferredpayevenloss"
+        ]
+      ],
+      "blankpreferred_growth_cell_preserved": true,
+      "originalgeneralizations_needactualcontract": true
+    }
+  },
+  "all12_figures": {
+    "111cover": true,
+    "112_EVpie_original_orange": "Market Value of Net Debt Minus Cash & Equivalent",
+    "112_netdebtdefinitionambiguous_doublecash_ifalready_net": true,
+    "113_114_115_116_117_Lore": {
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026,
+        2027
+      ],
+      "original_dividends": [
+        14,
+        15.82,
+        17.88,
+        20.2,
+        22.83,
+        25.79,
+        27.08
+      ],
+      "originalterminal": 386.91,
+      "terminal_formula": "H13/(B17-H15)",
+      "original_PVdivs": [
+        14.13,
+        14.25,
+        14.38,
+        14.51,
+        14.64
+      ],
+      "originalsumPVdiv": 71.9,
+      "originalterminalPV": 219.54,
+      "original_total": 291.44,
+      "prose_sumrounded": 291.45,
+      "independent": {
+        "dividends": [
+          15.819999999999999,
+          17.876599999999996,
+          20.200557999999994,
+          22.826630539999993,
+          25.794092510199988
+        ],
+        "next_stable_dividend": 27.08379713570999,
+        "terminalvalue_at_end_highgrowth": 386.9113876529999,
+        "dividendPVs": [
+          14.124999999999996,
+          14.251116071428566,
+          14.378358179209176,
+          14.506736377237827,
+          14.636260809177449
+        ],
+        "terminalPV": 219.54391213766178,
+        "total": 291.4413835747148
+      }
+    },
+    "118": {
+      "N": 5,
+      "rate": 0.1,
+      "PMT": 5,
+      "FV": 25,
+      "signedanswer": -34.48
+    },
+    "119": {
+      "N": 20,
+      "rate": 0.1,
+      "PMT": 1,
+      "FV": 30,
+      "signedanswer": -12.97
+    },
+    "1110": {
+      "PV": -0.7,
+      "N": 9,
+      "PMT": 0,
+      "FV": 2.11,
+      "percent": 13.0427
+    },
+    "1111": {
+      "original_years": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "original_cf": [
+        2000000,
+        2060000,
+        2121800,
+        2185454,
+        2251018,
+        2318548
+      ],
+      "original_PV": [
+        1851852,
+        1766118,
+        1684353,
+        1606374,
+        1532005,
+        1461079
+      ],
+      "original_totals": [
+        12936820,
+        9901780,
+        3652697,
+        13554477
+      ],
+      "formula_visible": "=-PV($C$2,B6,0,C6)",
+      "independent_cf": [
+        2000000.0,
+        2060000.0,
+        2121800.0,
+        2185454.0,
+        2251017.62,
+        2318548.1486
+      ],
+      "independent_PV": [
+        1851851.8518518517,
+        1766117.9698216734,
+        1684353.2489965959,
+        1606373.9319134199,
+        1532004.7683989096,
+        1461078.6217137747
+      ],
+      "independent_cf_sum": 12936819.768600002,
+      "independent_PV_sum": 9901780.392696224,
+      "independent_exit_multiplePV": 3652696.5542844366,
+      "independent_total": 13554476.94698066,
+      "independent_permillion_commonshares_if_scopeequity": 13.55447694698066,
+      "flow_scope_forEVtoequity_bridge_notgiven": true
+    },
+    "1112": {
+      "source_publicinformation_box_with_pastprice_subset": true,
+      "source_label_for_public": "Partially Strong",
+      "source_label_for_history": "Weak",
+      "strong_privateinformation_definition_notpresent_inchapter_text_orfigure": true
+    }
+  },
+  "examples": {
+    "CameoPE24over4": 6,
+    "Gordonzero2_6pct": 33.333333333333336,
+    "GordonD0_5g4r8": 130.0,
+    "implied_g_price250_D0_10r12": 0.07692307692307693,
+    "FourSeasons_nominal10pct_quarter": 10.0,
+    "FourSeasons_if10effectiveannual_quarter": 10.367555089746354,
+    "twenty_div1_sale30_r10": 12.97287256048287,
+    "GordonD0_1_76g10_44r13_5": 63.521045751633984,
+    "Phased_rounded_g13_04": {
+      "P0": 60.23090909090905,
+      "D10": 7.187931731923789,
+      "terminalP10": 205.18277852946076,
+      "PVfirst10dividends": 17.545220750431966,
+      "PVterminal": 42.685688340477164,
+      "total": 60.23090909090913,
+      "original_terminal_prose258_10_vsformula205_18": [
+        258.1,
+        205.18
+      ],
+      "literalprose258_10_present": 53.694448625937085,
+      "percentage_first10": 0.2912992849560042
+    },
+    "Phased_exactgeometric_assuming_70": {
+      "g": 0.13042749667801434,
+      "P0": 60.27422623691943
+    },
+    "JM_body_conditions_total": 27.641768608570136,
+    "OhWell_dividend": 50.0,
+    "OhWell_value": 500.0,
+    "DataForge_dividend7_yield35": 0.2
+  },
+  "all10problems": {
+    "1_growth": 0.18720669911055432,
+    "2_PV": 31.301696268831044,
+    "3_PV": 30.0,
+    "4_PV": 22.916666666666668,
+    "5_annualdividend": 3.5000000000000004,
+    "6_impliedg_D0_40": 0.045454545454545456,
+    "7_finite50PV_dividends_no_liquidation_terminalgiven": 32.30913851768046,
+    "7_if_infinite": 34.333333333333336,
+    "8_growth": 0.12794487300549928,
+    "9_requiredr_if2_5isD0": 0.06903846153846153,
+    "9_requiredr_if2_5isD1": 0.06807692307692308,
+    "9_dividendtiming_ambiguous_notresolved_original": true,
+    "10_PV": 41.66666666666667
+  },
+  "all10MC_10review_4videoquestiontexts_read": true,
+  "externalvideosnotviewed_actualExcel_TIexecution_false": true,
+  "DCF_image_formula_literal": "CF1/(1+r)^1+CF2/(1+r)^2+...+(TCF/(r-g))/(1+r)^(n-1)",
+  "DCF_terminaldefinition_fromauthor": "terminalcashflowfromendingassetsale",
+  "DCF_formula_scope_note": "TCF/(r-g) worksifTCFfirstcontinuingflowafterterminaldate n-1, notalreadyvaluedassetsale; numericalexampleuses2.5exitmultiplePV insteadperpetuity"
+}

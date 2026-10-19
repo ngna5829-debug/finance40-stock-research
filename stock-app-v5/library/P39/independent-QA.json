@@ -1,0 +1,542 @@
+{
+  "schema_version": "5.0",
+  "book_id": "P39",
+  "title": "The Money Market",
+  "author": "F. Straker",
+  "first_publication": 1904,
+  "reading_edition": "Third edition1920",
+  "reviewer": "practical_team independent of root_team author",
+  "status": "pass_after_correction_with_source_limits",
+  "review_finished_utc": "2026-10-12T15:12:23.484264+00:00",
+  "method": "Complete original fourteen source chapters and corresponding fourteen Chinese dossiers actually read and semantically compared in contiguous untruncated outputs; complete appendix/index/business-series advertisement/transcriber notes/PG header/license and all available extra publisher-catalogue OCR read; all46 manually defined rules individually read, then paragraph hashes and evidence-page anchors independently parsed. Selected original images inspected; no claim of full228-page glyph-level proofreading.",
+  "coverage": {
+    "all14_original_source_chapters_full_semantic_read": true,
+    "all14_chinese_dossiers_full_read_and_compared": true,
+    "frontmatter_source_full_read": true,
+    "all5_included_footnotes_read": true,
+    "appendix_full_including_Tritton_Cole_quotations_and_discussion": true,
+    "appendix_all10_table_rows_and_headings_read": true,
+    "complete_index_and_business_series_advertisement_read": true,
+    "transcriber_notes_and_complete_PG_license_read": true,
+    "all46_expert_rules_semantically_checked": true,
+    "synthesis_and_explanation_fully_read": true,
+    "extra_publisher_catalogue_available_OCR_full_read": true,
+    "extra_catalogue_full_print_original_all_words_complete": false,
+    "every_original_scan_glyph_visually_proofread": false,
+    "source_only_sampling_used_to_certify_full_semantic_read": false,
+    "external_cited_books_counted_complete": false,
+    "current_market_analysis_or_prediction_validated": false
+  },
+  "source_official_metadata_check": {
+    "checked_date": "2026-10-12",
+    "url": "https://www.gutenberg.org/ebooks/61605",
+    "facts": "Official authorFrederick Straker1863–1941, contents14chapters+goldreserve, fullTXT/HTML freely available, USpublicdomain metadata, lastupdatedOctober17,2024; 1920edition identity checked in local full source and original scan title/version images.",
+    "not_claimed": "No worldwide copyright conclusion or external whole historical archives verification."
+  },
+  "chapters": [
+    {
+      "chapter": 1,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          6646
+        ]
+      ],
+      "source_sha256": "9f71cccdbf248a802e6c6d525cabd3828650cd4a5b390fcae03be8387deeb421",
+      "dossier_sha256": "db9173ce459174d93ad9448e5c496b6830db09e2194b1bedaff588421d0899f7",
+      "status": "pass",
+      "finding": "贸易—托管—付息中介—政治债务链保持；1640二十万归还与1672一百三十万停止支付不同，6%利息/半额转债不等全额赔付，族群历史概括不当现代风险标签。",
+      "body_han": 2358
+    },
+    {
+      "chapter": 2,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          15050
+        ]
+      ],
+      "source_sha256": "a43804cc8f4237b1e05a47ef41147da17c18fbc0afa1c7abb35c1ab41c3da548",
+      "dossier_sha256": "5ffd362a060d6856623466b0a844d926f006bef8877d182cabac245b820d68c5",
+      "status": "pass",
+      "finding": "1694资本1.2m*8%+4k=100k、300k年金分开；特许十年/六人六个月六十五英里逐项限制，1797命令与1821实际/1823法律恢复区别，1825一镑券救助为证人意见非定量因果。建筑与牙骨逸事不当实证。",
+      "body_han": 2689
+    },
+    {
+      "chapter": 3,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          11959
+        ]
+      ],
+      "source_sha256": "2fd5b056129fe273dfdaeeb402c5484ca1cdb2681a7d3f4a929126f3432cbd61",
+      "dossier_sha256": "8b6ff2fb54a30c607e9b2cd0fecb2f0081fc925b12e3f048254a69e847c4ee4c",
+      "status": "pass",
+      "finding": "私人发行1750/1793原书异说保留；1667首次记录非全球断言、1708与脚注1862/1908法律时点分开；农民布商保管转融资和票据发行人负债视角准确。全部引文/法律脚注已读。",
+      "body_han": 2520
+    },
+    {
+      "chapter": 4,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          16821
+        ]
+      ],
+      "source_sha256": "7d7de33792d3586625ebf28aeb31f8777aab36d05dc3316d34cdfb6342a6b50e",
+      "dossier_sha256": "c54372f0f464691e3bfc1a9d063e67fa581aade6f6ee19092afc3f6fcbe79a07",
+      "status": "pass",
+      "finding": "三分之一分母负债/证券分开；八法条、四1844/1903报表与德国5%年罚全读，1847仅权限而1857实用、1866恐慌缓和仍失败保持。偿付能力vs可用资产，自动弹性作者强建议与现代边界分开。",
+      "body_han": 3226
+    },
+    {
+      "chapter": 5,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          6661
+        ]
+      ],
+      "source_sha256": "73142c3670de4a05715e5ff00adeb162bae04cf996d8414f0ba386937e56ac0b",
+      "dossier_sha256": "5f6f63ec3b2853a7815e2eb90c1b1f0d68d91f3e8514eac1cd9e89cc6ef73040",
+      "status": "pass",
+      "finding": "国际中心为贸易/信用/制度/地理网络条件而非现代城市或族群排名；纽约—汉堡—伦敦两项票据结算、直接联系削弱中间人完整保持，无填金额或资金实测。",
+      "body_han": 2308
+    },
+    {
+      "chapter": 6,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          10964
+        ]
+      ],
+      "source_sha256": "81d8d1ca04340a9457ab9387c2ce433501002f4c2f7be9870bdcfd53439ffbda",
+      "dossier_sha256": "ddcdeb1bff1b44ef6fbb0344b5c414c96edb75f378b0d5556eaa5d6824b9c07a",
+      "status": "pass",
+      "finding": "借贷利率vs购买力、常态交易vs末端准备、借款主动吸资提高率、市场可收回借款依赖中央末端、国内买财政票暂减vs国外流入等路径条件分开。股票利差非无风险，两周续借不当现代期限，真实资金缺时弃权。",
+      "body_han": 2740
+    },
+    {
+      "chapter": 7,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          11707
+        ],
+        [
+          11707,
+          25110
+        ]
+      ],
+      "source_sha256": "e032b81d6dd08e6c5912f75c01a9749ac9c45cca3daada8e0082f2a34305891b",
+      "dossier_sha256": "74e0cabb626313214c8d951212205b4675d18d233485e2013c69d893ede3704d",
+      "status": "pass",
+      "finding": "银行券总发行/活跃流通、Rest/现金Reserve、资本/对外负债和公布时点均准确。常态OtherDeposits高率低而压力高率也高完整保持；混科目缺拆分未填。两报表及发行差、CashRatio可复算，17.5m vs18.293209m候选最低Rest解释而非原文确认。",
+      "numbers": {
+        "active_1844": 20176270,
+        "active_1903": 29508960,
+        "active_increase": 9332690,
+        "capital_plus_table_rest": 18293209,
+        "reserve_cash": 24442214,
+        "external_liabilities": 49379106
+      },
+      "body_han": 3205
+    },
+    {
+      "chapter": 8,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          13675
+        ]
+      ],
+      "source_sha256": "bba08f1961b2c6d47743762a5f53d41d30a513ce4ffe734d1f8e66e1821b0ef8",
+      "dossier_sha256": "0608038bc43534b84b85fcc94feb0c75b4f7a340ea850f9b532f673323ab4446",
+      "status": "pass",
+      "finding": "并购使余额统计集合改变、实体数下降而网点增、未缴资本非现金、正文47.5m/表48m近似和1891/1892 2336/2326差异准确；十三栏全部读核，ratio分母公众余额而非总负债，无虚报全合并表。",
+      "body_han": 2483
+    },
+    {
+      "chapter": 9,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          11500
+        ],
+        [
+          11500,
+          22568
+        ]
+      ],
+      "source_sha256": "2b8a887f50ad0e498b3e3afe02343440ca02639d0e548177cd6d1e7132762399",
+      "dossier_sha256": "8302694001983fcdd23c07693180dad6b6b3294bc1e60a87f2949222340f5b03",
+      "status": "pass",
+      "finding": "原六类资产与后续短贷/证券实际可变现反例修订保持；九匿名银行所有行和脚注简单平均非加权全部读，均值差不静默修；windowdressing疑说不假违规、10万US铁路担保不可回收例/6m四客户集中分开。客户/担保双集中，未缴承诺与现款差明示。",
+      "body_han": 2840
+    },
+    {
+      "chapter": 10,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          11546
+        ]
+      ],
+      "source_sha256": "6357b7443c7b4f43cff3852bea98d4732f3e8ea93879bfc6ebb76a85c8f917e0",
+      "dossier_sha256": "62a8a76e58fce19c4ef5dfca5fd366dba2479ca9b8c1cb74cf08bf7ecb980fa8",
+      "status": "pass",
+      "finding": "经纪专业判断持续更新、票据金额/到期匹配、银行年化贴现差与三个月turn不同；floaters为漂流担保非浮息、保证不等每票背书。再借依赖、央行60天/两英公司/3–10天/加价为历史资格，无现代复制保证。",
+      "body_han": 2244
+    },
+    {
+      "chapter": 11,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          8252
+        ]
+      ],
+      "source_sha256": "802a15717c02e218bbfaa91df1e4826676da0b9c2c56cd05776cd7d2d19f0c51",
+      "dossier_sha256": "ee70d681528e48f0096292ad282e75a3fd299dd01fa477ac9d71ee23766b580d",
+      "status": "pass",
+      "finding": "处理总额/净差结算/柜台现金分开，1775/1854/1864/1858准入时点及代理真实路径完整。1902两日类平均/全年总不当GDP，脚注都会清算扩范围非全真实增长，加法机非全无误。",
+      "body_han": 2385
+    },
+    {
+      "chapter": 12,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          13494
+        ],
+        [
+          13494,
+          27470
+        ]
+      ],
+      "source_sha256": "3c615219d2201d2bb1495d2ca919c31b6c5639ed304b42172d02dfb33b358fc9",
+      "dossier_sha256": "fa6bbd1be8cfc188c6276fd55c65d9ad512d7b5d2ac4fe9a133f9b84c3d66f70",
+      "status": "pass",
+      "finding": "地点/时间/币种和报价方向、黄金点理论vs实际取得障碍、银行票/贸易票FromTo非买卖价，Demand纽约£10脚注冲突保留。全部17行汇价及长短净款/金量/套利/到期汇价收益原例读核；四/2.5/5.5原概数与直接年化不同均明示，利差和黄金环境不造现代交易。",
+      "body_han": 2704
+    },
+    {
+      "chapter": 13,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          21429
+        ]
+      ],
+      "source_sha256": "c6bf9e2523bd51abfb3de4be8c765a018a4ece0de06b46a8e3c73088e19f366f",
+      "dossier_sha256": "1ee7f2b2ef101f2089de24c7ffad6eac691df74b27c4e7eda4f1f30f1fcc4e84",
+      "status": "pass",
+      "finding": "报刊整篇资讯vs只看仓位价，实际资金日程不等已付、黄金入账过程条件、银货币与采购股息币种/托拉单位，日报日期和官方截止区别。全部证券分类与非固定高等级、招标高价格非高收益、分期/付息折让实际成本、收盘估计非可执行均准确。",
+      "body_han": 2706
+    },
+    {
+      "chapter": 14,
+      "complete_source_and_dossier_actually_read_and_compared": true,
+      "source_read_char_ranges": [
+        [
+          0,
+          8923
+        ]
+      ],
+      "source_sha256": "ad31d19c3d28245e7ddf63719342c5c656ce4aed54af155fa950ae8482b1c4c4",
+      "dossier_sha256": "13a28be6b9d5cfdc1ab4bd58f183e427528c0c198cb4a8e2d8cee7ccd07aef4b",
+      "status": "pass",
+      "finding": "十亿全体系存款vs约25m末端reserve不误算单行cashratio；三个未实施准备方案、并购/网点正面便利与竞争/地产锁定风险同时保留；指定质押不能全体重复用但健全银行亦采用，Steele具名归属与教育职业规范非实测概率正确。",
+      "body_han": 2253
+    }
+  ],
+  "chapter_body_han": [
+    2358,
+    2689,
+    2520,
+    3226,
+    2308,
+    2740,
+    3205,
+    2483,
+    2840,
+    2244,
+    2385,
+    2704,
+    2706,
+    2253
+  ],
+  "chapter_body_han_total": 36661,
+  "chapter_body_han_minimum": 2244,
+  "han_count_scope": "Only text between 正文开始/正文结束 markers; HanU+3400–4DBF andU+4E00–9FFF; source/header/metadata/synthesis/JSON/advertisements do not pad counts.",
+  "semantic_findings": {
+    "required_corrections": [
+      {
+        "id": "P39-QA-01",
+        "rule_id": "P39-R18",
+        "source": "P39-C07-P038; printed73/PDF85",
+        "issue": "Capital exclusion and49.499% denominator derivation were sensible independent analysis but originally included in source_book_semantic_paraphrase author_meaning without separation.",
+        "confirmed_fix": "Author_meaning now only original ordinary-bank Cash+Balance/public-liabilities average15% versus BoECash/liabilities average50% with different objects; capital+Rest18,293,209 and24,442,214/49,379,106=49.499% explicitly independent_analysis. Boundary prohibits modern threshold adoption.",
+        "status": "fixed_verified",
+        "expert_definition_sha256_after_fix": "395e577d50dcf46ae3060ea02f8db5db011fa9d1840040eef814646b07cd2161",
+        "chapter7_dossier_unchanged": true
+      }
+    ],
+    "additional_substantive_misreadings_found": [],
+    "internal_tensions_preserved": [
+      "1847 permission reassured without excess issuance;1857 used authority;1866 calmer panic did not end losses.",
+      "Nominal solvency differs from immediately available assets; listed liquid assets later qualified by crisis-realization limits.",
+      "Same OtherDeposits rise can coincide with lower rates in ordinary time and higher rates in fear; seasonal/state conditions remain.",
+      "Bank-count decline can coexist with office growth; mergers change aggregate deposit scope.",
+      "Short loan label may fail precisely when stock collateral cannot sell or rollover; named credit and security classes insufficient.",
+      "Theory gold points can fail due to ability to obtain/export metal, not simply currency arithmetic.",
+      "Tritton new paidup-capital goldfund andCole deposit-to-equity transfer argument retained as quoted opponents; nation gold stock vs individual bank financing separated.",
+      "Competition/branches provide service but can lock assets and concentrate exposures; exclusive collateral helps designated depositors yet restricts general assets."
+    ],
+    "modern_interpretation_separation": "No author-defined contemporary REGIME thresholds, OBV/CMF=actualflows, live-price guarantees, current-stock signals, returns probabilities, author-personality impersonation, or actual model execution inferred.",
+    "source_limit_disclosure_update": {
+      "confirmed_read": true,
+      "addition": "Additional original scan publisher catalogue99,462availableOCRcharacters,25→28gapmissing26/27 and28/29duplicate; not missingauthor14chapters/appendix/index.",
+      "status": "verified",
+      "synthesis_sha256": "c22e33c74c89c6635246b0fe6db46c1b9fba01b4e7b29042034158302a2a6e69"
+    }
+  },
+  "numeric_and_hash_checks": {
+    "ch01_source_still_matches_actual_read": true,
+    "ch01_dossier_still_matches_actual_read": true,
+    "ch02_source_still_matches_actual_read": true,
+    "ch02_dossier_still_matches_actual_read": true,
+    "ch03_source_still_matches_actual_read": true,
+    "ch03_dossier_still_matches_actual_read": true,
+    "ch04_source_still_matches_actual_read": true,
+    "ch04_dossier_still_matches_actual_read": true,
+    "ch05_source_still_matches_actual_read": true,
+    "ch05_dossier_still_matches_actual_read": true,
+    "ch06_source_still_matches_actual_read": true,
+    "ch06_dossier_still_matches_actual_read": true,
+    "ch07_source_still_matches_actual_read": true,
+    "ch07_dossier_still_matches_actual_read": true,
+    "ch08_source_still_matches_actual_read": true,
+    "ch08_dossier_still_matches_actual_read": true,
+    "ch09_source_still_matches_actual_read": true,
+    "ch09_dossier_still_matches_actual_read": true,
+    "ch10_source_still_matches_actual_read": true,
+    "ch10_dossier_still_matches_actual_read": true,
+    "ch11_source_still_matches_actual_read": true,
+    "ch11_dossier_still_matches_actual_read": true,
+    "ch12_source_still_matches_actual_read": true,
+    "ch12_dossier_still_matches_actual_read": true,
+    "ch13_source_still_matches_actual_read": true,
+    "ch13_dossier_still_matches_actual_read": true,
+    "ch14_source_still_matches_actual_read": true,
+    "ch14_dossier_still_matches_actual_read": true,
+    "all14_counts_match_audit": true,
+    "all_chapters_min2000": true,
+    "total_min20000": true,
+    "1844_issue_table_sums": true,
+    "1844_banking_table_sums": true,
+    "1903_issue_table_sums": true,
+    "1903_banking_table_sums": true,
+    "1892_aggregate_ratios": true,
+    "1902_aggregate_ratios": true,
+    "nine_bank_means": true,
+    "nine_liquid_subtotals": true,
+    "appendix_all10_ratios": true,
+    "postal_trustee_addition": true,
+    "15million_cost": true,
+    "cole_hypothesis": true,
+    "gold_standard_display_precision": true,
+    "arbitrage_gross": true,
+    "long_bill_net": true,
+    "all46_rule_source_sha_match": true,
+    "all46_original_HTML_evidence_pages_match": true,
+    "all46_unique_rule_ids": true,
+    "one_book_expert": true,
+    "no_calibrated_probability_live_direction_or_invocation": true,
+    "R18_author_and_independent_derivation_separated": true
+  },
+  "mechanical_passed": 52,
+  "mechanical_failed": 0,
+  "independent_numeric_results": {
+    "four_accounts": {
+      "1844_issue": {
+        "liabilities_sum": 28351295,
+        "assets_sum": 28351295
+      },
+      "1844_banking": {
+        "liabilities_sum": 31423240,
+        "assets_sum": 31423240
+      },
+      "1903_issue": {
+        "liabilities_sum": 51831835,
+        "assets_sum": 51831835
+      },
+      "1903_banking": {
+        "liabilities_sum": 67672315,
+        "assets_sum": 67672315
+      }
+    },
+    "aggregate_bank_ratios": {
+      "1892": [
+        23.67758186397985,
+        23.929471032745592,
+        71.28463476070529,
+        118.89168765743072
+      ],
+      "1902": [
+        27.500000000000004,
+        21.833333333333332,
+        64.5,
+        113.83333333333334
+      ]
+    },
+    "anonymous_nine_bank_means": [
+      15.366666666666667,
+      12.488888888888889,
+      21.299999999999997,
+      49.15555555555556,
+      61.666666666666664,
+      110.88888888888889
+    ],
+    "appendix_ratios": [
+      2.0719178082191783,
+      3.5763792625450512,
+      3.7628995721117544,
+      4.337470226902345,
+      3.074473297403234,
+      2.731718955028033,
+      2.4387438168641435,
+      2.4055755395683454,
+      2.7075779754532148,
+      2.672934409910408
+    ]
+  },
+  "rule_review_ids": [
+    "P39-R01",
+    "P39-R02",
+    "P39-R03",
+    "P39-R04",
+    "P39-R05",
+    "P39-R06",
+    "P39-R07",
+    "P39-R08",
+    "P39-R09",
+    "P39-R10",
+    "P39-R11",
+    "P39-R12",
+    "P39-R13",
+    "P39-R14",
+    "P39-R15",
+    "P39-R16",
+    "P39-R17",
+    "P39-R18",
+    "P39-R19",
+    "P39-R20",
+    "P39-R21",
+    "P39-R22",
+    "P39-R23",
+    "P39-R24",
+    "P39-R25",
+    "P39-R26",
+    "P39-R27",
+    "P39-R28",
+    "P39-R29",
+    "P39-R30",
+    "P39-R31",
+    "P39-R32",
+    "P39-R33",
+    "P39-R34",
+    "P39-R35",
+    "P39-R36",
+    "P39-R37",
+    "P39-R38",
+    "P39-R39",
+    "P39-R40",
+    "P39-R41",
+    "P39-R42",
+    "P39-R43",
+    "P39-R44",
+    "P39-R45",
+    "P39-R46"
+  ],
+  "rule_anchor_detail_file": "P39-rule-anchor-mechanical.json",
+  "visual_source_review": {
+    "contact_sheets_independently_inspected": [
+      "root_team/P39/scan-version-contact.jpg",
+      "root_team/P39/scan-tables-contact.jpg",
+      "root_team/P39/scan-critical-contact.jpg"
+    ],
+    "original_table86_individually_inspected": "root_team/P39/scan-table86.png",
+    "extra_catalogue_original_pages_individually_rendered_and_viewed": [
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223
+    ],
+    "new_images": [
+      "P39-catalogue-check-217.png",
+      "P39-catalogue-check-218.png",
+      "P39-catalogue-check-219.png",
+      "P39-catalogue-check-220.png",
+      "P39-catalogue-check-221.png",
+      "P39-catalogue-check-222.png",
+      "P39-catalogue-check-223.png"
+    ],
+    "contact_sheet_is_not_all_page_glyph_proofreading": true,
+    "scan_numeric_identity_observations": [
+      "PDF9–10 F.Straker thirdedition/1920 with first1904/second1911.",
+      "PDF35 legalfootnote1 and106 anonymous-table meanfootnote2 in original in-chapter positions.",
+      "PDF44/45/69 bank accounts; PDF98 original table86 confirms2326/4146 and1892/1902.",
+      "PDF138–141 oldgoldpoints and PDF147 quotedNewYork£10 footnote directly visible.",
+      "PDF183 tenrow national reserve table, PDF186 Tritton/Cole separate quoted speech.",
+      "PDF217 catalogue25 followed218/219=28/29 and220/221=28/29 repeated,222/223=30/31; no hiddenauthorchapters aftercorebook."
+    ]
+  },
+  "unresolved_source_limits": [
+    "PG explicitly moved opening business-series ad and silently corrected typographic errors; do not claim all source glyphs equal exact scan.",
+    "Original extra publisher catalogue lacks printed26/27 and duplicates28/29; availableOCRread, missingoriginalwords not invented. These are publisher advertisements, not missing14authorchapters.",
+    "Capital+Rest in table18.293209m versus textabout17.5m remains, with minimumRest explanation only possible, not original declared basis.",
+    "Ch08 offices1891/2336,1901/4146 versus table1892/2326,1902/4146 and47.5m/48m capitalapproximation remain unreconciled without original statistical groundwork.",
+    "Ch09 all anonymous banks and approximate column means not all reproducible by same rounding; no bank-identification or weighted averages invented.",
+    "Ch12 NewYorkDemand footnote£10 versus prose pence/dollar not silently normalized; legacygoldpoints and approximate returns not current executable quotes.",
+    "Appendix national-liability denominator changes in1872 vs1894 onward; ratio discrepancies and45% hypothetical versus46.6% statedaverage preserved.",
+    "Underlying original laws, every crisis account, Clare/Palgrave/Bagehot citedwholebooks, historical testimony and exact economic causal counterfactuals not independently whole-read or externally proved."
+  ],
+  "artifact_hashes_at_review": {
+    "original.txt": "c23677f2071cf4feee1fc86fc09e7d3eeecd9a8f027edf53a58cb6a6c73766a2",
+    "original.html": "efa2ec0d8ad9af28f97a1123852081f772dbda3730ba527fa0f2df1e7d50b927",
+    "original-1920.pdf": "128b3fcc95e3d6797bc2dea9270ea0addd4c093b0cdc97750cd191d8cf4df454",
+    "source-paragraphs.json": "a4fe85b7871fe23a0bc88c9c522fea52c338607af8d1a86a5674b25f5096d36c",
+    "front-matter.txt": "fd02b376df24a9321e7b5f610f5f95658f470c9b7ca88c30002edd58e871a2fb",
+    "post-chapter-matter.txt": "98c36a37b147a1de7a8ee0deead9bed25da86e92af4e436685ce6ecaf7bff75c",
+    "pg-license.txt": "f8c6ad122b9409037f93d7e306e670781f9c489da5f8407caf10b9181cd573b6",
+    "scan-extra-catalogue.txt": "b519a2f64416c52c62d2a256012f33dfe1d8a2c649882c4b31c8a4364f83b66b",
+    "expert-definition.json": "395e577d50dcf46ae3060ea02f8db5db011fa9d1840040eef814646b07cd2161",
+    "专家说明.md": "0ff6648b15396190320e1eab3a986c1b90c2773f88838d9f090ca72d1f4dd916",
+    "全书综合与附录.md": "c22e33c74c89c6635246b0fe6db46c1b9fba01b4e7b29042034158302a2a6e69",
+    "reading-audit.json": "ee4301b0462d36a4522b766c77022266e34708184069cfededcd507e9c48402b",
+    "source-plan.json": "a257398a727066e82f25e3f9ea53ac803275ecf416a63505db23c98a29006374",
+    "self-validation.json": "b8510934d20f38104138ed43bbf330329b9d52bb1c79c820522d433021b833dc"
+  },
+  "review_progress_file": "P39-QA-progress.json",
+  "metadata_update_policy": "Review hashes freeze the inspected version. Subsequent author additions of QA references/status or source-limit disclosure can be logged as metadata-only; any source/chapter/rule-meaning edits require semantic recheck. No reciprocal audit/QA hash cycle.",
+  "scope_conclusion": "Qualified complete author-book source/dossier semantic QA passed after the single rule-attribution correction; this does not assert all original scan words, other advertised/citedbooks, model calls, live predictions, or40book completion."
+}

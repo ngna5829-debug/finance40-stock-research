@@ -1,0 +1,318 @@
+{
+  "book_id": "P36",
+  "status": "whole_independent_semantic_read_complete_required_corrections_pending",
+  "findings": [
+    {
+      "id": "P36-root-A01",
+      "file": "ch01.md",
+      "old": "按四分之一个百分点佣金",
+      "new": "按百分之零点二五佣金",
+      "reason": "0.25% fee rate, not a percentage-point change."
+    },
+    {
+      "id": "P36-root-A02",
+      "file": "ch01.md",
+      "old": "若百股用一元点margin投入一百",
+      "new": "若百股用每股一美元保证金投入一百美元",
+      "reason": "Original one-point margin in USD quotation; explicit currency and base."
+    },
+    {
+      "id": "P36-root-A03",
+      "file": "ch01.md",
+      "old": "二万赚五千是二十五个百分点本金回报的条件例",
+      "new": "二万美元赚五千美元是本金回报百分之二十五的条件例",
+      "reason": "Original one-year conditional return level, not pp change or unspecified yuan."
+    },
+    {
+      "id": "P36-root-A04",
+      "file": "ch01.md",
+      "old": "更不把二十五年回报当作者给读者的现实目标或承诺",
+      "new": "更不把这项百分之二十五的年度回报例当作者给读者的现实目标或承诺",
+      "reason": "Old wording incorrectly says twenty-five years; original one-year example."
+    },
+    {
+      "id": "P36-root-A05",
+      "file": "ch03.md",
+      "old": "独立算一点五价格因子之逆二分之三正确",
+      "new": "独立算一点五价格因子之逆为三分之二正确",
+      "reason": "1/1.5=2/3; old Chinese inverse fraction was 3/2."
+    },
+    {
+      "id": "P36-root-A06",
+      "rule_id": "P36-R04",
+      "field": "author_meaning",
+      "old": "Sugar预知二十点下跌假设和1万元资本例，多数亏、最大发迹者欠谨慎；反速富和不够margin。",
+      "new": "作者让参与者各用一万美元假设资本，预知糖股在重回首个报价前会下跌二十点；两人试图加倍交易而赔尽，第三人在开头卖最大数量并在终点平仓，作者说这种做法不公平、未证明其论点。他反对速富和忽略安全缓冲。",
+      "reason": "Third participant described as unfair, not becoming rich while lacking prudence. Keep hypothetical and currency."
+    },
+    {
+      "id": "P36-root-A07",
+      "rule_id": "P36-R12",
+      "field": "author_meaning",
+      "old": "Holt十三债1896到1906均跌逾28点，原列率与13×5格，并脚注Consols2.75及Midland3旧息。",
+      "new": "Holt所引十三种债券从一八九六至一九〇六年的平均报价下降超过二十八点；表列各债票息与四期报价，脚注记Consols原票息百分之二点七五、Midland原票息百分之三。",
+      "reason": "Average decline over28 points; individual declines differ, e.g. Canada8.75, not each bond >28."
+    },
+    {
+      "file": "ch03.md",
+      "old": "十年收入后不到一厘",
+      "new": "十年收入后不到百分之一",
+      "reason": "Holt states less than1%; avoid ambiguous Chinese li unit.",
+      "id": "P36-root-A08"
+    },
+    {
+      "file": "ch04.md",
+      "old": "低call两厘，股票收益六厘，作者说去投机则四厘优势",
+      "new": "即期借款名义年利率百分之二、股票收益率百分之六，作者在排除价格投机的比较里称有四个百分点的率差优势",
+      "reason": "2% versus6% rate levels,4pp spread; not ambiguous li or equity return.",
+      "id": "P36-root-A09"
+    },
+    {
+      "rule_id": "P36-R19",
+      "field": "author_meaning",
+      "old": "Conant和Burton引文指出loan生成credit/deposits，贷款涨金不相增或减是危险；繁荣期表最坏可在股价高时。",
+      "new": "本章借Burton引文解释贷款所得可记为存款信用；贷款贴现增加而现金未相应增或减少，作者认为是坏状况，即使存款看似相应增加。最差的银行状况也可能与商业繁荣同现。",
+      "reason": "ChapterIV quoted Burton, not Conant. Conant excerpt appears inVII on a different subject.",
+      "id": "P36-root-A10"
+    },
+    {
+      "rule_id": "P36-R23",
+      "field": "author_meaning",
+      "old": "总统年度稀少不足规则，议题的重要性才关键，钢铁关税变可能冲高capitalized公司。",
+      "new": "作者说总统选举的实例太少，不能按过去价格规律机械交易；应逐项考察议题的性质和重要性。他认为降低当时铁钢关税会使许多钢铁制造企业普通股价值大降，甚至消失。",
+      "reason": "Original does not restrict steel tariff claim to highly capitalized firms; keep strong conditional claim.",
+      "id": "P36-root-A11"
+    },
+    {
+      "rule_id": "P36-R24",
+      "field": "author_meaning",
+      "old": "估计有误，正常crop随人口与财富成长，rail来回tonnage与passengers受短crop；库存财富可在却新损不能挥掉。",
+      "new": "本章说收成预估会有误、编制后条件也会变化；正常收成应逐年增加，铁路扩线与增设施需要更多货运。歉收会减少运出农品、运回商品及客运，旧库存或高价不能抹去新产出的损失。",
+      "reason": "ChapterV says normal growth and railway requirements, not explicit population-and-wealth causation;VII separately discusses population.",
+      "id": "P36-root-A12"
+    },
+    {
+      "rule_id": "P36-R25",
+      "field": "author_meaning",
+      "old": "作者前书论事故如陨石，若soundbasis就少fear，不能预先算事故。",
+      "new": "作者说前一本书已讨论事故，本章认为它们常是价格运动的借口而非原因；坏的技术或一般状况中小坏事也会引起恐慌，基础稳时即使旧金山地震也只造成暂时停顿，正确投机者少有惧怕。",
+      "reason": "Meteor analogy not reproduced in this chapter; do not invent content from unread prior work. Keep strong actual claims.",
+      "id": "P36-root-A13"
+    },
+    {
+      "rule_id": "P36-R06",
+      "field": "author_meaning",
+      "old": "好利润/dividend/crops均可能是真的，当前好不说明未来；操纵高形态是制造公众对真实现象的错误归因。",
+      "new": "作者说内幕卖出时，铁路和生产企业可以报告眼前的大业务、提高股息，名人也可表达信心，主要说的是当前或近未来的真情；卖者却可能预期更远的变化而保持沉默，眼前乐观不能代替未来判断。",
+      "reason": "ChapterII specifies business/dividends/confidence and withheld remote prospects, not a crop report in this passage.",
+      "id": "P36-root-A14"
+    },
+    {
+      "rule_id": "P36-R26",
+      "field": "author_meaning",
+      "old": "call/put保险类比，40股100份call43费100，50有700gross；put37到30同700。",
+      "new": "作者以保险比喻买卖特权：股票每股四十美元，买一份覆盖一百股、十日内按四十三美元购买的call，权利金一百美元；市价到五十时有七百美元毛差。put行使价三十七、市价到三十时也有七百美元毛差，均须扣权利金和经纪费。",
+      "reason": "Original100shares atUSD40, not40shares or100contracts; distinguish quotation and covered quantity.",
+      "id": "P36-root-A15"
+    },
+    {
+      "rule_id": "P36-R27",
+      "field": "author_meaning",
+      "old": "股35/36配put37可保护gross；37买50配100put两端40或34各gross150；straddle250对100面额40。",
+      "new": "作者举持三十七美元put而在三十六美元买百股的例，称可弥补一百美元权利金；又举在三十七买五十股、配百股put，到四十或三十四各有一百五十美元毛差。股价四十、覆盖一百股、总权利金二百五十美元的straddle，原称涨过四十二点五或跌过三十七点五才有收益。",
+      "reason": "Original buying illustration36, not35;USD40 is market price, not face value.",
+      "id": "P36-root-A16"
+    },
+    {
+      "rule_id": "P36-R28",
+      "field": "author_meaning",
+      "old": "旧例2%face100=$2，call43可41、put37可35；Chicago1000bushel一分差10扣1为9。",
+      "new": "原书的旧股息例写支付百分之二股息时，call四十三改按四十一、put三十七改按三十五；它的算术使用每股两美元，但没有单独说明面值基准。芝加哥谷物例一千蒲式耳的行使价与市价差一美分，毛差十美元，须扣一美元权利金及经纪费。",
+      "reason": "Face100 is inferred from arithmetic, not stated in the original paragraph; keep brokerage deduction.",
+      "id": "P36-root-A17"
+    },
+    {
+      "rule_id": "P36-R29",
+      "field": "author_meaning",
+      "old": "旧grain近2年样本，买家取回付费35%，卖家一法日日200随1cent亏1000，另一法净6000库存最多10kbushels，偏爱writer。",
+      "new": "作者记谷物特权近两年样本，买方收回约付费金额的百分之三十五。卖方一例每日收二百美元，逆向一美分时损一千美元再减已收二百；另一例年收约六千美元权利金，另有交易利润或减少损失，作者称多空库存不超过一万蒲式耳。他偏好卖方。",
+      "reason": "USD6000 annual premium receipts, not net profit; distinguish gross loss and premium offset.",
+      "id": "P36-root-A18"
+    },
+    {
+      "rule_id": "P36-R30",
+      "field": "author_meaning",
+      "old": "writer需verylargecapital与特殊知识，曾对Sage/Partridge模式找反用后不能每年获利；建议特权仅当适合的辅助。",
+      "new": "作者举Sage与Partridge卖特权获利，称Partridge的操纵方法仅奏效几次、被识破后失败。他明确主张如交易特权应卖不买，末段又说如保险经营者一样，须了解业务与风险，并有足够资本承受可能的初始亏损。",
+      "reason": "Sufficient capital, not very large; failure concerns described manipulative method, not every-year writing profits. Restore sell-not-buy claim, not invented auxiliary recommendation.",
+      "id": "P36-root-A19"
+    },
+    {
+      "file": "ch06.md",
+      "old": "这里隐含旧面值百美元二个百分点即两美元的习惯，不是现市四十的二成或二厘计算",
+      "new": "独立理解该算术，若按一百美元面值为基准，百分之二是两美元；原段没有单独说明面值。这不能解释为按四十美元市价计算百分之二，即零点八美元",
+      "reason": "Rate level not percentage-point change; face basis is an explicit inference.",
+      "id": "P36-root-A20"
+    },
+    {
+      "file": "ch07.md",
+      "old": "长期在面额价空六厘股，年底仍面额，已经损六厘而无逆价",
+      "new": "以面额价卖空年股息率百分之六的股票，年底仍是面额价，已承担相当于初始市值百分之六的股息负担而未遇不利价变",
+      "reason": "Original6% annual dividend/cost in par-price example; avoid ambiguous li.",
+      "id": "P36-root-A21"
+    },
+    {
+      "file": "ch07.md",
+      "old": "90多bulltalk加息而前高买者平均",
+      "new": "90层有许多看涨言论、提高股息，前高买者继续摊低成本",
+      "reason": "Dividend increases in original diagram, not monetary interest-rate hikes.",
+      "id": "P36-root-A22"
+    },
+    {
+      "file": "ch07.md",
+      "old": "少25%deposit164,600需求便多41,150",
+      "new": "总存款增加十六万四千六百美元，按百分之二十五的准备比例，所需准备增加四万一千一百五十美元",
+      "reason": "Source shows deposits increase, not decrease; specify base and USD.",
+      "id": "P36-root-A23"
+    },
+    {
+      "file": "ch07.md",
+      "old": "二是股息只维不升，rumour加息未实如减息，投机者很敏，此与二章卖时可加息营现好并非一面永久利好。",
+      "new": "二是股息只维持而未提高，传闻提高股息未获证实被作者说成几乎相当于削减股息，投机者对此很敏感；第II章卖出时可通过提高股息表现当前乐观，也不构成永久利好。",
+      "reason": "Dividends, not monetary interest rates. Keep almost-as-bad qualifier.",
+      "id": "P36-root-A24"
+    },
+    {
+      "rule_id": "P36-R20",
+      "field": "author_meaning",
+      "old": "surplus近无可抛股却也可能现金大量进；高call/召贷可迫卖，2%借与6%yield差4%诱人。",
+      "new": "作者说盈余准备接近耗尽提示可能须收回即期贷款；高即期利率和召回贷款会引起尖锐市价运动、迫使卖股。他以即期借款年利率百分之二和股票收益率百分之六，说明不计价格变化时四个百分点的率差吸引力。",
+      "reason": "Do not add an unprovided large-cash-inflow claim to ChapterIV; retain actual reserve/recall mechanism and rate denominator.",
+      "id": "P36-root-A25"
+    },
+    {
+      "rule_id": "P36-R20",
+      "field": "independent_analysis",
+      "old": "4点spread非杠杆净利润，需每基数税费借期与股息；reserve小不是必然panic，现金更来是作者反例。",
+      "new": "四个百分点的两种名义率差不等于自有本金的杠杆净回报，要核证券收入和借款各自基数、期限、税费与实际股息。准备减少并非已经证明恐慌必发生，也没有给出短期必然股价路径。",
+      "reason": "Separate rate spread from equity return and remove incorrectly attributed author cash-inflow counterexample.",
+      "id": "P36-root-A26"
+    },
+    {
+      "rule_id": "P36-R33",
+      "field": "counterexample_or_limit",
+      "old": "大盘可以分化，工业绝对点少但相对跌更；未来不必重演。",
+      "new": "市场可以分化，绝对跌额和相对跌幅须分别核起价；原两组一九〇一至一九〇三高低表中，工业绝对跌额与相对降幅都更大，未来不必重演这一差距。",
+      "reason": "Original four-group peak/trough tables give industrial51.2125 versus rail47.8875 points; industrial is not smaller here.",
+      "id": "P36-root-A27"
+    },
+    {
+      "rule_id": "P36-R37",
+      "field": "author_meaning",
+      "old": "已完成下降图用以说与maintrend站同边卖可比逆买容易，图用于展历史非独立trading基础。",
+      "new": "在预设从高价走到低价的完整下降图里，作者说买者买错点会在全段无出路，卖者不能犯错、任何卖点前都有利润；这是图内的强断言。他另区别展示过去、促使研究的图与直接依图交易。",
+      "reason": "Restore cannot-make-a-mistake author claim, while keeping given-path scope; independent caveats remain separate.",
+      "id": "P36-root-A28"
+    },
+    {
+      "rule_id": "P36-R38",
+      "field": "author_meaning",
+      "old": "Burton引商品到地产涨、企业扩张、贷款需求/率、雇工工资、挥霍、投机欺诈、discount/loans大扩和物价/贸易失衡。",
+      "new": "Burton引文列七类前兆，部分同时、分先后时也仅大致如此：特殊及一般商品、地产涨价；旧企业活跃、新项目把流通资本转固定资本；贷款需求和利率稍升；广泛就业、工资上升或维持；公私支出奢靡；投机热伴不诚实和投资者轻信；贴现贷款大扩、利率和工资大升、罢工及招工困难。",
+      "reason": "Seventh indication is discounts/loans/rates/wages/strikes/labor shortage, not an added trade imbalance.",
+      "id": "P36-root-A29"
+    },
+    {
+      "rule_id": "P36-R39",
+      "field": "author_meaning",
+      "old": "上下摆动图描公众/insiders信心与持仓、65normal及20–100刻度，75%generalbuying在高带。",
+      "new": "上下摆动示意图描述公众、专业者与内人的态度及买卖，列二十、三十、四十五、六十五、八十、九十、一百等价层；normal value另置于八十与六十五标示之间，没有给其确切数值。上行高带写百分之七十五的一般买入在那里发生。",
+      "reason": "Native PDF117/118 labels normal value separately between80and65; not normal=65 or a calibrated indicator.",
+      "id": "P36-root-A30"
+    },
+    {
+      "rule_id": "P36-R45",
+      "field": "author_meaning",
+      "old": "Moody引廉价无效/无益股捕获无助小买者，把投资价值置于price诱惑前。",
+      "new": "Moody引文说诱饵使轻信者及谨慎聪明者也会受骗，认为许多损失主要应归投资者自己；他称十例错误中九例是为稍高收益购买折价证券，强调财产不能支付超过其生产能力的收入，并举债券大折扣、销售佣金、掺水股及薄利农场例。",
+      "reason": "Faithful quoted production/income constraint and denominator; not invented useless-stock/helpless-investor characterization.",
+      "id": "P36-root-A31"
+    },
+    {
+      "rule_id": "P36-R45",
+      "field": "independent_analysis",
+      "old": "九成受害是原主张无完整调查；名义低价不等低价值价格比，无完整被引书。",
+      "new": "九成针对引文所说错误案例中的折价证券购买，不能当九成公众受害或受骗概率；原章未附完整调查。名义低报价不等于价格低于可靠价值，只读了本书所引Moody段落。",
+      "reason": "Denominator is mistakes in nine cases out of ten, not victim share of the public.",
+      "id": "P36-root-A32"
+    },
+    {
+      "rule_id": "P36-R46",
+      "field": "author_meaning",
+      "old": "Smith成员周平均/nonmemberMonday当前，coin与legaltender表列不同；25%national/15%state而summary25两者，1902government豁免后另分母，准备来源有好坏例外。",
+      "new": "Smith说明纽约会员合表周六公布截至且含周五的一周平均，非会员表周一公布同一截至周五的平均；specie与legal tenders有专门统计定义。纽约国民银行法定准备百分之二十五、州银行百分之十五，但合表两者均按二十五计算；一九〇二政府存款豁免改变另表分母，准备变化还要看现金、贷款、需求及责任来源。",
+      "reason": "Monday release is still prior-Friday weekly average, not a current balance; legal and tabulation ratios differ.",
+      "id": "P36-root-A33"
+    },
+    {
+      "rule_id": "P36-R46",
+      "field": "independent_analysis",
+      "old": "旧监管非今法；874647900vs874674900差27000、delta200、circulation200、原surplus1685700vsPG11685700都保留；cash增加好而idle过量/loan缩坏有条件。",
+      "new": "旧监管不能当现行法律；贷款两表差二万七千、贷款及流通变动各二百、原盈余一百六十八万五千七百与转录一千一百六十八万五千七百均保留。现金增加、催回贷款降低存款要求、闲置积款与需求变化须分别判断，不能把任一项无条件判好坏。",
+      "reason": "Original compares cash-driven surplus improvement with loan-calling denominator relief; it does not define every loan contraction as bad.",
+      "id": "P36-root-A34"
+    },
+    {
+      "rule_id": "P36-R52",
+      "field": "independent_analysis",
+      "old": "原price6.50中点实6.56，corn31.5vsgrain32，10697000比先前normal10500000高非littlebelow；spot仅稍异无实证，未给1906–07截至。",
+      "new": "原中点六点五〇与按高低算六点五六不同，玉米三十一点五与另一表三十二不同，一千零六十九万七千高于先前正常参考一千零五十万。原文说所标年八月底结束又举一八九六表示九六至九七季，日期口径须保歧义；现货仅稍异未附表，末季截止也未明。",
+      "reason": "Preserve literal season/end-year wording conflict; do not silently choose an exact timestamp.",
+      "id": "P36-root-A35"
+    },
+    {
+      "file": "全书综合与附录.md",
+      "old": "他偏卖方但要求很大资本和特殊知识，且讲被对手识别后不再每年赚钱的反例。",
+      "new": "他主张如交易特权应卖不买，但要求了解业务及风险、有足够资本应付可能的初始亏损；Partridge的操纵办法被识破后不能继续奏效。",
+      "reason": "Match actual ChapterVI and correctedR30; sufficient capital and a specific failed manipulation method, not annual seller failure or invented huge-capital threshold.",
+      "id": "P36-root-A36"
+    },
+    {
+      "file": "全书综合与附录.md",
+      "old": "Moody-Sargent Press印记已看",
+      "new": "Moody-Barton Press印记已看",
+      "reason": "Native PDF6 and suppliedPGfront both read THE MOODY-BARTON PRESS, not Sargent.",
+      "id": "P36-root-A37"
+    },
+    {
+      "scope": "count_method",
+      "reason": "Exclude four Han characters in inline source-link label OIC企业行动FAQ; headings and other source metadata remain excluded. Recompute after corrections, do not carry37941.",
+      "id": "P36-root-A38"
+    },
+    {
+      "scope": "precise_original_evidence",
+      "reason": "Old396 support records mix globalTXTlines with chapter-file paths. Preserve navigation, add complete original rawCRLF paragraph contexts with actual Unicode/byte/line/SHA and57 full continuous chapter contexts; no everyglyph/OCR-page assertion.",
+      "id": "P36-root-A39"
+    },
+    {
+      "scope": "source_quote_voices",
+      "reason": "Distinguish Gibson own prose and dated letters/articles, Holt and nested Selwyn-Brown, Snyder, Burton, Conant, Smith, Moody and multi-author ChapterII citations. Only reproduced passages, no underlying entire works claimed read.",
+      "id": "P36-root-A40"
+    },
+    {
+      "scope": "primary_transcription_variant",
+      "reason": "SuppliedPGTXT/HTML has in standard format in the wheat-average paragraph, absent original PDF150/p146. Raw digital and scan files remain unchanged; mark transcription wording, not original author wording or parser loss.",
+      "id": "P36-root-A41"
+    },
+    {
+      "scope": "currency_convention",
+      "reason": "Outside counted body, make explicit that stock/capital monetary yuan/point examples refer to original USD/per-share quotes; grain/ cotton retain specifically stated cents/unit; no renminbi conversion or current quote implication.",
+      "id": "P36-root-A42"
+    }
+  ],
+  "original_expert_sha256": "f0c86e0ef481a780f5ddec47e218a141683c2636f9d8478e05f3557f1d1e898b",
+  "original_audit_sha256": "e1ae0d90910cd121265be44d9be4d01a96d8f8a7eb2ae9c2c5bb1f16245e6c48",
+  "all7original_and7dossiers_and57rule_semantics_actually_read": true,
+  "canonical_modified": false,
+  "updated_utc": "2026-10-13T17:14:47.002771+00:00"
+}

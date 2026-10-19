@@ -1,0 +1,80 @@
+{
+  "book_id": "P33",
+  "title": "Elements of Foreign Exchange: A Foreign Exchange Primer",
+  "author": "Franklin Escher",
+  "edition": "1915FifthEdition;copyright1910",
+  "verified_local_date": "2026-10-13",
+  "rights": "OfficialPGcatalogue publicdomainUSA; fullPGlicense retained; notworldwidelegalclaim",
+  "catalogue_URL": "https://www.gutenberg.org/ebooks/29364",
+  "selected_PDF_complete": true,
+  "selected_PDF_pages": 208,
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "sha256": "938a9a485314fd0f9a0ebbe88da8923b124738c39e05d30a338a20b688838649",
+      "url": "https://www.gutenberg.org/cache/epub/29364/pg29364.txt",
+      "scope": "PG full downloaded file, knownlastsentence cut-off; rawpreserved"
+    },
+    {
+      "file": "source/original.html",
+      "sha256": "9989932db8da469949304b3d3be2c071cdb234f96ad7f01fc00383e0bbecf292",
+      "url": "https://www.gutenberg.org/cache/epub/29364/pg29364-images.html",
+      "scope": "PG sameeditionHTML, no printedpage anchors; rawpreserved"
+    },
+    {
+      "file": "source/original-1915.pdf",
+      "sha256": "adadaed2550f1abf3d0e253c656f4d49604aa6743ca7465913b1a266ac4973f7",
+      "url": "https://archive.org/download/elementsofforeig00eschuoft/elementsofforeig00eschuoft.pdf",
+      "scope": "208pageRobarts1915scan, complete main160pages plus32publishercatalogue"
+    },
+    {
+      "file": "source/PG-ending-supplement.txt",
+      "sha256": "d38a488ef1a95dee1dbfad8f5e0e05a4143587691f83e32079d8e063b49c7572",
+      "url": "original-1915.pdf#page=172",
+      "scope": "visuallyconfirmedmissinglastwordsandsentence"
+    },
+    {
+      "file": "source/publisher-catalogue-OCR.txt",
+      "sha256": "0b27f557b6c04969b6a2718af3fd85865a7243254dbff1de55149f2e81c033b6",
+      "url": "original-1915.pdf#page=173",
+      "scope": "all32pagesavailableOCR sequentialread; nototherbookscomplete"
+    }
+  ],
+  "reading_status": "all9originalchapterdigitaltext_semantic_read_plusending_and9forms_andallpublisherOCR_coverage_qualified",
+  "original_scan_every_glyph_proofread": false,
+  "visual_audit": "source-review/scan-checkpoint.json",
+  "form_audit": "source-review/form-visual-audit.json",
+  "unresolved_gaps": [
+    "PGtruncatesending, recoveredfromsameeditionoriginalPDF172 in separatepreservedsupplement.",
+    "Somehandwritingidentity/pence/signatureglyphsremainuncertain; noidentityclaimsorexactamountdatabase.",
+    "Everymainandadscanlinehasnotbeenvisuallycollated; publisherOCRincludesrecognitionerrors.",
+    "NoHTMLprintedpageanchors;rulepreciselocationonlywhereuniqueOCRphrasematches,otherwisechapterrangeandoriginalTXTlines.",
+    "Someoriginalnumbers/rounding/daycount/reduction/a-daymeaningunresolved; keptin numericreview and precise experimentsclosed.",
+    "Oldlaw/goldconvertibility/casehistory/statisticsofunderlyingdatabasesnotall independentlyreverified; currentlawnotclaimed.",
+    "信用证页上方和信托收据记一三〇一，信用证底部附记却为一三一〇；页首日期十月十九日与底部十月九日也不同。样表内这些不一致保留，本次不据此确认真实、统一的交易记录。"
+  ],
+  "independent_semantic_QA_status": "passed_with_source_limits",
+  "independent_form_internal_discrepancy": {
+    "id": "P33-QA-A08",
+    "status": "required_original_form_discrepancy_disclosure",
+    "source_PDF_page": 154,
+    "printed_page": 142,
+    "original_images_actually_viewed": [
+      "source-review/p154.png",
+      "value_team/peer-QA/P33-images/pdf154-footer-highres.png"
+    ],
+    "observation": "Creditformheader CreditNo1301 andOctober19,1909; sameformNBfooter LetterofCreditNo1310 andOctober9,1909. TrustreceiptPDF161No1301; disagreement preserved notsilentlyoneauthenticcontract. Bottom600consistent.",
+    "required_files": [
+      "ch09.md",
+      "全书综合与附录.md",
+      "source-review/form-visual-audit.json",
+      "章节与阅读审计.json"
+    ],
+    "required_addition_zh": "信用证页上方和信托收据记一三〇一，信用证底部附记却为一三一〇；页首日期十月十九日与底部十月九日也不同。样表内这些不一致保留，本次不据此确认真实、统一的交易记录。",
+    "raw_source_must_remain_unchanged": true,
+    "canonical_images": [
+      "source-review/p154.png",
+      "source-review/independent-peer-QA/P33-images/pdf154-footer-highres.png"
+    ]
+  }
+}

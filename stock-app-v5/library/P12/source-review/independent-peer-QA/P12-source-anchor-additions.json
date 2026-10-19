@@ -1,0 +1,271 @@
+{
+  "book_id": "P12",
+  "source_sha256": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+  "old97_evidence_preserved": true,
+  "added_full_original_contexts": 9,
+  "candidate_total_evidence_segments": 106,
+  "exact_original_printed_or_scan_pages_not_obtained": true,
+  "additions": [
+    {
+      "id": "P12-QA-A001",
+      "rule": "P12-R07",
+      "reason": "Existing formal evidence has French drafting and costly alternatives but omits original US military/food/financial power premise named in the original-author rule claim.",
+      "original_proposed_lines": [
+        858,
+        876
+      ],
+      "source_global_lines_inclusive": [
+        858,
+        876
+      ],
+      "source_byte_range_zero_based_half_open": [
+        47801,
+        49121
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        47799,
+        49119
+      ],
+      "source_segment_sha256": "ec608ef0078ec557fbc2b67aa40708bc4d5e80e431a64f77a25f13e29c32e5f7",
+      "source_segment_bytes": 1320,
+      "source_text_including_original_CRLF": "When President Wilson left Washington he enjoyed a prestige and a moral\r\ninfluence throughout the world unequaled in history. His bold and\r\nmeasured words carried to the peoples of Europe above and beyond the\r\nvoices of their own politicians. The enemy peoples trusted him to carry\r\nout the compact he had made with them; and the Allied peoples\r\nacknowledged him not as a victor only but almost as a prophet. In\r\naddition to this moral influence the realities of power were in his\r\nhands. The American armies were at the height of their numbers,\r\ndiscipline, and equipment. Europe was in complete dependence on the food\r\nsupplies of the United States; and financially she was even more\r\nabsolutely at their mercy. Europe not only already owed the United\r\nStates more than she could pay; but only a large measure of further\r\nassistance could save her from starvation and bankruptcy. Never had a\r\nphilosopher held such weapons wherewith to bind the princes of this\r\nworld. How the crowds of the European capitals pressed about the\r\ncarriage of the President! With what curiosity, anxiety, and hope we\r\nsought a glimpse of the features and bearing of the man of destiny who,\r\ncoming from the West, was to bring healing to the wounds of the ancient\r\nparent of his civilization and lay for us the foundations of the future.\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A002",
+      "rule": "P12-R27",
+      "reason": "Full commodity tables needed to document underlying export/import amounts and distinguish regional total; original figures retained.",
+      "original_proposed_lines": [
+        4223,
+        4331
+      ],
+      "source_global_lines_inclusive": [
+        4223,
+        4331
+      ],
+      "source_byte_range_zero_based_half_open": [
+        249243,
+        256413
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        249227,
+        256397
+      ],
+      "source_segment_sha256": "cb1869842ca6243665ced65671164139c8ce30a7f30962ed425aa53f1a79cbd6",
+      "source_segment_bytes": 7170,
+      "source_text_including_original_CRLF": "    -----------------------------------------+---------+---------------\r\n                                             | Amount: | Percentage of\r\n    German Exports, 1913                     | Million | Total Exports\r\n                                             | Dollars |\r\n    -----------------------------------------+---------+---------------\r\n    Iron goods (including tin plates, etc.)  |  330.65 |     13.2\r\n    Machinery and parts (including           |         |\r\n        motor-cars)                          |  187.75 |      7.5\r\n    Coal, coke, and briquettes               |  176.70 |      7.0\r\n    Woolen goods (including raw and          |         |\r\n        combed wool and clothing)            |  147.00 |      5.9\r\n    Cotton goods (including raw cotton,      |         |\r\n        yarn, and thread)                    |  140.75 |      5.6\r\n                                             +---------+---------------\r\n                                             |  982.85 |     39.2\r\n                                             +---------+---------------\r\n    Cereals, etc. (including rye, oats,      |         |\r\n        wheat, hops)                         |  105.90 |      4.1\r\n    Leather and leather goods                |   77.35 |      3.0\r\n    Sugar                                    |   66.00 |      2.6\r\n    Paper, etc.                              |   65.50 |      2.6\r\n    Furs                                     |   58.75 |      2.2\r\n    Electrical goods (installations,         |         |\r\n        machinery, lamps, cables)            |   54.40 |      2.2\r\n    Silk goods                               |   50.50 |      2.0\r\n    Dyes                                     |   48.80 |      1.9\r\n    Copper goods                             |   32.50 |      1.3\r\n    Toys                                     |   25.75 |      1.0\r\n    Rubber and rubber goods                  |   21.35 |      0.9\r\n    Books, maps, and music                   |   18.55 |      0.8\r\n    Potash                                   |   15.90 |      0.6\r\n    Glass                                    |   15.70 |      0.6\r\n    Potassium chloride                       |   14.55 |      0.6\r\n    Pianos, organs, and parts                |   13.85 |      0.6\r\n    Raw zinc                                 |   13.70 |      0.5\r\n    Porcelain                                |   12.65 |      0.5\r\n                                             +---------+---------------\r\n                                             |  711.70 |     67.2\r\n                                             +---------+---------------\r\n    Other goods, unenumerated                |  829.60 |     32.8\r\n                                             +---------+---------------\r\n    Total                                    |2,524.15 |    100.0\r\n    -----------------------------------------+---------+---------------\r\n\r\n    -----------------------------------------+---------+---------------\r\n                                             | Amount: | Percentage of\r\n    German Imports, 1913                     | Million | Total Imports\r\n                                             | Dollars |\r\n    -----------------------------------------+---------+---------------\r\n    I. Raw materials:--                      |         |\r\n          Cotton                             |  151.75 |      5.6\r\n          Hides and skins                    |  124.30 |      4.6\r\n          Wool                               |  118.35 |      4.4\r\n          Copper                             |   83.75 |      3.1\r\n          Coal                               |   68.30 |      2.5\r\n          Timber                             |   58.00 |      2.2\r\n          Iron ore                           |   56.75 |      2.1\r\n          Furs                               |   46.75 |      1.7\r\n          Flax and flaxseed                  |   46.65 |      1.7\r\n          Saltpetre                          |   42.75 |      1.6\r\n          Silk                               |   39.50 |      1.5\r\n          Rubber                             |   36.50 |      1.4\r\n          Jute                               |   23.50 |      0.9\r\n          Petroleum                          |   17.45 |      0.7\r\n          Tin                                |   14.55 |      0.5\r\n          Phosphorus chalk                   |   11.60 |      0.4\r\n          Lubricating oil                    |   11.45 |      0.4\r\n                                             +---------+---------------\r\n                                             |  951.90 |     35.3\r\n                                             +---------+---------------\r\n    II. Food, tobacco, etc.:--               |         |\r\n          Cereals, etc. (wheat, barley,      |         |\r\n              bran, rice, maize, oats, rye,  |         |\r\n              clover)                        |  327.55 |     12.2\r\n          Oil seeds and cake, etc.           |         |\r\n              (including palm kernels, copra,|         |\r\n              cocoa, beans)                  |  102.65 |      3.8\r\n          Cattle, lamb fat, bladders         |   73.10 |      2.8\r\n          Coffee                             |   54.75 |      2.0\r\n          Eggs                               |   48.50 |      1.8\r\n          Tobacco                            |   33.50 |      1.2\r\n          Butter                             |   29.65 |      1.1\r\n          Horses                             |   29.05 |      1.1\r\n          Fruit                              |   18.25 |      0.7\r\n          Fish                               |   14.95 |      0.6\r\n          Poultry                            |   14.00 |      0.5\r\n          Wine                               |   13.35 |      0.5\r\n                                             +---------+---------------\r\n                                             |  759.30 |     28.3\r\n    -----------------------------------------+---------+---------------\r\n\r\n    -----------------------------------------+---------+---------------\r\n                                             | Amount: | Percentage of\r\n    German Imports, 1913                     | Million | Total Imports\r\n                                             | Dollars |\r\n    -----------------------------------------+---------+---------------\r\n    III. Manufactures:--                     |         |\r\n          Cotton yarn and thread and         |         |\r\n              cotton goods                   |   47.05 |      1.8\r\n          Woolen yarn and woolen             |         |\r\n              goods                          |   37.85 |      1.4\r\n          Machinery                          |   20.10 |      0.7\r\n                                             +---------+---------------\r\n                                             |  105.00 |      3.9\r\n                                             +---------+---------------\r\n    IV. Unenumerated                         |  876.40 |     32.5\r\n                                             +---------+---------------\r\n               Total                         |2,692.60 |    100.0\r\n    -----------------------------------------+---------+---------------\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A003",
+      "rule": "P12-R27",
+      "reason": "Full note128 supplies 1913 sugar volume/value versus general prewar proportion, not a silent correction.",
+      "original_proposed_lines": [
+        5442,
+        5446
+      ],
+      "source_global_lines_inclusive": [
+        5442,
+        5446
+      ],
+      "source_byte_range_zero_based_half_open": [
+        321409,
+        321722
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        321385,
+        321698
+      ],
+      "source_segment_sha256": "d3f82bb6c2a42ff6d15857d7dc037ce99920d7b6b0b776e044dbbf9e7649c296",
+      "source_segment_bytes": 313,
+      "source_text_including_original_CRLF": "[128] Germany's exports of sugar in 1913 amounted to 1,110,073\r\ntons of the value of $65,471,500, of which 838,583 tons were exported to\r\nthe United Kingdom at a value of $45,254,000. These figures were in\r\nexcess of the normal, the average total exports for the five years\r\nending 1913 being about $50,000,000.\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A004",
+      "rule": "P12-R30",
+      "reason": "Whole actual discretion/German and Allied replies/reoccupation critique and possible League transformation context, missing from old administrative duty evidence.",
+      "original_proposed_lines": [
+        4803,
+        4905
+      ],
+      "source_global_lines_inclusive": [
+        4800,
+        4905
+      ],
+      "source_byte_range_zero_based_half_open": [
+        284261,
+        291013
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        284244,
+        290994
+      ],
+      "source_segment_sha256": "71de6a58dd0d2526bae257fb69d40b6b98b49b58e5be94ab143986714b0703fb",
+      "source_segment_bytes": 6752,
+      "source_text_including_original_CRLF": "13. In general, the Commission, acting through a subordinate body, will\r\nperform the same functions for Austria and Bulgaria as for Germany, and\r\nalso, presumably, for Hungary and Turkey.[138]\r\n\r\nThere are also many other relatively minor duties assigned to the\r\nCommission. The above summary, however, shows sufficiently the scope and\r\nsignificance of its authority. This authority is rendered of far greater\r\nsignificance by the fact that the demands of the Treaty generally exceed\r\nGermany's capacity. Consequently the clauses which allow the Commission\r\nto make abatements, if in their judgment the economic conditions of\r\nGermany require it, will render it in many different particulars the\r\narbiter of Germany's economic life. The Commission is not only to\r\ninquire into Germany's general capacity to pay, and to decide (in the\r\nearly years) what import of foodstuffs and raw materials is necessary;\r\nit is authorized to exert pressure on the German system of taxation\r\n(Annex II. para. 12(_b_))[139] and on German internal expenditure, with\r\na view to insuring that Reparation payments are a first charge on the\r\ncountry's entire resources; and it is to decide on the effect on German\r\neconomic life of demands for machinery, cattle, etc., and of the\r\nscheduled deliveries of coal.\r\n\r\nBy Article 240 of the Treaty Germany expressly recognizes the Commission\r\nand its powers \"as the same may be constituted by the Allied and\r\nAssociated Governments,\" and \"agrees irrevocably to the possession and\r\nexercise by such Commission of the power and authority given to it under\r\nthe present Treaty.\" She undertakes to furnish the Commission with all\r\nrelevant information. And finally in Article 241, \"Germany undertakes to\r\npass, issue, and maintain in force any legislation, orders, and decrees\r\nthat may be necessary to give complete effect to these provisions.\"\r\n\r\nThe comments on this of the German Financial Commission at Versailles\r\nwere hardly an exaggeration:--\"German democracy is thus annihilated at\r\nthe very moment when the German people was about to build it up after a\r\nsevere struggle--annihilated by the very persons who throughout the war\r\nnever tired of maintaining that they sought to bring democracy to us....\r\nGermany is no longer a people and a State, but becomes a mere trade\r\nconcern placed by its creditors in the hands of a receiver, without its\r\nbeing granted so much as the opportunity to prove its willingness to\r\nmeet its obligations of its own accord. The Commission, which is to have\r\nits permanent headquarters outside Germany, will possess in Germany\r\nincomparably greater rights than the German Emperor ever possessed, the\r\nGerman people under its rÈgime would remain for decades to come shorn\r\nof all rights, and deprived, to a far greater extent than any people in\r\nthe days of absolutism, of any independence of action, of any individual\r\naspiration in its economic or even in its ethical progress.\"\r\n\r\nIn their reply to these observations the Allies refused to admit that\r\nthere was any substance, ground, or force in them. \"The observations of\r\nthe German Delegation,\" they pronounced, \"present a view of this\r\nCommission so distorted and so inexact that it is difficult to believe\r\nthat the clauses of the Treaty have been calmly or carefully examined.\r\nIt is not an engine of oppression or a device for interfering with\r\nGerman sovereignty. It has no forces at its command; it has no executive\r\npowers within the territory of Germany; it cannot, as is suggested,\r\ndirect or control the educational or other systems of the country. Its\r\nbusiness is to ask what is to be paid; to satisfy itself that Germany\r\ncan pay; and to report to the Powers, whose delegation it is, in case\r\nGermany makes default. If Germany raises the money required in her own\r\nway, the Commission cannot order that it shall be raised in some other\r\nway; if Germany offers payment in kind, the Commission may accept such\r\npayment, but, except as specified in the Treaty itself, the Commission\r\ncannot require such a payment.\"\r\n\r\nThis is not a candid statement of the scope and authority of the\r\nReparation Commission, as will be seen by a comparison of its terms with\r\nthe summary given above or with the Treaty itself. Is not, for example,\r\nthe statement that the Commission \"has no forces at its command\" a\r\nlittle difficult to justify in view of Article 430 of the Treaty, which\r\nruns:--\"In case, either during the occupation or after the expiration of\r\nthe fifteen years referred to above, the Reparation Commission finds\r\nthat Germany refuses to observe the whole or part of her obligations\r\nunder the present Treaty with regard to Reparation, the whole or part of\r\nthe areas specified in Article 429 will be reoccupied immediately by the\r\nAllied and Associated Powers\"? The decision, as to whether Germany has\r\nkept her engagements and whether it is possible for her to keep them, is\r\nleft, it should be observed, not to the League of Nations, but to the\r\nReparation Commission itself; and an adverse ruling on the part of the\r\nCommission is to be followed \"immediately\" by the use of armed force.\r\nMoreover, the depreciation of the powers of the Commission attempted in\r\nthe Allied reply largely proceeds from the assumption that it is quite\r\nopen to Germany to \"raise the money required in her own way,\" in which\r\ncase it is true that many of the powers of the Reparation Commission\r\nwould not come into practical effect; whereas in truth one of the main\r\nreasons for setting up the Commission at all is the expectation that\r\nGermany will not be able to carry the burden nominally laid upon her.\r\n\r\n       *       *       *       *       *\r\n\r\nIt is reported that the people of Vienna, hearing that a section of the\r\nReparation Commission is about to visit them, have decided\r\ncharacteristically to pin their hopes on it. A financial body can\r\nobviously take nothing from them, for they have nothing; therefore this\r\nbody must be for the purpose of assisting and relieving them. Thus do\r\nthe Viennese argue, still light-headed in adversity. But perhaps they\r\nare right. The Reparation Commission will come into very close contact\r\nwith the problems of Europe; and it will bear a responsibility\r\nproportionate to its powers. It may thus come to fulfil a very different\r\nrÙle from that which some of its authors intended for it. Transferred to\r\nthe League of Nations, an appanage of justice and no longer of interest,\r\nwho knows that by a change of heart and object the Reparation Commission\r\nmay not yet be transformed from an instrument of oppression and rapine\r\ninto an economic council of Europe, whose object is the restoration of\r\nlife and of happiness, even in the enemy countries?\r\n\r\n_V_. _The German Counter-Proposals_\r\n\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A005",
+      "rule": "P12-R32",
+      "reason": "Complete interested-party mortality report and author no-adequate-answer response, not a modern independently verified death model.",
+      "original_proposed_lines": [
+        5638,
+        5691
+      ],
+      "source_global_lines_inclusive": [
+        5638,
+        5691
+      ],
+      "source_byte_range_zero_based_half_open": [
+        332359,
+        336041
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        332335,
+        336017
+      ],
+      "source_segment_sha256": "b10fb8221e0b06eb64ee7df580b1083ffd933d78f4eaf621c1f98a286c2a59c1",
+      "source_segment_bytes": 3682,
+      "source_text_including_original_CRLF": "On the 13th May, 1919, Count Brockdorff-Rantzau addressed to the Peace\r\nConference of the Allied and Associated Powers the Report of the German\r\nEconomic Commission charged with the study of the effect of the\r\nconditions of Peace on the situation of the German population. \"In the\r\ncourse of the last two generations,\" they reported, \"Germany has become\r\ntransformed from an agricultural State to an industrial State. So long\r\nas she was an agricultural State, Germany could feed forty million\r\ninhabitants. As an industrial State she could insure the means of\r\nsubsistence for a population of sixty-seven millions; and in 1913 the\r\nimportation of foodstuffs amounted, in round figures, to twelve million\r\ntons. Before the war a total of fifteen million persons in Germany\r\nprovided for their existence by foreign trade, navigation, and the use,\r\ndirectly or indirectly, of foreign raw material.\" After rehearsing the\r\nmain relevant provisions of the Peace Treaty the report continues:\r\n\"After this diminution of her products, after the economic depression\r\nresulting from the loss of her colonies, her merchant fleet and her\r\nforeign investments, Germany will not be in a position to import from\r\nabroad an adequate quantity of raw material. An enormous part of German\r\nindustry will, therefore, be condemned inevitably to destruction. The\r\nneed of importing foodstuffs will increase considerably at the same time\r\nthat the possibility of satisfying this demand is as greatly diminished.\r\nIn a very short time, therefore, Germany will not be in a position to\r\ngive bread and work to her numerous millions of inhabitants, who are\r\nprevented from earning their livelihood by navigation and trade. These\r\npersons should emigrate, but this is a material impossibility, all the\r\nmore because many countries and the most important ones will oppose any\r\nGerman immigration. To put the Peace conditions into execution would\r\nlogically involve, therefore, the loss of several millions of persons in\r\nGermany. This catastrophe would not be long in coming about, seeing that\r\nthe health of the population has been broken down during the War by the\r\nBlockade, and during the Armistice by the aggravation of the Blockade of\r\nfamine. No help, however great, or over however long a period it were\r\ncontinued, could prevent those deaths _en masse_.\" \"We do not know, and\r\nindeed we doubt,\" the report concludes, \"whether the Delegates of the\r\nAllied and Associated Powers realize the inevitable consequences which\r\nwill take place if Germany, an industrial State, very thickly populated,\r\nclosely bound up with the economic system of the world, and under the\r\nnecessity of importing enormous quantities of raw material and\r\nfoodstuffs, suddenly finds herself pushed back to the phase of her\r\ndevelopment, which corresponds to her economic condition and the numbers\r\nof her population as they were half a century ago. Those who sign this\r\nTreaty will sign the death sentence of many millions of German men,\r\nwomen and children.\"\r\n\r\nI know of no adequate answer to these words. The indictment is at least\r\nas true of the Austrian, as of the German, settlement. This is the\r\nfundamental problem in front of us, before which questions of\r\nterritorial adjustment and the balance of European power are\r\ninsignificant. Some of the catastrophes of past history, which have\r\nthrown back human progress for centuries, have been due to the reactions\r\nfollowing on the sudden termination, whether in the course of nature or\r\nby the act of man, of temporarily favorable conditions which have\r\npermitted the growth of population beyond what could be provided for\r\nwhen the favorable conditions were at an end.\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A006",
+      "rule": "P12-R32",
+      "reason": "Complete town/country incentive loop and Hoover100million import-dependent population, not mortality.",
+      "original_proposed_lines": [
+        5761,
+        5776
+      ],
+      "source_global_lines_inclusive": [
+        5761,
+        5776
+      ],
+      "source_byte_range_zero_based_half_open": [
+        340445,
+        341448
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        340418,
+        341421
+      ],
+      "source_segment_sha256": "3ee781ebbd6c0c330a832a22302aa352a458bc0675f8c6c2b92df3fb9613d1e1",
+      "source_segment_bytes": 1003,
+      "source_text_including_original_CRLF": "What then is our picture of Europe? A country population able to support\r\nlife on the fruits of its own agricultural production but without the\r\naccustomed surplus for the towns, and also (as a result of the lack of\r\nimported materials and so of variety and amount in the saleable\r\nmanufactures of the towns) without the usual incentives to market food\r\nin return for other wares; an industrial population unable to keep its\r\nstrength for lack of food, unable to earn a livelihood for lack of\r\nmaterials, and so unable to make good by imports from abroad the failure\r\nof productivity at home. Yet, according to Mr. Hoover, \"a rough estimate\r\nwould indicate that the population of Europe is at least 100,000,000\r\ngreater than can be supported without imports, and must live by the\r\nproduction and distribution of exports.\"\r\n\r\nThe problem of the re-inauguration of the perpetual circle of production\r\nand exchange in foreign trade leads me to a necessary digression on the\r\ncurrency situation of Europe.\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A007",
+      "rule": "P12-R34",
+      "reason": "Complete actual French/Italian/German budget estimates and contextual clauses supporting existing budget claim, not only the monthly trade footnotes.",
+      "original_proposed_lines": [
+        5980,
+        6052
+      ],
+      "source_global_lines_inclusive": [
+        5976,
+        6052
+      ],
+      "source_byte_range_zero_based_half_open": [
+        354236,
+        358998
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        354209,
+        358971
+      ],
+      "source_segment_sha256": "b57116c7d6cc1bb22cc9f7e71c14660df860e48d9bdfaec404d312104d70c877",
+      "source_segment_bytes": 4762,
+      "source_text_including_original_CRLF": "The situation of Italy is not very different. There the note circulation\r\nis five or six times its pre-war level, and the exchange value of the\r\nlira in terms of gold about half its former value. Thus the adjustment\r\nof the exchange to the volume of the note circulation has proceeded\r\nfurther in Italy than in France. On the other hand, Italy's \"invisible\"\r\nreceipts, from emigrant remittances and the expenditure of tourists,\r\nhave been very injuriously affected; the disruption of Austria has\r\ndeprived her of an important market; and her peculiar dependence on\r\nforeign shipping and on imported raw materials of every kind has laid\r\nher open to special injury from the increase of world prices. For all\r\nthese reasons her position is grave, and her excess of imports as\r\nserious a symptom as in the case of France.[152]\r\n\r\nThe existing inflation and the maladjustment of international trade are\r\naggravated, both in France and in Italy, by the unfortunate budgetary\r\nposition of the Governments of these countries.\r\n\r\nIn France the failure to impose taxation is notorious. Before the war\r\nthe aggregate French and British budgets, and also the average taxation\r\nper head, were about equal; but in France no substantial effort has been\r\nmade to cover the increased expenditure. \"Taxes increased in Great\r\nBritain during the war,\" it has been estimated, \"from 95 francs per head\r\nto 265 francs, whereas the increase in France was only from 90 to 103\r\nfrancs.\" The taxation voted in France for the financial year ending June\r\n30, 1919, was less than half the estimated normal _post-bellum_\r\nexpenditure. The normal budget for the future cannot be put below\r\n$4,400,000,000 (22 milliard francs), and may exceed this figure; but\r\neven for the fiscal year 1919-20 the estimated receipts from taxation\r\ndo not cover much more than half this amount. The French Ministry of\r\nFinance have no plan or policy whatever for meeting this prodigious\r\ndeficit, except the expectation of receipts from Germany on a scale\r\nwhich the French officials themselves know to be baseless. In the\r\nmeantime they are helped by sales of war material and surplus American\r\nstocks and do not scruple, even in the latter half of 1919, to meet the\r\ndeficit by the yet further expansion of the note issue of the Bank of\r\nFrance.[153]\r\n\r\nThe budgetary position of Italy is perhaps a little superior to that of\r\nFrance. Italian finance throughout the war was more enterprising than\r\nthe French, and far greater efforts were made to impose taxation and pay\r\nfor the war. Nevertheless Signor Nitti, the Prime Minister, in a letter\r\naddressed to the electorate on the eve of the General Election (Oct.,\r\n1919), thought it necessary to make public the following desperate\r\nanalysis of the situation:--(1) The State expenditure amounts to about\r\nthree times the revenue. (2) All the industrial undertakings of the\r\nState, including the railways, telegraphs, and telephones, are being run\r\nat a loss. Although the public is buying bread at a high price, that\r\nprice represents a loss to the Government of about a milliard a year.\r\n(3) Exports now leaving the country are valued at only one-quarter or\r\none-fifth of the imports from abroad. (4) The National Debt is\r\nincreasing by about a milliard lire per month. (5) The military\r\nexpenditure for one month is still larger than that for the first year\r\nof the war.\r\n\r\nBut if this is the budgetary position of France and Italy, that of the\r\nrest of belligerent Europe is yet more desperate. In Germany the total\r\nexpenditure of the Empire, the Federal States, and the Communes in\r\n1919-20 is estimated at 25 milliards of marks, of which not above 10\r\nmilliards are covered by previously existing taxation. This is without\r\nallowing anything for the payment of the indemnity. In Russia, Poland,\r\nHungary, or Austria such a thing as a budget cannot be seriously\r\nconsidered to exist at all.[154]\r\n\r\nThus the menace of inflationism described above is not merely a product\r\nof the war, of which peace begins the cure. It is a continuing\r\nphenomenon of which the end is not yet in sight.\r\n\r\nAll these influences combine not merely to prevent Europe from\r\nsupplying immediately a sufficient stream of exports to pay for the\r\ngoods she needs to import, but they impair her credit for securing the\r\nworking capital required to re-start the circle of exchange and also, by\r\nswinging the forces of economic law yet further from equilibrium rather\r\nthan towards it, they favor a continuance of the present conditions\r\ninstead of a recovery from them. An inefficient, unemployed,\r\ndisorganized Europe faces us, torn by internal strife and international\r\nhate, fighting, starving, pillaging, and lying. What warrant is there\r\nfor a picture of less somber colors?\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A008",
+      "rule": "P12-R38",
+      "reason": "Actual free-entry/no-special-privilege versus MittelEuropa defense and conditions of alternative membership, supporting restored original condition.",
+      "original_proposed_lines": [
+        6532,
+        6553
+      ],
+      "source_global_lines_inclusive": [
+        6519,
+        6567
+      ],
+      "source_byte_range_zero_based_half_open": [
+        385696,
+        388990
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        385668,
+        388962
+      ],
+      "source_segment_sha256": "62e669497959daa7b9f8b2ad057101f2c5f2d31c733691b9c1a5b8a61277d3f9",
+      "source_segment_bytes": 3294,
+      "source_text_including_original_CRLF": "By the proposed Free Trade Union some part of the loss of organization\r\nand economic efficiency may be retrieved, which must otherwise result\r\nfrom the innumerable new political frontiers now created between greedy,\r\njealous, immature, and economically incomplete nationalist States.\r\nEconomic frontiers were tolerable so long as an immense territory was\r\nincluded in a few great Empires; but they will not be tolerable when the\r\nEmpires of Germany, Austria-Hungary, Russia, and Turkey have been\r\npartitioned between some twenty independent authorities. A Free Trade\r\nUnion, comprising the whole of Central, Eastern, and South-Eastern\r\nEurope, Siberia, Turkey, and (I should hope) the United Kingdom, Egypt,\r\nand India, might do as much for the peace and prosperity of the world as\r\nthe League of Nations itself. Belgium, Holland, Scandinavia, and\r\nSwitzerland might be expected to adhere to it shortly. And it would be\r\ngreatly to be desired by their friends that France and Italy also should\r\nsee their way to adhesion.\r\n\r\nIt would be objected, I suppose, by some critics that such an\r\narrangement might go some way in effect towards realizing the former\r\nGerman dream of Mittel-Europa. If other countries were so foolish as to\r\nremain outside the Union and to leave to Germany all its advantages,\r\nthere might be some truth in this. But an economic system, to which\r\nevery one had the opportunity of belonging and which gave special\r\nprivilege to none, is surely absolutely free from the objections of a\r\nprivileged and avowedly imperialistic scheme of exclusion and\r\ndiscrimination. Our attitude to these criticisms must be determined by\r\nour whole moral and emotional reaction to the future of international\r\nrelations and the Peace of the World. If we take the view that for at\r\nleast a generation to come Germany cannot be trusted with even a modicum\r\nof prosperity, that while all our recent Allies are angels of light, all\r\nour recent enemies, Germans, Austrians, Hungarians, and the rest, are\r\nchildren of the devil, that year by year Germany must be kept\r\nimpoverished and her children starved and crippled, and that she must be\r\nringed round by enemies; then we shall reject all the proposals of this\r\nchapter, and particularly those which may assist Germany to regain a\r\npart of her former material prosperity and find a means of livelihood\r\nfor the industrial population of her towns. But if this view of nations\r\nand of their relation to one another is adopted by the democracies of\r\nWestern Europe, and is financed by the United States, heaven help us\r\nall. If we aim deliberately at the impoverishment of Central Europe,\r\nvengeance, I dare predict, will not limp. Nothing can then delay for\r\nvery long that final civil war between the forces of Reaction and the\r\ndespairing convulsions of Revolution, before which the horrors of the\r\nlate German war will fade into nothing, and which will destroy, whoever\r\nis victor, the civilization and the progress of our generation. Even\r\nthough the result disappoint us, must we not base our actions on better\r\nexpectations, and believe that the prosperity and happiness of one\r\ncountry promotes that of others, that the solidarity of man is not a\r\nfiction, and that nations can still afford to treat other nations as\r\nfellow-creatures?\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    },
+    {
+      "id": "P12-QA-A009",
+      "rule": "P12-R40",
+      "reason": "Full real-asset private-capital versus government-tribute argument and author disbelief that tributes last more than few years, beyond old evidence ending levy sentence.",
+      "original_proposed_lines": [
+        6825,
+        6868
+      ],
+      "source_global_lines_inclusive": [
+        6825,
+        6869
+      ],
+      "source_byte_range_zero_based_half_open": [
+        405328,
+        407981
+      ],
+      "source_character_range_zero_based_half_open_including_CRLF": [
+        405300,
+        407953
+      ],
+      "source_segment_sha256": "7b51ea5b060de7790f308915e3598ba5ffcf07aeba24428575d9c7200bfa2086",
+      "source_segment_bytes": 2653,
+      "source_text_including_original_CRLF": "Before the middle of the nineteenth century no nation owed payments to a\r\nforeign nation on any considerable scale, except such tributes as were\r\nexacted under the compulsion of actual occupation in force and, at one\r\ntime, by absentee princes under the sanctions of feudalism. It is true\r\nthat the need for European capitalism to find an outlet in the New World\r\nhas led during the past fifty years, though even now on a relatively\r\nmodest scale, to such countries as Argentine owing an annual sum to such\r\ncountries as England. But the system is fragile; and it has only\r\nsurvived because its burden on the paying countries has not so far been\r\noppressive, because this burden is represented by real assets and is\r\nbound up with the property system generally, and because the sums\r\nalready lent are not unduly large in relation to those which it is still\r\nhoped to borrow. Bankers are used to this system, and believe it to be a\r\nnecessary part of the permanent order of society. They are disposed to\r\nbelieve, therefore, by analogy with it, that a comparable system between\r\nGovernments, on a far vaster and definitely oppressive scale,\r\nrepresented by no real assets, and less closely associated with the\r\nproperty system, is natural and reasonable and in conformity with human\r\nnature.\r\n\r\nI doubt this view of the world. Even capitalism at home, which engages\r\nmany local sympathies, which plays a real part in the daily process of\r\nproduction, and upon the security of which the present organization of\r\nsociety largely depends, is not very safe. But however this may be, will\r\nthe discontented peoples of Europe be willing for a generation to come\r\nso to order their lives that an appreciable part of their daily produce\r\nmay be available to meet a foreign payment, the reason of which, whether\r\nas between Europe and America, or as between Germany and the rest of\r\nEurope, does not spring compellingly from their sense of justice or\r\nduty?\r\n\r\nOn the one hand, Europe must depend in the long run on her own daily\r\nlabor and not on the largesse of America; but, on the other hand, she\r\nwill not pinch herself in order that the fruit of her daily labor may go\r\nelsewhere. In short, I do not believe that any of these tributes will\r\ncontinue to be paid, at the best, for more than a very few years. They\r\ndo not square with human nature or agree with the spirit of the age.\r\n\r\nIf there is any force in this mode of thought, expediency and generosity\r\nagree together, and the policy which will best promote immediate\r\nfriendship between nations will not conflict with the permanent\r\ninterests of the benefactor.[168]\r\n\r\n\r\n3. _An International Loan_\r\n",
+      "original_pdf_pages_one_based": null,
+      "precise_original_printed_pages_verified": false,
+      "original_scan_obtained": false,
+      "actual_semantic_read_in_complete_original_source": true,
+      "boundary_extension_context_actual_read": true
+    }
+  ]
+}

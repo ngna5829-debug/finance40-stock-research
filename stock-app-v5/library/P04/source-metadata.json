@@ -1,0 +1,510 @@
+{
+  "book_id": "P04",
+  "author": "Walter Bagehot",
+  "title": "Lombard Street: A Description of the Money Market",
+  "first_publication_year": 1873,
+  "first_year_evidence": "https://www.gutenberg.org/ebooks/4359",
+  "first_year_evidence_note": "目录简介标1873；该纯文本未列印刷版次，具体底本版次未确认，不冒称扫描初版。",
+  "edition": "Project Gutenberg 4359，2003发布、2014更新；底本具体印刷版次未注明",
+  "source_url": "https://www.gutenberg.org/ebooks/4359.txt.utf-8",
+  "resolved_source_url": "https://www.gutenberg.org/cache/epub/4359/pg4359.txt",
+  "catalogue_url": "https://www.gutenberg.org/ebooks/4359",
+  "rights": {
+    "status": "Public domain in the USA",
+    "evidence_url": "https://www.gutenberg.org/ebooks/4359",
+    "license_url": "https://www.gutenberg.org/policy/license.html",
+    "license_included_in_download": true,
+    "scope": "原英文公版文本；遵守文件内Project Gutenberg品牌与分发许可，不声称现代译本授权。"
+  },
+  "source_files": [
+    {
+      "file": "work/book-experts-v5/index_team/P04/source/original.txt",
+      "bytes": 477792,
+      "sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda"
+    }
+  ],
+  "download_fulltext_verified": true,
+  "full_work_count": 1,
+  "split_volumes_counted_as_new_books": false,
+  "original_chapter_count": 13,
+  "source_line_count": 8119,
+  "source_last_book_line": 7768,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introductory.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch01-original.txt",
+      "source_lines_inclusive": [
+        50,
+        465
+      ],
+      "original_word_count": 4540,
+      "source_text_sha256": "cf5206db88ba5080961ecccf12257b2b5988b428b2a460879a8db589f763a291",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch01.md",
+      "han_body_count": 3085,
+      "draft_sha256": "5c8344f5f6e21577c5d449b7012efb45937b653509eebf1dff4bbde94d12a375",
+      "source_reading_method": "本轮实际输出并语义阅读原章文件全部1–416行，没有输出截断；不是扫描逐字核准。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          416
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3022
+    },
+    {
+      "chapter": 2,
+      "title": "A General View of Lombard Street.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch02-original.txt",
+      "source_lines_inclusive": [
+        466,
+        1601
+      ],
+      "original_word_count": 12073,
+      "source_text_sha256": "a57c40b30dfa8bff1832feea715528615ae927ac76e4fd62053c6b02157a6af1",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch02.md",
+      "han_body_count": 3798,
+      "draft_sha256": "cba179b165b8c3873a8da874bed48f0db999846742b5df169c4cffe38b640e7e",
+      "source_reading_method": "完整原章1136行依次输出1–390、391–780、781–1136，全部输出无截断并语义审读；原文行证定位另按关键句复核。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          390
+        ],
+        [
+          391,
+          780
+        ],
+        [
+          781,
+          1136
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3707
+    },
+    {
+      "chapter": 3,
+      "title": "How Lombard Street Came to Exist, and Why It Assumed Its Present Form.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch03-original.txt",
+      "source_lines_inclusive": [
+        1602,
+        2127
+      ],
+      "original_word_count": 5567,
+      "source_text_sha256": "cb9ef2d285cc9e88f5430c350e4c67cd35a23468f8e676a97d9fc29de7495658",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch03.md",
+      "han_body_count": 3180,
+      "draft_sha256": "ada967d77a880b56c5a47a5609249f88073685612ce4ce1fbba32b6750678055",
+      "source_reading_method": "整章526行输出并阅读，首次合并工具显示中部截断；独立重读280–460行补齐后才标完成。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          526
+        ],
+        [
+          280,
+          460
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3117
+    },
+    {
+      "chapter": 4,
+      "title": "The Position of the Chancellor of the Exchequer in the Money Market.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch04-original.txt",
+      "source_lines_inclusive": [
+        2128,
+        2376
+      ],
+      "original_word_count": 2518,
+      "source_text_sha256": "c87a5d5a2ec01854234fe82a8401ffb6e159d832679c5e05488055093ee384b2",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch04.md",
+      "han_body_count": 2843,
+      "draft_sha256": "929aac083076024e9969ee538992daa2190d5c03040b9aa2e63c4f6f98737320",
+      "source_reading_method": "本轮完整输出原章全部行，输出无截断，语义审读后原创章稿；不是印刷扫描逐字核验。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          249
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2815
+    },
+    {
+      "chapter": 5,
+      "title": "The Mode in Which the Value of Money is Settled in Lombard Street.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch05-original.txt",
+      "source_lines_inclusive": [
+        2377,
+        2559
+      ],
+      "original_word_count": 1978,
+      "source_text_sha256": "bb54d4daae4e97d120c167a7e0c5b037e3ab40f34f52907d8bc3953be3e6930b",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch05.md",
+      "han_body_count": 2498,
+      "draft_sha256": "fb0b83977c23da975b88782e406ea04fc43fa854cebd5732e281d6f07f682d45",
+      "source_reading_method": "本轮完整输出原章全部行，输出无截断，语义审读后原创章稿；不是印刷扫描逐字核验。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          183
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2463
+    },
+    {
+      "chapter": 6,
+      "title": "Why Lombard Street is Often Very Dull, and Sometimes Extremely Excited.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch06-original.txt",
+      "source_lines_inclusive": [
+        2560,
+        3365
+      ],
+      "original_word_count": 8269,
+      "source_text_sha256": "4f4050aed10c589df219de5bc66375f9d2c32f929c987db1d4be04a82dac37a9",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch06.md",
+      "han_body_count": 3258,
+      "draft_sha256": "1364b1d47d83883c0da63cde0e940f90e330e72f4848014796bc5ae1887efc09",
+      "source_reading_method": "全部806行依次输出1–270、271–540、541–806，无输出截断，含引文及可见全部表格；仅读文字和表格逻辑，未外部核准原统计。",
+      "unresolved_textual_issue": "引文在讨论新增货币促成上涨的段落使用lower prices，语境不一致；未静默校改。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          270
+        ],
+        [
+          271,
+          540
+        ],
+        [
+          541,
+          806
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3174
+    },
+    {
+      "chapter": 7,
+      "title": "A More Exact Account of the Mode in Which the Bank of England Has Discharged Its Duty of Retaining a Good Bank Reserve, and of Administering It Effectually.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch07-original.txt",
+      "source_lines_inclusive": [
+        3366,
+        4372
+      ],
+      "original_word_count": 10761,
+      "source_text_sha256": "6982ceb2c4dc33ed74fae56a18166dd36be71952e65df77157c2bf75d95cbdfa",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch07.md",
+      "han_body_count": 3259,
+      "draft_sha256": "b5a4897ec0ef540aa45995ba8c15cccb957ca102cbd6d9d849cd09202599373e",
+      "source_reading_method": "原章1007行依次输出1–260、261–520、521–780、781–1007；全部输出无截断并完成语义审读，含股东会/报刊/通信引用。",
+      "unresolved_textual_issue": "1857应急支持金额文字several hundred pounds与邻近尺度关系待底本核，不作为精确数值。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1007
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3210
+    },
+    {
+      "chapter": 8,
+      "title": "The Government of the Bank of England.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch08-original.txt",
+      "source_lines_inclusive": [
+        4373,
+        5088
+      ],
+      "original_word_count": 7728,
+      "source_text_sha256": "735d09be34800851c4e40100841c0216da427488d493dbf36f4c7d36877085d4",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch08.md",
+      "han_body_count": 3034,
+      "draft_sha256": "e265b6d1a392384bf2f7923f933dd3ff287b44fe13f33ac3162e628f9256f07b",
+      "source_reading_method": "全部716行分1–250、251–500、501–716依次输出，无截断；完整语义审读及前后方案修订已入章稿。",
+      "unresolved_textual_issues": [
+        "银行平均利息句not so much as per cent缺数字，未补造。",
+        "长期专业角色偶称permanent Governor而主方案用permanent Deputy-Governor，保留称谓变化。"
+      ],
+      "reading_blocks_inclusive": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          716
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 3006
+    },
+    {
+      "chapter": 9,
+      "title": "The Joint Stock Banks.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch09-original.txt",
+      "source_lines_inclusive": [
+        5089,
+        5581
+      ],
+      "original_word_count": 5095,
+      "source_text_sha256": "3aa48763e0f13678586e4596c288bfbaf364a12913c4ebe700325a4077eca402",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch09.md",
+      "han_body_count": 2931,
+      "draft_sha256": "798745d53bec23a41b5c0fb7d3863ec70ed12114af1ba3c57cf365177fb23459",
+      "source_reading_method": "完整493行一次输出，未截断；逐段语义读完含110银行分组与苏格兰银行表。",
+      "unresolved_textual_issue": "苏格兰表National Bank of Scotland股息112与附近无超过15%的叙述不一致，尚未核底本/附录另一表示，不自行猜改。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "full_110_bank_list_present_in_this_source": false,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          493
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2917
+    },
+    {
+      "chapter": 10,
+      "title": "The Private Banks.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch10-original.txt",
+      "source_lines_inclusive": [
+        5582,
+        5857
+      ],
+      "original_word_count": 2933,
+      "source_text_sha256": "b645f6d1c107cff065f6d25852556b0ac14b1aa2a6dbc68b5ae033a7bf777613",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch10.md",
+      "han_body_count": 2528,
+      "draft_sha256": "9400347c3b0faab2c5204a74734d43bd1af64480d2ec3ba733419f24b04b6b91",
+      "source_reading_method": "原章276行完整输出，无截断，逐段语义审读；Overend隐瞒损失替代路径仅作作者反事实，不升为史实或建议。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          276
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2514
+    },
+    {
+      "chapter": 11,
+      "title": "The Bill-Brokers.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch11-original.txt",
+      "source_lines_inclusive": [
+        5858,
+        6292
+      ],
+      "original_word_count": 4499,
+      "source_text_sha256": "744cf91f455f97be762ad093eeece9902fcb95c0f06af38e9f4b3ac023473dba",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch11.md",
+      "han_body_count": 2601,
+      "draft_sha256": "ffcb0993151c968db11ae7a2e042b02dba4bcd26a10135178da75ca5b01f5ab2",
+      "source_reading_method": "435行原章完整一次输出，无截断，逐段语义阅读含1810证言、担保变更、期限例子、1858规则与Overend故事。",
+      "unresolved_textual_issue": "1857票据分段到期窗部分重叠且与观察日关系不清，未按两段简单加总流量。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "internal_appendix_crosscheck": "附录B1146给出11月11日—12月4日、12月4日—31日，2.8+2.0=4.8百万≈5百万；与正文不同，底本/原证言尚未核。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          435
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2587
+    },
+    {
+      "chapter": 12,
+      "title": "The Principles Which Should Regulate the Amount of the Banking Reserve to Be Kept by the Bank of England.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch12-original.txt",
+      "source_lines_inclusive": [
+        6293,
+        6865
+      ],
+      "original_word_count": 6338,
+      "source_text_sha256": "997a575b633254cb3f100123832a240284100fc230e9ee7d81f7f145ce9c2f38",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch12.md",
+      "han_body_count": 2719,
+      "draft_sha256": "61ad67b6d0933cf8a60fd50dd29cb7c6b1e1bd95d5da836cce77f07e33c857f0",
+      "source_reading_method": "573行中1–286、287–572完整输出并语义读；573经字符串核对为空行。具体10/11/11.5/14/15百万是作者当时可错估计，不现代参数。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          286
+        ],
+        [
+          287,
+          572
+        ],
+        [
+          573,
+          573
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2691
+    },
+    {
+      "chapter": 13,
+      "title": "Conclusion.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch13-original.txt",
+      "source_lines_inclusive": [
+        6866,
+        6987
+      ],
+      "original_word_count": 1276,
+      "source_text_sha256": "1b6d68dd8c065fd361fbfb5b9629ebc5752d9d3636be0772a348a1ca9a10c8f8",
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P04/chapters/ch13.md",
+      "han_body_count": 2414,
+      "draft_sha256": "8e8af70a5477372d6bed2688614ef1efcaf532d1fee3243d9a71d746d0730a92",
+      "source_reading_method": "结论122行完整输出，未截断，含储蓄银行案例及固定法定比例批评；附录独立处理，不混入末章计数。",
+      "numeric_data_not_eligible_for_backtest": true,
+      "reading_blocks_inclusive": [
+        [
+          1,
+          122
+        ]
+      ],
+      "literal_all_printed_words_verified": false,
+      "han_body_count_excluding_source_locator_phrases": 2393
+    }
+  ],
+  "status": "passed_independent_semantic_qa_after_required_corrections_with_source_limits",
+  "book_semantic_reading_completed": true,
+  "chapter_length_minimum_han": 2000,
+  "book_length_minimum_han": 20000,
+  "current_stock_decision_enabled": false,
+  "retrieved_at_utc": "2026-10-12T05:56:30.553955+00:00",
+  "appendix": {
+    "source_file": "work/book-experts-v5/index_team/P04/source/appendix-original.txt",
+    "source_lines_inclusive": [
+      6988,
+      7768
+    ],
+    "source_text_sha256": "801d83cc915065d79bf5ce60e22ffaa6f069b26de307dab18c7afc57758e94f5",
+    "original_word_count": 7128,
+    "complete_semantic_reading": true,
+    "reading_blocks_inclusive": [
+      [
+        1,
+        260
+      ],
+      [
+        261,
+        520
+      ],
+      [
+        521,
+        781
+      ]
+    ],
+    "semantic_scope": "全部可见附录A–D文本、议会证言1146–1195、表格栏目与原始文字数字、1866会议讨论完整语义读取；没有把乱码/缺值猜改为数据。",
+    "all_numeric_cells_verified_against_scan_or_original_accounts": false
+  },
+  "completed_chapters": 13,
+  "chapter_body_han_total": 38148,
+  "all_original_chapters_semantically_reviewed": true,
+  "coverage_status": "coverage_qualified",
+  "literal_all_printed_words_verified": false,
+  "all_numeric_tables_exactly_verified": false,
+  "minimum_chapter_body_han": 2414,
+  "independent_qa_status": "passed_after_required_corrections_with_source_limits",
+  "full_reading_completed": false,
+  "full_reading_completed_definition": "此字段保留逐字扫描与全部数值未核准的限度。取回全文语义审读已完成，不等于无保留物理原版核验。",
+  "frontmatter_reading": {
+    "source_lines_inclusive": [
+      1,
+      49
+    ],
+    "complete_semantic_reading": true,
+    "scope": "电子版标题、作者、发布及分发声明"
+  },
+  "gutenberg_license_reading": {
+    "source_lines_inclusive": [
+      7769,
+      8119
+    ],
+    "complete_semantic_reading": true,
+    "counts_as_author_book_chapter": false,
+    "retained_in_original_source": true
+  },
+  "appendix_notes_present": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "index_present_in_retrieved_text": false,
+  "full_110_bank_individual_list_present_in_retrieved_text": false,
+  "source_completeness_qualification": "已核PG结束标识，十三章与A-D全部取回文本已读；未比对确定印刷版，不保证每个印刷附件和表格字形。",
+  "chapter_body_han_total_strict": 37616,
+  "minimum_chapter_body_han_strict": 2393,
+  "strict_count_definition": "正文标记内U+4E00–U+9FFF，并排除证据见原文第…行定位短语；原标记计数仍保留38148/2414。",
+  "independent_qa_final_recheck": {
+    "file": "work/book-experts-v5/practical_continuation/P04-final-corrections-recheck.json",
+    "sha256": "703e39d366636eb2ef06c375126892d48eb3cf1e014de8605a4b84ad9a0acf7b",
+    "review_snapshot_hashes": {
+      "work/book-experts-v5/index_team/P04/章节深读.md": "e4fd44c3f845c00c553801952b282f65bd473bde5be5636b2649f678bafcf91b",
+      "work/book-experts-v5/index_team/P04/全书综合与附录.md": "c19efe9652168a9318b02604071ac0d5d3bd2bc2e5e7b31b1a6417e1f48b0259",
+      "work/book-experts-v5/index_team/P04/专家定义.json": "7327c53ebb8f4965b1274ce6fddf7ca37cf3a59f223f35c9870d321ecb919a23",
+      "work/book-experts-v5/index_team/P04/专家说明.md": "f69b841c5f7504ad25905ef8ab92fe9debe1986fcbb1f8cb90424861d7621a5b",
+      "work/book-experts-v5/index_team/P04/source-metadata.json": "33aa5f34a84ae3b9677e5b36d26638d9ceb3c0ca433ee57b22dacce2a12c6476",
+      "work/book-experts-v5/index_team/P04/章节与阅读审计.json": "756f61d2fe457115bca681ad282e080d3640eddbd2763eeb9a8a7868e434a6a4",
+      "work/book-experts-v5/index_team/P04/附录B算术复核.json": "09f9ddd08399aabb67bd19aef7ed939499df8b11e5ec621aecaea8b29e25a06c"
+    },
+    "source_limits_remain": "纸本逐字校勘/底本版次、附录未解数字均保留；不作精确实验、不启当前股票方向。",
+    "metadata_update_only": true
+  }
+}

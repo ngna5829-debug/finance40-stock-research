@@ -1,0 +1,30 @@
+{
+  "book_id": "P27",
+  "check_count": 16,
+  "checks": {
+    "original292page_pdf_sha_matches": true,
+    "author263page_coverage_contiguous": true,
+    "all16_chapters_body_min2000": true,
+    "all_chapter_source_sha_match": true,
+    "all_chapter_summary_sha_match": true,
+    "all_image_files_and_explicit_actual_seen_records": true,
+    "all72_manual_locators_found": true,
+    "all_rule_fragment_refs_valid": true,
+    "all6_notes_in_original_correct_chapter": true,
+    "full_license_preserved": true,
+    "covered_catalogue_not_claimed_deciphered": true,
+    "original_conflicts_and_unstated_assumptions_preserved": true,
+    "no_unexecuted_prediction_backtest_claim": true,
+    "book_body43017_atleast20000": true,
+    "all101_exact_fragment_hashes_match": true,
+    "independent_full_source_semantic_QA_passed_with_source_limits": true
+  },
+  "mechanical_check_passed": true,
+  "independent_semantic_QA": "pass_after_corrections_with_source_limits",
+  "expert_sha256": "fe845dd277075d50aebea85e1b1f7118e6b0d21e77d1bf7e6fc6fc3f1934965b",
+  "audit_sha256": "85ed66aff546722e0cfedf41b6a36e8b26ea4aef7c2de770a321643ebc0e17f3",
+  "source_fragments_sha256": "bdcda38552a03c0cefe56fab1a45863ccdaa04780bc3890cef3e6e8a81d89aed",
+  "independent_QA_sha256": "ab808f9c0e9033786e84232d7b4bcdb671352cf3ee42349b89a3f2eaad380ea7",
+  "combined_dossier_sha256": "c33de2287a98e2fa5f7f87d36a7640402dedc71440254f34e77f049a73150c86",
+  "synthesis_sha256": "8e22e2f7c396cff82b6642f6cd6bc96204d24dc0543afb042909ccff25349fa1"
+}

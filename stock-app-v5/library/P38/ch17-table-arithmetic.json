@@ -1,0 +1,784 @@
+{
+  "table171_all6steps": {
+    "price": 97,
+    "face": 100,
+    "coupon3": 3,
+    "periods": 30,
+    "printed_semi_percent": 3.156,
+    "printed_nominal_annual_percent": 6.312,
+    "independent_semi": 0.03156163534550738,
+    "independent_nominal_annual": 0.06312327069101475,
+    "independent_effective_annual": 0.06411940751669731,
+    "tax21_independent": 0.049867383845901656,
+    "existing_coupon_cash_per1000face": 60,
+    "source63_12_not_actual_oldcoupon": true
+  },
+  "table172_all6steps": {
+    "price": 102.2,
+    "coupon": 4,
+    "periods": 36,
+    "printed_semi_percent": 3.885,
+    "printed_nominal_percent": 7.771,
+    "independent_nominal": 0.07770974374108808,
+    "aftertax28": 0.05595101549358342
+  },
+  "table173_all8companyrows": [
+    [
+      "Kroger",
+      "Food retail",
+      0.31,
+      4.55,
+      5.48,
+      0.66,
+      6.3,
+      8.28
+    ],
+    [
+      "Coca-Cola",
+      "Nonalcoholic beverages",
+      0.69,
+      6.45,
+      8.52,
+      0.62,
+      6.1,
+      7.96
+    ],
+    [
+      "AT&T",
+      "Telecommunications",
+      0.74,
+      6.7,
+      8.92,
+      0.74,
+      6.7,
+      8.92
+    ],
+    [
+      "Kraft Heinz",
+      "Food products",
+      0.82,
+      7.1,
+      9.56,
+      1.14,
+      8.7,
+      12.12
+    ],
+    [
+      "Microsoft",
+      "Software",
+      1.19,
+      8.95,
+      12.52,
+      0.79,
+      6.95,
+      9.32
+    ],
+    [
+      "Goodyear",
+      "Tires",
+      1.24,
+      9.2,
+      12.92,
+      2.26,
+      14.3,
+      21.08
+    ],
+    [
+      "American Airlines",
+      "Passenger airlines",
+      1.34,
+      9.7,
+      13.72,
+      1.93,
+      12.65,
+      18.44
+    ],
+    [
+      "KB Homes",
+      "Residential construction",
+      1.42,
+      10.1,
+      14.36,
+      1.83,
+      12.15,
+      17.64
+    ]
+  ],
+  "table173_all32_CAPM_independent": [
+    [
+      "Kroger",
+      0.0455,
+      0.0548,
+      0.063,
+      0.08280000000000001
+    ],
+    [
+      "Coca-Cola",
+      0.0645,
+      0.0852,
+      0.061,
+      0.0796
+    ],
+    [
+      "AT&T",
+      0.067,
+      0.0892,
+      0.067,
+      0.0892
+    ],
+    [
+      "Kraft Heinz",
+      0.07100000000000001,
+      0.09559999999999999,
+      0.087,
+      0.12119999999999999
+    ],
+    [
+      "Microsoft",
+      0.0895,
+      0.12519999999999998,
+      0.0695,
+      0.0932
+    ],
+    [
+      "Goodyear",
+      0.092,
+      0.12919999999999998,
+      0.143,
+      0.2108
+    ],
+    [
+      "American Airlines",
+      0.097,
+      0.1372,
+      0.1265,
+      0.1844
+    ],
+    [
+      "KB Homes",
+      0.10099999999999999,
+      0.1436,
+      0.12150000000000001,
+      0.1764
+    ]
+  ],
+  "bluebonnet": {
+    "debtmarket_million": 4.85,
+    "equitymarket_million_at15": 15,
+    "weights_exact": [
+      0.24433249370277074,
+      0.7556675062972291
+    ],
+    "CAPM": 0.134,
+    "DDM_at12_50": 0.1424,
+    "DDM_at16_50": 0.11272727272727273,
+    "different_prices_not_samecapitalstructure": true,
+    "original_printed_weight24not24_4": true,
+    "original_weight_sum99_6": 0.996,
+    "original_WACC_CAPM_DDM": [
+      0.1133,
+      0.1197
+    ],
+    "independent_exactweights_yield_CAPM_DDM": [
+      0.11344366809333112,
+      0.11979127514622784
+    ],
+    "consistent_DDMmarketweights_at12_50": {
+      "weights": [
+        0.2795389048991354,
+        0.7204610951008645
+      ],
+      "WACC": 0.1165335338128313
+    }
+  },
+  "tshirt": {
+    "cashnextyear": 52000,
+    "asset_PV": 45614.035087719305,
+    "investment": 40000,
+    "project_NPV": 5614.035087719305,
+    "original_future_stockcash45614_error": true,
+    "debt17000_due17680": 17680,
+    "equity_value": 28614.035087719305,
+    "equity_expectedcash": 34320,
+    "equity_requiredreturn": 0.19941140404659685,
+    "leverage_weights": [
+      0.37269230769230766,
+      0.6273076923076923
+    ],
+    "no_tax_WACC": 0.13999999999999982,
+    "cash_floor18000_maxriskfreeloanprincipal_at4": 17307.69230769231,
+    "source_onceprincipalabove18000_notexactthreshold": true
+  },
+  "table174_all8originalrows": [
+    [
+      0,
+      45614,
+      0,
+      100,
+      0.04,
+      0.14,
+      0.14
+    ],
+    [
+      5000,
+      40614,
+      11,
+      89,
+      0.04,
+      0.1523,
+      0.14
+    ],
+    [
+      10000,
+      35614,
+      22,
+      78,
+      0.04,
+      0.1681,
+      0.14
+    ],
+    [
+      15000,
+      30614,
+      33,
+      67,
+      0.04,
+      0.189,
+      0.14
+    ],
+    [
+      17000,
+      28614,
+      37,
+      63,
+      0.04,
+      0.1994,
+      0.14
+    ],
+    [
+      20000,
+      25614,
+      44,
+      56,
+      0.06,
+      0.2025,
+      0.14
+    ],
+    [
+      30000,
+      15614,
+      66,
+      34,
+      0.08,
+      0.2553,
+      0.14
+    ],
+    [
+      40000,
+      5614,
+      88,
+      12,
+      0.1,
+      0.425,
+      0.14
+    ]
+  ],
+  "table174_all8_recalcs": [
+    [
+      0,
+      0.14,
+      0.14
+    ],
+    [
+      5000,
+      0.1523110151187905,
+      0.1399901923076923
+    ],
+    [
+      10000,
+      0.16807881773399017,
+      0.14001653846153847
+    ],
+    [
+      15000,
+      0.18899713467048712,
+      0.14000192307692308
+    ],
+    [
+      17000,
+      0.19941140404659718,
+      0.13999284615384616
+    ],
+    [
+      20000,
+      0.20246575342465756,
+      0.14001923076923078
+    ],
+    [
+      30000,
+      0.2552808988764045,
+      0.1400065384615385
+    ],
+    [
+      40000,
+      0.4249999999999997,
+      0.14000000000000004
+    ]
+  ],
+  "table175_all5_originalrows": [
+    [
+      "EBIT",
+      52000,
+      52000
+    ],
+    [
+      "Interest",
+      0,
+      280
+    ],
+    [
+      "Beforetax",
+      52000,
+      51720
+    ],
+    [
+      "Tax28",
+      14560,
+      14481.6
+    ],
+    [
+      "NI",
+      37440,
+      37238.4
+    ]
+  ],
+  "table176_all3originalrows": [
+    [
+      "Debtinterest",
+      0,
+      280
+    ],
+    [
+      "Equityavailable",
+      37440,
+      37238.4
+    ],
+    [
+      "Allinvestors",
+      37440,
+      37518.4
+    ]
+  ],
+  "taxshield": {
+    "interest": 280.0,
+    "tax_saved": 78.4,
+    "incremental_totalinvestorflow": 78.40000000000146,
+    "valueincrement_is_PV_notundiscounted_taxsaving": true
+  },
+  "table177_all19_originalindustryrows": [
+    [
+      "Retail online",
+      93.33,
+      6.67,
+      1.16,
+      8.82,
+      2.93,
+      2.19,
+      8.38
+    ],
+    [
+      "Computers/peripherals",
+      91.45,
+      8.55,
+      1.18,
+      8.92,
+      3.71,
+      1.88,
+      8.32
+    ],
+    [
+      "Household products",
+      87.07,
+      12.93,
+      0.73,
+      6.65,
+      5.06,
+      2.19,
+      6.07
+    ],
+    [
+      "Drugs pharmaceutical",
+      84.62,
+      15.38,
+      0.91,
+      7.54,
+      1.88,
+      2.19,
+      6.72
+    ],
+    [
+      "Retail general",
+      82.41,
+      17.59,
+      0.9,
+      7.49,
+      12.48,
+      1.88,
+      6.51
+    ],
+    [
+      "Beverages soft",
+      82.24,
+      17.76,
+      0.79,
+      6.96,
+      3.32,
+      2.19,
+      6.11
+    ],
+    [
+      "Tobacco",
+      76.74,
+      23.26,
+      0.72,
+      6.61,
+      8.69,
+      1.88,
+      5.51
+    ],
+    [
+      "Homebuilding",
+      75.34,
+      24.66,
+      1.46,
+      10.29,
+      15.91,
+      2.19,
+      8.3
+    ],
+    [
+      "Food processing",
+      75.18,
+      24.82,
+      0.64,
+      6.18,
+      8.56,
+      2.19,
+      5.19
+    ],
+    [
+      "Restaurants/dining",
+      74.79,
+      25.21,
+      1.34,
+      9.72,
+      3.19,
+      2.19,
+      7.82
+    ],
+    [
+      "Apparel",
+      71.74,
+      28.26,
+      1.1,
+      8.49,
+      4.75,
+      2.19,
+      6.71
+    ],
+    [
+      "Farming/agriculture",
+      68.94,
+      31.06,
+      0.87,
+      7.37,
+      6.45,
+      1.88,
+      5.67
+    ],
+    [
+      "Packaging containers",
+      64.47,
+      35.53,
+      0.92,
+      7.61,
+      15.67,
+      1.88,
+      5.57
+    ],
+    [
+      "Food wholesalers",
+      64.1,
+      35.9,
+      1.03,
+      8.17,
+      0.52,
+      2.19,
+      6.02
+    ],
+    [
+      "Hotels/gaming",
+      63.6,
+      36.4,
+      1.56,
+      10.82,
+      2.02,
+      2.19,
+      7.68
+    ],
+    [
+      "Telecom services",
+      54.6,
+      45.4,
+      0.66,
+      6.3,
+      3.93,
+      1.4,
+      4.07
+    ],
+    [
+      "Retail grocery food",
+      51.46,
+      48.54,
+      0.24,
+      4.21,
+      13.52,
+      2.19,
+      3.23
+    ],
+    [
+      "Air transport",
+      38.26,
+      61.74,
+      1.61,
+      11.04,
+      6.0,
+      2.19,
+      5.58
+    ],
+    [
+      "Rubber tires",
+      36.38,
+      63.62,
+      1.09,
+      8.47,
+      5.3,
+      1.88,
+      4.28
+    ]
+  ],
+  "table177_all19_recomputed_WACC_percent": [
+    [
+      "Retail online",
+      8.377779,
+      8.38,
+      8.8,
+      8.82
+    ],
+    [
+      "Computers/peripherals",
+      8.31808,
+      8.32,
+      8.899999999999999,
+      8.92
+    ],
+    [
+      "Household products",
+      6.073321999999999,
+      6.07,
+      6.65,
+      6.65
+    ],
+    [
+      "Drugs pharmaceutical",
+      6.71717,
+      6.72,
+      7.55,
+      7.54
+    ],
+    [
+      "Retail general",
+      6.503201,
+      6.51,
+      7.5,
+      7.49
+    ],
+    [
+      "Beverages soft",
+      6.112848,
+      6.11,
+      6.95,
+      6.96
+    ],
+    [
+      "Tobacco",
+      5.509802,
+      5.51,
+      6.6,
+      6.61
+    ],
+    [
+      "Homebuilding",
+      8.29254,
+      8.3,
+      10.3,
+      10.29
+    ],
+    [
+      "Food processing",
+      5.189682,
+      5.19,
+      6.2,
+      6.18
+    ],
+    [
+      "Restaurants/dining",
+      7.821687000000001,
+      7.82,
+      9.7,
+      9.72
+    ],
+    [
+      "Apparel",
+      6.709619999999999,
+      6.71,
+      8.5,
+      8.49
+    ],
+    [
+      "Farming/agriculture",
+      5.6648060000000005,
+      5.67,
+      7.35,
+      7.37
+    ],
+    [
+      "Packaging containers",
+      5.5741309999999995,
+      5.57,
+      7.6000000000000005,
+      7.61
+    ],
+    [
+      "Food wholesalers",
+      6.023179999999999,
+      6.02,
+      8.15,
+      8.17
+    ],
+    [
+      "Hotels/gaming",
+      7.67868,
+      7.68,
+      10.8,
+      10.82
+    ],
+    [
+      "Telecom services",
+      4.0754,
+      4.07,
+      6.300000000000001,
+      6.3
+    ],
+    [
+      "Retail grocery food",
+      3.2294920000000005,
+      3.23,
+      4.2,
+      4.21
+    ],
+    [
+      "Air transport",
+      5.576009999999999,
+      5.58,
+      11.05,
+      11.04
+    ],
+    [
+      "Rubber tires",
+      4.277442000000001,
+      4.28,
+      8.45,
+      8.47
+    ]
+  ],
+  "table177_betadisplayedrounds_not_claim_unrounded_original_wrong": true,
+  "Greene": {
+    "preferred": 0.09174311926605504,
+    "common": 0.13060465116279069,
+    "original_costdebt7_2pct_changed_formula7_02pct": true,
+    "printed_debtterm_percent": 2.218,
+    "correct_debtterm_percent": 2.2752000000000003,
+    "printed_WACC_percent": 9.4705,
+    "independent_WACC_using_source_roundedpref9_17": 0.09527909302325581,
+    "independent_WACC_allfullprecision": 0.09528556091316406
+  },
+  "figures175_176_177_allvalues": {
+    "initial_assets": 900000000,
+    "initial_debt": 225000000,
+    "initial_equity": 675000000,
+    "retained": 750000,
+    "one_million_debt_added": 250000,
+    "new_total_asset": 901000000,
+    "new_debt": 225250000,
+    "new_equity": 675750000,
+    "45million_growth_total945million": 945000000,
+    "all_residual_debt44_25million_new_weight": 0.2849206349206349,
+    "target25pct_newdebt": 11250000,
+    "target_equity708_75million": 708750000,
+    "new_equity_issued33million": 33000000
+  },
+  "new_equity": {
+    "d0": 0.5,
+    "g": 0.03,
+    "price": 8,
+    "ordinary_cost": 0.094375,
+    "netprice_after_fee": 7.75,
+    "newcost": 0.0964516129032258,
+    "printed_equation_0_09_vs9_65pct_error": true,
+    "flotation_fee_oneoff_andWACC_change_notdoublecount": true
+  },
+  "AMW": {
+    "debt_aftertax": 0.046,
+    "ordinary_cost": 0.12572727272727274,
+    "ordinary_WACC": 0.1018090909090909,
+    "retained10million_financing_max": 14285714.285714287,
+    "new_debt_atlimit": 4285714.285714286,
+    "original_fee_statement075_thenprose065_thenformula075": true,
+    "newcost_F075": 0.12883177570093457,
+    "newWACC_F075": 0.1039822429906542,
+    "newcost_F065": 0.12840782122905026,
+    "newWACC_F065": 0.10368547486033516
+  },
+  "convertible": {
+    "face1000_ratio20_price": 50,
+    "conversion_payoff_at_maturity": [
+      1000,
+      1000,
+      1200
+    ],
+    "choice_nonnegative_value_notalwaysstrictlypositive": true,
+    "bond_contract_issuer_call_forcedconversion_variable_ratio_terms_required": true
+  },
+  "all9problems": {
+    "1_weights": [
+      0.3333333333333333,
+      0.6666666666666666
+    ],
+    "2_aftertax": 0.05688,
+    "3_DDM": 0.12461538461538463,
+    "4_CAPM_premium11_notmarket11": 0.15100000000000002,
+    "5_DDMWACC": 0.10203692307692308,
+    "6_CAPMWACC": 0.11962666666666669,
+    "7_Shirl_taxshield_deductibilityconditional": 210000.0,
+    "8_Kingpreferred": 0.0851063829787234,
+    "9_McPhersonordinary": 0.1021,
+    "9_McPhersonnew": 0.10407534246575342
+  },
+  "MC13_face1000_ratio10_conversionprice": 100,
+  "MC1_market_equityweight": 0.8,
+  "all13MC_5review_4videoquestiontexts_2numberednotes": true,
+  "video_taxfall30to15_missingweights_andpretaxdebt_absoluteWACC_unknown": true,
+  "video_ifallotherinputsconstant_deltaWACC_positive": ".15 * debtweight * pretaxdebtcost",
+  "actual_TI_excel_execution": false
+}

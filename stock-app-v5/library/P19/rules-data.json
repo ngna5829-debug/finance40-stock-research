@@ -1,0 +1,1639 @@
+[
+  {
+    "chapter": 1,
+    "pages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "title": "债权债务是同一义务的两面",
+    "author": "作者从记账单位和债务转让出发，把信用与债务视为同一关系的不同名称；支付可通过债务抵销，不必每次交付金属。",
+    "inputs": [
+      "unit_of_account",
+      "creditor_debtor_links",
+      "assignment_rights",
+      "offset_rights"
+    ],
+    "boundary": "债权人认可、转让与抵销条件不可省略；作者构造的无货币社会不是现实已验证普遍制度。",
+    "pre_QA_page_scope": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "chapter": 1,
+    "pages": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "title": "未使用余额、订单与生产支付链",
+    "author": "商人给订单，生产者欠工资，银行通过承接当前支付义务与未来债权创造可支配信用；消费与投资使用这些余额。",
+    "inputs": [
+      "orders",
+      "payroll_dates",
+      "loan_creation",
+      "repayments",
+      "unused_balances",
+      "inventory"
+    ],
+    "boundary": "这是作者模型的交易链，必须核实际发生次序；贷款存量增加不是实物产出或福利增加的同义语。",
+    "pre_QA_page_scope": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "chapter": 1,
+    "pages": [
+      14,
+      15,
+      16
+    ],
+    "title": "信用质量与稳定问题不能由模型假设代替",
+    "author": "作者区分钱作为交换工具与债务计量单位，并在章末指出信用稳定问题；此前讨论主要暂把债务人可靠性搁置。",
+    "inputs": [
+      "solvency",
+      "accepted_payment",
+      "credit_quality",
+      "redemption"
+    ],
+    "boundary": "无违约的初始简化不得当作真实借款人保证；后文第7、9、12章加入质量、清算与流动性约束。",
+    "pre_QA_page_scope": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "chapter": 2,
+    "pages": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "title": "固定铸币价联结信用与金属但支付用途有差别",
+    "author": "金属标准使银行按固定价格在信用与金属间转换；大额和小额支付的习惯及零钱需求不同。",
+    "inputs": [
+      "coinage_price",
+      "conversion_terms",
+      "payment_size",
+      "cash_usage"
+    ],
+    "boundary": "自由铸造、合法付款与真实兑换便利并不等价；不得从小额取现推定所有存款永久流失。",
+    "pre_QA_page_scope": [
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "chapter": 2,
+    "pages": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "title": "商人融资成本和现金流通约束",
+    "author": "提高借款成本使商人缩减持货和订单；工资消费增加又逐渐吸收现金，准备约束因而影响扩张。",
+    "inputs": [
+      "loan_rate",
+      "holding_period",
+      "merchant_debt",
+      "cash_in_circulation",
+      "reserves"
+    ],
+    "boundary": "纸25原印存货持续时间与数量的反比例措辞有内部问题；固定销售速度下的解释应另列，不能冒称原文已更正。",
+    "pre_QA_page_scope": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  },
+  {
+    "chapter": 3,
+    "pages": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "title": "法定纸币和可兑现钞票分类",
+    "author": "作者按法律支付地位和发行者义务区分纸币与银行券，并认为不兑现纸币也可维持与记账单位的关系。",
+    "inputs": [
+      "legal_tender",
+      "issuer_obligation",
+      "redemption_terms",
+      "actual_acceptance"
+    ],
+    "boundary": "具有支付用途不保证购买力稳定；法律地位须对应时代，不能套用1919术语替代当前法规。",
+    "pre_QA_page_scope": [
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "chapter": 3,
+    "pages": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "title": "收入支出和信用存量分开",
+    "author": "作者区分消费者收入、消费者支出和未使用余额，把本期支出与库存增减、生产形成的收入联系起来。",
+    "inputs": [
+      "income_flows",
+      "outlay_flows",
+      "inventory_changes",
+      "balances",
+      "credit_scope"
+    ],
+    "boundary": "作者消费者口径包括投资性最终支出，不能直接换成现代个人消费或GDP项；存量与发生额不得混用。",
+    "pre_QA_page_scope": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "chapter": 3,
+    "pages": [
+      46,
+      47,
+      48,
+      49,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "title": "数量关系必须说明行为和代数条件",
+    "author": "流通速度与余额持有有关；章末代数说明新债务、偿债和取现如何改变商人余额、消费者余额及银行负债。",
+    "inputs": [
+      "new_credit",
+      "repayment",
+      "cash_withdrawal",
+      "balance_partition",
+      "model_assumptions"
+    ],
+    "boundary": "M=T+C是定义关系；h小于净新信用、人工合成商品数量等是假设。纸54文字X+x与公式X+x′差异留档，不用配平式证明因果比例。",
+    "pre_QA_page_scope": [
+      46,
+      47,
+      48,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "chapter": 4,
+    "pages": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "title": "外汇是异地支付债务的交换",
+    "author": "债务支付地点不同即非完全同质，汇率由相应支付需求与供给形成，国际收支不只等于进出口货物。",
+    "inputs": [
+      "payment_places",
+      "currency_units",
+      "payable_claims",
+      "imports_exports",
+      "other_payments"
+    ],
+    "boundary": "所谓有利不利汇价是当时报价约定，不能只看一个数字涨跌；须给币种方向、计价单位和到账地点。",
+    "pre_QA_page_scope": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "chapter": 4,
+    "pages": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "title": "歉收和外国借款经支出及外汇传导",
+    "author": "歉收先减少产出与收入；若支出因动用余额而未同比减少，汇兑才受不利压力。外国贷款改变国际支付与支出分布；真实兑换和金属运输可行时，汇率偏离受金输送成本界限约束。",
+    "inputs": [
+      "crop_output",
+      "imports",
+      "loan_proceeds",
+      "foreign_outlay",
+      "shipment_cost",
+      "convertibility",
+      "income_flows",
+      "outlay_flows",
+      "unused_balances"
+    ],
+    "boundary": "汇率冲击源与黄金流向要分开；跨国贷款未必立即以相同数额运金，运输受阻时旧界限不成立。",
+    "pre_QA_page_scope": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
+  },
+  {
+    "chapter": 4,
+    "pages": [
+      67,
+      68,
+      69,
+      70
+    ],
+    "title": "国际可运货与本地货物价格不必同步",
+    "author": "运输和市场联系限制国际商品价差，而不可运送的本地商品服务不受同一套利直接约束。",
+    "inputs": [
+      "tradability",
+      "transport_cost",
+      "price_baskets",
+      "tariffs",
+      "local_outlay"
+    ],
+    "boundary": "汇率与购买力的联系不是无摩擦统一指数定律；消费篮子、质量、关税和本地权重必须可比。",
+    "pre_QA_page_scope": [
+      67,
+      68,
+      69,
+      70,
+      71
+    ]
+  },
+  {
+    "chapter": 5,
+    "pages": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "title": "发行与准备制度要逐种核法律权限",
+    "author": "作者比较金证书、固定无金支持额度和其他发行安排，说明法定额度、实际钞票及准备之间的关系。",
+    "inputs": [
+      "issue_authority",
+      "notes_outstanding",
+      "fiduciary_limit",
+      "redemption",
+      "legal_reserve"
+    ],
+    "boundary": "未动用的法定发行空间不是现存黄金或立即可支出的净资本；所有制度是历史条件说明。",
+    "pre_QA_page_scope": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "chapter": 5,
+    "pages": [
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "title": "准备比例和危机弹性相互制约",
+    "author": "固定比例和固定额度约束会在准备减少时迫使收缩，危机中可能出现暂停限制或带税额外发行。",
+    "inputs": [
+      "reserve_ratio_rule",
+      "reserve_level",
+      "note_liabilities",
+      "emergency_authority",
+      "issue_tax"
+    ],
+    "boundary": "纸85美国税率和欧洲安排不归为现代法规；允许发行的弹性不等于解决坏资产偿付问题。",
+    "pre_QA_page_scope": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "chapter": 6,
+    "pages": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "title": "国际信用扩张经外汇和准备传播",
+    "author": "一地扩大支出会改变外汇与黄金移动，获得黄金的一地又可能扩大信用，使扩张传到其他市场。",
+    "inputs": [
+      "country_credit",
+      "outlay",
+      "fx_payments",
+      "gold_flows",
+      "bank_response"
+    ],
+    "boundary": "单国得金是相对分配，不等于世界净增黄金；各国同时扩张时金本位不能保证共同购买力固定。",
+    "pre_QA_page_scope": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "chapter": 6,
+    "pages": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "title": "证券发行与投资需求进入国际融资链",
+    "author": "新证券筹资、固定收益证券与产业股份、外国投资改变购买力的用途和跨境支付；准备政策会影响流入的后续信用。",
+    "inputs": [
+      "new_issues",
+      "use_of_proceeds",
+      "security_type",
+      "foreign_investment",
+      "reserve_policy"
+    ],
+    "boundary": "二级证券成交与新融资不可同算，证券价格或金流不能单独识别项目真实新增资本和国家总财富。",
+    "pre_QA_page_scope": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ]
+  },
+  {
+    "chapter": 7,
+    "pages": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ],
+    "title": "汇票的签名、到期和付款地",
+    "author": "出票、承兑、背书与贴现安排决定谁承担支付义务，汇票可将贸易货款与异地债务联系起来。",
+    "inputs": [
+      "drawer",
+      "acceptor",
+      "endorsers",
+      "maturity",
+      "place_of_payment",
+      "recourse"
+    ],
+    "boundary": "多个签名不是多个独立安全投票；同一冲击可影响整条担保链，法律追索依时代和合同核实。",
+    "pre_QA_page_scope": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ]
+  },
+  {
+    "chapter": 7,
+    "pages": [
+      103,
+      104,
+      105,
+      106
+    ],
+    "title": "金融中心信用便利依赖质量和清算能力",
+    "author": "金融中心的承兑信用和国际银行网络便利支付，但可接受性、偿付质量及中心的黄金市场也重要。",
+    "inputs": [
+      "acceptance_quality",
+      "settlement_network",
+      "gold_market_access",
+      "actual_payments"
+    ],
+    "boundary": "这里已加入前期模型暂搁置的信用质量；把名义国际中心身份或多家背书当必然兑付应弃权。",
+    "pre_QA_page_scope": [
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "chapter": 8,
+    "pages": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      124,
+      125,
+      126
+    ],
+    "title": "紧缩先作用商人持货与生产订单",
+    "author": "提高利率促使借款商人降低存货和订单，收入与支出下降后，现金逐渐回银行，私人债务也可能减少。",
+    "inputs": [
+      "merchant_rate",
+      "inventory",
+      "orders",
+      "payroll",
+      "debt_repayment",
+      "cash_return"
+    ],
+    "boundary": "不同产业依赖短债程度不同；提息后的价格变化不是单一瞬时比例，名义债务减少也不必说明盈利改善。",
+    "pre_QA_page_scope": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ]
+  },
+  {
+    "chapter": 8,
+    "pages": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "title": "金融中心利率和外汇收益按期限净算",
+    "author": "中心市场收缩可影响融资、证券和跨国支付，短期利差须与汇率变化及资金期限一起衡量。",
+    "inputs": [
+      "interest_basis",
+      "investment_days",
+      "fx_entry_exit",
+      "transfer_cost",
+      "funding_risk"
+    ],
+    "boundary": "一年利差不能当三个月实得收益；纸115的一个百分点对应三个月约四分之一个百分点只是简单利息示例。",
+    "pre_QA_page_scope": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  },
+  {
+    "chapter": 8,
+    "pages": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "title": "金汇兑与取现习惯限定调节渠道",
+    "author": "为支持所述汇价目标出售外国资产时，收到的本地纸币须实际退出且不再放出，并维持信用限制；印度汇兑与兑换界限以及不同群体的现金和信用习惯又限定渠道。",
+    "inputs": [
+      "foreign_reserve_rights",
+      "local_redemption",
+      "remittance_terms",
+      "cash_habits",
+      "seasonality",
+      "cash_withdrawal",
+      "bank_re_lending",
+      "discount_rate"
+    ],
+    "boundary": "纸121–122的卢比平价和小分数只属该制度；作者七至十年周期为历史观察，未校准现代预测。缺真实回收、再放贷或信用限制资料时，弃权于此机制已维持汇价的判断。",
+    "pre_QA_page_scope": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ]
+  },
+  {
+    "chapter": 9,
+    "pages": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "title": "金融危机是回收信用与资产出售的压力链",
+    "author": "扩张与现金约束后的收缩，可迫使借款人售货售证券，银行和客户在资产价值及偿付压力上相互牵连。",
+    "inputs": [
+      "loan_recall",
+      "asset_quality",
+      "capital",
+      "cash_needs",
+      "forced_sales",
+      "defaults"
+    ],
+    "boundary": "良好平时报价不保证压力出售价格；流动性不足与净资产不足必须分别判断，不能以准备比例一项解除风险。",
+    "pre_QA_page_scope": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ]
+  },
+  {
+    "chapter": 9,
+    "pages": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "title": "危机跨国传播有贸易与证券渠道",
+    "author": "农产、国际商品、证券抛售和外国融资收缩，会让一国危机影响其他国；借款发展中的市场可能更脆弱。",
+    "inputs": [
+      "trade_exposure",
+      "foreign_funding",
+      "security_sales",
+      "maturity",
+      "price_sensitivity"
+    ],
+    "boundary": "同方向价格变化不足以确定起源和因果权重；新发行、既有证券换手及真实国际支付要分开。",
+    "pre_QA_page_scope": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ]
+  },
+  {
+    "chapter": 9,
+    "pages": [
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "title": "杠杆与短借长投放大行情敏感性",
+    "author": "固定债息可使经营收入变化放大股东残余收益；投机者的短期或可随时收回融资在危机中加重出售压力。",
+    "inputs": [
+      "operating_receipts",
+      "costs",
+      "interest",
+      "leverage",
+      "recall_terms",
+      "asset_horizon"
+    ],
+    "boundary": "纸146是假设企业收益率，不能改成股票实得回报；纸147极端拆息带转述限定，未独立确认或当可投资收益。",
+    "pre_QA_page_scope": [
+      146,
+      147,
+      148,
+      149,
+      150
+    ]
+  },
+  {
+    "chapter": 10,
+    "pages": [
+      151,
+      152,
+      153,
+      154
+    ],
+    "title": "危机救助需质量条件与惩罚成本",
+    "author": "应阻止全面信心崩溃，对合格信用提供足够支持，同时较高利率和审查可约束不必要借款。",
+    "inputs": [
+      "collateral_quality",
+      "borrower_solvency",
+      "emergency_authority",
+      "penalty_cost",
+      "currency_commitment"
+    ],
+    "boundary": "充分援助与无条件替坏账兜底不同；质量、支付能力和合法权限缺失时不可批准救助或宣称保证安全。",
+    "pre_QA_page_scope": [
+      151,
+      152,
+      153,
+      154
+    ]
+  },
+  {
+    "chapter": 10,
+    "pages": [
+      154,
+      155,
+      156,
+      157,
+      158,
+      159
+    ],
+    "title": "资产的所在地点与国际信用质量",
+    "author": "危机涉及金融中心、外国信用和国际合作，资产账面存在不等于在所需地点及时获得付款。",
+    "inputs": [
+      "asset_locations",
+      "payment_places",
+      "transfer_permission",
+      "foreign_counterparty",
+      "settlement_lags"
+    ],
+    "boundary": "海外准备、外国汇票与本地现款不可默认完全互替；需要当地兑现窗口和可执行转移证据。",
+    "pre_QA_page_scope": [
+      155,
+      156,
+      157,
+      158
+    ]
+  },
+  {
+    "chapter": 10,
+    "pages": [
+      152,
+      153,
+      154,
+      159,
+      160,
+      161,
+      162
+    ],
+    "title": "暂停发行限制与保卫标准可能冲突",
+    "author": "危机中可能需改变钞票供应限制，金汇兑制度和国外信用也影响维持支付的选择。",
+    "inputs": [
+      "issue_constraints",
+      "reserve_availability",
+      "gold_parity",
+      "external_credit",
+      "crisis_cash_demand"
+    ],
+    "boundary": "暂停一种发行规则不是暂停全部偿债责任，也不保证黄金平价永久成立；不能把作者政策建议当当前自动风险门。",
+    "pre_QA_page_scope": [
+      159,
+      160,
+      161,
+      162
+    ]
+  },
+  {
+    "chapter": 11,
+    "pages": [
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171
+    ],
+    "title": "货币作为信用替代与分类自我限定",
+    "author": "作者比较商品货币与信用的分析，并提出新生产贷款和既有债务转移的区分，但明言把这种区分作为严格逻辑分类并不稳固。",
+    "inputs": [
+      "loan_use",
+      "gross_vs_net_credit",
+      "production",
+      "debt_transfers",
+      "accepted_money"
+    ],
+    "boundary": "纸169的自我限定必须保留，混合贷款不能按名称二分；信用净增和某笔原始贷款用途仍是不同问题。",
+    "pre_QA_page_scope": [
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170
+    ]
+  },
+  {
+    "chapter": 11,
+    "pages": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      181,
+      182,
+      183,
+      184
+    ],
+    "title": "法偿、金属价值与债务连续性",
+    "author": "不同成色、面值、铸造与法偿制度可让钱的债务单位区别于其金属含量；改制可保留或改变旧合同单位。",
+    "inputs": [
+      "fine_metal",
+      "face_value",
+      "legal_tender_limit",
+      "mint_rights",
+      "debt_unit",
+      "market_quotes"
+    ],
+    "boundary": "劣币驱良币要有价权等条件，不能泛称低质量资产必胜；纸184不同媒介溢价须指明各自参照。",
+    "pre_QA_page_scope": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184
+    ]
+  },
+  {
+    "chapter": 12,
+    "pages": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      378,
+      379
+    ],
+    "title": "临时贷款与支付信用是两种银行职能",
+    "author": "银行经营债务，同时提供暂时融资和可转让支付债权；两职能结合便利，但不是逻辑上无法分离。",
+    "inputs": [
+      "temporary_lending",
+      "payment_liabilities",
+      "deposit_terms",
+      "balance_demand",
+      "bank_income"
+    ],
+    "boundary": "此分解不等于作者支持取消银行；章21又说明即使拆开职能或取消短贷，周期仍可能出现。",
+    "pre_QA_page_scope": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191
+    ]
+  },
+  {
+    "chapter": 12,
+    "pages": [
+      193,
+      194,
+      195,
+      196,
+      197
+    ],
+    "title": "银行资产需匹配负债回收期与质量",
+    "author": "银行负债可能随时支付，资产应在需要时收回或变现；短期票据、证券、抵押和资本融资的差别不能只凭总值判断。",
+    "inputs": [
+      "liability_maturities",
+      "asset_maturities",
+      "marketability",
+      "collateral_quality",
+      "concentration",
+      "capital"
+    ],
+    "boundary": "短期或证券可交易不是无损保证；抵押物长寿命和账面有担保不能填补即期现金。",
+    "pre_QA_page_scope": [
+      192,
+      193,
+      194,
+      195,
+      196,
+      197
+    ]
+  },
+  {
+    "chapter": 12,
+    "pages": [
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "title": "中央银行与监管目标分层",
+    "author": "作者比较英美欧准备、再贴现和法定安排，讨论币值维护、银行兑付与国家对发行及银行制度的责任。",
+    "inputs": [
+      "institutional_rules",
+      "central_bank_powers",
+      "reserve_structure",
+      "redemption",
+      "supervision_scope"
+    ],
+    "boundary": "历史制度分析非现行法规建议；本国全部银行合并不消除最终黄金和国外支付义务。",
+    "pre_QA_page_scope": [
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205
+    ]
+  },
+  {
+    "chapter": 13,
+    "pages": [
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215
+    ],
+    "title": "战争融资先看实物资源和跨国支付",
+    "author": "政府税收、借款和信用改变购买力分配；动员、进口、市场关闭及国际中心地位影响战争支付的实现。",
+    "inputs": [
+      "government_outlay",
+      "taxes",
+      "borrowing_source",
+      "real_resources",
+      "foreign_payments",
+      "market_access"
+    ],
+    "boundary": "国家能创造支付单位不等于创造物资；历史海权和民族评价是时代性判断，不能当现代定量因果。",
+    "pre_QA_page_scope": [
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215
+    ]
+  },
+  {
+    "chapter": 13,
+    "pages": [
+      216,
+      217
+    ],
+    "title": "战争高价可减名义库存债但短票不保证无损",
+    "author": "作者用库存出售的例子说明利润与价格上升可以减少私人借债，并叙述短期国库券给银行和持有人提供便利。",
+    "inputs": [
+      "inventory_sales",
+      "sale_prices",
+      "old_debt",
+      "bill_maturity",
+      "discount_rate",
+      "liquidity"
+    ],
+    "boundary": "原文任何时候贴现不损失为作者的强说法；独立分析需给利率、买卖价和费用，不能保留为普遍保证。",
+    "pre_QA_page_scope": [
+      216,
+      217
+    ]
+  },
+  {
+    "chapter": 14,
+    "pages": [
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      232
+    ],
+    "title": "战争信用扩张与汇价压力",
+    "author": "银行对政府融资、纸币与工资消费的增长可扩大名义支出，并通过进口支付和汇价表现；政府支持票据也改变信用质量安排。",
+    "inputs": [
+      "bank_government_assets",
+      "paper_issue",
+      "payroll",
+      "imports",
+      "fx",
+      "guarantee_terms"
+    ],
+    "boundary": "担保、银行能支付和实物充足分别核实；不能仅用纸币发行额单比例预测所有物价。",
+    "pre_QA_page_scope": [
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225
+    ]
+  },
+  {
+    "chapter": 14,
+    "pages": [
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232
+    ],
+    "title": "国外融资缓解一地压力但改变别处支出",
+    "author": "外国借款和国外信用可供应进口支付；黄金出口和自由铸造受到战争限制，各国名义通货变化不等于同量财富。",
+    "inputs": [
+      "foreign_loans",
+      "use_of_proceeds",
+      "gold_export_rights",
+      "currency_issue",
+      "income_distribution"
+    ],
+    "boundary": "不得将国外借款重复算作本国新增实物与全球新增资源；史料中动机推测和分配评价不是已识别因果。",
+    "pre_QA_page_scope": [
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232
+    ]
+  },
+  {
+    "chapter": 15,
+    "pages": [
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ],
+    "title": "指券的资产承诺与持续发行压力",
+    "author": "法国指券以国有土地安排起步，财政缺口、战事、发行与价格管制逐步改变其用途和购买力。",
+    "inputs": [
+      "land_sale_rules",
+      "issue_redemption",
+      "fiscal_gap",
+      "war_outlay",
+      "price_controls",
+      "circulation"
+    ],
+    "boundary": "土地名义担保不等于每个持有人随时按稳定价格取回；作者政治评价需与可核数字和制度分别表达。",
+    "pre_QA_page_scope": [
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244
+    ]
+  },
+  {
+    "chapter": 15,
+    "pages": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254
+    ],
+    "title": "纸币改制与旧合同换算",
+    "author": "指券贬值、投机、强制借款和后来的土地券安排涉及法定比率与市场价值分离，旧债务必须另处理。",
+    "inputs": [
+      "market_conversion",
+      "legal_conversion",
+      "contract_dates",
+      "currency_stock",
+      "fiscal_repayment"
+    ],
+    "boundary": "纸249印1795与邻页1796序列冲突保留；纸251约三分之一百分比、纸252六十七点五亿由原图核，未独立校所有法令。",
+    "pre_QA_page_scope": [
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254
+    ]
+  },
+  {
+    "chapter": 16,
+    "pages": [
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265
+    ],
+    "title": "限制兑现的即时诱因与后续贬值分开",
+    "author": "作者追述1797危机、政府借款、国际支付及银行取现压力，说明暂停黄金付款与后来通货变化的先后关系。",
+    "inputs": [
+      "government_advances",
+      "reserve_drains",
+      "cash_demands",
+      "external_payments",
+      "suspension_dates"
+    ],
+    "boundary": "不能由暂停的即时诱因直接解释二十年的物价；纸262币价和汇价表基准与小数舍入须公开。",
+    "pre_QA_page_scope": [
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266
+    ]
+  },
+  {
+    "chapter": 16,
+    "pages": [
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278
+    ],
+    "title": "限制期指数与汇价表的测量限制",
+    "author": "作者将1797–1818物价、金银价和巴黎汉堡汇价并列，讨论战争、贸易与发行对变化的影响及回归计划。",
+    "inputs": [
+      "index_basis",
+      "year_window",
+      "bullion_quotes",
+      "fx_direction",
+      "issue_series",
+      "resumption_law"
+    ],
+    "boundary": "原表黄金缺值、银价口径和旧资料差异保留；纸275的6½d.%单位问题、1819法案与后续计划不能悄悄统一为一个兑现日期。",
+    "pre_QA_page_scope": [
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278
+    ]
+  },
+  {
+    "chapter": 17,
+    "pages": [
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288
+    ],
+    "title": "改铸与金属量表要区别总重和纯度",
+    "author": "作者追溯英国银币减重、法偿与流通，按银便士重量及每磅铸造金额说明货币标准的改变。",
+    "inputs": [
+      "weight_unit",
+      "fineness",
+      "coin_count",
+      "mint_amount",
+      "legal_value"
+    ],
+    "boundary": "纸281塔磅和特洛伊磅不得混算；表中每便士重量是合金总重，比例舍入不是全表绝对精度保证。",
+    "pre_QA_page_scope": [
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288
+    ]
+  },
+  {
+    "chapter": 17,
+    "pages": [
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298
+    ],
+    "title": "恢复币重并不自动公平恢复旧债务",
+    "author": "金匠、银行、1696改铸及洛克与朗兹的争论显示面值、流通实际金属量与合同单位可分离，改制会分配损益。",
+    "inputs": [
+      "contract_unit",
+      "coin_actual_weight",
+      "conversion_policy",
+      "holder_positions",
+      "payment_dates"
+    ],
+    "boundary": "复归旧含量、恢复市场平价和调整债权公平不是一个目标；没有实际合同及持仓不裁定受益者。",
+    "pre_QA_page_scope": [
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298
+    ]
+  },
+  {
+    "chapter": 18,
+    "pages": [
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311
+    ],
+    "title": "金标准的形成有制度和银用途转换",
+    "author": "英国法偿和铸币改革、欧洲双金属安排及美洲纸币经验，表明金标准形成不是黄金物理性质单独决定。",
+    "inputs": [
+      "coinage_law",
+      "mint_access",
+      "silver_monetary_use",
+      "paper_conversion",
+      "debt_adjustment"
+    ],
+    "boundary": "大陆纸币约一比四十是1780年相对银的市场价值；随后五年票据认购按不高于一比二十，1790年残余股票认购按一比一百，不能合成单一回收率。",
+    "pre_QA_page_scope": [
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311
+    ]
+  },
+  {
+    "chapter": 18,
+    "pages": [
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ],
+    "title": "美国金银与银行危机存在多条渠道",
+    "author": "作者叙述美国恢复黄金、银购买和纸币安排、铁路融资与1890年代危机，联系通货结构及资本市场。",
+    "inputs": [
+      "currency_heads",
+      "note_retirement",
+      "silver_issue",
+      "foreign_funding",
+      "railroad_credit",
+      "crisis_dates"
+    ],
+    "boundary": "356−186与222两项不能当完整广义货币总量；纸318按日拆息佣金加年息不是稳定年收益。",
+    "pre_QA_page_scope": [
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320
+    ]
+  },
+  {
+    "chapter": 19,
+    "pages": [
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330
+    ],
+    "title": "俄奥改制和印度限铸要核实际兑换阶段",
+    "author": "奥匈、俄国与印度通过限制银铸、调整纸币和准备逐步改变标准，法令与实际恢复可能不同步。",
+    "inputs": [
+      "actual_redemption",
+      "legal_dates",
+      "mint_restrictions",
+      "reserves",
+      "currency_quotes"
+    ],
+    "boundary": "外国黄金资产、国内金币和宣布平价不可互当；作者转述历史资料未等同本次完整阅读所有监管档案。",
+    "pre_QA_page_scope": [
+      321,
+      322,
+      323,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330
+    ]
+  },
+  {
+    "chapter": 19,
+    "pages": [
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343
+    ],
+    "title": "币券吸收与地域准备分开核实",
+    "author": "印度币券吸收表、饥荒、商品贸易和伦敦储备安排说明本地通货需求与世界信用有关，黄金资产位置会影响汇兑调节。",
+    "inputs": [
+      "coin_note_net_absorption",
+      "local_vs_foreign_reserves",
+      "crop_stress",
+      "world_credit",
+      "remittance",
+      "silver_price"
+    ],
+    "boundary": "15行表横加一致不证明因果权重；伦敦和印度之间的准备调拨不是国家全部准备凭空减少，饥荒作用不能只靠符号裁决。",
+    "pre_QA_page_scope": [
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343
+    ]
+  },
+  {
+    "chapter": 20,
+    "pages": [
+      344,
+      345,
+      346,
+      347,
+      348,
+      349
+    ],
+    "title": "战后重建需区分实物资本与融资购买力",
+    "author": "战争改坏纸币、黄金需求与运输机制；恢复标准需要处理政府银行债务，而重建依赖产出超出消费和实物补充。",
+    "inputs": [
+      "war_currency",
+      "transport_permission",
+      "government_bank_debt",
+      "real_output",
+      "consumption",
+      "reconstruction"
+    ],
+    "boundary": "资本两种含义分开；私人已少借银行时，仅提高商人利率未必收缩政府形成的信用。",
+    "pre_QA_page_scope": [
+      344,
+      345,
+      346,
+      347,
+      348,
+      349
+    ]
+  },
+  {
+    "chapter": 20,
+    "pages": [
+      350,
+      351,
+      352,
+      353
+    ],
+    "title": "财政偿债、私人融资和紧缩不能双计效果",
+    "author": "政府偿还银行债务可留出私人贷款空间，也可降低总信用；税收和筹借长期债可能不同地影响消费及重建储蓄。",
+    "inputs": [
+      "government_repayment",
+      "bank_re_lending",
+      "tax_incidence",
+      "savings_source",
+      "funding_maturity"
+    ],
+    "boundary": "同笔还款全部同时算作两种好处会重复计算；作者偏税是条件政策判断，短借长持国债可重新制造危机。",
+    "pre_QA_page_scope": [
+      350,
+      351,
+      352,
+      353
+    ]
+  },
+  {
+    "chapter": 20,
+    "pages": [
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363
+    ],
+    "title": "改货币单位的公平与国际黄金协调冲突",
+    "author": "旧债负担、国债信用、长期固定收入、黄金吸收和工资调整约束战后政策，作者明确未来趋势无法预知。",
+    "inputs": [
+      "contract_dates",
+      "payment_units",
+      "fixed_income",
+      "national_debt",
+      "gold_absorption",
+      "wages",
+      "fiscal_capacity"
+    ],
+    "boundary": "1919情景不是已验证预言；新单位不应被当任意削债授权，金汇兑节金也可能改变世界金价购买力。",
+    "pre_QA_page_scope": [
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363
+    ]
+  },
+  {
+    "chapter": 21,
+    "pages": [
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ],
+    "title": "记账单位不等于唯一金属重量",
+    "author": "作者批评古典理论把记账单位与支付金属完全等同，同时承认金属约束在防滥发与信用上有实际作用。",
+    "inputs": [
+      "account_unit",
+      "legal_payment",
+      "contract_terms",
+      "convertibility",
+      "historical_context"
+    ],
+    "boundary": "开头重述的不可兑纸币无价值观点是被批评对象；特定交金合同与一般金钱合同分别核实。",
+    "pre_QA_page_scope": [
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370
+    ]
+  },
+  {
+    "chapter": 21,
+    "pages": [
+      371,
+      372,
+      373,
+      374,
+      375
+    ],
+    "title": "黄金需求与稳定目标要明确",
+    "author": "货币用途构成黄金需求，金属标准不能避免共同信用周期；稳定物价、稳定消费支出与按劳动努力调单位存在不同取舍。",
+    "inputs": [
+      "monetary_gold_demand",
+      "industrial_gold_use",
+      "final_price_weights",
+      "outlay",
+      "population",
+      "productivity",
+      "chosen_standard"
+    ],
+    "boundary": "纸373现金作为结果的陈述限其正常周期机制；指数与支出不精确同比，稳定目标也非作者已给可自动执行算法。",
+    "pre_QA_page_scope": [
+      371,
+      372,
+      373,
+      374,
+      375
+    ]
+  },
+  {
+    "chapter": 21,
+    "pages": [
+      375,
+      376,
+      377,
+      378,
+      379,
+      380
+    ],
+    "title": "银行传导周期不等于银行创造周期根源",
+    "author": "作者以商人和项目组织者的订单判断解释不稳定，并用拆分银行职能、无短贷反事实说明周期仍可存在，银行反可减轻和控制波动。",
+    "inputs": [
+      "merchant_orders",
+      "promoter_forecasts",
+      "balance_partition",
+      "lending_channels",
+      "production",
+      "outlay_timing",
+      "velocity_scope"
+    ],
+    "boundary": "反事实是理论推演而非独立自然实验；流通速度与贸易需要不是外生常数，不能仅凭相关比值裁定信用因果。",
+    "pre_QA_page_scope": [
+      376,
+      377,
+      378,
+      379,
+      380
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "book_id": "P30",
+  "status": "passed_with_source_limits_final_hash_closed",
+  "qualified_pass": true,
+  "final_status_authority": true,
+  "semantic_review_evidence": "P30-independent-QA.json + P30-final-confirmation.json",
+  "final_metadata_only_verification": true,
+  "canonical_directory": "outputs/book-experts-v5/P30",
+  "final_artifact_sha256": {
+    "专家定义.json": "2c51eeae4e9050b0cd65d8c06d8fbcebe8cd5aadd192c634175182e39284028e",
+    "章节与阅读审计.json": "152b7060b5e9c6b8c9ecddde361e2bae9828edd5f7f1167f66415b61c2e9271e",
+    "独立复核.json": "ef48b12fdc5aaab123f498d5e2d38a83ca83d528c0b319f1926e226fbdb6f137",
+    "validation.json": "9c02ec64990fe84be736d55b3d5813429b37f114824c75718ba2893f1636ebda",
+    "专家说明.md": "958855ca0281536e3f6c59428059065e94521b3795fcd9ddd5220c547ef08e6e",
+    "全书综合与附录.md": "25254419b24208cb6fc7b486b77ff96fc295f179add6a9f98fed74f101dabc20"
+  },
+  "source_byte_integrity44_files_still_identical": true,
+  "full_book_body_han": 34776,
+  "minimum_original_chapter_han": 2099,
+  "original_chapter_count": 15,
+  "rule_count": 34,
+  "precise_page_contexts": 168,
+  "all_scan_glyphs_individually_verified": false,
+  "all_external_history_verified": false,
+  "current_market_calls": 0,
+  "backtests": 0,
+  "calibrated_probability": false,
+  "reviewer_did_not_modify_canonical": true,
+  "completed_utc": "2026-10-13T13:32:42.921041+00:00"
+}

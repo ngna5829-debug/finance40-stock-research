@@ -1,0 +1,128 @@
+[
+  {
+    "issue": "ExponentialmeanSDreciprocalwrong",
+    "page": 396,
+    "original": "mu definedmean,density1/mu exp(-x/mu),meanSDsaid1/mu",
+    "independent": "mean andSD mu forscalemu,rate1/mu;unitsinverse distinguish"
+  },
+  {
+    "issue": "Phone2minquestion1minsolution",
+    "page": 396,
+    "original": "2minutes requested,solution1minute.736",
+    "independent": "2minute.93051655,1minute.73640286 separately retained"
+  },
+  {
+    "issue": "Rebalance10pctstockassetswrongdenominator",
+    "page": 397,
+    "original": "sellapprox10pctofstockassets aligns40/50/10",
+    "independent": "sell65920/306000=21.5425pct;buybond64100 cash1820 undercostlessfixedtotal;10pctstockgives45.8847pctstock"
+  },
+  {
+    "issue": "Highestfrequencywrongrow",
+    "page": 394,
+    "original": "most300to599buttablemiddle6at900to1199",
+    "independent": "all20recount6at900to1199 not3at300to599;bellshape notformalnormalityproof"
+  },
+  {
+    "issue": "Z2betterthanallnotimplied",
+    "page": 390,
+    "original": "12.4returnz2 signifiesbetterthanallotherfunds",
+    "independent": "abovegroupmean2SD notmaximum/causal skill;normalrankonlyifnormalassumed"
+  },
+  {
+    "issue": "Quantilealgorithms differ",
+    "pages": [
+      391,
+      392,
+      408
+    ],
+    "original": "excludeoddmedian halves butRsummary defaulttype7",
+    "independent": "bothvalidspecified conventions, not interchangeable quartiles/outliercutoffs;smalln notexact25pctbelow",
+    "primary_url": "https://www.stat.ethz.ch/R-manual/R-devel/library/stats/html/quantile.html"
+  },
+  {
+    "issue": "CPIannual labelmonthlyJanuary",
+    "pages": [
+      403,
+      404
+    ],
+    "original": "annual2012to2021;2020 257.97/2021 261.58",
+    "independent": "BLS2020Jan257.971/2021Jan261.582;2016to2021matchJanuary notannualmeans;2016lastdecimaltruncation236.91 vs236.916rounded236.92",
+    "primary_url": "https://www.bls.gov/regions/mid-atlantic/data/consumerpriceindexhistorical_us_table.htm"
+  },
+  {
+    "issue": "Nike13rows duplicatedlastpair datesnotmatchedhistorical",
+    "page": 405,
+    "original": "12month table13rows,lastMarch1andMarch12identical3943.34/140.45",
+    "independent": "allpairskept,duplicatechangescorrelation;quoteendofday/monthtimingunknown;levelcorrelationnotreturnbeta"
+  },
+  {
+    "issue": "Probabilityvsallocationweights",
+    "pages": [
+      397,
+      398
+    ],
+    "original": "assetallocationweightsdescribedprobabilities andhistoricalUALprobabilityundefinedperiod",
+    "independent": "linearityexpectedportfolioreturn validweightsnotrandomexclusiveeventprobabilities;unknownprospectiveprobcalibration"
+  },
+  {
+    "issue": "Normalandexp assertions notvalidated",
+    "pages": [
+      394,
+      395,
+      399,
+      400
+    ],
+    "original": "decreasingbinsimpliesnormal,financialseriesfollownormal,expenseexponential",
+    "independent": "shapeinsufficient,normalcannegativeoutsideGPA/domain;expconstantrate/memorylessness needsjustification;notreplacecalibration"
+  },
+  {
+    "issue": "Median/ties/squares/zeroSDedgecases",
+    "pages": [
+      383,
+      386,
+      387,
+      390,
+      391
+    ],
+    "original": "25eachside median,all squarespositive,zscore nozerovarcase",
+    "independent": "tiesexcludeexactcounts;squaresnonnegative,SD0→zundefined;samplevariance needsn>=2"
+  },
+  {
+    "issue": "Problem3percentile insufficientdistribution",
+    "page": 415,
+    "original": "grade60mean70sd5 askspercentile withoutnormal",
+    "independent": "z−2 computable,percentile notunique;2.275pct onlyaddednormalassumption"
+  },
+  {
+    "issue": "Rfrequnspecified package",
+    "page": 409,
+    "original": "freq() listedcommon withoutnamespace/library",
+    "independent": "missingpackageenvironment;officialbase table providescounts;noactualRtestclaimed",
+    "primary_url": "https://www.stat.ethz.ch/R-manual/R-devel/library/base/html/table.html"
+  },
+  {
+    "issue": "MC7IQR notnumericdistance",
+    "page": 414,
+    "original": "IQR choice middle50percentdataset",
+    "independent": "Q3-Q1 width notsetofmiddleobservations,questionchoicesimprecise"
+  },
+  {
+    "issue": "Histogramshape requireswidth/unit",
+    "pages": [
+      401,
+      402,
+      403
+    ],
+    "independent": "equalwidthfrequencyshape comparable;unequalbinsdensitydifferent;100countand8frequenciesverifiednotgeneral100minimumrule"
+  },
+  {
+    "issue": "Rsequence arithmeticoutput statisticalrecompute",
+    "pages": [
+      407,
+      408,
+      409
+    ],
+    "independent": "Rsalarysummaryquantiles47500/79250 correcttype7;variance558916666.67round;Pythonindependent notactualRExcelTIexecution"
+  }
+]

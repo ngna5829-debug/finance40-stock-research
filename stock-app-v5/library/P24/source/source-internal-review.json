@@ -1,0 +1,361 @@
+{
+  "book_id": "P24",
+  "status": "whole-source reading plus22 internal checks and root full source QA; no full-glyph or external historical guarantee",
+  "records": [
+    {
+      "id": "N01",
+      "pdf": [
+        96
+      ],
+      "printed": [
+        74
+      ],
+      "status": "original wording confirmed; historical fact not externally adjudicated",
+      "original": "Halifax Currency Pound divided into twenty shillings of twenty pence each; sixty such pence equal dollar",
+      "review": "原图确实twenty，不是OCR把twelve错成twenty。不同于熟悉制度的描述，未查外部精确来源，不擅改或据此计算历史收益。"
+    },
+    {
+      "id": "N02",
+      "pdf": [
+        94
+      ],
+      "printed": [
+        72
+      ],
+      "status": "missing OCR fraction visually recovered",
+      "original": "macute about 2¾d",
+      "review": "OCR丢掉该分数；原图为2¾便士，仅保留旧资料。"
+    },
+    {
+      "id": "N03",
+      "pdf": [
+        106
+      ],
+      "printed": [
+        84
+      ],
+      "status": "original prices confirmed; independent arithmetic distinct",
+      "original": "kobang18s5d;4itzebus each1s4d; author says trebled money",
+      "independent_arithmetic": {
+        "external_pence": 221,
+        "internal_pence": 64,
+        "gross_ratio_before_all_costs": 3.453125
+      },
+      "review": "作者三倍为概述；给定数值毛比约3.453，不是精确已实现回报，未扣成本。"
+    },
+    {
+      "id": "N04",
+      "pdf": [
+        127
+      ],
+      "printed": [
+        105
+      ],
+      "status": "two major OCR errors corrected from original",
+      "OCR": [
+        "128.27447grains",
+        "118.00160grains"
+      ],
+      "original": [
+        "123.27447grains total standard gold",
+        "113.00160grains fine gold"
+      ],
+      "independent_arithmetic": {
+        "total_times_11_over_12": 113.0015975,
+        "480_divided_total": 3.8937502631323424
+      }
+    },
+    {
+      "id": "N05",
+      "pdf": [
+        134
+      ],
+      "printed": [
+        112
+      ],
+      "status": "OCR fraction corrected from original",
+      "original": "31½ percent sovereigns below legal limit; nearly half half-sovereigns",
+      "review": "作者1869调查，全文方法未在本章展示，不作现代永久比例。"
+    },
+    {
+      "id": "N06",
+      "pdf": [
+        138
+      ],
+      "printed": [
+        116
+      ],
+      "status": "OCR fraction corrected from original",
+      "original": "mint price£3 17s10½d; bank£3 17s9d; prior charges.2828%; current conversion about¼%",
+      "review": "旧费率与作者近似判断，不是今天实际兑换收费。"
+    },
+    {
+      "id": "N07",
+      "pdf": [
+        145
+      ],
+      "printed": [
+        123
+      ],
+      "status": "all equivalent-metal table entries visually read",
+      "original": "gold1,platinum3½,aluminium7,silver16,nickel71,tin942,copper1696,lead6360,bariron15900,pigiron50880",
+      "review": "特定商业口径、报价不确定并变动，不是固定自然比率。"
+    },
+    {
+      "id": "N08",
+      "pdf": [
+        152
+      ],
+      "printed": [
+        130
+      ],
+      "status": "all coin-count table entries visually read; arithmetic checked",
+      "OCR_total_pieces": 888518000,
+      "original_total_pieces": 388518000,
+      "weight_total": 2652,
+      "pieces_total": 388518000,
+      "nominal_printed_total": 1108627,
+      "independent_from_piece_count": {
+        "pennies": 710079.1666666666,
+        "halfpennies": 342718.75,
+        "farthings": 55827.083333333336,
+        "total": 1108624.9999999998
+      },
+      "review": "原印金额之和1108627成立，但各枚数乘面值略不等原印各金额，原因未注明，不静默改正。"
+    },
+    {
+      "id": "N09",
+      "pdf": [
+        152
+      ],
+      "printed": [
+        130
+      ],
+      "status": "currency-weight table visually read",
+      "original": "paper40million/16tons;gold100million/786tons;silver15million/1670tons;bronzeapprox1.1million/2652tons; total5124tons",
+      "review": "作者称重量与名义额反向；不是严格反比，纸与金排序已表明不能拟合固定inverse公式。"
+    },
+    {
+      "id": "N10",
+      "pdf": [
+        160
+      ],
+      "printed": [
+        138
+      ],
+      "status": "all labelled diagram actually reviewed",
+      "original": "A/Bhypotheticalmetalvaluecurves,Cextreme-combination,Dalternatinglower-value standard",
+      "review": "无日期价位样本的概念图，非真实行情、回测输入或波动率。"
+    },
+    {
+      "id": "N11",
+      "pdf": [
+        163
+      ],
+      "printed": [
+        141
+      ],
+      "status": "selected fractions visually checked",
+      "original": "silver62½d to57¾d; earlier59¼d to62½d",
+      "review": "作者时代价位与论证，不据孤立端点做已校准收益率。"
+    },
+    {
+      "id": "N12",
+      "pdf": [
+        179
+      ],
+      "printed": [
+        157
+      ],
+      "status": "author revision explicitly preserved",
+      "original": "0.043grain annual wear,0.774margin→about18years;Farr correction15;Seyd suggests20",
+      "review": "平均合法重量寿命估计并有不同建议，不是每币确定过期，也非原文已完整展示全部研究方法。"
+    },
+    {
+      "id": "N13",
+      "pdf": [
+        185,
+        186,
+        187
+      ],
+      "printed": [
+        163,
+        164,
+        165
+      ],
+      "status": "all key cost tables/fractions visually reviewed",
+      "original": "5s cost vs5s6d nominal;9%seignorage of nominal;3¼%compound,30yr factor2.61;silverwithdrawn16½%;bronze1⅛million,total131⅛million; annualinterest4262000/wear48000/mint42000,total4352000",
+      "independent_arithmetic": {
+        "seignorage_nominal": 0.09090909090909091,
+        "compound_factor": 2.6103684386132895,
+        "nine_pct_accumulated": 0.23493315947519605,
+        "capital_millions": 131.125,
+        "annual_interest_exact_given_basis": 4261562.5,
+        "three_printed_costs_sum": 4352000
+      },
+      "review": "作者基金是计算视角，不证明真实分设基金；总利息取整，机会成本非实付利息；未知丢币与铸币收益相抵不是实测相等。"
+    },
+    {
+      "id": "N14",
+      "pdf": [
+        200,
+        201
+      ],
+      "printed": [
+        178,
+        179
+      ],
+      "original": "Gold quote111; discount10%; new gold mint44.384grains; compensation103½new for100old.",
+      "independent_analysis": {
+        "quote111_exact_discount_pct": 9.909909909909908,
+        "49.316_times_0.9": 44.38440000000001,
+        "49.316_times_100_over111": 44.428828828828834,
+        "25.8_over24.89_times100": 103.6560867818401,
+        "boundary": "作者数为近似建议，不是无损换算全部精确一致；纸约与金合同不同。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N15",
+      "pdf": [
+        208
+      ],
+      "printed": [
+        186
+      ],
+      "original": "12s6d converted at25franc per£ represented by1.56 ten-franc units.",
+      "independent_analysis": {
+        "exact_francs": 15.625,
+        "exact_10franc_units": 1.5625,
+        "boundary": "1.56与156便士为建议近似精度，不能称完全相同价值。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N16",
+      "pdf": [
+        299
+      ],
+      "printed": [
+        277
+      ],
+      "original": "Manchester clearing totals years1872/1873/1874.",
+      "independent_analysis": {
+        "OCR_error": "中间年OCR1878，原图1873；不改变原金额，旧总量不是现代绩效。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N17",
+      "pdf": [
+        307,
+        308,
+        309
+      ],
+      "printed": [
+        285,
+        286,
+        287
+      ],
+      "original": "Historical payment proportions; original final table25.4 (OCR25.1); author explicitly doubts reliable complete/correct representation.",
+      "independent_analysis": {
+        "pdf307_first_sum": 99.99999999999999,
+        "pdf307_second_sum": 100.0,
+        "pdf308_sum": 100,
+        "pdf309_sum": 99.99999999999999,
+        "boundary": "合计百不证明采样；少数日单行两样本分母£23m/£19m不等全国。作者疑表不用作可靠校准。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N18",
+      "pdf": [
+        339
+      ],
+      "printed": [
+        317
+      ],
+      "original": "Paper317 cropped in Cornell; same1875Michigan entire page has both1839 references.",
+      "independent_analysis": {
+        "primary_stays_clipped": true,
+        "replacement_readingPDF339_from_Michigan341": true,
+        "originals_unmodified": true,
+        "1876_3paragraph_intermediate_not_used_in_finalPDF": true,
+        "not_extra_book": true,
+        "recovery": "source-review/same1875-page317-recovery.json"
+      },
+      "status": "same-edition whole selected page visual recovery; not whole alternate book reread",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N19",
+      "pdf": [
+        343,
+        345
+      ],
+      "printed": [
+        321,
+        323
+      ],
+      "original": "Palgrave four or five percent of liabilities; Moxon seven percent of deposits and notes; daily needs consume some funds.",
+      "independent_analysis": {
+        "boundary": "两个估算分母及资料不同，不能合成固定现代阈值；同业准备穿透不重计。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N20",
+      "pdf": [
+        353,
+        354,
+        355
+      ],
+      "printed": [
+        331,
+        332,
+        333
+      ],
+      "original": "Gold purchasing power106→100, nominal debt adjusted6%; about100 independently varying prices and geometrical mean.",
+      "independent_analysis": {
+        "gold_fall_percent": 5.660377358490566,
+        "nominal_compensation_percent": 6,
+        "boundary": "反向涨幅与跌幅不能同当6%；家庭数量篮子与作者平均建议不同，相关价非独立证据，公开不证防欺诈或消除危机。"
+      },
+      "status": "original selected image / source confirmed; arithmetic independent",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N21",
+      "pdf": [
+        161
+      ],
+      "printed": [
+        139
+      ],
+      "status": "root whole original image confirms printed internal direction inconsistency; no original scan modified",
+      "original": "If gold rose in value compared with silver, action reversed; gold would be absorbed and silver liberated.",
+      "review": "原印反向情形仍用吸收金、释放银，与前例及reversed不一致。机制推导与原印疑点分别保存，不静默改原印。",
+      "external_historical_fact_verification": false
+    },
+    {
+      "id": "N22",
+      "pdf": [
+        296
+      ],
+      "printed": [
+        274
+      ],
+      "status": "root corrected interpretation transcription wording, preserved prior transcription and raw scan",
+      "original": "every cheque has been added in once, in favour of one bank, and once against, some bank",
+      "review": "旧图读转录用了in the sum，应为原印in favour of one bank；活跃引用改用独立整页核对的恢复文本，旧文本保留。"
+    }
+  ],
+  "all_scan_glyphs_verified": false,
+  "author_claims_and_independent_calculation_separate": true,
+  "all_numeric_cells_verified": false
+}

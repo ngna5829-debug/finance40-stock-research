@@ -1,0 +1,1869 @@
+{
+  "schema_version": "1.0",
+  "book_id": "P04",
+  "title": "Lombard Street: A Description of the Money Market",
+  "reviewer": "practical_continuation independent full-text semantic reviewer",
+  "review_completed": true,
+  "reviewed_at_utc": "2026-10-12T13:58:38.777205+00:00",
+  "overall_status": "changes_required_before_acceptance",
+  "all_required_corrections_closed": false,
+  "not_a_final_pass": true,
+  "scope": "I independently read every source line of all 13 original chapters, all 13 complete Chinese dossiers, every retrieved Appendix A-D paragraph and table, the full synthesis, expert explanation and all 26 rules. I also read the 49 frontmatter lines. I did not reread all PG license paragraphs, physical scan glyphs, external bank accounts, or all outside historical records. Printed base edition remains unconfirmed.",
+  "source_full_text_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introductory.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch01-original.txt",
+      "source_sha256": "cf5206db88ba5080961ecccf12257b2b5988b428b2a460879a8db589f763a291",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          220
+        ],
+        [
+          221,
+          416
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        50,
+        465
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch01.md",
+      "dossier_sha256": "5c8344f5f6e21577c5d449b7012efb45937b653509eebf1dff4bbde94d12a375",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3085,
+      "body_han_excluding_explicit_source_locator_phrases": 3022,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 2,
+      "title": "A General View of Lombard Street.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch02-original.txt",
+      "source_sha256": "a57c40b30dfa8bff1832feea715528615ae927ac76e4fd62053c6b02157a6af1",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          300
+        ],
+        [
+          301,
+          590
+        ],
+        [
+          591,
+          875
+        ],
+        [
+          876,
+          1136
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        466,
+        1601
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch02.md",
+      "dossier_sha256": "cba179b165b8c3873a8da874bed48f0db999846742b5df169c4cffe38b640e7e",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3798,
+      "body_han_excluding_explicit_source_locator_phrases": 3707,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 3,
+      "title": "How Lombard Street Came to Exist, and Why It Assumed Its Present Form.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch03-original.txt",
+      "source_sha256": "cb9ef2d285cc9e88f5430c350e4c67cd35a23468f8e676a97d9fc29de7495658",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          280
+        ],
+        [
+          281,
+          526
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        1602,
+        2127
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch03.md",
+      "dossier_sha256": "ada967d77a880b56c5a47a5609249f88073685612ce4ce1fbba32b6750678055",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3180,
+      "body_han_excluding_explicit_source_locator_phrases": 3117,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 4,
+      "title": "The Position of the Chancellor of the Exchequer in the Money Market.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch04-original.txt",
+      "source_sha256": "c87a5d5a2ec01854234fe82a8401ffb6e159d832679c5e05488055093ee384b2",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          249
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        2128,
+        2376
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch04.md",
+      "dossier_sha256": "929aac083076024e9969ee538992daa2190d5c03040b9aa2e63c4f6f98737320",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2843,
+      "body_han_excluding_explicit_source_locator_phrases": 2815,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 5,
+      "title": "The Mode in Which the Value of Money is Settled in Lombard Street.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch05-original.txt",
+      "source_sha256": "bb54d4daae4e97d120c167a7e0c5b037e3ab40f34f52907d8bc3953be3e6930b",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          183
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        2377,
+        2559
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch05.md",
+      "dossier_sha256": "fb0b83977c23da975b88782e406ea04fc43fa854cebd5732e281d6f07f682d45",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2498,
+      "body_han_excluding_explicit_source_locator_phrases": 2463,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 6,
+      "title": "Why Lombard Street is Often Very Dull, and Sometimes Extremely Excited.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch06-original.txt",
+      "source_sha256": "4f4050aed10c589df219de5bc66375f9d2c32f929c987db1d4be04a82dac37a9",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          270
+        ],
+        [
+          271,
+          540
+        ],
+        [
+          541,
+          806
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        2560,
+        3365
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch06.md",
+      "dossier_sha256": "1364b1d47d83883c0da63cde0e940f90e330e72f4848014796bc5ae1887efc09",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3258,
+      "body_han_excluding_explicit_source_locator_phrases": 3174,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 7,
+      "title": "A More Exact Account of the Mode in Which the Bank of England Has Discharged Its Duty of Retaining a Good Bank Reserve, and of Administering It Effectually.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch07-original.txt",
+      "source_sha256": "6982ceb2c4dc33ed74fae56a18166dd36be71952e65df77157c2bf75d95cbdfa",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          270
+        ],
+        [
+          271,
+          540
+        ],
+        [
+          541,
+          800
+        ],
+        [
+          801,
+          1007
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        3366,
+        4372
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch07.md",
+      "dossier_sha256": "b5a4897ec0ef540aa45995ba8c15cccb957ca102cbd6d9d849cd09202599373e",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3259,
+      "body_han_excluding_explicit_source_locator_phrases": 3210,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 8,
+      "title": "The Government of the Bank of England.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch08-original.txt",
+      "source_sha256": "735d09be34800851c4e40100841c0216da427488d493dbf36f4c7d36877085d4",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          500
+        ],
+        [
+          501,
+          716
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        4373,
+        5088
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch08.md",
+      "dossier_sha256": "e265b6d1a392384bf2f7923f933dd3ff287b44fe13f33ac3162e628f9256f07b",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 3034,
+      "body_han_excluding_explicit_source_locator_phrases": 3006,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 9,
+      "title": "The Joint Stock Banks.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch09-original.txt",
+      "source_sha256": "3aa48763e0f13678586e4596c288bfbaf364a12913c4ebe700325a4077eca402",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          493
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        5089,
+        5581
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch09.md",
+      "dossier_sha256": "798745d53bec23a41b5c0fb7d3863ec70ed12114af1ba3c57cf365177fb23459",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2931,
+      "body_han_excluding_explicit_source_locator_phrases": 2917,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 10,
+      "title": "The Private Banks.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch10-original.txt",
+      "source_sha256": "b645f6d1c107cff065f6d25852556b0ac14b1aa2a6dbc68b5ae033a7bf777613",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          276
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        5582,
+        5857
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch10.md",
+      "dossier_sha256": "9400347c3b0faab2c5204a74734d43bd1af64480d2ec3ba733419f24b04b6b91",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2528,
+      "body_han_excluding_explicit_source_locator_phrases": 2514,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 11,
+      "title": "The Bill-Brokers.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch11-original.txt",
+      "source_sha256": "744cf91f455f97be762ad093eeece9902fcb95c0f06af38e9f4b3ac023473dba",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          240
+        ],
+        [
+          241,
+          435
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        5858,
+        6292
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch11.md",
+      "dossier_sha256": "ffcb0993151c968db11ae7a2e042b02dba4bcd26a10135178da75ca5b01f5ab2",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2601,
+      "body_han_excluding_explicit_source_locator_phrases": 2587,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 12,
+      "title": "The Principles Which Should Regulate the Amount of the Banking Reserve to Be Kept by the Bank of England.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch12-original.txt",
+      "source_sha256": "997a575b633254cb3f100123832a240284100fc230e9ee7d81f7f145ce9c2f38",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          286
+        ],
+        [
+          287,
+          573
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        6293,
+        6865
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch12.md",
+      "dossier_sha256": "61ad67b6d0933cf8a60fd50dd29cb7c6b1e1bd95d5da836cce77f07e33c857f0",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2719,
+      "body_han_excluding_explicit_source_locator_phrases": 2691,
+      "required_dossier_semantic_fix_found": false
+    },
+    {
+      "chapter": 13,
+      "title": "Conclusion.",
+      "source_file": "work/book-experts-v5/index_team/P04/source/ch13-original.txt",
+      "source_sha256": "1b6d68dd8c065fd361fbfb5b9629ebc5752d9d3636be0772a348a1ca9a10c8f8",
+      "full_source_read_in_this_review": true,
+      "actual_source_read_batches_inclusive": [
+        [
+          1,
+          122
+        ]
+      ],
+      "source_global_lines_inclusive": [
+        6866,
+        6987
+      ],
+      "slice_matches_full_source": true,
+      "dossier_file": "work/book-experts-v5/index_team/P04/chapters/ch13.md",
+      "dossier_sha256": "8e8af70a5477372d6bed2688614ef1efcaf532d1fee3243d9a71d746d0730a92",
+      "full_dossier_read_in_this_review": true,
+      "body_han_raw_markers": 2414,
+      "body_han_excluding_explicit_source_locator_phrases": 2393,
+      "required_dossier_semantic_fix_found": false
+    }
+  ],
+  "chapters_full_semantically_compared": 13,
+  "body_han_total_raw_markers": 38148,
+  "minimum_chapter_body_han_raw_markers": 2414,
+  "strict_count_method": "U+4E00-U+9FFF inside body markers, also excluding explicit source-line locator phrases. Headings, source metadata, appendices, synthesis and expert metadata excluded.",
+  "body_han_total_excluding_source_locator_phrases": 37616,
+  "minimum_chapter_body_han_excluding_source_locator_phrases": 2393,
+  "all_13_chapters_at_least_2000_strict_han": true,
+  "book_at_least_20000_strict_han": true,
+  "frontmatter_full_read": true,
+  "frontmatter_lines": [
+    1,
+    49
+  ],
+  "appendix": {
+    "source_file": "work/book-experts-v5/index_team/P04/source/appendix-original.txt",
+    "source_sha256": "801d83cc915065d79bf5ce60e22ffaa6f069b26de307dab18c7afc57758e94f5",
+    "full_read_in_this_review": true,
+    "actual_read_batches_inclusive": [
+      [
+        1,
+        260
+      ],
+      [
+        261,
+        520
+      ],
+      [
+        521,
+        781
+      ]
+    ],
+    "global_lines_inclusive": [
+      6988,
+      7768
+    ],
+    "notes_full_read": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "all50_questions_1146_1195_read": true,
+    "all23_B_table_rows_internal_arithmetic_checked": true,
+    "all11_C_rows_read": true,
+    "all_physical_glyphs_verified": false
+  },
+  "rule_count": 26,
+  "all26_rules_read_in_this_review": true,
+  "all_rule_evidence_lines_within_source": true,
+  "rule_anchor_details": [
+    {
+      "rule_id": "P04-R01",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            135,
+            157
+          ],
+          "evidence_start": "Of course the deposits of bankers are not a strictly accurate measure of the resources of a Money Market. On the contrary, much more cash exists out of banks in France and Germany,",
+          "match_phrase": "Concentration of money in banks",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "bd3a17d5abdeeffeaa31bc8181aab6434c908bdaff5aafc7ea79c8450c7d2abb",
+          "chapter": 1
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R02",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            199,
+            225
+          ],
+          "evidence_start": "But though these occasional loans to new enterprises and foreign States are the most conspicuous instances of the power of Lombard Street, they are not by any means the most remark",
+          "match_phrase": "If a merchant have 50,000",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "192546e52bd67ef2b983fd7ba2b282260aea8274de495831382737f7b5814aa4",
+          "chapter": 1
+        },
+        {
+          "lines_inclusive": [
+            382,
+            392
+          ],
+          "evidence_start": "But in exact proportion to the power of this system is its delicacy I should hardly say too much if I said its danger. Only our familiarity blinds us to the marvellous nature of th",
+          "match_phrase": "But in exact proportion to the power of this system",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "4a8d928670efc194e9e9a018ae1a4722a221ea13e259c3c23715e356d5bcf693",
+          "chapter": 1
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R03",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            660,
+            678
+          ],
+          "evidence_start": "But the danger to the depositing banks is not the sole or the principal consequence of this mode of keeping the London reserve. The main effect is to cause the reserve to be much s",
+          "match_phrase": "Suppose, a favourable supposition",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "1d60d7f3b013de43ffa112bca6269bdd4f133ba62a22e41f1133b69ccb3b8ddc",
+          "chapter": 2
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R04",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            1308,
+            1320
+          ],
+          "evidence_start": "The case is just the same if the banker wants to sell Consols, or to call in money lent on Consols. These he reckons as part of his reserve. And in ordinary times nothing can be be",
+          "match_phrase": "The case is just the same if the banker wants to sell Consols",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "9a4b472d970b2420405f271c90ead44e96b9f50b57876f23b6ef1cbd11aa61ef",
+          "chapter": 2
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R05",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            1380,
+            1388
+          ],
+          "evidence_start": "The real reason has not been distinctly seen. As has been already said--but on account of its importance and perhaps its novelty it is worth saying again--whatever bank or banks ke",
+          "match_phrase": "The real reason has not been distinctly seen",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "54310d023b9187a587f6c2cc9a33c90f80ed5ee79dc54896b8c72ae7f1818d83",
+          "chapter": 2
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R06",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            2116,
+            2123
+          ],
+          "evidence_start": "With so many advantages over all competitors, it is quite natural that the Bank of England should have far outstripped them all. Inevitably it became the bank in London; all the ot",
+          "match_phrase": "Thus our one reserve system of banking was not deliberately founded",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "958da044fa39600f48fc6789b3d573c661843218c8d5dc0184f4de3884181cf4",
+          "chapter": 3
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R07",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            2357,
+            2363
+          ],
+          "evidence_start": "On the whole, therefore, the position of the Chancellor of the Exchequer in our Money Market is that of one who deposits largely in it, who created it, and who demoralised it. He c",
+          "match_phrase": "On the whole, therefore, the position of the Chancellor",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "3fc53b6afc3796a14dd8df01374a01a146d5baa8d787570aa1479aab3ea212aa",
+          "chapter": 4
+        },
+        {
+          "lines_inclusive": [
+            6339,
+            6369
+          ],
+          "evidence_start": "These are general truths as to all banks, and they have a very particular application to the Bank of England. The first application is favourable to the Bank; for it shows the dang",
+          "match_phrase": "These are general truths as to all banks",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "cdd99faed8c10df6b85ef033bac1e54a771526053793af55627dab4dfb5404f6",
+          "chapter": 12
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R08",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            2413,
+            2420
+          ],
+          "evidence_start": "The reason is obvious. At all ordinary moments there is not money enough in Lombard Street to discount all the bills in Lombard Street without taking some money from the Bank of En",
+          "match_phrase": "The reason is obvious. At all ordinary moments",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f9540af7b141f95b503f5f05817f8bc7b020fbbb4253d96628e5427f57ec9e49",
+          "chapter": 5
+        },
+        {
+          "lines_inclusive": [
+            2432,
+            2441
+          ],
+          "evidence_start": "The notion that the Bank of England has a control over the Money Market, and can fix the rate of discount as it likes, has survived from the old days before 1844, when the Bank cou",
+          "match_phrase": "The notion that the Bank of England has a control",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "cf72fd19441f5918f8f8f0429959e691df539037593d0d2cb9d98f684f92d9be",
+          "chapter": 5
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R09",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            2674,
+            2691
+          ],
+          "evidence_start": "The most common, and by far the most important, case where the depression in one trade causes depression in all others, is that of depressed agriculture. When the agriculture of th",
+          "match_phrase": "The most common, and by far the most important",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "ef0fbcb228621d6eea8db04065a9498516c81d7c3bf840c4542510d84555792f",
+          "chapter": 6
+        },
+        {
+          "lines_inclusive": [
+            2734,
+            2742
+          ],
+          "evidence_start": "These two variable causes are causes of real prosperity. They augment trade and production, and so are plainly beneficial, except where by mistake the wrong things are produced, or",
+          "match_phrase": "These two variable causes are causes of real prosperity",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "da31dc9a27593b1333a224969b9ff3aabb1154b8a68f5c0e509b1c5cda8cbeb3",
+          "chapter": 6
+        },
+        {
+          "lines_inclusive": [
+            3174,
+            3204
+          ],
+          "evidence_start": "The certain result is a bound of national prosperity; the country leaps forward as if by magic. But only part of that prosperity has a solid reason. As far as prosperity is based o",
+          "match_phrase": "The certain result is a bound of national prosperity",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "55cd7657e4003ded933cd08e36c01cfeaacb41503086a989d3fba4cf9abf801a",
+          "chapter": 6
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R10",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            2583,
+            2589
+          ],
+          "evidence_start": "But it is of great importance to point out that our industrial organisation is liable not only to irregular external accidents, but likewise to regular internal changes; that these",
+          "match_phrase": "But it is of great importance to point out",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "174539f00b73cf204785c372fb26039c9761493ccc120e8d878eedad8bfcba95",
+          "chapter": 6
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R11",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            943,
+            950
+          ],
+          "evidence_start": "Such a reserve as we have seen is kept to meet sudden and unexpected demands. If the bankers of a country are asked for much more than is commonly wanted, then this reserve must be",
+          "match_phrase": "Speaking broadly, these extra demands are of two kinds",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "9c8420c2040e56585b5c7e9a8f3bbde599a748187d868d756e4f7f1878119d4d",
+          "chapter": 2
+        },
+        {
+          "lines_inclusive": [
+            1223,
+            1237
+          ],
+          "evidence_start": "Before we had much specific experience, it was not easy to prescribe for this compound disease; but now we know how to deal with it. We must look first to the foreign drain, and ra",
+          "match_phrase": "We must look first to the foreign drain",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "503b13429b90b87eab091146f627f509771cc9d44dd3fb5af0f84181d01a5d6a",
+          "chapter": 2
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R12",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            4151,
+            4162
+          ],
+          "evidence_start": "And with the Bank of England, as with other Banks in the same case, these advances, if they are to be made at all, should be made so as if possible to obtain the object for which t",
+          "match_phrase": "And with the Bank of England, as with other Banks in the same case",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f56fdcd0bf7e2f715e6bcf03a15314ee933021f2f3a0ac215bddd413d6292cb9",
+          "chapter": 7
+        },
+        {
+          "lines_inclusive": [
+            4164,
+            4187
+          ],
+          "evidence_start": "Secondly. That at this rate these advances should be made on all good banking securities, and as largely as the public ask for them. The reason is plain. The object is to stay alar",
+          "match_phrase": "Secondly. That at this rate these advances",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "09d1efbef82fb94013f4884e4295c8ca1df83fcc26936992d7a1853dd8961141",
+          "chapter": 7
+        },
+        {
+          "lines_inclusive": [
+            4189,
+            4199
+          ],
+          "evidence_start": "It may be said that the reserve in the Banking Department will not be enough for all such loans. If that be so, the Banking Department must fail. But lending is, nevertheless, its ",
+          "match_phrase": "It may be said that the reserve in the Banking Department",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f159a9ff23ae4a4b5b37a08b09fdb3de36885bc006caf547ea20a2886958dda3",
+          "chapter": 7
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R13",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            4357,
+            4368
+          ],
+          "evidence_start": "In common opinion there is always great uncertainty as to the conduct of the Bank: the Bank has never laid down any clear and sound policy on the subject. As we have seen, some of ",
+          "match_phrase": "In common opinion there is always great uncertainty",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "34733a57ad16c57d8116125b86eedef1f48c608598ca3c1f7d1acd68dc1f49ef",
+          "chapter": 7
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R14",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            4524,
+            4540
+          ],
+          "evidence_start": "Such a government for a joint stock company is very good if its essential nature be attended to, and very bad if that nature be not attended to. That government is composed of men ",
+          "match_phrase": "Such a government for a joint stock company is very good",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f8338aff26b61079a330eb8e802c58dd35fc5b0d6abf33ad8cde8793ca934e24",
+          "chapter": 8
+        },
+        {
+          "lines_inclusive": [
+            4835,
+            4850
+          ],
+          "evidence_start": "I think, however, that much of the advantage, with little of the risk, might be secured by a humbler scheme. In English political offices, as was observed before, the evil of a cha",
+          "match_phrase": "I think, however, that much of the advantage",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "df3cb29ee73ac8c3a12e2ea8bcaa6cec497e5da3fd38c36842fc630eea1fa7e1",
+          "chapter": 8
+        },
+        {
+          "lines_inclusive": [
+            4921,
+            4940
+          ],
+          "evidence_start": "The permanent Deputy-Governor must be a director and a man of fair position. He must not have to say 'Sir' to the Governor. There is no fair argument between an inferior who has to",
+          "match_phrase": "The permanent Deputy-Governor must be a director",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "7b69479c347a014a32299e0835687f57d99780460e5ed50bb88129e59076b089",
+          "chapter": 8
+        },
+        {
+          "lines_inclusive": [
+            4870,
+            4895
+          ],
+          "evidence_start": "Undoubtedly such a permanent official should be a trained banker. There is a cardinal difference between banking and other kinds of commerce; you can afford to run much less risk i",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "3c23b264b7c4cac4c6d5975e5250c2190cf68b0f97b8322cef6c6a556807fcc4",
+          "chapter": 8
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R15",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            5140,
+            5147
+          ],
+          "evidence_start": "'But the main source of the profitableness of established banking is the smallness of the requisite capital. Being only wanted as a \"moral influence,\" it need not be more than is n",
+          "match_phrase": "But the main source of the profitableness",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "cbfc8ff633c367b3df25045c7f255c04447274b40692c98b0d910969a42335e8",
+          "chapter": 9
+        },
+        {
+          "lines_inclusive": [
+            5204,
+            5210
+          ],
+          "evidence_start": "'The value of the opportunity too is proportioned to what has to be paid for it. Some old banks have to pay interest for all their money; some have much for which they pay nothing.",
+          "match_phrase": "The value of the opportunity too is proportioned",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "ddcf5b48d7431bb5d6b033f00d4461fdeb416273ff1967144a2a20e61ba26c66",
+          "chapter": 9
+        },
+        {
+          "lines_inclusive": [
+            5307,
+            5331
+          ],
+          "evidence_start": "But in this wonderful success there are two dubious points, two considerations of different kinds, which forbid us to say that in other countries, even in countries with the capaci",
+          "match_phrase": "These great Banks have not had to keep so large a reserve",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "d3048b8794b9a39bac33d0b22d0b3b7db782daf281a04db5f09e262106cc7395",
+          "chapter": 9
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R16",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            5490,
+            5508
+          ],
+          "evidence_start": "The remedy is this: a certain number of the directors, either those who have more spare time than others, or those who are more ready to sell a large part of their time to the bank",
+          "match_phrase": "The remedy is this: a certain number of the directors",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "8f761642e2c5e1007c6949ace80b8fc9862c72ee0510c62d3f1245a927701760",
+          "chapter": 9
+        },
+        {
+          "lines_inclusive": [
+            5524,
+            5537
+          ],
+          "evidence_start": "A certain number of directors attending daily by rotation is, it should be said, no substitute for a permanent committee. It has no sufficient responsibility. A changing body canno",
+          "match_phrase": "A certain number of directors attending daily by rotation",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "c10c3885bef8d1b3c7fb664d924ecaf123c4ffd93cfbbdd2f551a7707f98fb68",
+          "chapter": 9
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R17",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            5710,
+            5728
+          ],
+          "evidence_start": "In the first place, an hereditary business of great magnitude is dangerous. The management of such a business needs more than common industry and more than common ability. But ther",
+          "match_phrase": "In the first place, an hereditary business of great magnitude",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "85effc93e1a955fbce3b55b14be4814eae3aada139d43a642bec445c42476e06",
+          "chapter": 10
+        },
+        {
+          "lines_inclusive": [
+            5770,
+            5778
+          ],
+          "evidence_start": "The danger may indeed be surmounted by the continual infusion of new and able partners. The deterioration of the old blood may be compensated by the excellent quality of the fresh ",
+          "match_phrase": "The danger may indeed be surmounted",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "64f4e8527469b909916b04f70e1e8545e88ec0d6acda439bf9e53f04334a303d",
+          "chapter": 10
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R18",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            5970,
+            5971
+          ],
+          "evidence_start": "Mr. Richardson was only a broker who found money for bills and bills for money. He is further asked:",
+          "match_phrase": "Mr. Richardson was only a broker",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "9dc8947a4cd71dee59ccc71eb131e2d47c3ceba244a8cbf7bf80faf50ab37793",
+          "chapter": 11
+        },
+        {
+          "lines_inclusive": [
+            6046,
+            6073
+          ],
+          "evidence_start": "But in modern bill-broking the credit of the bill-broker is a vital element. The lender considers that the bill-broker--no matter whether an individual, a company, or a firm--has c",
+          "match_phrase": "But in modern bill-broking the credit of the bill-broker",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "fe989a8aac9efd0ec9682bbf7389ab599d296f62c4ed7ddbd15891054988ccd7",
+          "chapter": 11
+        },
+        {
+          "lines_inclusive": [
+            5973,
+            5975
+          ],
+          "evidence_start": "'Do you guarantee the bills you discount, and what is your charge per cent?--No, we do not guarantee them; our charge is one-eighth per cent brokerage upon the bill discounted, but",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "a14873ff16c2b94b90c22bb0d4605bb22744072bb1755e7207f3733baee52222",
+          "chapter": 11
+        },
+        {
+          "lines_inclusive": [
+            5994,
+            6008
+          ],
+          "evidence_start": "'Do you then exercise a discretion as to the probable safety of the bills?--Yes; if a bill comes to us which we conceive not to be safe, we return it.  'Do you not then conceive yo",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "342f3b66714cf205b63950e47d238f55fd5747530ebc914557a72b85c5d17357",
+          "chapter": 11
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R19",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            6103,
+            6115
+          ],
+          "evidence_start": "The difficulty is aggravated by the terms upon which a great part of the money at the bill-brokers is deposited with them. Very much of it is repayable at demand, or at very short ",
+          "match_phrase": "The difficulty is aggravated by the terms",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "1aff8b90e851aca7eeb6d660c3bc865da5c2f610771d1eb1eb1174570aa4031b",
+          "chapter": 11
+        },
+        {
+          "lines_inclusive": [
+            6173,
+            6181
+          ],
+          "evidence_start": "The intensity of the demand on the bill-broker is aggravated therefore by our peculiar system of banking. Just at the moment when, by the nature of their business, they have to res",
+          "match_phrase": "The intensity of the demand on the bill-broker",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "382bf94c986ff2a876d317b47109e85a2228f5aab3a08cbdb97b7537b473b74d",
+          "chapter": 11
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R20",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            6309,
+            6319
+          ],
+          "evidence_start": "That the amount of the liabilities of a bank is a principal element in determining the proper amount of its reserve is plainly true; but that it is the only element by which that a",
+          "match_phrase": "That the amount of the liabilities of a bank",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f9ace640ed32b2acc9c07d439a2127eef984567494bae853070eea490bbe7143",
+          "chapter": 12
+        },
+        {
+          "lines_inclusive": [
+            6777,
+            6800
+          ],
+          "evidence_start": "And this involves something much more. As the actual reserve is never to be less, and is always, if possible, to exceed by a reasonable amount the 'minimum' apprehension reserve, i",
+          "match_phrase": "All the precautions of the Bank take time",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "a993c24d71c774b88a6bb0ee355edf3a279182b65ab56a26a63e6480e7938ca4",
+          "chapter": 12
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R21",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            6430,
+            6447
+          ],
+          "evidence_start": "Indeed, they would seem, so to say, to be better than stable. They augment when everything else tends to diminish. At a panic, when all other deposits are likely to be taken away, ",
+          "match_phrase": "Indeed, they would seem, so to say, to be better than stable",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "48b15e12d0e3123883c4f6f50922ebeeee8af7ee4570a9151ebf5de058d79fa6",
+          "chapter": 12
+        },
+        {
+          "lines_inclusive": [
+            6461,
+            6511
+          ],
+          "evidence_start": "First, the German Government had a large balance of its own lying at a particular Joint Stock Bank. That bank lent this balance at its own discretion, to bill-brokers or others, an",
+          "match_phrase": "First, the German Government had a large balance",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "0e7b7fd0994750c21aa2c31f1bd81f06268f96a69102917de1610af0b1ea4cd0",
+          "chapter": 12
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R22",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            6935,
+            6976
+          ],
+          "evidence_start": "I have explained why the French plan will not suit our English world. The direct appointment of the Governor and Deputy-Governor of the Bank of England by the executive Government ",
+          "match_phrase": "The only practical imitation of the American system",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "fb33d448c9df9bdda39f6521bf6a54363e44a47e4ed9d59cb4cc47b3033b57ba",
+          "chapter": 13
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R23",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            6994,
+            7004
+          ],
+          "evidence_start": "The following is a comparison of the liabilities to the public, and of the cash reserve, of the banking systems of the United Kingdom, France, Germany, and the United States. For t",
+          "match_phrase": "The following is a comparison of the liabilities",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "8ede705fa706b7b074558a85e497b1e88c83cfaafdcb2a112302fc606d58caa7",
+          "chapter": null,
+          "appendix": "A"
+        },
+        {
+          "lines_inclusive": [
+            7022,
+            7022
+          ],
+          "evidence_start": "(2) BANK of FRANCE (FEBRUARY, 1873).",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "724db5785f89742511d89b3e19ab8ffa5f8d5a61c281e9476e22b79531e5052a",
+          "chapter": null,
+          "appendix": "A"
+        },
+        {
+          "lines_inclusive": [
+            7038,
+            7038
+          ],
+          "evidence_start": "(3) BANKS OF GERMANY (JANUARY, 1873).",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "dd593e3ce28b65b0cd3c76137011beb106f03195865ba4282cd84859fbdabb91",
+          "chapter": null,
+          "appendix": "A"
+        },
+        {
+          "lines_inclusive": [
+            7057,
+            7057
+          ],
+          "evidence_start": "(4) NATIONAL BANKS OF UNITED STATES (OCTOBER 3, 1872).",
+          "match_phrase": null,
+          "manually_selected_full_source_lines": true,
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "7b2a7bc9458cc0a98c42f89faefe8070c18cbbc5e185fb0759a90253edaf5288",
+          "chapter": null,
+          "appendix": "A"
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R24",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            7243,
+            7257
+          ],
+          "evidence_start": "1167. Was not it the fact that this system of giving so high a rate of interest upon money at call commenced very much with the establishment of some banks during the last year or ",
+          "match_phrase": "1167. Was not it the fact",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "9aba2e41195dbdb2a0b62ec4273703ea719453821385dbec7d2f638c9951ca6a",
+          "chapter": null,
+          "appendix": "B"
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R25",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            7281,
+            7288
+          ],
+          "evidence_start": "1173. Is not that equivalent to a re-discount of bills?--No; the discount of a bill and the lending money on bills are very different things. When we discount a bill, that bill bec",
+          "match_phrase": "1173. Is not that equivalent to a re-discount",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "01134da41fa475b3f40d530b3db2566280a7505fee92621963f65dd7af7940e3",
+          "chapter": null,
+          "appendix": "B"
+        },
+        {
+          "lines_inclusive": [
+            7290,
+            7298
+          ],
+          "evidence_start": "1174. When you want to employ your money for a short period, do you not frequently take bills of long date, and advance upon them?--But that is not a re-discount on our part. Very ",
+          "match_phrase": "1174. When you want to employ your money",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "60114310de1b7f5ed6a680ec96250691e42f30900971a52615aba8fd6e88708e",
+          "chapter": null,
+          "appendix": "B"
+        },
+        {
+          "lines_inclusive": [
+            7300,
+            7303
+          ],
+          "evidence_start": "1175. [Mr. Hankey.] Is there not this clear distinction between returning a bill on which you have made an advance and discounting a bill, that if you have discounted a bill your l",
+          "match_phrase": "1175. [Mr. Hankey.]",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "995f9b49f33a7a0c4c140fe910f653a9dd6ff13a3a9bf0221ee971a3a3973f33",
+          "chapter": null,
+          "appendix": "B"
+        },
+        {
+          "lines_inclusive": [
+            7305,
+            7306
+          ],
+          "evidence_start": "1176. In the other case you have no further liability whatever?--Certainly.",
+          "match_phrase": "1176. In the other case",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "c3ee185b1a4bda94e0459d2d7653ec7526c31a9efef56ac837464718b51efe5e",
+          "chapter": null,
+          "appendix": "B"
+        },
+        {
+          "lines_inclusive": [
+            7308,
+            7312
+          ],
+          "evidence_start": "1177. Should you not consider that a very important distinction?--I think it is an important distinction. Take this case: suppose a party comes to us and borrows 50,000 L., and we ",
+          "match_phrase": "1177. Should you not consider",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "97fed2ff4ff6cb49ee0699c2c6696cb39ee4a55781fde16049b3e5ab501eedb8",
+          "chapter": null,
+          "appendix": "B"
+        },
+        {
+          "lines_inclusive": [
+            7314,
+            7317
+          ],
+          "evidence_start": "1178. Is there not this distinction, that if you re-discount you may go on pledging the liability of your bank to an almost unlimited amount, whereas in the other case you only get",
+          "match_phrase": "1178. Is there not this distinction",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "bde57da9cc10570a659566a9f131da5b6293afae163f6bf04de3d4ed6f43dae4",
+          "chapter": null,
+          "appendix": "B"
+        }
+      ],
+      "all_patterns_unique": true
+    },
+    {
+      "rule_id": "P04-R26",
+      "suggested_source_paragraphs": [
+        {
+          "lines_inclusive": [
+            7735,
+            7736
+          ],
+          "evidence_start": "The three resolutions proposed by Mr. Moxon were then read; but they were not put to the meeting, inasmuch as they found no seconders.",
+          "match_phrase": "The three resolutions proposed by Mr. Moxon",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "f746ff6f2074c04349924941aed7e43b79c59a0d04efedad3d04d8007a34ec59",
+          "chapter": null,
+          "appendix": "D"
+        },
+        {
+          "lines_inclusive": [
+            7687,
+            7725
+          ],
+          "evidence_start": "The Governor of the Bank of England continued--That is only a matter of detail; the main question is whether we ought to pay interest on deposits, and of such policy I must express",
+          "match_phrase": "It has never been a feature of the Bank to state",
+          "source_file": "work/book-experts-v5/index_team/P04/source/original.txt",
+          "source_sha256": "fb0f41f842b1c86820e9d92d6c800a55e107878d19680e47cb7173faa7c00eda",
+          "locator_kind": "one_based_fixed_text_line_paragraph",
+          "source_excerpt_sha256": "3cfe939c23e7ccedadb77a3074ba6d6e234eb8273056cb778023ea9328ab3568",
+          "chapter": null,
+          "appendix": "D"
+        }
+      ],
+      "all_patterns_unique": true
+    }
+  ],
+  "appendix_B_all23_arithmetic_rows": [
+    {
+      "line": 7416,
+      "date": "1845-December-31",
+      "deposits": 3590014,
+      "cash": 563072,
+      "money_at_call": 628500,
+      "government_securities": 1039745,
+      "reported_total": 2231317,
+      "computed_components_total": 2231317,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7417,
+      "date": "1846-December-31",
+      "deposits": 3280864,
+      "cash": 634575,
+      "money_at_call": 423060,
+      "government_securities": 938717,
+      "reported_total": 1996352,
+      "computed_components_total": 1996352,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7418,
+      "date": "1847-December-31",
+      "deposits": 2733753,
+      "cash": 7231325,
+      "money_at_call": 350108,
+      "government_securities": 791899,
+      "reported_total": 1863332,
+      "computed_components_total": 8373332,
+      "reported_minus_computed": -6510000
+    },
+    {
+      "line": 7419,
+      "date": "1848-June-30",
+      "deposits": 3170118,
+      "cash": 588871,
+      "money_at_call": 159724,
+      "government_securities": 1295047,
+      "reported_total": 2043642,
+      "computed_components_total": 2043642,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7420,
+      "date": "1848-December-31",
+      "deposits": 3089659,
+      "cash": 645468,
+      "money_at_call": 176824,
+      "government_securities": 1189213,
+      "reported_total": 2011505,
+      "computed_components_total": 2011505,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7421,
+      "date": "1849-June-30",
+      "deposits": 3392857,
+      "cash": 552642,
+      "money_at_call": 246494,
+      "government_securities": 964800,
+      "reported_total": 1763936,
+      "computed_components_total": 1763936,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7422,
+      "date": "1849-December-31",
+      "deposits": 3680623,
+      "cash": 686761,
+      "money_at_call": 264577,
+      "government_securities": 973691,
+      "reported_total": 1224029,
+      "computed_components_total": 1925029,
+      "reported_minus_computed": -701000
+    },
+    {
+      "line": 7423,
+      "date": "1850-June-30",
+      "deposits": 3821022,
+      "cash": 654649,
+      "money_at_call": 258177,
+      "government_securities": 972055,
+      "reported_total": 1884881,
+      "computed_components_total": 1884881,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7424,
+      "date": "1850-December-31",
+      "deposits": 3969648,
+      "cash": 566039,
+      "money_at_call": 334982,
+      "government_securities": 1089794,
+      "reported_total": 1990815,
+      "computed_components_total": 1990815,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7425,
+      "date": "1851-June-30",
+      "deposits": 4414179,
+      "cash": 691719,
+      "money_at_call": 424195,
+      "government_securities": 1054018,
+      "reported_total": 2169932,
+      "computed_components_total": 2169932,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7426,
+      "date": "1851-December-31",
+      "deposits": 4677298,
+      "cash": 653946,
+      "money_at_call": 378337,
+      "government_securities": 1054018,
+      "reported_total": 2080301,
+      "computed_components_total": 2086301,
+      "reported_minus_computed": -6000
+    },
+    {
+      "line": 7427,
+      "date": "1852-June-30",
+      "deposits": 5245135,
+      "cash": 861778,
+      "money_at_call": 136687,
+      "government_securities": 1054018,
+      "reported_total": 2122483,
+      "computed_components_total": 2052483,
+      "reported_minus_computed": 70000
+    },
+    {
+      "line": 7428,
+      "date": "1852-December-31",
+      "deposits": 5581706,
+      "cash": 855057,
+      "money_at_call": 397087,
+      "government_securities": 1119477,
+      "reported_total": 2371621,
+      "computed_components_total": 2371621,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7429,
+      "date": "1853-June-30",
+      "deposits": 6219817,
+      "cash": 904252,
+      "money_at_call": 499467,
+      "government_securities": 1218852,
+      "reported_total": 2622571,
+      "computed_components_total": 2622571,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7430,
+      "date": "1853-December-31",
+      "deposits": 6259540,
+      "cash": 791699,
+      "money_at_call": 677392,
+      "government_securities": 1468902,
+      "reported_total": 2937993,
+      "computed_components_total": 2937993,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7431,
+      "date": "1854-June-30",
+      "deposits": 6892470,
+      "cash": 827397,
+      "money_at_call": 917557,
+      "government_securities": 1457415,
+      "reported_total": 3202369,
+      "computed_components_total": 3202369,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7432,
+      "date": "1854-December-31",
+      "deposits": 7177244,
+      "cash": 694309,
+      "money_at_call": 486400,
+      "government_securities": 1451074,
+      "reported_total": 2631783,
+      "computed_components_total": 2631783,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7433,
+      "date": "1855-June-30",
+      "deposits": 8166553,
+      "cash": 722243,
+      "money_at_call": 483890,
+      "government_securities": 1754074,
+      "reported_total": 2960207,
+      "computed_components_total": 2960207,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7434,
+      "date": "1855-December-31",
+      "deposits": 8744095,
+      "cash": 847856,
+      "money_at_call": 451575,
+      "government_securities": 1949074,
+      "reported_total": 3248505,
+      "computed_components_total": 3248505,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7435,
+      "date": "1856-June-30",
+      "deposits": 11170010,
+      "cash": 906876,
+      "money_at_call": 601800,
+      "government_securities": 1980489,
+      "reported_total": 3489165,
+      "computed_components_total": 3489165,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7436,
+      "date": "1856-December-31",
+      "deposits": 11438461,
+      "cash": 1119591,
+      "money_at_call": 432000,
+      "government_securities": 2922625,
+      "reported_total": 4474216,
+      "computed_components_total": 4474216,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7437,
+      "date": "1857-June-30",
+      "deposits": 13913058,
+      "cash": 967078,
+      "money_at_call": 687730,
+      "government_securities": 3353179,
+      "reported_total": 5007987,
+      "computed_components_total": 5007987,
+      "reported_minus_computed": 0
+    },
+    {
+      "line": 7438,
+      "date": "1857-December-31",
+      "deposits": 113889021,
+      "cash": 2226441,
+      "money_at_call": 1115883,
+      "government_securities": 3582797,
+      "reported_total": 6923121,
+      "computed_components_total": 6925121,
+      "reported_minus_computed": -2000
+    }
+  ],
+  "findings": [
+    {
+      "id": "QA-P04-01",
+      "severity": "P2",
+      "kind": "rule_source_locator_and_synthesis_attribution",
+      "locations": [
+        "专家定义.json/P04-R07/evidence",
+        "全书综合与附录.md/第四章归属段"
+      ],
+      "problem_zh": "和平时期预算账户规律不能直接推给战争确是书中主张，但当前R07仅锚第四章，综合同样把该内容归第四章。完整第四章无这一和平与战争对比，第十二章6339–6369才直接论证它。",
+      "required_correction_zh": "R07保留第四章2357–2363财政责任，并新增第十二章6339–6369和平/战争账户性质锚；同步章号与paraphrase。综合写第四章政府责任，第十二章解释和平与战争可预测性，或明确为两章合读。",
+      "exact_source_lines": [
+        [
+          2357,
+          2363
+        ],
+        [
+          6339,
+          6369
+        ]
+      ],
+      "status": "open_required_fix"
+    },
+    {
+      "id": "QA-P04-02",
+      "severity": "P2",
+      "kind": "unsupported_synthesis_statement",
+      "locations": [
+        "全书综合与附录.md/附录D/Moxon段"
+      ],
+      "problem_zh": "综合说Moxon提出列明存款、收费和利润性质，完整附录没有这项提案。7642–7651明确三动议是印股东名单（含不能投票者分列）、印章程规则、详细审计。他另建议存款计息和证券保管，不是列明所写三类资料。",
+      "required_correction_zh": "删除提出列明存款、收费和利润性质这项新增说法，准确列举三动议；保留议案无附议、未入表决的程序限制。",
+      "exact_source_lines": [
+        [
+          7636,
+          7651
+        ],
+        [
+          7735,
+          7736
+        ]
+      ],
+      "status": "open_required_fix"
+    },
+    {
+      "id": "QA-P04-03",
+      "severity": "P2",
+      "kind": "author_argument_vs_editorial_inference",
+      "locations": [
+        "专家定义.json/P04-R23/author_claim_paraphrase",
+        "专家定义.json/P04-R26/author_claim_paraphrase",
+        "上述规则evidence.paraphrase"
+      ],
+      "problem_zh": "R23把四个比例不能直接排序安全放作者主张，R26把不能当作已核零损失也放作者主张。这是合理的编者比较/核证纪律，但附录实际呈现的是英国分母遗漏说明及各表、行长未报坏账数与股东审计议案，没有由作者直接作这两个总结。",
+      "required_correction_zh": "R23作者层写英国口径不全使现金比例偏高及可见表格日期/项目，安全排序限制转现代独立分析。R26材料层写行长称坏账极小但拒报精确数、Moxon审计动议未附议，不能认证零损失转现代核证层。同步evidence.paraphrase，或明确kind为编者来源审核规则而非author_argument。保留这些合理限制。",
+      "exact_source_lines": [
+        [
+          6994,
+          7004
+        ],
+        [
+          7687,
+          7725
+        ],
+        [
+          7735,
+          7736
+        ]
+      ],
+      "status": "open_required_fix"
+    },
+    {
+      "id": "QA-P04-04",
+      "severity": "P2",
+      "kind": "insufficient_rule_locator_precision",
+      "locations": [
+        "专家定义.json/P04-R01–P04-R22/evidence"
+      ],
+      "problem_zh": "前22条evidence大多只有完整原章范围（最长1136行）。这能追溯作品，但达不到规则级具体源段锚要求。R11外部/内部两类压力与组合处方最直接见第二章943–950及1223–1237，当前只有第七章整章锚。",
+      "required_correction_zh": "根据本QA附带26条精确源段锚更新evidence，可保留整章context_range但另给实际固定文本行段。R07和R11要正确跨章；不伪造印刷页，源SHA保持固定原文本。",
+      "exact_rule_anchor_file": "work/book-experts-v5/practical_continuation/P04-rule-anchor-QA.json",
+      "status": "open_required_fix"
+    },
+    {
+      "id": "QA-P04-05",
+      "severity": "P2",
+      "kind": "appendix_internal_arithmetic_gaps_not_explicitly_logged",
+      "locations": [
+        "全书综合与附录.md/附录B表格缺口",
+        "章节与阅读审计.json/unresolved_gaps",
+        "相应数字审计"
+      ],
+      "problem_zh": "独立复算全部23行，既有记录外另发现1851年12月分项2086301而合计2080301（少6000）；1852年6月分项2052483而合计2122483（多70000）；1857年12月分项6925121而合计6923121（少2000）。已有1847及1849年12月冲突仍成立。1857存款113889021规模疑点与该行合计差是两件事。",
+      "required_correction_zh": "将新增三项及全部五个加法冲突明确纳入综合和阅读审计，并链接23行独立复算。不得擅改原文数字，继续关闭这些数列的精确参数、回测和现金覆盖认证。",
+      "exact_source_lines": [
+        [
+          7418,
+          7418
+        ],
+        [
+          7422,
+          7422
+        ],
+        [
+          7426,
+          7427
+        ],
+        [
+          7438,
+          7438
+        ]
+      ],
+      "table_arithmetic_file": "work/book-experts-v5/practical_continuation/P04-appendix-table-arithmetic-QA.json",
+      "status": "open_required_fix"
+    }
+  ],
+  "chapter_semantic_conclusion": "All 13 chapter dossiers are reusable without rewriting. The five required fixes concern synthesis, rule attribution/locators and explicit numeric gap disclosure. No final acceptance until they are corrected and rechecked.",
+  "confirmed_source_limits_preserved": [
+    {
+      "location": "第六章引文",
+      "issue": "讨论涨价的语境使用lower prices；未改字",
+      "action": "不据此句设因果参数"
+    },
+    {
+      "location": "第七章1857援助",
+      "issue": "several hundred pounds规模关系未核底本",
+      "action": "该金额不用作数据"
+    },
+    {
+      "location": "第八章",
+      "issue": "利率句not so much as per cent缺数；常任专业角色有称谓变化",
+      "action": "不补造利率，职责据上下文解释并披露称谓"
+    },
+    {
+      "location": "第九章苏格兰表",
+      "issue": "National Bank of Scotland显示112，与附近上限15%的叙述不同",
+      "action": "不猜11½，不认证表值"
+    },
+    {
+      "location": "第九章110家资料",
+      "issue": "只有正文分组与苏格兰表，附录A–D未检出110家逐家全表",
+      "action": "修正了章头，不声称逐家核阅；印刷本是否另有完整表未知"
+    },
+    {
+      "location": "第十章",
+      "issue": "私人清算银行40到3未核印刷本",
+      "action": "不按外部印象修数字"
+    },
+    {
+      "location": "第十一章与附录B1146",
+      "issue": "票据到期窗不同，附录时间窗较连贯但未核议会原报告",
+      "action": "不按正文重叠窗精算；章后已补内部对照"
+    },
+    {
+      "location": "附录A",
+      "issue": "英国29+91=120m而汇总20m；德国一处百分比缺数",
+      "action": "不恢复数字，不精算"
+    },
+    {
+      "location": "附录B1847",
+      "issue": "现金7,231,325与合计1,863,332及规模不相容",
+      "action": "等扫描或原账目核准，禁入实验"
+    },
+    {
+      "location": "附录B1849年12月",
+      "issue": "分项相加1,925,029但合计栏1,224,029",
+      "action": "只指出文本内不一致，不裁定该改哪格"
+    },
+    {
+      "location": "附录B1857年12月",
+      "issue": "存款113,889,021与同年六月13,913,058数量级悬殊",
+      "action": "不自行删数字，不当已确认跃升"
+    },
+    {
+      "location": "附录C",
+      "issue": "1794存款空白，正文1792开始35,944，关系未解释",
+      "action": "不填零、不插值、不断定哪方错"
+    },
+    {
+      "location": "附录D",
+      "issue": "标题9月13日，段落3th；极小坏账未给可复算数",
+      "action": "日期保留核验缺口，坏账不认证为零"
+    },
+    {
+      "location": "全部表格",
+      "issue": "未对确定印刷版逐格图像核验",
+      "action": "不进入数值实验，语义覆盖不等于数字认证"
+    }
+  ],
+  "new_numeric_conflicts_to_preserve": [
+    {
+      "line": 7418,
+      "date": "1847-December-31",
+      "deposits": 2733753,
+      "cash": 7231325,
+      "money_at_call": 350108,
+      "government_securities": 791899,
+      "reported_total": 1863332,
+      "computed_components_total": 8373332,
+      "reported_minus_computed": -6510000
+    },
+    {
+      "line": 7422,
+      "date": "1849-December-31",
+      "deposits": 3680623,
+      "cash": 686761,
+      "money_at_call": 264577,
+      "government_securities": 973691,
+      "reported_total": 1224029,
+      "computed_components_total": 1925029,
+      "reported_minus_computed": -701000
+    },
+    {
+      "line": 7426,
+      "date": "1851-December-31",
+      "deposits": 4677298,
+      "cash": 653946,
+      "money_at_call": 378337,
+      "government_securities": 1054018,
+      "reported_total": 2080301,
+      "computed_components_total": 2086301,
+      "reported_minus_computed": -6000
+    },
+    {
+      "line": 7427,
+      "date": "1852-June-30",
+      "deposits": 5245135,
+      "cash": 861778,
+      "money_at_call": 136687,
+      "government_securities": 1054018,
+      "reported_total": 2122483,
+      "computed_components_total": 2052483,
+      "reported_minus_computed": 70000
+    },
+    {
+      "line": 7438,
+      "date": "1857-December-31",
+      "deposits": 113889021,
+      "cash": 2226441,
+      "money_at_call": 1115883,
+      "government_securities": 3582797,
+      "reported_total": 6923121,
+      "computed_components_total": 6925121,
+      "reported_minus_computed": -2000
+    }
+  ],
+  "edition_boundary": {
+    "first_publication_year_in_metadata": 1873,
+    "PG_4359_full_author_text_read": true,
+    "base_printed_edition_confirmed": false,
+    "source_13_headings_and_A_D_notes_checked": true,
+    "all_scan_glyphs_proofread": false,
+    "all_outside_historical_claims_verified": false
+  },
+  "execution_boundary": {
+    "current_stock_direction_enabled": false,
+    "live_market_connected": false,
+    "backtests_executed": 0,
+    "model_calls_executed": 0,
+    "calibrated_probabilities_claimed": false,
+    "modern_threshold_as_author_rule_found": false
+  },
+  "artifact_sha256_at_review": {
+    "章节深读.md": "e4fd44c3f845c00c553801952b282f65bd473bde5be5636b2649f678bafcf91b",
+    "全书综合与附录.md": "47710c46968f63db1b163ec5cbfd68e5dceb6ac6c59964746e940de0bc3151eb",
+    "专家定义.json": "310e15017a71f60de113ff4e6a70665d6573c8f6c7ea9a006f5e715b8ce42831",
+    "专家说明.md": "c292ca973ebe1dc7582f9c2a0d1c9c37f8ab5080020ae7dc7fa9a04af84d2a71",
+    "source-metadata.json": "81d8066a4a0fdded38b19ed39450e15047e3687039ba76fa147f7c8a55b73921"
+  },
+  "source_slices_all_match_full_source": true,
+  "rule_anchor_QA_sha256": "4408aa3be6b7ab2bfa6e1ac6b939b7f477d72dd8c4f88a310529a651ae9aa68a",
+  "arithmetic_QA_sha256": "b4d3b8f1ebd24bf4a653a745bbb1f71a3a1294ae80944bb91ea021df7805a59e",
+  "no_claim_40_books_complete": true
+}

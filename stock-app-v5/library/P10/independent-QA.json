@@ -1,0 +1,69 @@
+{
+  "book_id": "P10",
+  "reviewer": "root_independent_of_index_team_author",
+  "status": "passed_with_source_limits",
+  "scope": "全部六章手写档案、整本综合、35专家规则和全部52精确原文区间；电子题名/目录及全部三个来源缺口文件",
+  "all_six_dossiers_actually_read": true,
+  "all35_rule_meaning_condition_revision_text_actually_read": true,
+  "all52_rule_source_segments_actually_read": true,
+  "first_output_truncation_repaired_by_reprinting_complete_R06_R07_sources": true,
+  "entire_original_4736line_second_read_by_reviewer": false,
+  "author_team_full_continuous_reading_supported_by_chapter_and_frontback_records": true,
+  "source_sha256": "087167e8de3ce15dec570f81cd8eac46d641965876f480d45f712a2d515a3c93",
+  "source_bytes": 247218,
+  "source_lines": 4736,
+  "chapter_body_han_counts": [
+    2878,
+    3061,
+    3306,
+    3491,
+    3836,
+    4275
+  ],
+  "body_han_total": 20847,
+  "min_chapter_body_han": 2878,
+  "rules": 35,
+  "source_anchor_count": 52,
+  "mechanical_checks": {
+    "source_unchanged_raw_CRLF_sha": true,
+    "all_chapter_sources_and_summary_shas_match": true,
+    "all52_source_ranges_exact_raw_byte_sha_match": true,
+    "each_chapter_reading_ranges_contiguous": true,
+    "all6_original_chapters_and_no_bibliography_books_added": true,
+    "chapter_min2000_book_min20000": true
+  },
+  "independent_numeric_reviews": {
+    "country_vault_15percent_times_2of5_percent": 6.0,
+    "city_vault_25percent_times_half_percent": 12.5,
+    "weight_113_0016_div_23_22_usd_per_gbp": 4.86656330749354,
+    "weight_4_4802_div_23_22_usd_per_franc": 0.19294573643410853,
+    "weights_and_author_par_are_rounded_approximations_not_current_quotes": true,
+    "1907_cooperative_asset_liability_difference_marks": 1500477,
+    "difference_not_labeled_equity_without_scope": true
+  },
+  "semantic_review_findings": [
+    "功能、法律形式、网络地位三维独立且混业保留",
+    "正常周转票自偿与上市证券可转手区别完整",
+    "长期滚动短票仍依长期现金回收，单行出售不增加国家总金属",
+    "1913-12-23法已过与储备银行组织仍拟述分开，不冒称作者已证运营效果",
+    "存户互保、券基金与成员互助监督/风险承担不同，不强行统一其评价",
+    "英法德加优势与反向条件保留，德国税的取舍未被简化成全坏",
+    "Hamilton储蓄引文不是B40作者，也不是额外整本阅读"
+  ],
+  "corrections_required": [],
+  "preserved_limits": [
+    "未取得原版扫描，纸页依原目录而非逐字原图证明",
+    "ten to one原词序未强改，minimum四/六月原字未强改",
+    "历史法、案例、币重量和全部统计未独立外部核实",
+    "被引文献与广告书名不计全读；当代法规需另核",
+    "无行情/真实机构净流/已运行投资实验或校准概率声明"
+  ],
+  "full_reading_completed_physical_scan": false,
+  "coverage_qualified": true,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "qa_finality": "source_grounded_semantic_artifacts_qualified_with_explicit_limits_not_scan_every_glyph_guarantee",
+  "content_files_unchanged": true,
+  "final_expert_sha256": "1dfd242036119748acb886f4c97c09e6d5a38387e1f110bc3d8ca5232a9b4772",
+  "final_audit_sha256": "a5cdd931442f7fc65e5265517827d42ba9f77cf83175372aca1e7eb041738c5f"
+}

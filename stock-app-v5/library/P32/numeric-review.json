@@ -1,0 +1,74 @@
+{
+  "book_id": "P32",
+  "status": "independent arithmetic/logic separate from authors original andsource gaps",
+  "checks": [
+    {
+      "id": "N01",
+      "source": "ch1paper14–15/PDF26–27rawconfirmed",
+      "43_div_130": 0.33076923076923076,
+      "author_claim": "morethanone-thirdafterduplicateallowances",
+      "conclusion": "shownratio<1/3;duplicationandwealth-rightscomparabilityunresolved;notdatabase"
+    },
+    {
+      "id": "N02",
+      "source": "ch4StPaul",
+      "total": 120000,
+      "components": 120000,
+      "customer_equity_ratio": 0.125,
+      "bank_buffer_ratio": 0.19999999999999996,
+      "note": "customer12.5% andbank20%distinct;historicalexampleonly"
+    },
+    {
+      "id": "N03",
+      "source": "ch6NYcollateralloans1905–07",
+      "difference": 133784856,
+      "reductionRatio": 0.3469056329108137,
+      "national1904_07difference_millions": 953,
+      "national1905_07author_millions": 700,
+      "note": "differentintervals/categories;notcombined"
+    },
+    {
+      "id": "N04",
+      "source": "ch9Londonentry",
+      "listed_items_pounds": 1177.0,
+      "author_about_pounds": 1150,
+      "note": "1177vsabout1150,approximate;notcalledpreciseprintingerror"
+    },
+    {
+      "id": "N05",
+      "source": "ch9paper366/PDF378rawconfirmed",
+      "country_sum_GBP": 267439100,
+      "author_total_GBP": 267439000,
+      "difference_GBP": 100,
+      "note": "originalsame;externalHirstunderlyingtablenotfullyobtained"
+    },
+    {
+      "id": "N06",
+      "source": "ch10paper406–407/PDF418–419rawconfirmed",
+      "three_major_groups_FRF": 150000000000,
+      "author_total_FRF": 155000000000,
+      "difference_FRF": 5000000000,
+      "home_displayed_subcategories_FRF": 64250000000,
+      "note": "majorgroupscopeunresolved;partialsubcategoriesnotallclaimedcompleteornumericalerrors"
+    },
+    {
+      "id": "N07",
+      "source": "ch5USSteelturnover",
+      "ratio": 6.14877151249412,
+      "author_approx": "six-to-one",
+      "note": "turnovernotnewsharesorcapitalcreation;notprobability"
+    }
+  ],
+  "source_date_issue": {
+    "source": "ch6originalpaper199/PDF211",
+    "raw1837paragraph_then": "1857 bankcount",
+    "status": "originalsame,not silentlycorrected"
+  },
+  "imperfect_glyph": {
+    "source": "ch7paper255/PDF267",
+    "rawPG": "Section5 may3",
+    "status": "alternativeactualimagealsomissingstrokes;unresolved"
+  },
+  "all_source_quoted_reports_fully_verified": false,
+  "precision_data_or_backtest_labels_enabled": false
+}

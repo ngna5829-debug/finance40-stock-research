@@ -1,0 +1,131 @@
+[
+  {
+    "issue": "EBITDA subtractsitems instead ofaddback",
+    "printed_pages": [
+      133,
+      134
+    ],
+    "author_meaning": "earningsbeforeITDA but19500/23400 fromsubtraction",
+    "independent_analysis": "Correctgivennoamortizationexample40500/46600; not cashflow"
+  },
+  {
+    "issue": "Apple EBITDA108.89millionunsupported",
+    "printed_page": 134,
+    "author_meaning": "108.89million annualEBITDA",
+    "independent_analysis": "No bookreconciliation; independentNI57411+tax9680+interest2873+DA11056=81020million onexplicitgross-interestbasis",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+  },
+  {
+    "issue": "Netincome notallfinanceflows",
+    "printed_page": 132,
+    "author_meaning": "Netimpactallfinancialtransactions",
+    "independent_analysis": "Financingprincipal/shareissue/dividend notallprofitincomeexpense"
+  },
+  {
+    "issue": "Onlytwoequityeventsversustablethree",
+    "printed_page": 143,
+    "author_meaning": "NIanddividends only",
+    "independent_analysis": "Figure514also5000shareissuance"
+  },
+  {
+    "issue": "Dividendceiling notuniversallyequalretainedearnings",
+    "printed_page": 142,
+    "author_meaning": "Cannotpaybeyondretainedearnings",
+    "independent_analysis": "Jurisdiction-specific statutorysurplus/netprofits and charterconditions; DGCL170 counterexample tosingleaccountceiling, notcompleteadvice",
+    "primary_url": "https://delcode.delaware.gov/title8/c001/sc05/index.html"
+  },
+  {
+    "issue": "Noncashexpense deducted phrase thenadded",
+    "printed_page": 145,
+    "author_meaning": "Firstsaysdeductedthenexplainsdepaddedback",
+    "independent_analysis": "CFOfig516has+3600depreciation and reconciles"
+  },
+  {
+    "issue": "OCFformula notmatchingCFOdefinition/example",
+    "printed_page": 148,
+    "author_meaning": "OI+dep-tax+changeworkingcapital",
+    "independent_analysis": "Workingcapitaldefinition/signunspecified; conventionalexample gives55600beforeinterest vsCFO53600; cannotreplaceactualstatement"
+  },
+  {
+    "issue": "FCFversusFCFF title/definitionmix",
+    "printed_pages": [
+      148,
+      158,
+      160
+    ],
+    "author_meaning": "FCFFequatedwithCFOcapex; choice6saysoperatingincome",
+    "independent_analysis": "CFOcapex40000specificlabel; independentunlevereddefinitionrequirescashinteresttax/classificationidentity; operatingincome notequaloperatingcash"
+  },
+  {
+    "issue": "FCFnotallcashfreelyspendable",
+    "printed_page": 148,
+    "author_meaning": "40000availableforrepay/dividend",
+    "independent_analysis": "Needmandatorydebtservice/otherobligations, formula/reconciliationnotuniform",
+    "primary_url": "https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures"
+  },
+  {
+    "issue": "Integerpercentdisplay and causaldecomposition overstatement",
+    "printed_page": 153,
+    "author_meaning": "rentdeputilities nochange; OIfall2dueonlysalaries",
+    "independent_analysis": "Raw ratioschange; OIfall2.1667pp comprisesrent/dep/utilities/salary; percentagepointvsrelativepercent distinct"
+  },
+  {
+    "issue": "Mostliabilityincreaseunearned claim",
+    "printed_page": 153,
+    "author_meaning": "MostcurrentLgrowthunearned",
+    "independent_analysis": "AP+15000 andunearned+15000 equallysplit30000"
+  },
+  {
+    "issue": "Salescomparisonsize coarse",
+    "printed_page": 154,
+    "author_meaning": "Charlienearly7timesClearLake",
+    "independent_analysis": "Netsales707000/120000=5.8917; gross748000/126000=5.9365"
+  },
+  {
+    "issue": "Balanceassetmeasurement/humancapital simplification",
+    "printed_pages": [
+      137,
+      138
+    ],
+    "author_meaning": "GAAPassetsathistoricalcost; estimatesandunrecordedvalue",
+    "independent_analysis": "Policiesdifferbyasset; booktotalsnotmarketvalue, unrecordedvaluecannotarbitrarilyinvent"
+  },
+  {
+    "issue": "Cashcapex notgenerallynetPPEdifferenceplusdep",
+    "printed_page": 146,
+    "author_meaning": "Equipment50-40+3.6=13.6kpurchase",
+    "independent_analysis": "Worksunderhypotheticalnodisposal/impairment/noncashchanges; real issuerneedsdetails"
+  },
+  {
+    "issue": "ReportingfrequencyGAAP/SECandissuer distinctions",
+    "printed_pages": [
+      156,
+      157
+    ],
+    "author_meaning": "GAAPrequiresquarterly/10Q10Kgeneralpublicfirms",
+    "independent_analysis": "Actualissuerclassification/regulatoryrequirements/context mustbechecked, notallprivate/foreignones quarterly; annualreportnotnecessarilyCEOletter10K"
+  },
+  {
+    "issue": "ExternalactivitiesandinlineAppleanswersnotwholeexternalread",
+    "printed_pages": [
+      131,
+      132,
+      134,
+      135,
+      136,
+      137,
+      139,
+      142,
+      147,
+      153,
+      154,
+      155,
+      156,
+      157,
+      162,
+      163
+    ],
+    "author_meaning": "Getannual/currentquarterly/thirdpartyratios/video activities",
+    "independent_analysis": "Allbookprintedcontentread, chapteralone notlatestissuerdata collection"
+  }
+]

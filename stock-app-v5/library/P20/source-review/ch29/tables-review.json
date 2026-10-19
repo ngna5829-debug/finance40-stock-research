@@ -1,0 +1,93 @@
+{
+  "book_id": "P20",
+  "chapter": 29,
+  "tables": [
+    {
+      "name": "England_issue_1902_02_19",
+      "unit": "GBP",
+      "pdf": 413,
+      "printed": 393,
+      "all_original_table_rows_visually_read": true,
+      "liability_sum": "52876780",
+      "resource_sum": "52876780",
+      "printed_total": "52876780",
+      "liability_difference_from_total": "0",
+      "resource_difference_from_total": "0"
+    },
+    {
+      "name": "England_banking_1902_02_19",
+      "unit": "GBP",
+      "pdf": 413,
+      "printed": 393,
+      "all_original_table_rows_visually_read": true,
+      "liability_sum": "74803588",
+      "resource_sum": "74806588",
+      "printed_total": "74806588",
+      "liability_difference_from_total": "-3000",
+      "resource_difference_from_total": "0"
+    },
+    {
+      "name": "Scotland_1901_06_30",
+      "unit": "thousand_GBP",
+      "pdf": 417,
+      "printed": 397,
+      "all_original_table_rows_visually_read": true,
+      "liability_sum": "137687",
+      "resource_sum": "137687",
+      "printed_total": "137687",
+      "liability_difference_from_total": "0",
+      "resource_difference_from_total": "0"
+    },
+    {
+      "name": "France_1902_02_27",
+      "unit": "thousand_FRF",
+      "pdf": 426,
+      "printed": 406,
+      "all_original_table_rows_visually_read": true,
+      "liability_sum": "5185811",
+      "resource_sum": "5185811",
+      "printed_total": "5185811",
+      "liability_difference_from_total": "0",
+      "resource_difference_from_total": "0"
+    },
+    {
+      "name": "Reichsbank_1902_02_28",
+      "unit": "thousand_DEM",
+      "pdf": 430,
+      "printed": 410,
+      "all_original_table_rows_visually_read": true,
+      "liability_sum": "1996491",
+      "resource_sum": "1996491",
+      "printed_total": "1996491",
+      "liability_difference_from_total": "0",
+      "resource_difference_from_total": "0"
+    }
+  ],
+  "internal_source_differences": [
+    {
+      "type": "England banking liabilities do not add to printed total",
+      "pdf": 413,
+      "printed": 393,
+      "difference_GBP": -3000,
+      "Rest_original_confirmed_high_resolution": "3575467",
+      "silently_corrected": false
+    },
+    {
+      "type": "Canada failed note interest",
+      "chapter24_printed332_original_percent": 6,
+      "chapter29_printed398_401_414_original_percent": 5,
+      "statutory_version_or_misprint_not_adjudicated": true
+    },
+    {
+      "type": "Canada bank count",
+      "main_printed397": 34,
+      "recap_printed413": 35,
+      "snapshot_date_or_revision_not_adjudicated": true
+    }
+  ],
+  "German_tax_annualization_clarified_by_recap_printed415": "5 percent per annum; weekly repeated reporting/assessment is not5 percent every week",
+  "Germany_metallic_reserve_note_original": "About one-quarter silver thalers or three-mark pieces, not all gold",
+  "independent_BoE_banking_reserve_pct": "47.18679647812309037681631063",
+  "units_and_dates_not_mixed": true,
+  "not_all_book_glyphs_verified": true
+}

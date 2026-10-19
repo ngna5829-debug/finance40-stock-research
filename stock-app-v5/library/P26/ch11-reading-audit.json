@@ -1,0 +1,54 @@
+{
+  "book_id": "P26",
+  "chapter": 11,
+  "source_chars": 20684,
+  "source_sha256": "551b1b0df17773b79efb58203f990409d7e3b42c4f182b89b7b9df909389fb14",
+  "full_native_text_actually_read": true,
+  "actual_native_text_ranges": [
+    [
+      0,
+      18000
+    ],
+    [
+      18000,
+      20684
+    ]
+  ],
+  "missing_source_blocks_recovered_from_same_scan_archive_and_original_images": [
+    {
+      "printed_page": 196,
+      "pdf_page": 206,
+      "block": "full5year20value_table"
+    },
+    {
+      "printed_page": 199,
+      "pdf_page": 209,
+      "block": "full_balance_sheet+closing_note+THE END"
+    }
+  ],
+  "archive_raw_source_sha256": "a1f76bd27405e9bc6560dae77c5ed8a71729af78ef4d56fc438db3cc937c15a4",
+  "supplement_file": "source-chapters/ch11-archive-ocr-complete.txt",
+  "archive_not_independent_corroboration": true,
+  "all13_original_pages_all12_footnotes_and_endnote_alltables_read": true,
+  "visual_files": [
+    "ch11-figures-1.jpg",
+    "ch11-figures-2.jpg",
+    "ch11-figures-3.jpg",
+    "ch11-figures-4.jpg",
+    "ch11-critical-202.png",
+    "ch11-critical-206.png",
+    "ch11-critical-208.png",
+    "ch11-critical-209.png"
+  ],
+  "summary_body_han": 3082,
+  "summary_sha256": "13272070fe030d4e5640beeb3695a982218e1acf22dfac122b727993357d0453",
+  "numeric_review": "ch11-source-numeric-review.json",
+  "external_whole_cited_works_and_historical_laws_read": false,
+  "all_historical_facts_independently_verified": false,
+  "every_glyph_perfect_proofreading_claim": false,
+  "book_reading_complete": false,
+  "current_prediction_enabled": false,
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "13272070fe030d4e5640beeb3695a982218e1acf22dfac122b727993357d0453",
+  "independent_whole_book_review": "pending"
+}

@@ -1,0 +1,70 @@
+{
+  "source": "ch04 full original tables",
+  "values": {
+    "1844_issue": {
+      "liabilities": {
+        "notes_issued": 28351295
+      },
+      "assets": {
+        "government_debt": 11015100,
+        "other_securities": 2984900,
+        "gold": 12657208,
+        "silver": 1694087
+      },
+      "liabilities_sum": 28351295,
+      "assets_sum": 28351295,
+      "balanced": true
+    },
+    "1844_banking": {
+      "liabilities": {
+        "capital": 14553000,
+        "rest": 3564729,
+        "public_deposits": 3630809,
+        "other_deposits": 8644348,
+        "bills": 1030354
+      },
+      "assets": {
+        "government_securities": 14554834,
+        "other_securities": 7835616,
+        "notes": 8175025,
+        "coin": 857765
+      },
+      "liabilities_sum": 31423240,
+      "assets_sum": 31423240,
+      "balanced": true
+    },
+    "1903_issue": {
+      "liabilities": {
+        "notes_issued": 51831835
+      },
+      "assets": {
+        "government_debt": 11015100,
+        "other_securities": 7434900,
+        "gold": 33381835,
+        "silver": 0
+      },
+      "liabilities_sum": 51831835,
+      "assets_sum": 51831835,
+      "balanced": true
+    },
+    "1903_banking": {
+      "liabilities": {
+        "capital": 14553000,
+        "rest": 3740209,
+        "public_deposits": 7393580,
+        "other_deposits": 41872061,
+        "bills": 113465
+      },
+      "assets": {
+        "government_securities": 18260841,
+        "other_securities": 24969260,
+        "notes": 22322875,
+        "coin": 2119339
+      },
+      "liabilities_sum": 67672315,
+      "assets_sum": 67672315,
+      "balanced": true
+    }
+  },
+  "scope": "原转录逐项加总；未外部核历史报表或原法案。"
+}

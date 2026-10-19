@@ -1,0 +1,158 @@
+[
+  {
+    "issue": "Rooney denominator transposed",
+    "printed_page": 230,
+    "original": "growth text1.2pct but equation .058-.021; result38.04",
+    "independent": "correct .058-.012→38.043478; literalprinted→47.297297"
+  },
+  {
+    "issue": "Savo duplicated decimal",
+    "printed_page": 230,
+    "original": "$142.86.86",
+    "independent": "4/(.03-.002)=142.857142"
+  },
+  {
+    "issue": "Perpetuity convergence and nextflow",
+    "printed_pages": [
+      229,
+      230
+    ],
+    "original": "remotePVsmallatanyinterestrate/growingperpetuity",
+    "independent": "constantpositivecash requiresr>0, growingrequiresr>g and C1nextperiod; zero/negative/undefined inputs excluded"
+  },
+  {
+    "issue": "Table82 year3one-dollarerror",
+    "printed_page": 232,
+    "original": "19846.81,total99818.76",
+    "independent": "19845.806025,total99817.750927;notcentrounding"
+  },
+  {
+    "issue": "PV25k versions",
+    "printed_pages": [
+      233,
+      235,
+      247,
+      248
+    ],
+    "original_values": [
+      99817.81,
+      107803.24,
+      99817.5,
+      107802.5,
+      99817.75,
+      107803.17
+    ],
+    "independent": "fullprecision99817.750927 anddue107803.171001; representational differences preserved"
+  },
+  {
+    "issue": "82percent lost denominator",
+    "printed_page": 238,
+    "original": "wait10years losealmost82pctpotential",
+    "independent": "difference/40yr=.4500085;difference/30yr=.81820996; also10additionaldeposits"
+  },
+  {
+    "issue": "Credit reports vs scores/freefrequency",
+    "printed_page": 240,
+    "original": "onefreeannualscore/additionalgenerallypaid",
+    "independent": "reportsnotscores; CFPBweeklyfreereport availability; notall extraspaid",
+    "primary_urls": [
+      "https://www.consumerfinance.gov/ask-cfpb/does-requesting-my-credit-report-hurt-my-credit-score-en-1229/",
+      "https://www.consumerfinance.gov/ask-cfpb/i-got-my-free-credit-reports-but-they-do-not-include-my-credit-scores-can-i-get-my-credit-score-for-free-too-en-6/"
+    ]
+  },
+  {
+    "issue": "Title/collateral andstudentloan generalization",
+    "printed_pages": [
+      240,
+      241
+    ],
+    "original": "lenderhastitleuntilpayoff/studentloans repaymentupon graduation",
+    "independent": "collateral/foreclosurerightsnotuniversalownership; repayment/grace/enrollment depend onloan",
+    "primary_urls": [
+      "https://www.consumerfinance.gov/ask-cfpb/im-about-to-close-on-a-real-estate-purchase-transaction-with-a-mortgage-what-can-expect-in-the-mortgage-closing-process-en-1905/",
+      "https://studentaid.gov/manage-loans/repayment"
+    ]
+  },
+  {
+    "issue": "Auto sum mixesdisplayandhiddenprecision",
+    "printed_pages": [
+      241,
+      255
+    ],
+    "original": "table35046.00 interest3046.08;Fig35046.07 interest3046.07",
+    "independent": "exacttotal35046.071944;fixed973.50 endsresidual.07861123;lastpaymustadjust"
+  },
+  {
+    "issue": "Table815 auto secondyear inconsistent with same fixedpayment",
+    "printed_page": 252,
+    "original": "BAL11311.13 PRN-10653.89 INT-1028.11",
+    "independent": "fixed973.50 predicts11311.104411,-10653.915598,-1028.084402; table814 matchesfixed rounding but815 residualabout.026unexplained; preserve"
+  },
+  {
+    "issue": "Mortgage roundedpayment overpay",
+    "printed_pages": [
+      242,
+      243
+    ],
+    "original": "819.16 each ending-1.38",
+    "independent": "exact819.156053586vsfixed819.16/lastadjust distinction; no hiddenrows claimed"
+  },
+  {
+    "issue": "Mortgage 2000after36 months payoff",
+    "printed_page": 243,
+    "original": "almost6monthsearly interestabout55k",
+    "independent": "samepayment/nofees/payextraafter36/lastadjust gives236months,4fewerpaymonths,exactinterest54932.059055"
+  },
+  {
+    "issue": "Card balance discrepancies",
+    "printed_page": 244,
+    "original": "month3 1045.69 vs exact1045.678375;month5separator1.077.28",
+    "independent": "round1045.68; preservealltablevalues without fabricatinguniformroundingmethod"
+  },
+  {
+    "issue": "Calculator captions/time labels",
+    "printed_pages": [
+      247,
+      248,
+      249,
+      250
+    ],
+    "original": "87requiredreturncaption actuallyprice;89/811BGNdescriptionEND",
+    "independent": "evaluateinputsandstate notwrongcaption"
+  },
+  {
+    "issue": "Annuitydue alwaysgreater condition",
+    "printed_pages": [
+      234,
+      236
+    ],
+    "original": "alwaysgreater",
+    "independent": "positivecashpositiveperiodrate;zeroequal,negativeratescouldreverse"
+  },
+  {
+    "issue": "Spreadsheet initialreference omitted equal",
+    "printed_page": 253,
+    "original": "typeB5",
+    "independent": "needs=B5 reference notliteraltext; screenshot correct"
+  },
+  {
+    "issue": "Problem10 monthrate rounded",
+    "printed_page": 260,
+    "original": "4pctannual .33pctmonthly",
+    "independent": "exact.04/12=.003333333; do notsilentlyreplacewith.0033"
+  },
+  {
+    "issue": "Fixedreturn guarantee and costs",
+    "printed_pages": [
+      229,
+      234,
+      237,
+      238,
+      243,
+      244,
+      260
+    ],
+    "original": "fixedmodels/annuity/lottery/loan illustrations",
+    "independent": "notcurrentquotes/investmentforecasts; dates/cashflows/fees/tax/creditrisk/compounding convention mustspecified"
+  }
+]

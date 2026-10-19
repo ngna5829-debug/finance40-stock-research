@@ -1,0 +1,136 @@
+[
+  {
+    "issue": "Cycledefinitionconflicts/dateconvention",
+    "printed_pages": [
+      168,
+      187
+    ],
+    "author_meaning": "OCcashconversionplusAR,thenstockreceipt-to-sale45;cashcycle75",
+    "independent_analysis": "OrdinaryOCincludesinventoryandcollection;CCC subtractspayabledays;June1July15exclusive44 vs45inclusive; exactdatedpaymentunknown",
+    "primary_url": "https://blogs.cfainstitute.org/blog/2013/05/21/a-look-at-the-cash-conversion-cycle/"
+  },
+  {
+    "issue": "ARTnetcreditversusallnet proxy",
+    "printed_pages": [
+      168,
+      169
+    ],
+    "author_meaning": "Usecreditonlyorproxyallsales",
+    "independent_analysis": "100000credit/25000=4;allsales120000/25000=4.8; labelproxy"
+  },
+  {
+    "issue": "DSIendingbalance vsaverageinventoryturnover",
+    "printed_pages": [
+      170,
+      171
+    ],
+    "author_meaning": "DSIending40k/cost60k365=243;turnovercost60k/average37.5k=1.6",
+    "independent_analysis": "EndingDSI243.333 vsaverage228.125; preserveconvention notclaimsameinverse"
+  },
+  {
+    "issue": "DEnumeratordoublecount",
+    "printed_page": 175,
+    "author_meaning": "(150000+50000)/100000=1.5",
+    "independent_analysis": "Total150000alreadyincludes50000notes; correct1.5total;printedexpression2.0"
+  },
+  {
+    "issue": "Allliabilities notallinterestbearing",
+    "printed_pages": [
+      174,
+      175
+    ],
+    "author_meaning": "Allcurrentandlongterm liabilitiesnameddebt",
+    "independent_analysis": "APandunearned differfromloaninterest;interestbearingdefinition needsidentity"
+  },
+  {
+    "issue": "Coverage/ratiosnotcashguarantee",
+    "printed_pages": [
+      172,
+      173,
+      176
+    ],
+    "author_meaning": "Ratiosabove1/TIE21.5 suggestcover",
+    "independent_analysis": "Needquality/timing/restrictedfunds/principal/refinancing; notproof"
+  },
+  {
+    "issue": "BVPSvsPEunits andautomaticvaluationclaim",
+    "printed_page": 181,
+    "author_meaning": "Compare10dollarsbook with18.51PE tocallundervalued;marketabovebookovervalued",
+    "independent_analysis": "CurrencyperShare vsdimensionless PE invalid; market/book difference notfundamentallysufficientvaluation;bookisnotguaranteedliquidation"
+  },
+  {
+    "issue": "ROEpreferreddividendnumerator/totaldenominatormix",
+    "printed_page": 183,
+    "author_meaning": "Netincomeafterpref yetdeduct5kthen/avg95k=32%",
+    "independent_analysis": "GAAP NI35knotafterdividend;30000/95000=31.5789 onmixedscope; totalNI35000/95000=36.8421; common-equityaverageunknown"
+  },
+  {
+    "issue": "DuPontfullidentity vsrounded36.4 vsprose26.4",
+    "printed_page": 184,
+    "author_meaning": "29%*.53*2.37=36.4%;then26.4%comparison",
+    "independent_analysis": "Rounded36.4269%,full36.8421%;prose26.4unexplained;earlier32 usesdifferentnumerator"
+  },
+  {
+    "issue": "Basicanddilutedsharesrules incomplete",
+    "printed_pages": [
+      177,
+      178
+    ],
+    "author_meaning": "Weightedcommon andpotentialdilution",
+    "independent_analysis": "Do notincludeeverysecuritywithoutconditions;buyback/issueweightedtimingimportant;periodEPSnotpromisedreturn"
+  },
+  {
+    "issue": "StockrepurchaseethicscaseandAmazonoutcomehindsight",
+    "printed_pages": [
+      179,
+      180
+    ],
+    "author_meaning": "18.5bApplecase/1997Amazon5k→near6m",
+    "independent_analysis": "Historicalteachingwithoutallprimaryverification or failurebase/sample;noautomaticfraudandnobuyalllosersrule"
+  },
+  {
+    "issue": "Alibaba17.97 scope omitted",
+    "printed_page": 177,
+    "author_meaning": "EPS17.97yuanversusconsensus14.33",
+    "independent_analysis": "IssuerannouncementnonGAAPdilutedperADS;GAAP10.48 andordinarynonGAAP2.25;8sharesADS;consensusnotverified",
+    "primary_url": "https://www.businesswire.com/news/home/20201105005549/en/Alibaba-Group-Announces-September-Quarter-2020-Results"
+  },
+  {
+    "issue": "Industry2020numericbenchmarks historic andparentheading",
+    "printed_pages": [
+      184,
+      185
+    ],
+    "author_meaning": "CompareROEtoindustry;Retailparent0",
+    "independent_analysis": "Samplesweightsnotprinted;26.4inconsistentcase;2020notlatest;retailparentnotautomaticvalidseries"
+  },
+  {
+    "issue": "CashratioSTeligibilityunknowninproblem",
+    "printed_page": 189,
+    "author_meaning": "30kcash+10kshortterminvest andcashratio question",
+    "independent_analysis": "Cash30/70=.4286unless10kverifiedcashequivalentthen40/70=.5714;cannotassumeallST equivalent"
+  },
+  {
+    "issue": "Externalreadandempiricalforecastnotperformed",
+    "printed_pages": [
+      166,
+      169,
+      171,
+      172,
+      173,
+      175,
+      176,
+      178,
+      179,
+      180,
+      181,
+      183,
+      184,
+      188,
+      189,
+      190
+    ],
+    "author_meaning": "Financialanalyst/Target/TIE/Yahoo/buyback/videosandresearchquestions",
+    "independent_analysis": "Everyprintedinstructionread,notfulllinkedexternalreading/backtest"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "issue": "Tax accrual blanketstatement",
+    "printed_page": 103,
+    "author_meaning": "IRSrequiresbusinessaccrualtaxinformation",
+    "independent_analysis": "IRS says many small businesses use cash and provides exceptions and inventories limits; not blanket",
+    "primary_url": "https://www.irs.gov/publications/p538"
+  },
+  {
+    "issue": "GAAP/IFRS applicability varies issuer",
+    "printed_page": 102,
+    "author_meaning": "Public companies use GAAPorIFRS asSECpermits",
+    "independent_analysis": "Foreign-privateissuer IASBIFRS relief not unrestricteddomesticissuerchoice",
+    "primary_url": "https://www.sec.gov/divisions/corpfin/internatl/foreign-private-issuers-overview.shtml"
+  },
+  {
+    "issue": "Equity exercise algebra reversed",
+    "printed_page": 105,
+    "author_meaning": "Subtractassetsfromliabilities",
+    "independent_analysis": "Own main equation and followingChrisexample requireA-L; imageconfirmsnotextractionerror"
+  },
+  {
+    "issue": "Figure46 cashflow headings inconsistent with body",
+    "printed_page": 108,
+    "author_meaning": "Aprilaccrual500 vsMaycash500",
+    "independent_analysis": "ActualAprreceipt0 givenMay16payment; cannotputApr500inoperatingcashflows"
+  },
+  {
+    "issue": "Apple thousandfactor and perioddateerrors",
+    "printed_page": 112,
+    "author_meaning": "36.766million/103.526million/66.760million plusSept30caption",
+    "independent_analysis": "Image and primarytable millions36766/103526/66760; datesSep26,2020/Sep28,2019",
+    "primary_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000096/aapl-20200926.htm"
+  },
+  {
+    "issue": "Purchase versus consumption",
+    "printed_page": 109,
+    "author_meaning": "Recordreceivedsuppliesinaccrual vscashpaymentlater",
+    "independent_analysis": "Purchase recognition doesnotprove immediate totalexpense; consumedamountrequired"
+  },
+  {
+    "issue": "Giftcard sale not automaticrevenue",
+    "printed_pages": [
+      108,
+      110
+    ],
+    "author_meaning": "Coffeeexamplelistsgiftcards, laterexplainsdeferral/breakage/stateproperty",
+    "independent_analysis": "Preservelaterqualification; nofreedomtorecognize allsalescash"
+  },
+  {
+    "issue": "Chris insurance benefitperiod unknown",
+    "printed_pages": [
+      102,
+      104,
+      105
+    ],
+    "author_meaning": "Cashbasisnet250 or1250dependinginsurancepaiddate",
+    "independent_analysis": "Cannotassume1000accrualexpenseinAugwithoutcoverageperiod"
+  },
+  {
+    "issue": "Book equity/accountvalue notmarket value",
+    "printed_pages": [
+      105,
+      106,
+      108
+    ],
+    "author_meaning": "Revenueincreasesorganizationvalue",
+    "independent_analysis": "Statementsbookequitycontext; notguaranteestockpriceorenterprisevalueincreasesdollarfordollar"
+  },
+  {
+    "issue": "DDB doesnotinputactualproduction",
+    "printed_pages": [
+      118,
+      119,
+      120
+    ],
+    "author_meaning": "Accountsfortimeandusage bydoubleSLrate",
+    "independent_analysis": "Onlytime/bookvalue/residual inalgorithm; earlyuseargumentnotmeasuredproduction"
+  },
+  {
+    "issue": "Chapterexamplechanges arehypotheticals",
+    "printed_pages": [
+      113,
+      114,
+      117
+    ],
+    "author_meaning": "Liam5000example then54000machine then58000total",
+    "independent_analysis": "Notoneunchangingevent; purchasepricevsreadyforusecost separated"
+  },
+  {
+    "issue": "Historical net value notmarketquote",
+    "printed_pages": [
+      115,
+      116
+    ],
+    "author_meaning": "Allocateassetcost,landnodepreciation",
+    "independent_analysis": "No depreciation doesnotruleout marketloss; useful/remaininglifeestimatesnotpricepredictions"
+  },
+  {
+    "issue": "Complete-life total expense equalityconditional",
+    "printed_pages": [
+      119,
+      120
+    ],
+    "author_meaning": "SLandDDBboth48000fiveyears",
+    "independent_analysis": "Commonunchangedcost/residual/fulllife assumptions; disposal/estimaterevision noteliminated"
+  },
+  {
+    "issue": "Worldcom hypotheticalnetworkshutdown",
+    "printed_page": 121,
+    "author_meaning": "Couldhaveshutdownonlinecommerce",
+    "independent_analysis": "Conditional teachingargument,nothistoricalobservedshutdownorcurrentnetworkshare"
+  },
+  {
+    "issue": "Problem4 SL insufficienttiming/residualinputs",
+    "printed_page": 127,
+    "author_meaning": "10000assettenyear compareexpensingcapitalizing",
+    "independent_analysis": "1000annualSLonlyunderzeroresidual/fullinserviceyear; actualinputsnotprovided"
+  },
+  {
+    "issue": "External assigned content notreadbychapteraccess",
+    "printed_pages": [
+      119,
+      121,
+      127
+    ],
+    "author_meaning": "McDonalds10K/WorldComreport/video researchtasks",
+    "independent_analysis": "Allprintedtextread, full externaldocuments/videosnotread"
+  }
+]

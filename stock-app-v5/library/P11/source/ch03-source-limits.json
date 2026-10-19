@@ -1,0 +1,89 @@
+{
+  "book_id": "P11",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "figures_visually_read": 3,
+  "figures_not_independent_second_data_source": true,
+  "all_tables_semantically_read": true,
+  "all_historical_prices_independently_verified": false,
+  "exchange_table_issue_rows": [
+    {
+      "lines": [
+        3573,
+        3573
+      ],
+      "source": "Germany March1921 spot24.5, delta-1, annual-4.9",
+      "simple_12_month_annualized_pct": -48.97959183673469
+    },
+    {
+      "lines": [
+        3600,
+        3600
+      ],
+      "source": "Germany April1923 spot97500, delta20000, annual141.18",
+      "simple_12_month_annualized_pct": 246.15384615384613
+    },
+    {
+      "lines": [
+        3485,
+        3485
+      ],
+      "source": "Paris August1923 spot79.2, delta9centimes, annual0.6",
+      "simple_12_month_annualized_pct": 1.3636363636363635
+    }
+  ],
+  "issue_values_match_official_html": true,
+  "resolution": "保留全部原输入和原年化栏；12月简单年化只做可见数对应检查，不确定是否转录/印误/其他口径；不改原值、不进精确实验",
+  "other_limits": [
+    {
+      "lines": [
+        2286,
+        2294
+      ],
+      "issue": "法定单位低10%/数量高10%长期说明是近似，严格分母计算约11.111%，不当精确模型"
+    },
+    {
+      "lines": [
+        2361,
+        2386
+      ],
+      "issue": "1920/22货币余额作者明确粗估示例；r~.12及1333取整，不作独立因果估计"
+    },
+    {
+      "lines": [
+        2724,
+        2766
+      ],
+      "issue": "虚构两国20/80权重、10%交易条件、全部指数取整，是假设例不是真实样本"
+    },
+    {
+      "lines": [
+        2859,
+        3044
+      ],
+      "issue": "三国指数来源不同，英月行缺口不补插值；图止Dec1922，表至June1923；图未逐点数字化"
+    },
+    {
+      "lines": [
+        3202,
+        3218
+      ],
+      "issue": "Aug–July年度极值与月平均/另一取样日远期表不同，不混算季节收益"
+    },
+    {
+      "lines": [
+        3488,
+        3489
+      ],
+      "issue": "远期取样1920第一日/1921第一周三/后第一周五，名义标记非可成交保证"
+    },
+    {
+      "lines": [
+        3848,
+        3893
+      ],
+      "issue": "专业远期意见几个成功作者明确不能精确一般化，不生成准确率"
+    }
+  ]
+}

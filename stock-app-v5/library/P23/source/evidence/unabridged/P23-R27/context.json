@@ -1,0 +1,17 @@
+{
+  "rule_id": "P23-R27",
+  "manifest_file": "source/evidence/unabridged/P23-R27/context.json",
+  "components": [
+    {
+      "source_file": "source/ch06.txt",
+      "context_file": "source/evidence/unabridged/P23-R27/ch06-full.txt",
+      "source_sha256": "719d5f4488b66d7f08a4ac578ccf389c63f1141fd894bec33fc1fdce1de72d2e",
+      "context_sha256": "719d5f4488b66d7f08a4ac578ccf389c63f1141fd894bec33fc1fdce1de72d2e",
+      "bytes": 149806,
+      "complete_source_component_bytes_preserved": true,
+      "complete_component_actually_semantically_read": true
+    }
+  ],
+  "all_rule_referenced_components_supplied_unabridged": true,
+  "combined_logical_context": "All complete original chapter or appendix components, each copied without any byte changes, in original book order; locating fragments are not counted as stand-alone full paragraphs."
+}

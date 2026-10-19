@@ -1,0 +1,172 @@
+{
+  "source": "printed146/PDF150 wheat/corn all22rows66prices; circlesPDF151/153; printed150/PDF154 acreage individually viewed",
+  "columns": [
+    "year",
+    "high",
+    "printed_midpoint",
+    "low"
+  ],
+  "wheat": [
+    [
+      1896,
+      94.375,
+      73.6875,
+      53
+    ],
+    [
+      1897,
+      109,
+      86.5625,
+      64.125
+    ],
+    [
+      1898,
+      185,
+      123.5,
+      62
+    ],
+    [
+      1899,
+      79.5,
+      71.75,
+      64
+    ],
+    [
+      1900,
+      87.5,
+      74.5,
+      61.5
+    ],
+    [
+      1901,
+      79.5,
+      71.3125,
+      63.125
+    ],
+    [
+      1902,
+      95,
+      81.25,
+      67.5
+    ],
+    [
+      1903,
+      93,
+      81.75,
+      70.25
+    ],
+    [
+      1904,
+      122,
+      101.625,
+      81.25
+    ],
+    [
+      1905,
+      124,
+      100.9375,
+      77.875
+    ],
+    [
+      1906,
+      94.75,
+      81.875,
+      69.125
+    ]
+  ],
+  "corn": [
+    [
+      1896,
+      30.625,
+      25.0625,
+      19.5
+    ],
+    [
+      1897,
+      32.625,
+      27.1875,
+      21.75
+    ],
+    [
+      1898,
+      38,
+      32,
+      26
+    ],
+    [
+      1899,
+      38.125,
+      34.0625,
+      30
+    ],
+    [
+      1900,
+      49.5,
+      40,
+      30.5
+    ],
+    [
+      1901,
+      67.5,
+      51.75,
+      36
+    ],
+    [
+      1902,
+      88,
+      65.875,
+      43.75
+    ],
+    [
+      1903,
+      53,
+      47,
+      41
+    ],
+    [
+      1904,
+      58.125,
+      50.4375,
+      42.75
+    ],
+    [
+      1905,
+      64.5,
+      53.25,
+      42
+    ],
+    [
+      1906,
+      54.75,
+      46.75,
+      39
+    ]
+  ],
+  "all_midpoints_match_high_low": false,
+  "wheat_acreage": [
+    43618646,
+    47854079
+  ],
+  "wheat_acreage_growth_percent_calculated": 9.710143226362412,
+  "wheat_acreage_growth_percent_author": 38,
+  "wheat_original_matches_transcription_conflict": true,
+  "corn_acreage": [
+    81027156,
+    94011369
+  ],
+  "corn_acreage_growth_percent_calculated": 16.024520223812377,
+  "corn_acreage_growth_percent_author": 16,
+  "US_wheat_share_percent": 21.159013190034194,
+  "US_corn_share_percent": 79.72209138012248,
+  "corn_midpoint_1896_to1906_percent_calculated": 86.53366583541147,
+  "corn_author_advance_percent_approximate": 100,
+  "limits": [
+    "US acreage wheat38% not arithmetically supported",
+    "world acreage inferred from production, no independent yield series",
+    "wheat70→90 author adjusted judgement, not raw endpoints",
+    "different crop prices/contract specifications not supplied",
+    "11labels not10observations; May reprint vs August wheat illustration /1906 cutoff unclear",
+    "supply concentration does not mean corporate monopoly",
+    "substitution and acreage switching explicitly qualify corn upside"
+  ]
+}

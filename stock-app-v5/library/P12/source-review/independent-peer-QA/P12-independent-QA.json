@@ -1,0 +1,214 @@
+{
+  "book_id": "P12",
+  "reviewer": "practical_books_independent_of_index_author",
+  "completed_utc": "2026-10-13T15:39:04.301997+00:00",
+  "status": "full_semantic_review_complete_required_changes_pending_root_manual_merge",
+  "final_qualified": false,
+  "review_scope": {
+    "all7_whole_original_chapters": true,
+    "all7_whole_Chinese_dossiers": true,
+    "all168_original_numbered_notes_plus122_ABC": true,
+    "all41_rules_every_semantic_field": true,
+    "all97_old_exact_raw_evidence_in_complete_actual_sources": true,
+    "all9_new_complete_contexts": true,
+    "whole_front_preface_contents_and_end_marker": true,
+    "whole_complete_PG_license": true,
+    "whole_synthesis_reader_explainer_expert_prompt_and_all_metadata": true,
+    "all18_HTML_table_forms_every_cell": true,
+    "all12_numerical_HTML_tables_and6_nondata_forms_identified": true,
+    "all17_monthly_trade_rows_independently_subtracted": true,
+    "full_source_entire_HTML_tag_lines_read": false,
+    "original_printed_scan_obtained": false,
+    "all_original_scan_glyphs_proofread": false,
+    "not_just_hash_or_word_count_review": true
+  },
+  "edition": "Acquired title NewYork Harcourt,BraceandHowe1920; prefaceNovember1919. Firstpublication1919 independently verified officialCambridgearchive; no mixingMacmillanBritishproofs or originalpaper glyphs.",
+  "source_sha256": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+  "source_bytes": 453051,
+  "source_lines": 7672,
+  "official_HTML_sha256": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707",
+  "review_time_author_hashes": {
+    "source/original.txt": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+    "source/original.html": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707",
+    "source-metadata.json": "2a65c9d9be2d82be1444f42f5f88d01c6255aa7909d2e92d2f9f12d56a5e2dae",
+    "chapter-plan.json": "898f75c8fb3449fb7115b1712cd32010d202eda137371b94297c2c9e708e7f99",
+    "章节与阅读审计.json": "29d9c2a40f1ee652a5cd1e1eb9648dc74658721ba3a5f881d6fbed4c278de4b4",
+    "章节深读.md": "6d0bfc10297875b8e8ec5e7eb6374e7b094c12c905102c29a910abbc8cccaa7b",
+    "全书综合与前后置页.md": "dabd0e57e8e57d79eb176c336c95510a3b825fe286dedec002405433bacf4447",
+    "专家说明.md": "60a67f55818c17b075336370f91729cf6a5a40c8e625f8ed353fa15d179aa305",
+    "专家定义.json": "244e1af39ab0472d0ab74546c43e66f96f92a8621b37abd3758766f4006f3119",
+    "self-validation.json": "b0c2a166fa0559b200e1abd01cdec25ce78f0c1672348ea28e031cb4cb504678"
+  },
+  "source_integrity_hashes": {
+    "source/ch06-progress-notes.json": "9a55217ff086193d1f8ab8b5b3427abf94a6fc312a2803a9ed0dba911fcecb0e",
+    "source/ch06-source-limits.json": "b57a3799e593ff7974ee71665d58be956d08bbcb6585b9690483b12efcb498cb",
+    "source/ch07-progress-notes.json": "a3d7841d1610055ab0985a2c3d40fe5b307b04fed969a3854bc8265e12f20267",
+    "source/ch04-progress-notes.json": "465d50360bb6326176dc917dc5cbe03c24ca01a32e7b211cbafb3a4ccddfaa1d",
+    "source/original.txt": "47c9ba595e2ea6c1fe2ead0c34ad5c145cb73bc5d9521338a7af4a5e4aff2a81",
+    "source/ch05-progress-notes.json": "bd83967179c0970ed577969a37626daa8cb7dbc7decdb7c6dbcd7b2764fc8a5e",
+    "source/ch05-visible-arithmetic.json": "670393f3a3e60994d925fdfba895daab21f7986a63d0a26f49d122fed5d9444b",
+    "source/ch05-source-limits.json": "a459d6da4ca939ae2be1350e6a91c8282b02b9527c7d9a568aeab0205daec020",
+    "source/ch04-original.txt": "c498fbeb88c38b470ccbe9f037291f473b7c734e82da06938943613472697cd6",
+    "source/ch03-original.txt": "c20c77e9630a113ed13fc65c9ab80eac867c6c960360e5a94ca8c62d9c06e9a6",
+    "source/ch03-source-limits.json": "53d1171f9eae5270d6feae545a2768c16b5468d8b30d1a968e1ce317be154d02",
+    "source/ch02-original.txt": "8cd0e8d939694a2e94fdda46cbe74bc92355caf5aea054867a00f424899051d3",
+    "source/ch05-original.txt": "58c19c625a2e35847bf487f109fc3a9fdbf6203b27c842d514c0d7587774cbb5",
+    "source/ch07-original.txt": "28f857879d62f4b70b9fd9b1c3d1352a4b9df7a89024e95b215eb43c93d4d136",
+    "source/ch01-original.txt": "265e9eb536aceb9119ca11c5528f53f09202bba5e42974f5101ac62509ab479b",
+    "source/ch06-original.txt": "bfc66fab43df6c4d62dd2f77c26c3a039a9d2271b137a0a40f687b697b137e03",
+    "source/ch02-source-limits.json": "3158061d0f80c47b508bdeef69cca8b8e8d25a96977a74b0935366570239d9d4",
+    "source/ch04-source-limits.json": "5374c75a4a69bf447e09d5624c052255bbfa892bd2ac317aec8a9bea33c5dc15",
+    "source/ch07-source-limits.json": "963df6658699fc94f8bdc96b18b5045975bf7714162fc1ca089cc3d9a4624a18",
+    "source/original.html": "5e31ea60b307e1d2afc63a1e1e4e85f7049cc4ab6b13e5b6191d22f0c0e00707"
+  },
+  "original_body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5187,
+    6612,
+    3609,
+    4196
+  ],
+  "original_body_han_total": 29009,
+  "candidate_body_han_counts": [
+    2769,
+    3254,
+    3382,
+    5225,
+    6800,
+    3722,
+    4277
+  ],
+  "candidate_body_han_total": 29429,
+  "candidate_minimum_han": 2769,
+  "source_notes_and_cross_chapter_tensions_preserved": [
+    "Originalprewarfullgrainnetwork/accumulation inequitable necessity claim and forced versus free union entry",
+    "Strong Wilsonpower and alternativecosts; observermotives and assertedclinical/racial traits not current proof",
+    "Saarmineownership versus territory, plebiscite, originalCoalCommissionmodifications, purchase mitigation and lignite unknown",
+    "Civilian damage/claimface/actualcapacity, annualdomestic savings versus overseas market surplus, food/work efficiency and private-priority/bookcredit/occupation/returned resource distinctions",
+    "Commission interpretive powers versus formal operatingdate and possible League transformation; government authority versus actual owner cashflow",
+    "Original 500−370→separatelyassumed250 bridge, rough interest/calendars/PV/censusyear/sugar and denominator conflicts",
+    "Germanconditional counteroffer not same economic-resource baseline; ethical objection independent of capacity",
+    "EuropeusuallyexcludesUK; source no longer separates war andpeace causes, final qualifications timing and possible longquietdecline",
+    "Original1919everybelligerentcapitallevy absolute norm versus later1923conditionalEngland external excerpt not new independent vote or P12source"
+  ],
+  "mandatory_findings": {
+    "chapter_body_patches": 10,
+    "changed_original_chapters": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "reader_unsupported_future_centralbank_removed": true,
+    "original_author_vs_modern_review_or_laterbook_field_changes": 63,
+    "rules_affected": 28,
+    "new_full_contexts": 9,
+    "old97_preserved_total106": true,
+    "all_original_numbers_preserved_and_format_identified": true
+  },
+  "new_source_limits": {
+    "sameofficial_TXT_HTML_cells_headers_units_differ": [
+      {
+        "HTML_table": 5,
+        "kind": "unit_annotation",
+        "TXT": "Belgian wealth in dollars, no tons column",
+        "HTML": "Dollar amounts plus a tons. and ditto column",
+        "resolution": "HTML textual presentation discrepancy, not tons of wealth; raw files unchanged; no original scan to attribute layer."
+      },
+      {
+        "HTML_table": 9,
+        "row": "Other goods, unenumerated",
+        "TXT": "829.60",
+        "HTML": "829.69"
+      },
+      {
+        "HTML_table": 10,
+        "row": "header",
+        "TXT": "Percentage of Total Imports",
+        "HTML": "Percentage of Total Exports"
+      },
+      {
+        "HTML_table": 10,
+        "row": "Poultry percentage",
+        "TXT": "0.5",
+        "HTML": "0.6"
+      },
+      {
+        "HTML_table": 11,
+        "row": "Great Britain exports",
+        "TXT": "359.55",
+        "HTML": "359.65"
+      },
+      {
+        "HTML_table": 11,
+        "row": "France imports",
+        "TXT": "146.05",
+        "HTML": "146.65"
+      },
+      {
+        "HTML_table": 11,
+        "row": "Other countries exports",
+        "TXT": "890.20",
+        "HTML": "800.20"
+      },
+      {
+        "HTML_table": 15,
+        "row": "France sum",
+        "TXT": "5200",
+        "HTML": "5290"
+      }
+    ],
+    "Italy1919_firstquarter_monthly_original_reported_gap_thousandUSD": 191155,
+    "independent_subtraction_gap_thousandUSD": 190555,
+    "difference_thousandUSD": 600,
+    "other16monthly_rows_match": true,
+    "no_original_scan_or_ledger_error_attribution": true
+  },
+  "source_limits": [
+    "No original1920printedscan; exactparagraphprinted/PDFpage and everyglyph unverified",
+    "TXTandHTMLboundseparately with documented differing values, no silent preferredformat correction",
+    "Author political/normative,strongmortality/inflation/uniquenessclaims retained without endorsing unverifiedfacts",
+    "Only original quoted treaty/news/whitepaper/citedwork excerpts read, not full originals of all citations",
+    "No human personality, currentstockdecision, realinstitutionalnetflow, financial experiment or predictive calibration"
+  ],
+  "external_cross_reference_scope": {
+    "P11_title_excerpt": [
+      1,
+      60
+    ],
+    "P11_capital_levy_actual_whole_relevant_context_lines": [
+      1841,
+      2017
+    ],
+    "P11_year_from_source_line": 106,
+    "not_full_P11_book_read_claim": true,
+    "not_independent_extra_author_vote": true
+  },
+  "candidate_artifacts": {
+    "P12-required-findings.json": "06b59b0416f5576295dee54a3fd98d34cd6b5820fbdf5eaffe8a1ccc9b2cd5b5",
+    "P12-corrected-expert-candidate.json": "93499344efe79f02efc4e6cb7f1bbf06b16a3575b57817e1847b27a8a3eadba1",
+    "P12-source-anchor-additions.json": "03a7c81de97021c3eb7986248a664ab12919207b10beaaf5c2b713e9ead6c67f",
+    "P12-mechanical-verification.json": "754da0e6d91f2d5bf74ec58fbb41ca7abb60f8d8731930f1d291155337988c68",
+    "P12-candidate-verification.json": "16a9cb605e43072dd2e21b821347e003e12207493c8f3f7fa80052279f8ee1ec",
+    "P12-independent-table-and-number-review.json": "1fbef814de83640f133e44478a8f20ac917dfff03a0cfb2900871fad494e0eb8",
+    "P12-HTML-all18-tables.json": "552b49946e7a57c61c45e586fa6baff2e3ad782fa23bd763082b1d707c6529af",
+    "P12-official-source-recheck.json": "cbf37d78a0b83142e480f1f4abe385174ac111c23ef40872b2db5a536fa289c9"
+  },
+  "candidate_draft_file_hashes": {
+    "chapters/ch04.md": "607c6b02b45edf7f4dbfb7ed09ffd9233768a9412c05ac6b44ce131a0449e72c",
+    "chapters/ch05.md": "e22240dc09659a0b60e75b9e11605f5c6269b049cff80d2ccd94cfed89497fba",
+    "chapters/ch06.md": "cf659c2e2068e6db90eae0577d4d3a0d27711babd130ca97c3ef3f35c2ca7ac3",
+    "chapters/ch07.md": "e66109384158027d8633120b549c53f215fdca46fe133a061537e64c1f292193",
+    "专家说明.md": "ad542e3a592dc8b1d92079010be91b3781244e1b5e5e34af51445b924e5afe99",
+    "全书综合与前后置页.md": "50911fcef85cc1d41f39c9c823a495212ce443eb0c49d51e8ec003187ed64a5f"
+  },
+  "root_manual_merge_and_final_content_hash_confirmation_required": true,
+  "author_or_canonical_modified_by_reviewer": false,
+  "author_finalizer_run": false,
+  "goal_tools_called": false,
+  "current_stock_decision_enabled": false,
+  "financial_experiments_run": false,
+  "whole40project_marked_complete": false
+}

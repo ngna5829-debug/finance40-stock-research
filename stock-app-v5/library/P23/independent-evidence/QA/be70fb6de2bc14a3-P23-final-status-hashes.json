@@ -1,0 +1,27 @@
+{
+  "book_id": "P23",
+  "status": "passed_with_source_limits",
+  "metadata_closed_by": "root",
+  "external_final_hash_peer_confirmation_still_required": true,
+  "merged_content_confirmation_review_time_file": "independent-review/P23-merged-content-confirmation.json",
+  "merged_content_confirmation_sha256": "bea40ad996bb1b7482f5d2981ab63e4b7643fb602c78a6404d041c647527636d",
+  "all_original_source_dossiers_rule_meaning_and_exact_proof_unchanged_after_content_confirm": true,
+  "strict_Han": 32170,
+  "minimum": 2233,
+  "locating_fragments_not_individual_complete_paragraphs": 262,
+  "complete_rule_contexts": 73,
+  "source_components": 77,
+  "hashes": {
+    "专家定义.json": "95fab05bf642fbf353124b58c560b76dd68682b1391b2a426afd2f2f8b491932",
+    "章节与阅读审计.json": "20afdd32f66a73794688e0b1979284e6af24a9bd4f987d9bb27e6b736b852a7b",
+    "独立复核.json": "9fa58d5d6c18090482df8910e8d5a47b61ebb358bd0d714299a9ca26ff28a421",
+    "validation.json": "59645fc32af8d6ec7b66c8d12f0b760e3272a30940a2b93c09b95f6011af1e4d",
+    "chapter-plan.json": "49e56f9e7c0d75109f36b78379bf4e4648e01ba693cc4d8bc9f62848e52cf3ed",
+    "reading-progress.json": "1f0b009264b494634bc44b6b4e4f0a405b63479d29015fa17fb760e56f455b0d",
+    "rules-data.json": "f7395cc722693d8611c94a94606c93584d19ac1ad85e2f0651ef13121b34f84d",
+    "专家说明.md": "ff824e401b9422fb1acd2d91cf98c09e9ace157982431701037bff53a8534ca5",
+    "全书综合与附录.md": "2b194fb191f1a1364c7c5e9fba252d8a18e334989d25ba7f8bfe19fd81b0dd1d",
+    "章节深读.md": "346dca20130e6e1028c0c8df384c07fb9b7f79d3f3661527d84a363646a9871e"
+  },
+  "created_utc": "2026-10-13T17:43:50.707122+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "book_id": "P14",
+  "chapters": [
+    4,
+    5,
+    6
+  ],
+  "fresh_independent_arithmetic_only_not_source_ledger_validation": true,
+  "orange_1_shilling_pence": 12,
+  "orange_domestic_minus_foreign_pence": 11,
+  "orange_1day_fraction": "1/12 plus carriage",
+  "iron_import8_plus_duty5": 13,
+  "iron_domestic12_less_subsidy5": 7,
+  "fixed_unit_domestic12_minus_import8": 4,
+  "source_salt_and_large_budget_FRF_per_GBP": "25",
+  "first_cost": "280000.0",
+  "first_gain": 40000,
+  "first_gain_over_original_goods": "0.2",
+  "first_gain_over_landedcost": "0.1428571428571428571428571429",
+  "return_cost": "352000.0",
+  "return_gain": 70400,
+  "two_gains": 110400,
+  "customs_gap": 152000,
+  "customs_gap_components": [
+    80000,
+    40000,
+    32000
+  ],
+  "all_original_values_preserved": true,
+  "current_stock_decisions": false,
+  "experiments_run": false
+}

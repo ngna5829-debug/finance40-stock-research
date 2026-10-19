@@ -1,0 +1,153 @@
+[
+  {
+    "issue": "Maddox terminalrow/discountwrong",
+    "page": 329,
+    "original": "terminalafter4 50.07886 placedrow5 factor1.4693 PV35.7870 total43.2466",
+    "independent": "correctdiscount4years;literalrowfactoralso yieldsdifferent34.083...; alloriginalcellsretained;independentvalue inarithmetic"
+  },
+  {
+    "issue": "Phased historyfirstdividend .070 vs .70",
+    "pages": [
+      337,
+      338,
+      339
+    ],
+    "original": "table.070/.080 vs formula/calculator.70;printedg13.0427",
+    "independent": "literalhistorygrowthabout46pct >r17 constantperpetuityinvalid; separateassumed.70model, do notsilentlyreplaceoriginaltable ormarkJNJrealhistory"
+  },
+  {
+    "issue": "Phasedsale258.10vs205.18/nameresidue",
+    "pages": [
+      338,
+      339
+    ],
+    "original": "prose258.10 vs formula205.18,PhasedsuddenlyJohnsonJohnson;price60.23",
+    "independent": "roundedg13.04 impliesterminal205.18; finitepart17.55 +PVterminal42.68=60.23;258.10woulddiffer;notrealJNJvaluation"
+  },
+  {
+    "issue": "JM tablewrongtimingandextra1.275",
+    "page": 340,
+    "original": "T0.25 T1.5 T2 1.5 T3 1.275 T4 3 T5 3*1.05",
+    "independent": "prose/equationsspecifyfirstt1 .25, thent2.5,t3 1.5,t4 3,t5 3.15; preserveconflict"
+  },
+  {
+    "issue": "EVratios orphanGordoncaption/pienetdebt",
+    "pages": [
+      323,
+      324
+    ],
+    "original": "Gordon caption precedesEV/Revenue,EV/EBIT;pieNetDebtMinusCash",
+    "independent": "ratiosnotGordon; definegross/netdebtbeforecash deductionavoidtwice; totalcapitalclaims scope"
+  },
+  {
+    "issue": "EBITDA cash andleases comparison",
+    "pages": [
+      324,
+      325
+    ],
+    "original": "EBITDA substitutecash;leasedfirmsartificiallowdebt",
+    "independent": "tax/capex/NWC omitted;currentASC842longleasesassetsliabilitiesrecognized, compareaccounts notassumealloffbalance",
+    "primary_url": "https://fasb.org/projects/current-projects/leases-398331"
+  },
+  {
+    "issue": "Dividend companies historical",
+    "pages": [
+      327,
+      332,
+      341
+    ],
+    "original": "FacebookGoogle donotpaydividends;BuffettCEO2014quote",
+    "independent": "2022bookcontext;Meta andAlphabetinitiated2024dividend;onlyrelevantprimaryannouncementsreadnotwhole10Ks",
+    "primary_urls": [
+      "https://investor.atmeta.com/investor-news/press-release-details/2024/Meta-Reports-Fourth-Quarter-and-Full-Year-2023-Results-Initiates-Quarterly-Dividend/default.aspx",
+      "https://abc.xyz/assets/91/b3/3f9213d14ce3ae27e1038e01a0e0/2024q1-alphabet-earnings-release-pdf.pdf"
+    ]
+  },
+  {
+    "issue": "Tax at least1year",
+    "page": 341,
+    "original": "atleast1yearlongterm",
+    "independent": "IRSgenerallymorethan1year, account/jurisdiction/individualcircumstanceselsewhere; notpersonalUSrateadvice",
+    "primary_url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+    "issue": "CompanyDCF divideallvaluebys hares",
+    "pages": [
+      341,
+      342
+    ],
+    "original": "13554477wholecompany→13.55per1mshares vs12goodbuy",
+    "independent": "FCFF/FCFE unknown;ifenterprise cashvalue mustbridge debt/cash/preferred/noncontrolling beforecommondivision;exampleconditionalnotactualstock signal"
+  },
+  {
+    "issue": "Terminalformula vs numericalmultiple",
+    "pages": [
+      341,
+      342
+    ],
+    "original": "TCFdefinedendingassetsalebutequationTCF/(r-g) discountedn-1;example2.5PVyear6",
+    "independent": "perpetuity terminalfutureflow andalreadyassetsaleamount distinct;2.5PV6mayvalidPVexitmultiple2.5 nominalCF6 at6 butmustdefine;avoiddouble discount/duplicatefutureflows"
+  },
+  {
+    "issue": "PEpayback/BVliquidation/ratiobounds",
+    "pages": [
+      321,
+      322,
+      323
+    ],
+    "original": "PE EPSflatpayback;BVresidualliquidation;PBabove1overvalued;lowPEmaturestable",
+    "independent": "earningsnotreceivedcash;accountingBVnotliquidationvaluation;thresholdsnotunconditional;negative/zerodenominators/NWC/quality/sector/period scope"
+  },
+  {
+    "issue": "Modelobjectivity andDDMdomain",
+    "pages": [
+      326,
+      327,
+      332,
+      336,
+      337,
+      340
+    ],
+    "original": "DDMlittle roomsubjectivity;onlyriskchangeszerogrowthprice;DDMcannotnonpay",
+    "independent": "futureg/r/payoutsubjective, changesincashpromisealsoimpact;perpetuityr>g required (equaldiverges),highfinitegrowmay>r;currentlyzerodividendcanfuturepay orotherdistribution model;terminal/finitehorizonnotduplicated"
+  },
+  {
+    "issue": "Preferred obligations/voting/maturity broad",
+    "pages": [
+      343,
+      344,
+      345
+    ],
+    "original": "allnomaturity/fixeddividend/noVotes;arrearsliabilityeventuallymustpay;evenlosspaid",
+    "independent": "actualtermscontrolredeem/maturity/rate/votes/declaration/cumulativepriority;seniorcreditorsstillfirst;noautomaticguaranteeorfacepayoutonbankruptcy",
+    "primary_url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks"
+  },
+  {
+    "issue": "Efficientmarketsectionlimited,strongnotexplained",
+    "pages": [
+      345,
+      346,
+      347,
+      351
+    ],
+    "original": "listthreeforms,weakexplained,diagrampublicPartiallyStrong;strongonlynamedandquestion",
+    "independent": "missingdescriptionnotinventedread;rapidexecutionnotproofallinfoorzeroalpha;noempiricaloutofsampletestreported"
+  },
+  {
+    "issue": "HistoricalPE2009graphicexternal",
+    "page": 325,
+    "original": "May2009P/E123.73highesthistorical",
+    "independent": "embeddedvaluevisualread, externaldata/definition/samplehighestnotverified;lowearnings canraiseratio butnoregimecalibratedthresholdfromit"
+  },
+  {
+    "issue": "OldPeakandLore roundings",
+    "pages": [
+      331,
+      332,
+      333,
+      334
+    ],
+    "original": "OldPeak34.47calcvsExcel34.48,Lore291.44vsroundedsum291.45",
+    "independent": "fullprecisionvaluesseparate fromroundedcomponents; notdifferentmethods proofs"
+  }
+]

@@ -1,0 +1,1037 @@
+[
+  {
+    "chapter": 1,
+    "paragraph_numbers": [
+      3,
+      5,
+      6,
+      8
+    ],
+    "title_zh": "服务对象与方法不等于效果证明",
+    "author_meaning": "作者为客户解释选股原则，认为原则能避免几乎所有投机损失，特别强调买什么、何时买卖及市场信息。",
+    "independent_analysis": "这是服务提供者的目的与强效果意见，没有全部建议结果；不把读书或原则名称视为能力和盈利认证。",
+    "required_inputs": [
+      "原始建议全集",
+      "完整净损益",
+      "服务利益"
+    ],
+    "horizon": "原书方法学习；当前决策未启用",
+    "counterexample_or_limit": "声称几乎所有损失可避免而未给样本。",
+    "abstain_when": "要求直接兑现成功率或当前指令，却无真实结果及输入。"
+  },
+  {
+    "chapter": 2,
+    "paragraph_numbers": [
+      3
+    ],
+    "title_zh": "收入持有与价格不确定分开",
+    "author_meaning": "本书投机是为价差买卖股票债券；以固定收入及较长持有为投资，但投资也有市场价格变动的不确定。",
+    "independent_analysis": "分类是目的与风险维度，不是以产品名称保证安全；需分别看收入、价格和资金期限。",
+    "required_inputs": [
+      "现金流",
+      "持有目的",
+      "证券条款",
+      "资金期限"
+    ],
+    "horizon": "原书短期价差与较长收入，无固定天数",
+    "counterexample_or_limit": "收入固定仍可有价格风险。",
+    "abstain_when": "缺条款或目的却要求按投资标签认定无风险。"
+  },
+  {
+    "chapter": 2,
+    "paragraph_numbers": [
+      5,
+      6
+    ],
+    "title_zh": "安全一词相对但债券回升意见很强",
+    "author_meaning": "作者说安全很少绝对，仍断言自由债券八十余价在高息后必回升，只是不知给定期限上涨多少。",
+    "independent_analysis": "保留强原意，不代为证明利率一定回落、价格必涨或能无限等待；现代条件还需现金流、违约和融资。",
+    "required_inputs": [
+      "债券条款",
+      "利率情景",
+      "偿付能力",
+      "资金期限"
+    ],
+    "horizon": "作者无法确定给定时间幅度",
+    "counterexample_or_limit": "运输类比不是债券统计概率，长期可持有也不保证价值。",
+    "abstain_when": "要求确定上涨时间/无损失或未来利率。"
+  },
+  {
+    "chapter": 3,
+    "paragraph_numbers": [
+      7,
+      8,
+      10
+    ],
+    "title_zh": "信念方向与实际多空头寸不同",
+    "author_meaning": "bull/bear说对方向的信念，long是拥有股票，short是欠股票；可一股看多另一股看空。",
+    "independent_analysis": "不把乐观语言当实际持有或资金交易数据，也不把空头欠券省成裸预测。",
+    "required_inputs": [
+      "头寸记录",
+      "证券身份",
+      "借券义务"
+    ],
+    "horizon": "持有期间及具体证券",
+    "counterexample_or_limit": "方向信念不能证明已成交。",
+    "abstain_when": "只有言论或日线，却声称真实持仓与机构资金。"
+  },
+  {
+    "chapter": 3,
+    "paragraph_numbers": [
+      11,
+      12
+    ],
+    "title_zh": "单位与历史交易批量先核",
+    "author_meaning": "旧NYSE一手百股、Consolidated十股，oddlot有历史差价；美元股一point一美元，分价股和棉花单位不同。",
+    "independent_analysis": "旧批量与差价不是现行统一法；后章点数不得当百分比或跨资产同单位。",
+    "required_inputs": [
+      "报价单位",
+      "股数",
+      "合约类别",
+      "当前交易规则"
+    ],
+    "horizon": "当时规则与实际合约期限",
+    "counterexample_or_limit": "棉花30点示例18.12至18.42，非30%。",
+    "abstain_when": "单位、股数或当前规则未知却求金额或止损。"
+  },
+  {
+    "chapter": 3,
+    "paragraph_numbers": [
+      16
+    ],
+    "title_zh": "浮动供应是可能卖者不是注册流通股",
+    "author_meaning": "floating supply指在可能卖出的公众手中股票。",
+    "independent_analysis": "行为性潜在供应不可由法定流通股、单日成交量或OBV精确认定。",
+    "required_inputs": [
+      "持有人卖出意图",
+      "订单与成交",
+      "来源时间"
+    ],
+    "horizon": "实际供求观察，原书无窗口",
+    "counterexample_or_limit": "登记数量不说明愿意卖的价格与时点。",
+    "abstain_when": "只给注册流通股或日线，要求原书浮动供应。"
+  },
+  {
+    "chapter": 4,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "价值优先且未来价值不能无故削弱",
+    "author_meaning": "作者要求价低于资产、盈利与未来盈利所支持价值，其他市场影响是次要；若价值远高且未来不降低，最终价会靠近。他也容许大潜在利润有时值得冒高于现值风险。",
+    "independent_analysis": "保留必要条件与显式例外，但未给估值公式、达到日期或验证；例外不豁免风险门。",
+    "required_inputs": [
+      "资产",
+      "盈利",
+      "未来假设",
+      "价格",
+      "估值敏感性"
+    ],
+    "horizon": "最终趋近无确定到达时间",
+    "counterexample_or_limit": "未来价值改变、估值错、例外风险均会破坏廉价论。",
+    "abstain_when": "只有OHLCV或主观目标价，无实际财务与前景。"
+  },
+  {
+    "chapter": 4,
+    "paragraph_numbers": [
+      8,
+      9
+    ],
+    "title_zh": "AFP故事真假未定",
+    "author_meaning": "原章用April Fool Preferred/不存在的American Fire Protection新闻说明盲买，明确故事可能真也可能不真；专业消息例外不适合一般报信。",
+    "independent_analysis": "不当已核新闻、不补Detroit法律事实，不把专业头衔视为已核消息的资格。",
+    "required_inputs": [
+      "消息原件",
+      "证券身份",
+      "来源利益",
+      "独立核实"
+    ],
+    "horizon": "消息当时可用时点",
+    "counterexample_or_limit": "作者自己标真假未知。",
+    "abstain_when": "要求以故事证明实际操纵或以报信直接买。"
+  },
+  {
+    "chapter": 5,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "先行业再个股且写作推荐有日期",
+    "author_meaning": "一般偏NYSE但常有例外；行业收入能否跟上成本影响状态。早四月1922仅少数制造业、若干而非全部铁路公用事业及特选其他股。",
+    "independent_analysis": "不是永久行业排行，1921改善不能由今天同名行业承接；个股仍需资产与收入。",
+    "required_inputs": [
+      "行业收入成本",
+      "个股财务",
+      "行业同业",
+      "证券身份"
+    ],
+    "horizon": "1922早四月观察；现代另取同口径期间",
+    "counterexample_or_limit": "行业改善不保证每个公司有价值。",
+    "abstain_when": "缺同业财务或将旧行业推荐当当前。"
+  },
+  {
+    "chapter": 6,
+    "paragraph_numbers": [
+      4,
+      5
+    ],
+    "title_zh": "推广股存活与诚信分开",
+    "author_meaning": "作者说推广新公司几乎都失败但少数很成功，广告爱举成功者；不少发起者真诚，也有欺骗者。",
+    "independent_analysis": "未给样本，不能填失败概率；未成功不等于骗，也不因真诚就免风险。",
+    "required_inputs": [
+      "发行资料",
+      "业务可行性",
+      "全部结果样本",
+      "行为证据"
+    ],
+    "horizon": "新事业存活与实际退出期",
+    "counterexample_or_limit": "极少成功者能被过度展示。",
+    "abstain_when": "缺完整样本而要求量化失败率或认定欺骗。"
+  },
+  {
+    "chapter": 6,
+    "paragraph_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "title_zh": "新挂牌和推广热度是审查线索",
+    "author_meaning": "作者劝排除价格过高类别，称新挂牌常较后来贵但不总如此，强广告与拉人买股不宜参与。",
+    "independent_analysis": "广告可能与上涨相伴却不是价值；不据通常/几乎断言每次路径或把小样本盈利当机制证明。",
+    "required_inputs": [
+      "发行价格",
+      "估值",
+      "推广来源",
+      "利益",
+      "全部成交"
+    ],
+    "horizon": "挂牌后与宣传期间，无固定天数",
+    "counterexample_or_limit": "原书承认不是所有新挂牌都会下跌。",
+    "abstain_when": "仅有热度、早期上涨、广告或传言。"
+  },
+  {
+    "chapter": 7,
+    "paragraph_numbers": [
+      3,
+      4
+    ],
+    "title_zh": "便宜是低于价值而非已跌很多",
+    "author_meaning": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。",
+    "independent_analysis": "交易所标签或折价相对旧高点均不能证明价值，更不救无存续能力者。",
+    "required_inputs": [
+      "资产",
+      "盈利前景",
+      "估值",
+      "价格",
+      "持续经营"
+    ],
+    "horizon": "价值到达无保证期限",
+    "counterexample_or_limit": "原书明确提出纽约交易所也可能有始终无内在价值的股票。",
+    "abstain_when": "财务及前景缺失或只知历史跌幅。"
+  },
+  {
+    "chapter": 7,
+    "paragraph_numbers": [
+      5,
+      6,
+      7
+    ],
+    "title_zh": "冷清悲观的购买机会不等于真资金流",
+    "author_meaning": "作者倾向大众卖、业务差、交易轻时寻廉价，并认为大资金慢慢吸收，须备资金。",
+    "independent_analysis": "这是供求与逆向研究观点，未核实际机构身份；OBV/CMF仅代理，不能证明大资金吸筹。",
+    "required_inputs": [
+      "估值",
+      "业务状态",
+      "资本缓冲",
+      "真实持仓成交",
+      "来源时间"
+    ],
+    "horizon": "低需求阶段，无作者指标阈值",
+    "counterexample_or_limit": "坏企业仍可失败，低需求也可持续。",
+    "abstain_when": "只有日线或新闻悲观却要求安全买入/真实资金。"
+  },
+  {
+    "chapter": 7,
+    "paragraph_numbers": [
+      9
+    ],
+    "title_zh": "四月二十五日暂停保证金买入修订",
+    "author_meaning": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。",
+    "independent_analysis": "修订特指保证金买入，不是全持仓清仓；后来的回落不能证明事前规则已量化。",
+    "required_inputs": [
+      "建议时点",
+      "融资情况",
+      "当时市况",
+      "后续独立记录"
+    ],
+    "horizon": "1922四月二十五日及暂时暂停，无精确截止",
+    "counterexample_or_limit": "与早四月买入论是不同日期及融资条件。",
+    "abstain_when": "省略时点/融资限定、或把历史修订用于今日。"
+  },
+  {
+    "chapter": 8,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "市场普遍高估可以否决个股买入",
+    "author_meaning": "近乎所有股高于真实价值时不宜买，可能一般下跌连公平价值股也受影响；偶有完全没股可买，作者认为长年停买少见。",
+    "independent_analysis": "无多少比例或指数公式；可保留研究候选但不是当日执行，市场门不因一个价值观点而绕过。",
+    "required_inputs": [
+      "全市场估值覆盖",
+      "行业财务",
+      "市况",
+      "技术条件"
+    ],
+    "horizon": "短暂回避或阶段观察，无年限公式",
+    "counterexample_or_limit": "公平价值个股仍可能受普遍下跌。",
+    "abstain_when": "缺覆盖数据却断言多数高估或用个股票越过硬门。"
+  },
+  {
+    "chapter": 9,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "高于价值与普遍乐观退出不需精确峰值",
+    "author_meaning": "作者倾向价格过高和近乎人人看多时卖，批评等待不现实高目标；1916钢铁136至1000是其记得读到的预测。",
+    "independent_analysis": "历史报导未独立核实，普遍乐观无样本阈值；不补顶部精确概率。",
+    "required_inputs": [
+      "估值",
+      "价格",
+      "情绪来源",
+      "原报道",
+      "持仓"
+    ],
+    "horizon": "牛市阶段，顶部不可知",
+    "counterexample_or_limit": "极端预测不是可行目标价。",
+    "abstain_when": "只有涨幅或单条目标价，无价值和群体证据。"
+  },
+  {
+    "chapter": 9,
+    "paragraph_numbers": [
+      6,
+      7,
+      8
+    ],
+    "title_zh": "已有利润不足以卖也可为更佳机会换出",
+    "author_meaning": "廉价买入后来获利不自动宜卖，Peoples Gas低于30到1921末翻倍的例子仍可能后涨；可为更好机会卖但须选时，宁早于过迟。",
+    "independent_analysis": "保留别太早与宁早张力，不造统一固定盈利线；须将替代机会、风险、成本放同期限比较。",
+    "required_inputs": [
+      "当前价值",
+      "替代用途",
+      "成本",
+      "资金期限"
+    ],
+    "horizon": "机会比较的共同期限，原书未指定",
+    "counterexample_or_limit": "获利本身与相对机会不同。",
+    "abstain_when": "缺持有/替代资料却机械止盈或换仓。"
+  },
+  {
+    "chapter": 10,
+    "paragraph_numbers": [
+      4,
+      5
+    ],
+    "title_zh": "周期统计的方法明确未提供",
+    "author_meaning": "作者谈二十年统计研究和若干永不失效规律，却明确本书不解释周期预测的基本统计。",
+    "independent_analysis": "承认方法缺口，不用SMA/RSI、LLM输出或后验轨迹填成原方法；不能声称已复现。",
+    "required_inputs": [
+      "完整原始研究方法",
+      "当时可用数据",
+      "样本全集"
+    ],
+    "horizon": "主要周期；原书未给计算期",
+    "counterexample_or_limit": "相似结果不是独立有效性验证。",
+    "abstain_when": "要求原书精确算法、窗口或已验证预测概率。"
+  },
+  {
+    "chapter": 11,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "价格领先业务但周期不完全重复",
+    "author_meaning": "作者说价格几乎总领先业务，1921八月起七个月四十股约涨20点而业务尚弱，又说周期非复制，不能知期限与路径。",
+    "independent_analysis": "四十股票不是四十专家，20点不是20%；领先强句未给全样本，当前分类需已知证据。",
+    "required_inputs": [
+      "指数身份权重",
+      "历史价格",
+      "业务数据时点",
+      "宏观状态"
+    ],
+    "horizon": "主要周期，期限路径未知",
+    "counterexample_or_limit": "不能事后识别完整周期再冒称当时知道。",
+    "abstain_when": "代表股组成或业务信息可用时间不明。"
+  },
+  {
+    "chapter": 11,
+    "paragraph_numbers": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "title_zh": "四阶段与低于旧高反弹的警报",
+    "author_meaning": "繁荣高价工资生产与乐观，破裂后反弹不过原价被视转熊；萧条低价低工资紧钱失败多，作者倾向寻廉价。",
+    "independent_analysis": "书无反弹确认窗口，低于旧高的当前现象不能用未来完成值确认；紧钱与下章银行积钱保留口径张力。",
+    "required_inputs": [
+      "价格路径",
+      "业务工资生产",
+      "信用",
+      "时间可用性",
+      "个股价值"
+    ],
+    "horizon": "阶段，不给固定天数",
+    "counterexample_or_limit": "萧条个股可失去价值，反弹终点未必可知。",
+    "abstain_when": "缺阶段资料、无反弹完结证据或未来偷看。"
+  },
+  {
+    "chapter": 12,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "充足可借资金是牛市必要条件意见",
+    "author_meaning": "作者称大牛市需足钱，交易融资需经纪借款；1919联储升息撤钱有约束。繁荣储备减贷款增，储备很低通常宜卖。",
+    "independent_analysis": "充足不自动充分，低储备无阈值；历史政策与反事实益处未全核，不把央行对象或现代信用条件补造。",
+    "required_inputs": [
+      "银行储备口径",
+      "贷款",
+      "融资利率额度",
+      "政策原件",
+      "市况"
+    ],
+    "horizon": "信用阶段，原书无窗口",
+    "counterexample_or_limit": "前章萧条紧钱与这里积累/牛初宽钱须分期对象。",
+    "abstain_when": "资金仅由日线代理、缺储备口径或任意固定阈值。"
+  },
+  {
+    "chapter": 13,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "小反应要服从大背景",
+    "author_meaning": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。",
+    "independent_analysis": "新高是有条件路径，不是反应后二分之一必涨；没有固定回调百分比或窗口。",
+    "required_inputs": [
+      "主要市况",
+      "成交与事件时点",
+      "持仓收益",
+      "真实借券"
+    ],
+    "horizon": "主要趋势内次级反应，无固定期",
+    "counterexample_or_limit": "熊反弹不是牛市，牛背景也非每股保证。",
+    "abstain_when": "只看到短线方向却要求完整供求和未来新高。"
+  },
+  {
+    "chapter": 13,
+    "paragraph_numbers": [
+      6
+    ],
+    "title_zh": "股息事件的心理价格与企业价值分开",
+    "author_meaning": "盈余、额外股息和不派息会影响价格，宣布额外股息常使股价涨，但作者认为企业内在值因支付金额减少，有时宜卖。",
+    "independent_analysis": "公告与实际支付及股东总财富分开；不能将企业资产少现金误为股东总财富同量消失。",
+    "required_inputs": [
+      "公告时点",
+      "实际支付",
+      "资产",
+      "股数",
+      "股东所得",
+      "价格"
+    ],
+    "horizon": "事件前后，日期需实际记录",
+    "counterexample_or_limit": "价格兴奋与公司现金减少可同时发生。",
+    "abstain_when": "只知股息标题，无金额、日期与整体估值。"
+  },
+  {
+    "chapter": 14,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "原书技术是供求而非现代指标名称",
+    "author_meaning": "技术条件包括空头、浮动供应、止损；欲买卖的价格分布不同，不是因成交买卖等量而所有供求相等。100价值/50价用来举供应限制。",
+    "independent_analysis": "静态例子有订单撤回、价值变动等未解限制，不能当所有50供单必须实际成交才涨的现代撮合定律。",
+    "required_inputs": [
+      "真实报价订单",
+      "成交",
+      "空头",
+      "卖出意图",
+      "估值"
+    ],
+    "horizon": "实际供求时点，原书无20/50/200天线",
+    "counterexample_or_limit": "成交相等不证明潜在愿望和各价数量相等。",
+    "abstain_when": "只有OHLCV却声称完整盘口或原书技术已量化。"
+  },
+  {
+    "chapter": 14,
+    "paragraph_numbers": [
+      7,
+      8
+    ],
+    "title_zh": "价值持有要有资金并承认判断错",
+    "author_meaning": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。",
+    "independent_analysis": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。",
+    "required_inputs": [
+      "估值变化",
+      "自有资金",
+      "借款维持",
+      "现金期限"
+    ],
+    "horizon": "无精确到达时间",
+    "counterexample_or_limit": "发现错的退出限定持有论。",
+    "abstain_when": "财务或融资未知、或以未卖将实亏解释成无危险。"
+  },
+  {
+    "chapter": 15,
+    "paragraph_numbers": [
+      4,
+      5
+    ],
+    "title_zh": "历史操纵的法律及道德是作者意见",
+    "author_meaning": "作者说内幕者按持仓释利空利多合法但不道德，又认为低于真实价值的联合推动有时正当、向公众卸货不正当。",
+    "independent_analysis": "不改写成作者全部反对或支持；这些不是现代法律判断，当前官方操纵定义另有来源，不指导实践。",
+    "required_inputs": [
+      "原消息",
+      "关联持仓",
+      "交易记录",
+      "现行法律",
+      "真实估值"
+    ],
+    "horizon": "具体事件及历史制度",
+    "counterexample_or_limit": "同书规范界线不等于法律许可证。",
+    "abstain_when": "要求合法性保证，或从叙事造操纵操作计划。"
+  },
+  {
+    "chapter": 15,
+    "paragraph_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "title_zh": "联合消息与流量链只能有证据才归因",
+    "author_meaning": "作者描绘四段联合操作，只有积累被正式命名，其他以坏消息诱卖、好消息引公众及卸出、偶支持来叙述。",
+    "independent_analysis": "不补四个现代阶段名称或用量价形态证明同一操作者身份；记者截稿难核不证明每个被买通。",
+    "required_inputs": [
+      "消息原件与时点",
+      "持仓变化",
+      "实际交易",
+      "传播来源"
+    ],
+    "horizon": "事件链，多阶段未给固定窗口",
+    "counterexample_or_limit": "公众买卖可有其他原因；相同新闻不独立。",
+    "abstain_when": "缺身份与交易证据，却由日线认定正在吸筹/派发。"
+  },
+  {
+    "chapter": 15,
+    "paragraph_numbers": [
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "title_zh": "一人控制与矿业是防御性情境",
+    "author_meaning": "作者谈一人控制公司及预写辞职，举假设矿业宣传和报价后跌半情境，认为公众操纵损失比推广损失更大。",
+    "independent_analysis": "假设非实查个案；无名往事无身份、损失比较无样本。只审核控制和披露，不替人制造价格。",
+    "required_inputs": [
+      "公司治理",
+      "披露",
+      "关联订单",
+      "身份",
+      "全损益"
+    ],
+    "horizon": "个案实际期间",
+    "counterexample_or_limit": "交易所与Curb差别是当时描述非当前规范。",
+    "abstain_when": "凭控制集中或宣传单独认定诈骗与损失概率。"
+  },
+  {
+    "chapter": 16,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "借款位置不改变融资经济事实",
+    "author_meaning": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。",
+    "independent_analysis": "数字是历史条件非现行制度；证券与住宅合同不同，不能把标签或类比当法律无损保证。",
+    "required_inputs": [
+      "真实债务",
+      "抵押物",
+      "利息",
+      "维持及期限",
+      "合同"
+    ],
+    "horizon": "债务存续期",
+    "counterexample_or_limit": "外部借款也有整体义务，拒贷不单独证明bucket。",
+    "abstain_when": "当前合同缺失、或用20/80历史比例认证安全。"
+  },
+  {
+    "chapter": 16,
+    "paragraph_numbers": [
+      7,
+      8
+    ],
+    "title_zh": "充足保证金是更多现金更少数量",
+    "author_meaning": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。",
+    "independent_analysis": "不是现代安全阈值，重现金减少强平风险不保证公司价值；有时不融资不能被删。",
+    "required_inputs": [
+      "资本",
+      "维持条件",
+      "借款成本",
+      "公司价值",
+      "现金需求"
+    ],
+    "horizon": "持有和融资全期",
+    "counterexample_or_limit": "低报价不自动低风险，存券仍有证券损失。",
+    "abstain_when": "只报初始款未知追加与本金来源。"
+  },
+  {
+    "chapter": 17,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "卖空需交付借券与再购买义务",
+    "author_meaning": "卖未持股票要经纪借券交付，经纪可能借出持有券收全款，空头价涨要加资金。",
+    "independent_analysis": "制造业远期类比不抹去证券立即交付与借券；当前费、股息、召回条款须另核。",
+    "required_inputs": [
+      "借券可得性",
+      "期限费用召回",
+      "担保",
+      "价格",
+      "资金"
+    ],
+    "horizon": "至覆盖/召回期间",
+    "counterexample_or_limit": "原书近乎总能安排不代表当前保证。",
+    "abstain_when": "缺借券与资金条件，要求直接卖空。"
+  },
+  {
+    "chapter": 17,
+    "paragraph_numbers": [
+      7,
+      8,
+      9
+    ],
+    "title_zh": "高估股票仍可上涨且可选择不做",
+    "author_meaning": "作者少推荐空，有好做多机会则不空；无便宜股时可空或完全退出。即高于真实值100%仍可能涨多而被迫覆盖；补空会助涨但需其他条件。",
+    "independent_analysis": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。",
+    "required_inputs": [
+      "估值",
+      "市场状态",
+      "借券",
+      "偿付缓冲",
+      "其他机会"
+    ],
+    "horizon": "未知到达时间与借券期限相互约束",
+    "counterexample_or_limit": "原书自己承认高估后价继续上升及corner风险。",
+    "abstain_when": "价值、借券、流动性与预算任一缺失。"
+  },
+  {
+    "chapter": 18,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "真实代购与假账背后有交易对手风险",
+    "author_meaning": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。",
+    "independent_analysis": "未核失败名册，三点非百分比；有钱的bucket可存续，价格涨不证明账户可兑现。合法明示衍生合约不能仅因非现货归bucket。",
+    "required_inputs": [
+      "执行回单",
+      "托管核对",
+      "合同",
+      "信用",
+      "失败原始记录"
+    ],
+    "horizon": "账户存续及实际核对期",
+    "counterexample_or_limit": "富有者可能存续，会员也偶与之有连。",
+    "abstain_when": "仅凭行情或经纪宣称，而无实际证券执行证据。"
+  },
+  {
+    "chapter": 19,
+    "paragraph_numbers": [
+      3,
+      4,
+      5
+    ],
+    "title_zh": "会员首选不能免责任报告",
+    "author_meaning": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。",
+    "independent_analysis": "名单不等于推荐，银行介绍不等于完整报告，当前法律保护未由旧制度验证。",
+    "required_inputs": [
+      "身份资格",
+      "财务责任报告",
+      "托管",
+      "原始记录"
+    ],
+    "horizon": "开户与持续责任审查，原书无更新窗口",
+    "counterexample_or_limit": "会员也可失误或失败。",
+    "abstain_when": "无报告却以名声、会员身份或介绍认证安全。"
+  },
+  {
+    "chapter": 20,
+    "paragraph_numbers": [
+      3,
+      4
+    ],
+    "title_zh": "期权数量费用与到期缺一不可",
+    "author_meaning": "put/call给指定股数和时限固定价权利；钢铁95附近，call97，100股30日费137.50，到101有每股4差再扣费与佣金。",
+    "independent_analysis": "仅call明确给此费，不补put同费；独立毛400减费262.50尚缺佣金，不能当实际获利。",
+    "required_inputs": [
+      "合约角色",
+      "数量",
+      "费用",
+      "期限",
+      "执行价",
+      "可成交报价",
+      "信用"
+    ],
+    "horizon": "原例30日，不移植现代合约",
+    "counterexample_or_limit": "价高于执行价仍可能不足覆盖已付费。",
+    "abstain_when": "任一条款/费用未知，或要求当前报价与盈利保证。"
+  },
+  {
+    "chapter": 20,
+    "paragraph_numbers": [
+      5,
+      6
+    ],
+    "title_zh": "专业使用的有限例外不是能力认证",
+    "author_meaning": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。",
+    "independent_analysis": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+    "required_inputs": [
+      "实际能力证据",
+      "全部合约结果",
+      "报价",
+      "资金目标"
+    ],
+    "horizon": "合约与全结果期间",
+    "counterexample_or_limit": "专业有时例外，无身份阈值和样本。",
+    "abstain_when": "要求用专家标签豁免资金和知识门或报胜率。"
+  },
+  {
+    "chapter": 21,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "默认不常止损有价值与融资前提",
+    "author_meaning": "作者对廉价全款或多自有款的宽广价值方法很少用止损；94/92美国钢铁情景说明触发卖压可被空头利用。",
+    "independent_analysis": "假设订单非已知真实簇，账面损失与不危险强语气不证明经济安全；不能以此取消系统风险门。",
+    "required_inputs": [
+      "当前价值",
+      "持仓融资",
+      "报价订单",
+      "资金期限"
+    ],
+    "horizon": "价值等待期未知",
+    "counterexample_or_limit": "十四章发现错早卖，二十三章好替代可卖。",
+    "abstain_when": "缺价值与资金却坚持永不退出、或从假设造实盘操纵。"
+  },
+  {
+    "chapter": 21,
+    "paragraph_numbers": [
+      7,
+      8
+    ],
+    "title_zh": "晚牛市例外与历史点数保留限定",
+    "author_meaning": "近牛顶不可确知时可追踪止损，报价涨便上移；超过100至少3点，低于100可2点，仍逐个决定。",
+    "independent_analysis": "恰好100没有分支；美元点非百分比，现代触发后市价执行非保证止损价，官方资料独立列。",
+    "required_inputs": [
+      "当时市场阶段",
+      "持仓",
+      "当前订单规则",
+      "流动性",
+      "资金"
+    ],
+    "horizon": "晚牛市到触发，顶部不可知",
+    "counterexample_or_limit": "短波触发、跳空与实际成交价差需现代独立核查。",
+    "abstain_when": "无阶段与订单资料、欲移植固定参数或保证最大损失。"
+  },
+  {
+    "chapter": 22,
+    "paragraph_numbers": [
+      4,
+      5,
+      12
+    ],
+    "title_zh": "未见失败与未核失败率不能校准",
+    "author_meaning": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。",
+    "independent_analysis": "保留未知/引述身份，不把余20%当跟随书后的成功率；新事业与股票风险比较无同口径样本。",
+    "required_inputs": [
+      "全样本",
+      "失败定义",
+      "资本期限",
+      "净损益"
+    ],
+    "horizon": "完整事业与账户期间",
+    "counterexample_or_limit": "选择性故事既不能证明安全也不能算失败比例。",
+    "abstain_when": "只给引述比例却要求概率或行业比较结论。"
+  },
+  {
+    "chapter": 22,
+    "paragraph_numbers": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      13
+    ],
+    "title_zh": "事后巨利不等于当时能承担",
+    "author_meaning": "偶然获利可诱使重复冒险，十点垫全部资金还可长久被困；不要想本可暴富，当时风险可能承担不起，求不因成交获益的建议者。",
+    "independent_analysis": "十点缺股价不能算杠杆；当时可用信息与资金重建须无未来。利益和能力分别核。",
+    "required_inputs": [
+      "决策时资料",
+      "资金缓冲",
+      "融资",
+      "期限",
+      "建议者利益"
+    ],
+    "horizon": "原情景30日或一年余非推荐窗口",
+    "counterexample_or_limit": "不跌也会困住机会，回头看不是surething。",
+    "abstain_when": "只有已实现暴涨或猜测收益而无事前证据与资本。"
+  },
+  {
+    "chapter": 23,
+    "paragraph_numbers": [
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "title_zh": "谨慎方法与换仓成本要一起复核",
+    "author_meaning": "作者分谨慎/鲁莽，不改变终亏强意见；旧股可能回升或永不，若有更好用途应敢承担损失，问今天是否会新买，但佣金可使不新买仍宜持有。",
+    "independent_analysis": "类型非人格和统计；回本价不是目标，更好需同口径比较。成本例外禁止机械不买就卖。",
+    "required_inputs": [
+      "当前价值",
+      "替代机会",
+      "费用",
+      "期限",
+      "风险",
+      "依据日志"
+    ],
+    "horizon": "持有与替代共同期限",
+    "counterexample_or_limit": "旧股能涨仍可能宜换；无足够优势又可能宜留。",
+    "abstain_when": "无替代依据/成本却为翻本换股，或按亏损贴永久人格。"
+  },
+  {
+    "chapter": 24,
+    "paragraph_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "title_zh": "转引长期可能收益不等于已复现",
+    "author_meaning": "Babson不融资不卖空且常退出，五十年2500可到百万，六八月中波若可辨识才有更巨终值，平均高低价不是顶底。Butler再推融资卖空可更大。",
+    "independent_analysis": "只是本书转引，不冒称Babson全书已读；平均价若事后生成含未来，融资工具加入风险不自动改善结果。",
+    "required_inputs": [
+      "转引原方法",
+      "原始交易与时点",
+      "证券存续",
+      "费用股息",
+      "融资"
+    ],
+    "horizon": "50年例及6/8月条件，无已验证窗口",
+    "counterexample_or_limit": "保守投资者被劝不辨中波，平均高低未给事前规则。",
+    "abstain_when": "缺完整方案却要回测、预测终值或借款收益保证。"
+  },
+  {
+    "chapter": 24,
+    "paragraph_numbers": [
+      14,
+      15
+    ],
+    "title_zh": "有人不适合投机且资金少应更谨慎",
+    "author_meaning": "作者宁接受慎重小利润，小部分资金可担更多风险，资金少更应谨慎，有人不宜投机；多年收益胜他业是其信念。",
+    "independent_analysis": "小付款不必限定义务，安全投资未具名，不以本书面向投机者认定读者已适合。",
+    "required_inputs": [
+      "全部资金债务",
+      "生活现金",
+      "合同义务",
+      "期限",
+      "目标"
+    ],
+    "horizon": "个人资金全期",
+    "counterexample_or_limit": "小利润非低风险，行业优越无比较数据。",
+    "abstain_when": "预算、义务或承受力未知。"
+  },
+  {
+    "chapter": 25,
+    "paragraph_numbers": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "title_zh": "新闻事实意见与交易宣传分开核",
+    "author_meaning": "作者怀疑日报截稿难核，周月亦可用坏机构，转引Clews批虚假news与clique建议；经纪信有认真者仍有拉交易激励。",
+    "independent_analysis": "媒体周期和语气不自动真伪；Clews未分比例原因，不把全部报纸/经纪定成骗局。",
+    "required_inputs": [
+      "原信息",
+      "时间",
+      "独立核实",
+      "传播来源",
+      "利益"
+    ],
+    "horizon": "报道当时可用时点",
+    "counterexample_or_limit": "共同源转载不是多项独立证明。",
+    "abstain_when": "只有标题/转述/多家重复却无源与时间。"
+  },
+  {
+    "chapter": 25,
+    "paragraph_numbers": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "title_zh": "匿名经理案例显示激励非全行业统计",
+    "author_meaning": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。",
+    "independent_analysis": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。",
+    "required_inputs": [
+      "原来信与交易",
+      "费用",
+      "经纪收入机制",
+      "融资",
+      "客户目标"
+    ],
+    "horizon": "事件期与完整损益",
+    "counterexample_or_limit": "错仍收费说明激励，不证明每个经纪都欺骗。",
+    "abstain_when": "缺回单样本却报99%或现行固定佣金。"
+  },
+  {
+    "chapter": 25,
+    "paragraph_numbers": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "title_zh": "统计服务与逐日tips区别但付费不认证",
+    "author_meaning": "作者列七机构研基本及公司统计，另接受报纸价格股数；反每日猜涨跌月费10–25，统计年85–1000，并自称更廉。",
+    "independent_analysis": "仅已读本书名录不算读机构服务或Wyckoff其他书；低价或统计标签不自动可靠，自身销售利益也需核。",
+    "required_inputs": [
+      "原报告与方法",
+      "更新时点",
+      "利益",
+      "全建议结果",
+      "费用"
+    ],
+    "horizon": "基本研究期与逐日报信区分，无算法",
+    "counterexample_or_limit": "日报统计仍可有用，付费服务可能有利益。",
+    "abstain_when": "未取得报告、借名望或收费填成功概率。"
+  },
+  {
+    "chapter": 26,
+    "paragraph_numbers": [
+      4,
+      5,
+      8,
+      21
+    ],
+    "title_zh": "写作观察与样本退出时点分开",
+    "author_meaning": "早四月1922买入期可带间断延长；16股二月14建议用13日及三月31收价去分数，脚注明确未建议31日卖，半年收益是若买卖。",
+    "independent_analysis": "样本不是真实完成账户，更非当前rightnow；后期四月25融资暂停必须连同读。",
+    "required_inputs": [
+      "原推荐函",
+      "当时可执行价",
+      "完整退出规则",
+      "日期"
+    ],
+    "horizon": "1922二月/三月、早四月、半年假设各自",
+    "counterexample_or_limit": "未来价不能回填事前知情，脚注直接限制卖出假设。",
+    "abstain_when": "缺原推荐/成交却宣称已验实盘或当前结论。"
+  },
+  {
+    "chapter": 26,
+    "paragraph_numbers": [
+      10,
+      11
+    ],
+    "title_zh": "十六股价差与融资分母正确分类",
+    "author_meaning": "16行整数价合1005至1120差115；各10股10050，首10自有30%后6自有50%，假设3500借6550，作者净约32%年化约250%。",
+    "independent_analysis": "独立整数价差闭合、资金需3481，毛1150；成本股息未列，无法复算净32或年化法，更不当实绩。",
+    "required_inputs": [
+      "16报价原件",
+      "数量",
+      "费用股息日期",
+      "借款利率",
+      "成交"
+    ],
+    "horizon": "二月14至三月31写作截面，非真实卖点",
+    "counterexample_or_limit": "同一上涨窗16股非16次独立成功试验。",
+    "abstain_when": "要求净收益/年化或概率，却缺原件成本与全样本。"
+  },
+  {
+    "chapter": 26,
+    "paragraph_numbers": [
+      12
+    ],
+    "title_zh": "五成复利算术成立不代表二十年可行",
+    "author_meaning": "作者承认非总有大收益，却说年50%易有，1000每年50%重投20年超三百万。",
+    "independent_analysis": "独立算3325256.73成立；恒定净回报、无毁灭损失、能重投及融资续得均未证明，不给未来财富保证。",
+    "required_inputs": [
+      "完整20年路径",
+      "损失",
+      "净费",
+      "可再投资本",
+      "融资"
+    ],
+    "horizon": "20年条件算例，不是现实预测",
+    "counterexample_or_limit": "一段上涨表不证明每年五成或最小风险。",
+    "abstain_when": "只凭数学终值要求现实保证或年度目标。"
+  },
+  {
+    "chapter": 26,
+    "paragraph_numbers": [
+      15,
+      16,
+      17
+    ],
+    "title_zh": "同样审查作者收费与业绩证明",
+    "author_meaning": "作者主张唯一安全是基本条件，统计订户几乎总赚钱，推年25/半年15/季10服务、至少月两信和通信，称例表成功证明。",
+    "independent_analysis": "这是方法与销售结合；低收费不证准确，单示范非完整效果，不能给其商业背书或代表作者人格。",
+    "required_inputs": [
+      "收费利益",
+      "推荐全集",
+      "独立净结果",
+      "真实公司资料"
+    ],
+    "horizon": "历史订阅期与独立效果审查",
+    "counterexample_or_limit": "前章利益审查不能只对其他服务适用。",
+    "abstain_when": "无完整结果却凭原书保证安全、盈利或专家调用已执行。"
+  }
+]

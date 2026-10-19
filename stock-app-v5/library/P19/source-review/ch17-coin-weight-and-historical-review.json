@@ -1,0 +1,76 @@
+{
+  "book_id": "P19",
+  "chapter": 17,
+  "printed_page": 281,
+  "pdf_page": 293,
+  "original_images": [
+    "pdf293.png",
+    "pdf293-table.png"
+  ],
+  "all_8_rows_3_data_columns_read_visually": true,
+  "all_24_numeric_cells_including_missing": true,
+  "table_units": "Towerpound11¼Troyoz=5400grains, nominalshillings/pence, pennyGROSSweight notfineweight; percentagesarechangesfrompreviousrow notoriginaltotal",
+  "table_values_raw_preserved": true,
+  "independent_diagnostics": [
+    {
+      "year": "original",
+      "printed_weight": 22.5,
+      "implied_weight": 22.5,
+      "printed_pct": null,
+      "adjacent_weight_pct": null
+    },
+    {
+      "year": "1299",
+      "printed_weight": 22.22222222222222,
+      "implied_weight": 22.22222222222222,
+      "printed_pct": 1.25,
+      "adjacent_weight_pct": 1.2345679012345734
+    },
+    {
+      "year": "1343",
+      "printed_weight": 20.3,
+      "implied_weight": 20.30075187969925,
+      "printed_pct": 8.666666666666666,
+      "adjacent_weight_pct": 8.649999999999991
+    },
+    {
+      "year": "1346",
+      "printed_weight": 20,
+      "implied_weight": 20.0,
+      "printed_pct": 1.5,
+      "adjacent_weight_pct": 1.4778325123152691
+    },
+    {
+      "year": "1351",
+      "printed_weight": 18,
+      "implied_weight": 18.0,
+      "printed_pct": 10,
+      "adjacent_weight_pct": 9.999999999999998
+    },
+    {
+      "year": "1411",
+      "printed_weight": 15,
+      "implied_weight": 15.0,
+      "printed_pct": 16.666666666666668,
+      "adjacent_weight_pct": 16.666666666666664
+    },
+    {
+      "year": "1464",
+      "printed_weight": 12,
+      "implied_weight": 12.0,
+      "printed_pct": 20,
+      "adjacent_weight_pct": 19.999999999999996
+    },
+    {
+      "year": "1526",
+      "printed_weight": 10.666666666666666,
+      "implied_weight": 10.666666666666666,
+      "printed_pct": 11.11111111111111,
+      "adjacent_weight_pct": 11.111111111111116
+    }
+  ],
+  "small_differences": "1343weight20.3isrounded; printedfractionpercentagesapproximative. No newunderlyingmintdata asserted.",
+  "artifact_sha256": "db393b9b09fffb1a6b971fc540e2dea26da8a293cac92f5f8d240c7ad5815649",
+  "author_quoted_Gresham_misattribution": "Originalfootpaper285authorsaysHenryVIIIattributionactuallyEdwardVIlastdebasement; notthisworknewprimaryletterverification",
+  "rule_boundary": "Metalweight/fineness/mintbuyprice/legalface/accountunit/actualmarketquote distinct; reformmustretaincontractandtransitionconditions"
+}

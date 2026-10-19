@@ -1,0 +1,162 @@
+[
+  {
+    "issue": "Histogram92years_missing1982",
+    "printed_page": 371,
+    "original": "1928–2020 caption93calendar years,only92yearlabels;textsince1900",
+    "independent": "all92labelsreadandstored;1982missing,not inserted orfrequencycalibrated"
+  },
+  {
+    "issue": "BAAminusT2_30vs2_27",
+    "printed_pages": [
+      367,
+      368
+    ],
+    "original": "prose2.30premium;graphs8.04 and5.77",
+    "independent": "difference2.27pp;3bpdiscrepancyretained"
+  },
+  {
+    "issue": "Figure122 dailyvolume caption vs scale",
+    "printed_page": 357,
+    "original": "dailyvolume notes+bonds2001–2020,noamountunit,top~14000",
+    "independent": "nearbyoutstanding11.1tn+2.8tn suggestsmetricconflictbutnoauthoritativeunderlyingseries;not silentlyrename orinputvolume"
+  },
+  {
+    "issue": "Institutionalminimum_insurance_reserves_tax",
+    "printed_pages": [
+      355,
+      356,
+      357,
+      358
+    ],
+    "original": "Tbill10kminimum,NCDalluninsured/differentreserves,governmentbillfundtaxexempt,allmunisexempt",
+    "independent": "Tbill100minimum;FDICcoverageaccount/institutionlimits;reservereq0March2020;Treasuryinterestfederaltaxable,muniissue-specific",
+    "primary_urls": [
+      "https://www.treasurydirect.gov/marketable-securities/treasury-bills/",
+      "https://www.fdic.gov/resources/deposit-insurance/faq",
+      "https://www.federalreserve.gov/monetarypolicy/reservereq.htm"
+    ]
+  },
+  {
+    "issue": "TIPSindex andprotection",
+    "printed_pages": [
+      357,
+      358
+    ],
+    "independent": "dailyindexratios reflectCPI;fixedcouponrate amountvaries;originalprincipalatmaturityfloor notsecondmarketpriceguarantee",
+    "primary_url": "https://www.treasurydirect.gov/marketable-securities/tips/"
+  },
+  {
+    "issue": "OTC no brokers/exchangealwaysliquidity/marketprice",
+    "printed_pages": [
+      360,
+      361
+    ],
+    "original": "exchangeguaranteesalwaysbuy/sell,OTCnobroker,marketordercurrentprice",
+    "independent": "OTCbrokerdealers exist;liquidityandhaltsconditions;marketexecutionprice notguaranteed;limitnotguaranteedfill",
+    "primary_urls": [
+      "https://www.investor.gov/introduction-investing/investing-basics/glossary/over-counter-otc-securities",
+      "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-14"
+    ]
+  },
+  {
+    "issue": "Aramco proceeds vs companyvalue/IPOperformance sample",
+    "printed_pages": [
+      359,
+      360
+    ],
+    "original": "25.6bn companyvalued phrasing;IPOunderperform4pctyear",
+    "independent": "25.6bn fundraisingnotwholecompanyvaluation;sample/holdingwindowmissing,cannotuniversalnewstockfilter"
+  },
+  {
+    "issue": "Rule415 alltwo years",
+    "printed_page": 360,
+    "original": "shelfregistrationtwoyears",
+    "independent": "(a)(2)certainamountstobesold2years,(a)(5)certaingroups3yearsandrenewalprovisions;scopecontrols",
+    "primary_url": "https://www.ecfr.gov/current/title-17/chapter-II/part-230/section-230.415"
+  },
+  {
+    "issue": "SPACsample pendingdenominator",
+    "printed_page": 360,
+    "original": "223 companies2015–July2020,89completed mean−18.8median−36.1vsIPO37.2",
+    "independent": "notmatchinghorizon/investorcohort;pendingnotpermanentfail;legal/currentclaimlessregulatednotverified"
+  },
+  {
+    "issue": "Fedmandate employmentomitted",
+    "printed_page": 362,
+    "original": "twoobjectivesstablepricesandmoderatelongrates",
+    "independent": "maximumemploymentalso statutorygoal;2pct usesPCEnotCPIautomatic",
+    "primary_url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-what-are-its-goals-how-does-it-work.htm"
+  },
+  {
+    "issue": "Inflationbaseaverage andindividualbasket",
+    "printed_pages": [
+      363,
+      364
+    ],
+    "original": "1001984to2602020,2.55average;Table123annualrates",
+    "independent": "CPIbase1982–84notexact1984;endpointCAGRstoredseparatelyfromunprovidedannualmean;nocategoryweightsinfigure"
+  },
+  {
+    "issue": "LongT2009loss attributedFedeasing",
+    "printed_page": 367,
+    "original": "−11.12asFedcutrates",
+    "independent": "longmarketYTM differspolicyshortend;causalpathnotidentified;nofullhistoricalyieldseriesverified"
+  },
+  {
+    "issue": "Arithmetic/geometric/datewindows",
+    "printed_pages": [
+      367,
+      368,
+      371,
+      372
+    ],
+    "original": "begin1980end2020wealth;1981–2020arithmeticreturntable;otherWilshireCAGR",
+    "independent": "41annualperiodsforbegin1980toend2020;93forbegin1928toend2020;meanreturnsnotcompounded;differentindices/windowsnotmerged"
+  },
+  {
+    "issue": "Historicalmarketcap_creditratings_bios_notcurrent",
+    "printed_pages": [
+      355,
+      357,
+      358,
+      359,
+      364,
+      365,
+      369,
+      370,
+      373,
+      374
+    ],
+    "independent": "allhistoricalasofdates kept;no currentrating/companyranking/officeholding inferred;Yellen1993appointmentnotindependentlyverified"
+  },
+  {
+    "issue": "Bestdayhindsight andnormality",
+    "printed_pages": [
+      370,
+      371,
+      372,
+      373
+    ],
+    "independent": "distributionvisualnotnormaltest;missingbestdayshindsightspecificselection notactualtimingpolicy comparison;fees/cashreturn/worstdaysunknown"
+  },
+  {
+    "issue": "Review20figuremisreference/MC4smallcapwealthmissing",
+    "printed_pages": [
+      378,
+      379
+    ],
+    "original": "review20use12.15growthvalue;12.15Buffettportrait;MC4smallcapwealth35k",
+    "independent": "no referencedstylechart orsmallcapwealthseries supplied;questiontextreadunknownanswersnotinvented"
+  },
+  {
+    "issue": "Other quotedpapers/books/videos notwholebooksread",
+    "printed_pages": [
+      358,
+      360,
+      363,
+      374,
+      380
+    ],
+    "independent": "all21embeddednotesandtextread;thirdpartyquotedmethodologyparaphrasednotcopied;externalwholework/video notread"
+  }
+]

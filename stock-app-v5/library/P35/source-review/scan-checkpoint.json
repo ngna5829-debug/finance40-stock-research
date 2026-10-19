@@ -1,0 +1,323 @@
+{
+  "book_id": "P35",
+  "PDF_pages": 252,
+  "IA_imagecount": 256,
+  "PDF_imagecount_distinct": true,
+  "lowOCR_threshold": 100,
+  "all_lowOCR_pages_classified": true,
+  "lowOCR_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    249,
+    251,
+    252
+  ],
+  "physical_page_classifications": [
+    {
+      "PDF_page": 1,
+      "classification": "front_cover",
+      "observation": "The War and Our Financial Fabric / W. W. Wall visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 2,
+      "classification": "library_bookplate",
+      "observation": "University of California / Ex Libris crest, not author financial text.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 3,
+      "classification": "blank_with_possible_showthrough",
+      "observation": "No new author text visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 4,
+      "classification": "blank_with_possible_showthrough",
+      "observation": "No new author text visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 5,
+      "classification": "blank_with_possible_showthrough",
+      "observation": "No new author text visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 6,
+      "classification": "digitization_notice_noOCR",
+      "observation": "Digitized by Internet Archive in2007 with funding from Microsoft Corporation and item URL; read contact then1500pxsinglepage.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 7,
+      "classification": "half_title",
+      "observation": "The War and Our Financial Fabric, read on contact.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 8,
+      "classification": "blank_with_possible_showthrough",
+      "observation": "No new author text visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 10,
+      "classification": "blank_with_library_codes",
+      "observation": "Faint pencil accession/shelf marks and perforation; not all characters legible, outside author content.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 249,
+      "classification": "blank_with_possible_showthrough",
+      "observation": "No new author text visible.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 251,
+      "classification": "library_slip",
+      "observation": "334065 University of California Library and faint shelf marks; partly unclear handwritten code, outside author content.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 252,
+      "classification": "back_cover",
+      "observation": "Binding only, no author text.",
+      "contact_sheet": "source-review/physical-contact-1.jpg",
+      "visually_checked": true
+    },
+    {
+      "PDF_page": 250,
+      "classification": "library_return_fine_slip",
+      "observation": "Due last date stamp;25cinitialfine,50con4thday,$1on7thdayoverdue text fullyread; overlapping dated stamps partly unclear, outside author1915text.",
+      "visually_checked": true,
+      "individual_image": "source-review/p250.png"
+    }
+  ],
+  "contact_sheets_actually_viewed": [
+    1
+  ],
+  "selected_individual_pages_actually_viewed": [
+    6,
+    9,
+    10,
+    25,
+    33,
+    34,
+    35,
+    36,
+    47,
+    48,
+    51,
+    82,
+    83,
+    107,
+    109,
+    127,
+    137,
+    138,
+    139,
+    243,
+    245,
+    246,
+    247,
+    248,
+    250,
+    251
+  ],
+  "original_every_scan_glyph_proofread": false,
+  "author_printed1to224_correspondsPDF25to248_with_nonempty_OCR": true,
+  "all_original_transcript_semantic_read": true,
+  "appendix_original_pages245to248_all_viewed": true,
+  "scan_page243_literal_exports_confirmed": true,
+  "unreadable_non_author_limits": [
+    "P10/P251faintpencilcodeandperforation notfullydeciphered",
+    "P250overlappingoldlibrarydatestamps partiallyunclear",
+    "Not every handwritten marginal note anywherecollated"
+  ],
+  "scope": "Full sequential PG original chapter/extras semantic reading; alllowOCRphysicalpages checked; selectedtitle/numeric/appendixvisualcollation, notallscannedlinesproofreading.",
+  "independent_peer_actual_original_pages": [
+    6,
+    9,
+    31,
+    32,
+    40,
+    43,
+    47,
+    48,
+    49,
+    51,
+    70,
+    103,
+    107,
+    109,
+    110,
+    127,
+    129,
+    138,
+    158,
+    168,
+    169,
+    187,
+    223,
+    224,
+    242,
+    243,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252
+  ],
+  "independent_peer_all_lowOCR_pages_rechecked": false,
+  "independent_peer_all12_unmatched_contexts_visual_resolution": [
+    {
+      "paragraph_id": "P35-C01-P022",
+      "PDF_pages": [
+        31,
+        32
+      ],
+      "printed_pages": [
+        7,
+        8
+      ],
+      "notes": "Completefundpaymentparagraphcrossespage; actualbothfullimagesseen."
+    },
+    {
+      "paragraph_id": "P35-C02-P013",
+      "PDF_pages": [
+        40
+      ],
+      "printed_pages": [
+        16
+      ],
+      "notes": "2.5/4/1.5percent full spreadparagraphverified."
+    },
+    {
+      "paragraph_id": "P35-C02-P023",
+      "PDF_pages": [
+        43
+      ],
+      "printed_pages": [
+        19
+      ],
+      "notes": "Shortclaimneedswholechapterandlater22limits, actualimagephraseverified."
+    },
+    {
+      "paragraph_id": "P35-C03-P018",
+      "PDF_pages": [
+        49
+      ],
+      "printed_pages": [
+        25
+      ],
+      "notes": "Shortlinewithfollowingloans-createdepositscontextsamepage."
+    },
+    {
+      "paragraph_id": "P35-C09-P017",
+      "PDF_pages": [
+        107
+      ],
+      "printed_pages": [
+        83
+      ],
+      "notes": "FullIssueDepartmenttableallcellsread."
+    },
+    {
+      "paragraph_id": "P35-C09-P019",
+      "PDF_pages": [
+        107
+      ],
+      "printed_pages": [
+        83
+      ],
+      "notes": "FullBankingDepartmenttableallcellsread;original21324358vsPG21824358."
+    },
+    {
+      "paragraph_id": "P35-C17-P017",
+      "PDF_pages": [
+        187
+      ],
+      "printed_pages": [
+        163
+      ],
+      "notes": "ShortnormativewiseusephraseandfollowingSchuster/Wallmixedcontext."
+    },
+    {
+      "paragraph_id": "P35-C21-P019",
+      "PDF_pages": [
+        224
+      ],
+      "printed_pages": [
+        200
+      ],
+      "complete_policy_continuous_context_PDF_pages": [
+        223,
+        224
+      ],
+      "notes": "Successclaimshortline;actualpolicyqualificationslastparagraph223continues224."
+    },
+    {
+      "paragraph_id": "P35-A-P004",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "Openinghasno221footer;nominalpositionfromcontinuouspagination. Fulltableactualseen."
+    },
+    {
+      "paragraph_id": "P35-A-P006",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "FullBankingtableactualseen,notpaperfooterinvented."
+    },
+    {
+      "paragraph_id": "P35-A-P007",
+      "PDF_pages": [
+        245
+      ],
+      "printed_pages_nominal": [
+        221
+      ],
+      "notes": "47⅛originalratevisible."
+    },
+    {
+      "paragraph_id": "P35-B-P004",
+      "PDF_pages": [
+        246
+      ],
+      "printed_pages_nominal": [
+        222
+      ],
+      "notes": "Openinghasno222footer;reportbridgeactualseen. Bothspeechesfull246–248read."
+    }
+  ],
+  "independent_peer_original_every_glyph_proofread": false
+}

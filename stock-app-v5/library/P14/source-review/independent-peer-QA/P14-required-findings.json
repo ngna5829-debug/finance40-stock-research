@@ -1,0 +1,1554 @@
+{
+  "book_id": "P14",
+  "full_review_complete": true,
+  "root_manual_merge_pending": true,
+  "author_or_canonical_modified": false,
+  "findings": [
+    {
+      "file": "chapters/introduction.md",
+      "kind": "explicit_advalorem_tax_rate_levels",
+      "old": "初级生活必需品从价五厘，便利用品一成，奢侈品一成五到两成",
+      "new": "初级生活必需品从价百分之五，便利用品百分之十，奢侈品百分之十五到百分之二十",
+      "basis_global_lines": [
+        205,
+        218
+      ],
+      "reason": "Source advalorem5%,10%,15–20% levels; Chinese 五厘 is ambiguous, no current rate or modern optimal-policy threshold implied."
+    },
+    {
+      "file": "chapters/introduction.md",
+      "kind": "retain_source_acceptance_of_local_propositions_not_weaken_to_possible",
+      "old": "作者特别说这些陈述本身清楚、简单而可能真实",
+      "new": "作者特别称这些陈述本身清楚、简单、真实",
+      "basis_global_lines": [
+        139,
+        162
+      ],
+      "reason": "Source expressly accepts local propositions as clear,simple,true to challenge ensuing conclusions; retain author assertion without independently certifying historical statistics."
+    },
+    {
+      "rule": "P14-R01",
+      "kind": "preserve_source_strong_assertion_and_split_modern_review_from_original_conditions",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "引言说读者易见直接，间接需心智追踪，未说每个间接效应已证。",
+          "new": "保护的收益集中且可见、代价分散，直接结果还会成为下一环原因；作者要求把论证推到最终结果。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "引言提出追踪因果的方法而未逐项证明全部间接效果，反向间接结果也须入账；这些核证、数据门和反例是本次现代解释，不归原作者为已运行的量化、回测或选股规则。"
+        }
+      },
+      "reason": "Original fields currently include reviewer caveats or soften strong consumption/public-interest claim. Preserve author assertion and actual conditions without endorsement; modern challenge remains independently labelled."
+    },
+    {
+      "rule": "P14-R02",
+      "kind": "preserve_source_strong_assertion_and_split_modern_review_from_original_conditions",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "5/10/15–20为这里的规范设想，非当前最优或全书唯一税表。",
+          "new": "作者反保护制度而允许海关作财政收入，三档从价率是希望公众支持的近似方案；他承认分类不属严格经济学范围，且其正当有用未必如一般认为。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原5%、10%、15%至20%是当时设想，非当前最优税率或全书唯一税表；实际税基、服务与负担须另检验。现代核证、数据门与反例为本次解释，不归原作者为量化、回测或选股规则。"
+        }
+      },
+      "reason": "Original fields currently include reviewer caveats or soften strong consumption/public-interest claim. Preserve author assertion and actual conditions without endorsement; modern challenge remains independently labelled."
+    },
+    {
+      "rule": "P14-R03",
+      "kind": "preserve_source_strong_assertion_and_split_modern_review_from_original_conditions",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "局部稀缺高价利于卖方，不能漏本人及别人消费视角。",
+          "new": "作者断言生产者作为卖方的即时排他利益反社会，而消费者的即时愿望完全契合公共利益；人同时生产和消费，不能把某卖方因稀缺高价的收益推广为全社会财富，并以限制带来伤害或无效的两难作结。"
+        },
+        "author_original_conditions": {
+          "old": "卖价与数量并非所有情境必同动，原为拆不完整推理。",
+          "new": "区分生产者角色的即时利益与作为人的动机；交换使人忽略自己的消费目的，独居人与所有欲望全满足的设例则把劳动当手段。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "卖价与数量、品质和分配并非所有现实条件必同向；消费者当下偏好未必已纳第三方成本。原文完全契合公共利益及无有用结果是作者强断言，不当已验证事实，现代数据门与反例单独列；后作修订只确认现有原注，不编其未读具体命题。"
+        }
+      },
+      "reason": "Original fields currently include reviewer caveats or soften strong consumption/public-interest claim. Preserve author assertion and actual conditions without endorsement; modern challenge remains independently labelled."
+    },
+    {
+      "file": "chapters/ch01.md",
+      "chapter": 1,
+      "kind": "explicit_original_no_useful_result_strong_conclusion",
+      "old": "故伤害或无效。",
+      "new": "故伤害或无效，并断言这种限制永远不能带来有用结果。",
+      "basis_global_lines": [
+        552,
+        561
+      ],
+      "reason": "Retain original never-useful-result assertion before independently narrowing conditions; do not soften source into only a modest local mechanism."
+    },
+    {
+      "rule": "P14-R02",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        179,
+        196
+      ],
+      "reason": "Complete actual misconception correction and customs-as-revenue permission; old evidence startsmidparagraph189."
+    },
+    {
+      "rule": "P14-R03",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        437,
+        484
+      ],
+      "reason": "Whole consumer-wishes/general-public-interest identification and immediate-interest conclusions."
+    },
+    {
+      "rule": "P14-R03",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        552,
+        561
+      ],
+      "reason": "Whole final restriction harm/ineffectual/no useful result conclusion, preserved without factual endorsement."
+    },
+    {
+      "file": "chapters/ch02.md",
+      "chapter": 2,
+      "kind": "explicit_never_unemployed_not_only_usefulness",
+      "old": "劳动从来不会没有用处；",
+      "new": "劳动从来不会闲置；",
+      "basis_global_lines": [
+        674,
+        691
+      ],
+      "reason": "Source never remains unemployed is stronger than merely no loss of usefulness; preserve before independent effective-demand/skill/time critique."
+    },
+    {
+      "rule": "P14-R05",
+      "kind": "preserve_source_never_unemployed_and_move_effective_demand_critique",
+      "field_edits": {
+        "title": {
+          "old": "省障碍非自动即时就业",
+          "new": "减少障碍与劳动转向别需"
+        },
+        "author_claim_paraphrase": {
+          "old": "劳动是手段，作者说除一障碍能做其他并很快有酬。",
+          "new": "作者断言劳动从来不会闲置：除去一项障碍就转去对付另一项，桶工劳动很快转向别处；与释放劳动相对应的报酬也从同一来源释放。"
+        },
+        "author_original_conditions": {
+          "old": "never/soon是作者强说，需求未尽不代表某工人随时有工作。",
+          "new": "除非人类不再遇到任何障碍、所有欲望凭意愿即能满足，否则仍有别的劳动用途；作者由劳动与报酬对应释放推论再配置。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "未满足需要不代表某工人随时已有付得起的岗位；技能、迁移、信用和有效需求不足可反驳永不闲置及很快的强断言，原文没给统一期限。现代核证、数据门与反例属于本次独立分析，不冒称原作者已运行量化、回测或选股规则。"
+        }
+      },
+      "reason": "Original strong never unemployed claim and released remuneration chain remain author assertions; demand-to-job critique belongs to modern separate layer."
+    },
+    {
+      "rule": "P14-R06",
+      "kind": "original_conditions_and_strong_claim_separated",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者对比同结果少努力与把努力本身视财富。",
+          "new": "作者以结果相对努力的比率衡量进步，把无效劳苦的西西弗斯放在相反极端，并强断言所有行业的人都力求以更少耗用取得更多结果；他批评政界把耗用本身当财富的原则与私人实践相反。"
+        },
+        "author_original_conditions": {
+          "old": "神意与无限比值是理想比喻，非可计算生产指标。",
+          "new": "先将满足欲望的结果与克服障碍的努力分开；神的零努力无限结果及西西弗斯的无限努力零结果是两端设例。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原文所有人都求效率的强断言保留为作者主张，不视为独立核实事实；神意及无限比值不能直接数值化，结果品质、安全、休息和第三方成本须另纳。现代核证和数据门不归作者为已运行量化或选股规则。"
+        }
+      },
+      "reason": "Preserve full author assertion/actual assumptions; reviewer unit and operational limits separately labelled."
+    },
+    {
+      "rule": "P14-R07",
+      "kind": "original_conditions_and_strong_claim_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "原45centiares与面积约数未解，原注区分对手代言与采取。",
+          "new": "作者审查少土地资本劳动是否降低产业用处的学说，明说不担任所引奇异数据的事实裁判；原注指出话由反甜菜者说出，但德阿尔古正式采取并用法律支持。轮作注另设消费三倍与六年轮作。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原45centiares、面积和分母约数仍未解，这是本次核证边界；原注采用48000或50000公顷作范围，150000对应较高端的三倍，900000是六年相继轮作面积，不直接当同年占地。无原扫描或调查不能定原刻错误，现代规则和量化未运行。"
+        }
+      },
+      "reason": "Preserve full author assertion/actual assumptions; reviewer unit and operational limits separately labelled."
+    },
+    {
+      "rule": "P14-R07",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        882,
+        918
+      ],
+      "reason": "Whole quoted utility-limits argument and note identifying opponent voice formally adopted, no midquote start892."
+    },
+    {
+      "rule": "P14-R07",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        945,
+        950
+      ],
+      "reason": "Complete six-year successive rotation note; old945–949 cuts final hectares/arable-denominator line950."
+    },
+    {
+      "file": "chapters/ch04.md",
+      "chapter": 4,
+      "kind": "retain_strong_less_favoured_country_assertion",
+      "old": "受自然帮助较少的国家可能从交换获益更多",
+      "new": "作者断言受自然帮助较少的国家从自由交换获益更多",
+      "basis_global_lines": [
+        1294,
+        1306
+      ],
+      "reason": "Retain original unequivocal most-to-gain assertion as author view; later modern unidentified metric/entry and rents qualifications stay separate."
+    },
+    {
+      "rule": "P14-R08",
+      "kind": "separate_original_premises_from_modern_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "五内部论点仍一章，效用目标是指定物质结果。",
+          "new": "作者把赛马的竞赛本身与迅速传递消息的物质目的分开，要求先明确交换的满足目的。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R09",
+      "kind": "separate_original_premises_from_modern_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "提高进口销售价不改本地气候成本，间接取得让自然优势可分享。",
+          "new": "作者断言加税只抬进口销售价而不改当地气候成本，自由交换以直接或间接生产方式使条件平等到除运输外，并让消费者分享外国的自然优势。"
+        },
+        "author_original_conditions": {
+          "old": "工资一先令和橙一便士是假设，运输仍在；完整竞争传导未独证。",
+          "new": "法国日工资一先令、橙在法国一先令或葡萄牙一便士是设定；比较直接一日与赚取买价的十二分之一日，并明列运输差。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "完整竞争传导和资源租未独证；消费者是否实际得到低价需交付、收入、竞争和产权输入，税后数量与财政用途另核。原平等至仅运输差是作者强主张，不当已验证现代事实，未执行量化或选股。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R10",
+      "kind": "separate_original_premises_from_modern_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "不把全书所有利润一律解释为证券收益。",
+          "new": "译者按这里及其他同类上下文将法语profits作劳动所得earnings或wages，而不采用英国经济学资本报酬的专义。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "这是译者的语境注而非原作者一条股票收益规则；不按全书每个profits词自动分类，具体资本、劳动和企业盈利口径须再辨。现代核证与选股规则未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R08",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1031,
+        1066
+      ],
+      "reason": "Whole consumer standpoint/race-message argument; old1035 starts midparagraph."
+    },
+    {
+      "rule": "P14-R09",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1216,
+        1292
+      ],
+      "reason": "Whole productionvs sale/climate/tax-transfer and directindirect production argument; old1251starts midparagraph and misses climate distinction."
+    },
+    {
+      "rule": "P14-R11",
+      "kind": "separate_actual_author_premises_from_modern_data_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "作者probable与国家比较未经全部历史核实。",
+          "new": "好用税是公共服务价值相当于所取，坏用税是散耗不给服务；司法警务、道路港桥例把所得安全与运输同时列入，作者称无这些服务的低税地未必更容易生产。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "作者用probable而非全历史比较证明，英国比利时最高税及财政例数未独立外核；公共服务品质、受益分配和替代供给须检。现代核证与选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R12",
+      "kind": "separate_actual_author_premises_from_modern_data_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "12/8/5是假设，偏好不等赞所有补贴。",
+          "new": "同一单位外国铁最低八、本国十二法郎；五法郎进口税使外国最低十三，五法郎公共补贴使本国能售七。他的偏好比较共同筹资、征收费用与可见性。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "形式偏好不等于赞所有补贴；固定单位下直接价差是四而不是五，税率不等总资源成本，数量、归宿和财政来源另核。现代量化与选股未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R13",
+      "kind": "separate_actual_author_premises_from_modern_data_limits",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "去货200k、返货352k海关差与实际费用利润不同。",
+          "new": "作者以去货二十万、返货三十五万二千的海关差与两笔商人利润相反来驳进口多就是损失；末段更强断言进口超过出口扣费用就是国家贸易真实利润，以无回报的无限赠与试验作结。"
+        },
+        "author_original_conditions": {
+          "old": "首段40k所谓20%以初货值为基，作者仅表示愿给底账未取得。",
+          "new": "作者报告熟识商人两次交易且愿提供账摘录，第一次列二成或四万和七万零四百；海关分别在货出境与返货入境计价，末尾外国不索取回报是假设。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原底账本次未取得；第一四万的二成用最初二十万，按二十八万成本为约14.2857%，分母切换是独立算术发现。国家与商人尺度、融资或出售资产、未来义务及FOB/CIF另核，不能把原反向真实利润强话当现代所有逆差收益公式；无投资实验。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R14",
+      "kind": "separate_actual_author_premises_from_modern_data_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "例未完整列保险与救助，不外推所有顺差为损失。",
+          "new": "第二次同值二十万货物在出港后风暴中全部损失，书中商人记总损失而海关只留出口、没有返货；把资本扔海里是对出口超额即利润的归谬。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原例未完整列保险、救助和船体权利，不外推所有顺差为损失，需完整回收与前后资产口径。现代核证与选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R12",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1728,
+        1762
+      ],
+      "reason": "Full foreign8/domestic12 assumption, both duty/subsidy paths and preference; old1737 cuts first-mode cost premise."
+    },
+    {
+      "rule": "P14-R13",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1978,
+        1988
+      ],
+      "reason": "Full originalstrong reverse nationaltradeprofit claim and freenoreturn-gift limiting premise."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "chapter": 7,
+      "kind": "avoid_false_addition_for_original_x_expression",
+      "old": "他们用一个正号相加却变负的符号讽刺不一致",
+      "new": "他们用“+ x + = −”的符号组合讽刺不一致",
+      "basis_global_lines": [
+        2114,
+        2123
+      ]
+    },
+    {
+      "file": "chapters/ch07.md",
+      "chapter": 7,
+      "kind": "explicit_quarter_fraction_not_temporal_word",
+      "old": "既然便宜一刻、半数或四分之三就被排斥",
+      "new": "既然便宜四分之一、一半或四分之三就被排斥",
+      "basis_global_lines": [
+        2149,
+        2164
+      ]
+    },
+    {
+      "rule": "P14-R15",
+      "kind": "actual_source_premises_vs_modern_inference_split",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "讽刺非真实请愿与舰船统计。",
+          "new": "请愿设白昼日光本可免费取得，却拟堵全部透光口以制造人工照明需求；请求者以供应链就业和生产者转消费的说法求逻辑一致。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "作者构造讽刺不当真实协会请愿与舰船统计；夜间、天气、第三方成本和额外公共服务须另核，链条采购遗漏机会成本的分析与现代数据门分开，不宣称量化或选股已执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R16",
+      "kind": "actual_source_premises_vs_modern_inference_split",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "同桶备选不是35总额；不等实际税率或经济统计。",
+          "new": "同一桶酒在比利时十五包与英国二十包报价间择一，官员只准前者并援引权威共识，正文不列实际税额。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "两方案不能加为三十五，同質品质交付与可行性需独核；二十五个百分点说法不应用于布包机会差，25%损失和33.333%恢复分母不同。无真实税表或经济统计认证，量化选股未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R17",
+      "kind": "actual_source_premises_vs_modern_inference_split",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "同到岸价不等全部社会成本同；铁路有其他服务及维护未给。",
+          "new": "同一品生产地二十、本地四十、初运输十且税十；运输减半得三十五，降税五也得三十五；若坚持保护终价四十，就需税升十五以抵消运输节省。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "同到岸价不等全部社会成本相同；原铁路其他服务、维护、数量、资本期限和税财政用途未给，不能断所有铁路无用或计算投资回报。现代核证与选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R18",
+      "kind": "actual_source_premises_vs_modern_inference_split",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "Stulta/Puera是寓言，未证明所有谈判无价值。",
+          "new": "互惠谈判破裂后，寓言老者区分外方路障伤销售与本方路障伤购买；本城不能自行撤外方规则，但能先撤自身而不要求同时行动。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "Stulta/Puera寓言不证明所有谈判无价值；战略杠杆、履约时序、财政和群体收益须另核，老人被疑收买不作既定事实。现代数据门及选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R15",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2103,
+        2123
+      ],
+      "reason": "Full producer-to-consumer link objection and naturalgiftargument"
+    },
+    {
+      "rule": "P14-R15",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2149,
+        2164
+      ],
+      "reason": "Full quarter/half/threequarter gift comparison and zero daytime light conclusion"
+    },
+    {
+      "file": "chapters/ch11.md",
+      "kind": "restore_asserted_restriction_output_mechanism",
+      "old": "他回到限制，说阻交换、减分工、迫人在不利气候下生产，可能同量努力得到较少产品",
+      "new": "他回到限制，断言阻交换、减分工、迫人在不利气候下生产，会使同量努力得到较少产品",
+      "basis_global_lines": [
+        2543,
+        2557
+      ],
+      "additional_basis_global_lines": null
+    },
+    {
+      "file": "chapters/ch12.md",
+      "kind": "avoid_inserting_immediate_allcapitalwages_or_mathematical_distributive_impossibility",
+      "old": "必须修正的强句是供给绝不受保护影响、所有可用资本必立即全是工资、总量低就工人不可能多得",
+      "new": "应检验的强断言和推论是保护不影响劳动供给、可用资本决定劳动需求且储蓄总转成工资，以及作者不信总量减少时掌立法的富人还会让出更多份额给工人",
+      "basis_global_lines": [
+        2660,
+        2685
+      ],
+      "additional_basis_global_lines": [
+        2761,
+        2773
+      ]
+    },
+    {
+      "rule": "P14-R19",
+      "kind": "retain_full_strong_original_and_actual_premises_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "译者nominal不是通胀调整real，数量丰裕与价变不同。",
+          "new": "译者把法语绝对价格译作实际货币或名义价格，作者要求以物品丰裕或稀少而非单看价格涨跌判断，并用半物毁掉倍价和三份二十先令对四份十五先令来反驳名义总额即财富。"
+        },
+        "author_original_conditions": {
+          "old": "这里及第二集第五章互证，需货币尺度。",
+          "new": "烧半例设孤立国家硬币总量给定，余物倍价只是论证设例；三份与四份粮的名义总价同六十先令却数量不同。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "此名义不是已作现代通胀调整的real指标，翻译语境、质量、分配、需求、币值和可清算性须独核。无限丰富零价为极端设例，不作股票价格或福利预测，量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R20",
+      "kind": "retain_full_strong_original_and_actual_premises_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者说Anzin股价与工资是否同升应查事实，资本移位非凭空增。",
+          "new": "作者把安赞矿股价与工资是否同升交给事实核查且自己不信同升；他以劳动供求和可用资本解释，强断言保护只使资本移位而不能增加一法丁。"
+        },
+        "author_original_conditions": {
+          "old": "未给Anzin实际工资表；工资基金强假设。",
+          "new": "保护被认为减少煤供给且抬价，但作者未清楚看到劳动需求增；他以劳动需求依赖可用资本来质疑生活费涨必使工资补偿的因果。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "本次未得安赞真实工资表，工资基金和资本绝不增是原模型强断言，不能当所有期限已验证规律。投资、信用、谈判和真实数据可收窄，现代选股量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R21",
+      "kind": "retain_full_strong_original_and_actual_premises_separate_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "20acres/400是假想，20小田不是20倍土地。",
+          "new": "父亲二十英亩四百镑、四类轮作卖余物，资本回流后增加并用于改善与存款再贷；儿子同地分二十块，在不适地气自产并使可付日常工资的资本减少。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原例是寓言而非农场底账，二十小田不是土地二十倍；银行存款总化工资、供给不受保护影响和固定资本转化的分配结论需实际期限与融资证据。无就业工资史统计或选股量化已运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R19",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2501,
+        2532
+      ],
+      "reason": "Full two numeric thought-experiments now included in originalconditions, sourceoldonlyopeningtranslatornote"
+    },
+    {
+      "rule": "P14-R21",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2736,
+        2773
+      ],
+      "reason": "Whole son remainingcapital/wagereduction thennationalconversion andelitecredibilityquestion; old2696–2738cuts workerparagraph"
+    },
+    {
+      "file": "chapters/ch14.md",
+      "chapter": 14,
+      "kind": "limit_war_reductio_to_actual_zero_sum_import_export_premise",
+      "old": "较强的四原则永远一致、经济错误必引战争是原体系需要事实和范围限定的部分",
+      "new": "较强的四原则永远一致，以及由进口必亏、出口必赚推出战争是社会自然关系，是原体系需要事实和范围限定的部分",
+      "basis_global_lines": [
+        3080,
+        3105
+      ],
+      "reason": "Do not attribute every economicerror→war assertion; actualconditionalparticularpremise only."
+    },
+    {
+      "rule": "P14-R22",
+      "kind": "full_author_inference_and_normative_voice_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者质疑久有制度与繁荣即可证制度，需完整推理及自由反事实。",
+          "new": "作者反对把重商制度久存并伴繁荣当作其原则的实践证明；他以自愿个人和各级地区购买较便宜产品为普遍事实，强称每个人在实践上是优秀经济学家，把自己的理论叫实践的解释。"
+        },
+        "author_original_conditions": {
+          "old": "窗口为对手完整引语，反驳在章内；不给全部历史已核。",
+          "new": "两边都在提出理论；作者区分自由意愿可作证的行为与先强制或禁制再援引的行为，比较条件是能更省时间努力地间接取得。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "长期存续不独立识别因果，完整序列、其他因素和自由反事实属于现代核证要求；自愿也非自动信息完善或结果最优，原普遍优秀强话不当实证认证，未执行量化选股。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R23",
+      "kind": "full_author_inference_and_normative_voice_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "不愿正义效用冲突是作者宗教规范信念，会重检推理。",
+          "new": "作者称自由、效用、正义、和平不仅相容且严格联合，近乎相同，并以神意和权威形成推定；若推理使繁荣必须不义战争，会反复检验，二十次后仍如此则宁弃科学与公共事务。"
+        },
+        "author_original_conditions": {
+          "old": "二十次是修辞非实验复验次数，不当客观因果。",
+          "new": "前半针对进口是损失、出口是获利这同一前提推国内垄断和国外征服，再问它同正义和平相冲；后半假设自己持此理论而诚实重查。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "二十次是原设想的修辞而非实证重复轮数，神意与道德理想不提供税负战争概率数据；实际价值取舍、公共目的和各群体影响需独核，未运行量化或选股。"
+        }
+      }
+    },
+    {
+      "file": "chapters/ch19.md",
+      "kind": "correct_actual_C10_crosschapter_reference",
+      "old": "前面第十章积货与失业循环可帮助理解第二种损害",
+      "new": "前面第十章对外方伤销售、本方伤购买的区分，可帮助理解损害的不同方向",
+      "basis_global_lines": [
+        2404,
+        2412
+      ]
+    },
+    {
+      "file": "chapters/ch19.md",
+      "kind": "separate_actual_military_war_claim_from_equal_loss_misreading",
+      "old": "较强的损失必相等、和平因此永久和所有安全支出都无必要",
+      "new": "作者较强的互赖使战争消失且不再需要庞大舰队军队的结论，以及把相互依赖误读成损失相等的推论",
+      "basis_global_lines": [
+        3425,
+        3443
+      ]
+    },
+    {
+      "file": "chapters/ch20.md",
+      "kind": "do_not_add_immediate_word_to_original_static_path",
+      "old": "需要修正的是精确等量补岗、每份节省必立即支出、跨行业跨国条件必一致",
+      "new": "需要检验的是节省支出自动精确抵补劳动、节省转向其他消费的路径及时间、跨行业跨国条件的差异",
+      "basis_global_lines": [
+        3630,
+        3686
+      ]
+    },
+    {
+      "rule": "P14-R24",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "共同市场中货币作中介；封锁可能自给，但预先隔绝不是无成本。",
+          "new": "作者以硬币作间接市场媒介反对逐对等值互买，并强称最后每人的贡献与取得价值恰相等，汇成国家亦然；若被市场排斥只得自给，预先隔绝恰先施加所怕后果。"
+        },
+        "author_original_conditions": {
+          "old": "exact balance不是每月货贸恒等，未给借款赠与等外部账。",
+          "new": "先设无外部关系而在本市场售货所得币，再将同机制扩大到一般市场；作者将消费生产相等放在操作终局，最后明确设所有人拒收某人商品的极端。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原exactbalance不是每月货贸恒等，没列借款赠与储蓄或外部账户；币作指令是市场比喻非保证仓库物权。多币结算、信用和期限须独核，现代量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R25",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "未核会议纪要，法国场景是假设，非第三项实际会议。",
+          "new": "原报告马德里欲改善杜罗河引进口谷更便宜而加税，三个月后里斯本以守卫与工程互相矛盾而反改善；法国加龙河是若同样推理的条件类比。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "本次未得会议纪要、发言者或项目结果，第一人称不当独立历史核证；法国不是第三项实际会议，其他河道目的与工程成本需另核，选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R26",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "negative railway为讽刺名称，非实际公司或负收益。",
+          "new": "原引报纸提案有多项理由，作者只选强制客货在波尔多停下让中介获利这一项，并把相同理由扩到所有中间城来测铁路目的。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "负铁路为讽刺名称不是真公司或负投资回报；原未审全部其他方案理由，真实换乘工程服务、安全和成本可改变比较，当前历史/股票量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R27",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者反任意统一指挥，并留海关财政职责，承认巴黎尚有贫困。",
+          "new": "作者以巴黎分散供给称自由利益能协调，不回避现有贫困，却从可能加重推进到确定任意全面政府指挥会无限扩大苦难；末问为何国际更少更简单时要海关超出财政职责。"
+        },
+        "author_original_conditions": {
+          "old": "公共服务不全被否；国内转国际更简单是强说。",
+          "new": "设百万城民依赖八十地区每日供给，而部长取代所有生产运输交换消费选择；对照不是仅有公共机构存在，最后明留海关财政职能。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "不多不少、百万人八十地区、全面干预确定扩大和国际更简单都是原强主张而非本次全史核证；道路等公共服务与信息失灵须分辨。现代核证门与选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R28",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "贸易使双方中断有亏，作者进一步断军备战争会消失。",
+          "new": "作者称交换依赖相互，中断会致缺物和积货；若各国是永久彼此市场，他进一步断言无需破财舰队和过大军队，战争会因支持条件消失而消失。"
+        },
+        "author_original_conditions": {
+          "old": "互赖不等对称，和平为强预测未独核。",
+          "new": "起点是法英煤铁与粮的战时依赖担忧；作者比较先隔绝同保持永久互买且破裂有双重痛苦，并以个人利益而非强制牺牲支持关系。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原没断言双方损失等大，不能把相互改成对称；战争消失及大军备不必要的强预测未独核，替代来源、决策、非经济动机须实证收窄。不输出零战争概率或已执行选股。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R29",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "当前工作的目标启思而不是消疑，机器和进口链还需检验。",
+          "new": "作者明说本短作难容非常充分完整证明，重在提出困难而非全解、引发反思而非全消疑，仍愿把读者引到适当道路。"
+        },
+        "author_original_conditions": {
+          "old": "不能把全书完整读等同全部命题已证。",
+          "new": "这段回应要求证明机器不伤人工、进口不伤本国劳动的请求，之后用最终后果和帽子设例引路。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "完整读全书不等每命题已证，机器进口链需实际价格传导、融资、技能和时点证据；这是现代核证门，作者并未完成回测或股票策略。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R30",
+      "kind": "complete_original_conditions_and_strong_position_separate_review",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "10m帽15s降10s，付7.5m到5m、省2.5m，作者承认需求不增前提。",
+          "new": "年用一千万帽十五先令降十，七百五十万镑支出改五百万并省二百五十万；作者把省款另花认作精确抵补已省劳动，总劳动不减而满足增加，移位但不毁灭；进口例照此。"
+        },
+        "author_original_conditions": {
+          "old": "省款另花与同货币支出不证明等工时就业或即时转移。",
+          "new": "机器例明确需求不因降价增加，设省款买鞋书家具；进口同样帽时设本国产出五百万支付且省款另消费。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "同货币支出不证明同工时人数、即时转移或每位旧工有新岗；支出储蓄、技能、融资、进出口结算和所有权实际资料需独核。不添加作者未说的立即时间保证，不运行选股或回测。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R22",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2961,
+        2975
+      ],
+      "reason": "Entire practice-explained and universal individualexcellent assertion currently notoldanchors"
+    },
+    {
+      "rule": "P14-R23",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        3110,
+        3147
+      ],
+      "reason": "Entire strong principleidentity/divinepresumption/20examinations notoldmidparagraph3131"
+    },
+    {
+      "rule": "P14-R24",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        3165,
+        3202
+      ],
+      "reason": "Entire indirectmoney mechanism/closed-to-world/exactbalance notoldmidparagraph3193"
+    },
+    {
+      "rule": "P14-R25",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        3224,
+        3254
+      ],
+      "reason": "BothMadrid andLisbon pluswholeFrenchhypothesis notoldonlyLisbon"
+    },
+    {
+      "rule": "P14-R27",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        3360,
+        3406
+      ],
+      "reason": "CompleteParis provisioning context andfinal fiscalguard notoldmidparagraph3380"
+    },
+    {
+      "rule": "P14-R30",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        3630,
+        3686
+      ],
+      "reason": "Whole exactlabour-offset andbothmachineimport example; oldonlyhatamount"
+    },
+    {
+      "file": "chapters/ch21.md",
+      "kind": "correct_two_thirds_denominator",
+      "old": "两分之三农业",
+      "new": "三分之二农业",
+      "basis_global_lines": [
+        3948,
+        3959
+      ]
+    },
+    {
+      "file": "chapters/ch21.md",
+      "kind": "retain_original_brandy_vs_wine_products",
+      "old": "让一桶酒精的用途用十桶酒运输",
+      "new": "让一桶白兰地的用途改用十桶葡萄酒运输",
+      "basis_global_lines": [
+        4052,
+        4060
+      ]
+    },
+    {
+      "file": "chapters/ch22.md",
+      "kind": "remove_unattributed_otherbook_dogshadow_from_thisbook_priorchapters",
+      "old": "此前狗抓影、负铁路、劳作石头、国与家庭都有特定对应",
+      "new": "此前照明请愿、负铁路、搬石头以及国与家庭的类比都有特定对应",
+      "basis_global_lines": [
+        4079,
+        4211
+      ]
+    },
+    {
+      "file": "chapters/ch22.md",
+      "kind": "replace_unsourced_propertyshadow_analogy_with_actual_book_transporttax_distinction",
+      "old": "若用影子比法权，影子不可依法转让，而实际权利有支付功能。",
+      "new": "若用运输障碍比关税，实物耗费与公共税款的转移也有区别。",
+      "basis_global_lines": [
+        1216,
+        1255
+      ]
+    },
+    {
+      "file": "chapters/ch22.md",
+      "kind": "do_not_invent_alltradegood_or_everymetaphorwar_sourceassertions",
+      "old": "较强的恶意动机、语言必战争和所有交易完全有益，需要输入和反证限制",
+      "new": "较强的恶意动机归属及壁垒经孤立、仇恨到战争的因果链，须用具体证据限定；贸易有无好处仍要依本章自己的比较条件检验",
+      "basis_global_lines": [
+        4100,
+        4156
+      ]
+    },
+    {
+      "rule": "P14-R31",
+      "kind": "actual_analogy_conditions_and_voices_separate_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "不是仅手工工资值；对自然和租金理论仍需条件。",
+          "new": "设想对话先区分物质形成与可交易价值，采煤须寻找和运输；长注明说劳动包括前期垫款返还、资本与其他协作的合法报酬，不仅手工工资。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "广义劳动不等实测工时，原全部价值只代表这种劳动的理论与自然稀缺租、产权、市场价格仍需实证收窄。请愿人口比和秘密动机未独立核，现代选股量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R32",
+      "kind": "actual_analogy_conditions_and_voices_separate_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "须实际自愿、补偿与无强制，也检作者自己的比喻。",
+          "new": "作者区别战舰毁城与商船提出自由自愿交换，强取款不给回报与当事人同意且认为等值的马匹购买；尼罗河比喻明限留下之值是否多于带走之值。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "实际自愿、兑现、第三方成本与强制须核，也要同标准检作者自己的比喻；不能因为是商船标签就判所有交易有益，不能从同样货币外流免查权利。现代量化和选股未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R32",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        4153,
+        4190
+      ],
+      "reason": "Full tribute/purchase theft/1000horses20000GBP subjectiveequivalence andcircularword argument supports neworiginalconditions notoldonlywarship"
+    },
+    {
+      "file": "chapters/ch23.md",
+      "kind": "preserve_original_always_even_victorious_war_claim",
+      "old": "即胜者国也常由少数获益、大众付费",
+      "new": "即使对胜者国，战争也总是在少数人的利益下进行，由大众付费",
+      "basis_global_lines": [
+        4694,
+        4701
+      ]
+    },
+    {
+      "file": "chapters/ch24.md",
+      "kind": "do_not_upgrade_tendencies_or_specific_restriction_claim_to_allbenefits",
+      "old": "须限定的是进步必平等、总坏处必可加大于好处、公众知情必抵抗成功及所有受益只能幻象",
+      "new": "须检验的是历史努力与享受趋向平等的判断、总坏处必大于好处的加总尺度、防卫知识能否使受害者有效抵抗，以及限制制度中以为获利者只得幻象的判断",
+      "basis_global_lines": [
+        5244,
+        5417
+      ]
+    },
+    {
+      "file": "chapters/ch25.md",
+      "kind": "correct_original_naturaladvantage_crossreference",
+      "old": "第十四章等已告诉如何分享自然优势",
+      "new": "第一集第四章已说明如何分享自然优势",
+      "basis_global_lines": [
+        1269,
+        1292
+      ]
+    },
+    {
+      "file": "chapters/ch25.md",
+      "kind": "do_not_turn_threefold_workeffort_into_exact_threefoldwage_claim",
+      "old": "须限定的是购买力粗数、三倍需求工资、外贸价与技术一切等同",
+      "new": "须限定的是购买力粗数、由三倍动作耗时推成需求和工资增加的希望，以及外贸价与技术完全等同的类比",
+      "basis_global_lines": [
+        5590,
+        5622
+      ]
+    },
+    {
+      "rule": "P14-R34",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "与贸易必和平强语形成限度，未给当代安全模型。",
+          "new": "征服国有时为保家、财产、独立和自由不得不出兵；危险过后复仇可能沿旧荣耀扩大，作者称不怕报复的文明国仍会不顾正义开战。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "防卫许可、威慑和舆论机制需同第一集贸易必和平强语并读，不当作者当代安全模型。具体非对称威胁和权利责任要外核，未执行量化选股。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R35",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "不是所有政府服务骗局，也非代议制自动无问题。",
+          "new": "社会组织普遍安全需求并互换服务酬付；私人通常能拒绝或改对手，公共安排尤其代议制以前可能强迫接受品质与政府定价，缺同样议价保障。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "并非所有政府服务骗局，代议制也不自动消除利益冲突；具体服务与监督、预算和权利须独核，原长串历史未全外核，量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R36",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "背景盲点不等免所有责任，原不让历史伟人充现代样本。",
+          "new": "作者尊重人格并相信近乎所有保护支持者诚实；雅典罗马与现代奴役、军队例说明社会环境可遮不义，最后明确责制度而非个人。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "历史伟人不是现代统计样本，背景盲点不豁免所有行为责任；个人意图和可执行法权须另有证据，强词不替现代刑法裁决，量化选股未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R37",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "不因受害者不知而免行为人責，也非单知识达完美。",
+          "new": "经济道德向承受者解释效果并激起抵抗，道德宗教向行动者促善；作者承认防卫知识即使充分，只能使恶少支持，未必改善内心或达到全部社会完美。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "不能因受害者不知而免行为人责任，也不能以知识 alone假设人人都有能力拒绝；法律、组织、资源和伦理目标须独核。现代数据门及股票量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R38",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "satire非真实禁斧法，工资不自动随工时多。",
+          "new": "角色求只准钝斧梁椽，以同结果一百下变三百下、一小时变三小时，映射直接织布与生产别物换布的取得努力比较。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "这是讽刺请愿不是真实禁斧法；工时动作三倍不等工资需求三倍，工具成本安全、商品同质、报价履约需核。现代量化与选股未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R39",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "作者报告并非全国抽样；None原位置未解。",
+          "new": "作者自述十五天后有十五份行业报告，正文只展开裁缝和铁匠，明确其余不列并遗憾农业工未入会；他赞本人消费与客户间接效应两面。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "不是全国随机抽样或全部十五原底稿已取得；None在铁匠第二条末、TXT与HTML同见但原刻未核，不能移列成新数据。现代样本数据门与量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R40",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "需求增等于富强说需独证，1847粮荒为所引。",
+          "new": "作者把减供所致昂贵与增需所致昂贵分坏好，把增供便宜与减需便宜分好坏；原以1847粮缺作为减供例，强调供需会同向反向且比例多变。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "需求增等于财富发展是原强推断需独证，囤积人口财政等其他原因不可漏；羊毛与粮史数据未全外核，单价格不定现代股票，量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R41",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "供求恰抵消非必同幅；未核羊毛和人口数据。",
+          "new": "作者比较孤立行业免竞争暂得利与全体系自己也买高价品，认为限制减供且减需、自由扩供且扩需；补充用多秤盘同加物量说明名义比例可不变但满足增加。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "供求作用不必同幅恰抵消，不保证全部价格下降或所有企业幸存；原羊毛、人口、9/10衣不足未独核，弹性收入与时序需查。现代股票量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R42",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "暂时无固定期限；不能为工人代同意受苦。",
+          "new": "改革打断已按旧制建立的依赖；作者以有头手少久困、国家可留基金救过渡失业、工人愿为共同益与正义承受短苦三条答复，同时自己不信会暂失业。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "过渡无原固定期限、基金规模或资格，作者对工人意愿不是每人同意授权；长期困境、技能、资金和执行须独核，现代选股量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R43",
+      "kind": "source_conditions_actual_claims_separate_independent_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "30k移工和政策叙述未核；不以国籍作特征。",
+          "new": "原称衣料铁轨挡而外国裁缝铁路工准入，区分资本家制造与工匠加工利益；作者明说不愿排除德裁缝英工，要求产品同样自由和平等。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "三万移工与政策事实未本次全外核，不以国籍评分或猜个人意图；实际法规、时点和所得需证，现代量化选股未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R37",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5419,
+        5474
+      ],
+      "reason": "Whole economicmoralitynotallperfection paragraph beginsbeforeold5420"
+    },
+    {
+      "rule": "P14-R38",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5590,
+        5622
+      ],
+      "reason": "Whole proposedbluntaxe law3x effort hope and1834Inquiry subject"
+    },
+    {
+      "rule": "P14-R39",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        5661,
+        5737
+      ],
+      "reason": "Full fifteendays15reports/tailor andblacksmith/missingagriculturallabourer context notoldonlyblacksmith"
+    },
+    {
+      "rule": "P14-R41",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        6049,
+        6086
+      ],
+      "reason": "Whole first supplementletterreply multi-pan andsecondletter notoldmidreply6060"
+    },
+    {
+      "rule": "P14-R42",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        6242,
+        6272
+      ],
+      "reason": "Whole reformdependencenetwork/visiblepain versusdiffusebenefitnotoldonly3replies"
+    },
+    {
+      "rule": "P14-R44",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "假设良好运河、同人货目的；三月非真实历史期。",
+          "new": "设良好运河被皇帝巨石堵塞，同人货改走道路，三个三月巡视见道路店铺扩展而未察劳动来自其他用途；后帝要恢复便宜通行。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "这是异国寓言不当真实历史三月观测，未给疏浚成本和安全容量，移位有时序分配困难而非凭空新增工资。现代资料门与股票量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R45",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "公平分配和防革命为作者强判断，原无历史月序列。",
+          "new": "1848年一月论述把英国改革同连续坏收成并列，又讲1842–44减税和丰收两因共同、1845–46歉收；自由最公平分配和无进口近乎必革命是原断言。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "公平与革命需另核，书无历史月度对照、完整价格收成和信用数据；正负结果须对称查同期因素，不冒称原书有现代识别统计程序或已跑回测。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R46",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "旧条号不提供今法，批制度不是个体恶意。",
+          "new": "原以借自己定法强收15可得货的20价差比窃取，同时明说奖金关税违反公平而不违法，不归普通刑庭；作者注自己是受保护地主，买与卖都卷入。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "旧刑379和词典不作今法，依法与公平不同、批制度不推个人恶意；必须有可比价、权利回报和强制证据。未作现实刑罪判断或股票量化。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R47",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "竞争固定售成本，非所有补贴100%转外国。",
+          "new": "设波尔多布成本100且竞争不许售高于100，国内买须100，出口获20奖金就可售80并补至100，作者以此比本国纳税人给国外买者20折扣。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原固定成本竞争模型不证明全部补贴100%归外国买者，供需弹性、产量、转嫁和资金源不同须核，旧族群称谓不作为风险特征。现代选股量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R48",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "六桶分解为对话非法国实预算。",
+          "new": "葡萄园主在首桶债息争论中不满借款战争用途及后代负担，却承认欠债该付；角色叙述过去资本用途与现在偿债分别。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "六桶预算是对话非真实法国财政，原利率债量期限未知；执行重整须独核，不以旧用途自动取消债权，也不给现代法律操作或股票量化建议。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R49",
+      "kind": "original_narrative_premises_vs_modern_data_and_law_review",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "质量、目标与归宿未量测，六/二十非真实统一税率。",
+          "new": "角色承认第二桶司法安全道路等服务对服务公平，虽更愿自行找教师神父但不坚持；末桶从酒售价等补厂损并转盈利，被称国家富而遭质问。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "六/二十按数量非真实统一税率，最佳六桶的价值份额也未测；服务品质、补助目标、财政来源和归宿需另核。具体决策和股票量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R50",
+      "kind": "source_premises_and_independent_quality_limits_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "教育使改革必随的强说未证。",
+          "new": "部长资格先由对手让步假定多数支持且明白正义效用一致；作者说一般理解进步后必要改革会必然随之，末尾对手收回多数就收回部长资格。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "假定多数不是民调事实或实施授权；教育使所有改革必随的强话需制度能力证据，理论小例不补政治许可。现代量化和股票判断未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R51",
+      "kind": "source_premises_and_independent_quality_limits_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "原归宿全额未经验证，非当前最优，军事节约同属假想。",
+          "new": "国家开支给定，进出口各5%从价法把关税替代其他负担，而非额外叠加；出口税让国外最后消费者分担本国教育道路安全是原全额归宿主张。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "原全额税归宿与等额减税保竞争未独证，不是当前最优税率；军事节约和近确定和平仍属假想，弹性行政分配时点需核。现代量化未执行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R52",
+      "kind": "source_premises_and_independent_quality_limits_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "长流程对话非逐站实测，移除会计强句不可免总审计。",
+          "new": "对话按十一距离级十一重量级城乡分类对照英国统一预付一便士，远近同价公平用个人远近通信合计、烟草运费及相邻旧邮区差来回答。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "长流程非每站实测，242种类别不是每封逐一操作242次；取消会计是原强话，不免现代机构总审计，远近成本分布须独核。选股量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R53",
+      "kind": "source_premises_and_independent_quality_limits_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "360%分母与417m未解，87m/116m统计范围缺。",
+          "new": "作者拒旧成本与信量不变的比例表，先须算简化和增量，但称省费可能被扩大服务人员抵消故只计信量；以英国7/8降费360%增量类比法国116m→417m再取300m较低。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "360%的增长或终量分母与417m未解，87m/116m范围不同、7/8是近似，未有原完整报表，跨国响应不能当固定弹性。现代量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R54",
+      "kind": "source_premises_and_independent_quality_limits_separated",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "TXT与HTML同样，无原扫描未判何层有误；不得补8。",
+          "new": "原预算陈列信与报刊收入15m、5m，费用31m扣邮船5m剩26m，又写净2m旧净19m；后陈列邮政毛50m再跳三税280m，人物信中保证新300m。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "可见20−26=−6与原列+2不合是本次独立算术，不归作者已认错；TXT与HTML同版布局、无原刻未判责任，缺服务收入与税分项不能补8m对齐。质量门阻止投资实验。"
+        }
+      }
+    },
+    {
+      "file": "chapters/ch35.md",
+      "kind": "correct_defensiveknowledge_crosschapter_firsttwo_notIIIIV",
+      "old": "这同第二集第三、四章把知识作为补救的乐观相比",
+      "new": "这同第二集第一、二章把知识作为补救的乐观相比",
+      "basis_global_lines": [
+        4447,
+        5478
+      ]
+    },
+    {
+      "file": "chapters/ch39.md",
+      "kind": "expectation_not_guaranteed_actualreceipt",
+      "old": "英国必得至少同样多也是交易价值和主观愿意的说法",
+      "new": "英国肯定期望至少得同样多，仍是交易价值和主观愿意的说法",
+      "basis_global_lines": [
+        9987,
+        10000
+      ]
+    },
+    {
+      "rule": "P14-R55",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "20年和人数是剧情，垄断终自罚不必然。",
+          "new": "四幕先私人相互保护、议会标签投票，再设二十年后城市消费与市场收缩、提案者先暴利后同穷，最后全群众动员而不吊任何人。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "二十年、人数和利润为戏剧非巴黎观察史；垄断自罚不是已证必然、实际市场分配和传播政治障碍需核。现代量化与股票判断未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R56",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "线性菜产出、同家庭资源；不为无薪失业者代选休息。",
+          "new": "两人原十二小时得四篮猎物四篮菜，外国四篮猎物换两篮菜，按线性种菜九小时可留原食物并省三小时，其他欲望或休息可用。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "同家庭模型不为无工资失业者代选闲暇；土地技能产量线性、交易可兑现与家庭分配须核，单人类比国家存在权利收入差别。现代量化和选股未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R57",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "两官方格式均同文，无扫描不确定是哪层错。",
+          "new": "前设来客四篮猎物换两篮菜，后星期五在来客学园艺情景中说对方不再送菜、不再拿猎物，作者将两句放在所构对话里。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "前后菜猎方向不一致为本次核证发现，TXT/HTML同样不证明原刻是哪层错，不归作者已撤回；弃该对句精确模型，其他明文一般机制可谈，量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R58",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "April1847五六为作者所引未核，不泛所有涨价。",
+          "new": "短答以面包贵因稀缺并援1847年四月六分之五工人领救济，反驳必定工资随价升；后多组回答以生产和取得、需要与耗用区别续论。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "本次没核救济地域总体及底账，不能把短答推广全部涨价，須按第27章完整供需四因收窄；这是现代跨章核证边界，股票量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R59",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "旧偏见不作人群特征，报价传导也未必。",
+          "new": "短答接波兰农奴无工资，称不幸属他们、好处属买谷者，因为其劳动不进入主人出售谷的价格；与前面海外低成本优势归消费者同一论式。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "无工资不等零社会耗用，报价也未必传零成本，伦理不能以折价抵奴役；旧民族标签不作人群特征，实际权利成本及势力另核。不当作者已给现代伦理或投资程序。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R60",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "手别医学、20/30倍、截肢均讽刺，不是实证或建议。",
+          "new": "拟王室报告多次固定当前消费量，左手更费人就可提高工资，却承认物品更贵；假想二十年后撤制度会扰动，又以身体弱及进一步禁手扩耗用。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "左右手医学、20/30倍、截肢是角色讽刺非实证与建议；消费量、资本和工资不能同时随意固定，质量安全新增结果应重定义比较。现代量化未运行。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R61",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "无固定暂时长度；强即刻千业未量证。",
+          "new": "作者声明谈一般结果而非总有的短期转换不便，明许可温和渐进；同章末还称铁低价或免费将立即必然生一千个更有利行业。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "暂时无原固定长度，即刻千业为强乐观未量证；持久损害、资本技能、需求分配与救助须核，不能以临时标签免检。不输出市场概率或选股量化。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R62",
+      "kind": "original_late_conditions_vs_modern_quality_and_execution_limits",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "TXT/HTML同字，无原扫描未解；优势全变便宜也需条件。",
+          "new": "作者先区分劳动被消灭和被节省，随列because/although均为lessiron的两句，却称相反，再以英国期待对价和便宜铁扩其他用途作结。"
+        },
+        "modern_layer_separate": {
+          "old": "现代核证、数据门与反例为本次解释，不冒称原书量化、回测或选股规则。",
+          "new": "TXT与HTML同字的未解对句是本次来源核证，无原扫描不补same/more也不判原作者承认错误；优势全变低价和工厂关必因丰富替代另须证。该对句不入精确实验。"
+        }
+      }
+    },
+    {
+      "rule": "P14-R50",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        7748,
+        7763
+      ],
+      "reason": "Whole withdrawnmajority enddialogue supports originalclaim notoldonlyopening"
+    },
+    {
+      "rule": "P14-R55",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        8736,
+        8755
+      ],
+      "reason": "Whole poverty/censorship/party interference and publicmisunderstanding reform-obstacle argument; no claim this oldrange contains the subsequent soncompletion exchange."
+    },
+    {
+      "rule": "P14-R56",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        9009,
+        9080
+      ],
+      "reason": "Whole initialtwopeople/productiveexchangeparameters andsavedtime+leisure notoldmidquotedargument9034"
+    },
+    {
+      "rule": "P14-R61",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        10016,
+        10032
+      ],
+      "reason": "Whole final cheapiron/free blastfurnace loss immediatelynecessarily1000others anddomination-impossibility conclusion"
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "kind": "separate_modern_accountability_or_precise_game_translation",
+      "old": "第24章也不把受害者知识当免除行为人责任，经济警戒与伦理改善是互补而非替代。",
+      "new": "第24章让经济警戒与伦理改善互补而非替代；不以受害者知情程度免除实施者责任，是本次现代核证的边界。",
+      "basis_global_lines": [
+        5419,
+        5474
+      ]
+    },
+    {
+      "file": "专家说明.md",
+      "kind": "separate_modern_accountability_or_precise_game_translation",
+      "old": "游戏猎物方向",
+      "new": "菜与猎物交易方向",
+      "basis_global_lines": [
+        9009,
+        9128
+      ]
+    },
+    {
+      "rule": "P14-R55",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        8860,
+        8875
+      ],
+      "reason": "Full finaltheatre threats/falseagent accusation and explicitdo-nothang-anyone institutionaldifference, supports actuallastscene originalconditions"
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "kind": "candidate_count_metadata_not_source_semantic_change",
+      "old": "39编号章正文90300汉字，另两作者段4637汉字",
+      "new": "39编号章正文90483汉字，另两作者段4643汉字",
+      "basis_global_lines": null
+    },
+    {
+      "field": "system_prompt",
+      "kind": "precise_game_word_translation_not_author_semantic_change",
+      "old": "游戏菜猎物倒置",
+      "new": "菜与猎物交易方向倒置"
+    }
+  ],
+  "body_semantic_and_reader_patches": 26,
+  "synthesis_count_metadata_patch": 1,
+  "changed_rules": 60,
+  "exact_rule_field_edits": 134,
+  "top_level_prompt_text_patches": 1,
+  "new_complete_raw_contexts": 30,
+  "old_contexts_preserved": 69,
+  "proposed_total_contexts": 99,
+  "candidate_han_counts": [
+    2615,
+    2417,
+    2603,
+    3032,
+    2338,
+    2315,
+    2273,
+    2398,
+    2227,
+    2290,
+    2397,
+    2446,
+    2561,
+    2334,
+    2290,
+    2333,
+    2272,
+    2398,
+    2267,
+    2416,
+    2809,
+    2310,
+    3186,
+    2508,
+    2370,
+    2315,
+    2023,
+    2122,
+    2052,
+    2057,
+    2029,
+    2005,
+    2065,
+    2190,
+    2026,
+    2079,
+    2015,
+    2095,
+    2005
+  ],
+  "candidate_han_total": 90483,
+  "minimum_candidate_han": 2005,
+  "additional_author_sections_han": {
+    "introduction": 2259,
+    "conclusion-first-series": 2384
+  },
+  "additional_author_sections_han_total": 4643,
+  "candidate_expert_file": "work/book-experts-v5/practical_team/P14-corrected-expert-candidate.json",
+  "candidate_expert_sha256": "42fb3052e4555bdaf15e8224e6e5c5750ca33ac58b598e756c50265b75ed3688",
+  "candidate_draft_directory": "work/book-experts-v5/practical_team/P14-corrected-draft-candidates",
+  "candidate_draft_hashes": {
+    "chapters/ch01.md": "e76fb76060f5b5e6a0d5befa3edce55c9dcf219f6d971dbdfc538fb971186d38",
+    "chapters/ch02.md": "5f50bba3a1c66bfe87fb3fd780ce26e947984ed7f24bcc205d78505154d36c09",
+    "chapters/ch04.md": "9ea0c25fca2f52bf3b0a102e29e79e056f8618cc648445c863c929194f6c936e",
+    "chapters/ch07.md": "736243673f8796d4613d6c68838e9a868dfe1293cac05c977deeba6aba39a001",
+    "chapters/ch11.md": "1b6295a46d2bb136e9704daacfc87d6189a11b6092797f2883d2a85dd9265282",
+    "chapters/ch12.md": "76dd1913a6ee739d295145c7448709017dd6b61f9c4bd895c056d55d6d734949",
+    "chapters/ch14.md": "f1a46b589152c31d1759f2fbb02203191b20ef116ae945c61ab90c4ceb71a7af",
+    "chapters/ch19.md": "bce40155397d6eda408232fa30adf2569a05b6bfd5a9e15199e8c75f86e1e095",
+    "chapters/ch20.md": "603b33592b7c242eac947b377d66455d04df72f7060d5fff7f35956ff8c32ce4",
+    "chapters/ch21.md": "69d877a57d4cdf7b1044bd62708d5f134154ee28eb98b11eb3c6d08434f01bb8",
+    "chapters/ch22.md": "7c260f13252ece9203fd6a4f6696fbbe3fcd4a894063ed78eed7abbb74444c60",
+    "chapters/ch23.md": "e559c33891e8a661b2596ffc657bd78ff470db139fc051e3f49c924f61a3596c",
+    "chapters/ch24.md": "0ee2e6d466ec465f11feab20c547942d5cd472e2460f867f0650ffc80cd5987b",
+    "chapters/ch25.md": "5c3602462060d0419da9db04d6e93bcc2c895420166f834febbfb807a2c626ed",
+    "chapters/ch35.md": "487b1cd107fe3802e1e3956173cebd64f926cc761ee5ada065dd3efe002230a2",
+    "chapters/ch39.md": "0c60be8724b761295e1c9ca9196f3b4ba06d5cc8d3e746d487ee35e4266ccbc2",
+    "chapters/introduction.md": "e438e6d79c930ab8564a9890ac2005d50676af5785cb739f893fef1c5013d640",
+    "专家说明.md": "15af83a5fff3e80d35bb4afd0bec8bb73011b6533fa94640567e46b67301ac86",
+    "全书综合与前后置页.md": "3dfd19fa6d9134f393bfa1c92c8c79336ef35bedc0967f7acb29d7d383f3273a"
+  },
+  "source_additions_file": "work/book-experts-v5/practical_team/P14-source-anchor-additions.json",
+  "source_additions_sha256": "3e61b186957ecb8d3c361ca5fd3213a04eae40d019143132296284082767ebcf",
+  "mechanical_verification_sha256": "b50e850b6745093d7d37977c85ab82a5fa77a18d1fae1b38c9a837016b1764df",
+  "merge_method": "Parent/root manual contextual review required; no author finalizer or merger invoked. Old partial fragments retained; whole original chapter context available separately."
+}

@@ -1,0 +1,7777 @@
+{
+  "book_id": "P20",
+  "reviewer": "index_books",
+  "status": "complete_independent_semantic_QA_required_corrections_candidate_not_merged",
+  "independent_QA_pass": false,
+  "eligible_to_pass_after_required_corrections_and_final_recheck": true,
+  "actual_semantic_scope": {
+    "all31_chapter_source_files_complete": true,
+    "all31_dossiers_complete": true,
+    "all74rules_author_claims_and_boundary_fields_complete": true,
+    "all_main_inline_notes_recapitulations_and_authorities_read": true,
+    "four_appendices_full_printed_text_read": true,
+    "bibliography_and_entire_six_page_index_read": true,
+    "front_preface_contents_read": true,
+    "all_in_book_quoted_passages_read_not_all_external_documents": true,
+    "full_selected_500page_scan_content_via_completeOCR_plus_major_visual_supplements": true,
+    "all500pages_every_glyph_visually_verified": false
+  },
+  "edition": "HoraceWhite, SecondeditionRevisedContinuedto1904, prefaceMarch1902, original1895; all3booksonework",
+  "original_source_sha256": {
+    "PDF": "be12e7b529a4981db657d1519d3247dfdd2073116521bc6064cb846ff9e88325",
+    "full-layout": "44a685a484647f8437cae73d5781a00c46c46fb5653fef7f838a1eaa6e99eea1"
+  },
+  "all_section_source_records": [
+    {
+      "file": "source/ch01.txt",
+      "sha256": "8893434bedb194f79de37739c6447945817b1c334e79507ff9a4f2609dfbc73e",
+      "lines": 762,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          762
+        ]
+      ]
+    },
+    {
+      "file": "source/ch02.txt",
+      "sha256": "7ecb9920032d2c7d0a2be2a6232cb6ef8b08651e5b9e87b94d20053543aef468",
+      "lines": 750,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          750
+        ]
+      ]
+    },
+    {
+      "file": "source/ch03.txt",
+      "sha256": "d7633c890e82018632bb9ddcb24c24f57c8c632fda797c6bc8ea0a6117a855b1",
+      "lines": 530,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          530
+        ]
+      ]
+    },
+    {
+      "file": "source/ch04.txt",
+      "sha256": "496e003522ccc8600393f56c2c14def89047fb3726c36ae65176fbdf3afe6885",
+      "lines": 373,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          373
+        ]
+      ]
+    },
+    {
+      "file": "source/ch05.txt",
+      "sha256": "a1c7bd0a57a40b18af372649aa091790d070048c02990fb5ec9f8e36c6ff49c7",
+      "lines": 441,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          441
+        ]
+      ]
+    },
+    {
+      "file": "source/ch06.txt",
+      "sha256": "1d1d8f8a658a9643a6f1cf05d3596bf384549688f3e757397c0d93f8edc96050",
+      "lines": 869,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          540
+        ],
+        [
+          541,
+          869
+        ]
+      ]
+    },
+    {
+      "file": "source/ch07.txt",
+      "sha256": "da84ef6e9679d1d07425382a298761b3772b8d7386824d4d8b155628e2c8b609",
+      "lines": 495,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          495
+        ]
+      ]
+    },
+    {
+      "file": "source/ch08.txt",
+      "sha256": "bc25846dcf493dcd5ca0db46e4a994b72e8f9d6b068c97b5c8da01602b2d3e5b",
+      "lines": 747,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          747
+        ]
+      ]
+    },
+    {
+      "file": "source/ch09.txt",
+      "sha256": "b4b243bb24de2a353057c85abc38dd47383ae916f3baa86561aab96c22f31438",
+      "lines": 581,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          581
+        ]
+      ]
+    },
+    {
+      "file": "source/ch10.txt",
+      "sha256": "9203b744aa2dcc4839dcde36f52d39102a2d5699930fe3f4be7ad68ae51a6205",
+      "lines": 736,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          736
+        ]
+      ]
+    },
+    {
+      "file": "source/ch11.txt",
+      "sha256": "5689e0e3da0362ef6c1dbb00216a62b0fa8d6d22ab691376e36e3899f9656423",
+      "lines": 1579,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          510
+        ],
+        [
+          511,
+          780
+        ],
+        [
+          781,
+          1040
+        ],
+        [
+          1041,
+          1310
+        ],
+        [
+          1311,
+          1579
+        ]
+      ]
+    },
+    {
+      "file": "source/ch12.txt",
+      "sha256": "7d6607514f2ea263e4fd1458b9c1e5600e9943f44d33f079f5467aaf0696c01d",
+      "lines": 443,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          443
+        ]
+      ]
+    },
+    {
+      "file": "source/ch13.txt",
+      "sha256": "006110fe292b35f89bfaed93ded9c9ffb54b8648d9fdc78cade97525a678bf82",
+      "lines": 784,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          530
+        ],
+        [
+          531,
+          784
+        ]
+      ]
+    },
+    {
+      "file": "source/ch14.txt",
+      "sha256": "8ea4d0548ba1c044496f9fce99fcf5152b859966c0c971beb5c45f620a1e70cc",
+      "lines": 1279,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          510
+        ],
+        [
+          511,
+          770
+        ],
+        [
+          771,
+          1030
+        ],
+        [
+          1031,
+          1279
+        ]
+      ]
+    },
+    {
+      "file": "source/ch15.txt",
+      "sha256": "7692be1950893bb3a4299ca84bdec47a46b87f7af13cfd17225565a444ed658a",
+      "lines": 579,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          579
+        ]
+      ]
+    },
+    {
+      "file": "source/ch16.txt",
+      "sha256": "c348c5f49391139423f3309757d7039b974151922353d1b82f4d514f02a00f11",
+      "lines": 538,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          538
+        ]
+      ]
+    },
+    {
+      "file": "source/ch17.txt",
+      "sha256": "d21ffc6a9a387864574eac6f87b75be67cffe4c6d18597a12f9bb7f011ef88f6",
+      "lines": 837,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          540
+        ],
+        [
+          541,
+          837
+        ]
+      ]
+    },
+    {
+      "file": "source/ch18.txt",
+      "sha256": "9b6e152ef4e92f201357e19ff7b842ec5dcffa836ae26525e481026b3eecb59d",
+      "lines": 570,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          570
+        ]
+      ]
+    },
+    {
+      "file": "source/ch19.txt",
+      "sha256": "04d6a7b2d5933080fca1f34283dff4f6c26e4051eec63dfdd2fbdee7a500f927",
+      "lines": 477,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          477
+        ]
+      ]
+    },
+    {
+      "file": "source/ch20.txt",
+      "sha256": "28c706619d2de231fdaea09b016bf3686f2284b3f520e2956b1ebdd3a231b402",
+      "lines": 631,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          631
+        ]
+      ]
+    },
+    {
+      "file": "source/ch21.txt",
+      "sha256": "101f7181c0117eec1a9b45418d46be9a966832718fdc7a5f50b692853a9bac01",
+      "lines": 456,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          456
+        ]
+      ]
+    },
+    {
+      "file": "source/ch22.txt",
+      "sha256": "9b974bdb9c5e90544a1a9543b8c904ac065bad4a29835a656ae976eaca57602a",
+      "lines": 730,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          730
+        ]
+      ]
+    },
+    {
+      "file": "source/ch23.txt",
+      "sha256": "ead61a021ad3f2545a5e34e74505a3eb8cfa34d082730f65abb698e6b4aad663",
+      "lines": 582,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          582
+        ]
+      ]
+    },
+    {
+      "file": "source/ch24.txt",
+      "sha256": "7f7c6260149e6ad8af970b50549069a77bab1eb10a9dbd9b5d04be4fe190db63",
+      "lines": 356,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          356
+        ]
+      ]
+    },
+    {
+      "file": "source/ch25.txt",
+      "sha256": "943867458f0a37f24a3860c87e94c4359147e26f2beae9fbf7579c43fb8a22a8",
+      "lines": 518,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          518
+        ]
+      ]
+    },
+    {
+      "file": "source/ch26.txt",
+      "sha256": "f64b01d80599e8315b21bb2c9fd91ba4bdae54da196060be739057e443631483",
+      "lines": 489,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          489
+        ]
+      ]
+    },
+    {
+      "file": "source/ch27.txt",
+      "sha256": "942a2b9b11217c677b8a427b34f310d2df7fb05d4485c8078582b41736d3fd29",
+      "lines": 723,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          723
+        ]
+      ]
+    },
+    {
+      "file": "source/ch28.txt",
+      "sha256": "8748f023d11f823f71a2acad8680a94323a13c95c13c995d8aa4a5028ee2c92e",
+      "lines": 583,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          250
+        ],
+        [
+          251,
+          510
+        ],
+        [
+          511,
+          583
+        ]
+      ]
+    },
+    {
+      "file": "source/ch29.txt",
+      "sha256": "a3d5bfc5ac4209977a3f8117004237645e41bb06e0c1d80d4fc2f3c5ed33b019",
+      "lines": 1593,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          780
+        ],
+        [
+          781,
+          1040
+        ],
+        [
+          1041,
+          1300
+        ],
+        [
+          1301,
+          1593
+        ]
+      ]
+    },
+    {
+      "file": "source/ch30.txt",
+      "sha256": "9fb656b9b63b7f41e6a297caabb34936c536d544eba8678683ea582ec6b3de68",
+      "lines": 739,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          739
+        ]
+      ]
+    },
+    {
+      "file": "source/ch31.txt",
+      "sha256": "2bed594286900c41ad20da0664863f3b6af086205dcaaad39041e6c25b969085",
+      "lines": 273,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          273
+        ]
+      ]
+    },
+    {
+      "file": "source/appendix-A.txt",
+      "sha256": "c53f763e58473fb397c47f7aafecfd67749f8490805de5642c319e6647e40c56",
+      "lines": 143,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          143
+        ]
+      ]
+    },
+    {
+      "file": "source/appendix-B.txt",
+      "sha256": "65092b3a3e96ce94e1bb09fd4ee97e3a2c5c0dc2d655b368fa53a27490352438",
+      "lines": 586,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          255
+        ],
+        [
+          256,
+          515
+        ],
+        [
+          516,
+          586
+        ]
+      ]
+    },
+    {
+      "file": "source/appendix-C.txt",
+      "sha256": "3917c8f40c45b538c92b9a9874349073bd91e7e139b9062c0bc158d2b3beb639",
+      "lines": 302,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          240
+        ],
+        [
+          241,
+          302
+        ]
+      ]
+    },
+    {
+      "file": "source/appendix-D.txt",
+      "sha256": "5bc618cd6c7767568211731af5ff045452b38c0148f135a633fdf25f4a8002ba",
+      "lines": 208,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          208
+        ]
+      ]
+    },
+    {
+      "file": "source/bibliography.txt",
+      "sha256": "7103dca275c50e209d638ee92f9546315ae3dca3b8962444f974f640446ddb59",
+      "lines": 433,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          240
+        ],
+        [
+          241,
+          433
+        ]
+      ]
+    },
+    {
+      "file": "source/index.txt",
+      "sha256": "1827bd5129e1215590552f312d283386350694bb5fdf7cea0a532c5624b5f96c",
+      "lines": 419,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          220
+        ],
+        [
+          221,
+          419
+        ]
+      ]
+    },
+    {
+      "file": "source/front.txt",
+      "sha256": "9f7c48619f3efcb40323d44676e6496bf252578cf31171b48d395a69e0dbd2bd",
+      "lines": 634,
+      "actual_read_blocks_local_lines": [
+        [
+          1,
+          260
+        ],
+        [
+          261,
+          520
+        ],
+        [
+          521,
+          634
+        ]
+      ]
+    }
+  ],
+  "all_dossier_records": [
+    {
+      "file": "ch01.md",
+      "original_sha256": "a2356d5b02f919cf1f83b46bd76007dca2745d348e5d82f53a1a4a091c8a67a8",
+      "original_body_han": 2731,
+      "candidate_body_han": 2742
+    },
+    {
+      "file": "ch02.md",
+      "original_sha256": "e14f8997237a1dcda7eedbcdc9aa0b9713d4c1f4c1a2c8bfaad5be88a2d30da1",
+      "original_body_han": 2610,
+      "candidate_body_han": 2610
+    },
+    {
+      "file": "ch03.md",
+      "original_sha256": "e189e7ad91d46114308bf36ff4b245e0ca433c98b8f9ca52b5cc7913db21356a",
+      "original_body_han": 2435,
+      "candidate_body_han": 2435
+    },
+    {
+      "file": "ch04.md",
+      "original_sha256": "634d70a6c9420f969678f806aea7eccaeb24b253580f494efff627d2f631f898",
+      "original_body_han": 2382,
+      "candidate_body_han": 2382
+    },
+    {
+      "file": "ch05.md",
+      "original_sha256": "72efb1197e3be44174909d22e3e71448572160277714c52b52d0acca853cf551",
+      "original_body_han": 2552,
+      "candidate_body_han": 2552
+    },
+    {
+      "file": "ch06.md",
+      "original_sha256": "f33f8f1de4287a1e32cf7e080696ce509ed0436fa690dd462c973467228a259f",
+      "original_body_han": 2930,
+      "candidate_body_han": 2930
+    },
+    {
+      "file": "ch07.md",
+      "original_sha256": "2e1c977027445a6e099d1d95a5fa08c07244842b962a1e38eead519a642304f2",
+      "original_body_han": 2465,
+      "candidate_body_han": 2465
+    },
+    {
+      "file": "ch08.md",
+      "original_sha256": "db5da5679237dae60837e66c2218068333d1915f3e921e12f8c800dbd903498a",
+      "original_body_han": 2774,
+      "candidate_body_han": 2774
+    },
+    {
+      "file": "ch09.md",
+      "original_sha256": "012934f25a64a6df03340a7ea8458fad8b7038b1b53a8d0f0d3e6beb60e3dc2a",
+      "original_body_han": 2605,
+      "candidate_body_han": 2605
+    },
+    {
+      "file": "ch10.md",
+      "original_sha256": "c7faa997c3474e79e9d99df976ee83fce9752459d926b9ffb68b340d7667a78b",
+      "original_body_han": 2744,
+      "candidate_body_han": 2744
+    },
+    {
+      "file": "ch11.md",
+      "original_sha256": "3fd2445a3d6a97dd401d444f556ea2e4f730a27fc93e4df2ff769cb501f01546",
+      "original_body_han": 3528,
+      "candidate_body_han": 3530
+    },
+    {
+      "file": "ch12.md",
+      "original_sha256": "d704e721227c59bf626fdf828fc66dd31d02e396fdbcd05fb7444e08e475aeb0",
+      "original_body_han": 2599,
+      "candidate_body_han": 2599
+    },
+    {
+      "file": "ch13.md",
+      "original_sha256": "dd3df02f21539792651bdcc8971943906a6c426d864bad73aff90d895c2b6adb",
+      "original_body_han": 2798,
+      "candidate_body_han": 2798
+    },
+    {
+      "file": "ch14.md",
+      "original_sha256": "4e1dd0bb6b64b3fcb51bc83f535ae1997c964656a0a8206673dd297cd4305216",
+      "original_body_han": 3039,
+      "candidate_body_han": 3039
+    },
+    {
+      "file": "ch15.md",
+      "original_sha256": "7fa4ce6b1c5e75a220f476279b0e0cb53ef0c6b04267912552cc27b72d03e026",
+      "original_body_han": 2890,
+      "candidate_body_han": 2890
+    },
+    {
+      "file": "ch16.md",
+      "original_sha256": "1d0116be3065a7d8e86ba16b3ab734b16d204168fdcaa9c6512b9996960a9726",
+      "original_body_han": 2821,
+      "candidate_body_han": 2821
+    },
+    {
+      "file": "ch17.md",
+      "original_sha256": "a0274a11f6f1013e726a8fa593ee360c75a41506c49b74479cbd9b56bf69d99b",
+      "original_body_han": 2696,
+      "candidate_body_han": 2696
+    },
+    {
+      "file": "ch18.md",
+      "original_sha256": "a12663640b629bb63e6242e52161fd0f8c1f20a2ddddbf0871a524f08249a877",
+      "original_body_han": 2797,
+      "candidate_body_han": 2797
+    },
+    {
+      "file": "ch19.md",
+      "original_sha256": "0ddc4fd7ec8d339d225bdb34893693cf7bb0fab5652534925a36f9b414d2c423",
+      "original_body_han": 2745,
+      "candidate_body_han": 2745
+    },
+    {
+      "file": "ch20.md",
+      "original_sha256": "bcb87ff0e292b4f441e33d478439a131b8d3cf41efed84fabae68abf3ecc9a60",
+      "original_body_han": 2751,
+      "candidate_body_han": 2751
+    },
+    {
+      "file": "ch21.md",
+      "original_sha256": "0e347675087f6abe2239064f19f73e28b193ed7e3b3e31f0efb77000e7d33499",
+      "original_body_han": 2699,
+      "candidate_body_han": 2699
+    },
+    {
+      "file": "ch22.md",
+      "original_sha256": "ab007cfc2d5b79d5223e1bd8f256303b94e928046065f4386544579516e0c933",
+      "original_body_han": 2657,
+      "candidate_body_han": 2657
+    },
+    {
+      "file": "ch23.md",
+      "original_sha256": "22052218a6d436eecc4e11c3058a950439e35f43a9db7406a6ff0b8900c5f869",
+      "original_body_han": 2752,
+      "candidate_body_han": 2752
+    },
+    {
+      "file": "ch24.md",
+      "original_sha256": "e173f5776a8a0a95b9cf898d8de9d47d8bdeefc500f26e73642386782fbaf3b6",
+      "original_body_han": 2579,
+      "candidate_body_han": 2579
+    },
+    {
+      "file": "ch25.md",
+      "original_sha256": "4ee7403f560e34f9def8dbab50a2a0c091ce2e695ad51195f6d92c34f03b583e",
+      "original_body_han": 2760,
+      "candidate_body_han": 2760
+    },
+    {
+      "file": "ch26.md",
+      "original_sha256": "bf49e5e1168648dce800ccff98327b9c64746812d77246dcec5c9cc9cb11a793",
+      "original_body_han": 2759,
+      "candidate_body_han": 2759
+    },
+    {
+      "file": "ch27.md",
+      "original_sha256": "3a0d210d49d08665e10896b2b67d9030b0a0738aa99cc0fff862287d28137496",
+      "original_body_han": 2648,
+      "candidate_body_han": 2648
+    },
+    {
+      "file": "ch28.md",
+      "original_sha256": "7c6aa4bc1388290a91869c02b8558fd212c0a706db04783832e3e24f6edf05df",
+      "original_body_han": 2716,
+      "candidate_body_han": 2716
+    },
+    {
+      "file": "ch29.md",
+      "original_sha256": "2276442bea918ea4de1619b5542e2a09b205c34f4c0b31ec6080f57782231ebe",
+      "original_body_han": 4326,
+      "candidate_body_han": 4324
+    },
+    {
+      "file": "ch30.md",
+      "original_sha256": "04ee1be6ebfcffd3a5f31d94671cd7437c6af0508903d6c951d62d7eaf22e5e9",
+      "original_body_han": 3368,
+      "candidate_body_han": 3368
+    },
+    {
+      "file": "ch31.md",
+      "original_sha256": "f4a6bd10d7afb51d163df08cd4061a61e8bd7af13365c3702b22cd0b1e94372c",
+      "original_body_han": 2370,
+      "candidate_body_han": 2370
+    }
+  ],
+  "original_body_han_total": 86526,
+  "candidate_body_han_total": 86537,
+  "candidate_min_chapter_han": 2370,
+  "count_policy": "U4E00–9FFF only inside正文markers; headings and（原文...）locators excluded; synthesis/prompts/TOC not included.",
+  "selected_original_PDF_pages_actually_visually_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    20,
+    24,
+    31,
+    42,
+    43,
+    47,
+    58,
+    60,
+    70,
+    73,
+    74,
+    76,
+    77,
+    86,
+    93,
+    95,
+    99,
+    152,
+    168,
+    208,
+    228,
+    232,
+    234,
+    235,
+    238,
+    239,
+    249,
+    250,
+    254,
+    264,
+    265,
+    303,
+    309,
+    317,
+    343,
+    352,
+    358,
+    363,
+    364,
+    374,
+    377,
+    386,
+    390,
+    403,
+    413,
+    417,
+    418,
+    426,
+    430,
+    439,
+    440,
+    450,
+    455,
+    458,
+    460,
+    474,
+    480,
+    481,
+    490,
+    497,
+    498,
+    499,
+    500
+  ],
+  "lowOCR_pages_classification": {
+    "all13_low_OCR_pages_actually_classified_from_montage": true,
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      403,
+      458,
+      490,
+      497,
+      498,
+      499,
+      500
+    ],
+    "content403_entire_rotated_table_independent_review": true,
+    "copyright8_dedicated_highresolution_pending": false,
+    "all_scan_glyphs_reviewed": false,
+    "copyright8_actual_text": "COPYRIGHT1895,1902 BYHORACEWHITE ALLRIGHTSRESERVED 44.7"
+  },
+  "major_image_supplements_actually_read": {
+    "70_74": "Wholegoldtablesandomittednarrative",
+    "168": "Wholechartandbottomparagraph/footnote",
+    "264_265": "All61memberfour-amountcolumns",
+    "403": "Whole14resource15liabilitytable",
+    "430": "WholeGerman12rowtableandmetallicreservefootnote"
+  },
+  "independent_numeric_recheck_files": [
+    "work/book-experts-v5/index_team/peer-QA/P20-ch02-independent-numeric.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch05-independent-numeric.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch14-independent-numeric.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch16-independent-numeric.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch17-independent-table.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch28-independent-table.json",
+    "work/book-experts-v5/index_team/peer-QA/P20-ch29-independent-tables.json"
+  ],
+  "selected_foreign_balance_tables": {
+    "England_issue": 52876780,
+    "England_banking_assets": 74806588,
+    "England_banking_liabilities": 74803588,
+    "difference_GBP": -3000,
+    "Scotland_thousandGBP": 137687,
+    "France_thousandFRF": 5185811,
+    "Germany_thousandDEM": 1996491
+  },
+  "necessary_corrections": [
+    {
+      "id": "P20-QA-C01",
+      "classification": "minor_chapter_beaver_unit_wording",
+      "file": "ch01.md",
+      "old_exact": "九百六十粒对白皮一张",
+      "new_exact": "九百六十粒白珠对海狸皮一张",
+      "source": "ch01local335–346:6whitebeads/stiver*20stivers/florin*8florins/beaverskin=960whitebeads/beaverskin;notwhitepelt"
+    },
+    {
+      "id": "P20-QA-C02",
+      "classification": "material_fraction_misread_generated_false_original_conflict",
+      "original_pdf": 24,
+      "printed_page": 4,
+      "actual_fraction": "1½d in1645;1d in1665",
+      "incorrect_draft": "1645half penny plus purportedmincontradictionpaper11summary",
+      "required": "Correct1645 tooneandhalfpenny;removefalse sourcecontradictionin chapter/rulesboundary/source-review/audit/synthesis;preserveoldwrongreviewassnapshotonly;rawOCRunchanged",
+      "independent_evidence_image": "index_team/peer-QA/P20-scan/pdf024-tobacco-fraction-crop.png",
+      "complete_page_reviewed": true,
+      "raw_OCR_gap": "localline197OCRlostleading1andfractionstructure;do not useOCRbackedfalseclaim",
+      "rationale": "Originalpaper11range3s6dto1d includesactualpaper4oneandhalf1645 andone1665; no halfpennyminimumproblem;truepaper10monetary+otherdemand vsrecap15nonmonetaryemphasis remains separate validnuance."
+    },
+    {
+      "id": "P20-QA-C03",
+      "classification": "material_rule_conference_withdrawal_not_union_exit",
+      "rule_id": "P20-R14",
+      "field": "author_meaning",
+      "old_exact": "作者认为联盟未实现预期并强烈批评结果，叙述退盟、重入和最后处理。",
+      "new_exact": "作者认为联盟未实现预期并强烈批评结果，叙述比利时退出会议但未正式退出同盟、后来承认赎回责任以及实际兑付延后。",
+      "evidence": "originalprinted84–86/PDF104–106/ch07 source360–439;draftalreadycorrect;noextraallTreatyverification"
+    },
+    {
+      "id": "P20-QA-C04",
+      "classification": "material_author_revision_wrong_subject",
+      "rule_id": "P20-R21",
+      "fields": {
+        "title": {
+          "old": "法偿必要性是作者有修订的判断",
+          "new": "停兑原因修订与法偿必要性争论"
+        },
+        "author_meaning": {
+          "old": "作者梳理战前券及战时法案，并表示对法偿券必要性旧看法有所改变。",
+          "new": "作者区分战前国库券与战时法偿券，并修订初版将银行停兑过多归因于蔡斯抽走黄金的解释；是否需要法偿券另有争论。"
+        }
+      },
+      "actual_evidence": "ch11 lines82–171/printed132–133; actual original PDF152 footnote; necessity discussion145–146 separate from causal revision",
+      "original_image": "index_team/peer-QA/P20-scan/pdf152-revision.png"
+    },
+    {
+      "id": "P20-QA-C05",
+      "classification": "material_draft_unit_omission_in_net_clearing_arithmetic",
+      "file": "ch11.md",
+      "old_exact": "某人买一百万、卖九十九万，最后只收一千金",
+      "new_exact": "某人买一百万、卖九十九万九千，最后只收一千金",
+      "evidence": "ch11 lines935–954/printed150/PDF170: buy1000000,sell999000,net1000; not990000"
+    },
+    {
+      "id": "P20-QA-C06",
+      "classification": "author_field_cross_chapter_qualification_must_be_separate",
+      "rule_id": "P20-R68",
+      "old_exact": "作者认可中心节省准备而认为立即引入不实际；建议暂存意外财政余款，最终限制政府货币职能。",
+      "new_exact": "作者认可中心节省准备而认为立即引入不实际；建议将财政固定工作余额外的款项存入储备城市银行，最终限制政府货币职能。",
+      "boundary_old": "优先权不制造资产，规范黄金偏好非永久购买力不变；囤余款与暂存意外盈余不同。",
+      "boundary_new": "结论纸436是工作余额外款项寄存建议；附录D纸462另反故意囤盈并要求意外盈余还债，两段并读后的限定不冒充结论原句。优先权不制造资产，黄金偏好非永久购买力不变。",
+      "evidence": "Complete conclusion source/ch31.txt195–272/printed436–437 and AppendixD183–208/printed462. Conclusion says beyondworkingbalance; accidental surplus promptlydebtretirement appears inD. Preserve conditional policy tension, do not insertaccidental intoauthor conclusion or assertautomatic harmony."
+    },
+    {
+      "id": "P20-QA-C07",
+      "classification": "minor_numeric_instrument_wording",
+      "file": "ch29.md",
+      "old_exact": "银塔勒或三马克券类硬币",
+      "new_exact": "银塔勒或三马克银币",
+      "evidence": "OriginalfullPDF430/printed410footnote: silverthalersorthree-markpieces; silvercoins not certificates."
+    },
+    {
+      "id": "P20-QA-C08",
+      "classification": "all_rule_scope_evidence_requires_precise_locator_plus_unabridged_context",
+      "rules": 74,
+      "locator_fragments": 217,
+      "complete_contexts": 74,
+      "required": "Keep original chapter_scope_evidence unmodified; active precise lines/bytes/Unicode/SHA with complete unchangedcontext+image-derived gaps. Fragments never described as independently complete natural paragraphs. Root copies relative sources/evidence paths and preserves candidate provenance."
+    }
+  ],
+  "precise_anchor_file": "P20-exact-anchor-candidate.json",
+  "locator_count": 217,
+  "complete_context_count": 74,
+  "anchor_unit": "Selected layout locator fragments, not guaranteed individually complete natural paragraphs;74 full original-section contexts preserve omitted neighboring lines and notes.",
+  "all_required_author_claims_compared_with_full_context_not_hashonly": true,
+  "candidate_files": {
+    "expert": "P20-expert-precise-candidate.json",
+    "corrections": "P20-required-corrections-candidate.json",
+    "text_and_review": "P20-candidates/",
+    "complete_context": "P20-unabridged-rule-contexts/"
+  },
+  "source_limits": [
+    "500页每个字形未全量校勘",
+    "图线未逐像素数字化",
+    "原法令、完整史料底账及引用书目未全部外核",
+    "真实原数/日期差保留，所造烟草假冲突必须撤回",
+    "补读文本/CSV的哈希不是原扫描逐字保证",
+    "历史规范评价、引述与现代挑战分层，未校准投资预测"
+  ],
+  "preserved_real_original_differences": [
+    "paper53/56productiontotalsandtwiceclaim",
+    "Japan1897/1898",
+    "paper188margin1890/main1900",
+    "1878Feb28/Feb12",
+    "paper23049500/paper23444520",
+    "IndianaIIIinstallmentcomponents",
+    "Smith1846/1845",
+    "Englandbankingliabilities£3000short",
+    "Canada6%/5% and34/35",
+    "1882–1902/1904growthendpoints",
+    "countryreserveorderingdenominator"
+  ],
+  "mechanical_checks_passed": true,
+  "mechanical_check_count": 1664,
+  "checks": [
+    {
+      "name": "reviewed_expert_snapshot_unchanged",
+      "passed": true
+    },
+    {
+      "name": "reviewed_audit_snapshot_unchanged",
+      "passed": true
+    },
+    {
+      "name": "originalPDF_unchanged",
+      "passed": true
+    },
+    {
+      "name": "original_full_OCR_unchanged",
+      "passed": true
+    },
+    {
+      "name": "all31_actual_read_records",
+      "passed": true
+    },
+    {
+      "name": "ch01_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch01_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch01_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch01_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch02_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch02_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch02_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch02_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch03_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch03_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch03_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch03_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch04_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch04_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch04_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch04_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch05_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch05_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch05_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch05_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch06_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch06_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch06_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch06_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch07_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch07_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch07_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch07_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch08_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch08_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch08_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch08_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch09_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch09_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch09_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch09_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch10_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch10_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch10_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch10_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch11_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch11_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch11_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch11_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch12_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch12_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch12_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch12_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch13_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch13_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch13_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch13_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch14_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch14_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch14_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch14_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch15_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch15_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch15_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch15_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch16_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch16_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch16_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch16_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch17_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch17_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch17_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch17_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch18_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch18_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch18_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch18_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch19_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch19_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch19_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch19_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch20_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch20_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch20_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch20_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch21_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch21_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch21_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch21_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch22_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch22_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch22_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch22_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch23_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch23_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch23_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch23_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch24_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch24_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch24_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch24_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch25_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch25_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch25_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch25_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch26_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch26_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch26_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch26_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch27_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch27_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch27_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch27_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch28_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch28_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch28_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch28_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch29_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch29_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch29_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch29_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch30_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch30_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch30_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch30_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "ch31_actual_record_alllines_contiguous_no_overlap",
+      "passed": true
+    },
+    {
+      "name": "ch31_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch31_dossier_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "ch31_full_dossier_and_source_not_sample",
+      "passed": true
+    },
+    {
+      "name": "appendix-A_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "appendix-A_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "appendix-B_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "appendix-B_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "appendix-C_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "appendix-C_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "appendix-D_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "appendix-D_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "bibliography_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "bibliography_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "index_full_actual_read_blocks",
+      "passed": true
+    },
+    {
+      "name": "index_source_hash_unchanged",
+      "passed": true
+    },
+    {
+      "name": "front634lines_actual_contiguous_read",
+      "passed": true
+    },
+    {
+      "name": "all13_lowOCR_actual_visual_classification",
+      "passed": true
+    },
+    {
+      "name": "copyright8_fully_read_at_dedicated_resolution",
+      "passed": true
+    },
+    {
+      "name": "all500_original_page_ledger_hashes",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R01-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R02-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E06_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R03-E07_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R04-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R05-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R06-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R07-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R08-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R09-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R10-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R11-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R12-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R13-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R14-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R15-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R16-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R17-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R18-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R19-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R20-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R21-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R22-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R23-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R24-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R25-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R26-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R27-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R28-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R29-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R30-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R31-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R32-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R33-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R34-E05_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R35-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R36-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R37-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R38-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R39-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R40-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R41-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R42-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R43-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R44-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R45-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R46-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R47-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R48-E04_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R49-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R50-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R51-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R52-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R53-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R54-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R55-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R56-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R57-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R58-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R59-E03_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R60-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R61-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R62-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R63-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R64-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R65-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R66-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R67-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R68-E02_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R69-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R70-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R71-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R72-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R73-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_source_and_segment_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_rawbytes_and_unicode_coordinates",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_exact_excerpt_unmodified",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_page_coordinate_and_ids",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_not_false_complete_paragraph_claim",
+      "passed": true
+    },
+    {
+      "name": "P20-R74-E01_complete_context_link",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R01_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R02_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R03_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R04_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R05_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R06_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R07_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R08_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R09_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R10_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R11_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R12_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R13_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R14_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R15_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R16_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R17_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R18_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R19_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R20_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R21_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R22_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R23_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R24_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R25_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R26_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R27_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R28_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R29_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R30_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R31_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R32_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R33_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R34_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R35_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R36_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R37_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R38_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R39_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R40_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R41_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R42_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R43_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R44_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R45_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R46_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R47_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R48_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R49_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R50_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R51_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R52_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R53_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R54_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R55_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R56_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R57_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R58_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R59_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R60_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R61_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R62_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R63_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section3_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section4_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section5_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section6_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R64_context_section7_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R65_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R66_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R67_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R68_context_section2_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R69_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R70_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R71_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R72_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R73_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_complete_context_hash",
+      "passed": true
+    },
+    {
+      "name": "P20-R74_context_section1_all_source_bytes_unchanged",
+      "passed": true
+    },
+    {
+      "name": "all74_rules_have217precise_locators_and74complete_contexts",
+      "passed": true
+    },
+    {
+      "name": "all_original_scope_metadata_preserved",
+      "passed": true
+    },
+    {
+      "name": "no_execution_or_probability_claim",
+      "passed": true
+    },
+    {
+      "name": "no_all_glyph_claim",
+      "passed": true
+    },
+    {
+      "name": "candidate_all_original_chapters_above2000_and_book20000",
+      "passed": true
+    },
+    {
+      "name": "original_and_candidate_precise_counts",
+      "passed": true
+    }
+  ],
+  "mechanical_check_is_not_another_semantic_read": true,
+  "canonical_not_modified": true,
+  "current_stock_decision_enabled": false,
+  "backtest_executed": false,
+  "predictive_probability_calibrated": false,
+  "completed_utc": "2026-10-13T13:41:58.127129+00:00"
+}

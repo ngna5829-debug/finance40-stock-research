@@ -1,0 +1,306 @@
+{
+  "book_id": "P20",
+  "status": "complete_semantic_review_required_corrections_not_merged_not_passed",
+  "findings": [
+    {
+      "id": "P20-QA-C01",
+      "classification": "minor_chapter_beaver_unit_wording",
+      "file": "ch01.md",
+      "old_exact": "九百六十粒对白皮一张",
+      "new_exact": "九百六十粒白珠对海狸皮一张",
+      "source": "ch01local335–346:6whitebeads/stiver*20stivers/florin*8florins/beaverskin=960whitebeads/beaverskin;notwhitepelt"
+    },
+    {
+      "id": "P20-QA-C02",
+      "classification": "material_fraction_misread_generated_false_original_conflict",
+      "original_pdf": 24,
+      "printed_page": 4,
+      "actual_fraction": "1½d in1645;1d in1665",
+      "incorrect_draft": "1645half penny plus purportedmincontradictionpaper11summary",
+      "required": "Correct1645 tooneandhalfpenny;removefalse sourcecontradictionin chapter/rulesboundary/source-review/audit/synthesis;preserveoldwrongreviewassnapshotonly;rawOCRunchanged",
+      "independent_evidence_image": "index_team/peer-QA/P20-scan/pdf024-tobacco-fraction-crop.png",
+      "complete_page_reviewed": true,
+      "raw_OCR_gap": "localline197OCRlostleading1andfractionstructure;do not useOCRbackedfalseclaim",
+      "rationale": "Originalpaper11range3s6dto1d includesactualpaper4oneandhalf1645 andone1665; no halfpennyminimumproblem;truepaper10monetary+otherdemand vsrecap15nonmonetaryemphasis remains separate validnuance."
+    },
+    {
+      "id": "P20-QA-C03",
+      "classification": "material_rule_conference_withdrawal_not_union_exit",
+      "rule_id": "P20-R14",
+      "field": "author_meaning",
+      "old_exact": "作者认为联盟未实现预期并强烈批评结果，叙述退盟、重入和最后处理。",
+      "new_exact": "作者认为联盟未实现预期并强烈批评结果，叙述比利时退出会议但未正式退出同盟、后来承认赎回责任以及实际兑付延后。",
+      "evidence": "originalprinted84–86/PDF104–106/ch07 source360–439;draftalreadycorrect;noextraallTreatyverification"
+    },
+    {
+      "id": "P20-QA-C04",
+      "classification": "material_author_revision_wrong_subject",
+      "rule_id": "P20-R21",
+      "fields": {
+        "title": {
+          "old": "法偿必要性是作者有修订的判断",
+          "new": "停兑原因修订与法偿必要性争论"
+        },
+        "author_meaning": {
+          "old": "作者梳理战前券及战时法案，并表示对法偿券必要性旧看法有所改变。",
+          "new": "作者区分战前国库券与战时法偿券，并修订初版将银行停兑过多归因于蔡斯抽走黄金的解释；是否需要法偿券另有争论。"
+        }
+      },
+      "actual_evidence": "ch11 lines82–171/printed132–133; actual original PDF152 footnote; necessity discussion145–146 separate from causal revision",
+      "original_image": "index_team/peer-QA/P20-scan/pdf152-revision.png"
+    },
+    {
+      "id": "P20-QA-C05",
+      "classification": "material_draft_unit_omission_in_net_clearing_arithmetic",
+      "file": "ch11.md",
+      "old_exact": "某人买一百万、卖九十九万，最后只收一千金",
+      "new_exact": "某人买一百万、卖九十九万九千，最后只收一千金",
+      "evidence": "ch11 lines935–954/printed150/PDF170: buy1000000,sell999000,net1000; not990000"
+    },
+    {
+      "id": "P20-QA-C06",
+      "classification": "author_field_cross_chapter_qualification_must_be_separate",
+      "rule_id": "P20-R68",
+      "old_exact": "作者认可中心节省准备而认为立即引入不实际；建议暂存意外财政余款，最终限制政府货币职能。",
+      "new_exact": "作者认可中心节省准备而认为立即引入不实际；建议将财政固定工作余额外的款项存入储备城市银行，最终限制政府货币职能。",
+      "boundary_old": "优先权不制造资产，规范黄金偏好非永久购买力不变；囤余款与暂存意外盈余不同。",
+      "boundary_new": "结论纸436是工作余额外款项寄存建议；附录D纸462另反故意囤盈并要求意外盈余还债，两段并读后的限定不冒充结论原句。优先权不制造资产，黄金偏好非永久购买力不变。",
+      "evidence": "Complete conclusion source/ch31.txt195–272/printed436–437 and AppendixD183–208/printed462. Conclusion says beyondworkingbalance; accidental surplus promptlydebtretirement appears inD. Preserve conditional policy tension, do not insertaccidental intoauthor conclusion or assertautomatic harmony."
+    },
+    {
+      "id": "P20-QA-C07",
+      "classification": "minor_numeric_instrument_wording",
+      "file": "ch29.md",
+      "old_exact": "银塔勒或三马克券类硬币",
+      "new_exact": "银塔勒或三马克银币",
+      "evidence": "OriginalfullPDF430/printed410footnote: silverthalersorthree-markpieces; silvercoins not certificates."
+    },
+    {
+      "id": "P20-QA-C08",
+      "classification": "all_rule_scope_evidence_requires_precise_locator_plus_unabridged_context",
+      "rules": 74,
+      "locator_fragments": 217,
+      "complete_contexts": 74,
+      "required": "Keep original chapter_scope_evidence unmodified; active precise lines/bytes/Unicode/SHA with complete unchangedcontext+image-derived gaps. Fragments never described as independently complete natural paragraphs. Root copies relative sources/evidence paths and preserves candidate provenance."
+    }
+  ],
+  "rule_field_patches": [
+    {
+      "rule_id": "P20-R02",
+      "field": "application_boundary",
+      "old_exact": "这些是作者属性论，不是给任何现代资产计算出来的稳定分数；原烟草范围差保留。",
+      "new_exact": "这些是作者属性论，不是给任何现代资产计算出来的稳定分数；1645烟草价经原图核为1½d，旧半便士及所造最低范围冲突撤回，原OCR保留。"
+    },
+    {
+      "rule_id": "P20-R02",
+      "field": "independent_analysis",
+      "old_exact": "这些是作者属性论，不是给任何现代资产计算出来的稳定分数；原烟草范围差保留。",
+      "new_exact": "这些是作者属性论，不是给任何现代资产计算出来的稳定分数；1645烟草价经原图核为1½d，旧半便士及所造最低范围冲突撤回，原OCR保留。"
+    },
+    {
+      "rule_id": "P20-R14",
+      "field": "author_meaning",
+      "old_exact": "作者认为联盟未实现预期并强烈批评结果，叙述退盟、重入和最后处理。",
+      "new_exact": "作者认为联盟未实现预期并强烈批评结果，叙述比利时退出会议但未正式退出同盟、后来承认赎回责任以及实际兑付延后。"
+    },
+    {
+      "rule_id": "P20-R21",
+      "field": "title",
+      "old_exact": "法偿必要性是作者有修订的判断",
+      "new_exact": "停兑原因修订与法偿必要性争论"
+    },
+    {
+      "rule_id": "P20-R21",
+      "field": "author_meaning",
+      "old_exact": "作者梳理战前券及战时法案，并表示对法偿券必要性旧看法有所改变。",
+      "new_exact": "作者区分战前国库券与战时法偿券，并修订初版将银行停兑过多归因于蔡斯抽走黄金的解释；是否需要法偿券另有争论。"
+    },
+    {
+      "rule_id": "P20-R68",
+      "field": "author_meaning",
+      "old_exact": "作者认可中心节省准备而认为立即引入不实际；建议暂存意外财政余款，最终限制政府货币职能。",
+      "new_exact": "作者认可中心节省准备而认为立即引入不实际；建议将财政固定工作余额外的款项存入储备城市银行，最终限制政府货币职能。"
+    },
+    {
+      "rule_id": "P20-R68",
+      "field": "application_boundary",
+      "old_exact": "优先权不制造资产，规范黄金偏好非永久购买力不变；囤余款与暂存意外盈余不同。",
+      "new_exact": "结论纸436是工作余额外款项寄存建议；附录D纸462另反故意囤盈并要求意外盈余还债，两段并读后的限定不冒充结论原句。优先权不制造资产，黄金偏好非永久购买力不变。"
+    },
+    {
+      "rule_id": "P20-R68",
+      "field": "independent_analysis",
+      "old_exact": "优先权不制造资产，规范黄金偏好非永久购买力不变；囤余款与暂存意外盈余不同。",
+      "new_exact": "结论纸436是工作余额外款项寄存建议；附录D纸462另反故意囤盈并要求意外盈余还债，两段并读后的限定不冒充结论原句。优先权不制造资产，黄金偏好非永久购买力不变。"
+    }
+  ],
+  "expert_global_patches": [
+    {
+      "internal_tensions": [
+        "金币相对稳定仍可变购买力",
+        "政府券总体批评保留短期税收回收条件及战时观点变化",
+        "土地实验被压止，不能全计自然失败",
+        "政府股东北美战时例外与第一银行延期认股批评",
+        "良好章程与实际资本循环、后来修复不同阶段",
+        "互助清算未增加现金，仍有部分暂停",
+        "专项担保可提高最后安全却降低弹性，真实未专项资产亦有反例",
+        "私人所有权、国家控制、法偿和兑金可不同组合",
+        "作者当地流通偏好与附录Forgan反对区外强返并存",
+        "日常呈兑不等全部资产审计、过去小损失不保证新基金永不缺"
+      ],
+      "callable_system_prompt": "你是P20怀特《Money and Banking, Illustrated by American History》第二版续至1904单书研究专家，只用本档案74规则与已全读31原章、四附录及原页证。首先给对象、截止和原生期限，分作者原意、真实输入、独立计算和反证。分开金属价值/币面/法偿/接受、股本/现金/贷款信用/担保、日常兑付/最后清偿、流量/存量/净额、券/存款/股东顺位。不能把历史比例移现代硬门，不能以日线模拟银行内部资金流或政治动机。保留短期税收回收例外、战时必要性修订、土地实验被压止、政府参与的不同条件、清算互助未增加总现金、专项担保与弹性成本及优秀经营者不可无条件复制。附录B/C/D未通过条款不同，Forgan反区外强返必须作为实质挑战；正式责任限制不被作者经济解释删去。原数、日期和表格差分栏，过去损失小不校准未来概率。缺合同、真实资本、资产可售时点、兑现网络、顺位或法律版本便弃权相应强结论，现金和共同风险独立否决。接受其他书专家的完整证据修正范围，同作者同史料不得加独立票。按output_contract输出。本档案current_stock_decision_enabled=false，未接行情、未执行当前专家分析、未回测和校准，禁止给当前股票方向/胜率。"
+    },
+    {
+      "internal_tensions": [
+        "金币相对稳定仍可变购买力",
+        "政府券总体批评保留短期税收回收条件；作者修订战争时期停兑的原因归属，法偿必要性另有争论",
+        "土地实验被压止，不能全计自然失败",
+        "政府股东北美战时例外与第一银行延期认股批评",
+        "良好章程与实际资本循环、后来修复不同阶段",
+        "互助清算未增加现金，仍有部分暂停",
+        "专项担保可提高最后安全却降低弹性，真实未专项资产亦有反例",
+        "私人所有权、国家控制、法偿和兑金可不同组合",
+        "作者当地流通偏好与附录Forgan反对区外强返并存",
+        "日常呈兑不等全部资产审计、过去小损失不保证新基金永不缺"
+      ],
+      "callable_system_prompt": "你是P20怀特《Money and Banking, Illustrated by American History》第二版续至1904单书研究专家，只用本档案74规则与已全读31原章、四附录及原页证。首先给对象、截止和原生期限，分作者原意、真实输入、独立计算和反证。分开金属价值/币面/法偿/接受、股本/现金/贷款信用/担保、日常兑付/最后清偿、流量/存量/净额、券/存款/股东顺位。不能把历史比例移现代硬门，不能以日线模拟银行内部资金流或政治动机。保留短期税收回收例外、战争时期停兑原因修订与法偿必要性争论、土地实验被压止、政府参与的不同条件、清算互助未增加总现金、专项担保与弹性成本及优秀经营者不可无条件复制。附录B/C/D未通过条款不同，Forgan反区外强返必须作为实质挑战；正式责任限制不被作者经济解释删去。原数、日期和表格差分栏，过去损失小不校准未来概率。缺合同、真实资本、资产可售时点、兑现网络、顺位或法律版本便弃权相应强结论，现金和共同风险独立否决。接受其他书专家的完整证据修正范围，同作者同史料不得加独立票。按output_contract输出。本档案current_stock_decision_enabled=false，未接行情、未执行当前专家分析、未回测和校准，禁止给当前股票方向/胜率。"
+    }
+  ],
+  "text_patches": [
+    {
+      "finding_id": "P20-QA-C01",
+      "file": "ch01.md",
+      "original_file_sha256": "a2356d5b02f919cf1f83b46bd76007dca2745d348e5d82f53a1a4a091c8a67a8",
+      "old_exact": "九百六十粒对白皮一张",
+      "new_exact": "九百六十粒白珠对海狸皮一张",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/ch01.md"
+    },
+    {
+      "finding_id": "P20-QA-C02",
+      "file": "ch01.md",
+      "original_file_sha256": "a2356d5b02f919cf1f83b46bd76007dca2745d348e5d82f53a1a4a091c8a67a8",
+      "old_exact": "原图纸四确认，一六二八年的每磅三先令六便士，后来变成六便士、三便士，一六四五年为半便士，一六六五年为一便士。纸十一却把一六一九至一七七五的范围概括为三先令六便士到一便士，没有包括前面写的半便士低值。这里保存原书范围与前例的张力，不将它悄悄统一成一个精确最低价，也不依这些孤立年份制作现代回报序列。供应增加、品质、政治强制和外需都可能参与价格，原书没有给可识别的独立因果权重。",
+      "new_exact": "原图纸四给出一六二八年的每磅三先令六便士，后来变成六便士、三便士，一六四五年为一又二分之一便士，一六六五年为一便士。纸十一将一六一九至一七七五的范围概括为三先令六便士到一便士，这组列明价格并无先前提炼所称的最低价冲突。本次撤回半便士误读及由此造成的假冲突，保留原扫描和识别文本，也不依孤立年份制作现代回报序列。供应增加、品质、政治强制和外需都可能参与价格，原书没有给可识别的独立因果权重。",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/ch01.md"
+    },
+    {
+      "finding_id": "P20-QA-C05",
+      "file": "ch11.md",
+      "original_file_sha256": "3fd2445a3d6a97dd401d444f556ea2e4f730a27fc93e4df2ff769cb501f01546",
+      "old_exact": "某人买一百万、卖九十九万，最后只收一千金",
+      "new_exact": "某人买一百万、卖九十九万九千，最后只收一千金",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/ch11.md"
+    },
+    {
+      "finding_id": "P20-QA-C07",
+      "file": "ch29.md",
+      "original_file_sha256": "2276442bea918ea4de1619b5542e2a09b205c34f4c0b31ec6080f57782231ebe",
+      "old_exact": "银塔勒或三马克券类硬币",
+      "new_exact": "银塔勒或三马克银币",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/ch29.md"
+    },
+    {
+      "finding_id": "P20-QA-C04",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "纸132作者对法偿券必要性说明其观点变化",
+      "new_exact": "纸132作者修订初版对银行停兑原因的解释，法偿必要性另有争论",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/全书综合与附录.md"
+    },
+    {
+      "finding_id": "P20-QA-C02",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "|纸3–5、11|烟草价格序列含早期半便士，后概述最低一便士，保留范围差；不是黄金永不变化的证据。|",
+      "new_exact": "|纸4、11|原图1645为1½d、1665为1d；旧提炼误读为半便士而制造的最低范围冲突撤回，原扫描与OCR不改。纸10联合需求与纸15回顾重心差别是另一项真实理论限定。|",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/全书综合与附录.md"
+    },
+    {
+      "finding_id": "P20-QA-C06",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "最后反故意积公共盈余存银行，与结论纸436暂存不可预先精确避免的意外盈余是不同情形，不能冒称无条件矛盾。",
+      "new_exact": "末尾反故意积公共盈余存银行，并要求不可预先精确避免的意外盈余及时还债；结论纸436建议工作余额外款项存行，两处政策用途存在待条件化的张力。意外盈余限定来自附录D，不冒充结论原句，也不把二者摊平成无条件一致或矛盾。",
+      "candidate_path": "work/book-experts-v5/index_team/peer-QA/P20-candidates/全书综合与附录.md"
+    }
+  ],
+  "numeric_review_candidate": "work/book-experts-v5/index_team/peer-QA/P20-candidates/ch01-numeric-and-internal-review.json",
+  "strict_counts_original": {
+    "1": 2731,
+    "2": 2610,
+    "3": 2435,
+    "4": 2382,
+    "5": 2552,
+    "6": 2930,
+    "7": 2465,
+    "8": 2774,
+    "9": 2605,
+    "10": 2744,
+    "11": 3528,
+    "12": 2599,
+    "13": 2798,
+    "14": 3039,
+    "15": 2890,
+    "16": 2821,
+    "17": 2696,
+    "18": 2797,
+    "19": 2745,
+    "20": 2751,
+    "21": 2699,
+    "22": 2657,
+    "23": 2752,
+    "24": 2579,
+    "25": 2760,
+    "26": 2759,
+    "27": 2648,
+    "28": 2716,
+    "29": 4326,
+    "30": 3368,
+    "31": 2370
+  },
+  "strict_counts_candidate": {
+    "1": 2742,
+    "2": 2610,
+    "3": 2435,
+    "4": 2382,
+    "5": 2552,
+    "6": 2930,
+    "7": 2465,
+    "8": 2774,
+    "9": 2605,
+    "10": 2744,
+    "11": 3530,
+    "12": 2599,
+    "13": 2798,
+    "14": 3039,
+    "15": 2890,
+    "16": 2821,
+    "17": 2696,
+    "18": 2797,
+    "19": 2745,
+    "20": 2751,
+    "21": 2699,
+    "22": 2657,
+    "23": 2752,
+    "24": 2579,
+    "25": 2760,
+    "26": 2759,
+    "27": 2648,
+    "28": 2716,
+    "29": 4324,
+    "30": 3368,
+    "31": 2370
+  },
+  "strict_total_original": 86526,
+  "strict_total_candidate": 86537,
+  "minimum_candidate": 2370,
+  "candidate_warning": "Canonical unchanged; required corrections and exact anchors need root merge and independent finalrecheck. Do not run old finalizer.",
+  "post_merge_metadata_requirements": [
+    "同步rules-data.json的title/author/boundary与候选专家四条字段，不增规则。",
+    "更新chapter_map及所有计数为候选严格86537，ch1=2742/ch11=3530/ch29=4324，min2370；其余28章正文不变；合成章节深读.md按实际小改重新组合，不能运行旧finalizer。",
+    "source-review/ch01旧错误文件保为snapshot，候选更正明确是提炼误读，原扫描/原OCR不覆盖。",
+    "217定位片段+74完整上下文复制书内source/evidence/unabridged与independent-review，原绝对/工作路径仅候选来源历史，active读者链接用书内相对路径。",
+    "全书综合、专家说明旧总数86526→86537，pending句只在必要更正合入并最终独核后更新；canonical现在不提前pass。",
+    "第31章头的附录尚待整合为该章写作阶段记录，可在正文外加整本附录现已全读的元数据说明，不能将其自动当漏读。"
+  ]
+}

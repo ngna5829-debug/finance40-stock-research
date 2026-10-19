@@ -1,0 +1,373 @@
+{
+  "book_id": "P19",
+  "chapter": 16,
+  "tables_visually_read_all_cells": true,
+  "printed_pages": [
+    262,
+    269
+  ],
+  "pdf_pages": [
+    274,
+    281
+  ],
+  "source_images": [
+    "pdf274.png",
+    "pdf281.png"
+  ],
+  "table1_rows": 7,
+  "table1_numeric_cells_including_missing": 28,
+  "table2_rows": 22,
+  "table2_numeric_cells_including_missing": 154,
+  "raw_scan_not_replaced": true,
+  "table1_units": "Multiplesofmetalpar, finalcolumnpercentagepremium, notannualrate or investmentreturn",
+  "table1_premium_selection_limit": "PrintedpremiumcloserFrenchcoinSeptember andforeigncoinOctober; bothindependentcalculationsretained, no imposeduniformchoice",
+  "table2_units": "Gold/silver andforeigncurrencyprice=par100; commodityindex1782base; ratiois Hamburgmetalweightvalueratio",
+  "table2_FX_direction": "Tablefootnote explains foreigncurrency premiums inEnglishmoney, reverseofheadlineFrperpound/bancoperpound quotations. Keepdirectionexplicit.",
+  "table2_missing_gold_averages": "Blankdash preserved; footnotepre1811sporadicnotreliablecalendaraverage; nointerpolation",
+  "all_displayed_specie_formula_differences_can_overlap_rounding_intervals": true,
+  "formula": "actual_prices/silver_par100*100; integeractual±.5,silver±.05,output±.05; overlapcompatibility isnot prooforiginalinputs accurate",
+  "formula_diagnostics": [
+    {
+      "year": 1797,
+      "computed_from_displayed": 107.21247563352827,
+      "printed": 107.2,
+      "difference": -0.012475633528268304,
+      "input_rounding_interval": [
+        106.673161227472,
+        107.75231594344223
+      ],
+      "output_rounding_interval": [
+        107.15,
+        107.25
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1798,
+      "computed_from_displayed": 117.88211788211788,
+      "printed": 117.9,
+      "difference": 0.017882117882123794,
+      "input_rounding_interval": [
+        117.32401397903148,
+        118.44077961019491
+      ],
+      "output_rounding_interval": [
+        117.85000000000001,
+        117.95
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1799,
+      "computed_from_displayed": 121.83692596063729,
+      "printed": 121.9,
+      "difference": 0.06307403936271783,
+      "input_rounding_interval": [
+        121.31147540983606,
+        122.36286919831223
+      ],
+      "output_rounding_interval": [
+        121.85000000000001,
+        121.95
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1800,
+      "computed_from_displayed": 124.22907488986785,
+      "printed": 124.3,
+      "difference": 0.0709251101321513,
+      "input_rounding_interval": [
+        123.73403786878028,
+        124.72454825914498
+      ],
+      "output_rounding_interval": [
+        124.25,
+        124.35
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1801,
+      "computed_from_displayed": 130.43478260869566,
+      "printed": 130.5,
+      "difference": 0.06521739130434412,
+      "input_rounding_interval": [
+        129.95313165743502,
+        130.91684434968016
+      ],
+      "output_rounding_interval": [
+        130.45,
+        130.55
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1802,
+      "computed_from_displayed": 104.66138962181178,
+      "printed": 104.8,
+      "difference": 0.13861037818821842,
+      "input_rounding_interval": [
+        104.17582417582419,
+        105.14738231412231
+      ],
+      "output_rounding_interval": [
+        104.75,
+        104.85
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1803,
+      "computed_from_displayed": 114.38784629133154,
+      "printed": 114.4,
+      "difference": 0.012153708668463992,
+      "input_rounding_interval": [
+        113.89012952210808,
+        114.88600804649083
+      ],
+      "output_rounding_interval": [
+        114.35000000000001,
+        114.45
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1804,
+      "computed_from_displayed": 112.65004616805172,
+      "printed": 112.7,
+      "difference": 0.04995383194828662,
+      "input_rounding_interval": [
+        112.13659437009692,
+        113.16397228637413
+      ],
+      "output_rounding_interval": [
+        112.65,
+        112.75
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1805,
+      "computed_from_displayed": 126.6294227188082,
+      "printed": 126.7,
+      "difference": 0.0705772811918024,
+      "input_rounding_interval": [
+        126.10516519311308,
+        127.15416860735908
+      ],
+      "output_rounding_interval": [
+        126.65,
+        126.75
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1806,
+      "computed_from_displayed": 120.36199095022624,
+      "printed": 120.4,
+      "difference": 0.038009049773762627,
+      "input_rounding_interval": [
+        119.85526910900046,
+        120.86917157084653
+      ],
+      "output_rounding_interval": [
+        120.35000000000001,
+        120.45
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1807,
+      "computed_from_displayed": 119.78221415607986,
+      "printed": 119.8,
+      "difference": 0.017785843920137268,
+      "input_rounding_interval": [
+        119.27437641723355,
+        120.29051293690422
+      ],
+      "output_rounding_interval": [
+        119.75,
+        119.85
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1808,
+      "computed_from_displayed": 139.12231559290385,
+      "printed": 139.2,
+      "difference": 0.0776844070961431,
+      "input_rounding_interval": [
+        138.59076061595894,
+        139.65436711816906
+      ],
+      "output_rounding_interval": [
+        139.14999999999998,
+        139.25
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1809,
+      "computed_from_displayed": 145.83333333333331,
+      "printed": 145.8,
+      "difference": -0.03333333333330302,
+      "input_rounding_interval": [
+        145.3146220009054,
+        146.3525147258722
+      ],
+      "output_rounding_interval": [
+        145.75,
+        145.85000000000002
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1810,
+      "computed_from_displayed": 143.9859525899912,
+      "printed": 144,
+      "difference": 0.014047410008799943,
+      "input_rounding_interval": [
+        143.48398420359808,
+        144.48836187966623
+      ],
+      "output_rounding_interval": [
+        143.95,
+        144.05
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1811,
+      "computed_from_displayed": 121.78956089478044,
+      "printed": 121.8,
+      "difference": 0.010439105219560929,
+      "input_rounding_interval": [
+        121.32505175983437,
+        122.25445503522585
+      ],
+      "output_rounding_interval": [
+        121.75,
+        121.85
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1812,
+      "computed_from_displayed": 116.99604743083003,
+      "printed": 117,
+      "difference": 0.003952569169968001,
+      "input_rounding_interval": [
+        116.55472145397077,
+        117.43772241992883
+      ],
+      "output_rounding_interval": [
+        116.95,
+        117.05
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1813,
+      "computed_from_displayed": 108.99780541331383,
+      "printed": 109,
+      "difference": 0.0021945866861727836,
+      "input_rounding_interval": [
+        108.59232175502743,
+        109.40358580314675
+      ],
+      "output_rounding_interval": [
+        108.95,
+        109.05
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1814,
+      "computed_from_displayed": 123.08930008045054,
+      "printed": 123.1,
+      "difference": 0.010699919549452375,
+      "input_rounding_interval": [
+        122.637716123844,
+        123.54124748490946
+      ],
+      "output_rounding_interval": [
+        123.05,
+        123.14999999999999
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1815,
+      "computed_from_displayed": 112.3404255319149,
+      "printed": 112.3,
+      "difference": -0.04042553191490583,
+      "input_rounding_interval": [
+        111.86729051467461,
+        112.81396338867602
+      ],
+      "output_rounding_interval": [
+        112.25,
+        112.35
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1816,
+      "computed_from_displayed": 108.02775024777007,
+      "printed": 108,
+      "difference": -0.02775024777007218,
+      "input_rounding_interval": [
+        107.47894997523527,
+        108.57709469509172
+      ],
+      "output_rounding_interval": [
+        107.95,
+        108.05
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1817,
+      "computed_from_displayed": 115.05273250239694,
+      "printed": 115.1,
+      "difference": 0.04726749760305893,
+      "input_rounding_interval": [
+        114.51844753234309,
+        115.58752997601917
+      ],
+      "output_rounding_interval": [
+        115.05,
+        115.14999999999999
+      ],
+      "rounding_overlap": true
+    },
+    {
+      "year": 1818,
+      "computed_from_displayed": 126.7605633802817,
+      "printed": 126.7,
+      "difference": -0.0605633802816925,
+      "input_rounding_interval": [
+        126.23181604880338,
+        127.28980742132457
+      ],
+      "output_rounding_interval": [
+        126.65,
+        126.75
+      ],
+      "rounding_overlap": true
+    }
+  ],
+  "other_internal_source_limits": [
+    "paper268authorfindsTookeFebruaryyearcalendarshiftanddifferencesfromMushet notsolved",
+    "paper275/PDF287originalprints6½d.per cent, unitd conflictswithpercentage; no silentrawcorrection",
+    "paper234summaryending1819 versuspaper2751819Act/staged1821plan; do not mergeAct/marketpar/fullcashpaymentdates"
+  ],
+  "selected_extra_visual_page": 287,
+  "external_source_documents_independently_full_read": false,
+  "artifacts": {
+    "paper262-coin-exchange-table.csv": "6394471e5521f46099b0c096fc1200d63e627b588597045a08898e95bfbb0797",
+    "paper269-prices-and-exchanges-table.csv": "0a45cf8488dce548eeb23acb715a735a319321f2f08cb345986748d6ba2271fd"
+  },
+  "reviewed_utc": "2026-10-12T16:50:21.292976+00:00"
+}

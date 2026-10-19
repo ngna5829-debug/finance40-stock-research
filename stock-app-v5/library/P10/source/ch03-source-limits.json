@@ -1,0 +1,34 @@
+{
+  "chapter": 3,
+  "original_scan_obtained": false,
+  "source_unmodified": true,
+  "issues": [
+    {
+      "source_global_lines": [
+        1202,
+        1206
+      ],
+      "type": "capital_and_demand_obligations_ratio_order",
+      "original": "A proportion of ten to one between capital and aggregate demand obligations",
+      "resolution": "顺序文字含混；不擅改或倒成1:10当硬阈值，待原扫描/原制度核",
+      "experiments_allowed": false
+    },
+    {
+      "source_global_lines": [
+        1208,
+        1232
+      ],
+      "type": "historical_technical_term",
+      "term": "inflation",
+      "resolution": "此为作者对短负债融资长回收/强清算信用问题的专义，不当当前CPI上涨指标"
+    },
+    {
+      "source_global_lines": [
+        1451,
+        1475
+      ],
+      "type": "unverified_strong_causal_assertion",
+      "resolution": "作者严厉反互保存款的机制完整保留，但未本次用制度样本验证；不能推广所有当代保险必失败"
+    }
+  ]
+}

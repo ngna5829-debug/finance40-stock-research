@@ -1,0 +1,2948 @@
+{
+  "book_id": "P29",
+  "title": "Everybody’s Guide to Money Matters",
+  "reviewer": "value_team",
+  "review_method": "All eleven complete English source slices actually read sequentially and fully compared with all eleven complete Chinese dossiers, then all29 rule meanings/evidence ranges and all supporting user-facing prose read. Mechanical hash/arithmetic checks supplement rather than replace semantic reading.",
+  "status": "pass_after_corrections_with_source_limits",
+  "all_eleven_original_chapters_and_dossiers_fully_compared": true,
+  "frontmatter_full_read": true,
+  "appendix_full_read": true,
+  "PG_license_full_read": true,
+  "coverage_full_source_lines": [
+    1,
+    4744
+  ],
+  "actual_read_batches": [
+    {
+      "type": "front_and_ch1",
+      "source_lines": [
+        1,
+        563
+      ]
+    },
+    {
+      "type": "ch2_ch3",
+      "source_lines": [
+        564,
+        905
+      ]
+    },
+    {
+      "type": "ch4_ch5",
+      "source_lines": [
+        906,
+        1314
+      ]
+    },
+    {
+      "type": "ch6a",
+      "source_lines": [
+        1315,
+        1534
+      ]
+    },
+    {
+      "type": "ch6b",
+      "source_lines": [
+        1535,
+        1755
+      ]
+    },
+    {
+      "type": "ch7a",
+      "source_lines": [
+        1756,
+        2105
+      ]
+    },
+    {
+      "type": "ch7b",
+      "source_lines": [
+        2106,
+        2440
+      ]
+    },
+    {
+      "type": "ch8a",
+      "source_lines": [
+        2441,
+        2730
+      ]
+    },
+    {
+      "type": "ch8b",
+      "source_lines": [
+        2731,
+        3020
+      ]
+    },
+    {
+      "type": "ch9a",
+      "source_lines": [
+        3021,
+        3310
+      ]
+    },
+    {
+      "type": "ch9b",
+      "source_lines": [
+        3311,
+        3600
+      ]
+    },
+    {
+      "type": "ch10",
+      "source_lines": [
+        3601,
+        3936
+      ]
+    },
+    {
+      "type": "ch11_and_appendix",
+      "source_lines": [
+        3937,
+        4393
+      ]
+    },
+    {
+      "type": "license",
+      "source_lines": [
+        4394,
+        4744
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "4dd70ae052065f92c71a4bc0d4886b1c5404856499f665bff73e7fed0e80caa8",
+      "dossier_sha256": "8f88344181244034f7c094f2fa38d972652fe11a5403d212e753f770e4462273",
+      "body_han": 2457,
+      "semantic_findings_zh": "全文前置与第一章完整对照：货币面额、银行债权、出票/背书/划线各功能、伪造位置责任及旧税制边界保持；不把not negotiable简化法义当现代法律。未见需要修正的语义。",
+      "reviewed_utc": "2026-10-12T13:29:06.016336+00:00"
+    },
+    {
+      "chapter": 2,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "9880bbf720c986328a430c8e1d421e3b385a77976a649647ed5ccec9fc29fe9a",
+      "dossier_sha256": "fd18c2255a2bd295fbf5b92bc5f9b9aa45d692c787e20194d4718284e5bd39b2",
+      "body_han": 2201,
+      "semantic_findings_zh": "完整对照：提前通知扣计息天数184至170，无日数基础不造利息；三百镑转存为内部账户迁移，未当消费；模板日期冲突保留，活期两侧总额565镑14先令6便士与357镑3先令4便士及余额正确。",
+      "reviewed_utc": "2026-10-12T13:29:06.076857+00:00"
+    },
+    {
+      "chapter": 3,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "0b869f7497af9bceeadc10d490af78054b1d268ef046220d4ea44fd94746a5a2",
+      "dossier_sha256": "7278a5853068106bdc30c8953f868791fa7de61dbf5a095f7e417e7d83564698",
+      "body_han": 2370,
+      "semantic_findings_zh": "完整对照：票据信用各方、贴现与政策参考利率区分；表面1987/八月29/十一月1与三个月加三天冲突保留，未猜更正或虚构精确到期。地方/伦敦及各制度时点范围准确。",
+      "reviewed_utc": "2026-10-12T13:29:06.163112+00:00"
+    },
+    {
+      "chapter": 4,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "9e90bce5ed67f437cd2761ba52e12a13a2e4ea6b2d2405bd701bdaab7949edc1",
+      "dossier_sha256": "bc961ecc8d59a76ea7374dc455f37d46e639515ecb83948fb526cd496c50fdf3",
+      "body_han": 2208,
+      "semantic_findings_zh": "完整对照：可转换证券在章内意为市场转手而非债转股；抵押产权欺诈、六个月通知/司法执行、三分之二历史常规非安全阈值，未全缴股份与除息边界均保持。",
+      "reviewed_utc": "2026-10-12T13:29:37.095141+00:00"
+    },
+    {
+      "chapter": 5,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "e25828937423d89c71958fddf2dd5e6b44fdc7b999f7b42866e8efc11e530828",
+      "dossier_sha256": "65039602473e79f2a0d2420a0440fda1f19fc86589df76b8c824332a52e215c2",
+      "body_han": 2226,
+      "semantic_findings_zh": "完整对照：政府赎回权不等同到期义务；终止年金含本金消失；利息保证不扩大为本金随时退出；经纪履约保障不归发行人，25.6d疑点及历史税制、自动复投范围保留。",
+      "reviewed_utc": "2026-10-12T13:29:37.102301+00:00"
+    },
+    {
+      "chapter": 6,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "29fcaa135f0b415aec9c92a594c2e451b4ca6337212ead2a5102f25ba8aa5740",
+      "dossier_sha256": "25dd7b3c61c3b73c38fd35bb000cdd4c122743dc6741e89b2ebfa7f7d0dbd91d",
+      "body_han": 2278,
+      "semantic_findings_zh": "全部441源行含两张15至80岁政府表与全保险公司表已阅读对照。生命条件、国债面值与现金价、首末给付、持续偿付/卢比币种边界均正确；四个已标异常格及Legal and General55/58岁未标不连续保持，不将表格当已校准报价。",
+      "reviewed_utc": "2026-10-12T13:29:57.754524+00:00"
+    },
+    {
+      "chapter": 7,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "96d61d7ed85e21eae8d43e78d2b9ccbcd1052b926d6a75fa0db9784b683bf48a",
+      "dossier_sha256": "5bac9160a78f515443b8f77d011a40f3c9b4f1fbec148e0af2f2d90156d75579",
+      "body_han": 2540,
+      "semantic_findings_zh": "全部685行完整读含殖民地整表/铁路各顺位/银行未缴义务及所有行业。原文地方绝对安全后自举衰落反例；三四分之三失败/保险平均法等过强未校准概括正确限界。Mauritius实际欠额高授权10镑原值保留；没有将bond面值差4镑当全回报。",
+      "reviewed_utc": "2026-10-12T13:30:16.697974+00:00"
+    },
+    {
+      "chapter": 8,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "82af75377d6fdc1ea6cb1cdd765799238da158a4464fe8ac7ba7d323baef1c8f",
+      "dossier_sha256": "10bcb1147839abd38167a7477dce1f8f72fbcc30b18c14a0ac4e015424833e36",
+      "body_han": 2529,
+      "semantic_findings_zh": "全部580源行完整对照，价格差单位/另佣金/历史contango机制、注册与持票债证据、授权责任、广告利益来源、无名矿业诱骗顺序及未核案件保留。原文条件性80%引用未当统计；源头重复非独立证据标为现代延伸。",
+      "reviewed_utc": "2026-10-12T13:30:37.571478+00:00"
+    },
+    {
+      "chapter": 9,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "c5edae3f027f1b0855a3a17a6d172a6582e0a80f9b7ec49aaa2cee28be5301dd",
+      "dossier_sha256": "3213bf13836f2240f0264688e13c84f4aa8d72609d83e0bffb29fdc00c25c637",
+      "body_han": 2328,
+      "semantic_findings_zh": "580源行含全部十二项申请表及寿险/两全/减额/信托/退保/火险/农场平均条款逐一完整对照。永胜储蓄强断言受限、28年约数及33%退保金额算术、五年借款缺费用、半信用延期义务、同预算与合法授权不假设。未见实质错解。",
+      "reviewed_utc": "2026-10-12T13:30:56.830200+00:00"
+    },
+    {
+      "chapter": 10,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "2a924bc53398dbf7f66fa56a36219c64de0af4cec4b39c69a7d6dee242a3e9a1",
+      "dossier_sha256": "f9b9012d04a2a7b6509ed3ebeaacc9ae203bbd2c34dc269977a8eeae2aa27f90",
+      "body_han": 2238,
+      "semantic_findings_zh": "336源行完整对照，19种月存档/两大提款表/21借款期月季表全读；金额13s×120=78、借款月季实算不同与作者40镑2先令不可复算均保留。退出权不保挤兑兑现、重复契据/工程证据与账算区分正确。",
+      "reviewed_utc": "2026-10-12T13:31:11.274646+00:00"
+    },
+    {
+      "chapter": 11,
+      "full_source_and_full_chinese_dossier_semantically_compared": true,
+      "source_sha256": "b9d00264e0be148f13fb5b35b83466cf04ef05b621ee4ff2adfa9c4a4af514c8",
+      "dossier_sha256": "5400ecafedf88025d2a48568a00f358f1f21b22f6aba0a02188a1b0bce7296e0",
+      "body_han": 2261,
+      "semantic_findings_zh": "完整175源行与中文稿对照：地方/中央对账，资格声明、存款与国债额度、存取及继承程序正确分层。作者绝对安全断言不冒充现代保证，另荐邮局指南未读明确。",
+      "reviewed_utc": "2026-10-12T13:34:04.008240+00:00"
+    }
+  ],
+  "independent_body_han_counts": [
+    2457,
+    2201,
+    2370,
+    2208,
+    2226,
+    2278,
+    2540,
+    2529,
+    2328,
+    2238,
+    2261
+  ],
+  "body_han_total": 25636,
+  "minimum_body_han": 2201,
+  "source_slices_match_full_source": true,
+  "source_sha256": "defad25040b984a02c8c2da7449846e8aa0cee7f47bab0b6d235481a4bf70973",
+  "html_sha256": "1d07598fd3b1f6d57d70520799fef42e519fe83f3a552673078f25b0f4bbf10c",
+  "expert_sha256": "a049a984fc4ea44118dc1b9a65ee5c7d19659e59d24ac47973edbff3f4ba9542",
+  "artifact_hashes": {
+    "章节深读.md": "e1d82a3293f3d8717f8cd89b2d2b4f981b2b9dbbc87b8c48a4a1d00c0deeea71",
+    "专家说明.md": "d64bf335d1c8ab4e4bc33bdd61b3999586726301a450c128a1012bd3e248b398",
+    "全书综合与附录.md": "d9dedbb0260930a789adc06bcc56a0f4e683b8318662a777d14ecb6c939c22ea",
+    "章节与阅读审计.json": "e11de27aac1508c365ba62c1e5119ed9ae85f27920c7c7fd7d551e4a6abc8c18",
+    "appendix-table-arithmetic.json": "f7479068fd8fa14b31934c5a09c9452949ae69ab72530b9610ae8e64fb8d4302"
+  },
+  "all29_rules_semantic_and_locator_reviewed": true,
+  "required_corrections": [
+    {
+      "id": "QA-P29-01",
+      "severity": "minor_numeric_wording",
+      "artifact": "全书综合与附录.md",
+      "finding_zh": "原稿三分之四应四分之三，对应作者至少three-quarters历史概括。",
+      "source_lines": [
+        2292,
+        2296
+      ],
+      "verified_fixed": true
+    },
+    {
+      "id": "QA-P29-02",
+      "severity": "evidence_anchor_incomplete",
+      "artifact": "专家定义.json/P29-R12",
+      "finding_zh": "利息保证与缺还本安排子命题需增加1235–1252源锚，原1163–1205仅永久债和短债。",
+      "verified_fixed": true
+    },
+    {
+      "id": "QA-P29-03",
+      "severity": "evidence_anchor_incomplete",
+      "artifact": "专家定义.json/P29-R24",
+      "finding_zh": "定期与双生命触发子命题需3284–3338及3454–3479源锚，原3037–3139未覆盖。",
+      "verified_fixed": true
+    }
+  ],
+  "all_required_corrections_closed": true,
+  "independent_table_arithmetic": {
+    "row_count": 42,
+    "cell_count": 294,
+    "fields_recomputed_and_matched_peer_arithmetic_file": true,
+    "flagged_gt_2_pence": 54,
+    "not_all_flags_proven_print_errors": true,
+    "scan_glyph_verification": false,
+    "cells": [
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 3.0,
+        "raw_cell": "2  8  0",
+        "original_pence_per_100_invested": 576,
+        "formula_percent_exact": "12/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 4.0,
+        "raw_cell": "3  4  0",
+        "original_pence_per_100_invested": 768,
+        "formula_percent_exact": "16/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 4.5,
+        "raw_cell": "3 12  0",
+        "original_pence_per_100_invested": 864,
+        "formula_percent_exact": "18/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 5.0,
+        "raw_cell": "4  0  0",
+        "original_pence_per_100_invested": 960,
+        "formula_percent_exact": "4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 5.5,
+        "raw_cell": "4  8  0",
+        "original_pence_per_100_invested": 1056,
+        "formula_percent_exact": "22/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 6.0,
+        "raw_cell": "4 16  0",
+        "original_pence_per_100_invested": 1152,
+        "formula_percent_exact": "24/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4130,
+        "purchase_price": 125,
+        "coupon_percent": 7.0,
+        "raw_cell": "5 12  0",
+        "original_pence_per_100_invested": 1344,
+        "formula_percent_exact": "28/5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 3.0,
+        "raw_cell": "2 10  0",
+        "original_pence_per_100_invested": 600,
+        "formula_percent_exact": "5/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 4.0,
+        "raw_cell": "3  6  8",
+        "original_pence_per_100_invested": 800,
+        "formula_percent_exact": "10/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 4.5,
+        "raw_cell": "3 15  0",
+        "original_pence_per_100_invested": 900,
+        "formula_percent_exact": "15/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 5.0,
+        "raw_cell": "4  3  4",
+        "original_pence_per_100_invested": 1000,
+        "formula_percent_exact": "25/6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 5.5,
+        "raw_cell": "4 11  8",
+        "original_pence_per_100_invested": 1100,
+        "formula_percent_exact": "55/12",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 6.0,
+        "raw_cell": "5  0  0",
+        "original_pence_per_100_invested": 1200,
+        "formula_percent_exact": "5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4131,
+        "purchase_price": 120,
+        "coupon_percent": 7.0,
+        "raw_cell": "5 16  8",
+        "original_pence_per_100_invested": 1400,
+        "formula_percent_exact": "35/6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 3.0,
+        "raw_cell": "2 12  2",
+        "original_pence_per_100_invested": 626,
+        "formula_percent_exact": "60/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 4.0,
+        "raw_cell": "3  9  7",
+        "original_pence_per_100_invested": 835,
+        "formula_percent_exact": "80/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 4.5,
+        "raw_cell": "3 18  3",
+        "original_pence_per_100_invested": 939,
+        "formula_percent_exact": "90/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 5.0,
+        "raw_cell": "4  7  0",
+        "original_pence_per_100_invested": 1044,
+        "formula_percent_exact": "100/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 5.5,
+        "raw_cell": "4 15  8",
+        "original_pence_per_100_invested": 1148,
+        "formula_percent_exact": "110/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 6.0,
+        "raw_cell": "5  4  4",
+        "original_pence_per_100_invested": 1252,
+        "formula_percent_exact": "120/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4132,
+        "purchase_price": 115,
+        "coupon_percent": 7.0,
+        "raw_cell": "6  1  9",
+        "original_pence_per_100_invested": 1461,
+        "formula_percent_exact": "140/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 3.0,
+        "raw_cell": "2 14  6",
+        "original_pence_per_100_invested": 654,
+        "formula_percent_exact": "30/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 4.0,
+        "raw_cell": "3 12  9",
+        "original_pence_per_100_invested": 873,
+        "formula_percent_exact": "40/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 4.5,
+        "raw_cell": "4  1  9",
+        "original_pence_per_100_invested": 981,
+        "formula_percent_exact": "45/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 5.0,
+        "raw_cell": "4 10 11",
+        "original_pence_per_100_invested": 1091,
+        "formula_percent_exact": "50/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 5.5,
+        "raw_cell": "5  0  0",
+        "original_pence_per_100_invested": 1200,
+        "formula_percent_exact": "5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 6.0,
+        "raw_cell": "5  9  0",
+        "original_pence_per_100_invested": 1308,
+        "formula_percent_exact": "60/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4133,
+        "purchase_price": 110,
+        "coupon_percent": 7.0,
+        "raw_cell": "6  7  3",
+        "original_pence_per_100_invested": 1527,
+        "formula_percent_exact": "70/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 3.0,
+        "raw_cell": "2 17  2",
+        "original_pence_per_100_invested": 686,
+        "formula_percent_exact": "20/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 4.0,
+        "raw_cell": "3 _6_ 2",
+        "original_pence_per_100_invested": 794,
+        "formula_percent_exact": "80/21",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 4.5,
+        "raw_cell": "4  5  9",
+        "original_pence_per_100_invested": 1029,
+        "formula_percent_exact": "30/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 5.0,
+        "raw_cell": "4 15  3",
+        "original_pence_per_100_invested": 1143,
+        "formula_percent_exact": "100/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 5.5,
+        "raw_cell": "5  4  9",
+        "original_pence_per_100_invested": 1257,
+        "formula_percent_exact": "110/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 6.0,
+        "raw_cell": "5 14  4",
+        "original_pence_per_100_invested": 1372,
+        "formula_percent_exact": "40/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4134,
+        "purchase_price": 105,
+        "coupon_percent": 7.0,
+        "raw_cell": "6 13  4",
+        "original_pence_per_100_invested": 1600,
+        "formula_percent_exact": "20/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  1  3",
+        "original_pence_per_100_invested": 735,
+        "formula_percent_exact": "150/49",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 4.0,
+        "raw_cell": "4  1  8",
+        "original_pence_per_100_invested": 980,
+        "formula_percent_exact": "200/49",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 4.5,
+        "raw_cell": "4 12 10",
+        "original_pence_per_100_invested": 1114,
+        "formula_percent_exact": "225/49",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 5.0,
+        "raw_cell": "5  2  0",
+        "original_pence_per_100_invested": 1224,
+        "formula_percent_exact": "250/49",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 5.5,
+        "raw_cell": "5 12  2",
+        "original_pence_per_100_invested": 1346,
+        "formula_percent_exact": "275/49",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 6.0,
+        "raw_cell": "6  2  6",
+        "original_pence_per_100_invested": 1470,
+        "formula_percent_exact": "300/49",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4135,
+        "purchase_price": 98,
+        "coupon_percent": 7.0,
+        "raw_cell": "7  2 10",
+        "original_pence_per_100_invested": 1714,
+        "formula_percent_exact": "50/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  2  6",
+        "original_pence_per_100_invested": 750,
+        "formula_percent_exact": "25/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 4.0,
+        "raw_cell": "4  3  4",
+        "original_pence_per_100_invested": 1000,
+        "formula_percent_exact": "25/6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 4.5,
+        "raw_cell": "4 13  9",
+        "original_pence_per_100_invested": 1125,
+        "formula_percent_exact": "75/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 5.0,
+        "raw_cell": "5  4  2",
+        "original_pence_per_100_invested": 1250,
+        "formula_percent_exact": "125/24",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 5.5,
+        "raw_cell": "5 14  4",
+        "original_pence_per_100_invested": 1372,
+        "formula_percent_exact": "275/48",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 6.0,
+        "raw_cell": "6  5  0",
+        "original_pence_per_100_invested": 1500,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4136,
+        "purchase_price": 96,
+        "coupon_percent": 7.0,
+        "raw_cell": "7  5 10",
+        "original_pence_per_100_invested": 1750,
+        "formula_percent_exact": "175/24",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  3  9",
+        "original_pence_per_100_invested": 765,
+        "formula_percent_exact": "150/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 4.0,
+        "raw_cell": "4  5  0",
+        "original_pence_per_100_invested": 1020,
+        "formula_percent_exact": "200/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 4.5,
+        "raw_cell": "4 15  7",
+        "original_pence_per_100_invested": 1147,
+        "formula_percent_exact": "225/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 5.0,
+        "raw_cell": "5  6  4",
+        "original_pence_per_100_invested": 1276,
+        "formula_percent_exact": "250/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 5.5,
+        "raw_cell": "5 17  0",
+        "original_pence_per_100_invested": 1404,
+        "formula_percent_exact": "275/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 6.0,
+        "raw_cell": "6  7  6",
+        "original_pence_per_100_invested": 1530,
+        "formula_percent_exact": "300/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4137,
+        "purchase_price": 94,
+        "coupon_percent": 7.0,
+        "raw_cell": "7  8 10",
+        "original_pence_per_100_invested": 1786,
+        "formula_percent_exact": "350/47",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  5  3",
+        "original_pence_per_100_invested": 783,
+        "formula_percent_exact": "75/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 4.0,
+        "raw_cell": "4  7  0",
+        "original_pence_per_100_invested": 1044,
+        "formula_percent_exact": "100/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 4.5,
+        "raw_cell": "4 17 10",
+        "original_pence_per_100_invested": 1174,
+        "formula_percent_exact": "225/46",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 5.0,
+        "raw_cell": "5  8  9",
+        "original_pence_per_100_invested": 1305,
+        "formula_percent_exact": "125/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 5.5,
+        "raw_cell": "5 19  7",
+        "original_pence_per_100_invested": 1435,
+        "formula_percent_exact": "275/46",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 6.0,
+        "raw_cell": "6 10  6",
+        "original_pence_per_100_invested": 1566,
+        "formula_percent_exact": "150/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4138,
+        "purchase_price": 92,
+        "coupon_percent": 7.0,
+        "raw_cell": "7 12  3",
+        "original_pence_per_100_invested": 1827,
+        "formula_percent_exact": "175/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  6  8",
+        "original_pence_per_100_invested": 800,
+        "formula_percent_exact": "10/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 4.0,
+        "raw_cell": "4  8 10",
+        "original_pence_per_100_invested": 1066,
+        "formula_percent_exact": "40/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 4.5,
+        "raw_cell": "5  0  0",
+        "original_pence_per_100_invested": 1200,
+        "formula_percent_exact": "5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 5.0,
+        "raw_cell": "5 11  1",
+        "original_pence_per_100_invested": 1333,
+        "formula_percent_exact": "50/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 5.5,
+        "raw_cell": "6  2  3",
+        "original_pence_per_100_invested": 1467,
+        "formula_percent_exact": "55/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 6.0,
+        "raw_cell": "6 13  4",
+        "original_pence_per_100_invested": 1600,
+        "formula_percent_exact": "20/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4139,
+        "purchase_price": 90,
+        "coupon_percent": 7.0,
+        "raw_cell": "7 15  7",
+        "original_pence_per_100_invested": 1867,
+        "formula_percent_exact": "70/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  8  3",
+        "original_pence_per_100_invested": 819,
+        "formula_percent_exact": "75/22",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 4.0,
+        "raw_cell": "4 10 10",
+        "original_pence_per_100_invested": 1090,
+        "formula_percent_exact": "50/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 4.5,
+        "raw_cell": "5  2  4",
+        "original_pence_per_100_invested": 1228,
+        "formula_percent_exact": "225/44",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 5.0,
+        "raw_cell": "5 13  7",
+        "original_pence_per_100_invested": 1363,
+        "formula_percent_exact": "125/22",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 5.5,
+        "raw_cell": "6  5  0",
+        "original_pence_per_100_invested": 1500,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 6.0,
+        "raw_cell": "6 16  6",
+        "original_pence_per_100_invested": 1638,
+        "formula_percent_exact": "75/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4140,
+        "purchase_price": 88,
+        "coupon_percent": 7.0,
+        "raw_cell": "7 19  0",
+        "original_pence_per_100_invested": 1908,
+        "formula_percent_exact": "175/22",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 3.0,
+        "raw_cell": "3  9  9",
+        "original_pence_per_100_invested": 837,
+        "formula_percent_exact": "150/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 4.0,
+        "raw_cell": "4 13  0",
+        "original_pence_per_100_invested": 1116,
+        "formula_percent_exact": "200/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 4.5,
+        "raw_cell": "5  4  7",
+        "original_pence_per_100_invested": 1255,
+        "formula_percent_exact": "225/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 5.0,
+        "raw_cell": "5 16  3",
+        "original_pence_per_100_invested": 1395,
+        "formula_percent_exact": "250/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 5.5,
+        "raw_cell": "6  7 11",
+        "original_pence_per_100_invested": 1535,
+        "formula_percent_exact": "275/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 6.0,
+        "raw_cell": "6 19  6",
+        "original_pence_per_100_invested": 1674,
+        "formula_percent_exact": "300/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4141,
+        "purchase_price": 86,
+        "coupon_percent": 7.0,
+        "raw_cell": "8  2  9",
+        "original_pence_per_100_invested": 1953,
+        "formula_percent_exact": "350/43",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 3.0,
+        "raw_cell": "3 11  6",
+        "original_pence_per_100_invested": 858,
+        "formula_percent_exact": "25/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 4.0,
+        "raw_cell": "4 15  4",
+        "original_pence_per_100_invested": 1144,
+        "formula_percent_exact": "100/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 4.5,
+        "raw_cell": "5  7  3",
+        "original_pence_per_100_invested": 1287,
+        "formula_percent_exact": "75/14",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 5.0,
+        "raw_cell": "5 19  1",
+        "original_pence_per_100_invested": 1429,
+        "formula_percent_exact": "125/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 5.5,
+        "raw_cell": "6 11  0",
+        "original_pence_per_100_invested": 1572,
+        "formula_percent_exact": "275/42",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 6.0,
+        "raw_cell": "7  3  0",
+        "original_pence_per_100_invested": 1716,
+        "formula_percent_exact": "50/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4142,
+        "purchase_price": 84,
+        "coupon_percent": 7.0,
+        "raw_cell": "8  6  9",
+        "original_pence_per_100_invested": 2001,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 3.0,
+        "raw_cell": "3 13  1",
+        "original_pence_per_100_invested": 877,
+        "formula_percent_exact": "150/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 4.0,
+        "raw_cell": "4 17  6",
+        "original_pence_per_100_invested": 1170,
+        "formula_percent_exact": "200/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 4.5,
+        "raw_cell": "5  9  7",
+        "original_pence_per_100_invested": 1315,
+        "formula_percent_exact": "225/41",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 5.0,
+        "raw_cell": "6  2  0",
+        "original_pence_per_100_invested": 1464,
+        "formula_percent_exact": "250/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 5.5,
+        "raw_cell": "6 14  2",
+        "original_pence_per_100_invested": 1610,
+        "formula_percent_exact": "275/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 6.0,
+        "raw_cell": "7  6  3",
+        "original_pence_per_100_invested": 1755,
+        "formula_percent_exact": "300/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4143,
+        "purchase_price": 82,
+        "coupon_percent": 7.0,
+        "raw_cell": "8 10  7",
+        "original_pence_per_100_invested": 2047,
+        "formula_percent_exact": "350/41",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 3.0,
+        "raw_cell": "3 15  0",
+        "original_pence_per_100_invested": 900,
+        "formula_percent_exact": "15/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 4.0,
+        "raw_cell": "5  0  0",
+        "original_pence_per_100_invested": 1200,
+        "formula_percent_exact": "5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 4.5,
+        "raw_cell": "5 _7_ 6",
+        "original_pence_per_100_invested": 1290,
+        "formula_percent_exact": "45/8",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 5.0,
+        "raw_cell": "6  5  0",
+        "original_pence_per_100_invested": 1500,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 5.5,
+        "raw_cell": "6 17  6",
+        "original_pence_per_100_invested": 1650,
+        "formula_percent_exact": "55/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 6.0,
+        "raw_cell": "7 10  0",
+        "original_pence_per_100_invested": 1800,
+        "formula_percent_exact": "15/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4144,
+        "purchase_price": 80,
+        "coupon_percent": 7.0,
+        "raw_cell": "8 15  0",
+        "original_pence_per_100_invested": 2100,
+        "formula_percent_exact": "35/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 3.0,
+        "raw_cell": "3 17  6",
+        "original_pence_per_100_invested": 930,
+        "formula_percent_exact": "50/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 4.0,
+        "raw_cell": "5  2 10",
+        "original_pence_per_100_invested": 1234,
+        "formula_percent_exact": "200/39",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 4.5,
+        "raw_cell": "5 15  8",
+        "original_pence_per_100_invested": 1388,
+        "formula_percent_exact": "75/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 5.0,
+        "raw_cell": "6  8  7",
+        "original_pence_per_100_invested": 1543,
+        "formula_percent_exact": "250/39",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 5.5,
+        "raw_cell": "7  1  6",
+        "original_pence_per_100_invested": 1698,
+        "formula_percent_exact": "275/39",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 6.0,
+        "raw_cell": "7 14  3",
+        "original_pence_per_100_invested": 1851,
+        "formula_percent_exact": "100/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4145,
+        "purchase_price": 78,
+        "coupon_percent": 7.0,
+        "raw_cell": "9  0  0",
+        "original_pence_per_100_invested": 2160,
+        "formula_percent_exact": "350/39",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 3.0,
+        "raw_cell": "3 18 10",
+        "original_pence_per_100_invested": 946,
+        "formula_percent_exact": "75/19",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 4.0,
+        "raw_cell": "5  5  2",
+        "original_pence_per_100_invested": 1262,
+        "formula_percent_exact": "100/19",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 4.5,
+        "raw_cell": "5 18  4",
+        "original_pence_per_100_invested": 1420,
+        "formula_percent_exact": "225/38",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 5.0,
+        "raw_cell": "6 11  6",
+        "original_pence_per_100_invested": 1578,
+        "formula_percent_exact": "125/19",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 5.5,
+        "raw_cell": "7  4  7",
+        "original_pence_per_100_invested": 1735,
+        "formula_percent_exact": "275/38",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 6.0,
+        "raw_cell": "7 17  8",
+        "original_pence_per_100_invested": 1892,
+        "formula_percent_exact": "150/19",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4146,
+        "purchase_price": 76,
+        "coupon_percent": 7.0,
+        "raw_cell": "9  3 11",
+        "original_pence_per_100_invested": 2207,
+        "formula_percent_exact": "175/19",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 3.0,
+        "raw_cell": "4  1  0",
+        "original_pence_per_100_invested": 972,
+        "formula_percent_exact": "150/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 4.0,
+        "raw_cell": "5  8  0",
+        "original_pence_per_100_invested": 1296,
+        "formula_percent_exact": "200/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 4.5,
+        "raw_cell": "6  1  6",
+        "original_pence_per_100_invested": 1458,
+        "formula_percent_exact": "225/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 5.0,
+        "raw_cell": "6 15  0",
+        "original_pence_per_100_invested": 1620,
+        "formula_percent_exact": "250/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 5.5,
+        "raw_cell": "7  8  6",
+        "original_pence_per_100_invested": 1782,
+        "formula_percent_exact": "275/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 6.0,
+        "raw_cell": "8  2  0",
+        "original_pence_per_100_invested": 1944,
+        "formula_percent_exact": "300/37",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4147,
+        "purchase_price": 74,
+        "coupon_percent": 7.0,
+        "raw_cell": "9  9  0",
+        "original_pence_per_100_invested": 2268,
+        "formula_percent_exact": "350/37",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 3.0,
+        "raw_cell": "4  3  4",
+        "original_pence_per_100_invested": 1000,
+        "formula_percent_exact": "25/6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 4.0,
+        "raw_cell": "5 11  1",
+        "original_pence_per_100_invested": 1333,
+        "formula_percent_exact": "50/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 4.5,
+        "raw_cell": "6  5  0",
+        "original_pence_per_100_invested": 1500,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 5.0,
+        "raw_cell": "6 18 11",
+        "original_pence_per_100_invested": 1667,
+        "formula_percent_exact": "125/18",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 5.5,
+        "raw_cell": "7 12  9",
+        "original_pence_per_100_invested": 1833,
+        "formula_percent_exact": "275/36",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 6.0,
+        "raw_cell": "8  6  8",
+        "original_pence_per_100_invested": 2000,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4148,
+        "purchase_price": 72,
+        "coupon_percent": 7.0,
+        "raw_cell": "9 14  5",
+        "original_pence_per_100_invested": 2333,
+        "formula_percent_exact": "175/18",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 3.0,
+        "raw_cell": "4  5  9",
+        "original_pence_per_100_invested": 1029,
+        "formula_percent_exact": "30/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 4.0,
+        "raw_cell": "5 14  3",
+        "original_pence_per_100_invested": 1371,
+        "formula_percent_exact": "40/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 4.5,
+        "raw_cell": "6  8  7",
+        "original_pence_per_100_invested": 1543,
+        "formula_percent_exact": "45/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 5.0,
+        "raw_cell": "7  2 10",
+        "original_pence_per_100_invested": 1714,
+        "formula_percent_exact": "50/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 5.5,
+        "raw_cell": "7 17  6",
+        "original_pence_per_100_invested": 1890,
+        "formula_percent_exact": "55/7",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 6.0,
+        "raw_cell": "8 14  3",
+        "original_pence_per_100_invested": 2091,
+        "formula_percent_exact": "60/7",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4149,
+        "purchase_price": 70,
+        "coupon_percent": 7.0,
+        "raw_cell": "10  0  0",
+        "original_pence_per_100_invested": 2400,
+        "formula_percent_exact": "10",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 3.0,
+        "raw_cell": "4  8  1",
+        "original_pence_per_100_invested": 1057,
+        "formula_percent_exact": "75/17",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 4.0,
+        "raw_cell": "5 17  6",
+        "original_pence_per_100_invested": 1410,
+        "formula_percent_exact": "100/17",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 4.5,
+        "raw_cell": "6 12  2",
+        "original_pence_per_100_invested": 1586,
+        "formula_percent_exact": "225/34",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 5.0,
+        "raw_cell": "7  7  0",
+        "original_pence_per_100_invested": 1764,
+        "formula_percent_exact": "125/17",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 5.5,
+        "raw_cell": "8  1  9",
+        "original_pence_per_100_invested": 1941,
+        "formula_percent_exact": "275/34",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 6.0,
+        "raw_cell": "8 16  3",
+        "original_pence_per_100_invested": 2115,
+        "formula_percent_exact": "150/17",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4150,
+        "purchase_price": 68,
+        "coupon_percent": 7.0,
+        "raw_cell": "10  5  9",
+        "original_pence_per_100_invested": 2469,
+        "formula_percent_exact": "175/17",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 3.0,
+        "raw_cell": "4 10  0",
+        "original_pence_per_100_invested": 1080,
+        "formula_percent_exact": "50/11",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 4.0,
+        "raw_cell": "6  0  0",
+        "original_pence_per_100_invested": 1440,
+        "formula_percent_exact": "200/33",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 4.5,
+        "raw_cell": "6 15  0",
+        "original_pence_per_100_invested": 1620,
+        "formula_percent_exact": "75/11",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 5.0,
+        "raw_cell": "7 10  0",
+        "original_pence_per_100_invested": 1800,
+        "formula_percent_exact": "250/33",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 5.5,
+        "raw_cell": "8  5  0",
+        "original_pence_per_100_invested": 1980,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 6.0,
+        "raw_cell": "9  0  0",
+        "original_pence_per_100_invested": 2160,
+        "formula_percent_exact": "100/11",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4151,
+        "purchase_price": 66,
+        "coupon_percent": 7.0,
+        "raw_cell": "10 10  0",
+        "original_pence_per_100_invested": 2520,
+        "formula_percent_exact": "350/33",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 3.0,
+        "raw_cell": "4 13  9",
+        "original_pence_per_100_invested": 1125,
+        "formula_percent_exact": "75/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 4.0,
+        "raw_cell": "6  5  0",
+        "original_pence_per_100_invested": 1500,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 4.5,
+        "raw_cell": "7  0  8",
+        "original_pence_per_100_invested": 1688,
+        "formula_percent_exact": "225/32",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 5.0,
+        "raw_cell": "7 16  3",
+        "original_pence_per_100_invested": 1875,
+        "formula_percent_exact": "125/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 5.5,
+        "raw_cell": "8 11 10",
+        "original_pence_per_100_invested": 2062,
+        "formula_percent_exact": "275/32",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 6.0,
+        "raw_cell": "9  7  6",
+        "original_pence_per_100_invested": 2250,
+        "formula_percent_exact": "75/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4152,
+        "purchase_price": 64,
+        "coupon_percent": 7.0,
+        "raw_cell": "10 18  9",
+        "original_pence_per_100_invested": 2625,
+        "formula_percent_exact": "175/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 3.0,
+        "raw_cell": "4 16  9",
+        "original_pence_per_100_invested": 1161,
+        "formula_percent_exact": "150/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 4.0,
+        "raw_cell": "6  9  0",
+        "original_pence_per_100_invested": 1548,
+        "formula_percent_exact": "200/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 4.5,
+        "raw_cell": "7  5  1",
+        "original_pence_per_100_invested": 1741,
+        "formula_percent_exact": "225/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 5.0,
+        "raw_cell": "8  1  3",
+        "original_pence_per_100_invested": 1935,
+        "formula_percent_exact": "250/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 5.5,
+        "raw_cell": "8 17  4",
+        "original_pence_per_100_invested": 2128,
+        "formula_percent_exact": "275/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 6.0,
+        "raw_cell": "9 13  6",
+        "original_pence_per_100_invested": 2322,
+        "formula_percent_exact": "300/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4153,
+        "purchase_price": 62,
+        "coupon_percent": 7.0,
+        "raw_cell": "11  5  9",
+        "original_pence_per_100_invested": 2709,
+        "formula_percent_exact": "350/31",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 3.0,
+        "raw_cell": "5  0  0",
+        "original_pence_per_100_invested": 1200,
+        "formula_percent_exact": "5",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 4.0,
+        "raw_cell": "6 13  4",
+        "original_pence_per_100_invested": 1600,
+        "formula_percent_exact": "20/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 4.5,
+        "raw_cell": "7 10  0",
+        "original_pence_per_100_invested": 1800,
+        "formula_percent_exact": "15/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 5.0,
+        "raw_cell": "8  6  8",
+        "original_pence_per_100_invested": 2000,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 5.5,
+        "raw_cell": "9  3  4",
+        "original_pence_per_100_invested": 2200,
+        "formula_percent_exact": "55/6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 6.0,
+        "raw_cell": "10  0  0",
+        "original_pence_per_100_invested": 2400,
+        "formula_percent_exact": "10",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4154,
+        "purchase_price": 60,
+        "coupon_percent": 7.0,
+        "raw_cell": "11 13  4",
+        "original_pence_per_100_invested": 2800,
+        "formula_percent_exact": "35/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 3.0,
+        "raw_cell": "5  3  5",
+        "original_pence_per_100_invested": 1241,
+        "formula_percent_exact": "150/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 4.0,
+        "raw_cell": "6 17 10",
+        "original_pence_per_100_invested": 1654,
+        "formula_percent_exact": "200/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 4.5,
+        "raw_cell": "7 15  1",
+        "original_pence_per_100_invested": 1861,
+        "formula_percent_exact": "225/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 5.0,
+        "raw_cell": "8 12  4",
+        "original_pence_per_100_invested": 2068,
+        "formula_percent_exact": "250/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 5.5,
+        "raw_cell": "9  9  7",
+        "original_pence_per_100_invested": 2275,
+        "formula_percent_exact": "275/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 6.0,
+        "raw_cell": "10  6 10",
+        "original_pence_per_100_invested": 2482,
+        "formula_percent_exact": "300/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4155,
+        "purchase_price": 58,
+        "coupon_percent": 7.0,
+        "raw_cell": "12  1  4",
+        "original_pence_per_100_invested": 2896,
+        "formula_percent_exact": "350/29",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 3.0,
+        "raw_cell": "5  7  1",
+        "original_pence_per_100_invested": 1285,
+        "formula_percent_exact": "75/14",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 4.0,
+        "raw_cell": "7  2 10",
+        "original_pence_per_100_invested": 1714,
+        "formula_percent_exact": "50/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 4.5,
+        "raw_cell": "8  0  8",
+        "original_pence_per_100_invested": 1928,
+        "formula_percent_exact": "225/28",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 5.0,
+        "raw_cell": "8 18  6",
+        "original_pence_per_100_invested": 2142,
+        "formula_percent_exact": "125/14",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 5.5,
+        "raw_cell": "9 16  4",
+        "original_pence_per_100_invested": 2356,
+        "formula_percent_exact": "275/28",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 6.0,
+        "raw_cell": "10 14  3",
+        "original_pence_per_100_invested": 2571,
+        "formula_percent_exact": "75/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4156,
+        "purchase_price": 56,
+        "coupon_percent": 7.0,
+        "raw_cell": "12 10  0",
+        "original_pence_per_100_invested": 3000,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 3.0,
+        "raw_cell": "5 11  9",
+        "original_pence_per_100_invested": 1341,
+        "formula_percent_exact": "50/9",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 4.0,
+        "raw_cell": "7  8  0",
+        "original_pence_per_100_invested": 1776,
+        "formula_percent_exact": "200/27",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 4.5,
+        "raw_cell": "8  6  9",
+        "original_pence_per_100_invested": 2001,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 5.0,
+        "raw_cell": "9  5  0",
+        "original_pence_per_100_invested": 2220,
+        "formula_percent_exact": "250/27",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 5.5,
+        "raw_cell": "10  4  3",
+        "original_pence_per_100_invested": 2451,
+        "formula_percent_exact": "275/27",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 6.0,
+        "raw_cell": "11  2  0",
+        "original_pence_per_100_invested": 2664,
+        "formula_percent_exact": "100/9",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4157,
+        "purchase_price": 54,
+        "coupon_percent": 7.0,
+        "raw_cell": "12 19  0",
+        "original_pence_per_100_invested": 3108,
+        "formula_percent_exact": "350/27",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 3.0,
+        "raw_cell": "5 15  3",
+        "original_pence_per_100_invested": 1383,
+        "formula_percent_exact": "75/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 4.0,
+        "raw_cell": "7 13  6",
+        "original_pence_per_100_invested": 1842,
+        "formula_percent_exact": "100/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 4.5,
+        "raw_cell": "8 12 10",
+        "original_pence_per_100_invested": 2074,
+        "formula_percent_exact": "225/26",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 5.0,
+        "raw_cell": "9 12  3",
+        "original_pence_per_100_invested": 2307,
+        "formula_percent_exact": "125/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 5.5,
+        "raw_cell": "10 11  4",
+        "original_pence_per_100_invested": 2536,
+        "formula_percent_exact": "275/26",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 6.0,
+        "raw_cell": "11 10  6",
+        "original_pence_per_100_invested": 2766,
+        "formula_percent_exact": "150/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4158,
+        "purchase_price": 52,
+        "coupon_percent": 7.0,
+        "raw_cell": "13  9  0",
+        "original_pence_per_100_invested": 3228,
+        "formula_percent_exact": "175/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 3.0,
+        "raw_cell": "6  0  0",
+        "original_pence_per_100_invested": 1440,
+        "formula_percent_exact": "6",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 4.0,
+        "raw_cell": "8  0  0",
+        "original_pence_per_100_invested": 1920,
+        "formula_percent_exact": "8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 4.5,
+        "raw_cell": "9  0  0",
+        "original_pence_per_100_invested": 2160,
+        "formula_percent_exact": "9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 5.0,
+        "raw_cell": "10  0  0",
+        "original_pence_per_100_invested": 2400,
+        "formula_percent_exact": "10",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 5.5,
+        "raw_cell": "11  0  0",
+        "original_pence_per_100_invested": 2640,
+        "formula_percent_exact": "11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 6.0,
+        "raw_cell": "12  0  0",
+        "original_pence_per_100_invested": 2880,
+        "formula_percent_exact": "12",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4159,
+        "purchase_price": 50,
+        "coupon_percent": 7.0,
+        "raw_cell": "14  0  9",
+        "original_pence_per_100_invested": 3369,
+        "formula_percent_exact": "14",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 3.0,
+        "raw_cell": "6_15_ 0",
+        "original_pence_per_100_invested": 1620,
+        "formula_percent_exact": "25/4",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 4.0,
+        "raw_cell": "8  6  8",
+        "original_pence_per_100_invested": 2000,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 4.5,
+        "raw_cell": "9  7  6",
+        "original_pence_per_100_invested": 2250,
+        "formula_percent_exact": "75/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 5.0,
+        "raw_cell": "10 12  6",
+        "original_pence_per_100_invested": 2550,
+        "formula_percent_exact": "125/12",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 5.5,
+        "raw_cell": "11  9  0",
+        "original_pence_per_100_invested": 2748,
+        "formula_percent_exact": "275/24",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 6.0,
+        "raw_cell": "12  5  0",
+        "original_pence_per_100_invested": 2940,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4160,
+        "purchase_price": 48,
+        "coupon_percent": 7.0,
+        "raw_cell": "14 11  8",
+        "original_pence_per_100_invested": 3500,
+        "formula_percent_exact": "175/12",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 3.0,
+        "raw_cell": "6 10  4",
+        "original_pence_per_100_invested": 1564,
+        "formula_percent_exact": "150/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 4.0,
+        "raw_cell": "8 13 10",
+        "original_pence_per_100_invested": 2086,
+        "formula_percent_exact": "200/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 4.5,
+        "raw_cell": "9 15  0",
+        "original_pence_per_100_invested": 2340,
+        "formula_percent_exact": "225/23",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 5.0,
+        "raw_cell": "10 17  4",
+        "original_pence_per_100_invested": 2608,
+        "formula_percent_exact": "250/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 5.5,
+        "raw_cell": "11 19  0",
+        "original_pence_per_100_invested": 2868,
+        "formula_percent_exact": "275/23",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 6.0,
+        "raw_cell": "13  0  0",
+        "original_pence_per_100_invested": 3120,
+        "formula_percent_exact": "300/23",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4161,
+        "purchase_price": 46,
+        "coupon_percent": 7.0,
+        "raw_cell": "15  4  2",
+        "original_pence_per_100_invested": 3650,
+        "formula_percent_exact": "350/23",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 3.0,
+        "raw_cell": "6 16  1",
+        "original_pence_per_100_invested": 1633,
+        "formula_percent_exact": "75/11",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 4.0,
+        "raw_cell": "9  1 10",
+        "original_pence_per_100_invested": 2182,
+        "formula_percent_exact": "100/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 4.5,
+        "raw_cell": "10  4  6",
+        "original_pence_per_100_invested": 2454,
+        "formula_percent_exact": "225/22",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 5.0,
+        "raw_cell": "11  1  9",
+        "original_pence_per_100_invested": 2661,
+        "formula_percent_exact": "125/11",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 5.5,
+        "raw_cell": "12 10  0",
+        "original_pence_per_100_invested": 3000,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 6.0,
+        "raw_cell": "13 12  9",
+        "original_pence_per_100_invested": 3273,
+        "formula_percent_exact": "150/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4162,
+        "purchase_price": 44,
+        "coupon_percent": 7.0,
+        "raw_cell": "15 18  2",
+        "original_pence_per_100_invested": 3818,
+        "formula_percent_exact": "175/11",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 3.0,
+        "raw_cell": "7  2  9",
+        "original_pence_per_100_invested": 1713,
+        "formula_percent_exact": "50/7",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 4.0,
+        "raw_cell": "9 10  2",
+        "original_pence_per_100_invested": 2282,
+        "formula_percent_exact": "200/21",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 4.5,
+        "raw_cell": "10 19  3",
+        "original_pence_per_100_invested": 2631,
+        "formula_percent_exact": "75/7",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 5.0,
+        "raw_cell": "11 18  0",
+        "original_pence_per_100_invested": 2856,
+        "formula_percent_exact": "250/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 5.5,
+        "raw_cell": "13  2  0",
+        "original_pence_per_100_invested": 3144,
+        "formula_percent_exact": "275/21",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 6.0,
+        "raw_cell": "14  5  3",
+        "original_pence_per_100_invested": 3423,
+        "formula_percent_exact": "100/7",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4163,
+        "purchase_price": 42,
+        "coupon_percent": 7.0,
+        "raw_cell": "16 13  4",
+        "original_pence_per_100_invested": 4000,
+        "formula_percent_exact": "50/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 3.0,
+        "raw_cell": "7 10  0",
+        "original_pence_per_100_invested": 1800,
+        "formula_percent_exact": "15/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 4.0,
+        "raw_cell": "10  0  0",
+        "original_pence_per_100_invested": 2400,
+        "formula_percent_exact": "10",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 4.5,
+        "raw_cell": "11  5  0",
+        "original_pence_per_100_invested": 2700,
+        "formula_percent_exact": "45/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 5.0,
+        "raw_cell": "12 10  0",
+        "original_pence_per_100_invested": 3000,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 5.5,
+        "raw_cell": "13 15  0",
+        "original_pence_per_100_invested": 3300,
+        "formula_percent_exact": "55/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 6.0,
+        "raw_cell": "15  0  0",
+        "original_pence_per_100_invested": 3600,
+        "formula_percent_exact": "15",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4164,
+        "purchase_price": 40,
+        "coupon_percent": 7.0,
+        "raw_cell": "17 10  0",
+        "original_pence_per_100_invested": 4200,
+        "formula_percent_exact": "35/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 3.0,
+        "raw_cell": "8  6  8",
+        "original_pence_per_100_invested": 2000,
+        "formula_percent_exact": "25/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 4.0,
+        "raw_cell": "11  2  2",
+        "original_pence_per_100_invested": 2666,
+        "formula_percent_exact": "100/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 4.5,
+        "raw_cell": "12 10  0",
+        "original_pence_per_100_invested": 3000,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 5.0,
+        "raw_cell": "13 17  9",
+        "original_pence_per_100_invested": 3333,
+        "formula_percent_exact": "125/9",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 5.5,
+        "raw_cell": "15  5  0",
+        "original_pence_per_100_invested": 3660,
+        "formula_percent_exact": "275/18",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 6.0,
+        "raw_cell": "16 13  4",
+        "original_pence_per_100_invested": 4000,
+        "formula_percent_exact": "50/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4165,
+        "purchase_price": 36,
+        "coupon_percent": 7.0,
+        "raw_cell": "19 15  7",
+        "original_pence_per_100_invested": 4747,
+        "formula_percent_exact": "175/9",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 3.0,
+        "raw_cell": "9  7  6",
+        "original_pence_per_100_invested": 2250,
+        "formula_percent_exact": "75/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 4.0,
+        "raw_cell": "12 10  0",
+        "original_pence_per_100_invested": 3000,
+        "formula_percent_exact": "25/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 4.5,
+        "raw_cell": "14  1  3",
+        "original_pence_per_100_invested": 3375,
+        "formula_percent_exact": "225/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 5.0,
+        "raw_cell": "15 12  6",
+        "original_pence_per_100_invested": 3750,
+        "formula_percent_exact": "125/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 5.5,
+        "raw_cell": "17  3  9",
+        "original_pence_per_100_invested": 4125,
+        "formula_percent_exact": "275/16",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 6.0,
+        "raw_cell": "18 15  0",
+        "original_pence_per_100_invested": 4500,
+        "formula_percent_exact": "75/4",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4166,
+        "purchase_price": 32,
+        "coupon_percent": 7.0,
+        "raw_cell": "21 17  6",
+        "original_pence_per_100_invested": 5250,
+        "formula_percent_exact": "175/8",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 3.0,
+        "raw_cell": "10  0  0",
+        "original_pence_per_100_invested": 2400,
+        "formula_percent_exact": "10",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 4.0,
+        "raw_cell": "13  6  8",
+        "original_pence_per_100_invested": 3200,
+        "formula_percent_exact": "40/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 4.5,
+        "raw_cell": "15  0  0",
+        "original_pence_per_100_invested": 3600,
+        "formula_percent_exact": "15",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 5.0,
+        "raw_cell": "16 13  4",
+        "original_pence_per_100_invested": 4000,
+        "formula_percent_exact": "50/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 5.5,
+        "raw_cell": "18  6  8",
+        "original_pence_per_100_invested": 4400,
+        "formula_percent_exact": "55/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 6.0,
+        "raw_cell": "20  0  0",
+        "original_pence_per_100_invested": 4800,
+        "formula_percent_exact": "20",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4167,
+        "purchase_price": 30,
+        "coupon_percent": 7.0,
+        "raw_cell": "23  6  8",
+        "original_pence_per_100_invested": 5600,
+        "formula_percent_exact": "70/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 3.0,
+        "raw_cell": "11 10  0",
+        "original_pence_per_100_invested": 2760,
+        "formula_percent_exact": "150/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 4.0,
+        "raw_cell": "15  7  9",
+        "original_pence_per_100_invested": 3693,
+        "formula_percent_exact": "200/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 4.5,
+        "raw_cell": "17  6  3",
+        "original_pence_per_100_invested": 4155,
+        "formula_percent_exact": "225/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 5.0,
+        "raw_cell": "19  5  0",
+        "original_pence_per_100_invested": 4620,
+        "formula_percent_exact": "250/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 5.5,
+        "raw_cell": "21  3  6",
+        "original_pence_per_100_invested": 5082,
+        "formula_percent_exact": "275/13",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 6.0,
+        "raw_cell": "23  1  6",
+        "original_pence_per_100_invested": 5538,
+        "formula_percent_exact": "300/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4168,
+        "purchase_price": 26,
+        "coupon_percent": 7.0,
+        "raw_cell": "26 18  6",
+        "original_pence_per_100_invested": 6462,
+        "formula_percent_exact": "350/13",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 3.0,
+        "raw_cell": "15  0  0",
+        "original_pence_per_100_invested": 3600,
+        "formula_percent_exact": "15",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 4.0,
+        "raw_cell": "20  0  0",
+        "original_pence_per_100_invested": 4800,
+        "formula_percent_exact": "20",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 4.5,
+        "raw_cell": "22 10  0",
+        "original_pence_per_100_invested": 5400,
+        "formula_percent_exact": "45/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 5.0,
+        "raw_cell": "25  0  0",
+        "original_pence_per_100_invested": 6000,
+        "formula_percent_exact": "25",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 5.5,
+        "raw_cell": "27 10  0",
+        "original_pence_per_100_invested": 6600,
+        "formula_percent_exact": "55/2",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 6.0,
+        "raw_cell": "30  0  0",
+        "original_pence_per_100_invested": 7200,
+        "formula_percent_exact": "30",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4169,
+        "purchase_price": 20,
+        "coupon_percent": 7.0,
+        "raw_cell": "35  0  0",
+        "original_pence_per_100_invested": 8400,
+        "formula_percent_exact": "35",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 3.0,
+        "raw_cell": "20  0  0",
+        "original_pence_per_100_invested": 4800,
+        "formula_percent_exact": "20",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 4.0,
+        "raw_cell": "26 13  4",
+        "original_pence_per_100_invested": 6400,
+        "formula_percent_exact": "80/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 4.5,
+        "raw_cell": "30  0  0",
+        "original_pence_per_100_invested": 7200,
+        "formula_percent_exact": "30",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 5.0,
+        "raw_cell": "33  6  8",
+        "original_pence_per_100_invested": 8000,
+        "formula_percent_exact": "100/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 5.5,
+        "raw_cell": "36 13  4",
+        "original_pence_per_100_invested": 8800,
+        "formula_percent_exact": "110/3",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 6.0,
+        "raw_cell": "40  0  0",
+        "original_pence_per_100_invested": 9600,
+        "formula_percent_exact": "40",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4170,
+        "purchase_price": 15,
+        "coupon_percent": 7.0,
+        "raw_cell": "46  0  0",
+        "original_pence_per_100_invested": 11040,
+        "formula_percent_exact": "140/3",
+        "absolute_difference_more_than_2_pence": true
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 3.0,
+        "raw_cell": "30  0  0",
+        "original_pence_per_100_invested": 7200,
+        "formula_percent_exact": "30",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 4.0,
+        "raw_cell": "40  0  0",
+        "original_pence_per_100_invested": 9600,
+        "formula_percent_exact": "40",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 4.5,
+        "raw_cell": "45  0  0",
+        "original_pence_per_100_invested": 10800,
+        "formula_percent_exact": "45",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 5.0,
+        "raw_cell": "50  0  0",
+        "original_pence_per_100_invested": 12000,
+        "formula_percent_exact": "50",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 5.5,
+        "raw_cell": "55  0  0",
+        "original_pence_per_100_invested": 13200,
+        "formula_percent_exact": "55",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 6.0,
+        "raw_cell": "60  0  0",
+        "original_pence_per_100_invested": 14400,
+        "formula_percent_exact": "60",
+        "absolute_difference_more_than_2_pence": false
+      },
+      {
+        "source_line": 4171,
+        "purchase_price": 10,
+        "coupon_percent": 7.0,
+        "raw_cell": "70  0  0",
+        "original_pence_per_100_invested": 16800,
+        "formula_percent_exact": "70",
+        "absolute_difference_more_than_2_pence": false
+      }
+    ]
+  },
+  "other_independent_arithmetic": {
+    "passbook_income_pence": 135774,
+    "passbook_debit_pence": 85720,
+    "passbook_balance_pence": 50054,
+    "passbook_balance_legacy": "£208 11s 2d",
+    "ten_year_borrower_monthly_pence": 33720,
+    "ten_year_borrower_quarterly_pence": 33880,
+    "author_ten_year_interest_legacy": "£40 2s",
+    "author_interest_unreconciled_with_table": true,
+    "28_end_year_savings_at_2_5_pct": 996.4950187572028
+  },
+  "source_and_interpretation_limits_zh": [
+    "未取得原刊扫描；目录页范围不是逐段精确纸页证，不能称全原版字形目视校勘。",
+    "原文/转录中年份、到期、佣金、年金格、毛里求斯十镑和住房协会利差数字未解，原值保留并禁止精确执行。",
+    "作者1898英国法律、殖民地信用及行业强评价未全外部核验；不当当前法律、信用评级或概率。",
+    "章中荐另书/邮局指南未阅读，不加入本书覆盖。",
+    "专家是单书知识定义，未连当前行情、未运行独立模型、未回测、未校准胜率。"
+  ],
+  "current_stock_decision_enabled_verified_false": true,
+  "live_or_backtest_execution_claims_verified_false": true,
+  "review_completed_utc": "2026-10-12T13:34:51.261873+00:00"
+}

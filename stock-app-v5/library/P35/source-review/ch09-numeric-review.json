@@ -1,0 +1,61 @@
+{
+  "chapter": 9,
+  "wholebook_complete": false,
+  "digital_source_table_fullread": true,
+  "original_image_visual_pending": false,
+  "issue_department": {
+    "notes": 86802605,
+    "government_debt": 11015100,
+    "other_securities": 7434900,
+    "gold_coin_bullion": 68352605,
+    "silver_bullion_printed_blank_not_assumed_zero": true,
+    "listed_numbers_sum_matches": true
+  },
+  "banking_department": {
+    "liabilities_rows": [
+      14553000,
+      3499722,
+      47393479,
+      117593833,
+      32471
+    ],
+    "assets_rows_as_PG": [
+      21824358,
+      108836570,
+      52098065,
+      813512
+    ],
+    "printed_both_sides_total": 183072505,
+    "sum_liabilities": 183072505,
+    "sum_assets_as_PG": 183572505,
+    "assets_minus_printed": 500000,
+    "reserve_notes_plus_coin": 52911577,
+    "reserve_ratio_excluding_capital_Rest_and_bills": 0.32070088516867284,
+    "reserve_ratio_including7daybills": 0.3206377807441427,
+    "printed_ratio_percent": 32.125,
+    "printed_ratio_reproduced_from_displayed_PG_numbers": false,
+    "government_securities_PG": 21824358,
+    "government_securities_original_PDF107": 21324358,
+    "assets_rows_corrected_to_original": [
+      21324358,
+      108836570,
+      52098065,
+      813512
+    ],
+    "sum_assets_original_confirmed": 183072505,
+    "both_original_sides_match": true,
+    "ratio_if_rounded_to_nearest_eighth_percent_excluding_bills": 32.125,
+    "ratio_if_rounded_to_nearest_eighth_percent_including_bills": 32.125,
+    "nearest_eighth_rounding_is_independent_possible_reconciliation_not_author_method_given": true
+  },
+  "earlier_cash_rounding": {
+    "chapter3_exact_pence": 5996667.733333333,
+    "chapter9_wholepound_5996668_is_nearestrounding": true
+  },
+  "bank_identity": "BankofEngland",
+  "return_exact_date": "not printed in chapter; only months afterwaroutbreak",
+  "historical_market_data_or_effectiveness_independently_verified": false,
+  "all_table_numeric_cells_original_PDF107_visually_read": true,
+  "original_ratio_PDF109_visually_confirmed": "32⅛",
+  "scope": "Original table corrects PG digit3/8 at GovernmentSecurities; rawPGpreserved; no verifiedhistoricalweeklyaccount externalto thisbook"
+}

@@ -1,0 +1,10 @@
+{
+  "book_id":"P22","chapter":6,"basis":"PG complete transcription, original scan not acquired; independent arithmetic, not author corrections",
+  "checks":[
+    {"paragraph":"P22-ch06-P0015","printed_pages":[172,173],"author_cost":116450000,"author_excess":261000000,"author_excess_pct":325,"independent_excess_pct":224.1305281236582,"independent_total_capital_pct":324.1305281236582,"status":"unresolved wording or arithmetic denominator mismatch; retain original"},
+    {"paragraph":"P22-ch06-P0016","printed_pages":[173,174,175],"illustrative_bond_face":2000000,"sale_fraction":0.8,"fee_fraction":0.05,"fee_basis_inferred_from_author_result":"bond face, not cash proceeds","author_construction_cash":1500000,"independent_construction_cash_if_fee_on_face":1500000,"independent_construction_cash_if_fee_on_proceeds":1520000,"status":"basis inferred from stated result, not separately stated by author"},
+    {"paragraph":"P22-ch06-P0036","printed_page":186,"author_components":[18636.75,7015.67],"author_total":25652.42,"independent_total":25652.42,"status":"table addition passes; not an investment return prediction"},
+    {"paragraph":"P22-ch06-P0039","printed_pages":[186,187],"author_items":[300,2310,792,1845,12,24,142.2,600,200,100,150,720],"author_total":7298.2,"independent_total":7195.2,"author_total_minus_items":103,"status":"unresolved source discrepancy; no scan glyph check, no invented missing item"}
+  ],
+  "normative_boundary":"Author's original stock/bondholder outlay base differs from complete current assets, retained earnings investment, public contributions and market value. Crossholding double-counted statistics do not on their own prove twice charged freight."
+}

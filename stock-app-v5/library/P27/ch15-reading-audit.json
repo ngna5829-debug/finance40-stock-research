@@ -1,0 +1,67 @@
+{
+  "book_id": "P27",
+  "chapter": 15,
+  "source_file": "source-chapters/ch15.txt",
+  "source_chars": 23595,
+  "source_sha256": "429e6a5a152d2c8bd5e965cc3c3724522baf7e129a037f2e3be7191a51124e8c",
+  "full_chapter_source_actually_read": true,
+  "actual_HTML_native_reading_ranges": [
+    [
+      0,
+      23595
+    ]
+  ],
+  "scan_source_file": "scan-chapters/ch15.txt",
+  "scan_source_sha256": "b3a0495ee10f0ba01efc93019f71101d365685f9b00315ad4842a86e5c7478e1",
+  "reading_object": "完整PG章节连续全文，全部1890原章页图并读；版本差异、历史事实与现代设计分别标注，不声称两个印本每字一致",
+  "all_original_chapter_page_images_actually_seen": true,
+  "original_pdf_pages": [
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248
+  ],
+  "printed_pages": [
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226
+  ],
+  "visual_files": [
+    "ch15-figures-1.jpg",
+    "ch15-figures-2.jpg",
+    "ch15-figures-3.jpg",
+    "ch15-figures-4.jpg"
+  ],
+  "original_footnotes": 0,
+  "original_tables_figures": 0,
+  "body_han_count": 2452,
+  "summary_sha256": "f0acd51015206a54c89afc0a86cee8cc9400dff4bcaeedbde74867b039bc1156",
+  "numeric_review": "ch15-source-numeric-review.json",
+  "whole_book_reading_complete": true,
+  "independent_semantic_QA": "pending",
+  "current_prediction_enabled": false,
+  "model_calls_executed": 0,
+  "full_author_work_semantic_reading_complete": true,
+  "scan_every_physical_glyph_perfectly_deciphered": false
+}

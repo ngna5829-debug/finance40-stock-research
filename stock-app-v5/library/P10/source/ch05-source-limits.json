@@ -1,0 +1,37 @@
+{
+  "book_id": "P10",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "issues": [
+    {
+      "source_lines": [
+        2392,
+        2405
+      ],
+      "type": "maturity_word_unresolved",
+      "original": "minimum maturity of four, and in exceptional cases six, months",
+      "resolution": "不擅改minimum为maximum；精确期限准入暂停待原扫描/原制度核"
+    },
+    {
+      "source_lines": [
+        3015,
+        3018
+      ],
+      "type": "historical_cases_not_independently_verified",
+      "cases": [
+        "Bank of Ontario 1906",
+        "Sovereign Bank 1908"
+      ],
+      "resolution": "原述同业保护公众避免panic完整保留，不当全部清算记录已核或未来保证"
+    },
+    {
+      "source_lines": [
+        2983,
+        2989
+      ],
+      "type": "foreign_reserve_availability_condition",
+      "resolution": "国外余额/纽约call可增本国金需外方实际付款，不能省上章同时调用失效条件"
+    }
+  ]
+}

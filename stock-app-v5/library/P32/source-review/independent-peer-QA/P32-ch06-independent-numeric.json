@@ -1,0 +1,53 @@
+{
+  "book_id": "P32",
+  "chapter": 6,
+  "arithmetic_not_base_report_validation": true,
+  "original_numbers_unchanged": true,
+  "NY_stock_collateral_bankloan": {
+    "Aug1905_USD": 385652014,
+    "Aug1907_USD": 251867158,
+    "decline_USD": 133784856,
+    "decline_pct": 34.690563291081375,
+    "not_all_NYcredit": true
+  },
+  "national_loans": {
+    "1904_million_USD": 3726,
+    "1907_million_USD": 4679,
+    "difference_million_USD": 953,
+    "other_claim_1905_1907_700m_different_window": true,
+    "includes_NY_no_independent_subtractable_subgroupprovided": true
+  },
+  "mortgage_NY": {
+    "1904m": 455,
+    "1905m": 755,
+    "increase_pct": 65.93406593406593,
+    "author_round66pct": true,
+    "1904_32point7pct_prior_base_notgiven": true
+  },
+  "NY_buildingpermit_excludingQueens": {
+    "1904m": 153.3,
+    "1905m": 229.5,
+    "increase_pct": 49.706457925635995,
+    "not_cashspent_or_projectloss": true
+  },
+  "17stocks_months": {
+    "January": 5,
+    "February": 3,
+    "March": 4,
+    "April": 2,
+    "listed_months_total": 14,
+    "remaining3notlisted": true
+  },
+  "railroad_incremental_net_to_incremental_gross": {
+    "first9months1906_approx_pct": 40,
+    "first9months1907_pct_upper_bound": 10,
+    "1907_less_than_not_equal10": true,
+    "not_overall_level_net_margin": true
+  },
+  "Oct25_week": {
+    "shares": 5166560,
+    "including_bonds_par_USD_exceeds": 483000000,
+    "not_actual_market_transactionUSD_orprofit": true
+  },
+  "original_print1857_in1837note_confirmed": "PDF211/p199; keep as original source discrepancy not silently change."
+}

@@ -1,0 +1,20 @@
+{
+  "rule_id": "P22-R19",
+  "context_file": "source/evidence/unabridged/P22-R19-unabridged.txt",
+  "context_sha256": "24c68f12c7775774c55fdf3b66f3727964ed7b88339bbd48c427d2a1df000d52",
+  "components": [
+    {
+      "section": "ch06",
+      "source_file": "source/ch06.txt",
+      "original_source_sha256": "3991e76834ffbaac45a8125ac3c4520e90234af87f3c97cc738c5f720570d2e5",
+      "original_bytes": 47623,
+      "context_byte_start_inclusive": 83,
+      "context_byte_end_exclusive": 47706,
+      "all_supplied_section_bytes_preserved": true
+    }
+  ],
+  "scope": "All bytes of each complete supplied PG-derived readable section; no missing inter-fragment lines; original raw HTML retained separately. Not a complete original-print glyph certification.",
+  "candidate_provenance": {
+    "work_artifact_path": "work/book-experts-v5/index_team/peer-QA/P22-candidate-artifacts/P22-R19-unabridged.txt"
+  }
+}

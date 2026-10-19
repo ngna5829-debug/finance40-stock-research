@@ -1,0 +1,612 @@
+{
+  "book_id": "P05",
+  "title": "Political Economy",
+  "author": "William Stanley Jevons",
+  "edition": "D. Appleton and Company, New York, 1880；作者前言1878-01-31；不把前言日期冒称精确初版证据",
+  "source": {
+    "file": "work/book-experts-v5/index_team/P05/source/original.txt",
+    "bytes": 275300,
+    "sha256": "2eb15a4da5e694455a98b4f7d8c0b608e2326ac1b455cb1d37ceac1e73f606b9",
+    "line_count": 4600,
+    "url": "https://www.gutenberg.org/cache/epub/33219/pg33219.txt",
+    "catalogue_url": "https://www.gutenberg.org/ebooks/33219",
+    "public_domain_status": "Public domain in the USA（官方PG版权行本轮已核）",
+    "declared_printed_titlepage_year": 1880,
+    "specific_original_scan_visually_verified": false,
+    "download_start_end_markers_verified": true
+  },
+  "status": "semantic_artifacts_independently_qualified_after_attribution_clarifications",
+  "coverage_qualified": true,
+  "coverage_status": "coverage_qualified",
+  "book_semantic_reading_completed": true,
+  "all_original_chapters_semantically_reviewed": true,
+  "original_chapter_count": 16,
+  "original_numbered_sections_inclusive": [
+    1,
+    100
+  ],
+  "completed_chapters": 16,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Introduction",
+      "source_lines_inclusive": [
+        180,
+        495
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch01-original.txt",
+      "source_text_sha256": "1ac22a641705d69c8840b94b72313f6a37b359a3d59e61ae5a6e606279cb0786",
+      "original_word_count": 3374,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch01.md",
+      "han_body_count": 2842,
+      "draft_sha256": "485d610bafb37be90e2ef7dfb129661cc7c50400a3faa8567035ad6e935987f5",
+      "source_reading_method": "整章316行输出，中部显示截断131 tokens；随后145–170行独立重读补齐后标语义完成。",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          316
+        ],
+        [
+          145,
+          170
+        ]
+      ],
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 2,
+      "title": "Utility",
+      "source_lines_inclusive": [
+        496,
+        732
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch02-original.txt",
+      "source_text_sha256": "69a90f0a57e12bf76f17a7e62c6c7813f4ef61221a96b5170f14709a96b6de66",
+      "original_word_count": 2647,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch02.md",
+      "han_body_count": 2758,
+      "draft_sha256": "157945f83a506a6cd6b652758ded6149011dac2467dcc205752c7d6be4831808",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          237
+        ]
+      ],
+      "source_reading_method": "原章237行完整输出无截断，逐段语义审读后写稿。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 3,
+      "title": "Production of Wealth",
+      "source_lines_inclusive": [
+        733,
+        998
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch03-original.txt",
+      "source_text_sha256": "f91ff4fd425e423dfa877098873bab7015c948463814a093d81c565dfbffcbce",
+      "original_word_count": 2814,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch03.md",
+      "han_body_count": 2540,
+      "draft_sha256": "21139b9014a85272752781e4a84131e8473c7de59bbabab0456861d1a373a497",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          266
+        ]
+      ],
+      "source_reading_method": "原章266行完整输出无截断，含三要件后续修订与全部例子，语义审读后写稿。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 4,
+      "title": "Division of Labour",
+      "source_lines_inclusive": [
+        999,
+        1316
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch04-original.txt",
+      "source_text_sha256": "a127f375e1c4995718be18e9b151abd906b8f2b5804b8b337b0c044133780960",
+      "original_word_count": 3481,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch04.md",
+      "han_body_count": 2673,
+      "draft_sha256": "24ab2ee1efb2b28818ed7a87ac60d23d5e796048bc0d042ab163c02b213b4220",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          318
+        ]
+      ],
+      "source_reading_method": "318行完整输出无截断；原书斯密修订、组合分类、转业困难均完成语义审读。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 5,
+      "title": "Capital",
+      "source_lines_inclusive": [
+        1317,
+        1482
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch05-original.txt",
+      "source_text_sha256": "0e07b96dd9f96de292740863ae312628b0d507e605bcd881003651a2c38a5a86",
+      "original_word_count": 1865,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch05.md",
+      "han_body_count": 2401,
+      "draft_sha256": "940dd016a1b749f5f382d8bd5969bdc4704af12fc42e6d1a03463f89729a9a72",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          166
+        ]
+      ],
+      "source_reading_method": "166行完整输出无截断，固定/流动连续性、等待算例与原书概念排除均读。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 6,
+      "title": "Distribution of Wealth",
+      "source_lines_inclusive": [
+        1483,
+        1656
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch06-original.txt",
+      "source_text_sha256": "e72d54f74a9c41c672669ade4bb4d4a112523e5aa23ef449db309101d2102bce",
+      "original_word_count": 1852,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch06.md",
+      "han_body_count": 2478,
+      "draft_sha256": "819225e50f18542d4f0a5a3dc491489ddfee731711c55ee0d4e282a939902c05",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          174
+        ]
+      ],
+      "source_reading_method": "174行完整输出，无截断，含四份额、管理与风险拆分、纯利息及趋同判断。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 7,
+      "title": "Wages",
+      "source_lines_inclusive": [
+        1657,
+        1909
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch07-original.txt",
+      "source_text_sha256": "6c195c1903293f96b2e63e89d0705411fcc3f238705415f7954c308ca09766c3",
+      "original_word_count": 2787,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch07.md",
+      "han_body_count": 2588,
+      "draft_sha256": "8d9ba09199e2c039f72cd655e4b736e691e423fd89605b45be8f4905b9b4abe9",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          253
+        ]
+      ],
+      "source_reading_method": "原章253行完整输出，无截断。已读名义/实际工资、五条件、公平工资原书立场。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 8,
+      "title": "Trades-Unions",
+      "source_lines_inclusive": [
+        1910,
+        2393
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch08-original.txt",
+      "source_text_sha256": "7f33dba79784208b7d00a9202b4b98959eb604e4091a61471c60d7e23326fb44",
+      "original_word_count": 5477,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch08.md",
+      "han_body_count": 2907,
+      "draft_sha256": "3cec90fd8f860c1962ba784d110d4d911a1c5e03ce250b1e3384237dfb1210b4",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          245
+        ],
+        [
+          246,
+          484
+        ]
+      ],
+      "source_reading_method": "原章484行两块无截断读完，十一节全部实际阅读，区分互助/安全认可与工资/垄断反对，保留计件健康和转业张力。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 9,
+      "title": "Co-operation, etc.",
+      "source_lines_inclusive": [
+        2394,
+        2699
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch09-original.txt",
+      "source_text_sha256": "83f5bf2f82a3283fb28be4a2a2165d15f312a98e4a2704d9805e26027b67942b",
+      "original_word_count": 3267,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch09.md",
+      "han_body_count": 2587,
+      "draft_sha256": "60cd0856da8e6cc2b49e06867d47200157c1e0aa4561cc30524afc6c6fca4209",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          306
+        ]
+      ],
+      "source_reading_method": "306行完整输出，无截断，仲裁、调解、消费合作、工业伙伴、工人股份和储蓄六节全部读。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 10,
+      "title": "The Tenure of Land",
+      "source_lines_inclusive": [
+        2700,
+        2993
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch10-original.txt",
+      "source_text_sha256": "541f399ec623a145fad63359380770ec82f02defec20b50cce9fb6e18f4072fc",
+      "original_word_count": 2919,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch10.md",
+      "han_body_count": 2530,
+      "draft_sha256": "76e3699fad5f5db2ed4ef1ad697c2aad492b451a2215747af2f8cfc9e7fe3f73",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          294
+        ]
+      ],
+      "source_reading_method": "294行完整输出，无截断，土地制度图、奴隶制道德否定、短租批评、长租与佃农权及差额租理论全读。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 11,
+      "title": "Exchange",
+      "source_lines_inclusive": [
+        2994,
+        3244
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch11-original.txt",
+      "source_text_sha256": "d0892192ac6f3c5870752e153fab5aa6080c14b4e258cbdfc8f93a6ce9a268cd",
+      "original_word_count": 2833,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch11.md",
+      "han_body_count": 2358,
+      "draft_sha256": "24e24d4968c1ad95459a9c6b4616e4e2aeb9e08cae8b6255d343f33cc011238d",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          251
+        ]
+      ],
+      "source_reading_method": "251行完整输出无截断，含所有供需表、市场例证、价值/劳动与珍珠因果链。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 12,
+      "title": "Money",
+      "source_lines_inclusive": [
+        3245,
+        3454
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch12-original.txt",
+      "source_text_sha256": "1ec6d1851f2bdd8f3c20265cb74926de3c7ba36d969f58df3c48261fb6549a56",
+      "original_word_count": 2311,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch12.md",
+      "han_body_count": 2430,
+      "draft_sha256": "f28620ed03505a3cdd0b52b81683641c2ed35185dbc2a00e6e2972df4a9814df",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          210
+        ]
+      ],
+      "source_reading_method": "210行完整输出无截断，物物/媒介示意图、计价、材料、硬币与可兑/不可兑券全读；法律数字非当代认证。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 13,
+      "title": "Credit and Banking",
+      "source_lines_inclusive": [
+        3455,
+        3627
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch13-original.txt",
+      "source_text_sha256": "b97aea69bd5a708600bd5cff578c3af006831e10387e56e022f1515322f32f27",
+      "original_word_count": 1812,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch13.md",
+      "han_body_count": 2310,
+      "draft_sha256": "89ed2bc2e50db5fd35d820751347928aca70619ed6e4f80abbad889991c7a2ae",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          173
+        ]
+      ],
+      "source_reading_method": "173行完整输出无截断，全部信用、抵押、存款、期限及示例票据读。",
+      "literal_all_printed_words_verified": false,
+      "unresolved_textual_issue": "例票John出票/卖方、Thomas受票/买方；末段却写John先付款，主要及追索付款次序待核原本，不默换人名。",
+      "precise_bill_liability_chain_enabled": false
+    },
+    {
+      "chapter": 14,
+      "title": "Credit Cycles",
+      "source_lines_inclusive": [
+        3628,
+        3878
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch14-original.txt",
+      "source_text_sha256": "75936dc5915a797d94e87df357b37e464b11340ceba5db67d902de26a289576a",
+      "original_word_count": 2667,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch14.md",
+      "han_body_count": 2612,
+      "draft_sha256": "813c23fcdd51418891d21dac69e155c1a99db50cad0bd4aa8748a5f9f85e13e6",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          251
+        ]
+      ],
+      "source_reading_method": "251行完整输出无截断，季节、泡沫机制、全部危机年、太阳热量猜想、十年示意表与不规则说明、投资建议和牛顿例子全读。",
+      "literal_all_printed_words_verified": false,
+      "numeric_or_calendar_parameters_enabled": false
+    },
+    {
+      "chapter": 15,
+      "title": "The Functions of Government",
+      "source_lines_inclusive": [
+        3879,
+        3988
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch15-original.txt",
+      "source_text_sha256": "2df5a4534f627710cc462736d3c7cb2c77c68b3983277b0ee3f9a3b9fdc191c8",
+      "original_word_count": 1049,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch15.md",
+      "han_body_count": 2253,
+      "draft_sha256": "18e15c5c3ccf7b157fb5712d82c431a866996e62e4eebf4bc173eccd178cf421",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          110
+        ]
+      ],
+      "source_reading_method": "110行完整输出无截断，必要/可选职能、气象及包裹规模优势与公私管理权衡全部读。",
+      "literal_all_printed_words_verified": false
+    },
+    {
+      "chapter": 16,
+      "title": "Taxation",
+      "source_lines_inclusive": [
+        3989,
+        4249
+      ],
+      "source_file": "work/book-experts-v5/index_team/P05/source/ch16-original.txt",
+      "source_text_sha256": "ee1f055d8dc1789b3fc96f2f2a1011e84ccccb1cfccbb7dd0666669bad369092",
+      "original_word_count": 2852,
+      "complete_semantic_reading": true,
+      "chapter_draft_written": true,
+      "draft_file": "work/book-experts-v5/index_team/P05/chapters/ch16.md",
+      "han_body_count": 2896,
+      "draft_sha256": "76ef6cf4eed72250cd3ba6bb00b53331bd1b9e313eaae3c1b88df8872b886322",
+      "reading_blocks_inclusive": [
+        [
+          1,
+          261
+        ]
+      ],
+      "source_reading_method": "261行完整输出无截断，含六节、税例、四原则、自由贸易、重商论与全书结语/END。",
+      "literal_all_printed_words_verified": false
+    }
+  ],
+  "chapter_body_han_total": 41163,
+  "minimum_chapter_body_han": 2253,
+  "count_method": "正文开始/结束标记内U+4E00–U+9FFF汉字；不含标题、原文、综合、专家提示词和元数据。",
+  "required_per_chapter_han": 2000,
+  "required_book_han": 20000,
+  "all_chapters_meet_length": true,
+  "book_meets_length": true,
+  "frontmatter": {
+    "source_lines_inclusive": [
+      1,
+      179
+    ],
+    "complete_semantic_reading": true,
+    "notes": "正文之外的电子信息、抄写说明、1880扉页、目录与完整1878作者前言已读"
+  },
+  "appendix_present_in_retrieved_text": false,
+  "index_present_in_retrieved_text": false,
+  "gutenberg_license": {
+    "source_lines_inclusive": [
+      4250,
+      4600
+    ],
+    "complete_semantic_reading": true,
+    "counts_as_author_chapter": false,
+    "retained_in_original_source": true
+  },
+  "author_content_line_coverage": {
+    "intervals_inclusive": [
+      [
+        180,
+        495
+      ],
+      [
+        496,
+        732
+      ],
+      [
+        733,
+        998
+      ],
+      [
+        999,
+        1316
+      ],
+      [
+        1317,
+        1482
+      ],
+      [
+        1483,
+        1656
+      ],
+      [
+        1657,
+        1909
+      ],
+      [
+        1910,
+        2393
+      ],
+      [
+        2394,
+        2699
+      ],
+      [
+        2700,
+        2993
+      ],
+      [
+        2994,
+        3244
+      ],
+      [
+        3245,
+        3454
+      ],
+      [
+        3455,
+        3627
+      ],
+      [
+        3628,
+        3878
+      ],
+      [
+        3879,
+        3988
+      ],
+      [
+        3989,
+        4249
+      ]
+    ],
+    "covered_unique_lines": 4070,
+    "expected_retrieved_author_content_lines": 4070,
+    "coverage_complete_for_retrieved_text": true
+  },
+  "full_reading_completed": false,
+  "literal_all_printed_words_verified": false,
+  "all_historical_numeric_values_externally_verified": false,
+  "unresolved_gaps": [
+    {
+      "location": "作品身份/初版",
+      "issue": "初版1878由目录作品记录支持，未核初版扫描；实际文本扉页1880",
+      "action": "不冒称读的是1878扫描初版，不与Theory of Political Economy混同"
+    },
+    {
+      "location": "第十三章第86节",
+      "source_lines_inclusive": [
+        3607,
+        3623
+      ],
+      "issue": "前文John出票/卖方、Thomas受票/买方并认欠款，末段写John先付及最后持有人向John索款",
+      "action": "保留人名和表述，不静默改；精确主要/追索付款链弃权直到原本核对"
+    },
+    {
+      "location": "第九章与第六章",
+      "issue": "利润分享协议先取10%与纯平均利息约4%是不同语境，未有原合同和完整账目解释",
+      "action": "不统一成一个利率、不认定哪方错误、不作现代阈值"
+    },
+    {
+      "location": "第十四章",
+      "issue": "危机年有范围和反事实，十年表含8/9年变动，太阳热量猜想未检验",
+      "action": "原表不是真实逐年观测，月份/年份不触发判断，不作训练真值"
+    },
+    {
+      "location": "第八章/第二与第四章",
+      "issue": "机器与就业的强乐观句和明确转业困难需同时保留，计件自我健康假设与集体安全需辨析",
+      "action": "不以单句认证每人受益或净效果"
+    },
+    {
+      "location": "社会历史论断",
+      "issue": "慈善、原住民、殖民和工会的强归因缺完整独立验证",
+      "action": "作者立场明确归因，不把贬抑群体叙事当本稿认可事实"
+    },
+    {
+      "location": "第十二/十六章法律",
+      "issue": "古货币、法定支付、抵押票据与税制时点限定，未核现今制度",
+      "action": "不作当代法律税务操作指导"
+    },
+    {
+      "location": "全部历史数值",
+      "issue": "工资、成本、寿命、硬币、税负等未逐项核原统计/扫描",
+      "action": "不输入数值回测，不冒称预测参数校准"
+    }
+  ],
+  "expert_count": 1,
+  "book_count": 1,
+  "rules_count": 26,
+  "experiment_data_eligibility": {
+    "historical_unverified_numbers": false,
+    "cycle_table_as_training_truth": false,
+    "calendar_months_as_trading_parameters": false,
+    "solar_heat_hypothesis_as_validated_model": false,
+    "precise_bill_liability_chain": false
+  },
+  "current_stock_decision_enabled": false,
+  "live_market_connected": false,
+  "backtests_run": 0,
+  "independent_qa": {
+    "status": "passed_after_attribution_clarifications_with_source_limits",
+    "self_audit_not_independent": true,
+    "reviewer": "root_independent_of_index_team_author"
+  },
+  "overall_40_book_goal_completed": false,
+  "artifact_sha256": {
+    "章节深读.md": "2421a26d88890c6da26aaa84edc931e642ce0473919cd61c74841c1dc4a9ab23",
+    "全书综合与前后置页.md": "b69b03f6262b3441a3c41ecde272764ee6f5fd2f240c299724f7151e3586216f",
+    "专家定义.json": "f95d2d8285058b13d614e8951256405e0111b7e252938e0d6e3986b91804f28b",
+    "专家说明.md": "3c8e248c4ef07015b6a80f4c28ef08ff58b295981697ed8df2ef3915d604dc3d",
+    "source-metadata.json": "00cf2232476d60a34f08b14909b85581e83a7d8768c53422e42146633b2cbd31"
+  },
+  "final_qualified": true,
+  "precise_rule_evidence_segment_count": 49,
+  "precise_unique_evidence_segments": 45,
+  "root_attribution_clarifications_rules": [
+    "P05-R06",
+    "P05-R07",
+    "P05-R09",
+    "P05-R12",
+    "P05-R14",
+    "P05-R16",
+    "P05-R19",
+    "P05-R22",
+    "P05-R26"
+  ]
+}

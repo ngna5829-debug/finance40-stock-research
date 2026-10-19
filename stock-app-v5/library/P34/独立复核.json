@@ -1,0 +1,869 @@
+{
+  "book_id": "P34",
+  "status": "passed_with_source_limits",
+  "qualified_pass": true,
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "peer_QA_file": "source-review/independent-peer-QA/P34-independent-QA.json",
+  "peer_QA_sha256": "7b8d4408f6a1e2a176d1acc2260095dd9505c3b2da12ea6127fbf9e4e9ca160b",
+  "peer_all26_original_chapters_dossiers_front_notes_license_all50rules_actually_reviewed": true,
+  "root_actual_review_scope": {
+    "book_id": "P34",
+    "reviewer": "root independent merge acceptance reviewer; full-book peer review by value_books separate",
+    "all26_original_chapters_third_read_claimed": false,
+    "all50_rules_third_read_claimed": false,
+    "all171_contexts_third_semantic_read_claimed": false,
+    "all_original_scan_glyphs_verified": false,
+    "actually_read_complete_original_chapters": [
+      3,
+      4,
+      7,
+      8,
+      9,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      24,
+      25,
+      26
+    ],
+    "actually_read_complete_changed_dossiers": [
+      3,
+      4,
+      8,
+      9,
+      13,
+      21,
+      25,
+      26
+    ],
+    "actually_read_affected_rule_non_source_semantic_fields": [
+      "P34-R12",
+      "P34-R14",
+      "P34-R22",
+      "P34-R25",
+      "P34-R29",
+      "P34-R30",
+      "P34-R32",
+      "P34-R33",
+      "P34-R34",
+      "P34-R36",
+      "P34-R39",
+      "P34-R45"
+    ],
+    "required_finding_groups_actually_read": 21,
+    "exact_field_changes_actually_read": 16,
+    "whole_explainer_and_synthesis_read": true,
+    "complete_merge_script_inspected": true,
+    "actual_native_original_PDF_images_viewed": [
+      23,
+      34,
+      41,
+      108,
+      109
+    ],
+    "image_paths": [
+      "work/book-experts-v5/value_team/peer-QA/P34-images/pdf023.png",
+      "work/book-experts-v5/practical_team/P34/source-review/p034.png",
+      "work/book-experts-v5/value_team/peer-QA/P34-images/pdf041.png",
+      "work/book-experts-v5/practical_team/P34/source-review/p108.png",
+      "work/book-experts-v5/practical_team/P34/source-review/p109.png"
+    ],
+    "root_original16row_table_independent_transcription": {
+      "initial": [
+        75,
+        88,
+        76,
+        64,
+        90,
+        118,
+        70,
+        81,
+        87,
+        23,
+        50,
+        48,
+        33,
+        45,
+        47,
+        10
+      ],
+      "final": [
+        79,
+        93,
+        88,
+        68,
+        109,
+        121,
+        78,
+        91,
+        95,
+        26,
+        63,
+        54,
+        40,
+        53,
+        51,
+        11
+      ],
+      "differences": [
+        4,
+        5,
+        12,
+        4,
+        19,
+        3,
+        8,
+        10,
+        8,
+        3,
+        13,
+        6,
+        7,
+        8,
+        4,
+        1
+      ],
+      "column_sums": [
+        1005,
+        1120,
+        115
+      ],
+      "own_funds_for_ten_each": 3481.0,
+      "gross_price_gain": 1150,
+      "conditional_twenty_year_value": 3325256.730079651,
+      "actual_trading_records_verified": false
+    },
+    "specific_acceptance": "Apr25 footnote records suspension then reaction only; perhaps qualifier kept; dividends not rate hike; bank collateral/bucket warning; annual price and failure windows separated; nearly all author claim separated from missing verification; quoted voices preserved; historical assumptions not modern automatic instructions.",
+    "file_SHA256": {
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch03.txt": "60b5a373f165059776f3d7957daa96718c1b788270c81233558cdb27cabd0969",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch04.txt": "e583aa6f64706fcc18f4841444d7afb09d5dba0f638657a6f3668d4fcbb822df",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch07.txt": "3ab8ae5cc109363ce038b952344b6be622a7c5172675c0b184e74b32249e90c0",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch08.txt": "8df9115785bd09608aa1c918e5552bfb86a9d3226c0e46cc7458b263c81b4484",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch09.txt": "9df865e312216cc54e0cef33af02e4759cdcfc2e838da33271d3dea484f31c0a",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch13.txt": "9e1ad0dc1ef6ad08b999582de8c1a2979fc76e39ea280d771092717d76b656cc",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch14.txt": "6d40b614bcd9f035ebb336cd48e4bcf15551bd5cee279e70a8fdb8b26c5c4db7",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch16.txt": "172ee351a920bf8d84128515402ef26c9fbb239935defd31ec00cc275dc759da",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch17.txt": "e1b89667ac0036b9ccc0667839b0f652b78baa8306d9e9f9d23a4bb829f4a08e",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch18.txt": "a0fa9bf2d4f3adca70a084dbdf262b973fca77dc2cd70006dfcf97e1e5d8c1a6",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch19.txt": "aaafe307ff69a2a8a80d0f787825da532e08040bec46735d401d54e609d2339b",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch20.txt": "dd89b3300e6943cd711c4688f55466aac2cc0de93627c045462423c0f41fc896",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch21.txt": "64776f8de2ee252c608347b40759d4c23ed575226439eea5176077998f90caab",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch22.txt": "dd20c4d816beff03f32919aadd783e40801e56452090d957c8eda3114aa4b636",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch24.txt": "f4499dd2627ead8b056bb9eff67f1027e30ec79bb4a089e64135fab2fd1bcea7",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch25.txt": "5488f4cebd514eb81d5f50952a7d64a80587930dace5ed951c3cfccdbd953e1b",
+      "work/book-experts-v5/practical_team/P34/source/chapters/ch26.txt": "d2ed6c404448df93a0c05bed58082a20e6e4492bdc210fe57825155a7590db5c",
+      "work/book-experts-v5/practical_team/P34/ch03.md": "99ab0401271e2942c70a5649b80b479d51b0e6b9ea59b24c94ffbe55ee629065",
+      "work/book-experts-v5/practical_team/P34/ch04.md": "54c68c4b373c1f5743ff219ba4dd625e700d0a2c487f708ccfa47d19d0d88701",
+      "work/book-experts-v5/practical_team/P34/ch08.md": "c17be30f66750f44e473804ee3d330e944a2479f260305cfe4c8e9cd2659a384",
+      "work/book-experts-v5/practical_team/P34/ch09.md": "718f9870d62dc33867514e2949cfacbc0175b8d425e3d413a5d0a0fc45b34ed4",
+      "work/book-experts-v5/practical_team/P34/ch13.md": "31d8b2d5a8a1026957556891576e4acc3fc152a752713dc18db925552d51a99d",
+      "work/book-experts-v5/practical_team/P34/ch21.md": "ebbcb1ca4367d851aaf13bf60b7de0ea1af024697c2bc1f23e84a84a30fb88c8",
+      "work/book-experts-v5/practical_team/P34/ch25.md": "8109e486647cfde6046a0af5a62cb641ba3fc167ddbb52b82941aaadcddf4264",
+      "work/book-experts-v5/practical_team/P34/ch26.md": "ae7bb8aea1704b0477b546e6f94ac1db30e48d3a1662396651a9227507a159a9",
+      "work/book-experts-v5/practical_team/P34/专家说明.md": "d6bdb55c747d9fe4f028ded1c9ac9e27d5fec377f35bba273302fcc7e31ce41d",
+      "work/book-experts-v5/practical_team/P34/全书综合与附录.md": "0246d462284bc0ddf052d8bd8c311a31fcda58aaa53b43b1fc5dfe5764d54aa6",
+      "work/book-experts-v5/value_team/peer-QA/P34-required-findings.json": "6416337081fee7133b9f27bd11fc56c1199898965df0b505c65284d7bbd49ca2",
+      "work/book-experts-v5/value_team/peer-QA/P34-independent-numeric.json": "a756e0f8d5ed2338e2061f523eb5e4800d447e89cd5ce3d9e621e0675a7b1f97",
+      "work/book-experts-v5/root_team/peer-QA/merge-P34-QA.py": "461340be14f424b98c0ff0b52e9a6041b84bdabf36679a7649915e298fc5b1a5"
+    },
+    "reviewed_utc": "2026-10-13T16:39:27.334590+00:00"
+  },
+  "required_findings_merged": [
+    {
+      "id": "P34-QA-A01",
+      "status": "all50_rules_complete_raw_original_contexts_and_whole_discourse_linked",
+      "scope": "source global coordinate file and complete context evidence",
+      "finding": "Current supportwholeparagraph range and chapter range reference originalTXTgloballines but attachedtosubsetsourcefile;retainnavexplicitandaddexact originalrawline/char/byte/SHA andactualwholecontext afterallrule/source semanticreading."
+    },
+    {
+      "id": "P34-QA-A02",
+      "file": "ch03.md",
+      "status": "wording_clarification",
+      "old": "“交易者”被作者便宜地用于任何买卖股票的人。",
+      "candidate_new": "作者为方便起见，将“交易者”用于任何买卖股票的人。",
+      "reason": "Originalforconvenience isauthor terminologyconvention,notcheapcost; subsequentanalysisalreadycorrect."
+    },
+    {
+      "id": "P34-QA-A03",
+      "status": "archive_resolved_stage_header",
+      "file": "ch04.md",
+      "old": "章界至第五章印刷页23以前包含部标题，精确正文末页待同版扫描核对。",
+      "candidate_new": "本章数字源还包括后续第二部标题；原作者正文止于印刷页19/PDF23，本次独审已目视确认末页。",
+      "reason": "Oldwritingstage awaitinglastpage isnowresolved;PDF23/p19 fulloriginalseen andendsknownrumorparagraph. Noallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A04",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "candidate_new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。",
+      "reason": "Sourcefootnoteonlypausemarginbuying/reaction,doesnotstateanotherbuyopportunity/advice;sourcefullTXT559–562+PDF34footnoteactualimage."
+    },
+    {
+      "id": "P34-QA-A05",
+      "status": "required_qualifier_precision",
+      "rule_id": "P34-R12",
+      "fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+          "candidate_new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+        },
+        {
+          "field": "counterexample_or_limit",
+          "old": "原书明确NYSE也有永无价值之股。",
+          "candidate_new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+        }
+      ],
+      "reason": "Someperhapsnointrinsicvalueandneverwill originalmodalitymustpreserve;separateauthorstatesstocksnotbuyatanytime,strongclaimretainedinfullchapter. SourceTXT524–532."
+    },
+    {
+      "id": "P34-QA-A06",
+      "file": "ch13.md",
+      "status": "required_terminology_clarification",
+      "old": "“有时卖”与“所有加息公告都卖”相差很大。",
+      "candidate_new": "“有时卖”与“所有提高股息的公告都卖”相差很大。",
+      "reason": "Originaladvanceinitsdividendrate isdividendincrease,notmonetaryinterestratehike. Sameparagraphshouldnotshiftfromcompanydistributiontopolicy."
+    },
+    {
+      "id": "P34-QA-A07",
+      "status": "archive_resolved_stage_header",
+      "file": "ch09.md",
+      "old": "正文末页和后续空白/部标题页待扫描章界核准。",
+      "candidate_new": "原作者正文末页为印刷页三十七/PDF四十一，已在本次独审中核对原图；数字源另含第三部标题。",
+      "reason": "OriginalPDF41completeactuallyseenendsReadChapterXXIVnotextraauthorbody. Noallblankpagesorallglyphclaim."
+    },
+    {
+      "id": "P34-QA-A08",
+      "status": "required_semantic_correction",
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "candidate_new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。",
+      "reason": "Source13actualmechanismisexpectation/newspaperprediction/letupbuying notprofitrealizationorrumor,neither14/15providestheseasreactionmechanism. Preserve conditionalauthorclaim ratherthanreinterpret asindependent.",
+      "source_global_TXT_lines": [
+        788,
+        814
+      ]
+    },
+    {
+      "id": "P34-QA-A09",
+      "status": "required_semantic_corrections",
+      "rule_fields": [
+        {
+          "rule_id": "P34-R29",
+          "field": "author_meaning",
+          "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+          "candidate_new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。",
+          "source_global_TXT_lines": [
+            984,
+            1012
+          ],
+          "reason": "Lastclauseinventedbrokerfunding rule afterbankreject; originalinadmissiblecollateralwarnsnotexpectfinanceandbucket suspicion,notthenbrokerself-funds."
+        },
+        {
+          "rule_id": "P34-R30",
+          "field": "author_meaning",
+          "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+          "candidate_new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。",
+          "source_global_TXT_lines": [
+            1014,
+            1029
+          ],
+          "reason": "Originalclosingparagraphs donotmentionregularlypayingdividends. Do notaddissuerconditionasauthorstatement;preserveotherexplicitstronglowriskclaimandconditionalnofinancing."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A10",
+      "status": "terminology_clarification",
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "candidate_new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。",
+      "reason": "Shortinterest referstooutstandingshortpositionsnot短兴趣. Originalcovercaninfluencehigher/bearsconditionsalsoforceprice down.",
+      "additional_rule_fields": [
+        {
+          "rule_id": "P34-R39",
+          "field": "author_meaning",
+          "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+          "candidate_new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。",
+          "reason": "Takingtoo-great-chances meansrisk/excessiveadventure, notlargeopportunities; preservequotedproportions notownstatistics."
+        }
+      ]
+    },
+    {
+      "id": "P34-QA-A11",
+      "status": "required_time_precision",
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "candidate_new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。",
+      "reason": "SourcepriceupbeginsAug1921 butbucketfailureperiodearly1922-toApril1922. Currentcombinationassignsfiftyfailurestodifferentwindow. SourcefullTXT1119–1128."
+    },
+    {
+      "id": "P34-QA-A12",
+      "status": "required_attribution_precision",
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "candidate_new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。",
+      "reason": "Originalseparateprefersnotrecommendandcannotguaranteestatements,notexplicit以免担保cause; preserveownknowledgeboundarynotinventauthorpurpose. GlobalTXT1159–1171."
+    },
+    {
+      "id": "P34-QA-A13",
+      "status": "required_author_voice_separation",
+      "rule_id": "P34-R36",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+          "candidate_new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+          "candidate_new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+        }
+      ],
+      "reason": "Nearlyall originalclaimnotjustmost;未证 ispeeranalysisnotauthoropinion. Keepclaimin authorvoice, missingdenominatorinindependentfield."
+    },
+    {
+      "id": "P34-QA-A14",
+      "status": "required_unit_clarification",
+      "file": "ch21.md",
+      "old": "第三十至五十个百分点只是历史自有资金建议",
+      "candidate_new": "百分之三十至五十只是历史自有资金比例建议",
+      "reason": "Margin30–50%levels not30–50percentage-pointchange. Originalchapter16relationpurchasepriceclear."
+    },
+    {
+      "id": "P34-QA-A15",
+      "status": "required_voice_and_unit_precision",
+      "patches": [
+        {
+          "rule_id": "P34-R45",
+          "field": "author_meaning",
+          "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+          "candidate_new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+        },
+        {
+          "rule_id": "P34-R45",
+          "field": "independent_analysis",
+          "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+          "candidate_new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+        },
+        {
+          "file": "ch25.md",
+          "old": "按每股十二点五美分计，一千元全款可以买约十股，买卖各一點二五；若作为一百股的百分之十保证金，则买卖各十二點五，还对借款余额付利息。",
+          "candidate_new": "按每股十二点五美分计，一千美元全款可以买约十股，买卖各收一点二五美元；若作为一百股的百分之十保证金，则买卖各收十二点五美元，还对借款余额付利息。"
+        }
+      ],
+      "reason": "Keepletterassertion/peerabsenceofverificationseparate; USD monetarydenominatornotambiguousChinese元. Exactsource1614–1649andwholeanonymousletter."
+    },
+    {
+      "id": "P34-QA-A16",
+      "status": "required_trigger_and_unit_correction",
+      "patches": [
+        {
+          "file": "ch26.md",
+          "old": "第七章四月二十五日脚注因保证金买入过快，改为暂停融资买入等待回落，形成同书不同观察日的修订。",
+          "candidate_new": "第七章脚注明记四月二十五日因市场上涨过快，建议客户暂缓保证金买入，随后才说市场出现明显回落，形成同书不同观察日的修订。"
+        },
+        {
+          "file": "ch26.md",
+          "old": "他设一千元、每年五成、全部再投二十年",
+          "candidate_new": "他设一千美元、每年五成、全部再投二十年"
+        }
+      ],
+      "reason": "Footnote1triggerismarketadvance notclientsmarginpurchasingpace; reactionreportedsubsequentlynotexplicitre-entrytarget. USDratherthanChineseambiguous元;rawsourceunaltered."
+    },
+    {
+      "id": "P34-QA-A17",
+      "status": "required_semantic_correction",
+      "file": "全书综合与附录.md",
+      "old": "稍后回落再次给机会。",
+      "candidate_new": "脚注只记其后出现明显回落，并未说再次发出买入建议。",
+      "reason": "Sameinventedre-entryopportunityasR14absentoriginalfootnote;originalPDF34actuallyseenfullfootnote."
+    },
+    {
+      "id": "P34-QA-A18",
+      "status": "archive_resolved_stage_record",
+      "patches": [
+        {
+          "file": "ch08.md",
+          "old": "相关第十四章尚须另读，不能据目录先填指标。",
+          "candidate_new": "其交叉引用的第十四章现已完整读核，技术指供求及相关义务，不凭现代指标替代。"
+        },
+        {
+          "file": "ch08.md",
+          "old": "所以本章专家此刻只能记录后文依赖。",
+          "candidate_new": "所以单读本章只能记录后文依赖；整本审核则须连接第十四章已经读核的真实供求定义。"
+        }
+      ],
+      "reason": "Wholebookactualchapter14nowread; preservehistoricalstageexternally notassertcurrentnotread. No originaltextrewrite."
+    },
+    {
+      "id": "P34-QA-A19",
+      "status": "required_quote_voice_precision",
+      "scope": "source_supports/precise_source_contexts source_voice",
+      "voice_map": {
+        "P34-C24-P006_to_P012": "Babson quoted by Butler1922; this passage only, wholeBabsonbooknotclaimedread",
+        "P34-C25-P005": "HenryClews quoted by Butler1922; this passage only",
+        "P34-C25-P007_to_P010": "Anonymouscustomers-roommanagerletter quoted by Babson and reproduced by Butler1922; narrativeunverified"
+      },
+      "reason": "ExistingButler1922label uniformonquotedrawparagraphs wronglycollapsesdirectvoice. Keepunderlyingwholebooksourceprovenance andallrawbytes unchanged."
+    },
+    {
+      "id": "P34-QA-A20",
+      "status": "required_count_method_precision",
+      "scope": "chapter-plan/audit/validation/expert/synthesis/explainer counts",
+      "author_method_total": 57771,
+      "strict_excluding_source_link_labels_total": 57758,
+      "minimum_chapter_strict": 2048,
+      "excluded_source_link_labels": [
+        {
+          "chapter": 15,
+          "label": "SEC市场操纵释义",
+          "Han": 6
+        },
+        {
+          "chapter": 16,
+          "label": "SEC保证金账户说明",
+          "Han": 7
+        }
+      ],
+      "reason": "Source-linklabelsarecitationmetadata ratherthanoriginalanalysisbody. All26remain>2000 andbook>20000;mergeaftersemanticcorrectionsmustrecomputeuniformlynotcarryoldnumbers."
+    },
+    {
+      "id": "P34-QA-A21",
+      "status": "required_author_reason_precision",
+      "rule_id": "P34-R25",
+      "rule_fields": [
+        {
+          "field": "author_meaning",
+          "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+          "candidate_new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+        },
+        {
+          "field": "independent_analysis",
+          "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+          "candidate_new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+        }
+      ],
+      "reason": "Chapter14doesnotexpress因为所需时间不能准确知 asreasonforheavymargin;chapter11unknownmajorcyclepathnotidenticalindividualvaluetime. Moveunprovidedarrivaldateassessmenttoindependentfieldandkeepchapter14faithful."
+    }
+  ],
+  "exact_rule_field_changes": [
+    {
+      "rule_id": "P34-R14",
+      "field": "author_meaning",
+      "old": "脚注记1922四月二十五日建议暂不融资买，因市场涨太快，之后有回落又给买入时机。",
+      "new": "脚注记一九二二年四月二十五日建议客户暂缓保证金买入，因为市场上涨过快；作者随后记市场出现明显回落。脚注未说回落后又发出买入建议。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "author_meaning",
+      "old": "作者买价显著低于内在价值才叫便宜，早四月NYSE有很多，但也有现在与永远都无价值的上市股票。",
+      "new": "作者将买价显著低于内在价值称为便宜；认为四月上旬纽约交易所有很多这样的股票，另说有些上市股或许没有内在价值且以后也不会有。"
+    },
+    {
+      "rule_id": "P34-R12",
+      "field": "counterexample_or_limit",
+      "old": "原书明确NYSE也有永无价值之股。",
+      "new": "原书明确提出纽约交易所也可能有始终无内在价值的股票。"
+    },
+    {
+      "rule_id": "P34-R22",
+      "field": "author_meaning",
+      "old": "利润兑现、传闻和空头卖可致短降，补空加新买且牛市条件好才可能新高；熊市也有反弹。作者重主要运动而非急逐小波。",
+      "new": "作者说牛市中人们等待回调、报纸预测、买入暂缓与空头卖出会使价格下降；新买与补空令其再升，若牛市条件有利会高于此前；熊市也有反弹。他偏重主要运动，次要利用小波动。"
+    },
+    {
+      "rule_id": "P34-R29",
+      "field": "author_meaning",
+      "old": "旧最低自有20%、银行通常贷80%，全款购再外借仍有融资，与住宅分期作类比；部分抵押不获贷则经纪自筹。",
+      "new": "作者说普通最低自有款约两成、银行通常贷股票市值八成，股票全款购入但另向银行借款仍有融资，并以借款购买住房作类比；若股票不被银行接受抵押，不应期待经纪提供保证金购买，若仍提供作者怀疑其似bucket shop。"
+    },
+    {
+      "rule_id": "P34-R30",
+      "field": "author_meaning",
+      "old": "作者因最低款易被追加、被迫卖，常建议30–50%、有时至少50%或根本不融资；按期派息的低价全款存券是偏好。",
+      "new": "作者因最低保证金容易被追加款项，建议无法随时补款者缩小购买并放较厚保证金；常建议三成至五成、有时至少五成或完全不融资。对想免忧者建议低价全款买入并取券存安全箱，又说低价用充足保证金风险很小、利润可能更大。"
+    },
+    {
+      "rule_id": "P34-R32",
+      "field": "independent_analysis",
+      "old": "100%是价相对价值并非美元点；高估不是择时证据，也不是短兴趣必涨。",
+      "new": "百分之一百是价格相对价值的比例而非美元点；高估不是择时证据，空头头寸较大也不是价格必涨的充分条件。"
+    },
+    {
+      "rule_id": "P34-R39",
+      "field": "author_meaning",
+      "old": "发明失败不常被听见，商业95%失败作者不知道真假；超过80%融资交易者亏是引述，作者归因无知贪婪与机会过大。",
+      "new": "发明失败不常被听见，商业百分之九十五失败作者不知道真假；超过百分之八十保证金交易者亏是引述，作者归因于无知、贪婪和过度冒险。"
+    },
+    {
+      "rule_id": "P34-R33",
+      "field": "author_meaning",
+      "old": "bucket指对客户声称买却未买或马上卖；上下或下跌可使它盈利，连续上涨会承压。作者说1921八月至写时多于50失败、除少数无三点反应。",
+      "new": "作者定义bucket为以保证金给客户股票交易却未为其买入或买后即卖；下跌或来回波动可使其获利，连续上涨会承压。他说股价自一九二一年八月上升至写作时多数没有三点回调，又记此类机构自一九二二年初至四月写作时失败逾五十。"
+    },
+    {
+      "rule_id": "P34-R34",
+      "field": "author_meaning",
+      "old": "作者偏NYSE会员，承認偶失败或bucket而罕见；不愿推荐以免担保全对，任何经纪仍应取责任报告，Bradstreet/Dun或朋友银行可帮助。",
+      "new": "作者偏好纽约交易所会员，承认会员偶有失败或经营、关联bucket shop而称较罕见；可应要求提供会员名称，但不愿推荐任何经纪，并明说不能保证可靠。无论选谁仍应取责任能力报告，Bradstreet、Dun或朋友、银行可帮助取得。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "author_meaning",
+      "old": "作者不推荐一般外部人买put/call，专业有时可用，因写约者定条件偏向自身；多数亏是未证强意见。",
+      "new": "作者不推荐一般外部人买put/call，认为专业投机者有时可利用，写约者会设定偏向自身的条件；他认同几乎所有买约者亏损的说法。"
+    },
+    {
+      "rule_id": "P34-R36",
+      "field": "independent_analysis",
+      "old": "写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。",
+      "new": "原章未给几乎全亏的样本或效果验证；写约者不自动必胜、买约者不自动必输，读完书或专家名称不形成资格与概率。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "author_meaning",
+      "old": "Babson转引经理信描述询谷物被诱买SouthernPacific百股，经纪错仍有佣金；99%tips未有调查，10股/100股同资金使佣金放大十倍。",
+      "new": "本书经Babson转引经理来信，叙述询问谷物的客户被诱买Southern Pacific一百股，建议错了经纪仍有佣金；来信人估计百分之九十九投机基于tips，并用同额资金全款买十股与一成保证金买一百股说明佣金扩大十倍。"
+    },
+    {
+      "rule_id": "P34-R45",
+      "field": "independent_analysis",
+      "old": "匿名叙述未验回单，two ways不等上涨半概率；净盈亏十倍还缺融资费，不按例推现行佣金。",
+      "new": "匿名叙述未核回单，百分之九十九是来信人的估计、原章未附调查；two ways不等于上涨概率二分之一。净盈亏十倍还缺融资费，不按例推现行佣金。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "author_meaning",
+      "old": "作者劝全款或较重自有款持有廉价，因所需时间不能准确知；发现错越早卖亏越好。",
+      "new": "作者劝买实际或未来价值远超过市价的股票，以全款或较厚保证金持有，直到价格上涨；一旦发现判断出错，应越早卖出承担损失越好。"
+    },
+    {
+      "rule_id": "P34-R25",
+      "field": "independent_analysis",
+      "old": "heavy margin指多交现金而非更高杠杆；最终价值回归未经证明，不能永不改判。",
+      "new": "原章未给价值回归的到达时间；heavy margin指多交现金而非更高杠杆。最终价值回归未经证明，不能永不改判。"
+    }
+  ],
+  "draft_exact_patches": [
+    {
+      "group": "P34-QA-A02",
+      "file": "ch03.md",
+      "old": "“交易者”被作者便宜地用于任何买卖股票的人。",
+      "new": "作者为方便起见，将“交易者”用于任何买卖股票的人。"
+    },
+    {
+      "group": "P34-QA-A03",
+      "file": "ch04.md",
+      "old": "章界至第五章印刷页23以前包含部标题，精确正文末页待同版扫描核对。",
+      "new": "本章数字源还包括后续第二部标题；原作者正文止于印刷页19/PDF23，本次独审已目视确认末页。"
+    },
+    {
+      "group": "P34-QA-A06",
+      "file": "ch13.md",
+      "old": "“有时卖”与“所有加息公告都卖”相差很大。",
+      "new": "“有时卖”与“所有提高股息的公告都卖”相差很大。"
+    },
+    {
+      "group": "P34-QA-A07",
+      "file": "ch09.md",
+      "old": "正文末页和后续空白/部标题页待扫描章界核准。",
+      "new": "原作者正文末页为印刷页三十七/PDF四十一，已在本次独审中核对原图；数字源另含第三部标题。"
+    },
+    {
+      "group": "P34-QA-A14",
+      "file": "ch21.md",
+      "old": "第三十至五十个百分点只是历史自有资金建议",
+      "new": "百分之三十至五十只是历史自有资金比例建议"
+    },
+    {
+      "group": "P34-QA-A15",
+      "file": "ch25.md",
+      "old": "按每股十二点五美分计，一千元全款可以买约十股，买卖各一點二五；若作为一百股的百分之十保证金，则买卖各十二點五，还对借款余额付利息。",
+      "new": "按每股十二点五美分计，一千美元全款可以买约十股，买卖各收一点二五美元；若作为一百股的百分之十保证金，则买卖各收十二点五美元，还对借款余额付利息。"
+    },
+    {
+      "group": "P34-QA-A16",
+      "file": "ch26.md",
+      "old": "第七章四月二十五日脚注因保证金买入过快，改为暂停融资买入等待回落，形成同书不同观察日的修订。",
+      "new": "第七章脚注明记四月二十五日因市场上涨过快，建议客户暂缓保证金买入，随后才说市场出现明显回落，形成同书不同观察日的修订。"
+    },
+    {
+      "group": "P34-QA-A16",
+      "file": "ch26.md",
+      "old": "他设一千元、每年五成、全部再投二十年",
+      "new": "他设一千美元、每年五成、全部再投二十年"
+    },
+    {
+      "group": "P34-QA-A17",
+      "file": "全书综合与附录.md",
+      "old": "稍后回落再次给机会。",
+      "new": "脚注只记其后出现明显回落，并未说再次发出买入建议。"
+    },
+    {
+      "group": "P34-QA-A18",
+      "file": "ch08.md",
+      "old": "相关第十四章尚须另读，不能据目录先填指标。",
+      "new": "其交叉引用的第十四章现已完整读核，技术指供求及相关义务，不凭现代指标替代。"
+    },
+    {
+      "group": "P34-QA-A18",
+      "file": "ch08.md",
+      "old": "所以本章专家此刻只能记录后文依赖。",
+      "new": "所以单读本章只能记录后文依赖；整本审核则须连接第十四章已经读核的真实供求定义。"
+    }
+  ],
+  "body_han_counts": [
+    2334,
+    2267,
+    2386,
+    2282,
+    2187,
+    2331,
+    2307,
+    2093,
+    2314,
+    2129,
+    2095,
+    2063,
+    2092,
+    2048,
+    2240,
+    2203,
+    2198,
+    2147,
+    2051,
+    2159,
+    2406,
+    2399,
+    2198,
+    2124,
+    2422,
+    2329
+  ],
+  "body_han_total": 57804,
+  "minimum_chapter_han": 2048,
+  "old_author_included_source_link_Han": 13,
+  "old_author_count57771_strict_count57758_before_semantic_patches": true,
+  "precise_original_contexts": 171,
+  "whole_continuous_original_context_links": 60,
+  "source_integrity": {
+    "source/original.txt": "9b783fb26167bc9875b79a264d0d21f4cebb0bd14353bec48c38d6fc3455dfe5",
+    "source/full-PG-license.txt": "218bf98e7e486531f1bb3d69beb4e28d28a7b248fcd224090c122bd590d2c5ca",
+    "source/IA-metadata.json": "125ff99698894dd3c219e1efef4288b446aebec58bbd15d97f58bbea2d8aaba3",
+    "source/frontmatter.txt": "6b26f55f4ef4b41e8cf053d7d97db66465b906955c20c0faa728db539b0bb88b",
+    "source/original-1922.pdf": "bebe64b52fa8e4f8b732438b34f9d9fcdd63b0d9599643c3408d0169afd62db5",
+    "source/IA-search.json": "2efee4c64b52c325b7975c817b7844b2c13ed3fe771fb376623f54f3a85841d6",
+    "source/scan-pages.json": "26523797f78c3b5f540c74aad1502eb95e13a9161d3d1c32807b77ec9404db6e",
+    "source/original.html": "4da16fc71d394b2231a47ec9d03e337075d56c08dd363ca29c495f5fd585d5c4",
+    "source/chapters/ch23.txt": "cc425dddb574177c4103789428424fad28cf94f8d576e176b7618de373f7a22b",
+    "source/chapters/ch22.txt": "dd20c4d816beff03f32919aadd783e40801e56452090d957c8eda3114aa4b636",
+    "source/chapters/ch20.txt": "dd89b3300e6943cd711c4688f55466aac2cc0de93627c045462423c0f41fc896",
+    "source/chapters/ch08.txt": "8df9115785bd09608aa1c918e5552bfb86a9d3226c0e46cc7458b263c81b4484",
+    "source/chapters/ch09.txt": "9df865e312216cc54e0cef33af02e4759cdcfc2e838da33271d3dea484f31c0a",
+    "source/chapters/ch21.txt": "64776f8de2ee252c608347b40759d4c23ed575226439eea5176077998f90caab",
+    "source/chapters/ch19.txt": "aaafe307ff69a2a8a80d0f787825da532e08040bec46735d401d54e609d2339b",
+    "source/chapters/ch25.txt": "5488f4cebd514eb81d5f50952a7d64a80587930dace5ed951c3cfccdbd953e1b",
+    "source/chapters/ch24.txt": "f4499dd2627ead8b056bb9eff67f1027e30ec79bb4a089e64135fab2fd1bcea7",
+    "source/chapters/ch18.txt": "a0fa9bf2d4f3adca70a084dbdf262b973fca77dc2cd70006dfcf97e1e5d8c1a6",
+    "source/chapters/ch26.txt": "d2ed6c404448df93a0c05bed58082a20e6e4492bdc210fe57825155a7590db5c",
+    "source/chapters/ch16.txt": "172ee351a920bf8d84128515402ef26c9fbb239935defd31ec00cc275dc759da",
+    "source/chapters/ch02.txt": "13e44305c14086e1fa21e16737d2f293d2c9b658165d2b1f7597599952a11a94",
+    "source/chapters/ch03.txt": "60b5a373f165059776f3d7957daa96718c1b788270c81233558cdb27cabd0969",
+    "source/chapters/ch17.txt": "e1b89667ac0036b9ccc0667839b0f652b78baa8306d9e9f9d23a4bb829f4a08e",
+    "source/chapters/ch01.txt": "c4ea1f4a18a1b5b32e1fa3049e0ff3e728000693f2c2089bcfaade829e5b9027",
+    "source/chapters/ch15.txt": "22049579e1ce530757763fa5ca256c2201647758dbea7a0ef970af5e5f814d5e",
+    "source/chapters/ch14.txt": "6d40b614bcd9f035ebb336cd48e4bcf15551bd5cee279e70a8fdb8b26c5c4db7",
+    "source/chapters/ch04.txt": "e583aa6f64706fcc18f4841444d7afb09d5dba0f638657a6f3668d4fcbb822df",
+    "source/chapters/ch10.txt": "e8f0d71417aedb191f5e5ea035362fcba0d5f124bbec6f9cb528d229c02f0e7b",
+    "source/chapters/ch11.txt": "6642d517d11bad48b347c1d26aaebbeb3710ca92219e98e6b13216cfc393eca0",
+    "source/chapters/ch05.txt": "8a503ea10090648211d892069d0000ddb63b30d911448d58ba0ad37d2a619d05",
+    "source/chapters/ch13.txt": "9e1ad0dc1ef6ad08b999582de8c1a2979fc76e39ea280d771092717d76b656cc",
+    "source/chapters/ch07.txt": "3ab8ae5cc109363ce038b952344b6be622a7c5172675c0b184e74b32249e90c0",
+    "source/chapters/ch06.txt": "b4712256349b8be067c24a0f2107d482932c9a5bc5546f7ef51c4894c16c091c",
+    "source/chapters/ch12.txt": "b353f08669a00ac1f0c95cb665a51351efce9f53662628a4d4daf93186d7a9ea"
+  },
+  "original_full_source_line_coverage": [
+    [
+      "front",
+      1,
+      150
+    ],
+    [
+      "chapter1",
+      151,
+      192
+    ],
+    [
+      "chapter2",
+      193,
+      251
+    ],
+    [
+      "chapter3",
+      252,
+      342
+    ],
+    [
+      "chapter4",
+      343,
+      405
+    ],
+    [
+      "chapter5",
+      406,
+      442
+    ],
+    [
+      "chapter6",
+      443,
+      510
+    ],
+    [
+      "chapter7",
+      511,
+      566
+    ],
+    [
+      "chapter8",
+      567,
+      594
+    ],
+    [
+      "chapter9",
+      595,
+      658
+    ],
+    [
+      "chapter10",
+      659,
+      689
+    ],
+    [
+      "chapter11",
+      690,
+      752
+    ],
+    [
+      "chapter12",
+      753,
+      782
+    ],
+    [
+      "chapter13",
+      783,
+      826
+    ],
+    [
+      "chapter14",
+      827,
+      864
+    ],
+    [
+      "chapter15",
+      865,
+      978
+    ],
+    [
+      "chapter16",
+      979,
+      1033
+    ],
+    [
+      "chapter17",
+      1034,
+      1096
+    ],
+    [
+      "chapter18",
+      1097,
+      1140
+    ],
+    [
+      "chapter19",
+      1141,
+      1175
+    ],
+    [
+      "chapter20",
+      1176,
+      1215
+    ],
+    [
+      "chapter21",
+      1216,
+      1280
+    ],
+    [
+      "chapter22",
+      1281,
+      1387
+    ],
+    [
+      "chapter23",
+      1388,
+      1442
+    ],
+    [
+      "chapter24",
+      1443,
+      1526
+    ],
+    [
+      "chapter25",
+      1527,
+      1694
+    ],
+    [
+      "chapter26",
+      1695,
+      1850
+    ],
+    [
+      "PGlicense",
+      1851,
+      2201
+    ]
+  ],
+  "all4_unmatched_contexts_visual_resolution": {
+    "P34-C14-P006": [
+      55,
+      56
+    ],
+    "P34-C24-P008": [
+      96
+    ],
+    "P34-C24-P011": [
+      96
+    ],
+    "P34-C24-P012": [
+      96,
+      97
+    ]
+  },
+  "quote_voices_separated": true,
+  "expert_SHA256": "302bcf92ffc4369100898a2ddec6e3283a7f916c5a8cdf19e770caa7770e44e3",
+  "audit_SHA256": "d45203deeaa7621f913ef822f23edbf3df6d5a657f1b421fa616509fa58c62c2",
+  "original_all_glyphs_proofread": false,
+  "current_market_model_calls": 0,
+  "probabilities_calibrated": false,
+  "backtests_executed": 0,
+  "updated_utc": "2026-10-13T16:54:15.400136+00:00",
+  "content_confirmation": "source-review/independent-peer-QA/P34-final-confirmation.json",
+  "final_status_authority_external": "work/book-experts-v5/value_team/peer-QA/P34-final-status-confirmation.json",
+  "final_state_hashes_recorded_externally": true
+}

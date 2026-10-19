@@ -1,0 +1,66 @@
+{
+  "book_id": "P38",
+  "chapter": 1,
+  "title": "Introduction to Finance",
+  "pdf_pages_one_based": [
+    22,
+    53
+  ],
+  "printed_pages": [
+    7,
+    38
+  ],
+  "full_native_source_chars": 100458,
+  "source_sha256": "93cb684dd34b65aa1f37099ccdf48b1229bf79a3a38e6ba6cd4672a373910653",
+  "actual_text_read_ranges_chars": [
+    [
+      0,
+      33000
+    ],
+    [
+      32800,
+      65800
+    ],
+    [
+      65600,
+      98600
+    ],
+    [
+      98400,
+      100458
+    ]
+  ],
+  "all8_sections_read": true,
+  "all10_footnotes_and_case_sources_read": true,
+  "summary_keyterms_19MC_9review_4video_questions_read": true,
+  "external_videos_and_linked_full_works_read": false,
+  "figures_all7_visually_read": true,
+  "figure_pdf_pages": [
+    22,
+    23,
+    24,
+    28,
+    30,
+    35,
+    37
+  ],
+  "tables_all2_read": true,
+  "table12_all4_scenarios_recalculated": true,
+  "visual_image_files": [
+    "ch01-figures-1.jpg",
+    "ch01-figures-2.jpg",
+    "ch01-figures-3.jpg"
+  ],
+  "summary_body_han": 3748,
+  "summary_sha256": "d4593ab523bb50e497f5be238b0048ace34cb0ccb0462dcc67ad231f9b84a5fa",
+  "literal_every_pdf_glyph_proofread": false,
+  "semantic_full_chapter_reading_complete": true,
+  "entire20chapter_book_complete": false,
+  "source_issues": "ch01-source-issues.json",
+  "arithmetic": "ch01-table-arithmetic.json",
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "d4593ab523bb50e497f5be238b0048ace34cb0ccb0462dcc67ad231f9b84a5fa",
+  "body_han": 3748,
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

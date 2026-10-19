@@ -1,0 +1,30 @@
+{
+  "book_id": "P19",
+  "chapter": 3,
+  "original_pages_visually_read": [
+    58,
+    65,
+    66,
+    67
+  ],
+  "printed_pages": [
+    46,
+    53,
+    54,
+    55
+  ],
+  "OCR_formula_corruption_confirmed": true,
+  "primary_formula_transcription": {
+    "balances": "M=T+C; Tnew=T+at-bt+bprime*t-aprime*t; Cnew=C+bt-bprime*t; Mnew=M+at-aprime*t",
+    "price_output": "B=PX; B+b=(P+p)(X+x); B+bprime=(P+p)(X+xprime); b-bprime=(P+p)(x-xprime)",
+    "banks": "L+R-D=capital; M=D+F-R; afternetnewcreditandcashwithdrawal: Dnew=D+(a-aprime)*t-h; Rnew=R-h"
+  },
+  "method": "Original images read for primes/B/P/L/R/F; normalized Roman spelling in diagnostic JSON, not rawsource replacement. Algebraic accounting validated; no empirical parameters calibrated.",
+  "limits": [
+    "Originalnote uses singleartificial aggregatequantityX acknowledging no universal unit",
+    "Original54 prose afterX+xprime equation printsX+x; equation andstockdifference retained instead of silently normalizing everyglyph",
+    "h<netcredit is illustrativebehavioral assumption, not generally guaranteed when olddepositsareconverted"
+  ],
+  "all_book_formula_glyphs_verified": false,
+  "reviewed_utc": "2026-10-12T15:52:25.597752+00:00"
+}

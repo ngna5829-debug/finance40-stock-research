@@ -1,0 +1,102 @@
+{
+  "chapter": 8,
+  "all_original_notes_174_to_197_actually_read": true,
+  "ship_totals_recomputed_not_historical_verified": [
+    {
+      "year": 1850,
+      "printed_combined_tonnage": 3564833,
+      "sum_sail_and_steam": 3564833,
+      "printed_combined_men": 151430,
+      "sum_sail_and_steam_men": 151430,
+      "arithmetic_matches": true,
+      "historical_independent_verification": false
+    },
+    {
+      "year": 1860,
+      "printed_combined_tonnage": 4658687,
+      "sum_sail_and_steam": 4658687,
+      "printed_combined_men": 171592,
+      "sum_sail_and_steam_men": 171592,
+      "arithmetic_matches": true,
+      "historical_independent_verification": false
+    },
+    {
+      "year": 1870,
+      "printed_combined_tonnage": 5690789,
+      "sum_sail_and_steam": 5690789,
+      "printed_combined_men": 195962,
+      "sum_sail_and_steam_men": 195962,
+      "arithmetic_matches": true,
+      "historical_independent_verification": false
+    },
+    {
+      "year": 1880,
+      "printed_combined_tonnage": 6574513,
+      "sum_sail_and_steam": 6574533,
+      "printed_combined_men": 192972,
+      "sum_sail_and_steam_men": 192972,
+      "arithmetic_matches": false,
+      "historical_independent_verification": false
+    },
+    {
+      "year": 1890,
+      "printed_combined_tonnage": 7945071,
+      "sum_sail_and_steam": 7945071,
+      "printed_combined_men": 213374,
+      "sum_sail_and_steam_men": 213374,
+      "arithmetic_matches": true,
+      "historical_independent_verification": false
+    }
+  ],
+  "visible_source_limits": [
+    {
+      "issue": "农具2145−600=1545，印1515，差30保留未核原扫描。",
+      "lines": [
+        8594,
+        8605
+      ],
+      "raw_crlf_fragment_sha256": "30eed534882fd63ada7af41a5b93f772d808e3b7d0e4d2b9e9f4a981750ba538"
+    },
+    {
+      "issue": "1841 factory349452/618509约56.50%而印56.8%，未核原统计分母。",
+      "lines": [
+        9324,
+        9327
+      ],
+      "raw_crlf_fragment_sha256": "5165b0c22d0b61461a12678fcce64ae0dfd0090d9d019bdd3f6c939c316b8ec1"
+    },
+    {
+      "issue": "p230图末柱30.4%与正文1881的30.7%不同，图实看，未核原扫描。",
+      "lines": [
+        8676,
+        8689
+      ],
+      "raw_crlf_fragment_sha256": "682c16a59e2b0e8141fca8b143c11e6b9a00c23bd8827beeb781a63d84399aac"
+    },
+    {
+      "issue": "正文称1886–92/22会，表延1893且注196为26会；跨样本勿直接归因。",
+      "lines": [
+        9202,
+        9233
+      ],
+      "raw_crlf_fragment_sha256": "1b3b0429bb12ee1c280aafc45d65eb10bb8f762e738595084919730d9fabbb59"
+    },
+    {
+      "issue": "Ellison spinning/weaving子样本引文不同于含subsidiary后合表，不强求增长率相同。",
+      "lines": [
+        8730,
+        8753
+      ],
+      "raw_crlf_fragment_sha256": "20f5f832e99970b973327a79e18fe3486ce7cf5979ac7f31f25395e5ad7cb649"
+    }
+  ],
+  "all_historical_numbers_verified": false,
+  "original_scan_obtained": false,
+  "note196_sample_boundary": {
+    "lines": [
+      9386,
+      9389
+    ],
+    "raw_crlf_fragment_sha256": "e243c38398910478de8bbbf7f90c1545b501d1112aa030b01d6a47f2d71f7666"
+  }
+}

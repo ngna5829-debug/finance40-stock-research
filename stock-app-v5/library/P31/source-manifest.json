@@ -1,0 +1,46 @@
+{
+  "catalogue_url": "https://www.gutenberg.org/ebooks/46499",
+  "text_url": "https://www.gutenberg.org/cache/epub/46499/pg46499.txt",
+  "html_url": "https://www.gutenberg.org/cache/epub/46499/pg46499-images.html",
+  "retrieved_utc": "2026-10-12T15:15:28.428469+00:00",
+  "edition": "Macmillan New York and London1895, actual title and original scan confirmed",
+  "rights": "PG catalogue public domain in USA; IA original-scan item US NOT_IN_COPYRIGHT; no blanket worldwide claim",
+  "original_chapter_count": 11,
+  "all_original_chapters_full_semantic_read": true,
+  "frontmatter_index_graph_captions_transcriber_notes_full_PG_license_read": true,
+  "extra_scan_advertisements_available_OCR_full_read": true,
+  "sources": [
+    {
+      "file": "source/original.txt",
+      "bytes": 225873,
+      "sha256": "ca3df72fe6d045657347e3b5823b2ee3efcdbe37bde65de8f090a61dea56efec",
+      "url": "https://www.gutenberg.org/cache/epub/46499/pg46499.txt"
+    },
+    {
+      "file": "source/original.html",
+      "bytes": 269589,
+      "sha256": "1095e1e6d2f653e7b784136a49b7215d370f99f1ca2eaa5f043225fec558a3d3",
+      "url": "https://www.gutenberg.org/cache/epub/46499/pg46499-images.html"
+    },
+    {
+      "file": "source/original-1895.pdf",
+      "bytes": 8663025,
+      "sha256": "367e9b1ae72c4c6ac4c6cf865460c110fc502b29aa837b55d72186d637904584",
+      "url": "https://archive.org/download/honestmoney00fond/honestmoney00fond.pdf"
+    }
+  ],
+  "PDF_pages": 236,
+  "IA_metadata_imagecount": 240,
+  "original_scan_glyphs_all_verified": false,
+  "selected_visual_audit": "source-review/scan-reading-audit.json",
+  "coverage_status": "full_digital_semantic_reading_and_selected_scan_collation_qualified",
+  "printed_body_mapping": "printed1–209 to PDF+16; printed204/PDF220blank; author conclusion ends203",
+  "unresolved_source_limits": [
+    "Not all236scanpages word-by-word visually collated.",
+    "PG index says not fully checked; entire index read but not all index references independently proved.",
+    "Plate1 and2 full images viewed; points not all digitized; original historical source series not all acquired.",
+    "Historical statutes and all quoted works not independently read or confirmed.",
+    "PG any clay is confirmed original any day at paper165/PDF181; raw preserved.",
+    "Universally paper37, silver subtraction paper94, silver bullion paper126 and0.6%paper153 preserved with separate qualifications."
+  ]
+}

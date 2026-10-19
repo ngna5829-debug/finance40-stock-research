@@ -1,0 +1,112 @@
+{
+  "book_id": "P07",
+  "reviewer": "root_independent_of_index_team_author",
+  "status": "passed_with_source_limits",
+  "scope": "全部9章手写档案和引言/综合、32规则及44完整定位片段、前置及完整术语/12项书目/广告OCR、27选定原PDF页（12独页15四联系统图页）、原机构历史官方核查",
+  "all9_dossiers_intro_synthesis_expert_nonrules_actual_read": true,
+  "all32_rules_and44_full_source_anchors_actual_read": true,
+  "all4_anchor_blocks_complete_without_unrepaired_truncation": true,
+  "root27_selected_PDF_pages_actual_seen": true,
+  "entire_272PDF_glyphs_second_read": false,
+  "entire_9211source_lines_second_read": false,
+  "author_continuous_source_reading_coverage_supported": true,
+  "source_sha256": "11164d33cc6441a6652941f0e97ac31143953c1e76169b014cbed5f55e920945",
+  "source_bytes": 382183,
+  "source_lines": 9211,
+  "pdf_sha256": "d931a3126a36d7209d32b35d62dfcb9291a942004da28468c9081291bb3ab010",
+  "pdf_pages": 272,
+  "chapter_body_han_counts": [
+    2704,
+    2835,
+    2958,
+    2880,
+    2838,
+    2755,
+    2859,
+    3099,
+    2495
+  ],
+  "body_han_total": 25423,
+  "intro_han_extra": 2216,
+  "min_chapter_han": 2495,
+  "rules": 32,
+  "anchors": 44,
+  "mechanical_checks": {
+    "source_and_PDF_raw_sha_unchanged": true,
+    "all_chapter_source_and_summary_hashes_match": true,
+    "all44_normalized_LF_no_final_LF_anchor_hashes_match": true,
+    "all44_DjVu_line_to_PDF_page_mappings_match": true,
+    "actual_reading_union_covers_full9211lines_with_truncation_repair_records": true,
+    "nine_original_numbered_chapters_and_intro_not10numbered_chapters": true,
+    "chapter2000_book20000_thresholds": true
+  },
+  "independent_numeric_reviews": {
+    "rail1824_5_156plus48": 204,
+    "rail1844_5_612plus79": 691,
+    "Consols1000face_at79": 790,
+    "commission1000times_one_eighthpercent": 1.25,
+    "stamp2shillings_pounds": 0.1,
+    "cost_total791pounds7shillings": 791.35,
+    "collateral120_loan100_equity_percent_of_collateral": 16.666666666666668,
+    "PacificMail400shares_175to115_loss": 24000,
+    "PacificMail60percent_denominator_still_unresolved": true,
+    "Steel343plus88plus52plus17": 500,
+    "full30_original_row_table1909_sum": 182356800,
+    "full30_original_row_table1910_sum": 267439100,
+    "both_sums_match_printed_totals_after_primary_manufacturing5086300_used": true,
+    "same_use_and_destination_totals_not_two_independent_capital_flows": true,
+    "Exchequer21million_old_debt_continuation_not_netnewcapital": true,
+    "merged1909_destination5625900_and_missing1910_marks_not_made_individual_zeros": true,
+    "Fiat_different_face_units_not_unadjusted_peak_to_trough_return": true
+  },
+  "semantic_review_findings": [
+    "引用其他书和12书目不作另已全读或额外独立票",
+    "通常时势保全和政府/会员/挂牌信用不做永久保证",
+    "证券名称、发行人质量、法律顺位、真实收益与变现分开",
+    "好资产也会在催还/追加义务/借股路径中被迫卖出",
+    "萧条研究价值与只在上涨中投机不同对象/期限不拼唯一买点",
+    "矿山耗竭/报告激励与成熟矿有益让步完整，零股息零价值为待质疑强句",
+    "金融中心地理与身份偏见不成为现代特征",
+    "金本位固定名义重量而非商品购买力，信用与最后支付资产同时查",
+    "操纵Suppose机制及突发事件超出控制完整，不用价量编机构身份",
+    "价格/价值仍不可精知，不定校准价格或盈利概率",
+    "承销有条件与firm、保险巨灾卖出、stag实付能力分开",
+    "分散坏资产批评与反单一证券/行业集中共存，不删真正分散让步",
+    "咨询中介与自主查合同并存，新闻产权与广告激励可变",
+    "长期仍复核、不超资本忠告没有自动卖出涨幅/胜率算法"
+  ],
+  "root_external_fact_review": {
+    "reviewer": "root",
+    "primary_urls": [
+      "https://www.federalreservehistory.org/essays/first-bank-of-the-us",
+      "https://www.federalreservehistory.org/essays/second-bank-of-the-us",
+      "https://www.nyse.com/history-of-nyse"
+    ],
+    "findings_paraphrase": "第一银行1791年12月12日在费城开业、纽约分行1792；第二1816获特许1817开业，1832续约否决与1836联邦特许届满不同；NYSE1792年5月17日24经纪协议，1817正式宪章组织，不同于原书约13名/19世纪初/1816叙述。",
+    "external_facts_not_other_whole_books_read": true,
+    "original_source_values_retained": true
+  },
+  "corrections_applied": [
+    {
+      "scope": "明确44定位片段的哈希算法为规范LF行连接且不含末LF；源文件raw哈希未改",
+      "rule_meanings_unchanged": true
+    },
+    {
+      "scope": "完成状态和综合中四部新书旧阶段句同步，计数字章正文未改"
+    }
+  ],
+  "preserved_limits": [
+    "扫描实际印次未知，版权1911和晚出广告不混；不冒初版扫描",
+    "原印每字及所有表格历史来源未外部逐笔核证",
+    "Sol重复、南海2000、法国millions、not undervalued保留原书未解边界",
+    "PacificMail60%分母未知，4千/5百Gibson账户未取得底账，不做现代亏损率",
+    "旧法域/规则/费率和时代国家评价不生成当前法律或风险等级",
+    "没有当前合格行情、实名资金流、投资实验/回测/概率校准"
+  ],
+  "coverage_qualified": true,
+  "full_reading_completed_physical_glyphs": false,
+  "current_stock_decision_enabled": false,
+  "experiments_run": false,
+  "final_expert_sha256": "47478d10bd626f75d88403af38750080f2fdc97e1a4733fb6e056e57a46b4fa2",
+  "final_audit_sha256": "441d4050363e13a1634fdf3275f01867bb9299f7d9457663df92cb48e209bc2f"
+}

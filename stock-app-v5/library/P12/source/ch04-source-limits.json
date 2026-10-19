@@ -1,0 +1,133 @@
+{
+  "book_id": "P12",
+  "source_unmodified": true,
+  "original_scan_obtained": false,
+  "experiments_run": false,
+  "all_notes7to75_read": true,
+  "issues": [
+    {
+      "lines": [
+        1293,
+        1315,
+        1353
+      ],
+      "type": "FourteenPoints_date_internal_difference",
+      "resolution": "前两Jan8，后Jan18；保留原日数，不擅修，演说原稿未独立核"
+    },
+    {
+      "lines": [
+        1711,
+        1718
+      ],
+      "type": "potential_authority_not_completed_expropriation",
+      "resolution": "作者自己修为赋权盟方剥夺，notyetaccomplished，潜权不可写实际全部完成"
+    },
+    {
+      "lines": [
+        1820,
+        1831
+      ],
+      "note_lines": [
+        2435,
+        2479
+      ],
+      "type": "Silesia_loss_conditional_and_import_mitigation",
+      "resolution": "公投未定，假设失需以后修改；Article90同等购煤可将断供伤减成收支损，不保证能买/优先权"
+    },
+    {
+      "lines": [
+        1872,
+        1905
+      ],
+      "type": "visible_coal_arithmetic",
+      "verified_visible_sums": {
+        "production1913_million": 191.5,
+        "mine_use19_plus_net_export33_5_plus_domestic139": 191.5,
+        "domestic_components_sum": 139.0,
+        "territory_loss_sum": 60.8,
+        "remaining_gross": 130.7,
+        "remaining_to_net118_difference_assumed_mine_use": 12.699999999999989
+      },
+      "resolution": "只是源可见数运算，净118所扣矿用12.7无具体地域账；不能当原底账已核"
+    },
+    {
+      "lines": [
+        1933,
+        1944
+      ],
+      "note_lines": [
+        2518,
+        2534
+      ],
+      "type": "hypothetical_output_and_demand_bases",
+      "visible15pct_output_result": 100.3,
+      "visible_note46_reduction_million": 25.87,
+      "source_max_demand_reduction_million": 29,
+      "resolution": "15%取整~100不是德30%来源被核；note46按可见78/61分组减25.87与正文最大29口径未明，均保留；褐煤替代作者不知，勿吨等热值"
+    },
+    {
+      "lines": [
+        1892,
+        1892
+      ],
+      "note_lines": [
+        2487,
+        2488
+      ],
+      "type": "UpperSilesia_output_two_source_values",
+      "main_million": 43.8,
+      "note_million": 43.5,
+      "resolution": "年份/取整口径未核，不选择默改"
+    },
+    {
+      "lines": [
+        1898,
+        1905
+      ],
+      "note_lines": [
+        2498,
+        2511,
+        2559,
+        2569
+      ],
+      "type": "coal_schedule_and_actual_modification",
+      "resolution": "主最大45/例40与Sept原约43非同stage；委员会可缓取消、法毁矿优先；Sept已改半年20等规则，不能说全部极端原额字面兑现"
+    },
+    {
+      "lines": [
+        2053,
+        2054
+      ],
+      "note_lines": [
+        2571,
+        2572
+      ],
+      "type": "iron_rounded_prose",
+      "source_numerator": 21136265,
+      "source_denominator": 28607903,
+      "visible_ratio_pct": 73.88260859245783,
+      "source_prose_approx_pct": 75,
+      "resolution": "约73.88与几乎75粗述保留，不改表，铁和高炉/锌不同物种范围"
+    },
+    {
+      "lines": [
+        2303,
+        2306
+      ],
+      "note_lines": [
+        2682,
+        2683
+      ],
+      "type": "water_power_compensation_exception",
+      "resolution": "主法国水权与德无权，注明德可收payment/credit；不能翻绝无补偿"
+    },
+    {
+      "lines": [
+        2317,
+        2689
+      ],
+      "type": "legal_cross_references",
+      "resolution": "已读本书全部原注条文节录，不称独立全读条约每页或现行法规核证"
+    }
+  ]
+}

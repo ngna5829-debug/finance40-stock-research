@@ -1,0 +1,217 @@
+{
+  "book_id": "P31",
+  "status": "passed_with_source_limits",
+  "pending_final_peer_hash_confirmation": false,
+  "peer_QA_file": "source-review/independent-peer-QA/P31-independent-QA.json",
+  "peer_QA_SHA256": "e78bbfe4a627593731b0f65c911012210e8c600f33f47ea9b5d41400cdf256e0",
+  "peer_full11chapters_and40rules_actual_review": true,
+  "root_scope": {
+    "whole_original_chapters_actually_read": [
+      10,
+      11
+    ],
+    "original_exact_contexts_actually_read": [
+      "P31-C04-P031",
+      "P31-C04-P035",
+      "P31-C10-P008",
+      "P31-C10-P009",
+      "P31-C11-P013",
+      "P31-C11-P015",
+      "P31-C05-P019"
+    ],
+    "whole_chinese_dossiers_actually_read": [
+      10,
+      11
+    ],
+    "whole_synthesis_and_explainer_actually_read": true,
+    "changed_semantic_rule_fields_actually_read": [
+      "P31-R18",
+      "P31-R37",
+      "P31-R40"
+    ],
+    "whole_original_images_actually_viewed": [
+      110,
+      199,
+      217,
+      218
+    ],
+    "root_did_not_reread_all11_chapters_or_109_contexts": true,
+    "full_book_independent_semantic_review_by": "value_books",
+    "every_glyph_claim": false
+  },
+  "required_findings_manually_merged": [
+    {
+      "type": "full_source_file_locator",
+      "status": "candidate_complete_all40_rules",
+      "reason": "现source_file分章而source_lines是全original.txt全局行号；保留chapter_scope，精确定位明指source/original.txt并另附char/byte/SHA。"
+    },
+    {
+      "rule_id": "P31-R05",
+      "field": "chapter_sources",
+      "candidate": "补P042–P049劳动三列项和前两种分析/总结、P017比率总和原强言。原P041只是引入句，P048只第三项，不足完整证明多主张。",
+      "content_correction_needed": false
+    },
+    {
+      "rule_id": "P31-R13",
+      "field": "chapter_sources",
+      "candidate": "加P026同刻国际统一及P031水槽比喻，原29–30仅跨期论点，不能独立支持整条多主张。"
+    },
+    {
+      "rule_id": "P31-R15",
+      "field": "chapter_sources",
+      "candidate": "加P056狭义兑付和广义钱值诚实区别，支持独立边界所述原书不同诚信对象。"
+    },
+    {
+      "rule_id": "P31-R18",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者从银金价约38%跌幅直接扣金购买力24–41%升幅来支持银较稳定。",
+      "candidate_new": "作者从金购买力24–41%的升幅直接扣除银以金计价约38%的跌幅，支持银较稳定。",
+      "reason": "原纸94/PDF110 This fall ... must be deducted from the rise，中文原从38扣24–41是次序倒向；ch04正确。",
+      "source_original_image": "source-review/pdf110.png"
+    },
+    {
+      "rule_id": "P31-R21",
+      "field": "chapter_sources",
+      "candidate": "已全读第11章，P31-C11-P013直接说明担保安全/被迫接管和资产用途，新增完整精确段锚。",
+      "status": "actual_ch11_full_read_completed_crosssource_added"
+    },
+    {
+      "rule_id": "P31-R31",
+      "field": "chapter_sources",
+      "candidate": "已全读第10章，P31-C10-P014直接承认世界贸易互扰，新增完整精确段锚。",
+      "status": "actual_ch10_full_read_completed_crosssource_added"
+    },
+    {
+      "field": "ch10.md",
+      "old": "银行相信自己有偿付能力，能够随时获得钱，公众相信付款要求会被满足",
+      "candidate_new": "银行被认为有偿付能力，能够随时获得钱，公众相信付款要求会被满足",
+      "reason": "原a bank, believed to be solvent是银行被认为有偿付能力，非银行自身信念；原段整体讲公众对后备付款信任，后一质疑仍分事实与相信。",
+      "full_source_lines": [
+        3296,
+        3324
+      ],
+      "printed_pages": [
+        181,
+        182,
+        183
+      ],
+      "content_correction_needed": true
+    },
+    {
+      "field": "ch11.md",
+      "old": "第九章承认篮子可调整，第十章认为变动不会扰动钱值",
+      "candidate_new": "第十章承认未来可能调整篮子，并认为变动不会扰动钱值",
+      "reason": "未来改list方法在第10章第五优点后的完整段，不是第9章仅初次委员会择品数量灵活。"
+    },
+    {
+      "field": "ch11.md",
+      "old": "财产在不擅经营者手里可能更不值钱",
+      "candidate_new": "财产在贷方手里通常比在原主手里更不值钱",
+      "reason": "原generally far less valuable in his hands than original owner，不直接给贷方管理差的质量判断，也不是仅可能。"
+    },
+    {
+      "rule_id": "P31-R40",
+      "field": [
+        "author_basis_zh",
+        "author_meaning_zh"
+      ],
+      "old": "作者承认贷方担保不安全、被迫取抵押且管理差，故萧条中份额大仍可能金额少。",
+      "candidate_new": "作者承认贷方担保安全下降、被迫接收抵押财产且该财产在贷方手中较不值钱；萧条中份额大仍可能金额少。",
+      "reason": "源资产用途/价值在两人手中的差别，不宜直接换作贷方管理差；原security much lessened是安全下降，非断一切担保绝对不安全。"
+    },
+    {
+      "rule_id": "P31-R37",
+      "field": [
+        "modern_boundary_zh",
+        "independent_analysis_zh"
+      ],
+      "old": "原保证未实测，只有相信足偿且随时可借等条件；无当前方向或概率。",
+      "candidate_new": "原保证未实测，依银行被认为有偿付能力且随时可借等条件；无当前方向或概率。",
+      "reason": "与ch10被认为而非银行自我信念之澄清一致。"
+    },
+    {
+      "field": "全书综合与附录.md",
+      "old": "结论又明确说贷方可能失去担保、被迫管理自己不擅用的抵押物",
+      "candidate_new": "结论又明确说贷方担保安全下降、被迫接收对自己用途较小的抵押财产",
+      "reason": "原security much lessened不是担保消失，财产用途/价值不同不直接等同管理能力差；原217–218已独立目视。"
+    },
+    {
+      "field": "全书综合与附录.md",
+      "old": "历史官方材料的可检索描述出现标准银元，应进一步以确切法条及相应年份核对。",
+      "candidate_new": "银凭证的具体担保资产，应进一步以确切法条及相应年份核对。",
+      "reason": "此处没有给可复核的具体官方URL/版本/条文，不能将未注明的外部检索说法作既成事实；保留问题。若补精确已读官方证据亦可。"
+    },
+    {
+      "field": "专家说明.md",
+      "old": "结论的担保违约和接管风险",
+      "candidate_new": "结论的担保安全下降和接管风险",
+      "reason": "结论原源明示安全下降/接管财产，不能混称担保人违约；保留现实贷款风险。"
+    },
+    {
+      "field": "internal_tensions_zh",
+      "old": "第五章贷方不直接营业与结论中的担保违约和接管风险。",
+      "candidate_new": "第五章贷方不直接营业与结论中的担保安全下降和接管风险。",
+      "reason": "与原源及说明精确措辞同步。"
+    },
+    {
+      "field": "ch02.md nonbody coverage footer",
+      "old": "后续章节未完成，不称整本已读。",
+      "candidate_new": "此为第二章写作时的阶段记录；现整本语义覆盖另以全书审计及独立复核记录为准。",
+      "reason": "旧阶段句在最终包容易被当作当前缺章；保留历史轨迹、只改正文外状态，不能以此改伪全文完成。"
+    }
+  ],
+  "body_han_counts": [
+    2909,
+    2918,
+    2728,
+    2644,
+    2721,
+    2560,
+    2707,
+    2671,
+    3147,
+    2724,
+    2802
+  ],
+  "body_han_total": 30531,
+  "minimum_chapter_han": 2560,
+  "original_exact_contexts": 109,
+  "complete_original_chapter_contexts_linked": true,
+  "original_source_integrity": {
+    "source/scan-text.txt": "5360ef4c53e26b53f79caae8ec3c58b104f09b247435ab5a963a44daf173df1b",
+    "source/post-chapter-matter.txt": "8a0a9a6aff652794b9f876cd31427dc7a795897415f9641397cdc2fb78562c3b",
+    "source/original.txt": "ca3df72fe6d045657347e3b5823b2ee3efcdbe37bde65de8f090a61dea56efec",
+    "source/pg-license.txt": "bfbb27a6509a417e55553f3c9396152d054159d2e65324b76c317212aefd03e6",
+    "source/IA-metadata-honestmoney00fond.json": "c64c02a0c07f36add7271b5532578d9758fae2c686953dfe050c4bbb0b53f2b8",
+    "source/original-1895.pdf": "367e9b1ae72c4c6ac4c6cf865460c110fc502b29aa837b55d72186d637904584",
+    "source/i222.jpg": "a77fb31236c944b910e3518dcc9420e5a6e93c419c94c78f1078ba29526d10aa",
+    "source/i223.jpg": "170be70739b43c3a9031af6c20cb74b322596dad0337a8b10d910d4cad69397e",
+    "source/i002.jpg": "078d880acd09aa5d85261bfa239e76ce225b550fd6a66ec914ce845fcc1722f9",
+    "source/scan-pages.json": "4daed29c3db51982fd6744e80870cf0c5231dfa10ae259d43354d3efc25b154a",
+    "source/front-matter.txt": "54a686ef3e5ec8c773556492ed1864ee78346e4664ab472d57ff0355028a950a",
+    "source/original.html": "1095e1e6d2f653e7b784136a49b7215d370f99f1ca2eaa5f043225fec558a3d3",
+    "source/chapters/ch08.txt": "e8c07158f75e79be87cf774824e9d3acc714f861f81de393424be6d168d7e7e3",
+    "source/chapters/ch09.txt": "997a3853a3d87b5daed98f128582e788b03e9f498b095265947bb8a7ea6f1f18",
+    "source/chapters/ch02.txt": "d52026e154753affdb9619d3445ac2a1663c7a5f9506829b5ae3f82d073db83a",
+    "source/chapters/ch03.txt": "862887e84963c8b5988eaff0ee695248256f46cbe145fba5c9c084a220a43df1",
+    "source/chapters/ch01.txt": "196a435885c3b499ecd60b3f114f21907eb310689697e5955828f133cf3dc5f8",
+    "source/chapters/ch04.txt": "35352ebf0cf10b1e2f1e65238cbe02d0c2090bd39aa17f1cbf673a3ccf06f18c",
+    "source/chapters/ch10.txt": "9a1d94b715533bf411f00b521803b5c9ba754ab65faa680e8f3978cd662b08aa",
+    "source/chapters/ch11.txt": "29097c64fa0eb8436433af60df75690f67eef1755ef7eb0778c54415ceba90c5",
+    "source/chapters/ch05.txt": "cb1c62d8b01d4eb0c123d0c6ec17ee5e415ef11272c2f041938124c5bca1beee",
+    "source/chapters/ch07.txt": "fef2988d0b38a72f78246bdc53e665a295c1c4a4dd496ceb940af108e64c6b55",
+    "source/chapters/ch06.txt": "7b751aff5b3f4bc9211e664ac91eef89822a4843abc2fc68a12ffd5a1a9bc223"
+  },
+  "expert_SHA256": "34f8d4eb9f1ca19900b582791f975e9dfe95d4837289e86237eebbcfde14bcf7",
+  "audit_SHA256": "912d1a8ed2036eeb8495a8237d09e7b2fe1b9aa4008243dc7212e8817fc43042",
+  "every_original_scan_glyph_proofread": false,
+  "actual_market_model_calls": 0,
+  "predictive_calibration": false,
+  "backtests_executed": 0,
+  "updated_utc": "2026-10-13T13:46:43.537689+00:00",
+  "content_peer_confirmation": "source-review/independent-peer-QA/P31-final-confirmation.json",
+  "final_metadata_status_confirmation": "recorded_separately_in_peer_final_status_confirmation"
+}

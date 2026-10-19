@@ -1,0 +1,37 @@
+{
+  "book_id": "P36",
+  "original_chapter_count": 7,
+  "counts": [
+    3084,
+    2634,
+    3192,
+    3053,
+    2592,
+    2843,
+    20715
+  ],
+  "total": 38113,
+  "minimum": 2592,
+  "rules": 57,
+  "all_source_read_flags_and_contiguous_ranges_consistent": true,
+  "source_hashes_match": true,
+  "all_original_chapters_ge2000": true,
+  "wholebook_ge20000": true,
+  "exactly_one_original_body_marker_pair_per_chapter": true,
+  "all_rules_have_original_support_and_period_inputs_counter_abstain": true,
+  "all_rules_have_at_least_one_precise_PDF_span": true,
+  "current_stock_decision_enabled": false,
+  "probability_calibrated": false,
+  "independent_semantic_QA": "passed_with_source_limits",
+  "structural_validation_is_not_independent_semantic_QA": true,
+  "artifact_hashes": {
+    "expert": "43854daf994c831af1582d01ce4848a27c142f4304d964c9b3aa5028ea7ebda5",
+    "combined": "30b4d9ceb5023fdc03bd398234f1658470be080750f77377e195c98e573ebc07"
+  },
+  "precise_complete_original_context_count": 396,
+  "whole_continuous_original_context_links": 57,
+  "pending_final_peer_content_confirmation": false,
+  "pending_final_peer_hash_confirmation": false,
+  "count_method": "Body Han only, excludes headers, source metadata, and inline source link labels.",
+  "final_status_authority_external": "work/book-experts-v5/practical_team/P36-final-status-confirmation.json"
+}

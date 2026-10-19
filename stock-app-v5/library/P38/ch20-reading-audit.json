@@ -1,0 +1,53 @@
+{
+  "book_id": "P38",
+  "chapter": 20,
+  "printed_pages": [
+    599,
+    622
+  ],
+  "pdf_pages_one_based": [
+    614,
+    637
+  ],
+  "source_chars": 70949,
+  "source_sha256": "3a9a459e6e400f8ad948ca07399041ffe8b0fc567ca53f3e91fa5c5bc16d17e0",
+  "actualnative_readranges": [
+    [
+      0,
+      30000
+    ],
+    [
+      29900,
+      59800
+    ],
+    [
+      59700,
+      70949
+    ]
+  ],
+  "all4sections_9notes_summary_terms_CFA_13MC_6review_3problems_4videoquestiontexts_read": true,
+  "all24pagecontacts_all7figures_all5tables_allvisibleformulaimages_visuallyread": true,
+  "visual_files": [
+    "ch20-figures-1.jpg",
+    "ch20-figures-2.jpg",
+    "ch20-figures-3.jpg",
+    "ch20-figures-4.jpg",
+    "ch20-figures-5.jpg",
+    "ch20-figures-6.jpg",
+    "ch20-critical-620.jpg"
+  ],
+  "other_renderedcriticals_notclaimedseen": true,
+  "external_reports_videos_workbooks_wholepapers_read": false,
+  "actualTI/excel_execution": false,
+  "literal_everyPDFglyphproofread": false,
+  "body_han": 4220,
+  "summary_sha256": "f207078da352215292d7e4dc574823e01503293ff31fcdccea63ebb43cf1c852",
+  "arithmetic": "ch20-table-arithmetic.json",
+  "sourceissues": "ch20-source-issues.json",
+  "semantic_fullchapter_read_complete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "f207078da352215292d7e4dc574823e01503293ff31fcdccea63ebb43cf1c852",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

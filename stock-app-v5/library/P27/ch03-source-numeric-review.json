@@ -1,0 +1,232 @@
+{
+  "book_id": "P27",
+  "chapter": 3,
+  "all_table_cells_read_and_original_images_compared": true,
+  "metal_table": {
+    "original_printed_pages": [
+      28,
+      29
+    ],
+    "unit": "纽约批发价格，每磅美分",
+    "columns": [
+      "date",
+      "copper",
+      "lead",
+      "tin",
+      "zinc"
+    ],
+    "rows": [
+      [
+        "1885-12-31",
+        11.5,
+        4.6,
+        null,
+        5.35
+      ],
+      [
+        "1886-04-03",
+        11.45,
+        4.9,
+        null,
+        5.5
+      ],
+      [
+        "1886-07-03",
+        10.0,
+        4.9,
+        null,
+        5.6
+      ],
+      [
+        "1886-10-07",
+        11.0,
+        4.35,
+        null,
+        5.6
+      ],
+      [
+        "1887-01-05",
+        12.25,
+        4.75,
+        24.5,
+        6.42
+      ],
+      [
+        "1887-04-06",
+        11.0,
+        4.75,
+        24.5,
+        6.5
+      ],
+      [
+        "1887-07-06",
+        10.5,
+        4.92,
+        25.0,
+        7.0
+      ],
+      [
+        "1887-10-06",
+        11.0,
+        4.45,
+        23.3,
+        6.75
+      ],
+      [
+        "1887-12-29",
+        17.75,
+        5.0,
+        37.0,
+        6.0
+      ],
+      [
+        "1888-03-29",
+        17.5,
+        5.5,
+        39.5,
+        6.75
+      ],
+      [
+        "1888-07-03",
+        17.25,
+        4.25,
+        22.0,
+        6.5
+      ],
+      [
+        "1888-10-04",
+        18.5,
+        5.75,
+        26.0,
+        6.75
+      ],
+      [
+        "1889-01-03",
+        17.5,
+        3.85,
+        22.0,
+        5.5
+      ],
+      [
+        "1889-04-29",
+        16.5,
+        4.25,
+        23.0,
+        6.5
+      ]
+    ],
+    "missing_tin_cells": "原表空白，保存null；不是零",
+    "caption_years": [
+      1886,
+      1887,
+      1888
+    ],
+    "actual_years": [
+      1885,
+      1886,
+      1887,
+      1888,
+      1889
+    ],
+    "zinc_1886_displayed_snapshots_mean": 5.566666666666666,
+    "author_1886_average": 5.5,
+    "zinc_1887_1888_displayed_snapshots_mean": 6.58375,
+    "author_1887_1888_average": 6.58,
+    "annual_observations_scope_unknown": true
+  },
+  "coal_table": {
+    "printed_page": 34,
+    "columns": [
+      "company",
+      "tons",
+      "USD_receipts"
+    ],
+    "rows": [
+      [
+        "Philadelphia and Reading",
+        7555252,
+        18856550
+      ],
+      [
+        "Central Railroad of New Jersey",
+        4852859,
+        12132146
+      ],
+      [
+        "Lehigh Valley",
+        5784450,
+        14461125
+      ],
+      [
+        "Delaware Lackawanna and Western",
+        6220793,
+        19044803
+      ],
+      [
+        "Delaware and Hudson Canal",
+        4048340,
+        10100118
+      ],
+      [
+        "Pennsylvania",
+        3818143,
+        8820718
+      ],
+      [
+        "New York Lake Erie and Western",
+        2363290,
+        6846342
+      ]
+    ],
+    "original_totals": [
+      34643127,
+      90261805
+    ],
+    "recomputed_totals": [
+      34643127,
+      90261802
+    ],
+    "original_receipts_total_minus_recomputed": 3,
+    "footnote_3": "部分估算，来源Coal Trade 1888与Poor铁路手册；不是完整审计账簿"
+  },
+  "copper_case": {
+    "initial_contract_years": 3,
+    "base_cents_per_lb": 13,
+    "producer_profit_share": 0.5,
+    "extended_some_contract_years": 12,
+    "later_base_cents_per_lb": 13.5,
+    "assumed_annual_lb": 400000000,
+    "assumed_syndicate_margin_cents": 2,
+    "conditional_annual_USD_margin": 8000000,
+    "estimated_price_tax_is_metaphor_not_government_tax": true,
+    "body_future_success_is_conditional": true,
+    "note_2_records_actual_subsequent_collapse": true,
+    "collapse_reasons": "产量限制合同不充分、资金不足以偿付当期义务；作者归因政府干预预期部分作用，不是独立因果证实",
+    "new_syndicate_talk_not_verified_formation": true
+  },
+  "Calumet_Hecla": {
+    "capital_USD": 2500000,
+    "dividends_since_1870_USD": 30000000,
+    "cumulative_dividends_to_listed_capital": 12,
+    "not_annual_return": true,
+    "mine_cost_cents": 4,
+    "NY_delivered_cost_cents": 5.75
+  },
+  "national_coal_assumptions": {
+    "tons": 120000000,
+    "USD_per_ton_retail": 4,
+    "product_USD": 480000000,
+    "author_approx_USD": 500000000,
+    "not_same_basis_as_railroad_table": true
+  },
+  "natural_gas_rate_change_percent": 100,
+  "natural_gas_rate_multiple": 2,
+  "source_boundaries": [
+    "同价不单独证实合谋",
+    "自然资源租金不等于净利润/现代产权法律",
+    "金银新增供应相对存量小，不证明一切金融市场操纵不可能",
+    "作者明确没有断言当前无烟煤价格必然不公",
+    "区域/不同年份产量不可合并同年市占率",
+    "消费者转换成本而非已核准具体损失金额"
+  ]
+}

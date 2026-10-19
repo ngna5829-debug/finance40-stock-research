@@ -1,0 +1,377 @@
+{
+  "book_id": "P20",
+  "status": "passed_with_source_limits",
+  "pending_final_peer_hash_confirmation": false,
+  "independent_peer_full_QA": "independent-review/P20-independent-QA.json",
+  "independent_peer_QA_SHA256": "d72aef16fbd533a3ecac3bec73ac34cc2845bd90c6f683549a0f214e91b34f17",
+  "additional_unit_QA": "independent-review/P20-unit-semantic-review-candidate.json",
+  "root_scope": {
+    "full_original_chapters_reread": [
+      1
+    ],
+    "original_chapter01_source_character_ranges_read_with_normalized_newlines": [
+      [
+        0,
+        18000
+      ],
+      [
+        18000,
+        35703
+      ]
+    ],
+    "full_changed_original_ranges_actually_read": [
+      [
+        "source/ch07.txt",
+        360,
+        439
+      ],
+      [
+        "source/ch11.txt",
+        82,
+        171
+      ],
+      [
+        "source/ch11.txt",
+        935,
+        954
+      ],
+      [
+        "source/ch31.txt",
+        195,
+        272
+      ],
+      [
+        "source/appendix-D.txt",
+        183,
+        208
+      ]
+    ],
+    "all13_unit_source_excerpts_actually_read": true,
+    "whole_ch01_candidate_dossier_and_whole_synthesis_explainer_read": true,
+    "whole_original_images_actually_viewed": [
+      24,
+      104,
+      105,
+      106,
+      152,
+      170,
+      430,
+      456,
+      482
+    ],
+    "root_did_not_reread_all31_original_chapters_or74_full_contexts": true,
+    "all31_whole_sources_dossiers_and74_rules_independent_reviewer": "index_books",
+    "every_scan_glyph_proofread": false
+  },
+  "required_corrections_manually_merged": [
+    {
+      "id": "P20-QA-C01",
+      "classification": "minor_chapter_beaver_unit_wording",
+      "file": "ch01.md",
+      "old_exact": "九百六十粒对白皮一张",
+      "new_exact": "九百六十粒白珠对海狸皮一张",
+      "source": "ch01local335–346:6whitebeads/stiver*20stivers/florin*8florins/beaverskin=960whitebeads/beaverskin;notwhitepelt"
+    },
+    {
+      "id": "P20-QA-C02",
+      "classification": "material_fraction_misread_generated_false_original_conflict",
+      "original_pdf": 24,
+      "printed_page": 4,
+      "actual_fraction": "1½d in1645;1d in1665",
+      "incorrect_draft": "1645half penny plus purportedmincontradictionpaper11summary",
+      "required": "Correct1645 tooneandhalfpenny;removefalse sourcecontradictionin chapter/rulesboundary/source-review/audit/synthesis;preserveoldwrongreviewassnapshotonly;rawOCRunchanged",
+      "independent_evidence_image": "index_team/peer-QA/P20-scan/pdf024-tobacco-fraction-crop.png",
+      "complete_page_reviewed": true,
+      "raw_OCR_gap": "localline197OCRlostleading1andfractionstructure;do not useOCRbackedfalseclaim",
+      "rationale": "Originalpaper11range3s6dto1d includesactualpaper4oneandhalf1645 andone1665; no halfpennyminimumproblem;truepaper10monetary+otherdemand vsrecap15nonmonetaryemphasis remains separate validnuance."
+    },
+    {
+      "id": "P20-QA-C03",
+      "classification": "material_rule_conference_withdrawal_not_union_exit",
+      "rule_id": "P20-R14",
+      "field": "author_meaning",
+      "old_exact": "作者认为联盟未实现预期并强烈批评结果，叙述退盟、重入和最后处理。",
+      "new_exact": "作者认为联盟未实现预期并强烈批评结果，叙述比利时退出会议但未正式退出同盟、后来承认赎回责任以及实际兑付延后。",
+      "evidence": "originalprinted84–86/PDF104–106/ch07 source360–439;draftalreadycorrect;noextraallTreatyverification"
+    },
+    {
+      "id": "P20-QA-C04",
+      "classification": "material_author_revision_wrong_subject",
+      "rule_id": "P20-R21",
+      "fields": {
+        "title": {
+          "old": "法偿必要性是作者有修订的判断",
+          "new": "停兑原因修订与法偿必要性争论"
+        },
+        "author_meaning": {
+          "old": "作者梳理战前券及战时法案，并表示对法偿券必要性旧看法有所改变。",
+          "new": "作者区分战前国库券与战时法偿券，并修订初版将银行停兑过多归因于蔡斯抽走黄金的解释；是否需要法偿券另有争论。"
+        }
+      },
+      "actual_evidence": "ch11 lines82–171/printed132–133; actual original PDF152 footnote; necessity discussion145–146 separate from causal revision",
+      "original_image": "index_team/peer-QA/P20-scan/pdf152-revision.png"
+    },
+    {
+      "id": "P20-QA-C05",
+      "classification": "material_draft_unit_omission_in_net_clearing_arithmetic",
+      "file": "ch11.md",
+      "old_exact": "某人买一百万、卖九十九万，最后只收一千金",
+      "new_exact": "某人买一百万、卖九十九万九千，最后只收一千金",
+      "evidence": "ch11 lines935–954/printed150/PDF170: buy1000000,sell999000,net1000; not990000"
+    },
+    {
+      "id": "P20-QA-C06",
+      "classification": "author_field_cross_chapter_qualification_must_be_separate",
+      "rule_id": "P20-R68",
+      "old_exact": "作者认可中心节省准备而认为立即引入不实际；建议暂存意外财政余款，最终限制政府货币职能。",
+      "new_exact": "作者认可中心节省准备而认为立即引入不实际；建议将财政固定工作余额外的款项存入储备城市银行，最终限制政府货币职能。",
+      "boundary_old": "优先权不制造资产，规范黄金偏好非永久购买力不变；囤余款与暂存意外盈余不同。",
+      "boundary_new": "结论纸436是工作余额外款项寄存建议；附录D纸462另反故意囤盈并要求意外盈余还债，两段并读后的限定不冒充结论原句。优先权不制造资产，黄金偏好非永久购买力不变。",
+      "evidence": "Complete conclusion source/ch31.txt195–272/printed436–437 and AppendixD183–208/printed462. Conclusion says beyondworkingbalance; accidental surplus promptlydebtretirement appears inD. Preserve conditional policy tension, do not insertaccidental intoauthor conclusion or assertautomatic harmony."
+    },
+    {
+      "id": "P20-QA-C07",
+      "classification": "minor_numeric_instrument_wording",
+      "file": "ch29.md",
+      "old_exact": "银塔勒或三马克券类硬币",
+      "new_exact": "银塔勒或三马克银币",
+      "evidence": "OriginalfullPDF430/printed410footnote: silverthalersorthree-markpieces; silvercoins not certificates."
+    },
+    {
+      "id": "P20-QA-C08",
+      "classification": "all_rule_scope_evidence_requires_precise_locator_plus_unabridged_context",
+      "rules": 74,
+      "locator_fragments": 217,
+      "complete_contexts": 74,
+      "required": "Keep original chapter_scope_evidence unmodified; active precise lines/bytes/Unicode/SHA with complete unchangedcontext+image-derived gaps. Fragments never described as independently complete natural paragraphs. Root copies relative sources/evidence paths and preserves candidate provenance."
+    }
+  ],
+  "unit_changes": [
+    {
+      "id": "P20-UNIT-01",
+      "file": "ch03.md",
+      "original_file_sha256": "e189e7ad91d46114308bf36ff4b245e0ca433c98b8f9ca52b5cc7913db21356a",
+      "old_exact": "约一个百分点收益",
+      "new_exact": "约1%的兑换收益",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch03.md",
+      "classification": "exchangeprofitrelativeprincipal_not_ratechange",
+      "rationale": "一次兑换循环收益比例；原文onepercentprofit，非两个利率之差。"
+    },
+    {
+      "id": "P20-UNIT-02",
+      "file": "ch24.md",
+      "original_file_sha256": "e173f5776a8a0a95b9cf898d8de9d47d8bdeefc500f26e73642386782fbaf3b6",
+      "old_exact": "按资本逐年缴半个百分点",
+      "new_exact": "每年缴纳相当其资本0.5%的金额",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch24.md",
+      "classification": "annual_contribution_fraction_of_capital",
+      "rationale": "本金基数为获新/续章程参与行capital，每年0.5%，累积目标3%；非一年增加0.5个百分点。"
+    },
+    {
+      "id": "P20-UNIT-03",
+      "file": "ch24.md",
+      "original_file_sha256": "e173f5776a8a0a95b9cf898d8de9d47d8bdeefc500f26e73642386782fbaf3b6",
+      "old_exact": "平均征费可能低于资本的四分之一个百分点，约相当流通额的八分之三个百分点",
+      "new_exact": "平均征费可能低于银行资本的0.25%，约为平均流通券额的0.375%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch24.md",
+      "classification": "two_denominators_same_counterfactual_levy_not_ratechanges",
+      "rationale": "Root对1829–1865三十六年反事实复算的平均assessment，资本和平均流通两个分母；原图分数已核。片段未明确annualized，勿额外写年率。"
+    },
+    {
+      "id": "P20-UNIT-04",
+      "file": "ch26.md",
+      "original_file_sha256": "bf49e5e1168648dce800ccff98327b9c64746812d77246dcec5c9cc9cb11a793",
+      "old_exact": "纸354原图确认纽约汇票报价溢价四分之三个百分点",
+      "new_exact": "纸354原图确认纽约汇票报价溢价0.75%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch26.md",
+      "classification": "premium_level_relative_to_draft_face",
+      "rationale": "同一纽约汇票报价相对面值的溢价水平，不是本期与上期两个报价百分率之差。正文外单位一并修。"
+    },
+    {
+      "id": "P20-UNIT-05",
+      "file": "ch26.md",
+      "original_file_sha256": "bf49e5e1168648dce800ccff98327b9c64746812d77246dcec5c9cc9cb11a793",
+      "old_exact": "强拼成固定六个百分点精确验证",
+      "new_exact": "强拼成固定6%年利率的精确复算",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch26.md",
+      "classification": "annual_loan_interest_rate_not_change",
+      "rationale": "原书6%借款利息；三百万以上在外数与约二十万每年收入的约数不足精确反算，限定保持。"
+    },
+    {
+      "id": "P20-UNIT-06",
+      "file": "ch26.md",
+      "original_file_sha256": "bf49e5e1168648dce800ccff98327b9c64746812d77246dcec5c9cc9cb11a793",
+      "old_exact": "原图显示汇票溢价四分之三个百分点",
+      "new_exact": "原图显示汇票溢价0.75%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch26.md",
+      "classification": "premium_level_relative_to_draft_face",
+      "rationale": "与章头同一溢价水平。"
+    },
+    {
+      "id": "P20-UNIT-07",
+      "file": "ch27.md",
+      "original_file_sha256": "3a0d210d49d08665e10896b2b67d9030b0a0738aa99cc0fff862287d28137496",
+      "old_exact": "原图再次确认纽约汇票收费为四分之三个百分点",
+      "new_exact": "原图再次确认纽约汇票溢价为0.75%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch27.md",
+      "classification": "premium_level_relative_to_draft_face",
+      "rationale": "原图386明示threequarterspercentpremium，非两利率差；不是无费用兑换。"
+    },
+    {
+      "id": "P20-UNIT-08",
+      "file": "ch29.md",
+      "original_file_sha256": "2276442bea918ea4de1619b5542e2a09b205c34f4c0b31ec6080f57782231ebe",
+      "old_exact": "本章写失败券息五个百分点，前面安全基金章却写六",
+      "new_exact": "本章写失败券利率为5%，前面安全基金章却写6%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch29.md",
+      "classification": "failed_notes_interest_rate_levels_two_source_versions",
+      "rationale": "当前章5%从default到publicannouncementreadiness；另一章原6%untilredeemed，两个原说差异保留，不裁改法或笔误。"
+    },
+    {
+      "id": "P20-UNIT-09",
+      "file": "ch29.md",
+      "original_file_sha256": "2276442bea918ea4de1619b5542e2a09b205c34f4c0b31ec6080f57782231ebe",
+      "old_exact": "不能简单拿最大发行额乘五个百分点算任何一年成本",
+      "new_exact": "不能用最高超额发行额乘5%年税率、忽略持续时间来算当年成本",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/ch29.md",
+      "classification": "annual_tax_rate_on_excess_issue",
+      "rationale": "回顾明确5%perannum on excess；正文周度核计/续征不是每周全收5%；基数必须超额而非全发行。"
+    },
+    {
+      "id": "P20-UNIT-10",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "不可误成每周收五个百分点",
+      "new_exact": "不可误成每周按超额发行额征收完整的5%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/全书综合与附录.md",
+      "classification": "prohibited_misinterpretation_of_annual_excess_tax",
+      "rationale": "即使否定句仍用正确税率词，5%是年率，非每周水平或百分点变化。"
+    },
+    {
+      "id": "P20-UNIT-11",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "税不仅有超过八成资本的六个百分点年税，还有六至八成档的两个百分点年税",
+      "new_exact": "税以各档平均每日在外券额为基数：六至八成资本区间按2%年率，超过八成部分按6%年率，按月缴纳",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/全书综合与附录.md",
+      "classification": "two_annual_tax_bands_on_average_daily_excess_notes",
+      "rationale": "Sec25规定average daily circulation的60–80%capital档2%perannum、>80%档6%perannum；各档超出部分不同，非全年全券一律6%。"
+    },
+    {
+      "id": "P20-UNIT-12",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "先交五百分比金或债，半年税四分之一个百分点",
+      "new_exact": "预交相当所取券额5%的金币或国债，按前六个月平均实际流通券额每半年缴0.25%税",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/全书综合与附录.md",
+      "classification": "guaranty_fraction_and_semiannual_tax_separate_bases",
+      "rationale": "Sec3取出的notes5%guaranty，Sec4每Jan/July按precedingsixmonthsaverageactualcirculation缴quarterofonepercent；非资本四分之一税或0.25个百分点变化。"
+    },
+    {
+      "id": "P20-UNIT-13",
+      "file": "全书综合与附录.md",
+      "original_file_sha256": "0d1e49860397e017ea9051444cdb3e941f4c9c558ed6768542c84b7aef99ab04",
+      "old_exact": "最低年息一又二分之一及某类券半年税四分之一",
+      "new_exact": "公共存款最低年利率1.5%，以运河2%国债担保的平均在外券额每半年税率0.25%",
+      "candidate_file": "work/book-experts-v5/index_team/peer-QA/P20-unit-candidates/全书综合与附录.md",
+      "classification": "annual_public_deposit_interest_and_semiannual_note_tax",
+      "rationale": "Sec1minimumoneandhalfpercentperannum存款息；Sec2指定1902canalbonds和每半年的平均基于该类担保在外券额税quarterpercent，两基数不同。"
+    }
+  ],
+  "chapter_body_han": {
+    "1": 2742,
+    "2": 2610,
+    "3": 2433,
+    "4": 2382,
+    "5": 2552,
+    "6": 2930,
+    "7": 2465,
+    "8": 2774,
+    "9": 2605,
+    "10": 2744,
+    "11": 3530,
+    "12": 2599,
+    "13": 2798,
+    "14": 3039,
+    "15": 2890,
+    "16": 2821,
+    "17": 2696,
+    "18": 2797,
+    "19": 2745,
+    "20": 2751,
+    "21": 2699,
+    "22": 2657,
+    "23": 2752,
+    "24": 2568,
+    "25": 2760,
+    "26": 2750,
+    "27": 2640,
+    "28": 2716,
+    "29": 4323,
+    "30": 3368,
+    "31": 2370
+  },
+  "body_han_total": 86506,
+  "minimum_chapter_han": 2370,
+  "rule_count": 74,
+  "exact_locator_fragments": 217,
+  "unabridged_original_contexts": 74,
+  "locator_fragments_not_standalone_natural_paragraphs": true,
+  "raw_source_integrity": {
+    "source/ch23.txt": "ead61a021ad3f2545a5e34e74505a3eb8cfa34d082730f65abb698e6b4aad663",
+    "source/source-manifest.json": "217875435ee701305c8f03f9ffbc0699db6d57d416e418f374ff9d486e47e4e8",
+    "source/ch22.txt": "9b974bdb9c5e90544a1a9543b8c904ac065bad4a29835a656ae976eaca57602a",
+    "source/ch20.txt": "28c706619d2de231fdaea09b016bf3686f2284b3f520e2956b1ebdd3a231b402",
+    "source/ch08.txt": "bc25846dcf493dcd5ca0db46e4a994b72e8f9d6b068c97b5c8da01602b2d3e5b",
+    "source/ch09.txt": "b4b243bb24de2a353057c85abc38dd47383ae916f3baa86561aab96c22f31438",
+    "source/ch21.txt": "101f7181c0117eec1a9b45418d46be9a966832718fdc7a5f50b692853a9bac01",
+    "source/ch19.txt": "04d6a7b2d5933080fca1f34283dff4f6c26e4051eec63dfdd2fbdee7a500f927",
+    "source/ch25.txt": "943867458f0a37f24a3860c87e94c4359147e26f2beae9fbf7579c43fb8a22a8",
+    "source/ch31.txt": "2bed594286900c41ad20da0664863f3b6af086205dcaaad39041e6c25b969085",
+    "source/ch30.txt": "9fb656b9b63b7f41e6a297caabb34936c536d544eba8678683ea582ec6b3de68",
+    "source/ch24.txt": "7f7c6260149e6ad8af970b50549069a77bab1eb10a9dbd9b5d04be4fe190db63",
+    "source/ch18.txt": "9b6e152ef4e92f201357e19ff7b842ec5dcffa836ae26525e481026b3eecb59d",
+    "source/ch26.txt": "f64b01d80599e8315b21bb2c9fd91ba4bdae54da196060be739057e443631483",
+    "source/ch27.txt": "942a2b9b11217c677b8a427b34f310d2df7fb05d4485c8078582b41736d3fd29",
+    "source/ch11-visual-supplement.txt": "859993a6bb023b0efe14dfcc0bd7abfc5b252916949309d9637be8a2395ed48a",
+    "source/bibliography.txt": "7103dca275c50e209d638ee92f9546315ae3dca3b8962444f974f640446ddb59",
+    "source/index.txt": "1827bd5129e1215590552f312d283386350694bb5fdf7cea0a532c5624b5f96c",
+    "source/ch05-visual-supplement.txt": "232e7640c49fe13f0476c2eb10129274a1c7e8cd961c4a00e52e2cb9e0e9f0b7",
+    "source/ch29-visual-supplement.txt": "a1ac41541d22a996104807f2fd23f9467cec2d4c96695cd4b167c6155eac2308",
+    "source/page-evidence-ledger.json": "c4875b9d71bbb7a943b66939bf382f182bc1cb6e44cc11e7844bb7d56481153e",
+    "source/White_1904_Money_and_Banking.pdf": "be12e7b529a4981db657d1519d3247dfdd2073116521bc6064cb846ff9e88325",
+    "source/full-layout.txt": "44a685a484647f8437cae73d5781a00c46c46fb5653fef7f838a1eaa6e99eea1",
+    "source/front.txt": "9f7c48619f3efcb40323d44676e6496bf252578cf31171b48d395a69e0dbd2bd",
+    "source/appendix-A.txt": "c53f763e58473fb397c47f7aafecfd67749f8490805de5642c319e6647e40c56",
+    "source/ch16.txt": "c348c5f49391139423f3309757d7039b974151922353d1b82f4d514f02a00f11",
+    "source/ch02.txt": "7ecb9920032d2c7d0a2be2a6232cb6ef8b08651e5b9e87b94d20053543aef468",
+    "source/ch03.txt": "d7633c890e82018632bb9ddcb24c24f57c8c632fda797c6bc8ea0a6117a855b1",
+    "source/ch17.txt": "d21ffc6a9a387864574eac6f87b75be67cffe4c6d18597a12f9bb7f011ef88f6",
+    "source/appendix-B.txt": "65092b3a3e96ce94e1bb09fd4ee97e3a2c5c0dc2d655b368fa53a27490352438",
+    "source/ch01.txt": "8893434bedb194f79de37739c6447945817b1c334e79507ff9a4f2609dfbc73e",
+    "source/ch15.txt": "7692be1950893bb3a4299ca84bdec47a46b87f7af13cfd17225565a444ed658a",
+    "source/ch29.txt": "a3d5bfc5ac4209977a3f8117004237645e41bb06e0c1d80d4fc2f3c5ed33b019",
+    "source/ch28.txt": "8748f023d11f823f71a2acad8680a94323a13c95c13c995d8aa4a5028ee2c92e",
+    "source/ch14.txt": "8ea4d0548ba1c044496f9fce99fcf5152b859966c0c971beb5c45f620a1e70cc",
+    "source/appendix-C.txt": "3917c8f40c45b538c92b9a9874349073bd91e7e139b9062c0bc158d2b3beb639",
+    "source/ch04.txt": "496e003522ccc8600393f56c2c14def89047fb3726c36ae65176fbdf3afe6885",
+    "source/ch10.txt": "9203b744aa2dcc4839dcde36f52d39102a2d5699930fe3f4be7ad68ae51a6205",
+    "source/ch11.txt": "5689e0e3da0362ef6c1dbb00216a62b0fa8d6d22ab691376e36e3899f9656423",
+    "source/ch05.txt": "a1c7bd0a57a40b18af372649aa091790d070048c02990fb5ec9f8e36c6ff49c7",
+    "source/pages.json": "079bc29bd30d2bb82a960de45c72c81d8f29a081ac12af7827b862bff4c705e5",
+    "source/appendix-D.txt": "5bc618cd6c7767568211731af5ff045452b38c0148f135a633fdf25f4a8002ba",
+    "source/ch13.txt": "006110fe292b35f89bfaed93ded9c9ffb54b8648d9fdc78cade97525a678bf82",
+    "source/ch07.txt": "da84ef6e9679d1d07425382a298761b3772b8d7386824d4d8b155628e2c8b609",
+    "source/ch06.txt": "1d1d8f8a658a9643a6f1cf05d3596bf384549688f3e757397c0d93f8edc96050",
+    "source/ch12.txt": "7d6607514f2ea263e4fd1458b9c1e5600e9943f44d33f079f5467aaf0696c01d"
+  },
+  "expert_SHA256": "f56565ff59c265656d962474f641c406128ba08ececdf5e8303b52481bcff6d2",
+  "audit_SHA256": "590ac0e671a5bc54e55315d7bb74d980f13b8aea8c4fd74a8a9bec91488769dd",
+  "modern_model_calls": 0,
+  "calibrated_prediction_probability": false,
+  "all_glyphs_verified": false,
+  "all_historical_laws_or_other_referenced_books_whole_read": false,
+  "updated_utc": "2026-10-13T14:04:25.717044+00:00",
+  "content_peer_confirmation": "independent-review/P20-merged-content-recheck.json",
+  "final_status_hash_confirmation": "recorded_separately_in_peer_final_status_confirmation"
+}

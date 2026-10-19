@@ -1,0 +1,81 @@
+{
+  "book_id": "P26",
+  "chapter": 5,
+  "original_tables": {
+    "converted_note_deposit_left": {
+      "capital": 100000,
+      "surplus": 30000,
+      "undivided": 3150,
+      "notes": 93925,
+      "deposits": 187850
+    },
+    "unchanged_resources": {
+      "loans": 275000,
+      "bonds": 9000,
+      "plant": 15000,
+      "other": 18000,
+      "reserve": 97925
+    },
+    "altered_resources": {
+      "loans": 217000,
+      "bonds": 105000,
+      "plant": 15000,
+      "other": 4000,
+      "reserve": 73925
+    }
+  },
+  "all_balance_totals414925": true,
+  "demand_debts_excludes_owner_capital_surplus_profit": 281775,
+  "noncash_before_loss": 341000,
+  "first_loss_case": {
+    "noncash_after_loss": 225000,
+    "total_resources": 298925,
+    "owner_residual": 17150
+  },
+  "total_resources250000_equal_rank_recovery_percent": 88.72327211427557,
+  "original_printed60_claim_more_than92_percent": 92,
+  "original_PDF70_250000_and92_both_visually_confirmed": true,
+  "original_arithmetic_conflict_not_OCR_error": true,
+  "notes_first_case": {
+    "notes_paid": 93925,
+    "resources_left_for_deposit": 156075,
+    "depositor_recovery_percent": 83.08490817141336
+  },
+  "depositor_recovery_change_percentage_points": -5.638363942862213,
+  "pledged_securities": 105000,
+  "pledge_nominal_over_note_amount": 11075,
+  "pledge_not_extra_assets_or_cash": true,
+  "old_1874_note_redemption_reserve_percent": 5,
+  "not_current_risk_parameter": true,
+  "September30_1884_USD_million": {
+    "NY_national_city": {
+      "capital": 46.2,
+      "loans_securities": 239,
+      "notes": 13.2,
+      "individual_deposits": 184.6
+    },
+    "Massachusetts_outside_Boston": {
+      "capital": 45.7,
+      "loans_securities": 128.6,
+      "notes": 35.8,
+      "individual_deposits": 45.4
+    }
+  },
+  "US_national_million_dates": {
+    "1878_12_06": {
+      "capital_surplus": 581.3,
+      "loans": 826,
+      "deposits": 598.8,
+      "notes": 303.3
+    },
+    "1890_10_02": {
+      "capital_surplus": 864,
+      "loans": 1986,
+      "deposits": 1564.8,
+      "notes": 122.9
+    }
+  },
+  "notes_decline_does_not_alone_imply_credit_decline": true,
+  "shareholder_additional_assessment_case_conditional_not_automatically_zero": true,
+  "historical_sources_and_hypothetical_liquidations_not_current_bank_guarantees": true
+}

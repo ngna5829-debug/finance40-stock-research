@@ -1,0 +1,1467 @@
+{
+  "book_id": "P22",
+  "status": "final_metadata_and_hash_confirmed_passed_with_source_limits",
+  "final_hash_pass": true,
+  "metadata_only_not_additional_whole_book_read": true,
+  "previous_content_confirmation": "P22-merged-content-confirmation.json",
+  "previous_content_confirmation_SHA256": "d1057612845d6850e08d36d654f4f3644b5fdb2de778f1e2d1372dd1b9f1b021",
+  "checks_passed": 360,
+  "checks": [
+    {
+      "check": "previous complete merged content confirmation passed",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 章节与阅读审计.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 独立复核.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA validation.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA reading-progress.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA rules-data.json",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "final current root SHA 章节深读.md",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global knowledge_explanation_available",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global live_data_connected",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global required_inputs",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global external_regime_policy",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global author_family_key",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global expert_count",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global name",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global group_assignment_is_editorial",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global time_scale",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global expert_id",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global created_utc",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global live_analysis_executed",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global book_count",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global suggested_research_group",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global author",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global actual_expert_invocation_for_current_market",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global author_personality_reproduction_claimed",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global book",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global knowledge_grounded",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global output_contract",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global source_internal_issues",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global revision_policy",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global correlated_author_not_independent_vote",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global internal_tensions",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global callable_system_prompt",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global current_stock_decision_enabled",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global predictive_probability_calibrated",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global abstain_conditions",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global book_id",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global cross_challenges",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global backtest_executed",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global schema_version",
+      "pass": true
+    },
+    {
+      "check": "unchanged nonreview global primary_questions",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R01",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R01",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R01",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R01/ch01",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R02",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R02",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R02",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R02/ch01",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R03",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R03",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R03",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R03/ch01",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R04",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R04",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R04",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R04/ch02",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R05",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R05",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R05",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R05/ch02",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R06",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R06",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R06",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R06/ch02",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R07",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R07",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R07",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R07/ch03",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R08",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R08",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R08",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R08/ch03",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R09",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R09",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R09",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R09/ch03",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R10",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R10",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R10",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R10/ch04",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R11",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R11",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R11",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R11/ch04",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R12",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R12",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R12",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R12/ch04",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R13",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R13",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R13",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R13/ch05",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R14",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R14",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R14",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R14/ch05",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R15",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R15",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R15",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R15/ch05",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R16",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R16",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R16",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R16/ch05",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R17",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R17",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R17",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R17/ch06",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R18",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R18",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R18",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R18/ch06",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R19",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R19",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R19",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R19/ch06",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R20",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R20",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R20",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R20/ch06",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R21",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R21",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R21",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R21/ch06",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R22",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R22",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R22",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R22/ch07",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R23",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R23",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R23",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R23/ch07",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R24",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R24",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R24",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R24/ch07",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R25",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R25",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R25",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R25/ch08",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R26",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R26",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R26",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R26/ch08",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R27",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R27",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R27",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R27/ch08",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R28",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R28",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R28",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R28/ch09",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R29",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R29",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R29",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R29/ch09",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R30",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R30",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R30",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R30/ch09",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R31",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R31",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R31",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R31/ch09",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R32",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R32",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R32",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R32/ch10",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R33",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R33",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R33",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R33/ch10",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R34",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R34",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R34",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R34/ch10",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R35",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R35",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R35",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R35/ch10",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R36",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R36",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R36",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R36/ch10",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R37",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R37",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R37",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R37/ch11",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R38",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R38",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R38",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R38/ch11",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R39",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R39",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R39",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R39/ch11",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R40",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R40",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R40",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R40/ch09",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R40/ch11",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R41",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R41",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R41",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R41/ch12",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R42",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R42",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R42",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R42/ch12",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R43",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R43",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R43",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R43/ch12",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R44",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R44",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R44",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R44/ch12",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R45",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R45",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R45",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R45/ch13",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R46",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R46",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R46",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R46/ch13",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R47",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R47",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R47",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R47/ch13",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R48",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R48",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R48",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R48/ch05",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R48/ch07",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R48/ch13",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R49",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R49",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R49",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R49/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R50",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R50",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R50",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R50/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R51",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R51",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R51",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R51/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R52",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R52",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R52",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R52/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R53",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R53",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R53",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R53/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R54",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R54",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R54",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R54/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R55",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R55",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R55",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R55/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R56",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R56",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R56",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R56/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R57",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R57",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R57",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R57/ch14",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R58",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R58",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R58",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R58/appendix",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R59",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R59",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R59",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R59/appendix",
+      "pass": true
+    },
+    {
+      "check": "all previous rule semantics unchanged P22-R60",
+      "pass": true
+    },
+    {
+      "check": "all exact evidence/source unchanged after content pass P22-R60",
+      "pass": true
+    },
+    {
+      "check": "canonical full context currentSHA P22-R60",
+      "pass": true
+    },
+    {
+      "check": "relative entire source component originalSHA P22-R60/appendix",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/PG-license.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/all-33-tables-transcribed.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/appendix.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch01.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch02.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch03.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch04.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch05.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch06.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch07.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch08.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch09.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch10.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch11.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch12.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch13.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/ch14.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/downloaded.html",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/extraction-coverage-audit.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/front.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/full-source.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/images/book.jpg",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/index.txt",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/nonchapter-reading-audit.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/numeric-review-ch02.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/numeric-review-ch06.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/page-anchor-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/paragraph-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/source-internal-review.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "raw original/preexisting derived source bytes unchanged source/transcriber.txt",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 1",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 2",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 3",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 4",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 5",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 6",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 7",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 8",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 9",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 10",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 11",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 12",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 13",
+      "pass": true
+    },
+    {
+      "check": "all14 chapter dossier bytes unchanged 14",
+      "pass": true
+    },
+    {
+      "check": "body/chapters/rules reference quantities retained",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA 章节深读.md",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA 专家定义.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA 专家说明.md",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA 全书综合与附录.md",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA chapter-plan.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA rules-data.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/source-manifest.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/paragraph-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/page-evidence-ledger.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/source-internal-review.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/nonchapter-reading-audit.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/all-33-tables-transcribed.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/extraction-coverage-audit.json",
+      "pass": true
+    },
+    {
+      "check": "all current audit artifact metadata SHA source/PG-license.txt",
+      "pass": true
+    },
+    {
+      "check": "validation references current expert/audit one direction",
+      "pass": true
+    },
+    {
+      "check": "final source-limited status closed",
+      "pass": true
+    },
+    {
+      "check": "all17 necessary corrections preserved",
+      "pass": true
+    },
+    {
+      "check": "source representation/glyph limitations preserved",
+      "pass": true
+    },
+    {
+      "check": "old zero-orphan not restored active",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false current_stock_decision_enabled",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false live_data_connected",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false live_analysis_executed",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false actual_expert_invocation_for_current_market",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false backtest_executed",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false predictive_probability_calibrated",
+      "pass": true
+    },
+    {
+      "check": "execution/calibration false author_personality_reproduction_claimed",
+      "pass": true
+    }
+  ],
+  "final_root_manifest": "work/book-experts-v5/root_team/peer-QA/P22-final-status-hashes.json",
+  "final_current_file_SHA256": {
+    "专家定义.json": "ced29d75bb8de61a39ff2a9f4324849c28065844bab1aa64a9917f789d2cd990",
+    "章节与阅读审计.json": "47a300ce79c8e8805f90f927a6c3cabcc25304327845d54bb1e9e0c06a3bfc1b",
+    "独立复核.json": "2e25fd4ff8af391a2e812ff8d21dcb17fd5641848cca27090407da91f68a6e49",
+    "chapter-plan.json": "652d7313665f783a32ee148672512a530c7a12b5258440623597d1d4b295e05d",
+    "validation.json": "d4a611d13c0a6e0b24fb620c2dcf7f6e85ecfe529619c3c494b2219161ca3bd1",
+    "reading-progress.json": "12e20f12464d19bb75c566d26a1eb3fff352cc832ba367f03bf4ec0dccc99a12",
+    "rules-data.json": "d91e64b922945ff868ba97c9a75a0a28c864b46182d8ae30a76b72e6c0246c8a",
+    "专家说明.md": "f50752051b4b678da5ea048166f961f4edbc2b49e3539cdd6ae10bb7d71d31b4",
+    "全书综合与附录.md": "552e5e0df2ca9ceb52cd7364e6c1b9a1077de717ea42419f6b3e289cf56ee35d",
+    "章节深读.md": "6d061b11d4bb983bcff14625ffd6d2ccdbfe4823494b5c0f9150282105fdcaed"
+  },
+  "source_limits_retained": true,
+  "no_canonical_mutation_by_reviewer": true,
+  "created_utc": "2026-10-13T16:37:57.437307+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "book_id": "P38",
+  "chapter": 10,
+  "source_chars": 90127,
+  "source_sha256": "97b87b38f98c8f7edc84dd03d70451c1b3a4af57c5171833d125ef37c25ce08a",
+  "printed_pages": [
+    283,
+    318
+  ],
+  "pdf_pages_one_based": [
+    298,
+    333
+  ],
+  "actualnative_readranges": [
+    [
+      0,
+      31000
+    ],
+    [
+      30800,
+      61800
+    ],
+    [
+      61600,
+      90127
+    ]
+  ],
+  "all5sections_8numberednotes_Enroncase_summary_terms_CFA_14MC_5review_11problems_4videoquestiontexts_read": true,
+  "all36pagecontacts_all21figures_11tables_andallformulagraphs_visually_read": true,
+  "visual_files": [
+    "ch10-figures-1.jpg",
+    "ch10-figures-2.jpg",
+    "ch10-figures-3.jpg",
+    "ch10-figures-4.jpg",
+    "ch10-figures-5.jpg",
+    "ch10-figures-6.jpg",
+    "ch10-figures-7.jpg",
+    "ch10-figures-8.jpg",
+    "ch10-figures-9.jpg",
+    "ch10-critical-302.jpg",
+    "ch10-critical-305.jpg",
+    "ch10-critical-313.jpg",
+    "ch10-critical-314.jpg",
+    "ch10-critical-315.jpg",
+    "ch10-critical-323.jpg",
+    "ch10-critical-324.jpg",
+    "ch10-critical-325.jpg",
+    "ch10-critical-326.jpg",
+    "ch10-critical-327.jpg"
+  ],
+  "unlabeledgraphpoints_exactrawdata_acquired": false,
+  "literal_every_pdf_glyph_proofread": false,
+  "externalvideos_articles_books_fullread": false,
+  "actualExcel_TI_execution": false,
+  "independent_math_recompute": true,
+  "sourceissues": "ch10-source-issues.json",
+  "arithmetic": "ch10-table-arithmetic.json",
+  "body_han": 3546,
+  "summary_sha256": "a387a57499ad4e3f9d1194535ce960260dd3367a0df2a89fbb06e088c4350f36",
+  "semantic_fullchapter_readcomplete": true,
+  "entirebookcomplete": false,
+  "book_completion_state_at_chapter_audit_creation": "later chapters or index still unread",
+  "final_book_semantic_reading_complete": true,
+  "final_summary_sha256": "a387a57499ad4e3f9d1194535ce960260dd3367a0df2a89fbb06e088c4350f36",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters."
+}

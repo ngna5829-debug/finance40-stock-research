@@ -1,0 +1,137 @@
+{
+  "book_id": "P37",
+  "all_original_numeric_source_paragraphs_semantically_read": true,
+  "all_historical_numeric_claims_independently_verified": false,
+  "experiments_enabled": false,
+  "reviews": [
+    {
+      "item": "1925volume",
+      "source": [
+        452000000,
+        3398000000
+      ],
+      "scope": "sharecount/bondtransactionamount differentunits andnotnetflows, source approximatewellover"
+    },
+    {
+      "item": "roulettefriend",
+      "ten_200": 2000,
+      "seventeen_1000_francs": 17000,
+      "reported_dollar_loss": 20000,
+      "ambiguous_20000_includes_prior_2000": true,
+      "currency_not_converted": true
+    },
+    {
+      "item": "roulettecontracts",
+      "doublezero_loss_fraction": 0.05263157894736842,
+      "singlezero_without_tip": 0.02702702702702703,
+      "singlezero_with1perwin_conditional": 0.05405405405405406,
+      "house_source_psychological_profit_withzeroedge_notmathematically_proven": true,
+      "not_stock_probability": true
+    },
+    {
+      "item": "LakeCopperfirstsale",
+      "purchases": [
+        [
+          500,
+          5
+        ],
+        [
+          100,
+          10
+        ],
+        [
+          100,
+          25
+        ],
+        [
+          500,
+          40
+        ]
+      ],
+      "totalpurchase_cost": 26000,
+      "sale1000at30": 30000,
+      "afterdeductingallpurchasedstockcost": 4000,
+      "author_claim": 4500,
+      "unresolved_difference": 500,
+      "original_scan_notavailable_to_attribute_error": true
+    },
+    {
+      "item": "LakeCopperlater",
+      "conditional_netshares_after75": 1700,
+      "if76to94_each100_increment": 1900,
+      "conditional_total": 3600,
+      "source_total": 3200,
+      "if76to90_each100_total": 3200,
+      "scale_stoppingpoint_unknown": true,
+      "stop500rebuy5higher_extra": 2500,
+      "source3200perdownpoint": 3200,
+      "conditional94_5to75_same3200_price_difference_loss": 62400,
+      "not_full_profit_account": true,
+      "source_later0_90_notactualcloseout": true
+    },
+    {
+      "item": "UPpartialtransactions",
+      "first500_beforefees": 500,
+      "annual1500at6percent": 90,
+      "firstgain_years_interest_beforefees": 5.555555555555555,
+      "first200loss": 1500,
+      "second200loss": 1200,
+      "conditional_after200_netshares": 2400,
+      "if201to212each300_total": 6000,
+      "source_total": 5100,
+      "unresolved_scale_data": true,
+      "target250minus212_times5100": 193800,
+      "target_not_executed": true,
+      "order5000_from215_to219_notgivenaveragefill": true,
+      "lastsaved_under1500_notfull_personal_lossrate": true
+    },
+    {
+      "item": "youngclient",
+      "surplus_dollars": 10000,
+      "allocation_proposal5times20percent": true,
+      "each20shares_priceunknown": true,
+      "papergain_over600_notconfirmedpercentage": true,
+      "broker_under6month_bankruptcy_prediction_notreportedrealized": true
+    },
+    {
+      "item": "cashincome",
+      "cash700on15000_percent": 4.666666666666667,
+      "source_percent": 4.6,
+      "exact_rounding_unknown": true,
+      "gain5000_over700_years": 7.142857142857143,
+      "waitingperiod_notbounded": true,
+      "author100to1_andbank3percent_notcurrentprobability_or_rate": true
+    },
+    {
+      "item": "distressedrail",
+      "shares": 1000,
+      "original50_current15_paperloss": 35000,
+      "probableassessment_range": [
+        10,
+        15
+      ],
+      "actualassessment_amount_reorgshareconversion_exit_unknown": true,
+      "final_quote_2below_paid_assessment_notgivenfull_netloss": true,
+      "source_50to1_sourceuncalibrated": true
+    },
+    {
+      "item": "StandardOil",
+      "conditional_newshares_total_per_old": 5,
+      "old100annual_cash500": 500,
+      "new500annual_cash500": 500,
+      "authorized_common_shares": 25000000,
+      "issued_common_shares": "morethan20000000",
+      "preferred_stock_dollars": 200000000,
+      "new46_annual1_yield_percent": 2.1739130434782608,
+      "new46_times5_old_equivalent": 230,
+      "new31_times5_old_equivalent": 155,
+      "commission_tax_same100old_equiv500new": 154,
+      "source_income_comparison_100new18months": 150,
+      "consistent_500new18month_income": 750,
+      "fee_divided500annual_years": 0.308,
+      "fee_equivalent_months": 3.696,
+      "fee_formula_andoriginalcorporateterms_notindependently_verified": true
+    }
+  ],
+  "note": "These are explicit source values and conditional arithmetic only, no reconstructed trades/backtest/current safety probability; periods/shares/fee gaps preserved."
+}

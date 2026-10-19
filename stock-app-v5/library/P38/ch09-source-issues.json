@@ -1,0 +1,101 @@
+[
+  {
+    "issue": "Origin ambiguity startofyear vsworksheetperiodend",
+    "printed_pages": [
+      264,
+      265,
+      272,
+      274,
+      275,
+      276
+    ],
+    "author": "7depositfuturevaluefirstcompounds7years,last1;CF0zero C1firstdeposit;NPV20406.56 thenroll8years",
+    "independent": "cashfirstt0/FVt7→PV21835.01663;cashfirstt1/FVt8→PV20406.557595 andsameFV35062.265238; establishcommonoriginnotguesscalendar; mathematical8-periodstepnotautomaticallywrong",
+    "primary_url": "https://support.microsoft.com/en-us/excel/functions/npv-function"
+  },
+  {
+    "issue": "Table94 finalFV exponent",
+    "printed_page": 266,
+    "author": "15000*(1.04)^5=15600",
+    "independent": "actualfinalcompound1year;literalpower5→18249.793536 not15600"
+  },
+  {
+    "issue": "PV3annuity inconsistent amounts",
+    "printed_page": 269,
+    "author": "step1 result45441.29 finalsumuses45441.20",
+    "independent": "exact45441.20314085; source45441.29notcentroundingcorrect;finalPV72753.489359"
+  },
+  {
+    "issue": "PVwithdraw prose72753.30",
+    "printed_page": 273,
+    "author": "we determined72753.30 priorresult",
+    "independent": "sameflows/rate72753.489359;tableandExcel72753.49"
+  },
+  {
+    "issue": "Investment smallrounding representations",
+    "printed_page": 270,
+    "author": "sum485326.48",
+    "independent": "fullprecision485326.468079→485326.47; exactindividuals/roundedprinted preserved"
+  },
+  {
+    "issue": "First7FVrounding",
+    "printed_pages": [
+      266,
+      272,
+      274
+    ],
+    "author": "formula35062.26 vs calculator/Excel35062.27",
+    "independent": "fullprecision35062.265238→35062.27;onecentrepresentationnotdifferentfinancialresult"
+  },
+  {
+    "issue": "Table915 visuallymisaligned",
+    "printed_page": 277,
+    "author": "withdrawalamountscolumns0to4 ratherthan1to5,totalPVat5",
+    "independent": "figure96/97C2toG2 actualcorrectfirstt1;tablealignmentnotcashdate"
+  },
+  {
+    "issue": "Fig92 interestdescription omitted priorbalance",
+    "printed_page": 274,
+    "author": "interestamountinvestedatstarttimesrate",
+    "independent": "recurringinterest=(priorendingbalance+currentdeposit)*rate;figactualvaluesusewholebalance"
+  },
+  {
+    "issue": "Allmixedstreams cannotuseannuity blanket",
+    "printed_pages": [
+      264,
+      265,
+      267
+    ],
+    "author": "mixedstreams cannotannuityshortcuts",
+    "independent": "cannotonesingleconstantannuityforall;canlinearlysplitconstantannuityplusunequaladditions same dates/rate, authorlaterdoes"
+  },
+  {
+    "issue": "Cashflowtransparentunqualified claim",
+    "printed_pages": [
+      270,
+      271
+    ],
+    "author": "interviewcashflowsnotanyqualifications/superior measurement",
+    "independent": "cashsource/classification/oneoff/borrowings/workingcapital/constraints stillrequirequalification; noautomaticstockalpha"
+  },
+  {
+    "issue": "Risk/discount/cost input assumptions",
+    "printed_pages": [
+      263,
+      266,
+      269,
+      270,
+      280,
+      281
+    ],
+    "author": "forecastflows/fixed4pctexample with450kcost",
+    "independent": "expectednotobserved/guaranteed;onlyfuturePV485326.468 notNPVunlesscost450k included, then35326.468; do notprove certaintyor30pctcapitalprojectsuccess"
+  },
+  {
+    "issue": "Irregularcalendar payments",
+    "printed_page": 266,
+    "author": "simpleperiodboundary forforecast",
+    "independent": "amountsunequaldoesnotmeanintervalsunequal;NPVrequiresuniformperiods;actualdatesXNPV365days documented separatemodernextension",
+    "primary_url": "https://support.microsoft.com/en-gb/excel/functions/xnpv-function"
+  }
+]

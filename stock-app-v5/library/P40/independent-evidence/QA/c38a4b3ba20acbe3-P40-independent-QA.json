@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "book_id": "P40",
+  "reviewer": "practical_books独立复核代理",
+  "reviewed_at_utc": "2026-10-12T07:32:20.261287+00:00",
+  "review_completed": true,
+  "scope_zh": "本次逐章读完8章PG英文转录、8章中文稿以及28条专家规则。另目视复核原PDF103/104/127/128四页；不是逐页重读140页扫描，不声称全部历史事件外部实证核验。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "source_file": "source-chapters/ch01.txt",
+      "source_sha256": "3595da84bc5f6c67674a317fe89f76218d6991e29c1ceb5b0da1c6afd9a0cc87",
+      "dossier_file": "ch01.md",
+      "dossier_sha256": "cb47ed9ba7fe309dd482bae304f0b30b227f4ea7a8a5cf409dc0c3fc2b1f452f",
+      "body_han_count": 3086,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 2,
+      "source_file": "source-chapters/ch02.txt",
+      "source_sha256": "0a10ecc7943f567027c546a47c4af5106213497374af9b13968b49bb5b185703",
+      "dossier_file": "ch02.md",
+      "dossier_sha256": "bb5b6374100b01ebbf4521cc2b6314f77086924e96165157f98c301316c9b3db",
+      "body_han_count": 3143,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 3,
+      "source_file": "source-chapters/ch03.txt",
+      "source_sha256": "bdd693a1208af7b51591ef2ff819fafee4a9f35b96700be532886fb1e83cd648",
+      "dossier_file": "ch03.md",
+      "dossier_sha256": "df0e99504a7c40ec05830dd5e4cd8f53c3697aba8598124a2c2351134216f5a2",
+      "body_han_count": 3060,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 4,
+      "source_file": "source-chapters/ch04.txt",
+      "source_sha256": "566c5a4599e26dca902d4f794b44b6a0226d3393e22ac0f9c3691b4323379e22",
+      "dossier_file": "ch04.md",
+      "dossier_sha256": "e8a167f441a25d7796c26290283e47a0a4bde4a23d007b71e1779a47752e5cd5",
+      "body_han_count": 3215,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 5,
+      "source_file": "source-chapters/ch05.txt",
+      "source_sha256": "7c09cf1dad22d86fb3cf344e1b3c835dc83474de95a4c42d59795f2d49f07bcc",
+      "dossier_file": "ch05.md",
+      "dossier_sha256": "a91ee87bee0a43b112c257cf81f062a8ee87b33f1f2560451116bb7504e032aa",
+      "body_han_count": 2895,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 6,
+      "source_file": "source-chapters/ch06.txt",
+      "source_sha256": "519288afa1121f3acedd6758f2c06c98cc2b9dfa1cab2fca24500df578e4b4b3",
+      "dossier_file": "ch06.md",
+      "dossier_sha256": "baf596c508127c2432ce5ed90b8c6679c4b69c54882e50f2c4f012fcb6d879d1",
+      "body_han_count": 2787,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 7,
+      "source_file": "source-chapters/ch07.txt",
+      "source_sha256": "ddfad9c87d6fb722d61d737d29d76a7cab7f390a29b0f8a6c86c2ef8d35b0e1a",
+      "dossier_file": "ch07.md",
+      "dossier_sha256": "ff61be94294976320075e8ebfe98a2990442918639ddf1378bc1abced40d8618",
+      "body_han_count": 2430,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    },
+    {
+      "chapter": 8,
+      "source_file": "source-chapters/ch08.txt",
+      "source_sha256": "aa56af2983dbef38f96c6cee00b3962f9973f67e2112036e70459de82c92abfe",
+      "dossier_file": "ch08.md",
+      "dossier_sha256": "e61bfaea0980e4d0e12a22541ff516511cd47392bdaa80a7e3d503127a4350f0",
+      "body_han_count": 2806,
+      "whole_original_chapter_read_in_this_review": true,
+      "whole_chinese_dossier_read_in_this_review": true
+    }
+  ],
+  "body_han_total": 23422,
+  "all_chapters_at_least_2000_han": true,
+  "source_text_sha256": "99a920f2e6b2bd6f19788d456d8b08adfcf11fc3549b2a00471a0e24ec216e58",
+  "expert_definition_sha256": "e78f18f36b6544ab9d7b363da0c836de2c45d86c52defcb5f6cc9d85bd1259bf",
+  "findings": [
+    {
+      "id": "QA-P40-01",
+      "severity": "P2",
+      "kind": "numerical_translation",
+      "location": "ch08.md 第五条",
+      "original_meaning": "ninety-nine out of one hundred；原印刷页120，PDF128。",
+      "problem_zh": "旧稿写九十九人中九十九人，将分母误为99。",
+      "required_correction_zh": "一百人中九十九人；同时继续标为作者修辞而非实证概率。",
+      "status": "corrected_and_independently_rechecked",
+      "incorrect_old_phrase_absent": true
+    },
+    {
+      "id": "QA-P40-02",
+      "severity": "P2",
+      "kind": "source_vs_modern_rule_boundary",
+      "location": "expert-definition.json P40-R27",
+      "original_meaning_zh": "第8章第2条：要么按自己的判断，要么完全按另一个人的判断，不论自己的意见；原印刷页119，PDF127。",
+      "problem_zh": "初始author_meaning仅批评拼接局部建议而无人负责，弱化原书对单一判断的强要求，并混入现代协调层的理由。",
+      "required_correction_zh": "在author_meaning保留两种选择及完全依他人判断；把多专家保留命题、期限和裁决理由放在现代独立boundary，不能冒称有裁决人即符合原书。",
+      "status": "corrected_and_independently_rechecked",
+      "current_author_meaning": "要么依自己的判断，要么完全依另一个人的判断，不应随意混合。",
+      "modern_boundary": "多专家流程属于现代独立设计；保留命题、期限与裁决理由不等于原书认可混合多个判断。"
+    }
+  ],
+  "confirmed_source_issues_preserved": [
+    {
+      "chapter": 6,
+      "pages": {
+        "printed": [
+          95,
+          96
+        ],
+        "pdf": [
+          103,
+          104
+        ]
+      },
+      "original_inventory": 11168,
+      "original_profit": 1168,
+      "displayed_indices": [
+        8.26,
+        9.23
+      ],
+      "direct_ratio_result": 11174.334140435836,
+      "finding_zh": "扫描与数字文本均写约11168；直接用所印两指数算约11174.33。稿件保留差异，不偷偷改源文，也不把例子用于精确回测。"
+    },
+    {
+      "chapter": 8,
+      "pages": {
+        "printed": [
+          119
+        ],
+        "pdf": [
+          127
+        ]
+      },
+      "finding_zh": "单一判断与多专家流程的张力在中文章稿已明确保存；现代协调回应标为当代设计。"
+    },
+    {
+      "chapters": [
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "finding_zh": "反向推理有适用限制；他们必须有指代；消息前后比较需已知预期；原书批评任意盈亏幅度未被误写为取消风险预算；分档例未转为今日交易参数。"
+    }
+  ],
+  "rule_anchor_checks": {
+    "rule_count": 28,
+    "all_paragraph_ids_exist": true,
+    "all_evidence_phrases_match_normalized_source_paragraphs": true,
+    "all_28_printed_page_anchors_match_independent_HTML_page_tag_check": true,
+    "detail_file": "P40-review/independent-page-anchor-check.json",
+    "pdf_offset_8_visually_confirmed_on_selected_four_pages": true,
+    "all_pdf_glyphs_proofread": false
+  },
+  "modern_prediction_boundary": {
+    "calibrated_probability_claimed": false,
+    "current_stock_direction_enabled": false,
+    "model_calls_executed": 0,
+    "fabricated_modern_MA_RSI_threshold_found": false,
+    "author_personality_or_independent_model_claimed": false
+  },
+  "scan_evidence_files": [
+    "P40-review/pdf103.png",
+    "P40-review/pdf104.png",
+    "P40-review/pdf127.png",
+    "P40-review/pdf128.png"
+  ],
+  "overall_status": "passed_after_corrections",
+  "not_a_claim_40_books_complete": true,
+  "final_rechecked_at_utc": "2026-10-12T08:55:00.291089+00:00"
+}

@@ -1,0 +1,99 @@
+{
+  "book_id": "P33",
+  "all9formimages_visually_examined": true,
+  "forms": [
+    {
+      "pdf_page": 57,
+      "printed_page": 45,
+      "type": "commerciallong",
+      "visible": "£1000;60daysafterSIGHT;first/secondunpaid;100balescotton;NewYorkOct19,1909;Londoncreditbank",
+      "meaning": "payabledatefromsight,accompanyingshipmentstatedbutrealauthenticitystillneedsverification"
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 50,
+      "type": "clean",
+      "visible": "30daysafterDATE,notSIGHT;£150withshilling/pencehandwriting;no shipmenttext",
+      "meaning": "date-basedmaturitydifferentfromchapterlongsight;donotclaimsourceofcreditfromformalone",
+      "limits": "smallpencehandwritingnotusedforpreciseamountdatabase"
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 52,
+      "type": "shortcommercial",
+      "visible": "£940;15daysafterSIGHT;Jan3,1910;100casesmachinery;Londoncreditbank",
+      "meaning": "samplehas15daytermsnotinstantcashdespitecaptionSightBill"
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 53,
+      "type": "securities",
+      "visible": "£2003;ondemand;100UnionPacificpreferred;Oct19,1909",
+      "meaning": "individualsamplepaymentamountnotvalueassuranceorquotedstockprice;crossstampdoesnotprovesecuritiesauthentic"
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 54,
+      "type": "bankdemand",
+      "visible": "GuarantyTrustNewYork;£1000;ondemand;Oct19,1909;correspondentLondon",
+      "meaning": "drawingonforeignbalance;greyimageandlightspotslimitindividualsignatureglyphs"
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 55,
+      "type": "banklong",
+      "visible": "GuarantyTrustNewYork;£10000;90daysafterSIGHT;Oct19,1909",
+      "meaning": "no visiblefinancialpurposecanclassifytradeversusloanversusfinancebill"
+    },
+    {
+      "pdf_page": 154,
+      "printed_page": 142,
+      "type": "commerciallettercredit",
+      "visible": "Headercredit1301/October19,1909;NBfootercredit1310/October9,1909;£600/fourmonthsSIGHT/Cantonrawsilk10bales/drawbeforelastdayJanuary1910. Sameform internalnumber/date difference preserved.",
+      "meaning": "authorizationdeadlineisnotmaturity;sample600isnotauthorfollowing1000hypothesis;notverifiedasoneconsistentauthenticcontract;do notsilentlyequalizeheader/footer",
+      "limits": "smallhandwrittenexporter/company/shipname/signaturesnotallcertain;do notinferrealcounterpartyidentity",
+      "historical_abbreviated_visible_record": "credit1301;£600;Oct19,1909;fourmonthsSIGHT;Cantonrawsilktenbales;drawbeforelastdayJanuary1910;billofladingtoGuarantyorder;insuranceCanton",
+      "peer_confirmed_internal_discrepancy": {
+        "id": "P33-QA-A08",
+        "status": "required_original_form_discrepancy_disclosure",
+        "source_PDF_page": 154,
+        "printed_page": 142,
+        "original_images_actually_viewed": [
+          "source-review/p154.png",
+          "value_team/peer-QA/P33-images/pdf154-footer-highres.png"
+        ],
+        "observation": "Creditformheader CreditNo1301 andOctober19,1909; sameformNBfooter LetterofCreditNo1310 andOctober9,1909. TrustreceiptPDF161No1301; disagreement preserved notsilentlyoneauthenticcontract. Bottom600consistent.",
+        "required_files": [
+          "ch09.md",
+          "全书综合与附录.md",
+          "source-review/form-visual-audit.json",
+          "章节与阅读审计.json"
+        ],
+        "required_addition_zh": "信用证页上方和信托收据记一三〇一，信用证底部附记却为一三一〇；页首日期十月十九日与底部十月九日也不同。样表内这些不一致保留，本次不据此确认真实、统一的交易记录。",
+        "raw_source_must_remain_unchanged": true,
+        "canonical_images": [
+          "source-review/p154.png",
+          "source-review/independent-peer-QA/P33-images/pdf154-footer-highres.png"
+        ]
+      }
+    },
+    {
+      "pdf_page": 161,
+      "printed_page": 149,
+      "type": "trustreceipt",
+      "visible": "tenbalesrawsilkX.Y.Z1–10;credit1301;£600;Feb6,1910;holdbankproperty;turnoverproceeds;bankrecall;defaultacceleration;fireinsurance",
+      "meaning": "physicalcontrolreleasedyetwrittenrightsretained;authorsunsecuredmetaphornotlegallyverified"
+    },
+    {
+      "pdf_page": 162,
+      "printed_page": 150,
+      "type": "baileereceipt",
+      "visible": "tenbalesrawsilkX.Y.Z1–10;Feb6,1910;sellbankaccount;proceedsimmediate;buyeraccountsassigned;invoicepayablebank;10daynot-sold-or-depositreturn/payoption;fireinsurance",
+      "meaning": "specificten-daytermonthisformnotuniversalcreditlaw"
+    }
+  ],
+  "original_all_glyphs_proofread": false,
+  "current_law_externally_verified": false,
+  "reviewed_local_date": "2026-10-13",
+  "all_form_glyphs_individually_proofread": false
+}

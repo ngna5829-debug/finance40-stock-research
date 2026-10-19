@@ -1,0 +1,18 @@
+{
+  "chapter": 20,
+  "source_not_experiment": true,
+  "original_fixed_demand_condition_preserved": true,
+  "hat_count": 10000000,
+  "shillings_per_pound": 20,
+  "old_unit_shillings": 15,
+  "new_unit_shillings": 10,
+  "old_aggregate_pounds": 7500000.0,
+  "new_aggregate_pounds": 5000000.0,
+  "saved_pounds": 2500000.0,
+  "limitations": [
+    "精确总支出不保证等量就业/工资人数",
+    "传给消费、全部节省另花、进口由现产付款皆模型条件",
+    "技术/国外货执行品质币期不自动同",
+    "没有原制帽统计/成本细目/行情，不回测"
+  ]
+}

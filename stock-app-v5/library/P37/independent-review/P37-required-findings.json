@@ -1,0 +1,246 @@
+{
+  "book_id": "P37",
+  "status": "whole_source_semantic_QA_complete_candidates_not_merged",
+  "original_expert_sha256": "5cc31d226ae9b1f38f5c00ff5a7206288fd287dcc6a7267ee92c9251fd63d671",
+  "original_audit_sha256": "908eae22f50de4f57fd2051652181d687c9b3b3551c32d35b110da2e0723ebd0",
+  "draft_patches": [
+    {
+      "file": "reading-units/u01.md",
+      "old": "股息率约七点〇六与六个百分点",
+      "candidate_new": "股息率分别约为百分之七点〇六与百分之六",
+      "reason": "Yield levels are percentages, not percentage-point changes.",
+      "original_topics": [
+        2
+      ]
+    },
+    {
+      "file": "reading-units/u02.md",
+      "old": "是每股现金点数而非自动百分之五十",
+      "candidate_new": "是按每股金额计的点数，不代表已用现钞缴付，也不自动等于百分之五十",
+      "reason": "The example deposits bonds; amount points are not proof of a cash deposit.",
+      "original_topics": [
+        4
+      ]
+    },
+    {
+      "file": "reading-units/u03.md",
+      "old": "购入成本是简明本金下界",
+      "candidate_new": "购入成本是该持仓本金损失的上界",
+      "reason": "For fully paid ordinary shares with no additions, cost bounds principal loss above, not below.",
+      "original_topics": [
+        7
+      ]
+    },
+    {
+      "file": "reading-units/u04.md",
+      "old": "借六至八个百分点的钱",
+      "candidate_new": "借利率百分之六至百分之八的款项",
+      "reason": "Quoted borrowing-rate levels are percentages; source gives no separate interest-computation convention.",
+      "original_topics": [
+        8
+      ]
+    },
+    {
+      "file": "reading-units/u04.md",
+      "old": "初配几点评价之下的stoploss",
+      "candidate_new": "最初配上低于市价几个价格点的stoploss",
+      "reason": "A few points under market denotes price distance, not an evaluation.",
+      "original_topics": [
+        9
+      ]
+    },
+    {
+      "file": "reading-units/u05.md",
+      "old": "只想几点评价",
+      "candidate_new": "只想赚几个价格点的差额",
+      "reason": "A turn of a few points denotes intended price gain.",
+      "original_topics": [
+        11
+      ]
+    },
+    {
+      "file": "reading-units/u05.md",
+      "old": "跌几点评价，他失三百股买一百八十九的亏",
+      "candidate_new": "跌几个价格点，他卖出先前在一百八十九买的三百股而认赔",
+      "reason": "The trader takes a loss by selling 300 shares; he does not lose the share certificates.",
+      "original_topics": [
+        11
+      ]
+    },
+    {
+      "file": "reading-units/u07.md",
+      "old": "同派息五元，七十五的股息率约六点六七，一百五十三点三三，一百四十三点五七，一百三十三点八四六",
+      "candidate_new": "同为每股年派五美元，价格七十五美元时股息率约百分之六点六七；价格一百五十美元时约百分之三点三三，一百四十美元时约百分之三点五七，一百三十美元时约百分之三点八四六",
+      "reason": "Separate prices, denominators and percentage yields explicitly.",
+      "original_topics": [
+        18
+      ]
+    },
+    {
+      "file": "reading-units/u07.md",
+      "old": "从顶跌几点评价",
+      "candidate_new": "从高价跌几个价格点",
+      "reason": "Price-point decline does not itself establish value.",
+      "original_topics": [
+        18
+      ]
+    },
+    {
+      "file": "reading-units/u08.md",
+      "old": "他举一万美元买每股一百年派七个百分点的股份",
+      "candidate_new": "他举一万美元买每股一百美元、按买价计算年股息率百分之七的股份",
+      "reason": "Annual yield level at original purchase price, not a seven-point change.",
+      "original_topics": [
+        20
+      ]
+    },
+    {
+      "file": "reading-units/u08.md",
+      "old": "原年七百变现资本收益率约四点六",
+      "candidate_new": "原每年七百美元相对现值的股息率被作者写成约百分之四点六",
+      "reason": "Specify the unchanged annual income and the new capital denominator.",
+      "original_topics": [
+        20
+      ]
+    },
+    {
+      "file": "reading-units/u08.md",
+      "old": "在bank三息休息几月",
+      "candidate_new": "在银行按原文百分之三的利率休息几月",
+      "reason": "The source quotes a historical 3 percent bank rate, not three unspecified currency units.",
+      "original_topics": [
+        20
+      ]
+    },
+    {
+      "file": "reading-units/u08.md",
+      "old": "原三个百分点只限历史句",
+      "candidate_new": "原百分之三的利率只限历史句",
+      "reason": "Rate level rather than percentage-point difference.",
+      "original_topics": [
+        20
+      ]
+    },
+    {
+      "file": "reading-units/u09.md",
+      "old": "“四新换一旧”的口语若单看",
+      "candidate_new": "原文“一旧获得四新”的说法若单看",
+      "reason": "Receive four new shares for one is not explicitly an exchange contract replacing the old share.",
+      "original_topics": [
+        22
+      ]
+    },
+    {
+      "file": "reading-units/u09.md",
+      "old": "〇二传闻价二百五十半",
+      "candidate_new": "一九二二传闻价二百五十半",
+      "reason": "The stated year is 1922, not an ambiguous 02.",
+      "original_topics": [
+        22
+      ]
+    }
+  ],
+  "rule_patches": [
+    {
+      "rule_id": "P37-R11",
+      "field": "author_meaning",
+      "old": "双零38格每格1总38返36必亏2；单押长期每3800期望200；脚注单零通常捐赢家1disk近似双零，继续押至返赢。",
+      "candidate_new": "双零38格每格1总38返36必亏2；作者称单押每3800按平均运气亏200；脚注单零赢家通常捐1disk而近似双零，并称大赢家常继续押直到吐出盈利。",
+      "reason": "Clarify give-back of gains and keep reported gaming-authority claims separate from proof."
+    },
+    {
+      "rule_id": "P37-R12",
+      "field": "author_meaning",
+      "old": "连赢后薄margin借6–8买原50不肯买的100–150，高卖后更高回；作者说乐观更危因悲观常不行动。",
+      "candidate_new": "连赢后薄margin按百分之六至百分之八的利率借款，买原50不肯买的100–150，高卖后更高回；作者说乐观更危因悲观常不行动。",
+      "reason": "Explicit original borrowing-rate units without inventing a current rate or separate compounding convention."
+    },
+    {
+      "rule_id": "P37-R15",
+      "field": "author_meaning",
+      "old": "工程师名声、医生审计律师董事仅信同一人，grocer称自invest20k/distribute20k值5却卖1；作者第二回信后急买余几百，后来treasury5c。",
+      "candidate_new": "工程师名声、医生审计律师董事仅信同一人，杂货商称自己投资2万股、另向客户发售2万股，称值5美元却卖1美元；作者第二回信后急买余几百股，后来treasury售5美分。",
+      "reason": "Twenty thousand is a share count, not the value of the groceries company investment."
+    },
+    {
+      "rule_id": "P37-R17",
+      "field": "author_meaning",
+      "old": "UP100@120售125500减费，margin1500六息90；后来130/135各100售125损1500，139买200售133损1200。",
+      "candidate_new": "UP100股以120买、125售，作者称得500美元减佣金；margin1500美元，按百分之六年利率比较超过五年利息；后来130/135各100股售125损1500，139买200股售133损1200。",
+      "reason": "The 90 dollars annual interest is our arithmetic, not an amount printed by the author."
+    },
+    {
+      "rule_id": "P37-R17",
+      "field": "independent_analysis",
+      "old": "500/90≈5.56年未费非五倍资本；后阶梯全持5100vs若201–212各300有6000，不完整委托，不能算净100k策略。",
+      "candidate_new": "1500×6%=90美元年息、500/90≈5.56年是独立复算，未扣费用而非五倍资本；后阶梯全持5100，若201–212各300则有6000，委托不完整，不能算净100k策略。",
+      "reason": "Preserve derived calculations in independent analysis."
+    },
+    {
+      "rule_id": "P37-R21",
+      "field": "independent_analysis",
+      "old": "20points/50points非百分比，股价未知不证按计划全10k，broker说<6月破产是预测无最终结果；病喻不医学认证。",
+      "candidate_new": "原每名20是股数；50points保证金是按每股金额计的点数，不是50%。股价未知不证按计划全10k，broker说<6月破产是预测无最终结果；病喻不医学认证。",
+      "reason": "Twenty shares must not be relabelled twenty price points."
+    },
+    {
+      "rule_id": "P37-R34",
+      "field": "author_meaning",
+      "old": "100股100年7%→现15000同700约4.6%，可换更大净income或全贵bankwait；旧50买C&H留850因旧yield与情感。",
+      "candidate_new": "原例每股100美元、年股息率7%，原资本10000美元涨至15000美元，作者称现资本年收益约4.6%；建议可换更大净income或全贵则在bank等待，并称5000资本利得足覆盖等待时原投资利息。旧50买C&H而留850因旧yield与情感，作者另以百比一形容银行3%利率休息后数月低买的机会。",
+      "reason": "Retain the author’s strong waiting claim and odds rhetoric; 700 dollars and 100 shares are inferred arithmetic."
+    },
+    {
+      "rule_id": "P37-R34",
+      "field": "independent_analysis",
+      "old": "700/15000=4.6667%非精确4.6，派息率不足估值；旧成本非当前机会，5000gain不无期限cover，100:1/3bank%是历史信心非概率。",
+      "candidate_new": "按原购价与总资本推得100股、年收入700美元；700/15000=4.6667%非精确4.6，派息率不足估值。旧成本非当前机会，5000gain不无期限cover；100:1及银行3%是历史信心与利率，不是当前概率或存款条件。",
+      "reason": "Distinguish inferred share count/income from printed author wording."
+    },
+    {
+      "rule_id": "P37-R37",
+      "field": "author_meaning",
+      "old": "买前查、买后别盯，openstop成本下限损，GTC成本上满意价获利；前例取消stop破计划。",
+      "candidate_new": "作者说买前查、买后别盯，仅在成本下放openstop便可限制损失，在成本上满意价放GTC便可保证利润，无需额外观察；前例取消stop破计划。",
+      "reason": "Do not soften insure-profit author wording; modern execution qualifications belong in the independent-analysis field."
+    },
+    {
+      "rule_id": "P37-R38",
+      "field": "author_meaning",
+      "old": "1045listed、数百万shares和split/newdiv多个倍数，十1元币换十元比；作者疑低价诱但认部分没增现金分配。",
+      "candidate_new": "作者报1045种listed证券、数百万股及split/newdiv多个倍数，用政府收回一张十美元纸币并发行十张一美元纸币作比；他疑低价诱饵，但承认部分公司未增加现金分配。",
+      "reason": "The analogy is issuance of ten one-dollar notes in exchange for a ten-dollar bill, preserving the splitting direction; the listing count is securities, not a current company count."
+    },
+    {
+      "rule_id": "P37-R39",
+      "field": "author_meaning",
+      "old": "旧每股5div，四新加旧按五总股与年1呼应，授权25missued>20m及pref200m；new31以下→46yield略2，旧100等新500交易费154。",
+      "candidate_new": "旧每股年派5美元，原文称一旧获得四新，授权普通股2500万股、已发超2000万股，另优先股2亿美元；新股价曾低于31后到约46、年派1美元略超2%收益，作者称等价旧100股的现交易费税154美元、约为原五倍。",
+      "reason": "Four newly received shares versus five total is an interpretation; preferred stock is a dollar amount, common stock figures are share counts."
+    }
+  ],
+  "voice_patches": {
+    "P37-T04-P002": "Harper narrative of the anonymous Pittsburgh magnate; distinct from the Boston leather merchant described later in the same topic.",
+    "P37-T04-P004": "Unnamed Pittsburgh magnate broker dialogue reproduced by Harper; sarcastic five-times counterfactual, not an audited account or current contractual rule.",
+    "P37-T04-P005": "Unnamed Pittsburgh magnate and broker dialogue reproduced by Harper; distinct from the subsequent Boston leather merchant."
+  },
+  "source_coordinate_correction": "Old fullTXT_character_range and paragraph hashes use LF normalization; active precise_source_contexts use original raw CRLF line/character/byte/SHA and portable full evidence files.",
+  "strict_candidate_counts": [
+    2596,
+    2916,
+    2823,
+    3071,
+    3306,
+    2583,
+    2655,
+    2717,
+    2367
+  ],
+  "strict_candidate_total": 25034,
+  "minimum_candidate": 2367,
+  "precise_raw_original_contexts": 99,
+  "unique_original_paragraphs": 74,
+  "full_original_topic_contexts": 22,
+  "all_original_sources_unchanged": true,
+  "canonical_not_modified": true
+}

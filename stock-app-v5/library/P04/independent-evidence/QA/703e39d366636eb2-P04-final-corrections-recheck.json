@@ -1,0 +1,53 @@
+{
+  "book_id": "P04",
+  "reviewed_at_utc": "2026-10-12T14:20:44.737755+00:00",
+  "scope": "独立全书QA后的五项修复最终核验；复用全量语义评审，不声称根本轮重新完整读13章。",
+  "overall_status": "passed_after_required_corrections_with_source_limits",
+  "prior_full_review_file": "work/book-experts-v5/practical_continuation/P04-independent-QA.json",
+  "prior_full_review_sha256": "22382c24f339d56e4b18b8bd4ae0d6b5e14b03fab6566f8ee5ce1768453ee9a6",
+  "source_and_13_dossiers_unchanged_from_full_review": true,
+  "strict_body_han_total": 37616,
+  "strict_minimum_chapter_han": 2393,
+  "specific_rule_fragments_checked": 57,
+  "all_23_appendix_B_rows_recalculated": true,
+  "five_required_fixes_closed": true,
+  "closed_findings": [
+    {
+      "id": "QA-P04-01",
+      "status": "closed_verified",
+      "implementation": "R07准确分锚第4章2357–2363及第12章6339–6369，综合归属同步；原财政责任与账户预测性质分开。"
+    },
+    {
+      "id": "QA-P04-02",
+      "status": "closed_verified",
+      "implementation": "删除Moxon列明存款/收费/利润提案误归，准确列股东名单、章程规则和详细审计三动议；保留无附议未表决。"
+    },
+    {
+      "id": "QA-P04-03",
+      "status": "closed_verified",
+      "implementation": "R23/R26原材料层改为口径缺漏/会议实际记录，安全排序与零损失核证移modern_independent_analysis；提示词与说明同步。"
+    },
+    {
+      "id": "QA-P04-04",
+      "status": "closed_verified",
+      "implementation": "26规则现有57个具体源段锚和片段SHA；R11直接锚章2，整章只作context。逐条原源片段均重读、SHA核准。"
+    },
+    {
+      "id": "QA-P04-05",
+      "status": "closed_verified",
+      "implementation": "独立再算23表行与QA相同，综合和审计列全部五项合计差；1857存款规模问题独立保留；不改原数或启用数值实验。"
+    }
+  ],
+  "source_limits_remain": "纸本逐字校勘/底本版次、附录未解数字均保留；不作精确实验、不启当前股票方向。",
+  "current_hashes": {
+    "work/book-experts-v5/index_team/P04/章节深读.md": "e4fd44c3f845c00c553801952b282f65bd473bde5be5636b2649f678bafcf91b",
+    "work/book-experts-v5/index_team/P04/全书综合与附录.md": "c19efe9652168a9318b02604071ac0d5d3bd2bc2e5e7b31b1a6417e1f48b0259",
+    "work/book-experts-v5/index_team/P04/专家定义.json": "7327c53ebb8f4965b1274ce6fddf7ca37cf3a59f223f35c9870d321ecb919a23",
+    "work/book-experts-v5/index_team/P04/专家说明.md": "f69b841c5f7504ad25905ef8ab92fe9debe1986fcbb1f8cb90424861d7621a5b",
+    "work/book-experts-v5/index_team/P04/source-metadata.json": "33aa5f34a84ae3b9677e5b36d26638d9ceb3c0ca433ee57b22dacce2a12c6476",
+    "work/book-experts-v5/index_team/P04/章节与阅读审计.json": "756f61d2fe457115bca681ad282e080d3640eddbd2763eeb9a8a7868e434a6a4",
+    "work/book-experts-v5/index_team/P04/附录B算术复核.json": "09f9ddd08399aabb67bd19aef7ed939499df8b11e5ec621aecaea8b29e25a06c"
+  },
+  "current_stock_direction_enabled": false,
+  "all_40_books_completed": false
+}

@@ -1,0 +1,479 @@
+{
+  "book_id": "P38",
+  "title": "Principles of Finance",
+  "authors": [
+    "Julie Dahlquist",
+    "Rainford Knight"
+  ],
+  "contributing_authors": [
+    "Alan S. Adams",
+    "Curtis J. Bacon",
+    "Samantha T. Cooper",
+    "Michael P. Griffin",
+    "Kevin C. Higgins",
+    "Larry Musolino"
+  ],
+  "publisher": "OpenStax, Rice University",
+  "reading_edition": "Complete2022 digitalISBN978-1-951693-54-1; EconStor repository front sheet added",
+  "publication_year": 2022,
+  "license": "CC BY4.0, printed in obtained2022 edition; current web edition differs",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "required_attribution": "Access for free at openstax.org. Julie Dahlquist and Rainford Knight, Principles of Finance, OpenStax/Rice University,2022, CC BY4.0. Chinese reading synthesis and expert rules are adaptations; no endorsement implied.",
+  "source_url": "https://www.econstor.eu/bitstream/10419/273998/1/1841033014.pdf",
+  "source_identity_url": "https://hdl.handle.net/10419/273998",
+  "pdf_file": "original-2022-CCBY.pdf",
+  "pdf_sha256": "8c0b537a3a66a60f4b3039392728254fc938e36c4baf635d4707928336bf04b9",
+  "pdf_bytes": 63302362,
+  "pdf_pages": 644,
+  "full_text_sha256": "b8e06790fdcacafbfca96805389b235277960e8540387ac2e1f7dce420960e9e",
+  "full_text_chars": 1596609,
+  "original_chapters": 20,
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction to Finance",
+      "source_sha256": "93cb684dd34b65aa1f37099ccdf48b1229bf79a3a38e6ba6cd4672a373910653",
+      "summary_file": "ch01.md",
+      "summary_sha256": "d4593ab523bb50e497f5be238b0048ace34cb0ccb0462dcc67ad231f9b84a5fa",
+      "body_han_count": 3748,
+      "printed_pages": [
+        7,
+        38
+      ],
+      "pdf_pages_one_based": [
+        22,
+        53
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch01-reading-audit.json",
+      "source_issues": "ch01-source-issues.json"
+    },
+    {
+      "number": 2,
+      "title": "Corporate Structure and Governance",
+      "source_sha256": "23e82bf6f59ac11afc89bf66d9d7438c8280debe99772deb54f714c359afabe5",
+      "summary_file": "ch02.md",
+      "summary_sha256": "30faeef3c1ffeb5d69c1930c3e17b4f2ac5a64985a189b07c4e0433a4ff52c88",
+      "body_han_count": 3277,
+      "printed_pages": [
+        39,
+        66
+      ],
+      "pdf_pages_one_based": [
+        54,
+        81
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch02-reading-audit.json",
+      "source_issues": "ch02-source-issues.json"
+    },
+    {
+      "number": 3,
+      "title": "Economic Foundations: Money and Rates",
+      "source_sha256": "eae5fda61855b552aebcc3427a308c33fa686e1820b2c82d628be7ea2175a2f2",
+      "summary_file": "ch03.md",
+      "summary_sha256": "83c8544fc89c2cacf384dae87e30175093c42424227882bbff0e79814150f20c",
+      "body_han_count": 3446,
+      "printed_pages": [
+        67,
+        100
+      ],
+      "pdf_pages_one_based": [
+        82,
+        115
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch03-reading-audit.json",
+      "source_issues": "ch03-source-issues.json"
+    },
+    {
+      "number": 4,
+      "title": "Accrual Accounting Process",
+      "source_sha256": "05f3493ccf17d2045ee4b53e0e8ac26d5aea9b49af7318142490f0a52f062c34",
+      "summary_file": "ch04.md",
+      "summary_sha256": "719c071b7662f1eb121db413228a7991715723b6ec973dbbd75b2745560defc4",
+      "body_han_count": 3608,
+      "printed_pages": [
+        101,
+        128
+      ],
+      "pdf_pages_one_based": [
+        116,
+        143
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch04-reading-audit.json",
+      "source_issues": "ch04-source-issues.json"
+    },
+    {
+      "number": 5,
+      "title": "Financial Statements",
+      "source_sha256": "6184605739ab277953e4925f789468dcf884d39cea156c67c3bccb49fc02523c",
+      "summary_file": "ch05.md",
+      "summary_sha256": "99764f304fa54d8d68fa5c7b0bd3f3d9d0d95aed55d85a55f84f1a9011941c67",
+      "body_han_count": 3989,
+      "printed_pages": [
+        129,
+        164
+      ],
+      "pdf_pages_one_based": [
+        144,
+        179
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch05-reading-audit.json",
+      "source_issues": "ch05-source-issues.json"
+    },
+    {
+      "number": 6,
+      "title": "Measures of Financial Health",
+      "source_sha256": "a3613d6b55494ce4320bfdaef785b96ac799fc052dd4b8896ed119b34889f83b",
+      "summary_file": "ch06.md",
+      "summary_sha256": "548504db1f45eaa603c2eb9b45b1e4c69d2b2609dc14b67b78893f6d25e2698a",
+      "body_han_count": 3816,
+      "printed_pages": [
+        165,
+        190
+      ],
+      "pdf_pages_one_based": [
+        180,
+        205
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch06-reading-audit.json",
+      "source_issues": "ch06-source-issues.json"
+    },
+    {
+      "number": 7,
+      "title": "Time Value of Money I: Single Payment Value",
+      "source_sha256": "ae9ebf407c3fdf985edff3698d207b11fbef445f2f884cf1192edc3e6fe04369",
+      "summary_file": "ch07.md",
+      "summary_sha256": "b08223e611f2a24da7d86a733958f7e244edadebec2aaf6d3b30188d37026056",
+      "body_han_count": 3687,
+      "printed_pages": [
+        191,
+        226
+      ],
+      "pdf_pages_one_based": [
+        206,
+        241
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch07-reading-audit.json",
+      "source_issues": "ch07-source-issues.json"
+    },
+    {
+      "number": 8,
+      "title": "Time Value of Money II: Equal Multiple Payments",
+      "source_sha256": "8ea0815324b31d43b1aa9a9557e030de93c21a0571fe6119c8e74b6332c0701d",
+      "summary_file": "ch08.md",
+      "summary_sha256": "250f5d1bdcb03bc678cefe1e003f3186a11aba8e3d5256989401f573666fd711",
+      "body_han_count": 3762,
+      "printed_pages": [
+        227,
+        262
+      ],
+      "pdf_pages_one_based": [
+        242,
+        277
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch08-reading-audit.json",
+      "source_issues": "ch08-source-issues.json"
+    },
+    {
+      "number": 9,
+      "title": "Time Value of Money III: Unequal Multiple Payment Values",
+      "source_sha256": "2dc954ea2a8c18810d8ec555f555eda30b05509f4c0e7d4468eaeafc8169b44a",
+      "summary_file": "ch09.md",
+      "summary_sha256": "b10d43f8ec7159ec38e0a930e5f0a04348f272b28bc94fcf8c46c3cc7218fc39",
+      "body_han_count": 2801,
+      "printed_pages": [
+        263,
+        282
+      ],
+      "pdf_pages_one_based": [
+        278,
+        297
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch09-reading-audit.json",
+      "source_issues": "ch09-source-issues.json"
+    },
+    {
+      "number": 10,
+      "title": "Bonds and Bond Valuation",
+      "source_sha256": "97b87b38f98c8f7edc84dd03d70451c1b3a4af57c5171833d125ef37c25ce08a",
+      "summary_file": "ch10.md",
+      "summary_sha256": "a387a57499ad4e3f9d1194535ce960260dd3367a0df2a89fbb06e088c4350f36",
+      "body_han_count": 3546,
+      "printed_pages": [
+        283,
+        318
+      ],
+      "pdf_pages_one_based": [
+        298,
+        333
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch10-reading-audit.json",
+      "source_issues": "ch10-source-issues.json"
+    },
+    {
+      "number": 11,
+      "title": "Stocks and Stock Valuation",
+      "source_sha256": "c0d83eafece0e8208aaa444569da3d21cf4163251ac5cfa8844b7a5372fdd63f",
+      "summary_file": "ch11.md",
+      "summary_sha256": "7bd339bca63bed635900835d6f0523d5d7dfc396ac50e771ecaec934d5673d74",
+      "body_han_count": 4069,
+      "printed_pages": [
+        319,
+        352
+      ],
+      "pdf_pages_one_based": [
+        334,
+        367
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch11-reading-audit.json",
+      "source_issues": "ch11-source-issues.json"
+    },
+    {
+      "number": 12,
+      "title": "Historical Performance of US Markets",
+      "source_sha256": "21524e1a60edb905e6ce18a6858e150d0017e6460a1cc88c7f5398f52424dabe",
+      "summary_file": "ch12.md",
+      "summary_sha256": "e0eafd30523874bcc5da1eaaafdcf3ee992043979abf48ea442bfdfafa74b922",
+      "body_han_count": 3754,
+      "printed_pages": [
+        353,
+        380
+      ],
+      "pdf_pages_one_based": [
+        368,
+        395
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch12-reading-audit.json",
+      "source_issues": "ch12-source-issues.json"
+    },
+    {
+      "number": 13,
+      "title": "Statistical Analysis in Finance",
+      "source_sha256": "38758d7cf28667f4b505ae37843249e0a20b5b3572a7f3fa4864862e6e1f2d44",
+      "summary_file": "ch13.md",
+      "summary_sha256": "7f2535a61af5f9adcb3ba6ebd0f3582ea05b01ffb3bcf977d6aea1819765f22c",
+      "body_han_count": 3485,
+      "printed_pages": [
+        381,
+        416
+      ],
+      "pdf_pages_one_based": [
+        396,
+        431
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch13-reading-audit.json",
+      "source_issues": "ch13-source-issues.json"
+    },
+    {
+      "number": 14,
+      "title": "Regression Analysis in Finance",
+      "source_sha256": "ea29513015a1d92ebbc6f25b13b6a915cd7b326445e127ded5a1b648a3bd2d7f",
+      "summary_file": "ch14.md",
+      "summary_sha256": "47b397d9c1e5b92e619e8272028c5d15cee5eaf9aef6842100192ea2d165d3d6",
+      "body_han_count": 3374,
+      "printed_pages": [
+        417,
+        448
+      ],
+      "pdf_pages_one_based": [
+        432,
+        463
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch14-reading-audit.json",
+      "source_issues": "ch14-source-issues.json"
+    },
+    {
+      "number": 15,
+      "title": "How to Think about Investing",
+      "source_sha256": "a1caae0486a54c226e64691b443ff6ad20ccb3ceeb9b139dbcd143053b650023",
+      "summary_file": "ch15.md",
+      "summary_sha256": "0ddb1626be527107a5b867b5a37bdcc432dbdeca9008651d338547ff31c50cbd",
+      "body_han_count": 3347,
+      "printed_pages": [
+        449,
+        478
+      ],
+      "pdf_pages_one_based": [
+        464,
+        493
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch15-reading-audit.json",
+      "source_issues": "ch15-source-issues.json"
+    },
+    {
+      "number": 16,
+      "title": "How Companies Think about Investing",
+      "source_sha256": "c582ad6176eb0551e74ed76f952471ca9a6f98a35c593677918d2f235dcd6bf0",
+      "summary_file": "ch16.md",
+      "summary_sha256": "1f720c8d145ecfc63729e24acafbde57ad998817d440138e6dd5a7532d5a73e1",
+      "body_han_count": 3589,
+      "printed_pages": [
+        479,
+        506
+      ],
+      "pdf_pages_one_based": [
+        494,
+        521
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch16-reading-audit.json",
+      "source_issues": "ch16-source-issues.json"
+    },
+    {
+      "number": 17,
+      "title": "How Firms Raise Capital",
+      "source_sha256": "1c15205865555e4569ff7f254bce831c06e981777926e80d241fff8a79f2428f",
+      "summary_file": "ch17.md",
+      "summary_sha256": "a364adabdf9943ae768cc5147523ac74b6e80e292ba0f88c905dd3620c1503cb",
+      "body_han_count": 4274,
+      "printed_pages": [
+        507,
+        534
+      ],
+      "pdf_pages_one_based": [
+        522,
+        549
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch17-reading-audit.json",
+      "source_issues": "ch17-source-issues.json"
+    },
+    {
+      "number": 18,
+      "title": "Financial Forecasting",
+      "source_sha256": "4218621f06cbab7c41f289d197c90277cb89c4a1a7422cf7a11c87ddf31308b8",
+      "summary_file": "ch18.md",
+      "summary_sha256": "47ff8d7ee8aefcc0c7c838d14c5fced47176faf21a5df1cb4106715db1e59c9b",
+      "body_han_count": 4674,
+      "printed_pages": [
+        535,
+        564
+      ],
+      "pdf_pages_one_based": [
+        550,
+        579
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch18-reading-audit.json",
+      "source_issues": "ch18-source-issues.json"
+    },
+    {
+      "number": 19,
+      "title": "The Importance of Trade Credit and Working Capital in Planning",
+      "source_sha256": "0c5a44b45953b3b086ac4f058e0164a29347e7f23440ca12502699a3d2042e20",
+      "summary_file": "ch19.md",
+      "summary_sha256": "eba77ad7f95774ac173a25a8298c40cad14fa0a5dd585065e2cc25d88ae30f80",
+      "body_han_count": 4756,
+      "printed_pages": [
+        565,
+        598
+      ],
+      "pdf_pages_one_based": [
+        580,
+        613
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch19-reading-audit.json",
+      "source_issues": "ch19-source-issues.json"
+    },
+    {
+      "number": 20,
+      "title": "Risk Management and the Financial Manager",
+      "source_sha256": "3a9a459e6e400f8ad948ca07399041ffe8b0fc567ca53f3e91fa5c5bc16d17e0",
+      "summary_file": "ch20.md",
+      "summary_sha256": "f207078da352215292d7e4dc574823e01503293ff31fcdccea63ebb43cf1c852",
+      "body_han_count": 4220,
+      "printed_pages": [
+        599,
+        622
+      ],
+      "pdf_pages_one_based": [
+        614,
+        637
+      ],
+      "all_original_author_text_read": true,
+      "all_visible_figures_tables_formulas_read": true,
+      "chapter_detail_audit": "ch20-reading-audit.json",
+      "source_issues": "ch20-source-issues.json"
+    }
+  ],
+  "body_han_total": 75222,
+  "all644_pdf_pages_have_continuous_source_coverage": true,
+  "full_author_semantic_reading_complete": true,
+  "full_obtained_book_content_read": true,
+  "front_matter_available_text_read": true,
+  "index_read": true,
+  "all_chapter_footnotes_case_boxes_keyterms_questions_and_printed_video_prompts_read": true,
+  "all_chapter_visible_figures_tables_and_formula_images_read": true,
+  "scan_every_glyph_visually_proofread": false,
+  "external_videos_full_referenced_works_authenticated_instructor_resources_read": false,
+  "hidden_or_unprovided_external_workbook_cells_read": false,
+  "actual_TI_Excel_R_execution": false,
+  "external_primary_source_corrections_are_separate_from_original_book": true,
+  "independent_semantic_review": "passed_with_source_limits",
+  "knowledge_ready_qualified": true,
+  "historical_facts_all_independently_verified": false,
+  "current_stock_direction_enabled": false,
+  "modern_backtest_completed": false,
+  "model_calls_executed": 0,
+  "index_detail_audit": "index-reading-audit.json",
+  "source_version_boundary": "Repository PDF metadata CreationDate2026 reflects wrapper generation; printed book©2022/old ModDate20220317,20chapters and629pages preserved; do not use wrapper timestamp as author publication/revision date.",
+  "body_count_method": "Only U+4E00–U+9FFF between explicit body markers; exclude all Markdown heading lines, frontmatter, bibliography, source locators outside body, Arabic numbers and Latin letters.",
+  "minimum_chapter_han": 2801,
+  "body_han_counts": [
+    3748,
+    3277,
+    3446,
+    3608,
+    3989,
+    3816,
+    3687,
+    3762,
+    2801,
+    3546,
+    4069,
+    3754,
+    3485,
+    3374,
+    3347,
+    3589,
+    4274,
+    4674,
+    4756,
+    4220
+  ],
+  "independent_QA_file": "独立复核.json"
+}

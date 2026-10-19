@@ -1,0 +1,53 @@
+{
+  "book_id": "P30",
+  "primaryPDFpages": [
+    32,
+    33,
+    34
+  ],
+  "printed": [
+    20,
+    21,
+    22
+  ],
+  "original_images_actually_viewed": true,
+  "first_table": {
+    "debit_pounds": [
+      2500,
+      6.25,
+      18.75
+    ],
+    "credit_pounds": [
+      2525
+    ],
+    "both_total": 2525
+  },
+  "second_table": {
+    "debit_pounds": [
+      2525,
+      6.225,
+      6.25
+    ],
+    "credit_pounds": [
+      18.75,
+      2506.25,
+      12.475
+    ],
+    "both_total": 2537.475
+  },
+  "fee_sum": 18.725,
+  "terminal_gross_gain": 6.25,
+  "terminal_net_gain": -12.475,
+  "terminal_loss_lsd": [
+    12,
+    9,
+    6
+  ],
+  "at_peak_gross_gain": 37.5,
+  "same_fee_peak_net": 18.775,
+  "author_peak_net": 18.75,
+  "difference_pence": 6,
+  "fees_interest_day_basis_not_independently_established": true,
+  "table_is_hypothetical_not_backtest": true,
+  "all_book_numbers_verified": false
+}

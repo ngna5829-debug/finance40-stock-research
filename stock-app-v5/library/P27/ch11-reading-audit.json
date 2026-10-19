@@ -1,0 +1,78 @@
+{
+  "book_id": "P27",
+  "chapter": 11,
+  "source_file": "source-chapters/ch11.txt",
+  "source_chars": 29304,
+  "source_sha256": "c66585f74053cf39baa2e110d5bf1d948c8014ca9101e297e0f9f900fa6b8691",
+  "full_chapter_source_actually_read": true,
+  "actual_HTML_native_reading_ranges": [
+    [
+      0,
+      15000
+    ],
+    [
+      15000,
+      29304
+    ]
+  ],
+  "scan_source_file": "scan-chapters/ch11.txt",
+  "scan_source_sha256": "60bfdd4ee23751daa75e791f65f9456391ae441d2385882a46ff6127bb24e99e",
+  "reading_object": "完整PG章节连续全文，全部1890原章页图并读；版本差异、历史事实与现代设计分别标注，不声称两个印本每字一致",
+  "all_original_chapter_page_images_actually_seen": true,
+  "original_pdf_pages": [
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183
+  ],
+  "printed_pages": [
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161
+  ],
+  "visual_files": [
+    "ch11-figures-1.jpg",
+    "ch11-figures-2.jpg",
+    "ch11-figures-3.jpg",
+    "ch11-figures-4.jpg",
+    "ch11-figures-5.jpg"
+  ],
+  "original_footnotes": 0,
+  "original_tables_figures": 1,
+  "body_han_count": 2530,
+  "summary_sha256": "17321e4139e6503a55fda751097b4295ae553b6ec15c9f32bd4578af33ab0a91",
+  "numeric_review": "ch11-source-numeric-review.json",
+  "whole_book_reading_complete": true,
+  "independent_semantic_QA": "pending",
+  "current_prediction_enabled": false,
+  "model_calls_executed": 0,
+  "full_author_work_semantic_reading_complete": true,
+  "scan_every_physical_glyph_perfectly_deciphered": false
+}

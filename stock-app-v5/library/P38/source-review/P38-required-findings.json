@@ -1,0 +1,557 @@
+{
+  "book_id": "P38",
+  "status": "full_review_complete_required_corrections_pending_author_merge_and_final_hash_check",
+  "all20_primary_chapters_and_chinese_dossiers_actually_read": true,
+  "all60_rules_and_all60_full_precise_pages_actually_read": true,
+  "all_currently_canonical_false_or_pending_limits_preserved": true,
+  "chapter_required_candidates": [
+    {
+      "candidate_file": "P38-C10-rate-unit-correction-candidates.json",
+      "sha256": "1a748dee7211c054c7fb27642973da911327e95fda91e280cd9c28790656e19b",
+      "content": {
+        "book_id": "P38",
+        "chapter": 10,
+        "candidate_count": 14,
+        "draft_sha256_at_review": "f1e20b5c697a6919980affc8bca076dedb5979ff16d6318142219ccc110034df",
+        "changes": [
+          {
+            "start": 697,
+            "end": 702,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "，票面利率用于计算付息金额，市场价格则是购买该付款承诺所需支出。以一千面值、年息五个百分点、二十年为例，每年付五十，二十笔名义利息合计一千，最后另还本金一千。名义合计二千",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 1936,
+            "end": 1944,
+            "old": "一点二四个百分点",
+            "new": "百分之一点二四",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "息长债直接按票息排序风险。\n\n3M例用千元面值、每年二十二点五、十五期、市场年率一点二四个百分点，票息现值约三百零六点二五，本金现值八百三十一点二二，总价一千一百三十七点四七。",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2087,
+            "end": 2092,
+            "old": "四个百分点",
+            "new": "百分之四",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "说成真实低估或历史发行价。已经发生的票息不属于后来买家的未来现金流。\n\n半年付息四个百分点、剩十五年、要求五个百分点，周期票息二十、收益率二点五个百分点、三十期，千元面值",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2100,
+            "end": 2105,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "已经发生的票息不属于后来买家的未来现金流。\n\n半年付息四个百分点、剩十五年、要求五个百分点，周期票息二十、收益率二点五个百分点、三十期，千元面值的理论价约八百九十五点三五",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2116,
+            "end": 2123,
+            "old": "二点五个百分点",
+            "new": "百分之二点五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "来现金流。\n\n半年付息四个百分点、剩十五年、要求五个百分点，周期票息二十、收益率二点五个百分点、三十期，千元面值的理论价约八百九十五点三五。这是票息低于要求率的折价例。反之，",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2175,
+            "end": 2180,
+            "old": "四个百分点",
+            "new": "百分之四",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "价约八百九十五点三五。这是票息低于要求率的折价例。反之，年付六十、剩二十年、要求四个百分点，约一千二百七十一点八一，为溢价；票息等于同口径市场率的简单标准债则为平价。是否",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2350,
+            "end": 2360,
+            "old": "零点八六五一个百分点",
+            "new": "百分之零点八六五一",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "oca-Cola假设价九百五十二点零六、半年票息五、十四期、终末本金一千，周期约零点八六五一个百分点，名义年化约一点七三零一；有效年化还需复利，二者不能混用。\n\n这个Coca-Co",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2464,
+            "end": 2469,
+            "old": "一个百分点",
+            "new": "百分之一",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "形成所有等长半年区间，原文未解释短期票息和结算口径。后续Excel文字又把年票息一个百分点除二写成零点零五个百分点，正确为零点五；图实际使用五美元，其付息说明却残留别例三",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2473,
+            "end": 2481,
+            "old": "零点零五个百分点",
+            "new": "百分之零点零五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "间，原文未解释短期票息和结算口径。后续Excel文字又把年票息一个百分点除二写成零点零五个百分点，正确为零点五；图实际使用五美元，其付息说明却残留别例三点五个百分点乘面值的标签",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2508,
+            "end": 2515,
+            "old": "三点五个百分点",
+            "new": "百分之三点五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "点除二写成零点零五个百分点，正确为零点五；图实际使用五美元，其付息说明却残留别例三点五个百分点乘面值的标签。专家应以明确合同和金额核对，不跟随错误标题改变输入。\n\n到期收益率",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2729,
+            "end": 2739,
+            "old": "七点七五八九个百分点",
+            "new": "百分之七点七五八九",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "本章还有反推票息和期限。千元面值、价六百七十五、年付三十五、十二年，内部收益率约七点七五八九个百分点。价五百九十五、二十年、要求六点五个百分点，可反推年票息约二十八点二四三七，年票",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2753,
+            "end": 2760,
+            "old": "六点五个百分点",
+            "new": "百分之六点五",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "年付三十五、十二年，内部收益率约七点七五八九个百分点。价五百九十五、二十年、要求六点五个百分点，可反推年票息约二十八点二四三七，年票面率约二点八二四四个百分点。价八百二十、票",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2782,
+            "end": 2792,
+            "old": "二点八二四四个百分点",
+            "new": "百分之二点八二四四",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "百九十五、二十年、要求六点五个百分点，可反推年票息约二十八点二四三七，年票面率约二点八二四四个百分点。价八百二十、票息三十、要求十个百分点的模型期限约三点一一八八年；真实债的零碎期",
+            "complete_context_manually_classified": true
+          },
+          {
+            "start": 2806,
+            "end": 2811,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "coupon_or_yield_rate_level_not_difference",
+            "context": "息约二十八点二四三七，年票面率约二点八二四四个百分点。价八百二十、票息三十、要求十个百分点的模型期限约三点一一八八年；真实债的零碎期限还需日数、票息日期和短期付款，不能只",
+            "complete_context_manually_classified": true
+          }
+        ],
+        "grammar_notes": [
+          "半年付息四个百分点 should be 半年付息、年票息百分之四 so 4% is clearly annual coupon, not semiannual payment rate.",
+          "Nominalannual1.7301 and correctedperiodcoupon0.5 should explicitly retain percent units when rewriting surrounding sentences.",
+          "All14contexts actualratelevels; no genuine percentagepoint difference included."
+        ]
+      }
+    },
+    {
+      "candidate_file": "P38-C11-rate-unit-correction-candidates.json",
+      "sha256": "2e979193d35c3fad1ece668d7d54b4120ec15165cd2016b390e586f3cefc9ec6",
+      "content": {
+        "book_id": "P38",
+        "chapter": 11,
+        "candidate_count": 25,
+        "draft_sha256_at_review": "2582d6ccd361a8cb3a4adf479caf293ce7be74104a28c495cfdfab464b572510",
+        "changes": [
+          {
+            "start": 1777,
+            "end": 1782,
+            "old": "六个百分点",
+            "new": "百分之六",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "后所有股利折到现在。零增长时，下一期固定股利除要求率形成永续值；每年二美元、要求六个百分点，约三十三点三三。Gordon模型则用下一期股利除要求率与永久增长率之差。若当前",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 1834,
+            "end": 1839,
+            "old": "四个百分点",
+            "new": "百分之四",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "don模型则用下一期股利除要求率与永久增长率之差。若当前刚支付五美元、下一期增长四个百分点、要求八个百分点，下期五点二零，价格一百三十；用刚收到五代替下一笔会低估。\n\n模",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 1842,
+            "end": 1847,
+            "old": "八个百分点",
+            "new": "百分之八",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "一期股利除要求率与永久增长率之差。若当前刚支付五美元、下一期增长四个百分点、要求八个百分点，下期五点二零，价格一百三十；用刚收到五代替下一笔会低估。\n\n模型有效性有硬条件",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2051,
+            "end": 2057,
+            "old": "十二个百分点",
+            "new": "百分之十二",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "率变动才影响价格。\n\n反推增长率同样需要明确股利日期。价格二百五十、刚付十、要求十二个百分点，方程包含下一笔十乘一加增长，得到约七点六九个百分点；不能直接用十二减十除二百五",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2075,
+            "end": 2083,
+            "old": "七点六九个百分点",
+            "new": "百分之七点六九",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "日期。价格二百五十、刚付十、要求十二个百分点，方程包含下一笔十乘一加增长，得到约七点六九个百分点；不能直接用十二减十除二百五十得到八个百分点。这个数字是让模型与价格相符的隐含假",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2100,
+            "end": 2105,
+            "old": "八个百分点",
+            "new": "百分之八",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "包含下一笔十乘一加增长，得到约七点六九个百分点；不能直接用十二减十除二百五十得到八个百分点。这个数字是让模型与价格相符的隐含假设，尚未测得公司未来实际分配增长，不能拿来当",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2174,
+            "end": 2179,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "际分配增长，不能拿来当未来事实再验证同一模型。\n\n分阶段例Maddox先四年增长五个百分点，再永久三个百分点，要求八个百分点。初始二美元使第一至第四笔约二点一、二点二零五",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2183,
+            "end": 2188,
+            "old": "三个百分点",
+            "new": "百分之三",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "来当未来事实再验证同一模型。\n\n分阶段例Maddox先四年增长五个百分点，再永久三个百分点，要求八个百分点。初始二美元使第一至第四笔约二点一、二点二零五、二点三一五二五、",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2191,
+            "end": 2196,
+            "old": "八个百分点",
+            "new": "百分之八",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "证同一模型。\n\n分阶段例Maddox先四年增长五个百分点，再永久三个百分点，要求八个百分点。初始二美元使第一至第四笔约二点一、二点二零五、二点三一五二五、二点四三一零一二",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2347,
+            "end": 2353,
+            "old": "十三个百分点",
+            "new": "百分之十三",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "十三点二五；按清楚时点复算约四十四点二七。\n\nLore两阶段例以当前十四、前五年十三个百分点增长、此后五个百分点、要求十二个百分点，先预测五筆股利，再用第六笔二十七点零八三",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2358,
+            "end": 2363,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "复算约四十四点二七。\n\nLore两阶段例以当前十四、前五年十三个百分点增长、此后五个百分点、要求十二个百分点，先预测五筆股利，再用第六笔二十七点零八三八计算第五年末终值约",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2366,
+            "end": 2372,
+            "old": "十二个百分点",
+            "new": "百分之十二",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "七。\n\nLore两阶段例以当前十四、前五年十三个百分点增长、此后五个百分点、要求十二个百分点，先预测五筆股利，再用第六笔二十七点零八三八计算第五年末终值约三百八十六点九一。",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2808,
+            "end": 2813,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "作这两家公司状态。\n\n有限持有期例Old Peak每年五、五年后出售二十五、要求十个百分点，股利年金现值加出售金额现值约三十四点四八。公式与计算器写点四七，Excel写点",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2939,
+            "end": 2944,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "把股票风险变成债券风险。\n\nFour Seasons每季度零点二五、名义年要求率十个百分点，以季率二点五个百分点得永续价十；若十个百分点是有效年率，季率应取四次根，价格略",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2948,
+            "end": 2955,
+            "old": "二点五个百分点",
+            "new": "百分之二点五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "风险。\n\nFour Seasons每季度零点二五、名义年要求率十个百分点，以季率二点五个百分点得永续价十；若十个百分点是有效年率，季率应取四次根，价格略高，不能混淆。每年一美",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 2962,
+            "end": 2967,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "ons每季度零点二五、名义年要求率十个百分点，以季率二点五个百分点得永续价十；若十个百分点是有效年率，季率应取四次根，价格略高，不能混淆。每年一美元、二十年后卖三十、要求",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3007,
+            "end": 3012,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "是有效年率，季率应取四次根，价格略高，不能混淆。每年一美元、二十年后卖三十、要求十个百分点的有限模型约十二点九七；三十是未来销售情景，应与继续分配的终值定义保持一致。\n\n",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3074,
+            "end": 3082,
+            "old": "十三点五个百分点",
+            "new": "百分之十三点五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "应与继续分配的终值定义保持一致。\n\n一美元七十六当前股利、永久增长十点四四、要求十三点五个百分点，模型约六十三点五二。Phased的十年历史表却首两笔写零点零七零和零点零八零，",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3181,
+            "end": 3188,
+            "old": "四十六个百分点",
+            "new": "百分之四十六",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "值，得到九个间隔的几何增长约十三点零四二七。按原表零点零七到二点一一，几何增长约四十六个百分点，大于要求十七；不能悄悄改源表并宣布永续值可靠。\n\n假定公式所用零点七正确、增长",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3548,
+            "end": 3553,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "相同。\n\nJM预计从第一年末依次分零点二五、零点五、一点五、三美元，第五年起增长五个百分点，要求十三个百分点。按正文与公式，前三后四笔现值合约三点四九，第四年末继续权价值",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3556,
+            "end": 3562,
+            "old": "十三个百分点",
+            "new": "百分之十三",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "计从第一年末依次分零点二五、零点五、一点五、三美元，第五年起增长五个百分点，要求十三个百分点。按正文与公式，前三后四笔现值合约三点四九，第四年末继续权价值三十九点三七五，折",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3836,
+            "end": 3841,
+            "old": "三个百分点",
+            "new": "百分之三",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "金流折现，二者方法具有包含关系。\n\nMayweather首年现金二百万、以后增长三个百分点、要求八个百分点，六笔现值合约九百九十万一千七百八十。例中终值现值直接设为第六笔",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 3844,
+            "end": 3849,
+            "old": "八个百分点",
+            "new": "百分之八",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "法具有包含关系。\n\nMayweather首年现金二百万、以后增长三个百分点、要求八个百分点，六笔现值合约九百九十万一千七百八十。例中终值现值直接设为第六笔现值的二点五倍，",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 4540,
+            "end": 4545,
+            "old": "五个百分点",
+            "new": "百分之五",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "与已到期债务、会计负债和必然最终支付不能无条件等同。\n\nOh-Well千元面值、五个百分点支付率、市场要求十个百分点，固定无限五十现金的理想价五百。Data Forge百",
+            "whole_context_manually_classified": true
+          },
+          {
+            "start": 4553,
+            "end": 4558,
+            "old": "十个百分点",
+            "new": "百分之十",
+            "type": "required_return_or_growth_or_payout_rate_level_not_difference",
+            "context": "然最终支付不能无条件等同。\n\nOh-Well千元面值、五个百分点支付率、市场要求十个百分点，固定无限五十现金的理想价五百。Data Forge百元面值、七美元年分配、价三",
+            "whole_context_manually_classified": true
+          }
+        ],
+        "no_genuine_percentagepoint_difference_in_these_candidates": true
+      }
+    },
+    {
+      "candidate_file": "P38-C16-correction-candidates.json",
+      "sha256": "99b1c4cfc3fac555e39276f4718fd7cec8c3d56f52cbc9a748dc59b417c7c5c9",
+      "content": {
+        "book_id": "P38",
+        "chapter": 16,
+        "pending_author_merge": true,
+        "original_pdf_source_not_to_change": true,
+        "items": [
+          {
+            "kind": "rate_level_not_percentage_point",
+            "file": "ch16.md",
+            "old": "原书一至二十个百分点的全部敏感性结果已逐项核算。",
+            "new": "原书从百分之一到百分之二十折现率的全部敏感性结果已逐项核算。",
+            "basis": "PDF513–515 printed498–500 shows discount rate levels1%..20%; cost10%to13% relative30% sentence remains unchanged."
+          },
+          {
+            "kind": "explicit_source_numeric_conflict",
+            "file": "ch16.md/ch16-source-issues.json",
+            "suggested_prose": "另需保留原书终值栏的一处数值冲突：纸页四九〇、PDF第五〇五页表16.10将合计写为31595.22美元；按同表六笔现金及百分之九的复投率，逐笔未舍入终值合计31589.2193498美元，六个已印到分的终值相加则为31589.23美元，两种口径都不能得到原合计。由此算得的修正内部收益率仍约百分之十二点〇〇四八，但不能把合计六美元的差距解释成分位舍入，原印数、复算数与规则适用边界应同时保存。",
+            "basis_pdf": 505,
+            "basis_printed": 490,
+            "original_terminal": 31595.22,
+            "fresh_terminal": 31589.219349800005,
+            "sum_displayed_terminal_cells": 31589.23
+          },
+          {
+            "kind": "metadata_precision",
+            "file": "ch16-source-issues.json",
+            "issue": "5yearinitial_vs6yearNPVcase",
+            "old": "sixpositive2835.625",
+            "new": "sixpositive2835.6193799064495 (rounded2835.62)"
+          },
+          {
+            "kind": "retract_false_source_error_flag",
+            "file": "ch16-table-arithmetic.json",
+            "field": "all12figures.164.nativeproseFigure14_4vsactual16_4_misref",
+            "old": true,
+            "new": false,
+            "basis": "Original native paragraph and actual PDF511 printed496 referenceFigure16.4; no original14.4 mistake established."
+          }
+        ]
+      }
+    },
+    {
+      "candidate_file": "P38-C18-correction-candidates.json",
+      "sha256": "2b0bb03e41efa384f69ac8e3a6dcf935615fba3f63531b555918d24f9bb1c263",
+      "content": {
+        "book_id": "P38",
+        "chapter": 18,
+        "pending_author_merge": true,
+        "items": [
+          {
+            "kind": "arithmetic_source_transcription",
+            "file": "ch18-table-arithmetic.json",
+            "field": "all23figures.183_IS_prior_current_allrows.salary[0]",
+            "old": 3300,
+            "new": 3000,
+            "basis_pdf": 552,
+            "basis_printed": 537,
+            "basis": "Actual Figure18.3 salary prior year clearly3000; Figure18.6 PDF555 also3000. This is dossier transcription mistake; original OI38000 then sums coherently."
+          },
+          {
+            "kind": "computed_cells_mislabeled_original",
+            "file": "ch18-table-arithmetic.json",
+            "field": "all5problems.4_5_bookprinted_allcells",
+            "remove_from_original_origin": [
+              "returns",
+              "net",
+              "cogs",
+              "margin"
+            ],
+            "retain_original_fields": [
+              "gross",
+              "oldpercentnotadjusted",
+              "blankremainingexpense/tax/NI_rows_read"
+            ],
+            "basis_pdf": 577,
+            "basis_printed": 562,
+            "basis": "Actual Problem4 source table rows Returns/Net/COGS/Margin are blank. Values418 etc are independently computed rounded solutions, not printed source cells. Preserve them only as explicitly independent calculations; no delete source evidence or falsely call source wrong."
+          },
+          {
+            "kind": "ratio_difference_clarity",
+            "file": "ch18.md",
+            "old": "这个区别会使增长预测相差一个百分点单位中的一整倍基数。",
+            "new": "相对一月的百分之二百一十一点一一与增长百分之一百一十一点一一相差一百个百分点；前者包含原基数，后者扣除了原基数。",
+            "basis": "19000/9000 versus(19000−9000)/9000; real percentage-point difference, not convert both to rate levels."
+          },
+          {
+            "kind": "review_growth_rates_separator",
+            "file": "ch18.md",
+            "old": "三年增长百分之九十一十的初稿约百分之十",
+            "new": "过去三年销售增长率分别为百分之九、百分之十一和百分之十，因此下一年初稿可暂用其简单平均百分之十",
+            "source_lines": [
+              849,
+              851
+            ],
+            "basis": "Review2 explicitly9%,11%,10%; clarify individual rate levels; mean10% is provisional forecasting assumption, not guaranteed growth."
+          }
+        ]
+      }
+    },
+    {
+      "candidate_file": "P38-C19-correction-candidates.json",
+      "sha256": "970814adfcdf0b91d054d66109c2d978d504a3c8aac76fb5ef0556afe670d3ab",
+      "content": {
+        "book_id": "P38",
+        "chapter": 19,
+        "pending_author_merge": true,
+        "items": [
+          {
+            "kind": "cash_discount_not_retail_price_fraction",
+            "file": "ch19.md",
+            "old": "二折十天、三十天全额支付表示十天内付可少付百分之二",
+            "new": "付款条件“2/10、n/30”表示十天内付可少付百分之二，否则三十天内付全额",
+            "basis_printed": 576,
+            "basis": "2% discount, not中文二折(which ordinarily meanspay20% oforiginalprice). Existing subsequent math2/98 correct; keepallrates/figures."
+          },
+          {
+            "kind": "cash_discount_not_retail_price_fraction",
+            "file": "ch19.md",
+            "old": "四折十五天、四十五天全额付款，三百六十天简单年化机会成本百分之五十",
+            "new": "付款条件“4/15、n/45”表示十五天内付款可少付百分之四，否则四十五天内付全额；按三百六十天简单年化，机会成本为百分之五十",
+            "basis_printed": 596,
+            "basis": "4% discount not四折; APR.04/.96*360/(45−15)=.50 unchanged."
+          },
+          {
+            "kind": "rounding_not_integer",
+            "file": "ch19.md",
+            "old": "原书把中间周转率先取整",
+            "new": "原书把中间周转率先舍入到两位小数",
+            "basis_pdf": 588,
+            "basis_printed": 573,
+            "basis": "10.71/7.27/9.09 have two decimals, notinteger rounding."
+          }
+        ],
+        "optional_original_typo_note": {
+          "basis_pdf": 584,
+          "basis_printed": 569,
+          "original_quick_ratio_numerator": 1500500,
+          "given_inputs_correct_numerator": 1500000,
+          "scope": "Image clearly1,500,500/1,000,000 while answer1.5; short source-issue note optional, draft1.5 correct, not author rewrite."
+        }
+      }
+    }
+  ],
+  "no_required_chinese_semantic_rewrite_identified_in_chapters": [
+    12,
+    13,
+    14,
+    15,
+    17,
+    20
+  ],
+  "notes_to_root": [
+    "CH19 cashdiscount candidate1 needs entire-sentence rewrite, because old span omitted existing otherwiseclause and naive replace would duplicate it.",
+    "CH10 rate grammar: annualcoupon4% paidsemiannually; nominal1.7301%/periodcoupon0.5% keepexplicitunits.",
+    "CH11 replace staleAlphabetdividend link thatredirects tositemap by working issuerSEC8-K Item8.01 https://www.sec.gov/Archives/edgar/data/1652044/000165204424000047/goog-20240425.htm ; onlyactualItem8.01 paragraph read, notwhole8K.",
+    "Reader专家说明 still says75029/min2805; currentaudit75350/min2801. Independent count additionallyexcludingallheadinglines gives75019/min2801 before pending corrections: ch17–20 audit includes93/84/81/73 headingHan. All20remainwellabove2000; final rootcount shouldexplicitlydefine headingtreatment andupdate readersummary/selfvalidation minimum.",
+    "CH18 211.11% ratio versus111.11% growth differ100percentagepoints: preserve genuine difference, no mechanical rate-unit replacement."
+  ],
+  "rule_anchor_candidate_file": "P38-source-anchor-additions.json",
+  "rule_anchor_candidate_count": 26,
+  "added_precise_page_fragments": 43,
+  "modern_expert_actions_called": 0,
+  "direction_probability_calibrated": false,
+  "canonical_changed_by_reviewer": false,
+  "final_qualified": false
+}

@@ -1,0 +1,380 @@
+{
+  "book_id": "P23",
+  "status": "passed_with_source_limits",
+  "checks": [
+    {
+      "name": "whole_primary_PDF_bytes_and_remote_MD5",
+      "passed": true
+    },
+    {
+      "name": "primary_PDF_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "364primary_pages_and_all364page_hashes",
+      "passed": true
+    },
+    {
+      "name": "layout_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "alternate_full_OCR_SHA_unchanged_but_not_claimed_separate_fullread",
+      "passed": true
+    },
+    {
+      "name": "11original_chapters_3Parts_only1book",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_body_atleast2200_excluding_scaffolding",
+      "passed": true
+    },
+    {
+      "name": "whole_chapter_body_atleast20000",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_source_and_dossier_SHA_and_readflags_verified",
+      "passed": true
+    },
+    {
+      "name": "364page_publishedcoverage_or_classifiednonauthor",
+      "passed": true
+    },
+    {
+      "name": "all_original_3appendices_read",
+      "passed": true
+    },
+    {
+      "name": "all_front_and_original_index_ads_read",
+      "passed": true
+    },
+    {
+      "name": "lowOCR_no_unread_published_author_content",
+      "passed": true
+    },
+    {
+      "name": "missing_large_tables_prose_recovered_only_actually_viewed",
+      "passed": true
+    },
+    {
+      "name": "73rules_all11chapters_grounded",
+      "passed": true
+    },
+    {
+      "name": "all_rule_pages_actually_read_and_page_SHA_match",
+      "passed": true
+    },
+    {
+      "name": "every_rule_requires_abstention_on_missing_input",
+      "passed": true
+    },
+    {
+      "name": "expertcount_bookcount1",
+      "passed": true
+    },
+    {
+      "name": "current_analysis_backtest_probability_all_disabled",
+      "passed": true
+    },
+    {
+      "name": "knowledge_not_fullglyph_or_independentQA",
+      "passed": true
+    },
+    {
+      "name": "no_extra_quoted_or_advertised_books_counted",
+      "passed": true
+    },
+    {
+      "name": "metadata368_export364_distinction",
+      "passed": true
+    },
+    {
+      "name": "original_numeric_issues_preserved_not_silently_fixed",
+      "passed": true
+    },
+    {
+      "name": "limited_private_library_annotations_not_full_transcribed",
+      "passed": true
+    },
+    {
+      "name": "independent_full_semantic_review_and_four_correction_groups_merged",
+      "passed": true
+    },
+    {
+      "name": "all262_locators_original_line_byte_unicode_SHA",
+      "passed": true
+    },
+    {
+      "name": "all73_complete_contexts_77_original_components",
+      "passed": true
+    },
+    {
+      "name": "all_original_source_bytes_and_all11chapter_dossiers_unchanged",
+      "passed": true
+    },
+    {
+      "name": "only_R25_author_meaning_and_exact_source_additions_changed",
+      "passed": true
+    },
+    {
+      "name": "N05_N13_N14_prior_false_flags_historically_preserved_new_visual_confirmations_visible",
+      "passed": true
+    },
+    {
+      "name": "independent_peer_content_confirmed_metadata_closed_external_final_hash_expected",
+      "passed": true
+    }
+  ],
+  "passed_count": 31,
+  "chapter_Han": [
+    2740,
+    2818,
+    2659,
+    2699,
+    2439,
+    3616,
+    2364,
+    3085,
+    4490,
+    2233,
+    3027
+  ],
+  "whole_chapter_Han": 32170,
+  "rules": 73,
+  "expert_sha256": "95fab05bf642fbf353124b58c560b76dd68682b1391b2a426afd2f2f8b491932",
+  "audit_sha256": "20afdd32f66a73794688e0b1979284e6af24a9bd4f987d9bb27e6b736b852a7b",
+  "created_utc": "2026-10-12T22:56:16.904494+00:00",
+  "historical_pre_peer_checks": [
+    {
+      "name": "whole_primary_PDF_bytes_and_remote_MD5",
+      "passed": true
+    },
+    {
+      "name": "primary_PDF_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "364primary_pages_and_all364page_hashes",
+      "passed": true
+    },
+    {
+      "name": "layout_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "alternate_full_OCR_SHA_unchanged_but_not_claimed_separate_fullread",
+      "passed": true
+    },
+    {
+      "name": "11original_chapters_3Parts_only1book",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_body_atleast2200_excluding_scaffolding",
+      "passed": true
+    },
+    {
+      "name": "whole_chapter_body_atleast20000",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_source_and_dossier_SHA_and_readflags_verified",
+      "passed": true
+    },
+    {
+      "name": "364page_publishedcoverage_or_classifiednonauthor",
+      "passed": true
+    },
+    {
+      "name": "all_original_3appendices_read",
+      "passed": true
+    },
+    {
+      "name": "all_front_and_original_index_ads_read",
+      "passed": true
+    },
+    {
+      "name": "lowOCR_no_unread_published_author_content",
+      "passed": true
+    },
+    {
+      "name": "missing_large_tables_prose_recovered_only_actually_viewed",
+      "passed": true
+    },
+    {
+      "name": "73rules_all11chapters_grounded",
+      "passed": true
+    },
+    {
+      "name": "all_rule_pages_actually_read_and_page_SHA_match",
+      "passed": true
+    },
+    {
+      "name": "every_rule_requires_abstention_on_missing_input",
+      "passed": true
+    },
+    {
+      "name": "expertcount_bookcount1",
+      "passed": true
+    },
+    {
+      "name": "current_analysis_backtest_probability_all_disabled",
+      "passed": true
+    },
+    {
+      "name": "knowledge_not_fullglyph_or_independentQA",
+      "passed": true
+    },
+    {
+      "name": "no_extra_quoted_or_advertised_books_counted",
+      "passed": true
+    },
+    {
+      "name": "metadata368_export364_distinction",
+      "passed": true
+    },
+    {
+      "name": "original_numeric_issues_preserved_not_silently_fixed",
+      "passed": true
+    },
+    {
+      "name": "limited_private_library_annotations_not_full_transcribed",
+      "passed": true
+    }
+  ],
+  "independent_semantic_QA": "passed_with_source_limits",
+  "pending_final_peer_hash_confirmation": false,
+  "precise_locating_fragment_count": 262,
+  "complete_reference_contexts": 73,
+  "unabridged_source_components": 77,
+  "historical_post_merge_checks_before_status_closure": [
+    {
+      "name": "whole_primary_PDF_bytes_and_remote_MD5",
+      "passed": true
+    },
+    {
+      "name": "primary_PDF_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "364primary_pages_and_all364page_hashes",
+      "passed": true
+    },
+    {
+      "name": "layout_SHA_unchanged",
+      "passed": true
+    },
+    {
+      "name": "alternate_full_OCR_SHA_unchanged_but_not_claimed_separate_fullread",
+      "passed": true
+    },
+    {
+      "name": "11original_chapters_3Parts_only1book",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_body_atleast2200_excluding_scaffolding",
+      "passed": true
+    },
+    {
+      "name": "whole_chapter_body_atleast20000",
+      "passed": true
+    },
+    {
+      "name": "all_chapter_source_and_dossier_SHA_and_readflags_verified",
+      "passed": true
+    },
+    {
+      "name": "364page_publishedcoverage_or_classifiednonauthor",
+      "passed": true
+    },
+    {
+      "name": "all_original_3appendices_read",
+      "passed": true
+    },
+    {
+      "name": "all_front_and_original_index_ads_read",
+      "passed": true
+    },
+    {
+      "name": "lowOCR_no_unread_published_author_content",
+      "passed": true
+    },
+    {
+      "name": "missing_large_tables_prose_recovered_only_actually_viewed",
+      "passed": true
+    },
+    {
+      "name": "73rules_all11chapters_grounded",
+      "passed": true
+    },
+    {
+      "name": "all_rule_pages_actually_read_and_page_SHA_match",
+      "passed": true
+    },
+    {
+      "name": "every_rule_requires_abstention_on_missing_input",
+      "passed": true
+    },
+    {
+      "name": "expertcount_bookcount1",
+      "passed": true
+    },
+    {
+      "name": "current_analysis_backtest_probability_all_disabled",
+      "passed": true
+    },
+    {
+      "name": "knowledge_not_fullglyph_or_independentQA",
+      "passed": true
+    },
+    {
+      "name": "no_extra_quoted_or_advertised_books_counted",
+      "passed": true
+    },
+    {
+      "name": "metadata368_export364_distinction",
+      "passed": true
+    },
+    {
+      "name": "original_numeric_issues_preserved_not_silently_fixed",
+      "passed": true
+    },
+    {
+      "name": "limited_private_library_annotations_not_full_transcribed",
+      "passed": true
+    },
+    {
+      "name": "independent_full_semantic_review_and_four_correction_groups_merged",
+      "passed": true
+    },
+    {
+      "name": "all262_locators_original_line_byte_unicode_SHA",
+      "passed": true
+    },
+    {
+      "name": "all73_complete_contexts_77_original_components",
+      "passed": true
+    },
+    {
+      "name": "all_original_source_bytes_and_all11chapter_dossiers_unchanged",
+      "passed": true
+    },
+    {
+      "name": "only_R25_author_meaning_and_exact_source_additions_changed",
+      "passed": true
+    },
+    {
+      "name": "N05_N13_N14_prior_false_flags_historically_preserved_new_visual_confirmations_visible",
+      "passed": true
+    },
+    {
+      "name": "final_peer_hash_confirmation_explicitly_pending",
+      "passed": true
+    }
+  ],
+  "final_qualified": true,
+  "merged_content_confirmation_sha256": "bea40ad996bb1b7482f5d2981ab63e4b7643fb602c78a6404d041c647527636d"
+}

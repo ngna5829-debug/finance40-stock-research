@@ -1,0 +1,429 @@
+{
+  "book_id": "P15",
+  "full_review_complete": true,
+  "root_merge_pending": true,
+  "findings": [
+    {
+      "rule": "P15-R04",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1111,
+        1132
+      ],
+      "reason": "Existing908–941/943–1007only natural/political. Author clause social barriers and rule product-demand input require full actual ruralcustom tastes/importedlabour/internationalcredit context."
+    },
+    {
+      "rule": "P15-R06",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        1633,
+        1679
+      ],
+      "reason": "Full fivebusiness-control dimensions/ownmaterials tools home/ownsale to localmarket orregularmerchant versus merchantownership ofmaterial supports fullmulti-clause control/path claim; preserve existing1681–1725/1727–1792."
+    },
+    {
+      "rule": "P15-R07",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2101,
+        2121
+      ],
+      "reason": "Fullmotor/transmitting/working-machine three-waydefinition supports originalcondition; old2178–2237detailsguidance/definitioncontinuum butdoesnot include quotedthree mechanisms."
+    },
+    {
+      "rule": "P15-R08",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2506,
+        2549
+      ],
+      "reason": "Fullmarketreplacement/profit prospect and weftspinning/weaving bottleneck alternation supports demand/bottleneck mechanism; old2470–2499and2551–2603do not cover thisfulltwo-stagechain."
+    },
+    {
+      "rule": "P15-R08",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        2605,
+        2638
+      ],
+      "reason": "Completeoscillation/marginalremuneration and wholejenny/waterframe/mule/powerloom/dressing complementarysequence,1841equilibrium/ginningunfinished; full source actuallyread."
+    },
+    {
+      "file": "chapters/ch04.md",
+      "kind": "plant_means_production_plant_not_botanical_plants",
+      "old": "马歇尔一八九〇植物设备每人约二百镑",
+      "new": "马歇尔一八九〇生产设备每人约二百镑",
+      "basis_global_lines": [
+        3805,
+        3817
+      ],
+      "reason": "Sourcecapital in plant=L200/fiveyearswages. Plant here is industrialplant/equipment, notbotanical植物. No sourcevalue, fiveyearswageequivalence, orassetlifetime changed."
+    },
+    {
+      "file": "chapters/ch06.md",
+      "kind": "correct_summary_reference_to_current_eighthsection_not_nextchapter",
+      "old": "下章总结说托可超过竞争价、通常乐如此",
+      "new": "本章第八节总结说托可超过竞争价、通常乐如此",
+      "basis_global_lines": [
+        6535,
+        6545
+      ],
+      "reason": "QuotedcapacityofTrustabovecompetitiveprice is currentChapterVIsection8,notnextChapterVIIindustrialdepression."
+    },
+    {
+      "rule": "P15-R18",
+      "kind": "precise_equality_not_unproved_below_competition",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者容许某些大规模、高弹性商品的垄断价可不高于竞争价。",
+          "new": "作者容许某些大规模、高弹性商品的垄断价可与竞争价同样低。"
+        }
+      },
+      "basis_global_lines": [
+        6354,
+        6370
+      ],
+      "reason": "Authorliteralaslowas/equalityexception,notnewclaim belowcompetitiveprice. Preserveconditional scale/demand and no guarantee."
+    },
+    {
+      "rule": "P15-R18",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        6277,
+        6352
+      ],
+      "reason": "Fullactualmodeldiagram/aggregatearea/relativeversusabsolutemax profit/F6E5/competition contrast supports precise modern boundary warning and doesnot relabel modern criticism as authorformula. Existing6354–6395 preserved."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "kind": "correct_saving_vs_production_ratio",
+      "old": "生产二、消费十改为生产三、消费九，未来又生产一、消费十一",
+      "new": "储蓄二、消费十改为储蓄三、消费九，未来又储蓄一、消费十一",
+      "basis_global_lines": [
+        7905,
+        7928
+      ],
+      "reason": "Originalsaving ratios2:10→3:9→1:11,notproductionvsconsumption:totalincomeincludesboth."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "kind": "retain_author_fullcompensation_assertion_separate_modern_limits",
+      "old": "毁掉两百家，在作者假定下有用生产能力不减，剩余资产的估值可能上升。",
+      "new": "作者断言毁掉两百家，有用生产能力不减，原业主的货币损失会由剩余工厂估值上升补偿。",
+      "basis_global_lines": [
+        7856,
+        7870
+      ],
+      "reason": "Preservestrongauthorcompensated monetaryclaim; subsequentmoderncritique clearlynotverification orpermissiondestroycapital."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "kind": "correct_section_eight_nine_scope",
+      "old": "第九节反对把“所储蓄的一切和所花费的一切一样迅速被消费”视作足够解释。",
+      "new": "第八、九节反对把“所储蓄的一切和所花费的一切一样迅速被消费”视作足够解释。",
+      "basis_global_lines": [
+        7145,
+        7356
+      ],
+      "reason": "Savingconsumption/equipmentmaintenance firstinsection8;section9continuesmotives/continuedproductionclaim."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "kind": "retain_exact_quantitative_authorclaim_as_claim",
+      "old": "作者认为终端消费推动物品向前、货币向后，辅助机器需求由主链派生。",
+      "new": "作者认为终端消费推动物品向前、货币向后，辅助机器需求由主链派生；他更声称给定消费与工艺，能够精确确定各环节所需库存和设备量。",
+      "basis_global_lines": [
+        7435,
+        7459
+      ],
+      "reason": "Originalexplicitlyexactstock-and-plant determination in givenindustrialconditions; keepclaimedstrongpremise beforemodernbuffer/seasonalitycritique andnote162exception."
+    },
+    {
+      "file": "chapters/ch07.md",
+      "kind": "retain_author_root_and_exclusive_causal_assertion",
+      "old": "作者接着把过度生产翻成消费不足，但所说的不足不等于人人没有愿望。",
+      "new": "作者将消费不足称为萧条的根本病因，并说资本劳动普遍闲置的唯一可能原因，是其产品缺现时需求；但所说的不足不等于人人没有愿望。",
+      "basis_global_lines": [
+        7009,
+        7041
+      ],
+      "reason": "Originalroot-evil/onlypossiblereasonstrongcausalclaim; latermoderncredit/structuralalternatives mustremainseparate ratherthansilentlyweaken author."
+    },
+    {
+      "rule": "P15-R20",
+      "kind": "retain_author_underconsumption_root_claim",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "有产品或钱者未必现在想消费，想消费者未必拥有购买力，作者据此解释消费不足。",
+          "new": "有产品或钱者未必现在想消费，想消费者未必拥有购买力；作者据此将消费不足称为萧条根源。"
+        }
+      },
+      "basis_global_lines": [
+        7009,
+        7063
+      ],
+      "reason": "Labelauthorrootclaim,notevidenceallmodernrecessions causallyidentified; keepmoderncredit/policy/structuralgate."
+    },
+    {
+      "rule": "P15-R22",
+      "kind": "retain_author_fixedconditions_exactcapital_claim",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者图把采掘至零售及机器的上游链连到终端消费。",
+          "new": "作者图把采掘至零售及机器的上游链连到终端消费，并声称给定消费与工艺能精确确定各环节所需库存和设备量。"
+        }
+      },
+      "basis_global_lines": [
+        7435,
+        7459
+      ],
+      "reason": "Originalauthorstrongexactconditional claim preserved,notverifiedmodernoptimizer; originalnote162andmodernbufferlimits unchanged."
+    },
+    {
+      "rule": "P15-R23",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        7630,
+        7679
+      ],
+      "reason": "Wholeexactparagraph contains authorpermission temporarilyreduceconsumption tofullyutilizenewindustrialdiscoveries, existing7548–7593/8403–8435 lacks thistechniqueexception. Includesclosedcommunity flowclaim atissue ratherthanpartialqualifieronly."
+    },
+    {
+      "rule": "P15-R25",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        8520,
+        8529
+      ],
+      "reason": "Fullusualcompensationargument explicitlycounts machineconstruction/maintenance/working/conveyance/distribution; existing8560–8600/9274–9294 doesnotpreciselyanchor thismulti-clause authorcondition."
+    },
+    {
+      "rule": "P15-R26",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        8987,
+        9020
+      ],
+      "reason": "WholeNicholson gradualadoption propositions andHobson handloomsuffering/mobility failures/ fashiontariff changes supportauthorclaim gradualdoesnotguarantee transition; old9022–9055 containsfuturetechnology caution butnotthisspecificgradualhistory."
+    },
+    {
+      "rule": "P15-R27",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        9177,
+        9229
+      ],
+      "reason": "Fullthreetemporary-unemploymentchannels anduniontable/coverage(22societies,notbuildingwomen,26in1893 by196later) anchors modern noaddingoverlappingchannels/sample-notpopulation; noattributionmodernno-additiontestasHobson originalquantifiedrule."
+    },
+    {
+      "rule": "P15-R28",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        9560,
+        9579
+      ],
+      "reason": "Wholecontrastingquotedexpert saysimprovementsneutralized byinferiorrawmaterialandatleastproportional-to-spindlesworkintensity, preciseevidence neededforauthor_original_conditions unlike existing9500–9558caution."
+    },
+    {
+      "rule": "P15-R29",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        9679,
+        9692
+      ],
+      "reason": "Fullactualcity-versusmachineeducationcausal-identification scope warning supports author_original_conditions; old9694–9740containsintellectualcontroltasks not this townconfoundingclaim."
+    },
+    {
+      "rule": "P15-R31",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        10297,
+        10370
+      ],
+      "reason": "Completeallfourprintedfinancial-productiontables/headers supportmodernunit/samplesuspend-numeric boundary. Old10452–10500/10542–10580discusscausal/costcomparisons butnotactual problematicperlb/peryard/timecurrencyheads."
+    },
+    {
+      "rule": "P15-R32",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        10729,
+        10768
+      ],
+      "reason": "Fullsection8explicitconditionalstartingpoint/duration-intensity-earnings relativity andnetconsumptiongain supports author_original_conditions; existing10641–10727doesnotcover thisdifferentinitialworkingdaycontrast."
+    },
+    {
+      "file": "chapters/ch12.md",
+      "kind": "visible_earthenware_counterexample_to_each_non_cotton_group_claim",
+      "old": "这些是章内解释，不是本次另做了同口径因果测算。",
+      "new": "这些是章内解释，不是本次另做了同口径因果测算。而且按可见表内一八八一至九一陶器行直接算，男子由五万二千二百增至六万四千三百，约增百分之二十三点二，女性由一万九千七百增至二万三千八百，约增百分之二十点八；在表面同类范围下，陶器也不符合“除棉以外每组女性更快”，源值和分类差仍保留。",
+      "basis_global_lines": [
+        11219,
+        11296
+      ],
+      "reason": "Independent visible-table ratio conflicts with original eachgroup generality, not a claim that original census or printededition proved wrong; preserve author strong claim and classification239 limitation."
+    },
+    {
+      "rule": "P15-R37",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        11219,
+        11296
+      ],
+      "reason": "Full120celltable/printedtotals and original 53/221/eachnoncottonclaim anchor the existing modern arithmetic warning and newly visible earthenware exception; source values remain."
+    },
+    {
+      "rule": "P15-R38",
+      "kind": "separate_author_gender_conditions_from_modern_policy",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "旧体力智力身份断言保留为时代偏见并禁用。",
+          "new": "作者仍列体力、技能和智力等群体差异，同时强调低工资与低效率相互造成，职业开放、交通与机器适配可改变这种状态。"
+        },
+        "modern_extension_boundary": {
+          "old": "现代个体能力不用性别推定，结构因素需分离。",
+          "new": "现代个体能力不用性别推定，结构因素需分离；旧群体能力断言保留为原作者判断并受质疑，禁作现代个体判断特征。"
+        }
+      },
+      "basis_global_lines": [
+        11645,
+        11673
+      ],
+      "reason": "禁用为现代档案门槛，不是Hobson原条件；保留作者旧身份能力断言与其动态可修正机制，原意和现代规范分栏。"
+    },
+    {
+      "rule": "P15-R42",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        12231,
+        12359
+      ],
+      "reason": "Complete regulation/date/coverage half paired with existing fulladministration half supports 1802–1893 historicalmergedtable condition, not underlying acts fully independently validated."
+    },
+    {
+      "rule": "P15-R43",
+      "kind": "new_full_context_anchor",
+      "proposed_global_lines": [
+        12885,
+        12908
+      ],
+      "reason": "Two complete political/social influences ofNewWorldandEuropeancapitalcities and lackcommonstatisticalbasis paragraphs supportoriginalcondition; existing12910–12955 onlyinternationalruraldivision notpoliticalcapital condition."
+    },
+    {
+      "file": "chapters/ch14.md",
+      "kind": "retain_no_remedies_original_modality",
+      "old": "它们会加快原有规模集中、劳动聚集、城市发展与竞争，未必消除垄断、过度投资、危险劳动和就业波动。",
+      "new": "作者说它们会加快原有规模集中、劳动聚集、城市发展与竞争，更断言对这些垄断、过度投资、危险劳动和就业波动等弊害不能提供补救。",
+      "basis_global_lines": [
+        13775,
+        13826
+      ],
+      "reason": "Original no power whatever/can furnish no remedies stronger than 未必; preserve author strong assertion and modern criticism separately."
+    },
+    {
+      "file": "chapters/ch14.md",
+      "kind": "retain_every_inspection_control_to_monopoly_claim_as_author_claim",
+      "old": "第七节认为大厂比小作坊易检查、大公司易接管，监管本身又可能推动集中；是规模与行政可行性的分析，不是已经证实每次干预必然最终垄断。",
+      "new": "第七节认为大厂比小作坊易检查、大公司易接管，更断言每次这类检查或小规模控制都会加快产业进化，使垄断和最终公共经营较早到来；这是作者的规模与行政可行性论证，不是本次已经证实每次干预必然最终垄断。",
+      "basis_global_lines": [
+        13982,
+        14007
+      ],
+      "reason": "Every legislativeinterference/hastensfinallypublicindustry explicitoriginalgenerality mustnot weaken to possible; modern falsification boundary remains."
+    },
+    {
+      "file": "chapters/ch14.md",
+      "kind": "retain_undoubtedly_slower_versus_possible_modality",
+      "old": "明确承认公共邮铁等可能采用改进较慢、例行更多。",
+      "new": "明确承认公共邮铁等采用改进较慢、例行更多，并说国家控制下工业进步无疑会较慢。",
+      "basis_global_lines": [
+        14155,
+        14257
+      ],
+      "reason": "First postal railway and later undoubtedly slower originalconditionalforecasts retained, no independently tested modern conclusion."
+    },
+    {
+      "rule": "P15-R46",
+      "kind": "retain_no_remedies_original_claim",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者承认信息与流动减少错配，却说不能独自解深层劳动垄断等问题。",
+          "new": "作者承认信息与流动减少错配，却断言自由贸易联合业务公开对深层劳动、垄断等弊害不能提供补救。"
+        }
+      },
+      "basis_global_lines": [
+        13775,
+        13826
+      ],
+      "reason": "Retain original no remedies to listed evils with independent boundary distinct."
+    },
+    {
+      "rule": "P15-R48",
+      "kind": "retain_undoubtedly_slower_author_forecast",
+      "field_edits": {
+        "author_claim_paraphrase": {
+          "old": "作者提出非金钱创新与奖励等反驳，但承认国家管理可能更例行、进步较慢。",
+          "new": "作者提出非金钱创新与奖励等反驳，但承认国家管理更例行，并说其工业进步无疑较慢。"
+        }
+      },
+      "basis_global_lines": [
+        14212,
+        14257
+      ],
+      "reason": "Retain original undoubtedslower conditionalforecast, not tested calibration."
+    },
+    {
+      "rule": "P15-R50",
+      "kind": "separate_author_unbounded_claim_from_modern_horizon_label",
+      "field_edits": {
+        "author_original_conditions": {
+          "old": "作者“无限”措辞为远景，未给可计算资源模型。",
+          "new": "作者以适地的多样消费及个体艺术品质为条件，声称可无限增加财富而不增加劳动或租金，艺术不受空间大小限制。"
+        },
+        "modern_extension_boundary": {
+          "old": "现代理性边界：资源、时间、注意仍有限，未按原强句精算。",
+          "new": "现代独立边界：原强句是作者远景，本章未给可计算资源模型；资源、时间、注意仍有限，不据此精算无约束收益。"
+        }
+      },
+      "basis_global_lines": [
+        14540,
+        14618
+      ],
+      "reason": "Our lackofmodel/horizon label is not originalauthor condition; preserve unbounded claim separately."
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "kind": "retain_author_modality_in_synthesis",
+      "old": "作者承认自由流动和公开信息可降低错配，却认为不足以消除集中、垄断与福利问题；他也承认公共管理可能降低技术弹性和进步速度，不能编成无成本优势。",
+      "new": "作者承认自由流动和公开信息可降低错配，却断言对列举的集中、垄断与福利弊害不能提供补救；他还说国家管理下工业进步无疑会较慢，这是作者的判断，不能编成已核准的无成本优势。",
+      "basis_global_lines": [
+        13775,
+        13826,
+        14212,
+        14257
+      ],
+      "reason": "Synthesis consistent with repaired originalstrongmodality, not tested universalmodernpolicy."
+    },
+    {
+      "file": "全书综合与前后置页.md",
+      "kind": "record_earthenware_growth_counterexample",
+      "old": "第十二章女性221%／按总数212.2%；",
+      "new": "第十二章女性221%／按总数212.2%，陶器行男女增长还不支持除棉业外每组女性更快的原概括；",
+      "basis_global_lines": [
+        11219,
+        11296
+      ],
+      "reason": "Add actual independentlycomputed counterexample without changing sourcevalues or declaring originalprintwrong."
+    }
+  ],
+  "count_only_metadata_sync": {
+    "synthesis_old_total": 44617,
+    "candidate_total": 44848,
+    "root_should_sync_audit_plan_self_metadata": true,
+    "not_new_semantic_patch": true
+  },
+  "prompt_source_limit_addition": {
+    "old": "你是P15霍布森The Evolution of Modern Capitalism: A Study of Machine Production这一独立作品的一位专家（expert_count:1,book_count:1）。只依据题名1902官方PG28284的十四原章、三个嵌附录、293原注、30图及完整前后置材料。本次完整顺序语义阅读、每章字数达标；未取得原扫描，不保证每字形、全部历史统计或被引他书全文已核，独立QA仍待。采用rules中原CRLF全局行SHA证据，作者原claim/条件与modern_extension_boundary分栏，不能把本次反例当作者阈值。\n先辨研究对象、地区、时间及数值单位，固定实体/金融资本、库存/流量、维护/净增、人数/时数、名义/实领实际工资、企业利润/消费者/公共利益边界。按机器工序与需求、生产节约与转移、实际/潜在进入、投资用途和消费购买力逐链查证。消费不足为作者主要机制而非排除货币信用及结构失配的既成事实；大企业及降价不独证垄断或公益，机器省单位劳动不保证社会净失业，工资/时长/强度/消费时间联合核。高工资共变不自动证明方向；有关工会、城市、公共管理、艺术与机器的限定和前后张力一起保留。\n作者对女性能力、婚姻家庭、民族文明、城市世代退化与疾病、知识道德的强话不得作现代个体特征、医学判断或排斥。其女性效率列表与性别非主因/家庭规范、城市负面与教育善行、工会积极与公众垄断、公共化有利与创新慢，均保留而不拼成无误体系。现代柔性制造、金融制度与现行法律需另核，原预测无实现年表。\n1888死亡比、德国农村增长、加拿大一人总差、女性221/212.2、p230图30.4/TXT30.7、农具减人数、UK每磅s.d及美织1830乘积、早章铁表/美国制造增额/人口普查及原理论图数学目标与面积，原数不覆盖，未解不精算。原表空白非零，示意图非实际行情。\n对应规则输入至少含来源、asOf/可用时间、口径和具体需求、成本、资产及现金期限、竞争权利或用工预算；缺对应输入或未来材料倒填、拟用未解数字运行、身份归因时abstain，列缺口与可改变判断的证据。面对已确认新需求、合理备用资产、劳工净福利、竞争有效或治理失败的反证，收窄或撤原强结论。引用他书为external_reference_not_new_vote，不增书数/独立票。本次未接入合格行情，current_stock_decision_enabled:false、experiments_run:false；不捏造价格、机构流、回报，也不称40本均完成。",
+    "new": "你是P15霍布森The Evolution of Modern Capitalism: A Study of Machine Production这一独立作品的一位专家（expert_count:1,book_count:1）。只依据题名1902官方PG28284的十四原章、三个嵌附录、293原注、30图及完整前后置材料。本次完整顺序语义阅读、每章字数达标；未取得原扫描，不保证每字形、全部历史统计或被引他书全文已核，独立QA仍待。采用rules中原CRLF全局行SHA证据，作者原claim/条件与modern_extension_boundary分栏，不能把本次反例当作者阈值。\n先辨研究对象、地区、时间及数值单位，固定实体/金融资本、库存/流量、维护/净增、人数/时数、名义/实领实际工资、企业利润/消费者/公共利益边界。按机器工序与需求、生产节约与转移、实际/潜在进入、投资用途和消费购买力逐链查证。消费不足为作者主要机制而非排除货币信用及结构失配的既成事实；大企业及降价不独证垄断或公益，机器省单位劳动不保证社会净失业，工资/时长/强度/消费时间联合核。高工资共变不自动证明方向；有关工会、城市、公共管理、艺术与机器的限定和前后张力一起保留。\n作者对女性能力、婚姻家庭、民族文明、城市世代退化与疾病、知识道德的强话不得作现代个体特征、医学判断或排斥。其女性效率列表与性别非主因/家庭规范、城市负面与教育善行、工会积极与公众垄断、公共化有利与创新慢，均保留而不拼成无误体系。现代柔性制造、金融制度与现行法律需另核，原预测无实现年表。\n1888死亡比、德国农村增长、加拿大一人总差、女性221/212.2及陶器行不支持除棉外每组女性更快的概括、p230图30.4/TXT30.7、农具减人数、UK每磅s.d及美织1830乘积、早章铁表/美国制造增额/人口普查及原理论图数学目标与面积，原数不覆盖，未解不精算。原表空白非零，示意图非实际行情。\n对应规则输入至少含来源、asOf/可用时间、口径和具体需求、成本、资产及现金期限、竞争权利或用工预算；缺对应输入或未来材料倒填、拟用未解数字运行、身份归因时abstain，列缺口与可改变判断的证据。面对已确认新需求、合理备用资产、劳工净福利、竞争有效或治理失败的反证，收窄或撤原强结论。引用他书为external_reference_not_new_vote，不增书数/独立票。本次未接入合格行情，current_stock_decision_enabled:false、experiments_run:false；不捏造价格、机构流、回报，也不称40本均完成。",
+    "reason": "Add peer actual earthenware contradiction to source limits; no newcurrentthreshold."
+  }
+}

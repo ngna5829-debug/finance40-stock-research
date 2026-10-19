@@ -1,0 +1,215 @@
+{
+  "book_id": "P19",
+  "original_pdf_images_actually_viewed": [
+    343,
+    347,
+    355
+  ],
+  "table335_method": "Every15row×3 cellsactuallyread andhandtranscribed fromoriginalPDF347;sum computationtestsdisplayedidentitynotcausalattribution orunderlyingreports",
+  "fields": [
+    "year",
+    "rupees_lakhs",
+    "notes_lakhs",
+    "printed_total_lakhs"
+  ],
+  "rows": [
+    [
+      "1898-99",
+      -27,
+      251,
+      224
+    ],
+    [
+      "1899-1900",
+      1123,
+      172,
+      1295
+    ],
+    [
+      "1900-1",
+      1275,
+      -18,
+      1257
+    ],
+    [
+      "1901-2",
+      211,
+      31,
+      242
+    ],
+    [
+      "1902-3",
+      345,
+      259,
+      604
+    ],
+    [
+      "1903-4",
+      1059,
+      328,
+      1387
+    ],
+    [
+      "1904-5",
+      794,
+      36,
+      830
+    ],
+    [
+      "1905-6",
+      1466,
+      417,
+      1883
+    ],
+    [
+      "1906-7",
+      1726,
+      383,
+      2109
+    ],
+    [
+      "1907-8",
+      425,
+      -385,
+      40
+    ],
+    [
+      "1908-9",
+      -1557,
+      235,
+      -1322
+    ],
+    [
+      "1909-10",
+      1403,
+      503,
+      1906
+    ],
+    [
+      "1910-11",
+      392,
+      19,
+      411
+    ],
+    [
+      "1911-12",
+      1066,
+      444,
+      1510
+    ],
+    [
+      "1912-13",
+      1049,
+      271,
+      1320
+    ]
+  ],
+  "row_checks": [
+    {
+      "year": "1898-99",
+      "sum": 224,
+      "original_total": 224,
+      "equal": true
+    },
+    {
+      "year": "1899-1900",
+      "sum": 1295,
+      "original_total": 1295,
+      "equal": true
+    },
+    {
+      "year": "1900-1",
+      "sum": 1257,
+      "original_total": 1257,
+      "equal": true
+    },
+    {
+      "year": "1901-2",
+      "sum": 242,
+      "original_total": 242,
+      "equal": true
+    },
+    {
+      "year": "1902-3",
+      "sum": 604,
+      "original_total": 604,
+      "equal": true
+    },
+    {
+      "year": "1903-4",
+      "sum": 1387,
+      "original_total": 1387,
+      "equal": true
+    },
+    {
+      "year": "1904-5",
+      "sum": 830,
+      "original_total": 830,
+      "equal": true
+    },
+    {
+      "year": "1905-6",
+      "sum": 1883,
+      "original_total": 1883,
+      "equal": true
+    },
+    {
+      "year": "1906-7",
+      "sum": 2109,
+      "original_total": 2109,
+      "equal": true
+    },
+    {
+      "year": "1907-8",
+      "sum": 40,
+      "original_total": 40,
+      "equal": true
+    },
+    {
+      "year": "1908-9",
+      "sum": -1322,
+      "original_total": -1322,
+      "equal": true
+    },
+    {
+      "year": "1909-10",
+      "sum": 1906,
+      "original_total": 1906,
+      "equal": true
+    },
+    {
+      "year": "1910-11",
+      "sum": 411,
+      "original_total": 411,
+      "equal": true
+    },
+    {
+      "year": "1911-12",
+      "sum": 1510,
+      "original_total": 1510,
+      "equal": true
+    },
+    {
+      "year": "1912-13",
+      "sum": 1320,
+      "original_total": 1320,
+      "equal": true
+    }
+  ],
+  "other_display_arithmetic": {
+    "1123plus1275": 2398,
+    "1466plus1726": 3192,
+    "London14minus8_millionGBP": 6,
+    "India4plus8_millionGBP": 12,
+    "Austria_old100_then20pct_then40pct": 8.0,
+    "note_discount_percent": 0.4375,
+    "gold_discount_percent": 0.25,
+    "USsilver_limit_centsPerFineOz": 101.5
+  },
+  "limits": [
+    "Publicabsorption notnewcoin alone;governmentandbankheldnotes excluded;sovereignsgold excluded",
+    "Quantitymethodassumesrupeesnotmelted;laterwartimehighermetalprice invalidateswithoutreanalyzing",
+    "ConvertingLondonassetstoIndianrupee reserve retainsvalue compositionbutnotactualsameassetliquidity",
+    "RawOCRunchanged; underlyingofficialcommissionsnotindependentlyentirelyread"
+  ]
+}

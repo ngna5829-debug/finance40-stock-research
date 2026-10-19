@@ -1,0 +1,103 @@
+{
+  "book_id": "P27",
+  "chapter": 11,
+  "full_source_ranges_actually_read": [
+    [
+      0,
+      15000
+    ],
+    [
+      15000,
+      29304
+    ]
+  ],
+  "all_listed_original_page_images_actually_seen": true,
+  "author_footnotes": 0,
+  "original_tables_figures": 1,
+  "original_laws_in_order": [
+    [
+      "1",
+      "竞争强度倾向随单位数减少而上升"
+    ],
+    [
+      "2",
+      "竞争浪费倾向随强度上升"
+    ],
+    [
+      "3",
+      "竞争消失/垄断趋势倾向随浪费上升"
+    ],
+    [
+      "4",
+      "竞争消失/垄断趋势倾向随单位数减少上升"
+    ],
+    [
+      "5",
+      "竞争强度倾向随单位所需资本上升，尤其利息占成本大"
+    ],
+    [
+      "6",
+      "竞争消失/垄断趋势倾向随单位资本要求上升"
+    ],
+    [
+      "7",
+      "同类可用自然资源稀缺时竞争不平等/垄断趋势上升"
+    ]
+  ],
+  "source_explicit_not_narrow_mathematical_laws": true,
+  "diagram_printed_page": 158,
+  "diagram_full_structure": {
+    "monopoly_tendency_increases": [
+      "competitive_waste",
+      "fewer_competing_units",
+      "higher_capital_per_unit",
+      "fewer_available_natural_agents"
+    ],
+    "competitive_waste_increases_with_intensity": true,
+    "intensity_increases_with": [
+      "fewer_competing_units",
+      "higher_capital_per_unit"
+    ]
+  },
+  "not_independent_seven_votes": true,
+  "illustrative_numbers": {
+    "corn_farmers": 3000000,
+    "paper_traders": 300,
+    "railway_lines": 2,
+    "coordinating_small_vs_large_example": [
+      50,
+      1000
+    ],
+    "franchise_years_example": 20,
+    "native_copper_near_NY_cost_relative_hypothesis": 0.5,
+    "recent_industrial_period_years_author": 15,
+    "preceding_comparison_period_author_years": 30,
+    "not_calibrated_sector_samples": true
+  },
+  "competition_types": [
+    "actual",
+    "potential",
+    "franchise"
+  ],
+  "franchise_price_variable_difference": {
+    "chapter11": "highest bid for concession example",
+    "chapter5": "lowest promised consumer water rate example",
+    "not_automatically_equivalent": true
+  },
+  "source_qualifications": [
+    "竞争定义买方/卖方各向与一般自利区分",
+    "纸业故事假设+旧行业观察，未全面样本",
+    "广告等争夺费用被作者认浪费但需质疑实际信息价值",
+    "逆单位数关系讲少数直接价格交锋强度不是市场开放度",
+    "高资本继续开工不等资本/债务回报安全",
+    "资本账户评论不替代现代会计规则",
+    "自然资源优势可有其他供给与替代运路，不等无限定价",
+    "广义垄断定义不等违法或唯一卖方",
+    "生铁和特定炼钢品质矿藏环节不同",
+    "稀缺机制不直接决定产权正当性",
+    "特许竞争需质量执行/降本调价，最高特许出价不是最低用户价",
+    "图为逻辑层级无权重/概率",
+    "现代集中因果强论需质疑，不免行为责任或保证永远集中"
+  ],
+  "current_prediction_enabled": false
+}

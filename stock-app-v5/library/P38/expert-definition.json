@@ -1,0 +1,1697 @@
+{
+  "schema_version": "book-expert-licensed-source-v5",
+  "book_id": "P38",
+  "expert_id": "P38-dahlquist-knight-principles-finance",
+  "display_name": "财务报表、估值与风险核算专家",
+  "author_attribution": "Access for free at openstax.org. Julie Dahlquist and Rainford Knight, Principles of Finance, OpenStax/Rice University,2022, CC BY4.0. Chinese reading synthesis and expert rules are adaptations; no endorsement implied.",
+  "single_book_count": 1,
+  "home_group": "基本面、资本配置与估值",
+  "knowledge_status": "独立全文语义复核及必要更正完成，保留原源和预测有效性限制",
+  "required_inputs": [
+    "security_identity",
+    "decision_as_of",
+    "horizon",
+    "data_source",
+    "information_first_available_at",
+    "financial_statement_scope_currency_and_units",
+    "current_price_and_quote_basis"
+  ],
+  "conditional_inputs": [
+    "已申报报表和附注",
+    "当前债务与权益市场价值",
+    "现金流日期、增长与资本开支",
+    "利率及风险溢价的期限和口径",
+    "可执行融资及对冲条款",
+    "样本期、分红及复权口径",
+    "库存、回款、采购付款与融资余额的跨表桥接"
+  ],
+  "rules": [
+    {
+      "id": "P38-R01",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 1,
+      "author_meaning": "财务决策包括短期资产负债的经营安排，不能只看长期投资和筹资。",
+      "boundary": "企业现金需求与股票价格方向是不同问题。",
+      "evidence_match_phrase": "Working capital management",
+      "paragraph_ids": [
+        "P38-R01-PAGE24"
+      ],
+      "source_fragment_sha256": [
+        "2f11f23adc2652337d0a53b1970b394a222d39859bd461535c6276537c6baaa6"
+      ],
+      "printed_pages": [
+        9
+      ],
+      "pdf_pages_one_based": [
+        24
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch01-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R02",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 1,
+      "author_meaning": "财务预算、预测与内外部决策需要及时且准确的资料。",
+      "boundary": "数据发布日期、观察期及修订版本必须另行核对。",
+      "evidence_match_phrase": "accurate and timely",
+      "paragraph_ids": [
+        "P38-R02-PAGE31"
+      ],
+      "source_fragment_sha256": [
+        "f06fe4c3840acb77976088859e2eb1f0751608c06bd4a89447706ac926c193ca"
+      ],
+      "printed_pages": [
+        16
+      ],
+      "pdf_pages_one_based": [
+        31
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch01-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R03",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 1,
+      "author_meaning": "经纪、交易商和金融中介以不同方式协助信息、产品和资本交换。",
+      "boundary": "角色名称不能证明具体机构的净买入金额或无风险执行。",
+      "evidence_match_phrase": "financial intermediaries",
+      "paragraph_ids": [
+        "P38-R03-PAGE36"
+      ],
+      "source_fragment_sha256": [
+        "239e480a828c41cea8e983d4ec692d43923f1f0fe4366fe333203e8e2c48cf5e"
+      ],
+      "printed_pages": [
+        21
+      ],
+      "pdf_pages_one_based": [
+        36
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch01-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R04",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 2,
+      "author_meaning": "不同企业组织形式具有不同所有权、责任、税收和治理安排。",
+      "boundary": "LLC是有限责任公司；适用法律要按当前辖区核验。",
+      "evidence_match_phrase": "limited liability companies",
+      "paragraph_ids": [
+        "P38-R04-PAGE55",
+        "P38-R04-ADD-PAGE56",
+        "P38-R04-ADD-PAGE57",
+        "P38-R04-ADD-PAGE58",
+        "P38-R04-ADD-PAGE59"
+      ],
+      "source_fragment_sha256": [
+        "06856a8bba3162e3730b739487856934199b1df6c686326966e921e1cde1173e",
+        "910e3bc553135db0f48fbe019d942a80dce9f25e33760e542b9aac1b64d496d1",
+        "a8d19fed68d4d3159bfbe53a7cdf5400cffb8ea40123e174a5ff9b60b19e8922",
+        "11526835d0dbaefd9e4274e8f7aa5830f2c6de189eff90b3a8ad478798cdc8cf",
+        "53b62a7ad8319ed6084a71ab0aefa0884efca577e75d5c7faa346c683ee8cc20"
+      ],
+      "printed_pages": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "pdf_pages_one_based": [
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch02-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R05",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 2,
+      "author_meaning": "股东与管理者或董事的利益可能不完全一致，需要治理和激励安排。",
+      "boundary": "代理问题是待检验机制，不能由股价下跌直接认定管理者违规。",
+      "evidence_match_phrase": "Agency",
+      "paragraph_ids": [
+        "P38-R05-PAGE65",
+        "P38-R05-ADD-PAGE66",
+        "P38-R05-ADD-PAGE67"
+      ],
+      "source_fragment_sha256": [
+        "4fcf270f327da1415287eb6d42560e8bae880f59d3eb53662b5fb881c04f01f6",
+        "8bddd128b4903f64f4ac66672a27d5f8b031b869da81f7d8b810a0c1b8560664",
+        "14e28671f8165038185f160e05adbefb33818f9787815961e05d9a726ea2f5ff"
+      ],
+      "printed_pages": [
+        50,
+        51,
+        52
+      ],
+      "pdf_pages_one_based": [
+        65,
+        66,
+        67
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch02-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R06",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 2,
+      "author_meaning": "公开披露使投资者能够取得经营与财务资料。",
+      "boundary": "向SEC提交材料不等于SEC为证券价值或资料真实性背书。",
+      "evidence_match_phrase": "Securities and Exchange Commission",
+      "paragraph_ids": [
+        "P38-R06-PAGE62"
+      ],
+      "source_fragment_sha256": [
+        "e092715663f41833579835159cf40d80f7185dc6549b4552be577d09f8788980"
+      ],
+      "printed_pages": [
+        47
+      ],
+      "pdf_pages_one_based": [
+        62
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch02-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R07",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 3,
+      "author_meaning": "经济活动有扩张与收缩等阶段，企业需求和融资环境随之变化。",
+      "boundary": "原书历史阶段不是今天的REGIME判定；实时状态须独立观测。",
+      "evidence_match_phrase": "business cycle",
+      "paragraph_ids": [
+        "P38-R07-PAGE97",
+        "P38-R07-ADD-PAGE98",
+        "P38-R07-ADD-PAGE99",
+        "P38-R07-ADD-PAGE101",
+        "P38-R07-ADD-PAGE103"
+      ],
+      "source_fragment_sha256": [
+        "3823a1eeae44bb281f55ee4264549f7d50a0cd0246aa21de07791abc5d940b32",
+        "d44f1376c051d38b2e47ef9b20b4c3fa2cc57d551c7a4e7390ae877bf20e6dbe",
+        "28757be59325d5f9c3193726b1f8b19a1dc952033cfc6dba2b0023d5a9b6a67b",
+        "b0533348b3e5ed29168b1d98082b3b14b5e741c9b38b181aca58d9278d96c6c2",
+        "dd9de22ae5773e919602a8dfb9cfd8ddd05a65f78333d2b426b0ffd5dfc4b909"
+      ],
+      "printed_pages": [
+        82,
+        83,
+        84,
+        86,
+        88
+      ],
+      "pdf_pages_one_based": [
+        97,
+        98,
+        99,
+        101,
+        103
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch03-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R08",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 3,
+      "author_meaning": "汇率改变跨境采购、销售及换算金额，需要先确定报价方向。",
+      "boundary": "统一检查每单位哪种货币，倒数报价不能直接同向比较。",
+      "evidence_match_phrase": "exchange rate",
+      "paragraph_ids": [
+        "P38-R08-PAGE104",
+        "P38-R08-ADD-PAGE105"
+      ],
+      "source_fragment_sha256": [
+        "a877a1774a65f69cd2fe85993cca5000f02ae26d0ad1aab7002010d2c9e2568f",
+        "b0ca4c4e8ec305ac03181f4a9b2b0d8acdc4586b0d4c1c78247dd913474c32b7"
+      ],
+      "printed_pages": [
+        89,
+        90
+      ],
+      "pdf_pages_one_based": [
+        104,
+        105
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch03-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R09",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 3,
+      "author_meaning": "价格水平变化影响名义金额的购买力以及融资和消费判断。",
+      "boundary": "PPI原书定义有误，生产者收到的价格与其投入购买价格不能混同。",
+      "evidence_match_phrase": "inflation",
+      "paragraph_ids": [
+        "P38-R09-PAGE91",
+        "P38-R09-ADD-PAGE92",
+        "P38-R09-ADD-PAGE102"
+      ],
+      "source_fragment_sha256": [
+        "f58e0994b0ae3382af1471b2cd598529a408669a14182e8a0220deab4c12e8a9",
+        "90a0ca411098312ad76009d5f0d6ca658e964044854ecb141f1e754bb2f214d8",
+        "76cbb51f5d377bcfb282902be6553996724e2c5abe00f407a64fa35d2a0bd1d8"
+      ],
+      "printed_pages": [
+        76,
+        77,
+        87
+      ],
+      "pdf_pages_one_based": [
+        91,
+        92,
+        102
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch03-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R10",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 4,
+      "author_meaning": "会计恒等式连接资产、负债与所有者权益。",
+      "boundary": "本书一处权益等式倒置；独立校验应使用权益等于资产减负债。",
+      "evidence_match_phrase": "accounting equation",
+      "paragraph_ids": [
+        "P38-R10-PAGE119",
+        "P38-R10-ADD-PAGE120"
+      ],
+      "source_fragment_sha256": [
+        "9cee19e6ad9ca7771cf2bc137943527ea22d643baedc99d073b5c2f9c4d7369b",
+        "6d2b719a2f2f847e40e8e3cffb210737afd05acccda7fac7d9390a786a9a37db"
+      ],
+      "printed_pages": [
+        104,
+        105
+      ],
+      "pdf_pages_one_based": [
+        119,
+        120
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch04-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R11",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 4,
+      "author_meaning": "先收款而尚未履行的交易涉及递延确认和后续履约。",
+      "boundary": "现金收到、销售确认与利润产生不能当作同一时点。",
+      "evidence_match_phrase": "Gift Card",
+      "paragraph_ids": [
+        "P38-R11-PAGE125"
+      ],
+      "source_fragment_sha256": [
+        "3baa3b3f0c10e14e301d5f53f5719b4285bacb2c5470a866112f3b3cf5e3382d"
+      ],
+      "printed_pages": [
+        110
+      ],
+      "pdf_pages_one_based": [
+        125
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch04-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R12",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 4,
+      "author_meaning": "长期资产成本按照选定方法分配到使用期，影响账面价值和利润。",
+      "boundary": "折旧不是本期现金付款；单位和残值、使用寿命须核对。",
+      "evidence_match_phrase": "depreciation",
+      "paragraph_ids": [
+        "P38-R12-PAGE126",
+        "P38-R12-ADD-PAGE127",
+        "P38-R12-ADD-PAGE128",
+        "P38-R12-ADD-PAGE129",
+        "P38-R12-ADD-PAGE130"
+      ],
+      "source_fragment_sha256": [
+        "090c74cbae910abd49e004ad7df1c604190b4e49ff17f1a59356d7ea57d80f24",
+        "b6a6a5d7f35ea3617176df2111a0b1ef1224990d96030be5cca43662bc47710f",
+        "0d60e700e6cce65cae6254297c4b6d93bfb756bb66ace50a54f7401756777585",
+        "615774768652837e4d2400ecd19191fa0b64dd1c243e968a651e385808ab5282",
+        "f4a99e18b3a8d9fab629447fe5ebef9b4a3d9cf2c46a651347d8605c7b501d9d"
+      ],
+      "printed_pages": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "pdf_pages_one_based": [
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch04-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R13",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 5,
+      "author_meaning": "现金流量表按经营、投资和筹资活动解释现金变化。",
+      "boundary": "科目分类、符号及现金期初期末要桥接，不能把利润当经营现金。",
+      "evidence_match_phrase": "statement of cash flows",
+      "paragraph_ids": [
+        "P38-R13-PAGE159"
+      ],
+      "source_fragment_sha256": [
+        "ff7cc3ee21fc1754ead96cda0d783640f9fd2b6a16fc20cae65f41bdb2c3f73b"
+      ],
+      "printed_pages": [
+        144
+      ],
+      "pdf_pages_one_based": [
+        159
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch05-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R14",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 5,
+      "author_meaning": "收入减去相应经营成本才得到营业利润，毛收入增长不自动变成利润增长。",
+      "boundary": "原书个别报表文字与数值不一致，以完整重算及冲突记录为准。",
+      "evidence_match_phrase": "operating income",
+      "paragraph_ids": [
+        "P38-R14-PAGE146"
+      ],
+      "source_fragment_sha256": [
+        "94fc63df8c4b38dc978ad5f911e9e556351f1ea5d16f59179f299cbe95269912"
+      ],
+      "printed_pages": [
+        131
+      ],
+      "pdf_pages_one_based": [
+        146
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch05-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R15",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 5,
+      "author_meaning": "自由现金流分析要联系经营现金与资本支出等资金需求。",
+      "boundary": "FCFF、FCFE及作者简化口径分别记录，不把不同现金流配同一折现率。",
+      "evidence_match_phrase": "Free Cash Flow",
+      "paragraph_ids": [
+        "P38-R15-PAGE163"
+      ],
+      "source_fragment_sha256": [
+        "2a5996c666ecabe5287a0bbe77cafb24af86bbd22438f41b085a846065186435"
+      ],
+      "printed_pages": [
+        148
+      ],
+      "pdf_pages_one_based": [
+        163
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch05-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R16",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 6,
+      "author_meaning": "盈利能力可以拆成利润率、资产使用效率和权益杠杆等组成部分。",
+      "boundary": "各因子必须采用相同期间、净利润归属和平均或期末余额口径。",
+      "evidence_match_phrase": "DuPont",
+      "paragraph_ids": [
+        "P38-R16-PAGE197",
+        "P38-R16-ADD-PAGE198"
+      ],
+      "source_fragment_sha256": [
+        "17bd6e325fe4fbfb73383f2b0bab1bc68c002901c51e1a5aedd27567847f0b5a",
+        "0918d4bf3b966fc836fdc6ed81105f2e4323e05646276ea754dae4e22423b484"
+      ],
+      "printed_pages": [
+        182,
+        183
+      ],
+      "pdf_pages_one_based": [
+        197,
+        198
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch06-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R17",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 6,
+      "author_meaning": "财务比率需要与行业和其他可比资料结合解释。",
+      "boundary": "不同资产结构、币种及ADR比例的数值不能未经调整直接排名。",
+      "evidence_match_phrase": "industry",
+      "paragraph_ids": [
+        "P38-R17-PAGE184"
+      ],
+      "source_fragment_sha256": [
+        "79e3956ff48303d936ae5bb402bfa860a669718d6a963a5d6544b8551fdb8ddf"
+      ],
+      "printed_pages": [
+        169
+      ],
+      "pdf_pages_one_based": [
+        184
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch06-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R18",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 6,
+      "author_meaning": "库存、回款和付款的周转安排影响现金占用。",
+      "boundary": "本书相关经营周期文字存在混用；明确OC与CCC的各项定义和天数。",
+      "evidence_match_phrase": "cash conversion cycle",
+      "paragraph_ids": [
+        "P38-R18-PAGE183",
+        "P38-R18-ADD-PAGE585",
+        "P38-R18-ADD-PAGE586"
+      ],
+      "source_fragment_sha256": [
+        "4f2b1220b5c543c09cfa711a13bb8ce327744649e1a81304c20fda2c7c20b820",
+        "d11f8de432cd66e37557e21320e17c3294680eb6309aa088ed12cbf0800eda59",
+        "e404cda7986cd2d89b6ac550e24c53ce08b7b91d725ef1ea059483b0852e737c"
+      ],
+      "printed_pages": [
+        168,
+        570,
+        571
+      ],
+      "pdf_pages_one_based": [
+        183,
+        585,
+        586
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch06-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain",
+      "supporting_chapters": [
+        6,
+        19
+      ]
+    },
+    {
+      "id": "P38-R19",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 7,
+      "author_meaning": "利息再加入本金会使多期增长与简单计息不同。",
+      "boundary": "假定恒定回报不是实际长期收益保证，复利频率与利率单位要一致。",
+      "evidence_match_phrase": "compounding",
+      "paragraph_ids": [
+        "P38-R19-PAGE208",
+        "P38-R19-ADD-PAGE209"
+      ],
+      "source_fragment_sha256": [
+        "f9c6cfc8789d9855d449259f4d19b1725a4761994f25f37df3ec29e0f937b271",
+        "6db8da35c6a13ae4171c70d01861af08b9353766f7c3b745eb96b7123838fe4a"
+      ],
+      "printed_pages": [
+        193,
+        194
+      ],
+      "pdf_pages_one_based": [
+        208,
+        209
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch07-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R20",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 7,
+      "author_meaning": "同一名义金额在不同时点的购买力可能变化。",
+      "boundary": "实际回报计算需同一期间的价格指标，而非直接扣不同期的通胀。",
+      "evidence_match_phrase": "inflation",
+      "paragraph_ids": [
+        "P38-R20-PAGE207"
+      ],
+      "source_fragment_sha256": [
+        "c2b7c55af35f8f3200038ecb2a7898c854a80cd1d9307bddccb9e890b110ce52"
+      ],
+      "printed_pages": [
+        192
+      ],
+      "pdf_pages_one_based": [
+        207
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch07-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R21",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 7,
+      "author_meaning": "72法则近似估计在给定增长率下翻倍所需时间。",
+      "boundary": "近似值不能取代准确现金流估值或被当作市场预测。",
+      "evidence_match_phrase": "Rule of 72",
+      "paragraph_ids": [
+        "P38-R21-PAGE234"
+      ],
+      "source_fragment_sha256": [
+        "7da12d52e0b148881148bb4d328fac2d9aba5e0b54d39759c7f4cbea688168aa"
+      ],
+      "printed_pages": [
+        219
+      ],
+      "pdf_pages_one_based": [
+        234
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch07-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R22",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 8,
+      "author_meaning": "普通年金与先付年金的现金发生时点相差一期。",
+      "boundary": "估值前应列日期，不能把年初现金误作为年末现金。",
+      "evidence_match_phrase": "Annuity Due",
+      "paragraph_ids": [
+        "P38-R22-PAGE249"
+      ],
+      "source_fragment_sha256": [
+        "fb38c49f403023af6c89116a577199a12031065ae0e7918de3af43325e7a581b"
+      ],
+      "printed_pages": [
+        234
+      ],
+      "pdf_pages_one_based": [
+        249
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch08-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R23",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 8,
+      "author_meaning": "贷款还款同时包含利息与本金，余额随每期支付而变化。",
+      "boundary": "四舍五入的支付额可留尾款；提前还款效果要重建实际摊还表。",
+      "evidence_match_phrase": "Amortization",
+      "paragraph_ids": [
+        "P38-R23-PAGE255",
+        "P38-R23-ADD-PAGE256",
+        "P38-R23-ADD-PAGE257",
+        "P38-R23-ADD-PAGE258"
+      ],
+      "source_fragment_sha256": [
+        "c273b7254de35c5f4822c3c6e524e438905697d197e51aaa9f13aed86b07ef65",
+        "bb39ab585a14a228f5cb1b535392827c61147e428655e545af755e26b46e2481",
+        "04093d3a942846d7c30cf26a469d38a1be36eb257fe9a9fc428f133c4ef71ed5",
+        "385fb3b264d0e42d7420ce5af7c63cfef642caf976303f9b4be17dc524a95975"
+      ],
+      "printed_pages": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "pdf_pages_one_based": [
+        255,
+        256,
+        257,
+        258
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch08-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R24",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 8,
+      "author_meaning": "有效年利率反映一年内的复利，可能与报价年利率不同。",
+      "boundary": "月利率、名义年率和有效年率分开；费用是否计入也需说明。",
+      "evidence_match_phrase": "effective annual",
+      "paragraph_ids": [
+        "P38-R24-PAGE258"
+      ],
+      "source_fragment_sha256": [
+        "385fb3b264d0e42d7420ce5af7c63cfef642caf976303f9b4be17dc524a95975"
+      ],
+      "printed_pages": [
+        243
+      ],
+      "pdf_pages_one_based": [
+        258
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch08-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R25",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 9,
+      "author_meaning": "不等额现金流应折现或复利到同一个比较时点。",
+      "boundary": "初始、第一期及最后一期的位置不能因电子表格函数而悄悄改变。",
+      "evidence_match_phrase": "Timing of Cash Flows",
+      "paragraph_ids": [
+        "P38-R25-PAGE279"
+      ],
+      "source_fragment_sha256": [
+        "e65147b6e5dbdce2c129de2ac89eda3639ff8ac4bfbe5a63f20865cd0c987a38"
+      ],
+      "printed_pages": [
+        264
+      ],
+      "pdf_pages_one_based": [
+        279
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch09-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R26",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 9,
+      "author_meaning": "计算器或电子表格可以逐期处理不等额现金流。",
+      "boundary": "Excel NPV通常将第一项视为第一期，初始现金另加；需要保留中间零现金期。",
+      "evidence_match_phrase": "NPV",
+      "paragraph_ids": [
+        "P38-R26-PAGE287"
+      ],
+      "source_fragment_sha256": [
+        "94f547488950fb941e5bf75c9472b8e4469e0efdad3e674a73066c852ec9f49d"
+      ],
+      "printed_pages": [
+        272
+      ],
+      "pdf_pages_one_based": [
+        287
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch09-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R27",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 9,
+      "author_meaning": "不同到期的现金流不能不经时点调整直接相加。",
+      "boundary": "原书部分末期有第七年与第八年冲突；需要明确真实合同日期。",
+      "evidence_match_phrase": "Future Value",
+      "paragraph_ids": [
+        "P38-R27-PAGE281"
+      ],
+      "source_fragment_sha256": [
+        "5c719e3fb93e23bd35c0c0f662f1aa874de5be7daeca69ae680dc1ca00eb00f9"
+      ],
+      "printed_pages": [
+        266
+      ],
+      "pdf_pages_one_based": [
+        281
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch09-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R28",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 10,
+      "author_meaning": "到期收益率是用债券承诺现金流和价格建立的折现率。",
+      "boundary": "兑现条件、再投资与违约会使实际持有回报不同，不能把YTM当保证。",
+      "evidence_match_phrase": "Yield to maturity",
+      "paragraph_ids": [
+        "P38-R28-PAGE300"
+      ],
+      "source_fragment_sha256": [
+        "10904012ff777fad51527964e43783d4d71df14465d1cdbd5b4a7535097ad2f1"
+      ],
+      "printed_pages": [
+        285
+      ],
+      "pdf_pages_one_based": [
+        300
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch10-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R29",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 10,
+      "author_meaning": "票息、市场价格和到期收益率分别描述不同债券属性。",
+      "boundary": "固定票息现金不会随市场YTM自动改变，报价与面值单位也需检查。",
+      "evidence_match_phrase": "Coupon",
+      "paragraph_ids": [
+        "P38-R29-PAGE299",
+        "P38-R29-ADD-PAGE300"
+      ],
+      "source_fragment_sha256": [
+        "a7c23bd1714920977334f37b0ebcdfe0fff3e216a09b9aad5134a029f17a01df",
+        "10904012ff777fad51527964e43783d4d71df14465d1cdbd5b4a7535097ad2f1"
+      ],
+      "printed_pages": [
+        284,
+        285
+      ],
+      "pdf_pages_one_based": [
+        299,
+        300
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch10-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R30",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 10,
+      "author_meaning": "债券价格对利率变化敏感，较长期限通常带来较大价格暴露。",
+      "boundary": "实际敏感度还取决于票息、现金日期和条款，不能只按年限排名。",
+      "evidence_match_phrase": "interest rate risk",
+      "paragraph_ids": [
+        "P38-R30-PAGE313",
+        "P38-R30-ADD-PAGE316"
+      ],
+      "source_fragment_sha256": [
+        "99f67e673889ce4acd6229d443f6fbdb323abd348c78aa161ea04bb53621ee05",
+        "9cd603dc6ca60075541912e68a75f69092d89e96d464d20cbdd2cfed4ac935fb"
+      ],
+      "printed_pages": [
+        298,
+        301
+      ],
+      "pdf_pages_one_based": [
+        313,
+        316
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch10-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R31",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 11,
+      "author_meaning": "恒定增长股利模型以未来股利、必要回报与增长率估值。",
+      "boundary": "永续模型必须满足折现率大于增长率，并使用下一期股利。",
+      "evidence_match_phrase": "Constant Growth",
+      "paragraph_ids": [
+        "P38-R31-PAGE342"
+      ],
+      "source_fragment_sha256": [
+        "1f1b9c6aacdb7c391308607450f0cfa8a2af8a87997ceb89a41fabd4933918d4"
+      ],
+      "printed_pages": [
+        327
+      ],
+      "pdf_pages_one_based": [
+        342
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch11-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R32",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 11,
+      "author_meaning": "估值将未来可取得现金折现，假定及边界决定结果。",
+      "boundary": "企业价值到普通股价值的现金、债务、优先权桥接不足时不得补造。",
+      "evidence_match_phrase": "discounted cash flow",
+      "paragraph_ids": [
+        "P38-R32-PAGE348"
+      ],
+      "source_fragment_sha256": [
+        "94b5e6a755371f43754675ef692c74439ff829595e79bd497a2d40fda5d0c007"
+      ],
+      "printed_pages": [
+        333
+      ],
+      "pdf_pages_one_based": [
+        348
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch11-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R33",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 11,
+      "author_meaning": "市场效率讨论可获得信息如何反映到价格中。",
+      "boundary": "效率形式及适用条件要分开；本章未完整展开强式效率，不扩充为已读论证。",
+      "evidence_match_phrase": "Market Efficiency",
+      "paragraph_ids": [
+        "P38-R33-PAGE361"
+      ],
+      "source_fragment_sha256": [
+        "90a5df6574ed8bff5a1355e9355595e6319a3050d5f420fbcaa6d1a4b682d0fe"
+      ],
+      "printed_pages": [
+        346
+      ],
+      "pdf_pages_one_based": [
+        361
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch11-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R34",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 12,
+      "author_meaning": "市价与限价等委托方式在价格与成交确定性上有不同条件。",
+      "boundary": "观察价不等于可执行价格；无深度和交易状态资料时不假定成交。",
+      "evidence_match_phrase": "market order",
+      "paragraph_ids": [
+        "P38-R34-PAGE377"
+      ],
+      "source_fragment_sha256": [
+        "c4588e3ebbe0bc51dfac6f4bff1f6b3f18a6c1ef7553f83ffc8a6c99c52a518e"
+      ],
+      "printed_pages": [
+        362
+      ],
+      "pdf_pages_one_based": [
+        377
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch12-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R35",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 12,
+      "author_meaning": "历史资产回报需要考虑物价变化对购买力的影响。",
+      "boundary": "历史窗口、分红及复投口径与现今机会须分开。",
+      "evidence_match_phrase": "Inflation",
+      "paragraph_ids": [
+        "P38-R35-PAGE378",
+        "P38-R35-ADD-PAGE377"
+      ],
+      "source_fragment_sha256": [
+        "e98ef9c310572719a8c884fc4fca065bab1c2486dca852d85a0463d490496f00",
+        "c4588e3ebbe0bc51dfac6f4bff1f6b3f18a6c1ef7553f83ffc8a6c99c52a518e"
+      ],
+      "printed_pages": [
+        363,
+        362
+      ],
+      "pdf_pages_one_based": [
+        378,
+        377
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch12-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R36",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 12,
+      "author_meaning": "历史股票表现同时包含波动及损失年份，不能只比较最终财富。",
+      "boundary": "漏失1982标签的原图不能被当完整93年逐年序列；历史统计不是上涨概率。",
+      "evidence_match_phrase": "standard deviation",
+      "paragraph_ids": [
+        "P38-R36-PAGE385",
+        "P38-R36-ADD-PAGE386"
+      ],
+      "source_fragment_sha256": [
+        "8165cda36d7fcd0fd675d026fba99a00709115d78261d05b5c5a4137efe82756",
+        "51f6a50399d919adfa7f910da2a5d2263fb2285b9fa8f627dc9dfcd8aae9f99b"
+      ],
+      "printed_pages": [
+        370,
+        371
+      ],
+      "pdf_pages_one_based": [
+        385,
+        386
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch12-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R37",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 13,
+      "author_meaning": "加权均值以各观察的相应权重求中心，与简单均值可能不同。",
+      "boundary": "权重的单位、分母和是否合计一必须明确。",
+      "evidence_match_phrase": "Weighted Mean",
+      "paragraph_ids": [
+        "P38-R37-PAGE399",
+        "P38-R37-ADD-PAGE400"
+      ],
+      "source_fragment_sha256": [
+        "6433a76f2402d66eab2ccf9270eca35794dbdd353d2ea2f76df8887cb60dbc9a",
+        "3f1e6abca3a473cf5ea294cb5714e228c98c57f7b7e686dacd5d8493a7263e9f"
+      ],
+      "printed_pages": [
+        384,
+        385
+      ],
+      "pdf_pages_one_based": [
+        399,
+        400
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch13-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R38",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 13,
+      "author_meaning": "方差与标准差描述离散程度，样本和总体计算有所区别。",
+      "boundary": "没有分布假设和检验，均值、波动或z分数不能自动给未来概率。",
+      "evidence_match_phrase": "standard deviation",
+      "paragraph_ids": [
+        "P38-R38-PAGE400",
+        "P38-R38-ADD-PAGE401",
+        "P38-R38-ADD-PAGE402"
+      ],
+      "source_fragment_sha256": [
+        "3f1e6abca3a473cf5ea294cb5714e228c98c57f7b7e686dacd5d8493a7263e9f",
+        "4488a638d3b35b2fcf09813cd6c6da371c59b4f253abfd1130eb2f28c2cec18c",
+        "5fed86225734df9ebe696479cf5e95462fe93db9fadce2068d763a9aa4420f4d"
+      ],
+      "printed_pages": [
+        385,
+        386,
+        387
+      ],
+      "pdf_pages_one_based": [
+        400,
+        401,
+        402
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch13-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R39",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 13,
+      "author_meaning": "分位数表示样本中的相对位置，可辅助理解异常值。",
+      "boundary": "分位数算法和样本要明确；题目只给均值而缺分布时不能唯一计算分位数。",
+      "evidence_match_phrase": "percentile",
+      "paragraph_ids": [
+        "P38-R39-PAGE406"
+      ],
+      "source_fragment_sha256": [
+        "493c6897c497f8f18343aa8d279229aa91a17d712d03f8dfbd6a83913c502fda"
+      ],
+      "printed_pages": [
+        391
+      ],
+      "pdf_pages_one_based": [
+        406
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch13-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R40",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 14,
+      "author_meaning": "相关系数描述共同变动，回归建立给定自变量下的统计关系。",
+      "boundary": "样本相关不单独证明因果，价格水平及不同观察日期也可能误导。",
+      "evidence_match_phrase": "Correlation",
+      "paragraph_ids": [
+        "P38-R40-PAGE433"
+      ],
+      "source_fragment_sha256": [
+        "2b88b881fd980ce0a74517443acc102005ebade16c01d8429650388ef2f484fd"
+      ],
+      "printed_pages": [
+        418
+      ],
+      "pdf_pages_one_based": [
+        433
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch14-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R41",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 14,
+      "author_meaning": "均值响应的区间与单个未来观察值的预测区间回答不同问题。",
+      "boundary": "单位、样本自由度和适用范围要保留，区间不是任意未来行情保证。",
+      "evidence_match_phrase": "confidence interval",
+      "paragraph_ids": [
+        "P38-R41-PAGE451"
+      ],
+      "source_fragment_sha256": [
+        "67ab0663547d6181454206d39d44ac9fd7c44b23c17240fd861f58050ded2729"
+      ],
+      "printed_pages": [
+        436
+      ],
+      "pdf_pages_one_based": [
+        451
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch14-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R42",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 14,
+      "author_meaning": "股票对市场的回归斜率可用于描述该样本的市场敏感性。",
+      "boundary": "原例含额外零月份；样本、收益率期间和总波动必须独立检查。",
+      "evidence_match_phrase": "Beta",
+      "paragraph_ids": [
+        "P38-R42-PAGE448"
+      ],
+      "source_fragment_sha256": [
+        "e75b6161ffbf5c06118779e6367864b87625b86324bcb5b28dc969a8eed6cc81"
+      ],
+      "printed_pages": [
+        433
+      ],
+      "pdf_pages_one_based": [
+        448
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch14-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R43",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 15,
+      "author_meaning": "多期复合增长与各期算术平均回报并不相同。",
+      "boundary": "实际现金流进出及再平衡安排会改变投资者所得，不能混用指标。",
+      "evidence_match_phrase": "geometric",
+      "paragraph_ids": [
+        "P38-R43-PAGE467",
+        "P38-R43-ADD-PAGE468"
+      ],
+      "source_fragment_sha256": [
+        "d4de56df1e71451d1961338fca1bedba6f5206d1d2bab2e1942a7e02ea2f2ab1",
+        "b3f0a8b94e4320fcc7008bb6de46ea3861bcea9d276f172979b1cf467e6ab535"
+      ],
+      "printed_pages": [
+        452,
+        453
+      ],
+      "pdf_pages_one_based": [
+        467,
+        468
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch15-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R44",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 15,
+      "author_meaning": "分散持有可以处理部分公司特有风险，市场共同风险仍存在。",
+      "boundary": "股票数量增加不必定降低风险，需检查相关性及集中暴露。",
+      "evidence_match_phrase": "systematic",
+      "paragraph_ids": [
+        "P38-R44-PAGE476"
+      ],
+      "source_fragment_sha256": [
+        "5e0a94686b010b2decedb4f0c1926c4c17a0ecf31ed2fd9b37ff8aa39f1b3aa5"
+      ],
+      "printed_pages": [
+        461
+      ],
+      "pdf_pages_one_based": [
+        476
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch15-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R45",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 15,
+      "author_meaning": "不同风险调整绩效指标使用不同分母或比较基准。",
+      "boundary": "Sharpe、Treynor和Jensen不能互换；风险自由利率口径及单位必须一致。",
+      "evidence_match_phrase": "Sharpe",
+      "paragraph_ids": [
+        "P38-R45-PAGE480",
+        "P38-R45-ADD-PAGE481"
+      ],
+      "source_fragment_sha256": [
+        "a0399cda4b21ea7e2b6405b4916807eb59ef3de2e97d8ad1178639f44a134e85",
+        "95006683a8d33f11950773407a04ce0065509e222d1f281028bdfc9def0189e0"
+      ],
+      "printed_pages": [
+        465,
+        466
+      ],
+      "pdf_pages_one_based": [
+        480,
+        481
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch15-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R46",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 16,
+      "author_meaning": "项目净现值比较初始投入与折现后的增量现金。",
+      "boundary": "会计利润不能代替项目现金；机会成本、营运资金及终值应有依据。",
+      "evidence_match_phrase": "Net Present Value",
+      "paragraph_ids": [
+        "P38-R46-PAGE497"
+      ],
+      "source_fragment_sha256": [
+        "b16dfaf251f10c1214f99196c253fdcdba218ca91eabe0c0455f77b8c433702f"
+      ],
+      "printed_pages": [
+        482
+      ],
+      "pdf_pages_one_based": [
+        497
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch16-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R47",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 16,
+      "author_meaning": "相互排斥项目可能在NPV与IRR排名上发生冲突。",
+      "boundary": "不同规模和生命周期需按一致条件比较，多次符号变化可能产生多个IRR。",
+      "evidence_match_phrase": "mutually exclusive",
+      "paragraph_ids": [
+        "P38-R47-PAGE503",
+        "P38-R47-ADD-PAGE506",
+        "P38-R47-ADD-PAGE507"
+      ],
+      "source_fragment_sha256": [
+        "1069781aff85f93af9d3b7a946d5f7bc5530168933a0d2741d3a1cd3241b1102",
+        "207e69d48d9782083c0b3dba14adeded275973099b79ff77f33fbfd6b4d2d1f9",
+        "9f0f4110ab05db48df06c4aa98374a89d909ce47fa1e410393063231235964b8"
+      ],
+      "printed_pages": [
+        488,
+        491,
+        492
+      ],
+      "pdf_pages_one_based": [
+        503,
+        506,
+        507
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch16-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R48",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 16,
+      "author_meaning": "盈利指数比较未来现金现值与初始投入。",
+      "boundary": "章末一处误写NPV作分子；不可分项目预算分配不能保证按PI贪心最优。",
+      "evidence_match_phrase": "profitability index",
+      "paragraph_ids": [
+        "P38-R48-PAGE503",
+        "P38-R48-ADD-PAGE504"
+      ],
+      "source_fragment_sha256": [
+        "1069781aff85f93af9d3b7a946d5f7bc5530168933a0d2741d3a1cd3241b1102",
+        "d2d08ac04a2100242934b229ed84b3425488ae662915544515d9984bed638398"
+      ],
+      "printed_pages": [
+        488,
+        489
+      ],
+      "pdf_pages_one_based": [
+        503,
+        504
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch16-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R49",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 17,
+      "author_meaning": "资本成本需要结合债务、普通股及适用优先股的成本与权重。",
+      "boundary": "市场价值、税率、权益模型及同期报价一致；原例多处权重和转录冲突保留。",
+      "evidence_match_phrase": "weighted average",
+      "paragraph_ids": [
+        "P38-R49-PAGE528"
+      ],
+      "source_fragment_sha256": [
+        "1cc525fa1a1afa55d9d0e60ee5c3d4296128bd9e3374f2bc44a5c3510b2a776c"
+      ],
+      "printed_pages": [
+        513
+      ],
+      "pdf_pages_one_based": [
+        528
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch17-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R50",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 17,
+      "author_meaning": "留存收益增加权益资金，但仍具有股东的机会成本。",
+      "boundary": "账面增加不能单独证明有等额可支配现金，也不是零成本资本。",
+      "evidence_match_phrase": "retained earnings",
+      "paragraph_ids": [
+        "P38-R50-PAGE540"
+      ],
+      "source_fragment_sha256": [
+        "0077388564b4357e6cbd142da6e7efab9ce25d0987b8adf2b24ec20ef6c0be13"
+      ],
+      "printed_pages": [
+        525
+      ],
+      "pdf_pages_one_based": [
+        540
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch17-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R51",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 17,
+      "author_meaning": "发行新证券会产生发行费用，减少企业实际获得的资金。",
+      "boundary": "一次性费用与永久折现率影响分开，避免在现金流与资本成本重复计费。",
+      "evidence_match_phrase": "flotation",
+      "paragraph_ids": [
+        "P38-R51-PAGE541"
+      ],
+      "source_fragment_sha256": [
+        "a5067ba143be22bf2a6d2d3a8f54820b53376897261670bfa00c5bf2c7464c7a"
+      ],
+      "printed_pages": [
+        526
+      ],
+      "pdf_pages_one_based": [
+        541
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch17-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R52",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 18,
+      "author_meaning": "财务预测把销售、费用、资产负债及现金安排连接为一组报表。",
+      "boundary": "增长场景不是发生概率；每月与年度、税额及基准期必须统一。",
+      "evidence_match_phrase": "Pro Forma",
+      "paragraph_ids": [
+        "P38-R52-PAGE559",
+        "P38-R52-ADD-PAGE551"
+      ],
+      "source_fragment_sha256": [
+        "3880510809a417f264e12d9982cfaf15526e4db56721acb1b8f84784e3340135",
+        "06a86839e939a7844fbb7aad4f6246b9d3cf2ca3d7d69cc3b7040732961260f2"
+      ],
+      "printed_pages": [
+        544,
+        536
+      ],
+      "pdf_pages_one_based": [
+        559,
+        551
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch18-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R53",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 18,
+      "author_meaning": "预测初稿可以以现金为调节项使资产负债表平衡，再检查融资问题。",
+      "boundary": "配平现金不是已证实现金预测；原例期初和年末跨表差异需要桥接。",
+      "evidence_match_phrase": "plugged",
+      "paragraph_ids": [
+        "P38-R53-PAGE564"
+      ],
+      "source_fragment_sha256": [
+        "31ccc11f83de4ac73e05a86709669feb43e7b1c1463b408bcb11597b490cfce4"
+      ],
+      "printed_pages": [
+        549
+      ],
+      "pdf_pages_one_based": [
+        564
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch18-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R54",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 18,
+      "author_meaning": "销售预测向应收款和回款时点传导，影响资金需求。",
+      "boundary": "三个月与四个月的累计公式在原文冲突；采购付款不能用COGS直接代替。",
+      "evidence_match_phrase": "accounts receivable",
+      "paragraph_ids": [
+        "P38-R54-PAGE563"
+      ],
+      "source_fragment_sha256": [
+        "42bd12e6f565286e88e4f093842d146b3cd21185705bab2820953572e4531c58"
+      ],
+      "printed_pages": [
+        548
+      ],
+      "pdf_pages_one_based": [
+        563
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch18-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R55",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 19,
+      "author_meaning": "现金转换安排连接生产采购、销售、回款及供应商信用。",
+      "boundary": "OC与CCC分别计算，DPO的采购或COGS口径及360/365基准须说明。",
+      "evidence_match_phrase": "cash conversion",
+      "paragraph_ids": [
+        "P38-R55-PAGE585"
+      ],
+      "source_fragment_sha256": [
+        "d11f8de432cd66e37557e21320e17c3294680eb6309aa088ed12cbf0800eda59"
+      ],
+      "printed_pages": [
+        570
+      ],
+      "pdf_pages_one_based": [
+        585
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch19-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R56",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 19,
+      "author_meaning": "应收款账龄用于观察回款风险和准备需求。",
+      "boundary": "原表缺1–29天逾期栏，不能假定为零；账龄和逾期年龄也不相同。",
+      "evidence_match_phrase": "Aging",
+      "paragraph_ids": [
+        "P38-R56-PAGE597",
+        "P38-R56-ADD-PAGE596"
+      ],
+      "source_fragment_sha256": [
+        "c5a60281b04418df2eaa727899749dc4fc02399b39d16898b5878811db36feee",
+        "874fa1a1c56b113bdc3178fc7655559fc37605e7637e1c4808ea7b24491e6165"
+      ],
+      "printed_pages": [
+        582,
+        581
+      ],
+      "pdf_pages_one_based": [
+        597,
+        596
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch19-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R57",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 19,
+      "author_meaning": "现金规划需要识别最低余额及相应融资需求。",
+      "boundary": "原预算八月隐含补足6173而没有融资行；最低储备不是经营费用或凭空到账。",
+      "evidence_match_phrase": "minimum",
+      "paragraph_ids": [
+        "P38-R57-PAGE604",
+        "P38-R57-ADD-PAGE603"
+      ],
+      "source_fragment_sha256": [
+        "07dd80f73eb47bffb3ef9ea2a4ea495fc412fda0e1f9a05b1642720294bc662b",
+        "5fcc8efa79337be3fc4e11b0d5d4978b10c829b33e336c44d221b72a14bf42f1"
+      ],
+      "printed_pages": [
+        589,
+        588
+      ],
+      "pdf_pages_one_based": [
+        604,
+        603
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch19-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R58",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 20,
+      "author_meaning": "远期、期货及其他合同能够改变价格敞口，但合同安排也影响风险。",
+      "boundary": "清算和保证金减轻部分交易对手风险，不消除基差、资金与违约风险。",
+      "evidence_match_phrase": "counterparty",
+      "paragraph_ids": [
+        "P38-R58-PAGE618",
+        "P38-R58-ADD-PAGE623"
+      ],
+      "source_fragment_sha256": [
+        "f80cc7ff73608ae5dd1c1ce5f9b73236a79ac52e7855489201676b53275c54c6",
+        "a397bce0f52b2177a407d28820fdeda87da69fe3bc2c4e56b9256da3c6cecbd3"
+      ],
+      "printed_pages": [
+        603,
+        608
+      ],
+      "pdf_pages_one_based": [
+        618,
+        623
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch20-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R59",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 20,
+      "author_meaning": "期权买方取得权利，卖方承担对应义务，权利金改变净结果。",
+      "boundary": "行权条件、净利润和企业对冲总现金分别计算，先冻结币种与标的单位。",
+      "evidence_match_phrase": "option",
+      "paragraph_ids": [
+        "P38-R59-PAGE624",
+        "P38-R59-ADD-PAGE625",
+        "P38-R59-ADD-PAGE628"
+      ],
+      "source_fragment_sha256": [
+        "4cddafd89a29a1347cc2ba0bec42e653199f636ecf91449288833c3090d8946f",
+        "469b2f5398b05c3d9f327f4f5689490d450e558a63c2fc3da9f0bf779b8ee312",
+        "d72bec8468b9dbcc331ef9d82fb162ff78c2274c525ef11d2f01a79e268b16cd"
+      ],
+      "printed_pages": [
+        609,
+        610,
+        613
+      ],
+      "pdf_pages_one_based": [
+        624,
+        625,
+        628
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch20-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    },
+    {
+      "id": "P38-R60",
+      "kind": "source_book_semantic_paraphrase_with_explicit_editorial_boundary",
+      "chapter": 20,
+      "author_meaning": "利率互换把约定现金流交换，可能改变企业固定或浮动利率暴露。",
+      "boundary": "原借款仍须偿还；LIBOR历史示例不能当当前可执行合约，SOFR也不能仅替换标签。",
+      "evidence_match_phrase": "Swap",
+      "paragraph_ids": [
+        "P38-R60-PAGE632"
+      ],
+      "source_fragment_sha256": [
+        "85d4ed6c8f29cf635a8338799237d16ef2dbaf8ae7e66884508cb792abf8e2ff"
+      ],
+      "printed_pages": [
+        617
+      ],
+      "pdf_pages_one_based": [
+        632
+      ],
+      "page_anchor_basis": "Obtained2022 PDF native page text; exact original-page hash; excerpt for navigation",
+      "source_issues_file": "ch20-source-issues.json",
+      "predictive_validity_verified": false,
+      "missing_required_evidence_action": "abstain"
+    }
+  ],
+  "abstain_conditions": [
+    "报表期与首次公开时间不明",
+    "股票、ADR、币种和数量单位不清",
+    "经营现金与利润或配平现金混用",
+    "重大原书冲突尚未处理且结论依赖它",
+    "增长率或折现率只是臆定却需要准确目标价",
+    "没有已检验模型却要求方向概率",
+    "把成交量或价格派生指标当机构账户资金净流入",
+    "合约或贷款关键条款缺失"
+  ],
+  "cross_challenge_questions": [
+    "这项利润能通过现金流及营运资金变动桥接吗？",
+    "估值的现金流归谁、用哪种折现率、从什么日期开始？",
+    "债务和权益权重是否同日市场价值，费用是否重复计入？",
+    "增长需要新增多少库存、应收与资本开支，融资何时到位？",
+    "区间是均值区间还是单一观察预测区间，是否超过样本范围？",
+    "统计结果来自独立数据还是相同价格序列的重复加工？",
+    "对冲后的剩余风险、保证金现金需求及成本是多少？"
+  ],
+  "system_prompt": "你是2022 CC BY4.0《Principles of Finance》20原章完整阅读档案的证据专家，不模拟作者本人。每项观点引用本书rule/chapter/printed page/page hash，区分作者论述、独立重算、现行制度和当前观测。冻结证券/ADR、币种、单位、决策时点及信息首次可得时间。核对报表恒等式与现金桥接、回款和采购时点、市场资本权重、现金流归属、D1及r大于g条件、收益率与复利频率、统计样本及预测区间。原书数值或定义冲突须保留并引用对应issues文件，不把错误硬编码。不用配平现金证明资金已到，不用历史均值或beta给上涨概率。对冲先定义真实敞口并计算成本和剩余风险。跨挑战提出可核反证并记录修订；未解决关键分歧保留，必要数据不足则弃权。独立REGIME与账户风险层可以否决行动；本档案未证明预测有效。",
+  "output_contract": [
+    "claim_id",
+    "book_rule_refs",
+    "object_asof_horizon",
+    "author_meaning",
+    "editorial_corrections",
+    "observations",
+    "conditional_hypothesis",
+    "alternate_explanations",
+    "falsifiers",
+    "missing_inputs",
+    "revision_log",
+    "supported_partial_or_abstain"
+  ],
+  "predictive_probability": null,
+  "predictive_probabilities_calibrated": false,
+  "current_stock_direction_enabled": false,
+  "model_calls_executed": 0,
+  "risk_authority": "独立REGIME和账户风险层；历史课例与旧制度不能直接作为实时参数",
+  "source_license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "independent_QA": {
+    "status": "passed_with_source_limits",
+    "reviewer": "practical_books independent of root author",
+    "file": "独立复核.json",
+    "all20_original_chapters_and_dossiers_reviewed": true,
+    "all60_rules_reviewed": true,
+    "exact_original_full_page_contexts": 103,
+    "final_metadata_hash_confirmation": "recorded_separately_in_peer_final_status_confirmation",
+    "every_pdf_glyph_independently_proofread": false,
+    "content_merge_peer_confirmation": "source-review/P38-final-merge-verification.json"
+  }
+}

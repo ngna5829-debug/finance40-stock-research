@@ -1,0 +1,126 @@
+{
+  "book_id": "P27",
+  "chapter": 5,
+  "full_source_ranges_actually_read": [
+    [
+      0,
+      20581
+    ]
+  ],
+  "all_listed_original_page_images_actually_seen": true,
+  "additional_images_actually_seen": [
+    "ch05-critical-86.png",
+    "ch05-critical-87.png"
+  ],
+  "author_footnotes": 0,
+  "original_tables_figures": 1,
+  "gas_rate_table": {
+    "printed_pages": [
+      64,
+      65
+    ],
+    "columns": [
+      "company_count",
+      "USD_per_1000_cubic_feet"
+    ],
+    "rows": [
+      [
+        7,
+        1.0
+      ],
+      [
+        32,
+        1.5
+      ],
+      [
+        24,
+        1.75
+      ],
+      [
+        148,
+        2.0
+      ],
+      [
+        57,
+        2.25
+      ],
+      [
+        145,
+        2.5
+      ],
+      [
+        20,
+        2.75
+      ],
+      [
+        86,
+        3.0
+      ],
+      [
+        25,
+        3.5
+      ],
+      [
+        19,
+        4.0
+      ],
+      [
+        120,
+        null
+      ]
+    ],
+    "other_prices_null_not_zero": true,
+    "row_count_sum": 683,
+    "original_company_total": 683,
+    "all_cells_actual_read": true,
+    "rate_bunching_not_independent_collusion_proof": true
+  },
+  "gas_1886": {
+    "cubic_feet_original": 23050706000,
+    "USD_receipts_original": 40744673,
+    "original_average_printed_expression": "$1.76 71/100 [cent fractional part]",
+    "usual_numeric_interpretation_USD_per_M": 1.7671,
+    "recomputed_USD_per_M": 1.7676106319693636,
+    "recomputed_minus_usual_interpretation": 0.0005106319693637396,
+    "original_and_PG_same_expression_verified": true,
+    "not_silently_corrected": true,
+    "quantity_weighted_average_not_company_count_average": true
+  },
+  "cost_price_claims_cents_per_1000_cubic_feet": {
+    "US_manufacturing_range": [
+      50,
+      75
+    ],
+    "England_net_manufacturing": 30,
+    "New_England_to_holder": 38,
+    "London_South_Metropolitan_delivered_1883": 39.65,
+    "NY_delivered_counterfactual_estimate": 65,
+    "Cologne_consumer": 61,
+    "Berlin_consumer": 102,
+    "Leeds_to_holder": 22,
+    "England_19_companies_consumer_average": 52.5,
+    "England_19_companies_manufacture_average": 37.333333333333336,
+    "difference_not_net_profit": true
+  },
+  "other_historical_numbers": {
+    "commute_twice_per_day": "作者多数通勤者描述，不是逐户抽样",
+    "preferred_route_9_of_10": "作者概括，非经过说明的实测调查",
+    "NY_elevated_original_lines": 3,
+    "US_municipal_gas_works_count_author_claim": 5,
+    "cities_repeated_gas_competition_author_claim_minimum": 20,
+    "NY_competing_steam_companies": 2,
+    "hypothetical_Kansas_land_original_USD": 100,
+    "hypothetical_Kansas_land_sale_USD": 100000,
+    "hypothetical_multiple": 1000,
+    "not_verified_property_sale_or_return": true
+  },
+  "boundaries": [
+    "郊区铁路地产开篇为假设，作者明示极端行为并不常见",
+    "私人承办供水可通过招标/条件/购买选择权约束，作者没有否定所有私营",
+    "没有读完整被引用James专著，不增加读书计数",
+    "电力组织/总站普及论为旧时政策主张与前景判断",
+    "制造成本与交付成本不同，售价差不是股利",
+    "土地公共收益主张与土地间竞争限定应同时保留"
+  ],
+  "current_prediction_enabled": false
+}

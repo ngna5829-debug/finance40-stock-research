@@ -1,0 +1,126 @@
+{
+  "book_id": "P33",
+  "status": "full_independent_semantic_review_corrections_pending_not_accepted",
+  "review_time_expert_sha256": "e0fabb038ddea067f62c55e70a1d2cdf798682b74393efa1aeebbc6f05c26d52",
+  "review_time_audit_sha256": "af8635c45c27a4a281a137eb1aa840cb70ab890ac73e6c77b982a11e222302f9",
+  "required_findings": [
+    {
+      "id": "P33-QA-A01",
+      "scope": "all rules/source_supports/chapter_sources",
+      "status": "all39_rules_complete_original_contexts_candidate_and_whole_discourse_linked",
+      "finding": "Navigation global originalTXT line ranges currently attached to chapter subset path and tiny support phrase. Keep chapter navigation distinct; add exact complete substantive raw original paragraphs with byte/char/line hashes after actual rule review. One phrase/heading does not itself prove every clause."
+    },
+    {
+      "id": "P33-QA-A02",
+      "status": "required_correction",
+      "file": "ch05.md",
+      "old": "英镑交易赚五个点，即每镑五百分之一美分",
+      "new": "英镑交易赚五个点，即每镑百分之五美分，也就是零点零五美分",
+      "source_file": "source/chapters/ch05.txt",
+      "source_meaning": "five points (5/100 of a cent per pound); £10000→$5",
+      "independent_numeric_check": {
+        "cent_per_GBP": 0.05,
+        "USD_per_GBP": 0.0005,
+        "GBP10000_fee_USD": 5
+      },
+      "original_source_must_remain_unchanged": true
+    },
+    {
+      "id": "P33-QA-A03",
+      "status": "required_correction",
+      "file": "ch06.md",
+      "old": "含三分之八百分比佣金",
+      "new": "含百分之零点三七五佣金",
+      "source_file": "source/chapters/ch06.txt",
+      "source_PDF_page_actual_viewed": 100,
+      "source_printed_page_actual_viewed": 88,
+      "reason": "Originalthree-eighths percent=3/8of1%=0.375%;chinese三分之八=8/3 reversed. Original£375 and£100375 correct andmustpreserve."
+    },
+    {
+      "id": "P33-QA-A04",
+      "status": "required_terminology_correction",
+      "file": "ch07.md",
+      "old": "主权金币与金条",
+      "new": "英国索维林金币与金条",
+      "reason": "sovereign isBritishgoldpoundcoin, nottranslationofabstractsovereignty; the complete same source explains coin withface£1/newgoldmintpar."
+    },
+    {
+      "id": "P33-QA-A05",
+      "status": "required_unit_clarification",
+      "file": "ch08.md",
+      "old": "不足以证明有一元价差可赚",
+      "new": "不足以证明有一个报价点的毛差可以实际赚取",
+      "reason": "Originalbond bid99/98 usesquote points; withoutcurrency/facebasis shouldnotassertonecashmonetaryunit."
+    },
+    {
+      "id": "P33-QA-A06",
+      "status": "required_rule_meaning_precision",
+      "file": "专家定义.json",
+      "rule_id": "P33-R32",
+      "field": "independent_analysis_and_boundary and mirrored abstain_if",
+      "old": "外国总持股3至5bn原文未知，缺资料不填精确金额。",
+      "new": "欧洲在美国证券的投资总额究竟三十、四十还是五十亿美元，原文称无法确定；缺资料不填精确金额。",
+      "reason": "OriginalinvestmentinUSsecurities includesbonds notonlystockownership; originalEurope notallworldforeign."
+    },
+    {
+      "id": "P33-QA-A07",
+      "status": "required_fraction_corrections",
+      "file": "ch09.md",
+      "changes": [
+        {
+          "old": "九十日可能三分之八、四个月五分之八",
+          "new": "九十日可能百分之一的八分之三、四个月可能百分之一的八分之五"
+        },
+        {
+          "old": "六个月也只收五分之八",
+          "new": "六个月也只收百分之一的八分之五"
+        },
+        {
+          "old": "三分之八乘四个九十日约百分之一点五",
+          "new": "百分之一的八分之三乘四个九十日约百分之一点五"
+        }
+      ],
+      "source_original": "three-eighths of one per cent.;five-eighths of one per cent.",
+      "reason": "Denominator/numeratorreversed inChinese. Bothoriginalfee andannualizationnumbersmustpreserve, notchangeEnglishsource."
+    },
+    {
+      "id": "P33-QA-A08",
+      "status": "required_original_form_discrepancy_disclosure",
+      "source_PDF_page": 154,
+      "printed_page": 142,
+      "original_images_actually_viewed": [
+        "source-review/p154.png",
+        "value_team/peer-QA/P33-images/pdf154-footer-highres.png"
+      ],
+      "observation": "Creditformheader CreditNo1301 andOctober19,1909; sameformNBfooter LetterofCreditNo1310 andOctober9,1909. TrustreceiptPDF161No1301; disagreement preserved notsilentlyoneauthenticcontract. Bottom600consistent.",
+      "required_files": [
+        "ch09.md",
+        "全书综合与附录.md",
+        "source-review/form-visual-audit.json",
+        "章节与阅读审计.json"
+      ],
+      "required_addition_zh": "信用证页上方和信托收据记一三〇一，信用证底部附记却为一三一〇；页首日期十月十九日与底部十月九日也不同。样表内这些不一致保留，本次不据此确认真实、统一的交易记录。",
+      "raw_source_must_remain_unchanged": true
+    }
+  ],
+  "candidate_expert_file": "work/book-experts-v5/value_team/peer-QA/P33-expert-candidate.json",
+  "candidate_expert_sha256": "0f6b33f11c934699a1a1c23016d3fad1589054acc1db1f7dae69d01229cd6e28",
+  "all9_original_chapters_all39rules_actual_review": true,
+  "precise_context_count": 258,
+  "strict_counts": [
+    2399,
+    2398,
+    2478,
+    2176,
+    2324,
+    2687,
+    2475,
+    2161,
+    2488
+  ],
+  "strict_total_Han": 21586,
+  "minimum_Han": 2161,
+  "source_bytes_not_modified": true,
+  "canonical_modified": false,
+  "completed_utc": "2026-10-13T15:12:51.409965+00:00"
+}

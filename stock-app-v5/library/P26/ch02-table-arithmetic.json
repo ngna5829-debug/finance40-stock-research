@@ -1,0 +1,37 @@
+{
+  "book_id": "P26",
+  "chapter": 2,
+  "original_printed10_rate": 0.06,
+  "native_OCR_rate": 0.05,
+  "original_PDF20_rate6_visually_confirmed": true,
+  "inferred_daycount360_not_explicit_printed_contract": true,
+  "face": 2500,
+  "days": 87,
+  "bank_discount": 36.25,
+  "bank_discount_proceeds": 2463.75,
+  "strict_present_value": 2464.268112370626,
+  "extra_discount_difference": 0.5181123706261133,
+  "simple_annualized_rate_on_actual_proceeds": 0.060882800608828,
+  "all_original_values_match_to_cent": true,
+  "statistical_table_printed19": {
+    "year": 1890,
+    "excludes_savings_banks": true,
+    "state_banks_and_trust_companies": {
+      "number": 2250,
+      "capital_surplus_millions": 346
+    },
+    "national_banks": {
+      "number": 3540,
+      "capital_surplus_millions": 864
+    },
+    "total_number": 5790,
+    "total_capital_surplus_millions": 1210
+  },
+  "private_banker_statistic_different_date": {
+    "year": 1882,
+    "month": 11,
+    "number": 3412,
+    "not_added_to1890table": true
+  },
+  "historical_law_and_economic_definition_not_current_law": true
+}
